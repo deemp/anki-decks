@@ -15,10 +15,10 @@
         * For SQL queries
 
 ### Changes
-* Add articles of nouns
-* Add umlauts
-* Switch vebs to lowercase
-* Use card template for Android TTS support
+* Added articles of nouns
+* Added umlauts
+* Switched vebs to lowercase
+* Used card template for Android TTS support
 
 ## Contribute
 Edit [table](./De-Ru.txt) and send a pull request
