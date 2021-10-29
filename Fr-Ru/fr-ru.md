@@ -4,7 +4,12 @@
 
 [Repack](./Fr-Ru.apkg)
 
-### Tools
+## Changes
+* Removed long rules
+* Removed quotation marks
+* Used card template for Android TTS support
+
+## Tools
 * [VS Code](https://code.visualstudio.com/)
 * VS Code extensions
     * [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)
@@ -12,10 +17,6 @@
     * [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
         * For SQL queries
 
-### Changes
-* Removed long rules
-* Removed quotation marks
-* Used card template for Android TTS support
 
 ## Contribute
 Edit [table](./Fr-Ru.txt) and send a pull request

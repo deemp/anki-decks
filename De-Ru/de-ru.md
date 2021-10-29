@@ -4,21 +4,19 @@
 
 [Repack](./De-Ru.apkg)
 
-## Edits
+## Changes
+* Added articles of nouns
+* Added umlauts
+* Switched vebs to lowercase
+* Used card template for Android TTS support
 
-### Tools
+## Tools
 * [VS Code](https://code.visualstudio.com/)
 * VS Code extensions
     * [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)
         * For grammar checking
     * [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
         * For SQL queries
-
-### Changes
-* Added articles of nouns
-* Added umlauts
-* Switched vebs to lowercase
-* Used card template for Android TTS support
 
 ## Contribute
 Edit [table](./De-Ru.txt) and send a pull request
