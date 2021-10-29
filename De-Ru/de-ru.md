@@ -1,8 +1,10 @@
 # Deutch-Russisch / Немецкий-Русский / German-Russian
 
-## [Original Anki deck](https://ankiweb.net/shared/info/677598525)
+### [Source](https://ankiweb.net/shared/info/677598525)
 
-## [Repack](./De-Ru.apkg)
+## [Download](./De-Ru.apkg)
+
+### [Istruction](https://www.youtube.com/watch?v=i7r8Fqc1izs)
 
 ## Changes
 * Added articles of nouns
@@ -19,4 +21,5 @@
         * For SQL queries
 
 ## Contribute
-Edit [table](./De-Ru.txt) and send a pull request
+* Edit [table](./De-Ru.txt) and send a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+* Report mistakes [here](https://github.com/br4ch1st0chr0n3/anki-decks/discussions/1)
