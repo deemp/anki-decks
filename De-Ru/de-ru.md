@@ -1,8 +1,8 @@
 # Deutch-Russisch / Немецкий-Русский / German-Russian
 
-[Original Anki deck](https://ankiweb.net/shared/info/677598525)
+## [Original Anki deck](https://ankiweb.net/shared/info/677598525)
 
-[Repack](./De-Ru.apkg)
+## [Repack](./De-Ru.apkg)
 
 ## Changes
 * Added articles of nouns
