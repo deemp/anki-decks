@@ -17,3 +17,6 @@
 ### Changes
 * Added articles of nouns
 * Switch vebs to lowercase
+
+## Contribute
+Edit [table](./De-Ru.txt) and send a pull request
