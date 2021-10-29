@@ -7,7 +7,7 @@
 ## Changes
 * Added articles of nouns
 * Added umlauts
-* Switched vebs to lowercase
+* Switched verbs to lowercase
 * Used card template for Android TTS support
 
 ## Tools
