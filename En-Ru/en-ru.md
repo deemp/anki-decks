@@ -16,8 +16,9 @@
 
 ## Changes
 * Merged decks
+* Removed audio and transcriptions
 * Used card template for Android TTS support
-* Turned off TTS on examples
+* [Turned off](https://docs.ankidroid.org/#_workarounds) TTS on examples
 
 
 ## Tools
