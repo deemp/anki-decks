@@ -1,4 +1,4 @@
-# Français-Russe / Французский-Русский / French-Russian
+# English-Russian / Английский-Русский
 
 
 ## [Download](./En-Ru.apkg)
@@ -9,7 +9,7 @@
 
 ### Sources
 * [1](https://ankiweb.net/shared/info/799011251)
-* [2](https://ankiweb.net/shared/info/799011251)
+* [2](https://ankiweb.net/shared/info/492070811)
 * [3](https://ankiweb.net/shared/info/1651511513)
 * [4](https://ankiweb.net/shared/info/1546229992)
 
