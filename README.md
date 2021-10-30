@@ -1,6 +1,6 @@
 # Anki decks
 
-A collection of Anki decks that can be used with Google TTS on Android
+A collection of [Anki](https://apps.ankiweb.net/) decks that can be used with Google TTS on Android
 
 ## Pairs
 * [De-Ru](./De-Ru/de-ru.md)
