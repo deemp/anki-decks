@@ -3447,13 +3447,12 @@ sich beherrschen                                                 | владет�
 sich bekennen zu                                                 | исповедаться кому-либо
 sich beklagen bei                                                | пожаловаться кому-либо
 sich beklagen über                                               | пожаловаться на
-sich bemuhen um                                                  | хлопотать о
-sich bemuhen um + A                                              | хлопотать о
+sich bemühen um + A                                              | хлопотать о
 sich benehmen                                                    | вести себя, держаться
 sich beraten                                                     | советоваться
 sich beraten mit                                                 | советоваться с
 sich beruhigen                                                   | успокаивать(ся)
-sich beschaftigen mit + D                                        | заниматься чем-либо
+sich beschäftigen mit + D                                        | заниматься чем-либо
 sich beschranken auf + A                                         | ограничиваться
 sich beschränken                                                 | ограничиваться
 sich beschweren bei + D                                          | жаловаться кому-либо
@@ -3507,7 +3506,7 @@ sich senken                                                      | опуска�
 sich treffen                                                     | встречаться
 sich trennen von + D                                             | расставаться с
 sich täuschen                                                    | заблуждаться, ошибаться
-sich uberzeugen von + D                                          | убеждаться в
+sich überzeugen von + D                                          | убеждаться в
 sich umkehren                                                    | обернуться
 sich umziehen                                                    | переодеваться
 sich unterhalten                                                 | беседовать; развлекаться
