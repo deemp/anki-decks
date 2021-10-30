@@ -1,26 +1,25 @@
-# Deutch-Russisch / Немецкий-Русский / German-Russian
+# Deutch-Russisch (die Sätze) / Немецкий-Русский (Фразы) / German-Russian (Phrases)
 
 
-## [Download](./De-Ru.apkg)
+## [Download](./De-Ru-phrases.apkg)
 
 
 ### [Android instruction](https://www.youtube.com/watch?v=i7r8Fqc1izs)
 
 
-## Source
-* [1](https://ankiweb.net/shared/info/677598525)
+## Sources
+* [1](https://ankiweb.net/shared/info/1184299751)
+* [2](https://ankiweb.net/shared/info/988508924)
 
 
 ## Changes
-* Added articles of nouns
-* Added umlauts
-* Switched verbs to lowercase
+* Removed audio and IDs
 * Optimized card template for Android TTS support
 
 
 ## Further study
 * [Irregular verbs](https://ankiweb.net/shared/info/224557590)
-* [Phrases](../De-Ru-phrases/de-ru-phrases.md)
+* [Words](../De-Ru/de-ru.md)
 
 
 ## [Tools](../wiki.md#tools)

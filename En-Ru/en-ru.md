@@ -7,7 +7,7 @@
 ### [Android instruction](https://www.youtube.com/watch?v=i7r8Fqc1izs)
 
 
-### Sources
+## Sources
 * [1](https://ankiweb.net/shared/info/799011251)
 * [2](https://ankiweb.net/shared/info/492070811)
 * [3](https://ankiweb.net/shared/info/1651511513)
@@ -21,19 +21,15 @@
 * [Turned off](https://docs.ankidroid.org/#_workarounds) TTS on examples
 
 
-## Tools
-* [VS Code](https://code.visualstudio.com/)
-* VS Code extensions
-    * [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex)
-        * For grammar checking
-    * [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
-        * For SQL queries
-
 ## Further study
 * [1](https://ankiweb.net/shared/info/150475673)
 * [2](https://ankiweb.net/shared/info/2137696469)
 * [3](https://ankiweb.net/shared/info/2028750796)
 * [4](https://ankiweb.net/shared/info/1843834237)
+
+
+## [Tools](../wiki.md#tools)
+
 
 ## Contribute
 * Edit [table](./En-Ru.txt) and send a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
