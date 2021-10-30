@@ -25,6 +25,10 @@
     * [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
         * For SQL queries
 
+## Further study
+* [1](https://ankiweb.net/shared/info/224557590)
+* [2](https://ankiweb.net/shared/info/1184299751)
+* [3](https://ankiweb.net/shared/info/988508924)
 
 ## Contribute
 * Edit [table](./De-Ru.txt) and send a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
