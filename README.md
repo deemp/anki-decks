@@ -8,3 +8,4 @@ A collection of Anki decks that can be used with Google TTS on Android
 * [Fr-Ru](./Fr-Ru/fr-ru.md)
 * [Uz-Ru](./Uz-Ru/uz-ru.md)
 * [En-Ru](./En-Ru/en-ru.md)
+* [Es-Ru](./Es-Ru/es-ru.md)
