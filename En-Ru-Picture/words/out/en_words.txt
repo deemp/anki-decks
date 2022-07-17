@@ -1,0 +1,874 @@
+catch
+clap
+dance
+hop
+jump
+run
+skip
+touch
+walk
+wave
+blow
+dig
+follow
+hide
+hug
+laugh
+look
+shout
+smell
+taste
+argue
+crawl
+dream
+leave
+pat
+pull
+say sorry
+scream
+turn around
+wait
+whisper
+yawn
+Anubis
+Bastet
+Ra
+Thoth
+cobra
+hieroglyphs
+pyramids
+tomb
+beak
+claws
+feathers
+fins
+fur
+shell
+tail
+wing
+fang
+hoof
+horn
+jaws
+paws
+scales
+snout
+whiskers
+dove
+duck
+eagle
+emu
+flamingo
+owl
+parrot
+robin
+turkey
+vulture
+balloons
+birthday cake
+candles
+make a wish
+party
+party hats
+present
+streamers
+ant
+bee
+beetle
+butterfly
+caterpillar
+cockroach
+dragonfly
+fly
+grasshopper
+ladybird
+mosquito
+spider
+clean the car
+cook
+make the bed
+sweep the floor
+tidy
+walk the dog
+do the laundry
+do the washing up
+dry the dishes
+dust
+iron
+lay the table
+mop the floor
+vacuum
+acrobat
+clown
+juggler
+magician
+ringmaster
+strongman
+tightrope walker
+trapeze artist
+be quiet
+colour
+help
+listen
+play
+point
+sing
+sit down
+stand up
+trace
+circle
+cut
+draw a line
+number
+say
+tick
+underline
+write
+bag
+belt
+cap
+glasses
+gloves
+hat
+headscarf
+scarf
+sunglasses
+watch
+coat
+dress
+jacket
+jeans
+jumper
+sandals
+shirt
+shoes
+skirt
+socks
+t-shirt
+trousers
+blouse
+boots
+cardigan
+flip flops
+pyjamas
+shorts
+slippers
+tie
+tights
+trainers
+underpants
+vest
+black
+blue
+brown
+green
+grey
+orange
+pink
+purple
+red
+white
+yellow
+clean my teeth
+do homework
+get dressed
+get up
+go home
+go to bed
+go to school
+have a shower
+have breakfast
+have dinner
+have lunch
+wake up
+beautiful
+clean
+dirty
+fat
+old
+short
+tall
+thin
+ugly
+young
+big
+far
+fast
+long
+near
+short
+slow
+small
+strong
+weak
+Baryonyx
+Brachiosaurus
+Diplodocus
+Giganotosaurus
+Iguanodon
+Stegosaurus
+Triceratops
+Troodon
+Tyrannosaurus rex
+Velociraptor
+cross the road
+follow the signs
+go along the road
+go over the bridge
+go past
+go round the roundabout
+go straight on
+go through the tunnel
+read the map
+stop
+turn left
+turn right
+Easter bunnies
+Easter eggs
+basket
+chicks
+chocolates
+hot cross buns
+lamb
+nest
+angry
+bored
+happy
+hungry
+sad
+thirsty
+tired
+worried
+confused
+embarrassed
+excited
+scared
+shocked
+surprised
+alternative energy
+chemical waste
+deforestation
+global warming
+littering
+melting ice caps
+polluted rivers
+pollution
+recycling
+batteries
+brush
+bucket
+camera
+comb
+lightbulb
+soap
+tin
+toothbrush
+toothpaste
+torch
+towel
+cork
+hammer
+map
+pin
+rope
+saw
+screw
+shopping bag
+shopping trolley
+tissue
+umbrella
+book
+box
+cage
+calendar
+comic
+flag
+keyrings
+ladder
+rubbish bin
+sack
+telephone
+tent
+castle
+crown
+gold
+jewels
+king
+knight
+prince
+princess
+queen
+sword
+throne
+tower
+baby
+brother
+family
+father
+grandfather
+grandmother
+mother
+sister
+cake
+chicken
+chips
+fish
+hamburger
+noodles
+pasta
+pie
+pizza
+sandwich
+sausage
+toast
+biscuits
+bread
+cheese
+chocolate
+crisps
+eggs
+ice cream
+meat
+nuts
+rice
+sweets
+yogurt
+do crafts
+go fishing
+go hiking
+paint a picture
+play board games
+play cards
+play dress up
+read a book
+ride a bike
+watch T.V.
+climb trees
+go rollerblading
+go skateboarding
+have a party
+knit
+listen to music
+play an instrument
+play on the computer
+sew
+write emails
+armchair
+bath
+bed
+bookcase
+chair
+cupboard
+fridge
+oven
+shower
+sofa
+table
+wardrobe
+bat
+black cat
+pumpkin
+skeleton
+spider
+witch
+cauldron
+ghost
+haunted house
+monster
+mummy
+wizard
+a cut
+broken leg
+cold
+cough
+dizzy
+earache
+fever
+headache
+sneeze
+sore throat
+toothache
+tummyache
+go camping
+go sightseeing
+have a picnic
+make a sandcastle
+pack a bag
+play beach volleyball
+ride on a rollercoaster
+row a boat
+snorkel
+stay in a hotel
+take photos
+write a postcard
+TV
+bin
+box
+clock
+cushion
+lamp
+mirror
+picture
+rug
+shelf
+sink
+tap
+dancer
+dentist
+doctor
+farmer
+firefighter
+nurse
+pilot
+police officer
+singer
+taxi driver
+teacher
+vet
+actor
+artist
+astronaut
+butcher
+chef
+engineer
+mechanic
+photographer
+plumber
+postal worker
+sailor
+zoo-keeper
+bottle
+bowl
+chopsticks
+cup
+fork
+glass
+knife
+plate
+saucepan
+spoon
+straw
+tray
+Big Ben
+Eiffel Tower
+Leaning Tower of Pisa
+Pyramids
+Stonehenge
+Sydney Opera House
+Angkor Wat
+Ayers Rock
+Colosseum
+Great Wall of China
+London Eye
+Statue of Liberty
+Tower Bridge
+centaur
+dragon
+fairy
+genie
+giant
+griffin
+mermaid
+minotaur
+ogre
+unicorn
+eight
+five
+four
+nine
+one
+seven
+six
+ten
+three
+two
+eighty
+fifty
+forty
+ninety
+one hundred
+seventy
+sixty
+ten
+thirty
+twenty
+eighteen
+eleven
+fifteen
+fourteen
+nineteen
+seventeen
+sixteen
+thirteen
+twelve
+twenty
+archery
+athletics
+diving
+gymnastics
+handball
+judo
+rugby
+sailing
+table tennis
+weightlifting
+fencing
+high jump
+hurdles
+javelin
+long jump
+marathon
+rowing
+trampolining
+waterpolo
+wrestling
+balcony
+ceiling
+door
+floor
+roof
+stairs
+wall
+window
+cheek
+chin
+ear
+eye
+face
+hair
+head
+mouth
+neck
+nose
+teeth
+tongue
+arm
+foot
+hand
+head
+knee
+leg
+shoulders
+ankle
+back
+body
+feet
+finger
+heel
+thumb
+toes
+budgie
+cat
+dog
+goldfish
+guinea pig
+hamster
+mouse
+rabbit
+Jolly Roger
+island
+mermaid
+message in a bottle
+parrot
+pirate
+pirate ship
+shipwreck
+treasure chest
+treasure map
+beach
+desert
+field
+forest
+lake
+mountain
+river
+sea
+cave
+hill
+island
+pond
+rainforest
+the Arctic
+volcano
+wetlands
+bookshop
+cinema
+factory
+park
+playground
+school
+shop
+stadium
+supermarket
+train station
+zoo
+airport
+apartments
+baker's
+bank
+butcher's
+fairground
+farm
+florist
+hairdresser's
+library
+sports centre
+theatre
+bridge
+gate
+path
+signpost
+statue
+street
+tunnel
+apartment
+camper van
+caravan
+castle
+farm
+hotel
+house
+igloo
+tent
+behind
+between
+in
+in front of
+next to
+on
+opposite
+under
+crocodile
+frog
+lizard
+scorpion
+snail
+snake
+tortoise
+turtle
+bathroom
+bedroom
+dining room
+garage
+garden
+hall
+kitchen
+living room
+English
+IT
+PE
+art
+drama
+geography
+history
+maths
+music
+science
+bag
+board
+crayons
+desk
+eraser
+pen
+pencil
+ruler
+calculator
+felt tips
+folder
+glue
+notebook
+paper
+pencil case
+scissors
+sharpener
+stickers
+circle
+diamond
+heart
+hexagon
+oval
+pentagon
+rectangle
+square
+star
+triangle
+Earth
+alien
+asteroid
+comet
+flying saucer
+galaxy
+moon
+planet
+rocket
+solar system
+stars
+sun
+BMX biking
+bungee jumping
+canoeing
+caving
+parachuting
+rock climbing
+ski jumping
+skiing
+snowboarding
+surfing
+badminton
+basketball
+football
+hockey
+swimming
+table tennis
+tennis
+bowling
+cycling
+golf
+horse riding
+rugby
+volleyball
+bat
+football
+football kit
+goggles
+golf club
+helmet
+hockey stick
+net
+oars
+pads
+racquet
+skis and poles
+computer
+computer game
+internet
+keyboard
+mobile phone
+mouse
+plug
+tablet
+eleven o'clock
+five past ten
+five to twelve
+half past five
+quarter past eight
+quarter to two
+ten past nine
+ten to one
+twenty past seven
+twenty to three
+twenty-five past six
+twenty-five to four
+ball
+bat
+doll
+football
+kite
+robot
+scooter
+teddy
+board game
+bricks
+drum
+frisbee
+marbles
+paintbox
+puppet
+puzzle
+bike
+boat
+bus
+car
+helicopter
+lorry
+plane
+train
+camper van
+caravan
+hot air balloon
+jeep
+jet
+motorbike
+ship
+submarine
+underground
+van
+crab
+fish
+jellyfish
+octopus
+seahorse
+shark
+starfish
+whale
+dolphin
+lobster
+oyster
+penguin
+piranha
+seal
+squid
+walrus
+carrot
+corn
+green beans
+mushrooms
+onion
+peas
+potato
+tomato
+aubergine
+broccoli
+cabbage
+courgettes
+cucumber
+leeks
+lettuce
+pepper
+cloudy
+cold
+hot
+raining
+snowing
+stormy
+sunny
+windy
+boiling
+flood
+foggy
+freezing
+hailing
+hurricane
+icy
+tornado
+warm
+camel
+elephant
+giraffe
+hippo
+kangaroo
+lion
+monkey
+panda
+tiger
+zebra
+antelope
+cheetah
+chimpanzee
+fox
+koala
+leopard
+polar bear
+rhino
+squirrel
+wolf
+aardvark
+coyote
+deer
+hare
+hyena
+lemur
+meerkat
+orangutan
+sloth
+yak
