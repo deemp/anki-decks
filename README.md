@@ -9,3 +9,4 @@ A collection of [Anki](https://apps.ankiweb.net/) decks that can be used with Go
 * [Uz-Ru](./Uz-Ru/uz-ru.md)
 * [En-Ru](./En-Ru/en-ru.md)
 * [Es-Ru](./Es-Ru/es-ru.md)
+* [En-Ru-Picture](./En-Ru-Picture/README.md)
