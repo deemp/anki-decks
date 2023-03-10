@@ -12,6 +12,13 @@ If one of the languagues is not <code>English</code>, it means that the <code>fr
 
 Here's the <a href="https://github.com/deemp/anki-decks">source code</a> for this deck.
 
+<b>Screenshots</b>
+
+<div>
+<img src="https://github.com/deemp/anki-decks/blob/main/stories/README/ankidroid.jpg?raw=true" width = "28%">
+<img src="https://github.com/deemp/anki-decks/blob/main/stories/README/anki_desktop.png?raw=true" width = "70%">
+</div>
+
 <b>Card fields</b>
 
 - <code>sentence_id</code> - sentence identifier
@@ -24,13 +31,14 @@ Here's the <a href="https://github.com/deemp/anki-decks">source code</a> for thi
 - <code>to_next</code> - next sentence in <code>to</code> language
 - <code>from_title</code> - story title in <code>from</code> language
 - <code>to_title</code> - story title in <code>to</code> language
-- <code>from_tokens_number</code> - number of tokens ({number of space characters like <code> </code>} 1) in <code>from</code> card field. Approximately equals to the number of words in a sentence.
+- <code>from_tokens_number</code> - number of tokens in <code>from</code> card field. This number approximately equals to the number of words in a sentence. It's calculated as the number of space characters (like <code> </code>) in a sentence + 1
 - <code>to_tokens_number</code> - same for the <code>to</code> language.
 
 <b>Search</b>
 
 You can search via card fields.
-See the <a href="https://docs.ankiweb.net/searching.html">official manual</a>. Try to understand the <code>Regular Expressions</code> section.
+See the <a href="https://docs.ankiweb.net/searching.html">official manual</a>.
+Try to understand the <code>Regular Expressions</code> section.
 
 <b>Search examples</b>
 <ul>
@@ -47,5 +55,11 @@ If you'd like to study a specific set of cards, make a <a href="https://docs.ank
 You can change <a href="https://docs.ankiweb.net/templates/intro.html">card templates</a>.
 
 As this deck doesn't provide audio, you should set up <a href="https://docs.ankiweb.net/templates/fields.html#text-to-speech">TTS</a>. You may want to use an <a href="https://ankiweb.net/shared/info/111623432">addon</a>.
+
+In <code>AnkiDroid</code>, go to <code>Settings -> Advanced -> Plugins -> Text to speech</code> and check the box.
+
+<b>Contribute</b>
+
+If you notice any errors, please go to the <a href="https://github.com/deemp/anki-decks">repository</a>, <code>fork</code> it, edit a file in <code>stories/data/sentences</code> and make a <code>Pull Request</code>.
 
 <b>I wish you productive study!</b>
