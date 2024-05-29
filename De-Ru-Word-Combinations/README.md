@@ -1,22 +1,23 @@
 # Deutsch-Russisch (Wortverbindungen) / Немецкий-Русский (Словосочетания)
 
-## Sources
+This deck provides word combinations in German and their translations in Russian.
 
-1. <https://ankiweb.net/shared/info/608994707>
-1. <https://chat.openai.com/>
-
-## Changes
-
-- Generated word combinations for each word
+Read the more detailed deck description on AnkiWeb ([link](https://ankiweb.net/shared/info/2147373647)).
 
 ## Download
 
-- From the repository ([link](./deck.apkg))
 - From AnkiWeb ([link](https://ankiweb.net/shared/info/2147373647))
+- From the repository ([link](./deck.apkg))
 
 ## Usage
 
 - [Android](https://www.youtube.com/watch?v=i7r8Fqc1izs)
+
+## Sound
+
+This deck doesn't provide audio files.
+
+However, you can use Text to Speech (see [docs](https://docs.ankiweb.net/templates/fields.html#text-to-speech-for-individual-fields)).
 
 ## Contribute
 
