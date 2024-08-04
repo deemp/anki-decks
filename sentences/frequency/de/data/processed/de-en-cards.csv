@@ -1,17 +1,17 @@
 1|art|der|the|Der Hund ist groß.|The dog is big.
 1|pron|der|that, those|Der Mann ist glücklich.|That man is happy.
-1|pron|der|who, that|Der Lehrer, der spricht.|The teacher who speaks.
+1|pron|der|who, that|Der Lehrer, der spricht, ist hier.|The teacher who speaks is here.
 2|conj|und|and|Er und ich sind Freunde.|He and I are friends.
 3|prep|in|in|Er ist in der Schule.|He is in the school.
 4|aux|sein, ist, war, ist gewesen|(past tense)|Sie war in Berlin.|She was in Berlin.
 4|verb|sein, ist, war, ist gewesen|to be|Er ist mein Bruder.|He is my brother.
 5|art|ein|a, an|Ein Apfel ist rot.|An apple is red.
-5|pron|ein|one (of)|Ein Hund, ein Freund.|One dog, one friend.
+5|pron|ein|one (of)|Ein Hund, der ein Freund ist.|One dog, which is a friend.
 6|aux|haben, hat, hatte, hat gehabt|(past tense)|Sie hatte ein Buch.|She had a book.
 6|verb|haben, hat, hatte, hat gehabt|to have|Ich habe einen Hund.|I have a dog.
 7|pron|sie|she, her|Sie liebt ihre Katze.|She loves her cat.
 7|pron|sie|they, them|Sie sind meine Freunde.|They are my friends.
-7|pron|sie|you|Warten Sie hier.|You wait here.
+7|pron|sie|you|Sie warten hier.|You wait here.
 8|aux|werden, wird, wurde, ist geworden|(future tense)|Es wird regnen.|It will rain.
 8|aux|werden, wird, wurde, ist geworden|(passive voice)|Ein Haus wird gebaut.|A house is being built.
 8|verb|werden, wird, wurde, ist geworden|to become, get|Er wird müde.|He becomes tired.
@@ -48,7 +48,7 @@
 31|part|aber||Das ist aber komisch.|But that is strange.
 32|pron|man|one, you, they|Man sagt, es ist gut.|They say it is good.
 33|adv|noch|still, yet|Es ist noch früh.|It is still early.
-34|prep|nach|after, toward|Nach der Schule.|After the school.
+34|prep|nach|after, toward|Nach der Schule.|After school.
 35|conj|oder|or|Willst du Tee oder Kaffee?|Do you want tea or coffee?
 36|pron|all|all|Alle kommen hierher.|All come here.
 37|prep|aus|out, out of, from|Er kommt aus Spanien.|He comes from Spain.
@@ -64,7 +64,7 @@
 46|pron|kein|no|Ich habe kein Geld.|I have no money.
 47|prep|über|above, over, about|Das Buch ist über Hunde.|The book is about dogs.
 48|adv|da|there|Er ist da drüben.|He is over there.
-48|conj|da|because|Er kam da er müde war.|He came because he was tired.
+48|conj|da|because|Er kam, da er müde war.|He came because he was tired.
 49|verb|geben, gibt, gab, hat gegeben|to give|Sie gibt ihm ein Buch.|She gives him a book.
 50|prep|vor|in front of, before, ago|Vor dem Haus steht ein Baum.|There is a tree in front of the house.
 51|pron|mein|my, mine|Mein Hund ist krank.|My dog is sick.
@@ -95,7 +95,7 @@
 73|adv|doch|however, but|Es ist teuer, doch schön.|It is expensive, but beautiful.
 73|part|doch||Ich habe es doch gesagt.|I told you so.
 74|adv|wieder|again|Er kommt wieder.|He comes again.
-75|pron|uns|us, we|Wir sind Freunde.|We are friends.
+75|pron|uns|us, we|Gib uns das Buch.|Give us the book.
 76|adj|gut|good|Das ist gut.|That is good.
 77|conj|bis|until|Warte bis morgen.|Wait until tomorrow.
 77|prep|bis|until, till|Ich bleibe bis acht Uhr.|I stay until eight o'clock.
