@@ -1,0 +1,197 @@
+|frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_english
+0|1|art|der|the|Der Hund ist groß.|The dog is big.
+1|1|pron|der|that, those|Der Mann ist glücklich.|That man is happy.
+2|1|pron|der|who, that|Der Lehrer, der spricht, ist hier.|The teacher who speaks is here.
+5|4|aux|sein, ist, war, ist gewesen|(past tense)|Er ist früh nach Hause gekommen.|He came home early.
+6|4|verb|sein, ist, war, ist gewesen|to be|Er ist mein Bruder.|He is my brother.
+7|5|art|ein|a, an|Ein Apfel ist rot.|An apple is red.
+8|5|pron|ein|one (of)|Eines der Autos ist kaputt.|One of the cars is broken.
+9|6|aux|haben, hat, hatte, hat gehabt|(past tense)|Sie hatte ein Buch.|She had a book.
+10|6|verb|haben, hat, hatte, hat gehabt|to have|Ich habe einen Hund.|I have a dog.
+11|7|pron|sie|she, her|Sie liebt ihre Katze.|She loves her cat.
+12|7|pron|sie|they, them|Sie sind meine Freunde.|They are my friends.
+13|7|pron|sie|you|Sie warten hier.|You wait here.
+14|8|aux|werden, wird, wurde, ist geworden|(future tense)|Es wird regnen.|It will rain.
+15|8|aux|werden, wird, wurde, ist geworden|(passive voice)|Ein Haus wird gebaut.|A house is being built.
+16|8|verb|werden, wird, wurde, ist geworden|to become, get|Er wird müde.|He becomes tired.
+29|21|part|zu|to|Ich habe keine Zeit, zu kommen.|I don't have time to come.
+30|21|part|zu|too|Zu viel Zucker.|Too much sugar.
+31|21|prep|zu|to|Er ging zu ihr.|He went to her.
+32|22|conj|als|as, when|Als er kam, ging sie.|As he came, she left.
+33|22|part|als|than|Größer als er.|Taller than him.
+36|25|part|wie|as|Er arbeitet wie ein Pferd.|He works like a horse.
+37|25|pron|wie|how|Wie heißt du?|What is your name?
+39|27|pron|ihr|her, their, hers, theirs|Ihre Katze ist süß.|Her cat is cute.
+40|27|pron|ihr|you, her|Das ist ihr Buch.|That is her book.
+41|27|pron|ihr|your|Ist das Ihr Auto?|Is that your car?
+42|28|adv|so|so, thus, the way, such|Es ist so kalt.|It is so cold.
+43|28|part|so|so|Es war nicht so.|It wasn't so.
+46|31|conj|aber|but|Es ist teuer, aber schön.|It is expensive but beautiful.
+47|31|part|aber||Das ist aber komisch.|But that is strange.
+60|44|conj|um|in order to|Um zu verstehen, lerne.|Learn in order to understand.
+61|44|prep|um|around, at|Er ging um die Ecke.|He went around the corner.
+65|48|adv|da|there|Er ist da drüben.|He is over there.
+66|48|conj|da|because|Er kam, da er müde war.|He came because he was tired.
+79|61|adv|schon|already|Er ist schon da.|He is already there.
+80|61|part|schon||Der Test war schon schwierig.|The test was really difficult.
+84|65|(Reflexive pronoun in the acc.)|mich||Er schaut mich an.|He looks at me.
+85|65|pron|mich|me|Ich sehe mich im Spiegel.|I see myself in the mirror.
+89|69|adj|ganz|whole, all the|Das ganze Buch.|The whole book.
+90|69|part|ganz|quite|Es ist ganz schön hier.|It is quite nice here.
+94|73|adv|doch|however, but|Es ist teuer, doch schön.|It is expensive, but beautiful.
+95|73|part|doch||Ich habe es doch gesagt.|I told you so.
+99|77|conj|bis|until|Ich warte hier, bis er kommt.|I’ll wait here until he comes.
+100|77|prep|bis|until, till|Ich bleibe bis acht Uhr.|I stay until eight o'clock.
+105|82|conj|Mal|times|Ein mal eins ist eins.|One times one equals one.
+106|82|das|Mal|time, mark|Das erste Mal ist immer besonders.|The first time is always special.
+107|82|Mal|part||Wir waren mal in Paris.|We were in Paris once.
+118|93|conj|denn|because|Er kommt, denn er muss.|He comes because he must.
+119|93|part|denn|anyway|Was denn?|What anyway?
+123|97|adj|lang|long|Der Fluss ist lang.|The river is long.
+124|97|adv|lang|for a long time|Er wartet schon lange.|He has been waiting for a long time.
+128|101|part|selbst, selber|even|Er hat es selbst gemacht.|He did it himself.
+129|101|pron|selbst, selber|-self|Selbst ich kann das.|Even I can do that.
+130|102|adj|wenig|few|Er hat wenig Geld.|He has little money.
+131|102|pron|wenig|little, few|Es gibt wenig Hoffnung.|There is little hope.
+141|112|adj|deutsch|German|Das deutsche Auto.|The German car.
+142|112|das|deutsch|German|Er lernt Deutsch in der Schule.|He learns German at school.
+150|120|conj|ohne|without|Ohne dich kann ich nicht.|Without you, I can't.
+151|120|prep|ohne|without|Wir fahren ohne dich.|We are going without you.
+156|125|pron|ihnen|them|Ich gebe ihnen das Buch.|I give them the book.
+157|125|pron|ihnen|you|Ich habe Ihnen geholfen.|I helped you.
+163|131|adj|einfach|simple, easy|Einfach und klar.|Simple and clear.
+164|131|part|einfach|simply|Das ist einfach toll.|That is simply great.
+165|132|adv|erst|first, only, not until|Ich komme erst morgen.|I will come only tomorrow.
+166|132|part|erst||Zuerst die Arbeit.|Work first.
+171|137|adj|natürlich|natural|Das ist natürlich.|That is natural.
+172|137|adv|natürlich|naturally, of course|Natürlich komme ich.|Of course I come.
+180|145|adv|vielleicht|perhaps, maybe|Vielleicht kommt er.|Maybe he comes.
+181|145|part|vielleicht||Das ist vielleicht wahr.|That is perhaps true.
+187|151|adj|eigentlich|actual, real|Das ist eigentlich gut.|That is actually good.
+188|151|adv|eigentlich|actually|Eigentlich mag ich es.|Actually, I like it.
+189|151|part|eigentlich||Das ist eigentlich wahr.|That is actually true.
+197|159|adj|gerade|straight|Ein gerades Haus.|A straight house.
+198|159|adv|gerade|just, just now, right now|Ich mache es gerade.|I am doing it right now.
+208|169|adj|spät|late|Es ist schon spät.|It is already late.
+209|169|adj|spät|later|Später werde ich kommen.|I will come later.
+211|171|adj|möglich|possible|Das ist möglich.|That is possible.
+212|171|adv|möglich|as . . . as possible, if possible|So schnell wie möglich.|As fast as possible.
+214|173|conj|während|while, whereas|Während ich lese, höre ich Musik.|While I read, I listen to music.
+215|173|prep|während|during, while|Während des Tages arbeite ich.|During the day, I work.
+223|181|adv|etwa|about, approximately|Etwa zehn Minuten.|About ten minutes.
+224|181|part|etwa|after all|Etwa ist es zu spät.|After all, it is too late.
+232|189|adj|wirklich|real, actual|Ist das wirklich wahr?|Is that really true?
+233|189|adv|wirklich|really, actually|Ich bin wirklich müde.|I am really tired.
+240|196|adv|eben, ebend|just, now|Das ist eben so.|That is just how it is.
+241|196|part|eben, ebend||Das war eben so.|That's just how it was.
+273|228|verb|setzen, setzt, setzte, hat gesetzt|to set, place, put|Er setzt das Glas auf den Tisch.|He sets the glass on the table.
+274|228|verb|setzen, setzt, setzte, hat gesetzt|to sit down|Er setzt sich auf den Stuhl.|He sits down on the chair.
+287|241|das|das Paar, -e|pair, couple|Ein glückliches Paar.|A happy couple.
+288|241|pron|das Paar, -e|a few|Ich habe ein paar Fragen.|I have a few questions.
+289|242|adj|das Recht, -e|all right|Sie hat das Recht zu wählen.|She has the right to vote.
+290|242|das|das Recht, -e|right, law|Das Recht ist wichtig.|The law is important.
+291|242|part|das Recht, -e|rather, quite|Es ist recht schwierig.|It is rather difficult.
+310|261|adv|wohl|well|Er fühlt sich wohl.|He feels well.
+311|261|part|wohl|probably|Wohl wird es regnen.|It will probably rain.
+340|290|adj|der Wert, -e|worth|Der Wert dieser Münze ist hoch.|The value of this coin is high.
+341|290|der|der Wert, -e|value|Das hat keinen Wert.|That has no worth.
+347|296|adj|rund|round|Die Erde ist rund.|The Earth is round.
+348|296|adv|rund|approximately|Rund 100 Leute kamen.|Approximately 100 people came.
+364|312|adv|je|ever, each|Je mehr, desto besser.|The more, the better.
+365|312|conj|je|the more|Je mehr, desto besser.|The more, the better.
+378|325|adv|die Nacht, -̈e|at night, nights|Die Nacht war ruhig.|The night was calm.
+379|325|die|die Nacht, -̈e|night|Die Nacht ist dunkel.|The night is dark.
+396|342|adv|der Abend, -e|in the evening|Der Abend war schön.|The evening was beautiful.
+397|342|der|der Abend, -e|evening|Der Abend beginnt früh.|The evening begins early.
+467|412|das|pro|pro|Das ist pro Person.|That is per person.
+468|412|prep|pro|per|Der Preis ist pro Stunde.|The price is per hour.
+536|480|adj|nahe, nah|near(by), close|Das Haus ist nah.|The house is near.
+537|480|prep|nahe, nah|near, close to|Wir wohnen nahe der Stadt.|We live near the city.
+550|493|adj|wahrscheinlich|likely, probable|Das ist wahrscheinlich.|That is likely.
+551|493|adv|wahrscheinlich|probably, likely|Es wird wahrscheinlich regnen.|It will probably rain.
+661|603|das|verhalten|behavior|Das Verhalten ist seltsam.|The behavior is strange.
+662|603|verb|verhalten|to behave, act|Er verhält sich gut.|He behaves well.
+680|621|adv|der Morgen, -|in the morning|Der Morgen ist schön.|The morning is beautiful.
+681|621|der|der Morgen, -|morning|Der Morgen ist schön.|The morning is beautiful.
+689|629|adj|okay|okay|Das ist okay.|That is okay.
+690|629|das|okay|okay|Alles ist okay.|Everything is okay.
+715|654|das|auftreten, tritt auf, trat auf, ist aufgetreten|behavior, conduct, occurrence, appearance|Sein Auftreten war höflich.|His behavior was polite.
+716|654|verb|auftreten, tritt auf, trat auf, ist aufgetreten|to appear, occur|Er tritt auf der Bühne auf.|He appears on the stage.
+724|662|adj|englisch|английский|Das englische Buch ist interessant.|The English book is interesting.
+725|662|das|englisch|English|Das Buch ist auf Englisch.|The book is in English.
+804|741|adj|bloß|bare, mere|Es ist bloß ein Kratzer.|It is just a scratch.
+805|741|adv|bloß|only, simply, just|Ich bin bloß müde.|I am simply tired.
+826|762|adj|schlimm|bad, serious|Das ist schlimm.|That is bad.
+827|762|adj|schlimm|worse|Es wurde schlimmer.|It got worse.
+872|807|das|lächeln, lächelt, lächelte, hat gelächelt|smile|Das Lächeln ist schön.|The smile is beautiful.
+873|807|verb|lächeln, lächelt, lächelte, hat gelächelt|to smile|Sie lächelt immer.|She always smiles.
+882|816|adj|französisch|French|Ich spreche Französisch.|I speak French.
+883|816|das|französisch|French|Er spricht Französisch.|He speaks French.
+898|831|adj|russisch|Russian|Das ist russisch.|That is Russian.
+899|831|das|russisch|Russian|Ich spreche Russisch.|I speak Russian.
+1041|973|das|schweigen, schweigt, schwieg, hat geschwiegen|silence|Das Schweigen war lang.|The silence was long.
+1042|973|verb|schweigen, schweigt, schwieg, hat geschwiegen|to remain silent|Sie schweigt.|She remains silent.
+1060|991|adj|ruhig|quiet, calm|Der See ist ruhig.|The lake is calm.
+1061|991|part|ruhig|really|Sei ruhig.|Be quiet.
+1095|1025|das|das Band, -̈er|ribbon, tape|Das Band ist rot.|The ribbon is red.
+1096|1025|der|das Band, -̈er|volume, tome|Das Band ist interessant.|The volume is interesting.
+1097|1025|die|das Band, -̈er|band (musical)|Die Band spielt gut.|The band plays well.
+1194|1122|das|vertrauen, vertraut, vertraute, hat vertraut|trust, faith|Ich habe Vertrauen in dich.|I have trust in you.
+1195|1122|verb|vertrauen, vertraut, vertraute, hat vertraut|to trust|Ich vertraue dir.|I trust you.
+1227|1154|adj|chinesisch|Chinese|Das Essen ist chinesisch.|The food is Chinese.
+1228|1154|das|chinesisch|Chinese|Er lernt Chinesisch.|He is learning Chinese.
+1374|1300|adv|das Leid|(be) tired (of)|Ich bin des Wartens leid.|I am tired of waiting.
+1375|1300|das|das Leid|sorrow, grief|Das Leid war groß.|The sorrow was great.
+1392|1317|der|der See, -n|lake|Der See ist klar.|The lake is clear.
+1393|1317|die|der See, -n|sea|Die See ist ruhig.|The sea is calm.
+1562|1486|adj|griechisch|Greek|Das Essen ist griechisch.|The food is Greek.
+1563|1486|das|griechisch|Greek|Er spricht Griechisch.|He speaks Greek.
+1601|1524|das|das Steuer, -|steering wheel, helm|Er greift das Steuer.|He grabs the steering wheel.
+1602|1524|die|das Steuer, -|tax|Die Steuer ist hoch.|The tax is high.
+1609|1531|adj|türkisch|Turkish|Das Essen ist türkisch.|The food is Turkish.
+1610|1531|das|türkisch|Turkish|Er kocht türkisch.|He cooks Turkish food.
+1662|1583|adj|die Schuld, -en|guilty|Die Schuld liegt bei ihm.|The guilt lies with him.
+1663|1583|die|die Schuld, -en|guilt|Die Schuld war groß.|The guilt was big.
+1673|1593|adj|italienisch|Italian|Das Essen ist italienisch.|The food is Italian.
+1674|1593|das|italienisch|Italian|Er spricht Italienisch.|He speaks Italian.
+1703|1622|der|der Leiter, -|leader|Der Leiter ist verantwortlich.|The leader is responsible.
+1704|1622|die|der Leiter, -|ladder|Die Leiter ist lang.|The ladder is long.
+2001|1919|adj|spanisch|Spanish|Das spanische Essen ist lecker.|The Spanish food is delicious.
+2002|1919|das|spanisch|Spanish|Er spricht Spanisch.|He speaks Spanish.
+2242|2159|adj|arabisch|Arabian, Arabic|Das arabische Essen ist lecker.|The Arabic food is tasty.
+2243|2159|das|arabisch|Arabic|Er lernt Arabisch.|He learns Arabic.
+2513|2429|adv|das Plus, -|plus|Das Plus ist wichtig.|The plus is important.
+2514|2429|conj|das Plus, -|plus|Das ist ein Plus.|That is a plus.
+2515|2429|das|das Plus, -|plus|Das Plus ist offensichtlich.|The plus is obvious.
+2591|2505|das|das Erbe|heritage|Das Erbe ist wertvoll.|The heritage is valuable.
+2592|2505|der|das Erbe|heir|Er ist das Erbe.|He is the heir.
+2675|2588|adj|der Hamburger, -|Hamburg|Der Hamburger Hafen ist groß.|The Hamburg port is large.
+2676|2588|der|der Hamburger, -|hamburger|Der Hamburger schmeckt gut.|The hamburger tastes good.
+2811|2723|adj|schwedisch|Swedish|Sie ist schwedisch.|She is Swedish.
+2812|2723|das|schwedisch|Swedish|Schwedisch ist schwer zu lernen.|Swedish is hard to learn.
+2832|2743|adj|niederländisch|Dutch|Er spricht Niederländisch.|He speaks Dutch.
+2833|2743|das|niederländisch|Dutch|Niederländisch ist leicht zu lernen.|Dutch is easy to learn.
+2853|2763|der|der Hut, -̈e|hat|Der Hut ist elegant.|The hat is elegant.
+2854|2763|die|der Hut, -̈e|guard, alert|Er steht auf der Hut.|He is on guard.
+2931|2840|adj|japanisch|Japanese|Die japanische Kultur ist faszinierend.|The Japanese culture is fascinating.
+2932|2840|das|japanisch|Japanese|Das Essen ist japanisch.|The food is Japanese.
+2948|2856|adv|das Zuhause|at home|Er fühlt sich zuhause.|He feels at home.
+2949|2856|das|das Zuhause|home|Das Zuhause ist gemütlich.|The home is cozy.
+2955|2862|adj|dänisch|Danish|Die dänische Flagge ist rot und weiß.|The Danish flag is red and white.
+2956|2862|das|dänisch|Danish|Er lernt Dänisch.|He is learning Danish.
+3013|2919|das|der Gehalt, -e|salary|Das Gehalt ist niedrig.|The salary is low.
+3014|2919|der|der Gehalt, -e|meaning, contents|Der Gehalt des Buches ist tiefgründig.|The content of the book is profound.
+3091|2996|adj|nachfolgen, folgt nach, folgte nach, ist nachgefolgt|following, subsequently|Der König folgte nach.|The king followed.
+3092|2996|verb|nachfolgen, folgt nach, folgte nach, ist nachgefolgt|to follow, succeed|Der König folgt nach.|The king follows.
+3173|3077|adj|vorübergehen, geht vorüber, ging vorüber, ist vorübergegangen|temporary|Der Job ist vorübergehend.|The job is temporary.
+3174|3077|verb|vorübergehen, geht vorüber, ging vorüber, ist vorübergegangen|to pass by|Der Sommer geht vorüber.|The summer passes by.
+3299|3202|das|wiedersehen, sieht wieder, sah wieder, hat wiedergesehen|reunion|Das Wiedersehen war emotional.|The reunion was emotional.
+3300|3202|verb|wiedersehen, sieht wieder, sah wieder, hat wiedergesehen|to see again|Ich möchte dich wiedersehen.|I want to see you again.
+3335|3237|adj|polnisch|Polish|Er spricht Polnisch.|He speaks Polish.
+3336|3237|das|polnisch|Polish|Die Sprache ist Polnisch.|The language is Polish.
+3360|3261|adj|indisch|Indian|Das Essen ist indisch.|The food is Indian.
+3361|3261|das|indisch|Indian|Er liebt indisches Essen.|He loves Indian food.
+3856|3756|die (pl)|die Unterlage, -n|documents|Die Unterlagen sind vollständig.|The documents are complete.
+3857|3756|die|die Unterlage, -n|base, pad, document|Die Unterlage ist fest.|The base is solid.
+3863|3762|adj|hessisch|Hessian|Sie ist hessisch.|She is Hessian.
+3864|3762|das|hessisch|Hessian|Das Rezept ist hessisch.|The recipe is Hessian.
