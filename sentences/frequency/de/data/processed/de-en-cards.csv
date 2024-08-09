@@ -1,13 +1,13 @@
 frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_english
 1|art|der|the|Der Hund ist groß.|The dog is big.
-1|pron|der|that, those|Der Mann ist glücklich.|That man is happy.
+1|pron|der|that, those|Das sind die Kinder, die im Park spielen.|Those are the children playing in the park.
 1|pron|der|who, that|Der Lehrer, der spricht, ist hier.|The teacher who speaks is here.
 2|conj|und|and|Er und ich sind Freunde.|He and I are friends.
 3|prep|in|in|Er ist in der Schule.|He is in the school.
-4|aux|sein, ist, war, ist gewesen|(past tense)|Sie war in Berlin.|She was in Berlin.
+4|aux|sein, ist, war, ist gewesen|(past tense)|Er ist früh nach Hause gekommen.|He came home early.
 4|verb|sein, ist, war, ist gewesen|to be|Er ist mein Bruder.|He is my brother.
 5|art|ein|a, an|Ein Apfel ist rot.|An apple is red.
-5|pron|ein|one (of)|Ein Hund, der ein Freund ist.|One dog, which is a friend.
+5|pron|ein|one (of)|Eines der Autos ist kaputt.|One of the cars is broken.
 6|aux|haben, hat, hatte, hat gehabt|(past tense)|Sie hatte ein Buch.|She had a book.
 6|verb|haben, hat, hatte, hat gehabt|to have|Ich habe einen Hund.|I have a dog.
 7|pron|sie|she, her|Sie liebt ihre Katze.|She loves her cat.
@@ -28,7 +28,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 18|adv|auch|also, too|Ich mag es auch.|I like it too.
 19|prep|an|at, on|Sie ist an der Tür.|She is at the door.
 20|conj|dass|that|Ich hoffe, dass es gut geht.|I hope that it goes well.
-21|part|zu|to|Er kam zu spät.|He came too late.
+21|part|zu|to|Ich habe keine Zeit, zu kommen.|I don't have time to come.
 21|part|zu|too|Zu viel Zucker.|Too much sugar.
 21|prep|zu|to|Er ging zu ihr.|He went to her.
 22|conj|als|as, when|Als er kam, ging sie.|As he came, she left.
@@ -39,10 +39,10 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 25|pron|wie|how|Wie heißt du?|What is your name?
 26|pron|wir|we|Wir gehen ins Kino.|We go to the cinema.
 27|pron|ihr|her, their, hers, theirs|Ihre Katze ist süß.|Her cat is cute.
-27|pron|ihr|you, her|Das ist ihr Buch.|That is her book.
+27|pron|ihr|you, her|Das Buch gehört ihr.|The book is hers.
 27|pron|ihr|your|Ist das Ihr Auto?|Is that your car?
-28|adv|so|so, thus, the way, such|Es ist so kalt.|It is so cold.
-28|part|so|so|Es war nicht so.|It wasn't so.
+28|adv|so|so, thus, the way, such|Es war nicht so.|It wasn't so.
+28|part|so|so|Es ist so kalt.|It is so cold.
 29|prep|bei|by, with, at|Er wohnt bei mir.|He lives with me.
 30|pron|sein|his, its|Sein Haus ist groß.|His house is big.
 31|conj|aber|but|Es ist teuer, aber schön.|It is expensive but beautiful.
@@ -59,7 +59,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 41|adv|dann|then|Dann gehe ich nach Hause.|Then I go home.
 42|conj|wenn|if, when|Wenn er kommt, gehe ich.|If he comes, I go.
 43|verb|müssen, muss, musste, hat gemusst|to have to, must|Du musst lernen.|You must learn.
-44|conj|um|in order to|Um zu verstehen, lerne.|Learn in order to understand.
+44|conj|um|in order to|Lerne, um zu verstehen.|Learn to understand.
 44|prep|um|around, at|Er ging um die Ecke.|He went around the corner.
 45|part|ja|yes, of course|Ja, ich komme.|Yes, I am coming.
 46|pron|kein|no|Ich habe kein Geld.|I have no money.
@@ -79,7 +79,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 59|pron|andere (r, s)|other|Die andere Tür.|The other door.
 60|verb|sollen, soll, sollte, hat gesollt|should, ought to|Du sollst das tun.|You should do that.
 61|adv|schon|already|Er ist schon da.|He is already there.
-61|part|schon||Schon wieder.|Again already.
+61|part|schon||Der Test war schon schwierig.|The test was really difficult.
 62|verb|kommen, kommt, kam, ist gekommen|to come|Sie kommt morgen.|She comes tomorrow.
 63|pron|mir|me|Gib mir das Buch.|Give me the book.
 64|adv|immer|always|Ich gehe immer zu Fuß.|I always walk.
@@ -88,7 +88,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 66|verb|gehen, geht, ging, ist gegangen|to go|Ich gehe nach Hause.|I go home.
 67|adj|groß|big, large, great|Das ist ein großes Haus.|That is a big house.
 68|adv|hier|here|Ich bin hier.|I am here.
-69|adj|ganz|whole, all the|Das ganze Buch.|The whole book.
+69|adj|ganz|whole, all the|Das ganze Buch ist spannend.|The whole book is exciting.
 69|part|ganz|quite|Es ist ganz schön hier.|It is quite nice here.
 70|num|zwei|two|Zwei Katzen spielen.|Two cats play.
 71|adv|also|so|Also, was nun?|So, what now?
@@ -98,15 +98,15 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 74|adv|wieder|again|Er kommt wieder.|He comes again.
 75|pron|uns|us, we|Gib uns das Buch.|Give us the book.
 76|adj|gut|good|Das ist gut.|That is good.
-77|conj|bis|until|Warte bis morgen.|Wait until tomorrow.
+77|conj|bis|until|Warte bis zum Ende.|Wait until the end.
 77|prep|bis|until, till|Ich bleibe bis acht Uhr.|I stay until eight o'clock.
 78|verb|wissen, weiß, wusste, hat gewusst|to know|Ich weiß die Antwort.|I know the answer.
 79|verb|sehen, sieht, sah, hat gesehen|to see|Ich sehe den Hund.|I see the dog.
 80|pron|einer|(some)one|Einer kam zu spät.|Someone came late.
 81|adv|sehr|very|Es ist sehr schön.|It is very beautiful.
-82|conj|Mal|times|Es war das erste Mal.|It was the first time.
+82|conj|Mal|times|Ein mal eins ist eins.|One times one equals one.
 82|das|Mal|time, mark|Das erste Mal ist immer besonders.|The first time is always special.
-82|part|Mal||Dieses Mal ist es anders.|This time it's different.
+82|Mal|part||Wir waren mal in Paris.|We were in Paris once.
 83|verb|lassen, lässt, ließ, hat gelassen|to let, allow, have done|Lass mich in Ruhe.|Leave me alone.
 84|adj|neu|new|Ein neues Buch.|A new book.
 85|verb|stehen, steht, stand, hat gestanden|to stand|Er steht da.|He stands there.
@@ -127,8 +127,8 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 98|verb|leben, lebt, lebte, hat gelebt|to live|Ich lebe in Deutschland.|I live in Germany.
 99|die|die Frau, -en|woman, wife, Mrs.|Die Frau liest.|The woman reads.
 100|pron|etwas|something, some, a little|Ich sehe etwas dort.|I see something there.
-101|part|selbst, selber|even|Er hat es selbst gemacht.|He did it himself.
-101|pron|selbst, selber|-self|Selbst ich kann das.|Even I can do that.
+101|part|selbst, selber|even|Selbst ich kann das.|Even I can do that.
+101|pron|selbst, selber|-self|Er hat es selbst gemacht.|He did it himself.
 102|adj|wenig|few|Er hat wenig Geld.|He has little money.
 102|pron|wenig|little, few|Es gibt wenig Hoffnung.|There is little hope.
 103|verb|finden, findet, fand, hat gefunden|to find|Ich finde den Schlüssel.|I find the key.
@@ -149,7 +149,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 117|pron|beide|both|Beide kommen morgen.|Both come tomorrow.
 118|adj|hoch|high, tall|Das Haus ist hoch.|The house is tall.
 119|pron|damit|with it|Ich bin damit einverstanden.|I agree with it.
-120|conj|ohne|without|Ohne dich kann ich nicht.|Without you, I can't.
+120|conj|ohne|without|Sie lacht, ohne zu denken.|She laughs without thinking.
 120|prep|ohne|without|Wir fahren ohne dich.|We are going without you.
 121|der|der Mann, -̈er|man|Der Mann ist stark.|The man is strong.
 122|pron|welch, -e, -er, -es|which|Welches Buch liest du?|Which book do you read?
@@ -165,12 +165,12 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 131|adj|einfach|simple, easy|Einfach und klar.|Simple and clear.
 131|part|einfach|simply|Das ist einfach toll.|That is simply great.
 132|adv|erst|first, only, not until|Ich komme erst morgen.|I will come only tomorrow.
-132|part|erst||Zuerst die Arbeit.|Work first.
+132|part|erst||Die Party geht erst los.|The party is just beginning.
 133|das|das Kind, -er|child|Das Kind spielt.|The child plays.
 134|das|das Land, -̈er|land, country, state|Das Land ist schön.|The country is beautiful.
 135|verb|stellen, stellt, stellte, hat gestellt|to place, set, put|Ich stelle die Vase auf den Tisch.|I place the vase on the table.
 136|verb|zeigen, zeigt, zeigte, hat gezeigt|to show|Er zeigt mir das Bild.|He shows me the picture.
-137|adj|natürlich|natural|Das ist natürlich.|That is natural.
+137|adj|natürlich|natural|Das Wasser kommt aus einer natürlichen Quelle.|The water comes from a natural spring.
 137|adv|natürlich|naturally, of course|Natürlich komme ich.|Of course I come.
 138|adj|alt|old|Das alte Haus.|The old house.
 139|adv|dort|there|Ich bin dort.|I am there.
@@ -180,13 +180,13 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 143|verb|dürfen, darf, durfte, hat gedurft|to be allowed to may|Du darfst hier nicht parken.|You may not park here.
 144|adj|wichtig|important|Das ist wichtig.|That is important.
 145|adv|vielleicht|perhaps, maybe|Vielleicht kommt er.|Maybe he comes.
-145|part|vielleicht||Das ist vielleicht wahr.|That is perhaps true.
+145|part|vielleicht||Das war vielleicht spannend!|That was quite exciting!
 146|verb|hören, hört, hörte, hat gehört|to hear|Ich höre Musik.|I listen to music.
 147|das|das Haus, -̈er|house|Das Haus ist groß.|The house is big.
 148|part|nein, nee, nö|no|Nein, danke.|No, thank you.
 149|pron|wer|who, whoever|Wer ist das?|Who is that?
 150|pron|dazu|in addition, furthermore, to that, for that|Er gehört dazu.|He belongs to that.
-151|adj|eigentlich|actual, real|Das ist eigentlich gut.|That is actually good.
+151|adj|eigentlich|actual, real|Er ist der eigentliche Besitzer.|He is the actual owner.
 151|adv|eigentlich|actually|Eigentlich mag ich es.|Actually, I like it.
 151|part|eigentlich||Das ist eigentlich wahr.|That is actually true.
 152|adj|letzte (r, s)|last|Das letzte Mal.|The last time.
@@ -208,7 +208,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 167|adj|genau|exact|Das ist genau richtig.|That is exactly right.
 168|verb|mögen, mag, mochte, hat gemocht|to like|Ich mag dieses Buch.|I like this book.
 169|adj|spät|late|Es ist schon spät.|It is already late.
-169|adj|spät|later|Später werde ich kommen.|I will come later.
+169|adj|spät|later|Ich werde später kommen.|I will come later.
 170|adv|bereits|already|Er hat bereits gegessen.|He has already eaten.
 171|adj|möglich|possible|Das ist möglich.|That is possible.
 171|adv|möglich|as . . . as possible, if possible|So schnell wie möglich.|As fast as possible.
@@ -231,7 +231,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 186|adv|nie|never|Er kommt nie zu spät.|He is never late.
 187|der|der Fall, -̈e|fall, case|Im Fall eines Falles.|In case of emergency.
 188|adj|schön|beautiful, pleasant, good|Das ist schön.|That is beautiful.
-189|adj|wirklich|real, actual|Ist das wirklich wahr?|Is that really true?
+189|adj|wirklich|real, actual|Das ist eine wirkliche Gefahr.|That is a real danger.
 189|adv|wirklich|really, actually|Ich bin wirklich müde.|I am really tired.
 190|pron|denen|whom, that|Die Menschen, denen ich vertraue.|The people whom I trust.
 191|verb|nennen, nennt, nannte, hat genannt|to name, call|Er nennt mich Freund.|He calls me friend.
@@ -239,7 +239,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 193|verb|ziehen, zieht, zog, hat gezogen|to pull, move|Er zieht die Tür auf.|He pulls the door open.
 194|das|das Wort, -̈er|word|Ein deutsches Wort.|A German word.
 195|pron|darauf, drauf|on it, to it|Ich freue mich darauf.|I am looking forward to it.
-196|adv|eben, ebend|just, now|Das ist eben so.|That is just how it is.
+196|adv|eben, ebend|just, now|Ich habe es dir eben gesagt.|I just told you.
 196|part|eben, ebend||Das war eben so.|That's just how it was.
 197|die|die Seite, -n|side, page|Auf der linken Seite.|On the left side.
 198|der, das|das Teil, -e|part|Ein Teil des Ganzen.|A part of the whole.
@@ -288,7 +288,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 240|der|der Doktor, -en (Dr.)|doctor|Der Doktor ist da.|The doctor is there.
 241|das|das Paar, -e|pair, couple|Ein glückliches Paar.|A happy couple.
 241|pron|das Paar, -e|a few|Ich habe ein paar Fragen.|I have a few questions.
-242|adj|das Recht, -e|all right|Sie hat das Recht zu wählen.|She has the right to vote.
+242|adj|das Recht, -e|all right|Es ist mir recht, wenn wir später gehen.|It's fine with me if we leave later.
 242|das|das Recht, -e|right, law|Das Recht ist wichtig.|The law is important.
 242|part|das Recht, -e|rather, quite|Es ist recht schwierig.|It is rather difficult.
 243|prep|wegen|because of|Wegen des Regens.|Because of the rain.
@@ -309,7 +309,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 258|verb|entsprechen, entspricht, entsprach, hat entsprochen|to correspond|Das Ergebnis entspricht den Erwartungen.|The result corresponds to expectations.
 259|verb|treffen, trifft, traf, hat getroffen|to meet|Wir treffen uns um acht.|We meet at eight.
 260|die|die Art, -en|type, kind|Welche Art von Musik magst du?|What kind of music do you like?
-261|adv|wohl|well|Er fühlt sich wohl.|He feels well.
+261|adv|wohl|well|Ich fühle mich wohl.|I feel well.
 261|part|wohl|probably|Wohl wird es regnen.|It will probably rain.
 262|die|die Geschichte, -n|history, story|Die Geschichte ist spannend.|The story is exciting.
 263|verb|erzählen, erzählt, erzählte, hat erzählt|to tell|Erzählen Sie mir mehr!|Tell me more!
@@ -339,8 +339,8 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 287|verb|erhalten, erhält, erhielt, hat erhalten|to receive|Ich habe deinen Brief erhalten.|I received your letter.
 288|verb|lernen, lernt, lernte, hat gelernt|to learn|Ich lerne Deutsch.|I am learning German.
 289|adj|frei|free|Ich bin heute frei.|I am free today.
-290|adj|der Wert, -e|worth|Der Wert dieser Münze ist hoch.|The value of this coin is high.
-290|der|der Wert, -e|value|Das hat keinen Wert.|That has no worth.
+290|adj|der Wert, -e|worth|Die Reise war es wert.|The trip was worth it.
+290|der|der Wert, -e|value|Der Wert dieser Münze ist hoch.|The value of this coin is high.
 291|conj|beziehungsweise, bzw.|or, respectively|Sie oder beziehungsweise er kommt.|She or respectively he is coming.
 292|pron|daran, dran|on it|Ich arbeite daran.|I am working on it.
 293|verb|suchen, sucht, suchte, hat gesucht|to search, look for|Ich suche meine Schlüssel.|I am looking for my keys.
@@ -363,7 +363,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 309|verb|erreichen, erreicht, erreichte, hat erreicht|to achieve, reach|Wir müssen das Ziel erreichen.|We must reach the goal.
 310|verb|vergehen, vergeht, verging, hat vergangen|to pass (time)|Die Zeit vergeht schnell.|Time passes quickly.
 311|adj|leicht|light, easy|Diese Aufgabe ist leicht.|This task is easy.
-312|adv|je|ever, each|Je mehr, desto besser.|The more, the better.
+312|adv|je|ever, each|Die Teilnehmer zahlen je 20 Euro.|The participants pay 20 euros each.
 312|conj|je|the more|Je mehr, desto besser.|The more, the better.
 313|verb|verlieren, verliert, verlor, hat verloren|to lose|Er will nicht verlieren.|He doesn't want to lose.
 314|adj|beste (r, s)|best|Das ist die beste Wahl.|That is the best choice.
@@ -377,7 +377,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 322|adv|eher|sooner, earlier, more likely, rather|Ich komme eher morgen.|I will come rather tomorrow.
 323|verb|essen, isst, aß, hat gegessen|to eat|Er isst einen Apfel.|He is eating an apple.
 324|die|die Minute, -n|minute|Ich brauche eine Minute.|I need a minute.
-325|adv|die Nacht, -̈e|at night, nights|Die Nacht war ruhig.|The night was calm.
+325|adv|die Nacht, -̈e|at night, nights|Ich gehe nachts spazieren.|I go for walks at night.
 325|die|die Nacht, -̈e|night|Die Nacht ist dunkel.|The night is dark.
 326|der|der Platz, -̈e|place, room, square|Der Platz ist besetzt.|The place is occupied.
 327|adj|schlecht|bad|Das Wetter ist schlecht.|The weather is bad.
@@ -395,7 +395,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 339|der|der Bereich, -e|area, region|Der Bereich ist groß.|The area is large.
 340|adj|tatsächlich|real, actual|Das ist tatsächlich passiert.|That actually happened.
 341|der|der Ort, -e|place, town, location|Der Ort ist malerisch.|The place is picturesque.
-342|adv|der Abend, -e|in the evening|Der Abend war schön.|The evening was beautiful.
+342|adv|der Abend, -e|in the evening|Wir treffen uns abends im Park.|We meet in the park in the evening.
 342|der|der Abend, -e|evening|Der Abend beginnt früh.|The evening begins early.
 343|adj|einzig|only, single|Das ist die einzige Lösung.|That is the only solution.
 344|die|die Stelle, -n|place|Die Stelle ist perfekt.|The place is perfect.
@@ -466,7 +466,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 409|die|USA (Vereinigte Staaten von Amerika)|USA, United States of America|Die USA sind groß.|The USA is large.
 410|der|der Flüchtling, -e|refugee|Der Flüchtling ist sicher.|The refugee is safe.
 411|adv|früher|in former times|Früher war alles besser.|In former times, everything was better.
-412|das|pro|pro|Das ist pro Person.|That is per person.
+412|das|pro|pro|Das Pro der Stadt ist die gute Infrastruktur.|The pro of the city is the good infrastructure.
 412|prep|pro|per|Der Preis ist pro Stunde.|The price is per hour.
 413|verb|ergeben, ergibt, ergab, hat ergeben|to result in, produce|Das Ergebnis ist positiv.|The result is positive.
 414|verb|entscheiden, entscheidet, entschied, hat entschieden|to decide|Wir entscheiden morgen.|We decide tomorrow.
@@ -535,8 +535,8 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 477|adj|rot|red|Die Rose ist rot.|The rose is red.
 478|part|halt|just, simply|Das ist halt so.|That's just the way it is.
 479|der|Meter, m|meter|Das Zimmer ist zehn Meter lang.|The room is ten meters long.
-480|adj|nahe, nah|near(by), close|Das Haus ist nah.|The house is near.
-480|prep|nahe, nah|near, close to|Wir wohnen nahe der Stadt.|We live near the city.
+480|adj|nahe, nah|near(by), close|Wir wohnen in einer nahen Stadt.|We live in a nearby town.
+480|prep|nahe, nah|near, close to|Der Parkplatz ist nah der Schule.|The parking lot is near the school.
 481|die|die Hilfe, -n|help|Ich brauche Hilfe.|I need help.
 482|das|das Kapitel, -|chapter|Das Kapitel ist kurz.|The chapter is short.
 483|verb|ausgehen, geht aus, ging aus, ist ausgegangen|to go out, assume|Wir gehen aus.|We go out.
@@ -549,7 +549,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 490|verb|stimmen, stimmt, stimmte, hat gestimmt|to be correct, vote, tune|Die Antwort stimmt.|The answer is correct.
 491|verb|bitten, bittet, bat, hat gebeten|to request, ask|Ich bitte um Ruhe.|I ask for silence.
 492|das|das Jahrhundert, -e|century|Das Jahrhundert ist vorbei.|The century is over.
-493|adj|wahrscheinlich|likely, probable|Das ist wahrscheinlich.|That is likely.
+493|adj|wahrscheinlich|likely, probable|Ein Treffen morgen ist wahrscheinlich.|A meeting tomorrow is probable.
 493|adv|wahrscheinlich|probably, likely|Es wird wahrscheinlich regnen.|It will probably rain.
 494|adj|öffentlich|public|Der Park ist öffentlich.|The park is public.
 495|pron|euch|you, yourselves|Ich sehe euch.|I see you.
@@ -679,7 +679,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 618|verb|sorgen, sorgt, sorgte, hat gesorgt|to worry, take care|Ich sorge mich.|I am worried.
 619|die|die Erfahrung, -en|experience|Die Erfahrung zählt.|The experience counts.
 620|der|der Patient, -en|patient|Der Patient schläft.|The patient sleeps.
-621|adv|der Morgen, -|in the morning|Der Morgen ist schön.|The morning is beautiful.
+621|adv|der Morgen, -|in the morning|Morgens trinke ich immer Kaffee.|I always drink coffee in the morning.
 621|der|der Morgen, -|morning|Der Morgen ist schön.|The morning is beautiful.
 622|der|der Arzt, -Äe|physician, doctor|Der Arzt ist hier.|The doctor is here.
 623|verb|geschehen, geschieht, geschah, ist geschehen|to happen, occur|Was ist geschehen?|What happened?
@@ -689,7 +689,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 627|verb|anbieten, bietet an, bot an, hat angeboten|to offer|Er bietet Hilfe an.|He offers help.
 628|verb|vorkommen, kommt vor, kam vor, ist vorgekommen|to happen, occur, seem|Das kommt vor.|That happens.
 629|adj|okay|okay|Das ist okay.|That is okay.
-629|das|okay|okay|Alles ist okay.|Everything is okay.
+629|das|okay|okay|Wir brauchen das Okay vom Chef.|We need the boss's okay.
 630|verb|wünschen, wünscht, wünschte, hat gewünscht|to want, wish|Ich wünsche dir Glück.|I wish you luck.
 631|verb|interessieren, interessiert, interessierte, hat interessiert|to interest|Das interessiert mich.|That interests me.
 632|der|der Unterschied, -e|difference|Der Unterschied ist klar.|The difference is clear.
@@ -715,7 +715,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 652|verb|stattfinden, findet statt, fand statt, hat stattgefunden|to take place, occur|Das Konzert findet statt.|The concert takes place.
 653|verb|ankommen, kommt an, kam an, ist angekommen|to arrive|Der Zug kommt an.|The train arrives.
 654|das|auftreten, tritt auf, trat auf, ist aufgetreten|behavior, conduct, occurrence, appearance|Sein Auftreten war höflich.|His behavior was polite.
-654|verb|auftreten, tritt auf, trat auf, ist aufgetreten|to appear, occur|Er tritt auf der Bühne auf.|He appears on the stage.
+654|verb|auftreten, tritt auf, trat auf, ist aufgetreten|to appear, occur|Unvorhergesehene Schwierigkeiten traten auf.|Unexpected difficulties occurred.
 655|adv|insbesondere|especially|Das ist insbesondere wichtig.|That is especially important.
 656|adj|technisch|technical|Das Problem ist technischer Natur.|The problem is of a technical nature.
 657|pron|wann|when|Wann kommst du?|When are you coming?
@@ -803,7 +803,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 738|die|die Reihe, -n|row, line|Die Reihe ist lang.|The row is long.
 739|die|die Natur, -en|nature|Die Natur ist schön.|Nature is beautiful.
 740|verb|rechnen, rechnet, rechnete, hat gerechnet|to calculate, compute|Ich rechne die Kosten.|I calculate the costs.
-741|adj|bloß|bare, mere|Es ist bloß ein Kratzer.|It is just a scratch.
+741|adj|bloß|bare, mere|Es war ein bloßer Zufall.|It was a mere coincidence.
 741|adv|bloß|only, simply, just|Ich bin bloß müde.|I am simply tired.
 742|adj|notwendig|necessary|Das ist notwendig.|That is necessary.
 743|verb|entdecken, entdeckt, entdeckte, hat entdeckt|to discover|Er hat Amerika entdeckt.|He discovered America.
@@ -825,7 +825,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 759|die|die Rede, -n|speech, talk|Seine Rede war inspirierend.|His speech was inspiring.
 760|verb|unterstützen, unterstützt, unterstützte, hat unterstützt|to support|Ich unterstütze dich.|I support you.
 761|adj|chemisch|chemical|Die chemische Reaktion.|The chemical reaction.
-762|adj|schlimm|bad, serious|Das ist schlimm.|That is bad.
+762|adj|schlimm|bad, serious|Das war ein schlimmer Unfall.|That was a serious accident.
 762|adj|schlimm|worse|Es wurde schlimmer.|It got worse.
 763|die|die Schweiz, -en|Switzerland|Die Schweiz ist schön.|Switzerland is beautiful.
 764|adv|irgendwann|sometime, some day|Irgendwann werde ich gehen.|Someday I will go.
@@ -881,7 +881,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 813|das|Frankreich|France|Frankreich ist schön.|France is beautiful.
 814|die|die Freiheit, -en|freedom|Freiheit ist wichtig.|Freedom is important.
 815|adj|speziell|special, specific|Das ist speziell für dich.|That is special for you.
-816|adj|französisch|French|Ich spreche Französisch.|I speak French.
+816|adj|französisch|French|Er liebt französische Musik.|He loves French music.
 816|das|französisch|French|Er spricht Französisch.|He speaks French.
 817|adj|negativ|negative|Das ist negativ.|That is negative.
 818|adj|zentral|central|Das ist zentral.|That is central.
@@ -897,7 +897,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 828|die|die Wand, -̈e|wall|Die Wand ist weiß.|The wall is white.
 829|adv|rechts|on/to the right|Das Auto steht rechts.|The car is on the right.
 830|adj|konkret|concrete|Das ist konkret.|That is concrete.
-831|adj|russisch|Russian|Das ist russisch.|That is Russian.
+831|adj|russisch|Russian|Er studiert russische Geschichte.|He is studying Russian history.
 831|das|russisch|Russian|Ich spreche Russisch.|I speak Russian.
 832|verb|zahlen, zahlt, zahlte, hat gezahlt|to pay|Er zahlt die Rechnung.|He pays the bill.
 833|adv|zugleich|both, at the same time|Sie spricht zugleich.|She speaks at the same time.
@@ -1060,7 +1060,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 989|die|die Ruhe|silence, peace|Die Ruhe tut gut.|The silence is soothing.
 990|die|die Darstellung, -en|presentation, description, depiction|Die Darstellung ist klar.|The presentation is clear.
 991|adj|ruhig|quiet, calm|Der See ist ruhig.|The lake is calm.
-991|part|ruhig|really|Sei ruhig.|Be quiet.
+991|part|ruhig|really|Du kannst ruhig fragen, wenn du etwas nicht verstehst.|Feel free to ask if you don’t understand something.
 992|der|der Traum, -̈e|dream|Der Traum war schön.|The dream was beautiful.
 993|verb|behandeln, behandelt, behandelte, hat behandelt|to treat|Der Arzt behandelt den Patienten.|The doctor treats the patient.
 994|adv|stets|always|Er ist stets freundlich.|He is always friendly.
@@ -1095,7 +1095,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 1023|die|die Schulter, -n|shoulder|Meine Schulter tut weh.|My shoulder hurts.
 1024|die|die Maßnahme, -n|measure|Die Maßnahme ist nötig.|The measure is necessary.
 1025|das|das Band, -̈er|ribbon, tape|Das Band ist rot.|The ribbon is red.
-1025|der|das Band, -̈er|volume, tome|Das Band ist interessant.|The volume is interesting.
+1025|der|das Band, -̈er|volume, tome|Sie hat den letzten Band der Trilogie gekauft.|She bought the last volume of the trilogy.
 1025|die|das Band, -̈er|band (musical)|Die Band spielt gut.|The band plays well.
 1026|pron|darunter|under it, underneath|Darunter liegt der Schlüssel.|The key is underneath.
 1027|pron|derjenige, diejenige, dasjenige|the one (who, that)|Derjenige, der das Buch liest, ist klug.|The one who reads the book is smart.
@@ -1561,7 +1561,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 1483|der|der Schmerz, -en|pain, grief|Der Schmerz ist stark.|The pain is strong.
 1484|adj|erheblich|considerable|Die Kosten sind erheblich.|The costs are considerable.
 1485|adj|ausschließlich|exclusive|Das ist ausschließlich für Mitglieder.|That is exclusively for members.
-1486|adj|griechisch|Greek|Das Essen ist griechisch.|The food is Greek.
+1486|adj|griechisch|Greek|Er studiert die griechische Mythologie.|He studies Greek mythology.
 1486|das|griechisch|Greek|Er spricht Griechisch.|He speaks Greek.
 1487|part|naja|(oh) well|Naja, was soll's?|Oh well, what can you do?
 1488|die|die Runde, -n|round|Die Runde ist spannend.|The round is exciting.
@@ -1608,8 +1608,8 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 1528|der|der Flughafen, -̈|airport|Der Flughafen ist groß.|The airport is large.
 1529|das|das Krankenhaus, -̈er|hospital|Das Krankenhaus ist voll.|The hospital is full.
 1530|verb|wenden, wendet, wandte, hat gewandt|to turn around|Er wendet das Auto.|He turns the car around.
-1531|adj|türkisch|Turkish|Das Essen ist türkisch.|The food is Turkish.
-1531|das|türkisch|Turkish|Er kocht türkisch.|He cooks Turkish food.
+1531|adj|türkisch|Turkish|Der türkische Basar ist sehr lebhaft.|The Turkish bazaar is very lively.
+1531|das|türkisch|Turkish|Türkisch ist ihre Muttersprache.|Turkish is her native language.
 1532|der|der Gegner, -|opponent, competitor, enemy|Der Gegner ist stark.|The opponent is strong.
 1533|der|der Leser, -|reader|Der Leser mag das Buch.|The reader likes the book.
 1534|die|VWL (Volkswirtschaftslehre)|economics|VWL ist ein interessantes Fach.|Economics is an interesting subject.
@@ -1661,7 +1661,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 1580|die|die Bakterie, -n|bacterium|Die Bakterie ist gefährlich.|The bacterium is dangerous.
 1581|verb|tauchen, taucht, tauchte, ist getaucht|to dive, dip|Er taucht tief.|He dives deep.
 1582|die|die Konsequenz, -en|consequence|Die Konsequenzen sind schwer.|The consequences are serious.
-1583|adj|die Schuld, -en|guilty|Die Schuld liegt bei ihm.|The guilt lies with him.
+1583|adj|die Schuld, -en|guilty|Wer ist schuld an dem Unfall?|Who is guilty of the accident?
 1583|die|die Schuld, -en|guilt|Die Schuld war groß.|The guilt was big.
 1584|die|die Mehrheit, -en|majority|Die Mehrheit stimmt zu.|The majority agrees.
 1585|verb|anhaben, hat an, hatte an, hat angehabt|to wear, damage|Er hat einen Mantel an.|He is wearing a coat.
@@ -1672,7 +1672,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 1590|adj|statistisch|statistical|Die Daten sind statistisch.|The data are statistical.
 1591|der|der Hals, -̈e|neck, throat|Mein Hals tut weh.|My throat hurts.
 1592|verb|durchsetzen, setzt durch, setzte durch, hat durchgesetzt|to carry through, enforce, implement|Das Gesetz wird durchgesetzt.|The law is enforced.
-1593|adj|italienisch|Italian|Das Essen ist italienisch.|The food is Italian.
+1593|adj|italienisch|Italian|Das italienische Essen ist lecker.|The Italian food is delicious.
 1593|das|italienisch|Italian|Er spricht Italienisch.|He speaks Italian.
 1594|die|die Scheiße|crap, shit|Das ist totale Scheiße!|That's total crap!
 1595|das|das Telefon, -e|telephone|Das Telefon klingelt.|The telephone is ringing.
@@ -2000,7 +2000,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 1916|adj|automatisch|automatic|Die Maschine ist automatisch.|The machine is automatic.
 1917|die|die Physik|physics|Die Physik ist schwierig.|Physics is difficult.
 1918|die|die Erkrankung, -en|illness, disease|Die Erkrankung ist ernst.|The disease is serious.
-1919|adj|spanisch|Spanish|Das spanische Essen ist lecker.|The Spanish food is delicious.
+1919|adj|spanisch|Spanish|Sie trinkt spanischen Wein.|She drinks Spanish wine.
 1919|das|spanisch|Spanish|Er spricht Spanisch.|He speaks Spanish.
 1920|der|der Teilnehmer, -|participant|Der Teilnehmer ist müde.|The participant is tired.
 1921|die|die Veranstaltung, -en|event|Die Veranstaltung war toll.|The event was great.
@@ -2512,9 +2512,9 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 2426|adj|indirekt|indirect|Die Wirkung war indirekt.|The effect was indirect.
 2427|der|der Zeitraum, -̈e|period of time|Der Zeitraum war begrenzt.|The period of time was limited.
 2428|verb|aufkommen, kommt auf, kam auf, ist aufgekommen|to come up, arise, pay for|Das Problem kam auf.|The problem arose.
-2429|adv|das Plus, -|plus|Das Plus ist wichtig.|The plus is important.
-2429|conj|das Plus, -|plus|Das ist ein Plus.|That is a plus.
-2429|das|das Plus, -|plus|Das Plus ist offensichtlich.|The plus is obvious.
+2429|adv|das Plus, -|plus|Morgen erwarten wir 10 Grad plus.|Tomorrow we expect plus 10 degrees.
+2429|conj|das Plus, -|plus|10 plus 15 macht 25.|10 plus 15 makes 25.
+2429|das|das Plus, -|plus|Ein Plus des Jobs ist das Gehalt.|A plus of the job is the salary.
 2430|die|die Schwingung, -en|vibration|Die Schwingung war stark.|The vibration was strong.
 2431|der|der Vektor, -en|vector|Der Vektor zeigt nach oben.|The vector points upwards.
 2432|der|der Sauerstoff|oxygen|Sauerstoff ist lebenswichtig.|Oxygen is vital.
@@ -2810,7 +2810,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 2720|das|das Virus, -en|virus|Das Virus ist ansteckend.|The virus is contagious.
 2721|der|der Kontinent, -e|continent|Europa ist ein Kontinent.|Europe is a continent.
 2722|das|das Milligramm, -|milligram|Das Medikament enthält ein Milligramm.|The medication contains a milligram.
-2723|adj|schwedisch|Swedish|Sie ist schwedisch.|She is Swedish.
+2723|adj|schwedisch|Swedish|Das ist eine schwedische Firma.|That is a Swedish company.
 2723|das|schwedisch|Swedish|Schwedisch ist schwer zu lernen.|Swedish is hard to learn.
 2724|adj|sexuell|sexual|Sexuelle Aufklärung ist wichtig.|Sexual education is important.
 2725|adv|hierher|here|Komm bitte hierher.|Please come here.
@@ -2831,7 +2831,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 2740|der|der Akzent, -e|accent|Sein Akzent ist stark.|His accent is strong.
 2741|verb|verlängern, verlängert, verlängerte, hat verlängert|to lengthen, extend|Wir müssen den Vertrag verlängern.|We need to extend the contract.
 2742|die|die Nahrung, -en|nourishment, food|Gesunde Nahrung ist wichtig.|Healthy food is important.
-2743|adj|niederländisch|Dutch|Er spricht Niederländisch.|He speaks Dutch.
+2743|adj|niederländisch|Dutch|Wir haben niederländische Freunde.|We have Dutch friends.
 2743|das|niederländisch|Dutch|Niederländisch ist leicht zu lernen.|Dutch is easy to learn.
 2744|der|der Planet, -en|planet|Die Erde ist ein Planet.|The Earth is a planet.
 2745|der|der Stress, -e|stress|Stress kann krank machen.|Stress can make you sick.
@@ -2931,7 +2931,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 2838|verb|widersprechen, widerspricht, widersprach, hat widersprochen|to contradict|Er widerspricht immer.|He always contradicts.
 2839|der|der Besitzer, -|owner|Der Besitzer ist nett.|The owner is nice.
 2840|adj|japanisch|Japanese|Die japanische Kultur ist faszinierend.|The Japanese culture is fascinating.
-2840|das|japanisch|Japanese|Das Essen ist japanisch.|The food is Japanese.
+2840|das|japanisch|Japanese|Sie spricht fließend Japanisch.|She speaks Japanese fluently.
 2841|verb|ärgern, ärgert, ärgerte, hat geärgert|to annoy|Er ärgert seinen Bruder.|He annoys his brother.
 2842|die|die Persönlichkeit, -en|personality, celebrity|Ihre Persönlichkeit ist einzigartig.|Her personality is unique.
 2843|die|die Truppe, -n|troops, unit|Die Truppe marschiert.|The troops march.
@@ -3090,7 +3090,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 2993|das|das Abkommen, -|agreement|Das Abkommen wurde unterzeichnet.|The agreement was signed.
 2994|die|die Abstimmung, -en|vote, coordination|Die Abstimmung war knapp.|The vote was close.
 2995|der|der Geschmack, -̈e|taste|Der Geschmack ist süß.|The taste is sweet.
-2996|adj|nachfolgen, folgt nach, folgte nach, ist nachgefolgt|following, subsequently|Der König folgte nach.|The king followed.
+2996|adj|nachfolgen, folgt nach, folgte nach, ist nachgefolgt|following, subsequently|Die nachfolgende Tabelle zeigt die Ergebnisse.|The following table shows the results.
 2996|verb|nachfolgen, folgt nach, folgte nach, ist nachgefolgt|to follow, succeed|Der König folgt nach.|The king follows.
 2997|verb|neigen, neigt, neigte, hat geneigt|to bend, lean|Er neigt den Kopf.|He tilts his head.
 2998|die|die Rente, -n|pension, retirement|Die Rente ist sicher.|The pension is secure.
@@ -3172,7 +3172,7 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 3074|die|die Platte, -n|disk, record, plate|Die Platte ist rund.|The disk is round.
 3075|adv|siehe|see|Siehe die Notizen.|See the notes.
 3076|adj|verheiratet|married|Sie ist verheiratet.|She is married.
-3077|adj|vorübergehen, geht vorüber, ging vorüber, ist vorübergegangen|temporary|Der Job ist vorübergehend.|The job is temporary.
+3077|adj|vorübergehen, geht vorüber, ging vorüber, ist vorübergegangen|temporary|Die vorübergehende Lösung hat gut funktioniert.|The temporary solution worked well.
 3077|verb|vorübergehen, geht vorüber, ging vorüber, ist vorübergegangen|to pass by|Der Sommer geht vorüber.|The summer passes by.
 3078|verb|angucken, guckt an, guckte an, hat angeguckt (ankucken)|to look|Er guckt den Film an.|He watches the movie.
 3079|adj|diskret|discreet, confidential|Das ist diskret.|That is discreet.
@@ -3334,8 +3334,8 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 3234|adj|anscheinend|apparent|Das ist anscheinend richtig.|That is apparently correct.
 3235|die|die Demonstration, -en|demonstration|Die Demonstration war friedlich.|The demonstration was peaceful.
 3236|die|die Linse, -n|lens, lentil|Die Linse ist klar.|The lens is clear.
-3237|adj|polnisch|Polish|Er spricht Polnisch.|He speaks Polish.
-3237|das|polnisch|Polish|Die Sprache ist Polnisch.|The language is Polish.
+3237|adj|polnisch|Polish|Wir besuchen eine polnische Stadt.|We are visiting a Polish city.
+3237|das|polnisch|Polish|Polnisch ist eine schöne Sprache.|Polish is a beautiful language.
 3238|der|der Posten, -|post, position|Der Posten ist frei.|The position is open.
 3239|verb|zuschauen, schaut zu, schaute zu, hat zugeschaut|to watch|Er schaut zu.|He watches.
 3240|verb|abhalten, hält ab, hielt ab, hat abgehalten|to keep from|Der Regen hält uns nicht ab.|The rain does not keep us from it.
@@ -3359,8 +3359,8 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 3258|adj|klinisch|clinical|Der Test war klinisch.|The test was clinical.
 3259|verb|wiegen, wiegt, wog, hat gewogen|to weigh|Das Paket wiegt viel.|The package weighs a lot.
 3260|der|der Eingriff, -e|intervention, interference|Der Eingriff ist notwendig.|The intervention is necessary.
-3261|adj|indisch|Indian|Das Essen ist indisch.|The food is Indian.
-3261|das|indisch|Indian|Er liebt indisches Essen.|He loves Indian food.
+3261|adj|indisch|Indian|Sie trägt ein indisches Kleid.|She is wearing an Indian dress.
+3261|das|indisch|Indian language|Viele Menschen in Indien sprechen Hindi.|Many people in India speak Hindi.
 3262|die|die Psychologie, -n|psychology|Psychologie ist interessant.|Psychology is interesting.
 3263|die|die Digitalisierung, -en|digitalization|Die Digitalisierung schreitet voran.|The digitalization progresses.
 3264|die|die Einsicht, -en|view, insight|Das ist meine Einsicht.|That is my view.
@@ -3855,15 +3855,15 @@ frequency_rank|speech_part|word_german|word_english|sentence_german|sentence_eng
 3753|verb|hinzukommen, kommt hinzu, kam hinzu, ist hinzugekommen|to be added, join|Ein neues Problem kam hinzu.|A new problem was added.
 3754|adj|prinzipiell|in principle|Das Prinzip ist einfach.|The principle is simple.
 3755|verb|reflektieren, reflektiert, reflektierte, hat reflektiert|to reflect|Der Spiegel reflektiert das Licht.|The mirror reflects the light.
-3756|die (pl)|die Unterlage, -n|documents|Die Unterlagen sind vollständig.|The documents are complete.
-3756|die|die Unterlage, -n|base, pad, document|Die Unterlage ist fest.|The base is solid.
+3756|die (pl)|die Unterlage, -n|documents|Die Unterlagen liegen auf dem Schreibtisch.|The documents are on the desk.
+3756|die|die Unterlage, -n|base, pad, document|Er nutzt eine Unterlage für seine Maus.|He uses a pad for his mouse.
 3757|verb|vernachlässigen, vernachlässigt, vernachlässigte, hat vernachlässigt|to neglect|Er vernachlässigt seine Arbeit.|He neglects his work.
 3758|verb|versinken, versinkt, versank, ist versunken|to sink|Das Schiff versinkt.|The ship sinks.
 3759|verb|erhitzen, erhitzt, erhitzte, hat erhitzt|to heat (up)|Das Wasser erhitzt schnell.|The water heats up quickly.
 3760|der|der Ersatz, -̈e|replacement, compensation|Der Ersatz kam rechtzeitig.|The replacement arrived on time.
 3761|die|die EU-Kommission|European Commission|Die EU-Kommission tagt heute.|The European Commission meets today.
-3762|adj|hessisch|Hessian|Sie ist hessisch.|She is Hessian.
-3762|das|hessisch|Hessian|Das Rezept ist hessisch.|The recipe is Hessian.
+3762|adj|hessisch|Hessian|Die hessische Landschaft ist wunderschön.|The Hessian landscape is beautiful.
+3762|das|hessisch|Hessian|Er versteht Hessisch, aber spricht es nicht.|He understands Hessian, but doesn’t speak it.
 3763|adj|passiv|passive|Die Gruppe ist passiv.|The group is passive.
 3764|der|der Rauch, -e|smoke, fume|Der Rauch stieg auf.|The smoke rose.
 3765|verb|stinken, stinkt, stank, hat gestunken|to stink|Der Müll stinkt.|The garbage stinks.
