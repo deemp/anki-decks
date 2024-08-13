@@ -1,15 +1,15 @@
-art|der|Der Hund ist groß.
-pron|der|Das sind die Kinder, die im Park spielen.
-pron|der|Der Lehrer, der spricht, ist hier.
+art|der, die, das|Der Hund ist groß.
+pron|der, die, das|Das sind die Kinder, die im Park spielen.
+pron|der, die, das|Der Lehrer, der spricht, ist hier.
 aux|sein, ist, war, ist gewesen|Er ist früh nach Hause gekommen.
 verb|sein, ist, war, ist gewesen|Er ist mein Bruder.
 art|ein|Ein Apfel ist rot.
-pron|ein|Eines der Autos ist kaputt.
+pron|einer|Einer der Wagen ist kaputt.
 aux|haben, hat, hatte, hat gehabt|Sie hatte ein Buch.
 verb|haben, hat, hatte, hat gehabt|Ich habe einen Hund.
 pron|sie|Sie liebt ihre Katze.
 pron|sie|Sie sind meine Freunde.
-pron|sie|Sie warten hier.
+pron|Sie|Sie warten hier.
 aux|werden, wird, wurde, ist geworden|Es wird regnen.
 aux|werden, wird, wurde, ist geworden|Ein Haus wird gebaut.
 verb|werden, wird, wurde, ist geworden|Er wird müde.
@@ -22,7 +22,7 @@ part|wie|Er arbeitet wie ein Pferd.
 pron|wie|Wie heißt du?
 pron|ihr|Ihre Katze ist süß.
 pron|ihr|Das Buch gehört ihr.
-pron|ihr|Ist das Ihr Auto?
+pron|Ihr|Ist das Ihr Auto?
 adv|so|Es war nicht so.
 part|so|Es ist so kalt.
 conj|aber|Es ist teuer, aber schön.
@@ -33,17 +33,17 @@ adv|da|Er ist da drüben.
 conj|da|Er kam, da er müde war.
 adv|schon|Er ist schon da.
 part|schon|Der Test war schon schwierig.
-(Reflexive pronoun in the acc.)|mich|Er schaut mich an.
-pron|mich|Ich sehe mich im Spiegel.
+(Reflexive pronoun in the accusative case.)|mich|Ich freue mich auf das Wochenende.
+pron|mich|Er schaut mich an.
 adj|ganz|Das ganze Buch ist spannend.
 part|ganz|Es ist ganz schön hier.
 adv|doch|Es ist teuer, doch schön.
 part|doch|Ich habe es doch gesagt.
 conj|bis|Warte bis zum Ende.
 prep|bis|Ich bleibe bis acht Uhr.
-conj|Mal|Ein mal eins ist eins.
-das|Mal|Das erste Mal ist immer besonders.
-Mal|part|Wir waren mal in Paris.
+conj|mal|Ein mal eins ist eins.
+das|das Mal, -e|Das erste Mal ist immer besonders.
+part|mal|Wir waren mal in Paris.
 conj|denn|Er kommt, denn er muss.
 part|denn|Was denn?
 adj|lang|Der Fluss ist lang.
@@ -53,11 +53,11 @@ pron|selbst, selber|Er hat es selbst gemacht.
 adj|wenig|Er hat wenig Geld.
 pron|wenig|Es gibt wenig Hoffnung.
 adj|deutsch|Das deutsche Auto.
-das|deutsch|Er lernt Deutsch in der Schule.
+das|das Deutsch|Er lernt Deutsch in der Schule.
 conj|ohne|Sie lacht, ohne zu denken.
 prep|ohne|Wir fahren ohne dich.
 pron|ihnen|Ich gebe ihnen das Buch.
-pron|ihnen|Ich habe Ihnen geholfen.
+pron|Ihnen|Ich habe Ihnen geholfen.
 adj|einfach|Einfach und klar.
 part|einfach|Das ist einfach toll.
 adv|erst|Ich komme erst morgen.
@@ -86,111 +86,111 @@ part|eben, ebend|Das war eben so.
 verb|setzen, setzt, setzte, hat gesetzt|Er setzt das Glas auf den Tisch.
 verb|setzen, setzt, setzte, hat gesetzt|Er setzt sich auf den Stuhl.
 das|das Paar, -e|Ein glückliches Paar.
-pron|das Paar, -e|Ich habe ein paar Fragen.
-adj|das Recht, -e|Es ist mir recht, wenn wir später gehen.
+pron|ein paar|Ich habe ein paar Fragen.
+adj|recht|Es ist mir recht, wenn wir später gehen.
 das|das Recht, -e|Das Recht ist wichtig.
-part|das Recht, -e|Es ist recht schwierig.
+part|recht|Es ist recht schwierig.
 adv|wohl|Ich fühle mich wohl.
 part|wohl|Wohl wird es regnen.
-adj|der Wert, -e|Die Reise war es wert.
+adj|wert|Die Reise war es wert.
 der|der Wert, -e|Der Wert dieser Münze ist hoch.
 adj|rund|Die Erde ist rund.
 adv|rund|Rund 100 Leute kamen.
 adv|je|Die Teilnehmer zahlen je 20 Euro.
 conj|je|Je mehr, desto besser.
-adv|die Nacht, -̈e|Ich gehe nachts spazieren.
+adv|nachts|Ich gehe nachts spazieren.
 die|die Nacht, -̈e|Die Nacht ist dunkel.
-adv|der Abend, -e|Wir treffen uns abends im Park.
+adv|abends|Wir treffen uns abends im Park.
 der|der Abend, -e|Der Abend beginnt früh.
-das|pro|Das Pro der Stadt ist die gute Infrastruktur.
+das|das Pro, -s|Das Pro der Stadt ist die gute Infrastruktur.
 prep|pro|Der Preis ist pro Stunde.
-adj|nahe, nah|Wir wohnen in einer nahen Stadt.
+adj|nah|Wir wohnen in einer nahen Stadt.
 prep|nahe, nah|Der Parkplatz ist nah der Schule.
 adj|wahrscheinlich|Ein Treffen morgen ist wahrscheinlich.
 adv|wahrscheinlich|Es wird wahrscheinlich regnen.
-das|verhalten|Das Verhalten ist seltsam.
-verb|verhalten|Er verhält sich gut.
-adv|der Morgen, -|Morgens trinke ich immer Kaffee.
+das|das Verhalten|Das Verhalten ist seltsam.
+verb|verhalten, verhält, verhielt, hat verhalten|Er verhält sich gut.
+adv|morgens|Morgens trinke ich immer Kaffee.
 der|der Morgen, -|Der Morgen ist schön.
 adj|okay|Das ist okay.
-das|okay|Wir brauchen das Okay vom Chef.
-das|auftreten, tritt auf, trat auf, ist aufgetreten|Sein Auftreten war höflich.
+das|das Okay|Wir brauchen das Okay vom Chef.
+das|das Auftreten|Sein Auftreten war höflich.
 verb|auftreten, tritt auf, trat auf, ist aufgetreten|Unvorhergesehene Schwierigkeiten traten auf.
 adj|englisch|Das englische Buch ist interessant.
-das|englisch|Das Buch ist auf Englisch.
+das|das Englisch|Das Buch ist auf Englisch.
 adj|bloß|Es war ein bloßer Zufall.
 adv|bloß|Ich bin bloß müde.
 adj|schlimm|Das war ein schlimmer Unfall.
 adj|schlimm|Es wurde schlimmer.
-das|lächeln, lächelt, lächelte, hat gelächelt|Das Lächeln ist schön.
+das|das Lächeln, -|Das Lächeln ist schön.
 verb|lächeln, lächelt, lächelte, hat gelächelt|Sie lächelt immer.
 adj|französisch|Er liebt französische Musik.
-das|französisch|Er spricht Französisch.
+das|das Französisch|Er spricht Französisch.
 adj|russisch|Er studiert russische Geschichte.
-das|russisch|Ich spreche Russisch.
-das|schweigen, schweigt, schwieg, hat geschwiegen|Das Schweigen war lang.
+das|das Russisch|Ich spreche Russisch.
+das|das Schweigen|Das Schweigen war lang.
 verb|schweigen, schweigt, schwieg, hat geschwiegen|Sie schweigt.
 adj|ruhig|Der See ist ruhig.
 part|ruhig|Du kannst ruhig fragen, wenn du etwas nicht verstehst.
 das|das Band, -̈er|Das Band ist rot.
-der|das Band, -̈er|Sie hat den letzten Band der Trilogie gekauft.
-die|das Band, -̈er|Die Band spielt gut.
-das|vertrauen, vertraut, vertraute, hat vertraut|Ich habe Vertrauen in dich.
+der|der Band, -̈e|Sie hat den letzten Band der Trilogie gekauft.
+die|die Band, -s|Die Band spielt gut.
+das|das Vertrauen|Ich habe Vertrauen in dich.
 verb|vertrauen, vertraut, vertraute, hat vertraut|Ich vertraue dir.
 adj|chinesisch|Das Essen ist chinesisch.
-das|chinesisch|Er lernt Chinesisch.
-adv|das Leid|Ich bin des Wartens leid.
+das|das Chinesisch|Er lernt Chinesisch.
+adv|leid|Ich bin des Wartens leid.
 das|das Leid|Das Leid war groß.
 der|der See, -n|Der See ist klar.
-die|der See, -n|Die See ist ruhig.
+die|die See, -n|Die See ist ruhig.
 adj|griechisch|Er studiert die griechische Mythologie.
-das|griechisch|Er spricht Griechisch.
+das|das Griechisch|Er spricht Griechisch.
 das|das Steuer, -|Er greift das Steuer.
-die|das Steuer, -|Die Steuer ist hoch.
+die|die Steuer, -n|Die Steuer ist hoch.
 adj|türkisch|Der türkische Basar ist sehr lebhaft.
-das|türkisch|Türkisch ist ihre Muttersprache.
-adj|die Schuld, -en|Wer ist schuld an dem Unfall?
+das|das Türkisch|Türkisch ist ihre Muttersprache.
+adj|schuld|Wer ist schuld an dem Unfall?
 die|die Schuld, -en|Die Schuld war groß.
 adj|italienisch|Das italienische Essen ist lecker.
-das|italienisch|Er spricht Italienisch.
+das|das Italienisch|Er spricht Italienisch.
 der|der Leiter, -|Der Leiter ist verantwortlich.
-die|der Leiter, -|Die Leiter ist lang.
+die|die Leiter, -n|Die Leiter ist lang.
 adj|spanisch|Sie trinkt spanischen Wein.
-das|spanisch|Er spricht Spanisch.
+das|das Spanisch|Er spricht Spanisch.
 adj|arabisch|Das arabische Essen ist lecker.
-das|arabisch|Er lernt Arabisch.
-adv|das Plus, -|Morgen erwarten wir 10 Grad plus.
-conj|das Plus, -|10 plus 15 macht 25.
-das|das Plus, -|Ein Plus des Jobs ist das Gehalt.
+das|das Arabisch|Er lernt Arabisch.
+adv|plus|Morgen erwarten wir 10 Grad plus.
+conj|plus|10 plus 15 macht 25.
+das|das Plus|Ein Plus des Jobs ist das Gehalt.
 das|das Erbe|Das Erbe ist wertvoll.
-der|das Erbe|Er ist das Erbe.
-adj|der Hamburger, -|Der Hamburger Hafen ist groß.
+der|der Erbe, -n|Er ist der Erbe.
+adj|Hamburger|Der Hamburger Hafen ist groß.
 der|der Hamburger, -|Der Hamburger schmeckt gut.
 adj|schwedisch|Das ist eine schwedische Firma.
-das|schwedisch|Schwedisch ist schwer zu lernen.
+das|das Schwedisch|Schwedisch ist schwer zu lernen.
 adj|niederländisch|Wir haben niederländische Freunde.
-das|niederländisch|Niederländisch ist leicht zu lernen.
+das|das Niederländisch|Niederländisch ist leicht zu lernen.
 der|der Hut, -̈e|Der Hut ist elegant.
-die|der Hut, -̈e|Er steht auf der Hut.
+die|die Hut|Er steht auf der Hut.
 adj|japanisch|Die japanische Kultur ist faszinierend.
-das|japanisch|Sie spricht fließend Japanisch.
-adv|das Zuhause|Er fühlt sich zuhause.
+das|das Japanisch|Sie spricht fließend Japanisch.
+adv|zuhause|Er fühlt sich zuhause.
 das|das Zuhause|Das Zuhause ist gemütlich.
 adj|dänisch|Die dänische Flagge ist rot und weiß.
-das|dänisch|Er lernt Dänisch.
-das|der Gehalt, -e|Das Gehalt ist niedrig.
+das|das Dänisch|Er lernt Dänisch.
+das|das Gehalt, -̈er|Das Gehalt ist niedrig.
 der|der Gehalt, -e|Der Gehalt des Buches ist tiefgründig.
-adj|nachfolgen, folgt nach, folgte nach, ist nachgefolgt|Die nachfolgende Tabelle zeigt die Ergebnisse.
+adj|nachfolgend|Die nachfolgende Tabelle zeigt die Ergebnisse.
 verb|nachfolgen, folgt nach, folgte nach, ist nachgefolgt|Der König folgt nach.
-adj|vorübergehen, geht vorüber, ging vorüber, ist vorübergegangen|Die vorübergehende Lösung hat gut funktioniert.
+adj|vorübergehend|Die vorübergehende Lösung hat gut funktioniert.
 verb|vorübergehen, geht vorüber, ging vorüber, ist vorübergegangen|Der Sommer geht vorüber.
-das|wiedersehen, sieht wieder, sah wieder, hat wiedergesehen|Das Wiedersehen war emotional.
+das|das Wiedersehen|Das Wiedersehen war emotional.
 verb|wiedersehen, sieht wieder, sah wieder, hat wiedergesehen|Ich möchte dich wiedersehen.
 adj|polnisch|Wir besuchen eine polnische Stadt.
-das|polnisch|Polnisch ist eine schöne Sprache.
+das|das Polnisch|Polnisch ist eine schöne Sprache.
 adj|indisch|Sie trägt ein indisches Kleid.
-das|indisch|Viele Menschen in Indien sprechen Hindi.
-die (pl)|die Unterlage, -n|Die Unterlagen liegen auf dem Schreibtisch.
+das|das Indisch|Viele Menschen in Indien sprechen Indisch.
+die|die Unterlage, -n|Die Unterlagen liegen auf dem Schreibtisch.
 die|die Unterlage, -n|Er nutzt eine Unterlage für seine Maus.
 adj|hessisch|Die hessische Landschaft ist wunderschön.
-das|hessisch|Er versteht Hessisch, aber spricht es nicht.
+das|das Hessisch|Er versteht Hessisch, aber spricht es nicht.
