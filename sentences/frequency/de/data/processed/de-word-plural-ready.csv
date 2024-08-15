@@ -2,15 +2,15 @@
 142|das|das Deutsch
 175|das|das Deutschland
 254|die|die Million, Mio.
-269|die (pl)|die Leute
+269|die (pl)||die Leute
 345|das|das Europa
-459|die (pl)|die Eltern
+459|die (pl)||die Eltern
 464|die|die USA (Vereinigte Staaten von Amerika)
 509|die|die Milliarde, Mrd.
 535|der|der Meter, m
 557|der, die|das Deutsche
-622|die (pl)|die Kosten
-632|die (pl)|die Daten
+622|die (pl)||die Kosten
+632|die (pl)||die Daten
 655|der|der Dank
 661|das|das Verhalten
 684|das|das Bayern
@@ -32,7 +32,7 @@
 986|die|die Nähe
 990|die|die Türkei
 1014|das|das BGB (Bürgerliches Gesetzbuch)
-1019|die (pl)|die Medien
+1019|die (pl)||die Medien
 1041|das|das Schweigen
 1058|die|die Ruhe
 1080|der|der Westen, West-
@@ -141,7 +141,7 @@
 2927|das|das Tibet
 2932|das|das Japanisch
 2941|der, die|die Verwandte
-2945|die (pl)|die Schulden
+2945|die (pl)||die Schulden
 2946|der|der Hinblick
 2949|das|das Zuhause
 2956|das|das Dänisch
@@ -171,7 +171,7 @@
 3500|der|der Wohlstand
 3513|die|die Erziehung
 3543|die|die Vorsicht
-3548|die (pl)|die Ferien
+3548|die (pl)||die Ferien
 3573|die|die Kälte
 3585|der|der Sex
 3600|der|der Wahnsinn
@@ -197,7 +197,7 @@
 3995|der|der Quatsch
 4014|die|die SPÖ (Sozialdemokratische Partei Österreichs)
 4023|das|das Unrecht
-4031|die (pl)|die Geschwister
+4031|die (pl)||die Geschwister
 4056|die|die Abwehr
 4071|das|das Nordrhein-Westfalen
 4072|der|der Verstand
@@ -210,10 +210,10 @@
 4146|das|das Rheinland-Pfalz
 4164|das|das Mexiko
 4165|die|die Moderne
-4170|die (pl)|die Taliban
+4170|die (pl)||die Taliban
 4179|der, die|die Einzige
 4182|die|die Flüchtlingspolitik
-4201|die (pl)|die Alpen
+4201|die (pl)||die Alpen
 4205|der, die|die Geliebte
 4234|die|die Informatik
 4242|die|die Sowjetunion
