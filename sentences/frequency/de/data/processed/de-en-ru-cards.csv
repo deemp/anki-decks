@@ -4,9 +4,9 @@
 1|pron|der, die, das||who, that|который, что|Der Lehrer, der spricht, ist hier.|The teacher who speaks is here.|Учитель, который говорит, здесь.
 2|conj|und||and|и|Er und ich sind Freunde.|He and I are friends.|Он и я друзья.
 3|prep|in||in|в|Er ist in der Schule.|He is in the school.|Он в школе.
-4|aux|sein, ist, war, ist gewesen||(past tense)|(прошедшее время)|Er ist früh nach Hause gekommen.|She was in Berlin.|Она была в Берлине.
+4|aux|sein, ist, war, ist gewesen||(past tense)|(прошедшее время)|Er ist früh nach Hause gekommen.|He came home early.|Он пришел домой рано.
 4|verb|sein, ist, war, ist gewesen||to be|быть|Er ist mein Bruder.|He is my brother.|Он мой брат.
-5|art|ein||a, an|неопределённый артикль|Ein Apfel ist rot.|An apple is red.|Яблоко красное.
+5|art|ein||a, an|(неопределённый артикль)|Ein Apfel ist rot.|An apple is red.|Яблоко красное.
 5|pron|einer||one (of)|один (из)|Einer der Wagen ist kaputt.|One of the cars is broken.|Одна из машин сломана.
 6|aux|haben, hat, hatte, hat gehabt||(past tense)|(прошедшее время)|Sie hatte ein Buch.|She had a book.|У нее была книга.
 6|verb|haben, hat, hatte, hat gehabt||to have|иметь|Ich habe einen Hund.|I have a dog.|У меня есть собака.
@@ -39,10 +39,10 @@
 25|pron|wie||how|как|Wie heißt du?|What is your name?|Как тебя зовут?
 26|pron|wir||we|мы|Wir gehen ins Kino.|We go to the cinema.|Мы идем в кино.
 27|pron|ihr||her, their, hers, theirs|её, их|Ihre Katze ist süß.|Her cat is cute.|Её кошка милая.
-27|pron|ihr||you, her|ей, её|Das Buch gehört ihr.|The book is hers.|Книга принадлежит ей.
+27|pron|ihr||you, her|ей, её|Das Buch gehört ihr.|The book belongs to her.|Книга принадлежит ей.
 27|pron|Ihr||your|ваш|Ist das Ihr Auto?|Is that your car?|Это ваша машина?
 28|adv|so||so, thus, the way, such|так|Es war nicht so.|It wasn’t so.|Это было не так.
-28|part|so||so|так|Es ist so kalt.|It is so cold.|Здесь так холодно.
+28|part|so||so|так|Es ist so kalt.|It is so cold.|Так холодно.
 29|prep|bei||by, with, at|у, с|Er wohnt bei mir.|He lives with me.|Он живет у меня.
 30|pron|sein||his, its|его|Sein Haus ist groß.|His house is big.|Его дом большой.
 31|conj|aber||but|но|Es ist teuer, aber schön.|It is expensive but beautiful.|Это дорого, но красиво.
@@ -56,8 +56,8 @@
 38|pron|was||what|что|Was machst du?|What are you doing?|Что ты делаешь?
 39|adv|nur||only|только|Ich habe nur ein Buch.|I have only one book.|У меня есть только одна книга.
 40|verb|sagen, sagt, sagte, hat gesagt||to say, tell|говорить|Sie sagt die Wahrheit.|She tells the truth.|Она говорит правду.
-41|adv|dann||then|тогда|Dann gehe ich nach Hause.|Then I go home.|Тогда я пойду домой.
-42|conj|wenn||if, when|если, когда|Wenn er kommt, gehe ich.|If he comes, I go.|Если он придет, я уйду.
+41|adv|dann||then, after|потом|Ich esse, dann schlafe ich.|I eat, then I sleep.|Я ем, потом сплю.
+42|conj|wenn||if, when|если, когда|Wenn er kommt, gehe ich.|When he comes, I go.|Когда он придет, я уйду.
 43|verb|müssen, muss, musste, hat gemusst||to have to, must|должен|Du musst lernen.|You must learn.|Ты должен учиться.
 44|conj|um||in order to|чтобы|Lerne, um zu verstehen.|Learn to understand.|Учись, чтобы понять.
 44|prep|um||around, at|вокруг|Er ging um die Ecke.|He went around the corner.|Он пошел за угол.
@@ -118,7 +118,7 @@
 91|pron|ihm||him|ему|Ich gebe ihm das Buch.|I give him the book.|Я даю ему книгу.
 92|pron|ihn||him|его|Ich sehe ihn jeden Tag.|I see him every day.|Я вижу его каждый день.
 93|conj|denn||because|потому что|Er kommt, denn er muss.|He comes because he must.|Он приходит, потому что должен.
-93|part|denn||anyway|же|Was denn?|What anyway?|Что же?
+93|part|denn||anyway|же|Was ist denn los?|What is going on anyway?|Что же происходит?
 94|das|das Beispiel|die Beispiele|example|пример|Ein gutes Beispiel.|A good example.|Хороший пример.
 95|adj|erste (r, s)||first|первый|Das erste Mal.|The first time.|Первый раз.
 96|die|die Zeit|die Zeiten|time|время|Die Zeit vergeht schnell.|Time flies.|Время летит.
@@ -140,11 +140,11 @@
 109|pron|nichts, nix||nothing|ничего|Ich sehe nichts.|I see nothing.|Я ничего не вижу.
 110|adj|klein||small, little|маленький|Das ist ein kleines Haus.|That is a small house.|Это маленький дом.
 111|der|der Tag|die Tage|day|день|Der Tag ist schön.|The day is beautiful.|День прекрасный.
-112|adj|deutsch||German|немецкий|Das deutsche Auto.|The German car.|Немецкая машина.
+112|adj|deutsch||German|немецкий|Das deutsche Brot ist lecker.|The German bread is tasty.|Немецкий хлеб вкусный.
 112|das|das Deutsch||German|немецкий|Er lernt Deutsch in der Schule.|He learns German at school.|Он учит немецкий в школе.
 113|verb|bleiben, bleibt, blieb, ist geblieben||to stay, remain|оставаться|Er bleibt hier.|He stays here.|Он остается здесь.
 114|adv|nun, nu||now|теперь|Nun bin ich müde.|Now I am tired.|Теперь я устал.
-115|conj|sondern||but (on the contrary)|а|Nicht dies, sondern das.|Not this, but that.|Не это, а то.
+115|conj|sondern||but (on the contrary)|а|Er ist nicht faul, sondern fleißig.|He is not lazy, but hardworking.|Он не ленивый, а трудолюбивый.
 116|adv|heute||today|сегодня|Heute ist ein guter Tag.|Today is a good day.|Сегодня хороший день.
 117|pron|beide||both|оба|Beide kommen morgen.|Both come tomorrow.|Оба придут завтра.
 118|adj|hoch||high, tall|высокий|Das Haus ist hoch.|The house is tall.|Дом высокий.
@@ -154,17 +154,17 @@
 121|der|der Mann|die Männer|man|мужчина|Der Mann ist stark.|The man is strong.|Мужчина сильный.
 122|pron|welch, -e, -er, -es||which|который|Welches Buch liest du?|Which book do you read?|Какую книгу ты читаешь?
 123|verb|tun, tut, tat, hat getan||to do|делать|Ich weiß nicht, was ich tun soll.|I don’t know what to do.|Я не знаю, что мне делать.
-124|adv|einmal||once|один раз|Einmal ist keinmal.|Once is nothing.|Один раз - не в счёт.
+124|adv|einmal||once|один раз|Einmal ist keinmal.|Once is nothing.|Один раз — не в счёт.
 125|pron|ihnen||them|им|Ich gebe ihnen das Buch.|I give them the book.|Я даю им книгу.
 125|pron|Ihnen||you|вам|Ich habe Ihnen geholfen.|I helped you.|Я помог вам.
 126|verb|heißen, heißt, hieß, hat geheißen||to be called|называться|Wie heißen Sie?|What is your name?|Как вас зовут?
 127|conj|ob||whether, if|ли|Ich frage, ob er kommt.|I ask if he is coming.|Я спрашиваю, придёт ли он.
 128|verb|denken, denkt, dachte, hat gedacht||to think|думать|Ich denke an dich.|I think of you.|Я думаю о тебе.
-129|pron|dabei||with it, there|при этом|Er ist dabei.|He is there.|Он при этом.
++129|pron|dabei||with it, there|при этом|Er ist dabei.|He is there.|Он при этом.
 130|prep|seit||since, for|с|Ich wohne hier seit drei Jahren.|I have lived here for three years.|Я живу здесь три года.
-131|adj|einfach||simple, easy|простой|Einfach und klar.|Simple and clear.|Простой и ясный.
-131|part|einfach||simply|просто|Das ist einfach toll.|That is simply great.|Это просто здорово.
-132|adv|erst||first, only, not until|сначала|Ich komme erst morgen.|I will come only tomorrow.|Я приду только завтра.
++131|adj|einfach||simple, easy|простой|Einfach und klar.|Simple and clear.|Простой и ясный.
++131|part|einfach||simply|просто|Das ist einfach toll.|That is simply great.|Это просто отлично.
+132|adv|erst||first, only, not until|только|Ich komme erst morgen.|I will come only tomorrow.|Я приду только завтра.
 132|part|erst|||только|Die Party geht erst los.|The party is just beginning.|Вечеринка только начинается.
 133|das|das Kind|die Kinder|child|ребёнок|Das Kind spielt.|The child plays.|Ребёнок играет.
 134|das|das Land|die Länder|land, country, state|страна|Das Land ist schön.|The country is beautiful.|Страна красивая.
@@ -177,7 +177,7 @@
 140|das|das Deutschland||Germany|Германия|Deutschland ist schön.|Germany is beautiful.|Германия красивая.
 141|adj|gleich||same, right away, just|такой же|Wir haben das gleiche Problem.|We have the same problem.|У нас такая же проблема.
 142|verb|nehmen, nimmt, nahm, hat genommen||to take|брать|Ich nehme den Bus.|I take the bus.|Я сажусь на автобус.
-143|verb|dürfen, darf, durfte, hat gedurft||to be allowed to may|мочь|Du darfst hier nicht parken.|You may not park here.|Тебе нельзя здесь парковаться.
+143|verb|dürfen, darf, durfte, hat gedurft||to be allowed to, may|иметь разрешение, мочь|Du darfst hier nicht parken.|You may not park here.|Ты не можешь здесь парковаться.
 144|adj|wichtig||important|важный|Das ist wichtig.|That is important.|Это важно.
 145|adv|vielleicht||perhaps, maybe|может быть|Vielleicht kommt er.|Maybe he comes.|Может быть, он придёт.
 145|part|vielleicht|||возможно|Das war vielleicht spannend!|That was quite exciting!|Это было, возможно, захватывающе!
@@ -196,16 +196,16 @@
 156|verb|glauben, glaubt, glaubte, hat geglaubt||to believe|верить|Ich glaube dir.|I believe you.|Я верю тебе.
 157|die|die Frage|die Fragen|question|вопрос|Das ist die Frage.|That is the question.|Это вопрос.
 158|verb|gelten, gilt, galt, hat gegolten||to be valid|быть действительным|Das Gesetz gilt.|The law is valid.|Закон действует.
-159|adj|gerade||straight|прямой|Ein gerades Haus.|A straight house.|Прямой дом.
+159|adj|gerade||straight|прямой|Die Linie ist gerade.|The line is straight.|Линия прямая.
 159|adv|gerade||just, just now, right now|сейчас|Ich mache es gerade.|I am doing it right now.|Я делаю это сейчас.
 160|verb|folgen, folgt, folgte, ist gefolgt||to follow|следовать|Er folgt dem Hund.|He follows the dog.|Он следует за собакой.
 161|verb|sprechen, spricht, sprach, hat gesprochen||to speak|говорить|Sie spricht Deutsch.|She speaks German.|Она говорит по-немецки.
 162|verb|führen, führt, führte, hat geführt||to lead|вести|Er führt die Gruppe.|He leads the group.|Он ведет группу.
 163|verb|bringen, bringt, brachte, hat gebracht||to bring, take|приносить, привозить|Er bringt ein Buch.|He brings a book.|Он приносит книгу.
 164|die|die Welt|die Welten|world|мир|Die Welt ist groß.|The world is big.|Мир большой.
-165|adv|gar||at all|вообще|Das ist gar nicht schlecht.|That is not bad at all.|Это совсем неплохо.
+165|adv|gar||at all|вообще|Das ist gar nicht schlecht.|That is not bad at all.|Это совсем не плохо.
 166|adj|eigen||own|собственный|Er hat ein eigenes Zimmer.|He has his own room.|У него есть своя комната.
-167|adj|genau||exact|точный|Das ist genau richtig.|That is exactly right.|Это точно правильно.
+167|adj|genau||exact|точный|Er gab eine genaue Antwort.|He gave an exact answer.|Он дал точный ответ.
 168|verb|mögen, mag, mochte, hat gemocht||to like|любить|Ich mag dieses Buch.|I like this book.|Мне нравится эта книга.
 169|adj|spät||late|поздний|Es ist schon spät.|It is already late.|Уже поздно.
 169|adj|spät||later|позже|Ich werde später kommen.|I will come later.|Я приду позже.
@@ -223,27 +223,27 @@
 179|verb|brauchen, braucht, brauchte, hat gebraucht||to need|нуждаться|Ich brauche Hilfe.|I need help.|Мне нужна помощь.
 180|die|die Hand|die Hände|hand|рука|Sie hebt die Hand.|She raises her hand.|Она поднимает руку.
 181|adv|etwa||about, approximately|примерно|Etwa zehn Minuten.|About ten minutes.|Около десяти минут.
-181|part|etwa||after all|разве|Etwa ist es zu spät.|After all, it is too late.|Разве уже поздно.
-182|adj|weitere (r, s)||additional, further|дополнительный|Weitere Informationen.|Further information.|Дополнительная информация.
+181|part|etwa||after all|ведь|Es ist etwa zu spät.|After all, it is too late.|Ведь уже поздно.
+182|adj|weitere (r, s)||additional, further|дополнительный|Wir brauchen weitere Details.|We need further details.|Нам нужны дополнительные детали.
 183|das|das Ende|die Enden|end|конец|Das Ende ist nah.|The end is near.|Конец близок.
 184|verb|schreiben, schreibt, schrieb, hat geschrieben||to write|писать|Er schreibt einen Brief.|He writes a letter.|Он пишет письмо.
 185|pron|solch||such|такой|Solche Bücher mag ich.|I like such books.|Мне нравятся такие книги.
 186|adv|nie||never|никогда|Er kommt nie zu spät.|He is never late.|Он никогда не опаздывает.
-187|der|der Fall|die Fälle|fall, case|случай|Im Fall eines Falles.|In case of emergency.|В случае чего.
+187|der|der Fall|die Fälle|fall, case|случай|Das ist nicht der Fall.|That is not the case.|Это не тот случай.
 188|adj|schön||beautiful, pleasant, good|красивый|Das ist schön.|That is beautiful.|Это красиво.
 189|adj|wirklich||real, actual|реальная|Das ist eine wirkliche Gefahr.|That is a real danger.|Это реальная опасность.
 189|adv|wirklich||really, actually|действительно|Ich bin wirklich müde.|I am really tired.|Я действительно устал.
-190|pron|denen||whom, that|которым|Die Menschen, denen ich vertraue.|The people whom I trust.|Люди, которым я доверяю.
+190|pron|denen||whom, that|которым|Die Menschen, denen ich glaube, sind ehrlich.|The people whom I trust are honest.|Люди, которым я верю, честные.
 191|verb|nennen, nennt, nannte, hat genannt||to name, call|называть|Er nennt mich Freund.|He calls me friend.|Он называет меня другом.
 192|adv|warum||why|почему|Warum fragst du?|Why do you ask?|Почему ты спрашиваешь?
 193|verb|ziehen, zieht, zog, hat gezogen||to pull, move|тянуть, двигать|Er zieht die Tür auf.|He pulls the door open.|Он тянет дверь.
-194|das|das Wort|die Wörter|word|слово|Ein deutsches Wort.|A German word.|Немецкое слово.
+194|das|das Wort|die Wörter|word|слово|Schreib das Wort auf.|Write down the word.|Запиши слово.
 195|pron|darauf, drauf||on it, to it|на это|Ich freue mich darauf.|I am looking forward to it.|Я с нетерпением жду этого.
 196|adv|eben, ebend||just, now|только|Ich habe es dir eben gesagt.|I just told you.|Я только что тебе это сказал.
 196|part|eben, ebend|||просто|Das war eben so.|That’s just how it was.|Это просто было так.
-197|die|die Seite|die Seiten|side, page|сторона, страница|Auf der linken Seite.|On the left side.|На левой стороне.
-198|der, das|das Teil|die Teile|part|часть|Ein Teil des Ganzen.|A part of the whole.|Часть целого.
-199|adj|jung||young|молодой|Ein junges Mädchen.|A young girl.|Молодая девушка.
+197|die|die Seite|die Seiten|side, page|Der Fluss ist auf der rechten Seite.|The river is on the right side.|Река находится на правой стороне.
+198|der, das|das Teil|die Teile|part|часть|Jedes Teil hat seine Funktion.|Each part has its function.|Каждая часть имеет свою функцию.
+199|adj|jung||young|молодой|Der junge Mann geht zur Arbeit.|The young man is going to work.|Молодой человек идет на работу.
 200|num|vier||four|четыре|Vier Katzen spielen.|Four cats play.|Четыре кошки играют.
 201|adj|besser||better|лучше|Das ist besser.|That is better.|Это лучше.
 202|adv|fast||almost|почти|Er ist fast fertig.|He is almost ready.|Он почти готов.
@@ -333,7 +333,7 @@
 281|conj|sowie||as well as, as soon as, plus|как и|Er kam sowie sie ging.|He came as soon as she left.|Он пришел, как только она ушла.
 282|der|der Professor|die Professoren|professor|профессор|Der Professor erklärt es gut.|The professor explains it well.|Профессор хорошо объясняет.
 283|pron|darüber, drüber||above it, about it|об этом|Wir sprechen darüber morgen.|We will talk about it tomorrow.|Мы поговорим об этом завтра.
-284|pron|deren||whose|чей|Das ist das Haus, deren Fenster offen sind.|That is the house whose windows are open.|Это дом, чьи окна открыты.
+284|pron|deren||whose|чей|Das ist die Frau, deren Auto vor dem Haus steht.|That is the woman whose car is parked in front of the house.|Это женщина, чья машина стоит перед домом.
 285|verb|schaffen, schafft, schuf, hat geschaffen||to manage, create|создавать, управлять|Wir schaffen das gemeinsam.|We manage that together.|Мы справимся с этим вместе.
 286|pron|damals||then|тогда|Damals war alles anders.|Everything was different then.|Тогда все было иначе.
 287|verb|erhalten, erhält, erhielt, hat erhalten||to receive|получать|Ich habe deinen Brief erhalten.|I received your letter.|Я получил твое письмо.
@@ -384,7 +384,7 @@
 328|das|das Spiel|die Spiele|game, match|игра|Das Spiel war spannend.|The game was exciting.|Игра была захватывающей.
 329|die|die Familie|die Familien|family|семья|Die Familie ist groß.|The family is big.|Семья большая.
 330|pron|jemand||someone, somebody|кто-то|Jemand hat angerufen.|Someone called.|Кто-то позвонил.
-331|pron|dessen||whose|чей|Das Auto, dessen Motor laut ist.|The car whose engine is loud.|Машина, чей двигатель громкий.
+331|pron|dessen||whose|чей|Das Auto, dessen Motor laut ist, gehört meinem Freund.|The car, whose engine is loud, belongs to my friend.|Машина, чей двигатель громкий, принадлежит моему другу.
 332|verb|fallen, fällt, fiel, ist gefallen||to fall|падать|Die Blätter fallen im Herbst.|The leaves fall in autumn.|Листья падают осенью.
 333|num|zehn||ten|десять|Er hat zehn Finger.|He has ten fingers.|У него десять пальцев.
 334|der|der Preis|die Preise|price, prize|цена|Der Preis ist hoch.|The price is high.|Цена высокая.
@@ -585,7 +585,7 @@
 525|der|der Zusammenhang|die Zusammenhänge|connection, context|связь|Der Zusammenhang ist klar.|The context is clear.|Связь ясна.
 526|adj|langsam||slow|медленный|Der Zug ist langsam.|The train is slow.|Поезд медленный.
 527|der|der Arm|die Arme|arm|рука|Mein Arm tut weh.|My arm hurts.|Моя рука болит.
-528|conj|nachdem||after|после|Nachdem wir gegessen haben.|After we have eaten.|После того как мы поели.
+528|conj|nachdem||after|после|Nachdem wir gegessen haben, gehen wir spazieren.|After we have eaten, we go for a walk.|После того как мы поели, мы идем на прогулку.
 529|der|der Tisch|die Tische|table|стол|Der Tisch ist rund.|The table is round.|Стол круглый.
 530|verb|rufen, ruft, rief, hat gerufen||to call|звать|Er ruft laut.|He calls loudly.|Он громко зовет.
 531|verb|bieten, bietet, bot, hat geboten||to offer|предлагать|Das Angebot ist gut.|The offer is good.|Предложение хорошее.
@@ -594,7 +594,7 @@
 534|adv|inzwischen||in the meantime|между тем|Inzwischen ist es dunkel.|In the meantime, it is dark.|Между тем стало темно.
 535|adv|ebenso||just as, as much as, as well|так же|Sie ist ebenso klug.|She is just as smart.|Она так же умна.
 536|der|der Boden|die Böden|ground, floor, bottom|пол|Der Boden ist kalt.|The floor is cold.|Пол холодный.
-537|conj|bevor||before|до|Bevor wir gehen.|Before we go.|До того как мы уйдем.
+537|conj|bevor||before|до|Bevor wir gehen, müssen wir uns verabschieden.|Before we go, we must say goodbye.|До того как мы уйдем, мы должны попрощаться.
 538|verb|verwenden, verwendet, verwendete, hat verwendet||to use|использовать|Er verwendet das Werkzeug.|He uses the tool.|Он использует инструмент.
 539|die|die Politik|die Politiken|politics|политика|Die Politik ist kompliziert.|Politics is complicated.|Политика сложная.
 540|der|der Tod|die Tode|death|смерть|Der Tod ist traurig.|Death is sad.|Смерть грустная.
@@ -1059,8 +1059,8 @@
 988|verb|wiederholen, wiederholt, wiederholte, hat wiederholt||to repeat|повторять|Er wiederholt die Frage.|He repeats the question.|Он повторяет вопрос.
 989|die|die Ruhe||silence, peace|тишина|Die Ruhe tut gut.|The silence is soothing.|Тишина полезна.
 990|die|die Darstellung|die Darstellungen|presentation, description, depiction|представление|Die Darstellung ist klar.|The presentation is clear.|Представление ясное.
-991|adj|ruhig||quiet, calm|тихий|Der See ist ruhig.|The lake is calm.|Озеро тихое.
-991|part|ruhig||really|спокойно|Du kannst ruhig fragen, wenn du etwas nicht verstehst.|Feel free to ask if you don’t understand something.|Ты можешь спокойно спросить, если что-то не понимаешь.
+991|adj|ruhig||quiet, calm|тихий, спокойный|Der See ist ruhig.|The lake is calm.|Озеро спокойно.
+991|part|ruhig||freely|свободно|Du kannst ruhig fragen, wenn du etwas nicht verstehst.|Feel free to ask if you don’t understand something.|Можешь свободно задавать вопросы, если что-то не понимаешь.
 992|der|der Traum|die Träume|dream|сон|Der Traum war schön.|The dream was beautiful.|Сон был красивым.
 993|verb|behandeln, behandelt, behandelte, hat behandelt||to treat|лечить|Der Arzt behandelt den Patienten.|The doctor treats the patient.|Врач лечит пациента.
 994|adv|stets||always|всегда|Er ist stets freundlich.|He is always friendly.|Он всегда дружелюбен.
@@ -1106,7 +1106,7 @@
 1032|das|das Volk|die Völker|people|народ|Das Volk feiert.|The people celebrate.|Народ празднует.
 1033|adj|kulturell||cultural|культурный|Das Festival ist kulturell wichtig.|The festival is culturally important.|Фестиваль культурно важен.
 1034|verb|definieren, definiert, definierte, hat definiert||to define|определять|Er kann das Wort definieren.|He can define the word.|Он может определить слово.
-1035|der|der September|die September|September|сентябрь|September ist ein schöner Monat.|September is a beautiful month.|Сентябрь - красивый месяц.
+1035|der|der September|die September|September|сентябрь|September ist ein schöner Monat.|September is a beautiful month.|Сентябрь — красивый месяц.
 1036|der|der Beruf|die Berufe|occupation, job, profession|профессия|Der Beruf ist interessant.|The occupation is interesting.|Профессия интересная.
 1037|der|der Ansatz|die Ansätze|approach, attempt|подход|Sein Ansatz ist gut.|His approach is good.|Его подход хороший.
 1038|adj|nötig||necessary|необходимый|Das ist nötig.|That is necessary.|Это необходимо.
@@ -1115,16 +1115,16 @@
 1041|die|die Küche|die Küchen|kitchen, cuisine|кухня|Die Küche ist sauber.|The kitchen is clean.|Кухня чистая.
 1042|adj|verantwortlich||responsible|ответственный|Er ist verantwortlich.|He is responsible.|Он ответственный.
 1043|adj|täglich||daily|ежедневный|Das Treffen ist täglich.|The meeting is daily.|Встреча ежедневная.
-1044|der|der Montag|die Montage|Monday|понедельник|Montag ist ein harter Tag.|Monday is a hard day.|Понедельник - трудный день.
+1044|der|der Montag|die Montage|Monday|понедельник|Montag ist ein harter Tag.|Monday is a hard day.|Понедельник — трудный день.
 1045|der|der Spaß|die Späße|fun|веселье|Das Spiel macht Spaß.|The game is fun.|Игра приносит веселье.
 1046|verb|herstellen, stellt her, stellte her, hat hergestellt||to produce|производить|Die Firma stellt Autos her.|The company produces cars.|Компания производит автомобили.
 1047|verb|überlegen||to consider, think about, think of|обдумывать|Ich überlege es mir.|I will think about it.|Я это обдумаю.
-1048|der|der Mai|die Maie|May|май|Mai ist ein warmer Monat.|May is a warm month.|Май - тёплый месяц.
+1048|der|der Mai|die Maie|May|май|Mai ist ein warmer Monat.|May is a warm month.|Май — тёплый месяц.
 1049|verb|umfassen, umfasst, umfasste, hat umfasst||to include, consist of, surround|включать|Das Buch umfasst viele Themen.|The book includes many topics.|Книга включает много тем.
 1050|adj|ernst||serious|серьёзный|Das Thema ist ernst.|The topic is serious.|Тема серьёзная.
 1051|der|der Roman|die Romane|novel|роман|Der Roman ist spannend.|The novel is exciting.|Роман захватывающий.
 1052|der|der Januar|die Januare|January|январь|Januar ist kalt.|January is cold.|Январь холодный.
-1053|num|neun||nine|девять|Neun ist meine Glückszahl.|Nine is my lucky number.|Девять - моё счастливое число.
+1053|num|neun||nine|девять|Neun ist meine Glückszahl.|Nine is my lucky number.|Девять — моё счастливое число.
 1054|verb|kämpfen, kämpft, kämpfte, hat gekämpft||to fight|сражаться|Er kämpft tapfer.|He fights bravely.|Он сражается храбро.
 1055|adj|jeweilig||particular, respective|соответствующий|Die jeweilige Situation.|The respective situation.|Соответствующая ситуация.
 1056|verb|versprechen, verspricht, versprach, hat versprochen||to promise|обещать|Er verspricht es.|He promises it.|Он это обещает.
@@ -1139,7 +1139,7 @@
 1065|der|der Inhalt|die Inhalte|content, plot|содержание|Der Inhalt ist spannend.|The content is exciting.|Содержание захватывающее.
 1066|verb|scheitern, scheitert, scheiterte, ist gescheitert||to fail, break down|проваливаться|Der Plan scheiterte.|The plan failed.|План провалился.
 1067|das|das Ereignis|die Ereignisse|event|событие|Das Ereignis ist wichtig.|The event is important.|Событие важное.
-1068|adv|lediglich||merely|только|Es ist lediglich eine Frage.|It is merely a question.|Это только вопрос.
+1068|adv|lediglich||simply|просто|Es ist lediglich eine Formalität.|It is simply a formality.|Это просто формальность.
 1069|adj|organisch||organic|органический|Das Produkt ist organisch.|The product is organic.|Продукт органический.
 1070|adj|glücklich||happy, fortunate|счастливый|Ich bin glücklich.|I am happy.|Я счастлив.
 1071|der|der Rest|die Reste|rest, remainder, balance|остаток|Der Rest ist unwichtig.|The rest is unimportant.|Остаток неважен.
@@ -1183,7 +1183,7 @@
 1109|adj|typisch||typical|типичный|Das ist typisch.|That is typical.|Это типично.
 1110|das|das Gebiet|die Gebiete|region, area, territory|область|Das Gebiet ist groß.|The area is large.|Область большая.
 1111|die|die Behörde|die Behörden|department, authorities|ведомство|Die Behörde ist wichtig.|The authority is important.|Ведомство важно.
-1112|der|der Samstag|die Samstage|Saturday|суббота|Samstag ist mein Lieblingstag.|Saturday is my favorite day.|Суббота - мой любимый день.
+1112|der|der Samstag|die Samstage|Saturday|суббота|Samstag ist mein Lieblingstag.|Saturday is my favorite day.|Суббота — мой любимый день.
 1113|die|die Organisation|die Organisationen|organization|организация|Die Organisation ist groß.|The organization is large.|Организация большая.
 1114|die|die Summe|die Summen|sum|сумма|Die Summe ist korrekt.|The sum is correct.|Сумма правильная.
 1115|der|der Job|die Jobs|job|работа|Er sucht einen Job.|He is looking for a job.|Он ищет работу.
@@ -1250,7 +1250,7 @@
 1174|die|die Ausbildung|die Ausbildungen|training, development|обучение|Die Ausbildung ist wichtig.|The training is important.|Обучение важно.
 1175|der|der Wagen|die Wagen|car, carriage|машина|Der Wagen ist neu.|The car is new.|Машина новая.
 1176|das|das Schiff|die Schiffe|ship|корабль|Das Schiff ist groß.|The ship is big.|Корабль большой.
-1177|num|tausend||thousand|тысяча|Tausend Menschen kamen.|A thousand people came.|Тысяча людей пришло.
+1177|num|tausend||thousand|тысяча|Tausend Menschen kamen.|A thousand people came.|Тысяча человек пришла.
 1178|die|die Tat|die Taten|deed, action|поступок|Die Tat war mutig.|The deed was brave.|Поступок был смелым.
 1179|adj|obere (r, s)||upper|верхний|Die obere Etage.|The upper floor.|Верхний этаж.
 1180|die|die Gleichung|die Gleichungen|equation|уравнение|Die Gleichung ist schwierig.|The equation is difficult.|Уравнение сложное.
@@ -1259,12 +1259,12 @@
 1183|adj|mittlere (r, s)||middle, average|средний|Die mittlere Größe.|The average size.|Средний размер.
 1184|verb|erheben, erhebt, erhob, hat erhoben||to raise|поднимать|Er erhebt die Hand.|He raises his hand.|Он поднимает руку.
 1185|die|die Erklärung|die Erklärungen|explanation|объяснение|Die Erklärung ist klar.|The explanation is clear.|Объяснение ясное.
-1186|das|das Konzept|die Konzepte|concept, idea, plan|концепция|Das Konzept ist gut.|The concept is good.|Концепция хорошая.
-1187|der|der Mittwoch|die Mittwoche|Wednesday|среда|Mittwoch ist mein Lieblingstag.|Wednesday is my favorite day.|Среда - мой любимый день.
+1186|das|das Konzept|die Konzepte|concept, idea, plan|идея|Sein Konzept zur Verbesserung der Effizienz war genial.|His idea for improving efficiency was brilliant.|Его идея по улучшению эффективности была гениальной.
+1187|der|der Mittwoch|die Mittwoche|Wednesday|среда|Mittwoch ist mein Lieblingstag.|Wednesday is my favorite day.|Среда — мой любимый день.
 1188|verb|stören, stört, störte, hat gestört||to disturb, bother|мешать|Der Lärm stört mich.|The noise bothers me.|Шум мешает мне.
 1189|die|die Spur|die Spuren|track, lane|след|Die Spur ist frisch.|The track is fresh.|След свежий.
 1190|adj|berliner||(of) Berlin|берлинский|Die Berliner Mauer.|The Berlin Wall.|Берлинская стена.
-1191|die|die Herausforderung|die Herausforderungen|challenge|вызов|Die Aufgabe ist eine Herausforderung.|The task is a challenge.|Задание - это вызов.
+1191|die|die Herausforderung|die Herausforderungen|challenge|вызов|Die Aufgabe ist eine Herausforderung.|The task is a challenge.|Задание — это вызов.
 1192|verb|starten, startet, startete, hat gestartet||to start|начинать|Das Rennen startet jetzt.|The race starts now.|Гонка начинается сейчас.
 1193|adj|staatlich||state, government, national|государственный|Das ist staatlich geregelt.|That is regulated by the state.|Это регулируется государством.
 1194|verb|verbessern, verbessert, verbesserte, hat verbessert||to improve, correct|улучшать|Er verbessert seine Leistung.|He improves his performance.|Он улучшает свою производительность.
@@ -1379,7 +1379,7 @@
 1302|verb|leiten, leitet, leitete, hat geleitet||to lead|руководить|Er leitet das Projekt.|He leads the project.|Он руководит проектом.
 1303|der|der Vertreter|die Vertreter|representative|представитель|Er ist mein Vertreter.|He is my representative.|Он мой представитель.
 1304|die|die Statistik|die Statistiken|statistics|статистика|Die Statistik ist korrekt.|The statistics are accurate.|Статистика правильная.
-1305|die|die Heimat|die Heimaten|home, homeland|родина|Deutschland ist meine Heimat.|Germany is my homeland.|Германия - моя родина.
+1305|die|die Heimat|die Heimaten|home, homeland|родина|Deutschland ist meine Heimat.|Germany is my homeland.|Германия — моя родина.
 1306|der|der Milliliter, ml||milliliter|миллилитр|Das Glas fasst einen Milliliter.|The glass holds a milliliter.|Стакан вмещает один миллилитр.
 1307|verb|zurückkehren, kehrt zurück, kehrte zurück, ist zurückgekehrt||to return|возвращаться|Er kehrt nach Hause zurück.|He returns home.|Он возвращается домой.
 1308|der|der Gegenstand|die Gegenstände|object|предмет|Der Gegenstand ist schwer.|The object is heavy.|Предмет тяжёлый.
@@ -1431,7 +1431,7 @@
 1353|verb|ausschließen, schließt aus, schloss aus, hat ausgeschlossen||to exclude, rule out|исключать|Er wurde ausgeschlossen.|He was excluded.|Он был исключён.
 1354|adj|sinnvoll||sensible, meaningful|разумный|Das ist sinnvoll.|That is sensible.|Это разумно.
 1355|der|der Bezug|die Bezüge|reference, cover|ссылка|Er nimmt Bezug auf das Buch.|He makes reference to the book.|Он ссылается на книгу.
-1356|der|der Dienstag|die Dienstage|Tuesday|вторник|Dienstag ist ein Arbeitstag.|Tuesday is a workday.|Вторник - рабочий день.
+1356|der|der Dienstag|die Dienstage|Tuesday|вторник|Dienstag ist ein Arbeitstag.|Tuesday is a workday.|Вторник — рабочий день.
 1357|der|der Stand|die Stände|stand, stage|уровень|Der Stand ist hoch.|The level is high.|Уровень высокий.
 1358|verb|retten, rettet, rettete, hat gerettet||to save, rescue|спасать|Er rettete das Kind.|He saved the child.|Он спас ребёнка.
 1359|num|zwanzig||twenty|двадцать|Zwanzig Menschen kamen.|Twenty people came.|Пришло двадцать человек.
@@ -1657,7 +1657,7 @@
 1576|das|das Feuer|die Feuer|fire|огонь|Das Feuer brennt.|The fire burns.|Огонь горит.
 1577|verb|bemühen (sich), bemüht, bemühte, hat bemüht||to make an effort|стараться|Er bemüht sich sehr.|He makes a great effort.|Он очень старается.
 1578|das|das Verständnis|die Verständnisse|understanding|понимание|Das Verständnis ist wichtig.|Understanding is important.|Понимание важно.
-1579|die|die AfD (Alternative für Deutschland)||AfD, Alternative für Deutschland|AfD, Альтернатива для Германии|Die AfD ist eine Partei.|The AfD is a party.|Альтернатива для Германии - это партия.
+1579|die|die AfD (Alternative für Deutschland)||AfD, Alternative für Deutschland|AfD, Альтернатива для Германии|Die AfD ist eine Partei.|The AfD is a party.|Альтернатива для Германии — это партия.
 1580|die|die Bakterie|die Bakterien|bacterium|бактерия|Die Bakterie ist gefährlich.|The bacterium is dangerous.|Бактерия опасная.
 1581|verb|tauchen, taucht, tauchte, ist getaucht||to dive, dip|погружаться|Er taucht tief.|He dives deep.|Он погружается глубоко.
 1582|die|die Konsequenz|die Konsequenzen|consequence|последствие|Die Konsequenzen sind schwer.|The consequences are serious.|Последствия тяжёлые.
@@ -1721,7 +1721,7 @@
 1637|das|das Bad|die Bäder|bath, bathroom, spa|ванная комната|Das Bad ist sauber.|The bathroom is clean.|Ванная комната чистая.
 1638|verb|erläutern, erläutert, erläuterte, hat erläutert||to explain|объяснять|Er erläuterte den Plan.|He explained the plan.|Он объяснил план.
 1639|verb|packen, packt, packte, hat gepackt||to pack, grab|паковать|Er packt seinen Koffer.|He packs his suitcase.|Он пакует свой чемодан.
-1640|das|das Großbritannien||Great Britain|Великобритания|Großbritannien ist ein Land.|Great Britain is a country.|Великобритания - это страна.
+1640|das|das Großbritannien||Great Britain|Великобритания|Großbritannien ist ein Land.|Great Britain is a country.|Великобритания — это страна.
 1641|adj|vorsichtig||cautious, careful|осторожный|Sei vorsichtig!|Be careful!|Будь осторожен!
 1642|verb|anwenden, wendet an, wandte an, hat angewandt||to apply, employ|применять|Er wendet die Technik an.|He applies the technique.|Он применяет технику.
 1643|adj|wild||wild|дикий|Die Tiere sind wild.|The animals are wild.|Животные дикие.
@@ -1775,7 +1775,7 @@
 1691|die|die Führung|die Führungen|management, command, leadership|руководство|Die Führung ist stark.|The leadership is strong.|Руководство сильное.
 1692|adj|untere (r, s)||lower|нижний|Das Buch ist auf dem unteren Regal.|The book is on the lower shelf.|Книга на нижней полке.
 1693|das|das Handy|die Handys|mobile phone|мобильный телефон|Das Handy ist teuer.|The mobile phone is expensive.|Мобильный телефон дорогой.
-1694|die|die Hauptstadt|die Hauptstädte|capital city|столица|Berlin ist die Hauptstadt.|Berlin is the capital city.|Берлин - это столица.
+1694|die|die Hauptstadt|die Hauptstädte|capital city|столица|Berlin ist die Hauptstadt.|Berlin is the capital city.|Берлин — это столица.
 1695|das|das Experiment|die Experimente|experiment|эксперимент|Das Experiment ist erfolgreich.|The experiment is successful.|Эксперимент удался.
 1696|der|der Frieden|die Frieden|peace|мир|Der Frieden ist zerbrechlich.|Peace is fragile.|Мир хрупок.
 1697|der|der Verlauf|die Verläufe|course|ход|Der Verlauf der Krankheit.|The course of the illness.|Ход болезни.
@@ -1788,7 +1788,7 @@
 1704|der|der Schauspieler|die Schauspieler|actor|актер|Der Schauspieler ist berühmt.|The actor is famous.|Актер знаменит.
 1705|verb|vorschlagen, schlägt vor, schlug vor, hat vorgeschlagen||to suggest|предлагать|Er schlägt einen Plan vor.|He suggests a plan.|Он предлагает план.
 1706|adv|beinahe||almost, nearly|почти|Es war beinahe perfekt.|It was almost perfect.|Это было почти идеально.
-1707|adj|jährlich||annual|ежегодный|Die jährliche Feier ist groß.|The annual celebration is big.|Ежегодный праздник - большой.
+1707|adj|jährlich||annual|ежегодный|Die jährliche Feier ist groß.|The annual celebration is big.|Ежегодный праздник — большой.
 1708|die|die Botschaft|die Botschaften|message|послание|Die Botschaft ist klar.|The message is clear.|Послание ясное.
 1709|der|der Alltag|die Alltage|workday, daily routine, everyday life|повседневная жизнь|Der Alltag ist stressig.|The daily routine is stressful.|Повседневная жизнь напряженная.
 1710|der|der Umsatz|die Umsätze|turnover, sales|товарооборот|Der Umsatz ist gestiegen.|The sales have increased.|Товарооборот увеличился.
@@ -1843,7 +1843,7 @@
 1759|adj|primär||primary|первичный|Das ist primär.|That is primary.|Это первично.
 1760|der|der Schnee||snow|снег|Der Schnee fällt.|The snow falls.|Снег идет.
 1761|adj|vollkommen||complete, perfect|совершенный|Das Werk ist vollkommen.|The work is perfect.|Работа идеальна.
-1762|das|das England||England|Англия|England ist ein Land.|England is a country.|Англия - это страна.
+1762|das|das England||England|Англия|England ist ein Land.|England is a country.|Англия — это страна.
 1763|adj|massiv||solid, massive, severe|масштабный|Der Schaden ist massiv.|The damage is severe.|Ущерб масштабный.
 1764|adj|sämtlich||all|все|Alle sind gekommen.|All have come.|Все пришли.
 1765|verb|übersetzen, übersetzt, übersetzte, hat übersetzt||to translate|переводить|Er übersetzt den Text.|He translates the text.|Он переводит текст.
@@ -2105,7 +2105,7 @@
 2020|das|das Kino|die Kinos|cinema, movie theater|кинотеатр|Das Kino ist geschlossen.|The cinema is closed.|Кинотеатр закрыт.
 2021|die|die Dauer|die Dauern|duration, length|длительность|Die Dauer der Reise ist lang.|The duration of the journey is long.|Длительность поездки длинная.
 2022|verb|klappen, klappt, klappte, hat geklappt||to fold, go smoothly, work (out)|ладиться|Alles hat gut geklappt.|Everything went smoothly.|Все прошло гладко.
-2023|das|das Polen||Poland|Польша|Polen ist ein schönes Land.|Poland is a beautiful country.|Польша - красивая страна.
+2023|das|das Polen||Poland|Польша|Polen ist ein schönes Land.|Poland is a beautiful country.|Польша — красивая страна.
 2024|adj|golden||gold, golden|золотой|Der Ring ist golden.|The ring is golden.|Кольцо золотое.
 2025|verb|klären, klärt, klärte, hat geklärt||to clear up, clarify, resolve|решать|Das klärt das Problem.|That resolves the problem.|Это решает проблему.
 2026|adj|sauber||clean|чистый|Das Zimmer ist sauber.|The room is clean.|Комната чистая.
@@ -2245,7 +2245,7 @@
 2159|das|das Arabisch||Arabic|арабский|Er lernt Arabisch.|He learns Arabic.|Он изучает арабский.
 2160|verb|mischen, mischt, mischte, hat gemischt||to mix, blend|смешивать|Er mischt die Farben.|He mixes the colors.|Он смешивает цвета.
 2161|verb|beruhen, beruht, beruhte, hat beruht||to be based|основываться|Das basiert auf Fakten.|That is based on facts.|Это основано на фактах.
-2162|das|das Japan||Japan|Япония|Japan ist ein Inselstaat.|Japan is an island nation.|Япония - островное государство.
+2162|das|das Japan||Japan|Япония|Japan ist ein Inselstaat.|Japan is an island nation.|Япония — островное государство.
 2163|die|die City|die Citys|city center|центр города|Die City ist belebt.|The city center is busy.|Центр города оживлен.
 2164|die|die Klausur|die Klausuren|exam|экзамен|Die Klausur war schwer.|The exam was difficult.|Экзамен был трудным.
 2165|adv|innen||inside|внутри|Das Licht ist innen.|The light is inside.|Свет внутри.
@@ -2287,7 +2287,7 @@
 2201|adj|weich||soft|мягкий|Das Kissen ist weich.|The pillow is soft.|Подушка мягкая.
 2202|die|die Klinik|die Kliniken|clinic, hospital|клиника|Die Klinik ist groß.|The clinic is large.|Клиника большая.
 2203|adj|bedeutend||important, significant|значительный|Das ist bedeutend.|That is significant.|Это значимо.
-2204|das|das Organ|die Organe|organ|орган|Das Herz ist ein Organ.|The heart is an organ.|Сердце - это орган.
+2204|das|das Organ|die Organe|organ|орган|Das Herz ist ein Organ.|The heart is an organ.|Сердце — это орган.
 2205|verb|besprechen, bespricht, besprach, hat besprochen||to discuss|обсуждать|Wir besprechen das Buch.|We discuss the book.|Мы обсуждаем книгу.
 2206|die|die Oberfläche|die Oberflächen|surface|поверхность|Die Oberfläche ist glatt.|The surface is smooth.|Поверхность гладкая.
 2207|der|der Standort|die Standorte|site, location|местоположение|Der Standort ist ideal.|The location is ideal.|Местоположение идеальное.
@@ -2330,7 +2330,7 @@
 2244|das|das Vermögen|die Vermögen|assets, fortune, ability|состояние|Sein Vermögen ist beeindruckend.|His fortune is impressive.|Его состояние впечатляющее.
 2245|die|die Verwaltung|die Verwaltungen|administration|управление|Die Verwaltung ist effizient.|The administration is efficient.|Управление эффективно.
 2246|conj|zumal||particularly, especially|тем более|Zumal du hier bist, fangen wir an.|Especially since you are here, we will start.|Тем более, что ты здесь, мы начнем.
-2247|das|das Kohlenstoffdioxid||carbon dioxide|углекислый газ|Kohlenstoffdioxid ist ein Gas.|Carbon dioxide is a gas.|Углекислый газ - это газ.
+2247|das|das Kohlenstoffdioxid||carbon dioxide|углекислый газ|Kohlenstoffdioxid ist ein Gas.|Carbon dioxide is a gas.|Углекислый газ — это газ.
 2248|adj|ordentlich||neat, proper, orderly|аккуратный|Sein Büro ist ordentlich.|His office is neat.|Его офис аккуратный.
 2249|verb|stoppen, stoppt, stoppte, hat gestoppt||to stop|останавливать|Der Verkehr wurde gestoppt.|The traffic was stopped.|Движение было остановлено.
 2250|der|der Bundeskanzler|die Bundeskanzler|federal chancellor|федеральный канцлер|Der Bundeskanzler spricht.|The federal chancellor speaks.|Федеральный канцлер выступает.
@@ -2407,7 +2407,7 @@
 2321|die|die Ehe|die Ehen|marriage|брак|Die Ehe hat Höhen und Tiefen.|The marriage has ups and downs.|В браке бывают взлёты и падения.
 2322|der|der Passagier|die Passagiere|passenger|пассажир|Der Passagier hat seinen Sitz gefunden.|The passenger found his seat.|Пассажир нашел свое место.
 2323|die|die Kindheit||childhood|детство|Die Kindheit war unbeschwert.|Childhood was carefree.|Детство было беззаботным.
-2324|das|das Ungarn||Hungary|Венгрия|Ungarn ist ein schönes Land.|Hungary is a beautiful country.|Венгрия - красивая страна.
+2324|das|das Ungarn||Hungary|Венгрия|Ungarn ist ein schönes Land.|Hungary is a beautiful country.|Венгрия — красивая страна.
 2325|der|der Verbraucher|die Verbraucher|consumer|потребитель|Der Verbraucher hat Rechte.|The consumer has rights.|У потребителя есть права.
 2326|die|die Vielfalt||diversity, variety|разнообразие|Die Vielfalt der Tiere ist erstaunlich.|The variety of animals is astonishing.|Разнообразие животных удивительно.
 2327|die|die Entschuldigung|die Entschuldigungen|apology, excuse|извинение|Er bot eine Entschuldigung an.|He offered an apology.|Он принес извинение.
@@ -2441,13 +2441,13 @@
 2355|verb|aufwachsen, wächst auf, wuchs auf, ist aufgewachsen||to grow up|расти|Er ist in der Stadt aufgewachsen.|He grew up in the city.|Он вырос в городе.
 2356|verb|beherrschen, beherrscht, beherrschte, hat beherrscht||to control, rule, master|владеть|Er beherrscht die Sprache gut.|He masters the language well.|Он хорошо владеет языком.
 2357|das|das Island||Iceland|Исландия|Island ist sehr kalt im Winter.|Iceland is very cold in winter.|Исландия очень холодная зимой.
-2358|das|das Kreuz|die Kreuze|cross|крест|Das Kreuz ist ein Symbol.|The cross is a symbol.|Крест - это символ.
+2358|das|das Kreuz|die Kreuze|cross|крест|Das Kreuz ist ein Symbol.|The cross is a symbol.|Крест — это символ.
 2359|der|der Motor|die Motoren|motor, engine|мотор|Der Motor läuft leise.|The engine runs quietly.|Мотор работает тихо.
 2360|die|die Sendung|die Sendungen|broadcast|передача|Die Sendung läuft um 20 Uhr.|The broadcast is at 8 PM.|Передача идет в 20:00.
 2361|die|die Aktie|die Aktien|share|акция|Er hat Aktien gekauft.|He bought shares.|Он купил акции.
 2362|adv|höchstens||at most|максимум|Es dauert höchstens eine Stunde.|It takes at most an hour.|Это займет максимум час.
 2363|adj|trocken||dry|сухой|Der Boden ist trocken.|The ground is dry.|Почва сухая.
-2364|die|die Ukraine||Ukraine|Украина|Die Ukraine ist ein großes Land.|Ukraine is a large country.|Украина - большая страна.
+2364|die|die Ukraine||Ukraine|Украина|Die Ukraine ist ein großes Land.|Ukraine is a large country.|Украина — большая страна.
 2365|die|die Wechselwirkung|die Wechselwirkungen|interaction|взаимодействие|Die Wechselwirkung ist komplex.|The interaction is complex.|Взаимодействие сложное.
 2366|die|die Bibliothek|die Bibliotheken|library|библиотека|Die Bibliothek hat viele Bücher.|The library has many books.|В библиотеке много книг.
 2367|adv|ebenda||ibidem, at the same place|там же|Das Zitat stammt ebenda.|The quote is from the same place.|Цитата оттуда же.
@@ -2478,7 +2478,7 @@
 2392|das|das Rad|die Räder|wheel|колесо|Das Rad dreht sich.|The wheel is turning.|Колесо крутится.
 2393|verb|ausbauen, baut aus, baute aus, hat ausgebaut||to extend, expand, enlarge|расширять|Wir bauen das Haus aus.|We are extending the house.|Мы расширяем дом.
 2394|verb|anzeigen, zeigt an, zeigte an, hat angezeigt||to report, sue, indicate, show|сообщать|Er zeigt das Verbrechen an.|He reports the crime.|Он сообщает о преступлении.
-2395|der|der Schwerpunkt|die Schwerpunkte|focus, main emphasis, center of gravity|основное направление|Der Schwerpunkt liegt auf Bildung.|The focus is on education.|Основное направление - это образование.
+2395|der|der Schwerpunkt|die Schwerpunkte|focus, main emphasis, center of gravity|основное направление|Der Schwerpunkt liegt auf Bildung.|The focus is on education.|Основное направление — это образование.
 2396|die|die Überzeugung|die Überzeugungen|conviction|убеждение|Seine Überzeugung ist stark.|His conviction is strong.|Его убеждение сильное.
 2397|die|die Ableitung|die Ableitungen|derivation|вывод|Die Ableitung der Formel war schwierig.|The derivation of the formula was difficult.|Вывод формулы был сложным.
 2398|verb|aussteigen, steigt aus, stieg aus, ist ausgestiegen||to get off, get out|выходить|Er steigt aus dem Bus aus.|He gets off the bus.|Он выходит из автобуса.
@@ -2656,7 +2656,7 @@
 2567|der|der Fakt|die Fakten|fact|факт|Das ist ein Fakt.|That is a fact.|Это факт.
 2568|die|die Herstellung|die Herstellungen|production|производство|Die Herstellung dauert lange.|The production takes a long time.|Производство длится долго.
 2569|das|das Individuum|die Individuumen|individual|индивид|Jedes Individuum ist einzigartig.|Every individual is unique.|Каждый индивид уникален.
-2570|das|das Symbol|die Symbole|symbol|символ|Das Herz ist ein Symbol der Liebe.|The heart is a symbol of love.|Сердце - это символ любви.
+2570|das|das Symbol|die Symbole|symbol|символ|Das Herz ist ein Symbol der Liebe.|The heart is a symbol of love.|Сердце — это символ любви.
 2571|verb|ausbreiten, breitet aus, breitete aus, hat ausgebreitet||to spread, spread out|распространяться|Die Wolken breiten sich aus.|The clouds spread out.|Облака распространяются.
 2572|die|die Versorgung|die Versorgungen|supply, care|снабжение|Die Versorgung ist gesichert.|The supply is secured.|Снабжение обеспечено.
 2573|der|der Kommentar|die Kommentare|comment, opinion|комментарий|Der Kommentar war hilfreich.|The comment was helpful.|Комментарий был полезным.
@@ -2691,7 +2691,7 @@
 2601|verb|klettern, klettert, kletterte, ist geklettert||to climb|лазить|Der Junge klettert auf den Baum.|The boy climbs the tree.|Мальчик лазит на дерево.
 2602|der|der Mittelpunkt|die Mittelpunkte|midpoint, center of attention|центр внимания|Er ist der Mittelpunkt der Party.|He is the center of the party.|Он центр внимания вечеринки.
 2603|verb|bereiten, bereitet, bereitete, hat bereitet||to make, cause, give|причинять|Der Unfall hat großen Schaden bereitet.|The accident caused great damage.|Авария нанесла большой ущерб.
-2604|die|die Entstehung|die Entstehungen|origin|происхождение|Die Entstehung des Lebens ist ein Rätsel.|The origin of life is a mystery.|Происхождение жизни - это загадка.
+2604|die|die Entstehung|die Entstehungen|origin|происхождение|Die Entstehung des Lebens ist ein Rätsel.|The origin of life is a mystery.|Происхождение жизни — это загадка.
 2605|adj|konservativ||conservative|консервативный|Er hat konservative Ansichten.|He has conservative views.|У него консервативные взгляды.
 2606|der|der Magen|die Mägen|stomach|желудок|Mein Magen tut weh.|My stomach hurts.|Мой желудок болит.
 2607|adj|psychisch||psychological|психологический|Die Belastung war psychisch schwer.|The strain was psychologically heavy.|Психологическая нагрузка была тяжелой.
@@ -2775,13 +2775,13 @@
 2685|das|das Vitamin|die Vitamine|vitamin|витамин|Vitamine sind wichtig.|Vitamins are important.|Витамины важны.
 2686|der|der Abschied|die Abschiede|departure, parting|прощание|Der Abschied fiel schwer.|The farewell was hard.|Прощание было тяжёлым.
 2687|der|der Hafen|die Häfen|harbor|порт|Der Hafen ist groß.|The harbor is large.|Порт большой.
-2688|die|die Niere|die Nieren|kidney|почка|Die Niere ist ein Organ.|The kidney is an organ.|Почка - это орган.
+2688|die|die Niere|die Nieren|kidney|почка|Die Niere ist ein Organ.|The kidney is an organ.|Почка — это орган.
 2689|verb|abbilden, bildet ab, bildete ab, hat abgebildet||to copy, portray|изображать|Das Buch bildet die Realität ab.|The book portrays reality.|Книга изображает реальность.
 2690|der|der Rezeptor|die Rezeptoren|receptor|рецептор|Der Rezeptor ist empfindlich.|The receptor is sensitive.|Рецептор чувствителен.
 2691|verb|etablieren, etabliert, etablierte, hat etabliert||to establish|создавать|Die Firma etabliert sich schnell.|The company establishes itself quickly.|Компания быстро создаётся.
 2692|das|das Messer|die Messer|knife|нож|Das Messer ist scharf.|The knife is sharp.|Нож острый.
 2693|adv|teils||partly|частично|Er war teils begeistert.|He was partly excited.|Он был частично в восторге.
-2694|das|das Brasilien||Brazil|Бразилия|Brasilien ist ein großes Land.|Brazil is a big country.|Бразилия - это большая страна.
+2694|das|das Brasilien||Brazil|Бразилия|Brasilien ist ein großes Land.|Brazil is a big country.|Бразилия — это большая страна.
 2695|verb|ergreifen, ergreift, ergriff, hat ergriffen||to take, seize, grip, capture|захватывать|Er ergriff die Chance.|He seized the opportunity.|Он воспользовался возможностью.
 2696|das|das Grundgesetz|die Grundgesetze|basic law|основной закон|Das Grundgesetz schützt Rechte.|The basic law protects rights.|Основной закон защищает права.
 2697|die|die Herkunft|die Herkünfte|origin|происхождение|Ihre Herkunft ist unbekannt.|Her origin is unknown.|Её происхождение неизвестно.
@@ -2808,7 +2808,7 @@
 2718|conj|ehe||before|перед тем как|Er kam an, ehe es zu spät war.|He arrived before it was too late.|Он прибыл перед тем как стало слишком поздно.
 2719|die|die Strahlung|die Strahlungen|radiation|излучение|Die Strahlung ist gefährlich.|The radiation is dangerous.|Излучение опасно.
 2720|das|das Virus|die Virusen|virus|вирус|Das Virus ist ansteckend.|The virus is contagious.|Вирус заразен.
-2721|der|der Kontinent|die Kontinente|continent|континент|Europa ist ein Kontinent.|Europe is a continent.|Европа - это континент.
+2721|der|der Kontinent|die Kontinente|continent|континент|Europa ist ein Kontinent.|Europe is a continent.|Европа — это континент.
 2722|das|das Milligramm|die Milligramm|milligram|миллиграмм|Das Medikament enthält ein Milligramm.|The medication contains a milligram.|Лекарство содержит один миллиграмм.
 2723|adj|schwedisch||Swedish|шведская|Das ist eine schwedische Firma.|That is a Swedish company.|Это шведская компания.
 2723|das|das Schwedisch||Swedish|шведский|Schwedisch ist schwer zu lernen.|Swedish is hard to learn.|Шведский язык трудно выучить.
@@ -2833,7 +2833,7 @@
 2742|die|die Nahrung|die Nahrungen|nourishment, food|питание|Gesunde Nahrung ist wichtig.|Healthy food is important.|Здоровое питание важно.
 2743|adj|niederländisch||Dutch|голландские|Wir haben niederländische Freunde.|We have Dutch friends.|У нас есть голландские друзья.
 2743|das|das Niederländisch||Dutch|нидерландский|Niederländisch ist leicht zu lernen.|Dutch is easy to learn.|Нидерландский язык легко учить.
-2744|der|der Planet|die Planeten|planet|планета|Die Erde ist ein Planet.|The Earth is a planet.|Земля - это планета.
+2744|der|der Planet|die Planeten|planet|планета|Die Erde ist ein Planet.|The Earth is a planet.|Земля — это планета.
 2745|der|der Stress|die Stresse|stress|стресс|Stress kann krank machen.|Stress can make you sick.|Стресс может сделать вас больным.
 2746|adj|vermeintlich||supposed|предполагаемый|Das war ein vermeintlicher Fehler.|That was a supposed mistake.|Это была предполагаемая ошибка.
 2747|verb|zusammenarbeiten, arbeitet zusammen, arbeitete zusammen, hat zusammengearbeitet||to cooperate|сотрудничать|Wir arbeiten zusammen.|We cooperate.|Мы сотрудничаем.
@@ -2875,7 +2875,7 @@
 2782|verb|verzweifeln, verzweifelt, verzweifelte, ist verzweifelt||to despair|отчаиваться|Sie verzweifelte an der Aufgabe.|She despaired at the task.|Она отчаялась в задаче.
 2783|verb|bewältigen, bewältigt, bewältigte, hat bewältigt||to cope with, overcome|справляться|Er bewältigte die Herausforderung.|He coped with the challenge.|Он справился с вызовом.
 2784|die|die Emotion|die Emotionen|emotion|эмоция|Liebe ist eine starke Emotion.|Love is a strong emotion.|Любовь — это сильная эмоция.
-2785|die|die Armut||poverty|бедность|Armut ist ein globales Problem.|Poverty is a global problem.|Бедность - глобальная проблема.
+2785|die|die Armut||poverty|бедность|Armut ist ein globales Problem.|Poverty is a global problem.|Бедность — глобальная проблема.
 2786|das|das Australien||Australia|Австралия|Australien ist weit entfernt.|Australia is far away.|Австралия далеко.
 2787|verb|klagen, klagt, klagte, hat geklagt||to complain|жаловаться|Er klagt über Schmerzen.|He complains about pain.|Он жалуется на боль.
 2788|adv|schade||(it’s a) pity|жаль|Schade, dass du nicht kommst.|It’s a pity you are not coming.|Жаль, что ты не придёшь.
@@ -2968,7 +2968,7 @@
 2872|die|die Angelegenheit|die Angelegenheiten|matter, affair|дело|Die Angelegenheit ist dringend.|The matter is urgent.|Дело срочное.
 2873|adj|charakteristisch||characteristic|характерный|Das ist charakteristisch für ihn.|That is characteristic of him.|Это характерно для него.
 2874|die|die Einnahme|die Einnahmen|income, receipts, revenue|доход|Die Einnahme war hoch.|The revenue was high.|Доход был высоким.
-2875|der|der Islam|die Islame|Islam|ислам|Der Islam ist eine Religion.|Islam is a religion.|Ислам - это религия.
+2875|der|der Islam|die Islame|Islam|ислам|Der Islam ist eine Religion.|Islam is a religion.|Ислам — это религия.
 2876|verb|basieren, basiert, basierte, hat basiert||to be based on|основываться|Das basiert auf Fakten.|That is based on facts.|Это основывается на фактах.
 2877|verb|einkaufen, kauft ein, kaufte ein, hat eingekauft||to shop|покупать|Er kauft ein.|He goes shopping.|Он делает покупки.
 2878|verb|eintragen, trägt ein, trug ein, hat eingetragen||to enter, record, register|регистрировать|Er trägt die Daten ein.|He enters the data.|Он вводит данные.
@@ -3140,7 +3140,7 @@
 3042|die|die Schwäche|die Schwächen|weakness|слабость|Das ist seine Schwäche.|That is his weakness.|Это его слабость.
 3043|das|das Minus|die Minusse|minus, deficit|дефицит|Das Unternehmen hat ein Minus.|The company has a deficit.|У компании дефицит.
 3044|das|das Eisen|die Eisen|iron|железо|Das Eisen ist schwer.|Iron is heavy.|Железо тяжелое.
-3045|der|der Iran||Iran|Иран|Iran ist ein Land.|Iran is a country.|Иран - это страна.
+3045|der|der Iran||Iran|Иран|Iran ist ein Land.|Iran is a country.|Иран — это страна.
 3046|die|die Besonderheit|die Besonderheiten|idiosyncracy, (special) feature, unique characteristic|особенность|Die Besonderheit ist klar.|The feature is clear.|Особенность ясна.
 3047|das|das Fett|die Fette|fat|жир|Das Essen enthält viel Fett.|The food contains a lot of fat.|Еда содержит много жира.
 3048|verb|lenken, lenkt, lenkte, hat gelenkt||to steer, guide|управлять|Er lenkt das Auto.|He steers the car.|Он управляет машиной.
@@ -3201,7 +3201,7 @@
 3102|verb|aufzeigen, zeigt auf, zeigte auf, hat aufgezeigt||to show, point out|показать|Der Lehrer zeigt den Fehler auf.|The teacher points out the mistake.|Учитель указывает на ошибку.
 3103|verb|ausstatten, stattet aus, stattete aus, hat ausgestattet||to furnish, provide|оснащать|Das Haus ist gut ausgestattet.|The house is well furnished.|Дом хорошо оснащен.
 3104|die|die Großmutter|die Großmütter|grandmother|бабушка|Meine Großmutter backt Kuchen.|My grandmother bakes cakes.|Моя бабушка печет пироги.
-3105|die|die Leidenschaft|die Leidenschaften|passion|страсть|Seine Leidenschaft ist Musik.|His passion is music.|Его страсть - музыка.
+3105|die|die Leidenschaft|die Leidenschaften|passion|страсть|Seine Leidenschaft ist Musik.|His passion is music.|Его страсть — музыка.
 3106|der|der Parkplatz|die Parkplätze|parking place|парковка|Der Parkplatz ist voll.|The parking place is full.|Парковка полная.
 3107|verb|formen, formt, formte, hat geformt||to form|формировать|Er formt die Figuren.|He forms the figures.|Он формирует фигуры.
 3108|interj|ha||ha|ха|Ha, das ist lustig!|Ha, that is funny!|Ха, это смешно!
@@ -3238,7 +3238,7 @@
 3139|verb|hauen, haut, haute, hat gehauen||to hit, hew, slap|бить|Er haut auf den Tisch.|He slaps the table.|Он стучит по столу.
 3140|das|das Stadion|die Stadione|stadium|стадион|Das Stadion ist riesig.|The stadium is huge.|Стадион огромный.
 3141|die|die Übertragung|die Übertragungen|transmission, broadcast|трансляция|Die Übertragung läuft.|The broadcast is running.|Трансляция идет.
-3142|der|der Wasserstoff||hydrogen|водород|Wasserstoff ist ein Gas.|Hydrogen is a gas.|Водород - это газ.
+3142|der|der Wasserstoff||hydrogen|водород|Wasserstoff ist ein Gas.|Hydrogen is a gas.|Водород — это газ.
 3143|der|der Anblick|die Anblicke|sight|взгляд|Der Anblick ist erstaunlich.|The sight is amazing.|Вид поразительный.
 3144|verb|ausscheiden, scheidet aus, schied aus, hat ausgeschieden||to leave, retire, be eliminated|уйти в отставку|Er scheidet früh aus.|He retires early.|Он рано уходит в отставку.
 3145|der|der Durchschnitt|die Durchschnitte|average|среднее значение|Der Durchschnitt ist hoch.|The average is high.|Среднее значение высокое.
@@ -3704,10 +3704,10 @@
 3602|adj|schräg||diagonal, at an angle|наклонный|Das Bild hängt schräg.|The picture hangs at an angle.|Картина висит наклонно.
 3603|adj|verehrt||venerated, honored|почитаемый|Der verehrte Gast ist angekommen.|The honored guest has arrived.|Почитаемый гость прибыл.
 3604|pron|wieviel||how much|сколько|Wieviel kostet das Buch?|How much does the book cost?|Сколько стоит книга?
-3605|das|das Belgien||Belgium|Бельгия|Belgien ist ein schönes Land.|Belgium is a beautiful country.|Бельгия - красивая страна.
+3605|das|das Belgien||Belgium|Бельгия|Belgien ist ein schönes Land.|Belgium is a beautiful country.|Бельгия — красивая страна.
 3606|die|die Einleitung|die Einleitungen|introduction|введение|Die Einleitung des Buches ist spannend.|The introduction of the book is exciting.|Введение книги захватывающее.
 3607|adj|gefangen||captive, captured, caught|пойманный|Der Vogel wurde gefangen.|The bird was caught.|Птица была поймана.
-3608|das|das Hobby|die Hobbys|hobby|хобби|Schwimmen ist mein Hobby.|Swimming is my hobby.|Плавание - мое хобби.
+3608|das|das Hobby|die Hobbys|hobby|хобби|Schwimmen ist mein Hobby.|Swimming is my hobby.|Плавание — мое хобби.
 3609|das|das Möbel|die Möbel|(piece of) furniture|мебель|Das Möbel ist antik.|The piece of furniture is antique.|Мебель антикварная.
 3610|verb|nerven, nervt, nervte, hat genervt||to annoy|раздражать|Der Lärm nervt mich.|The noise annoys me.|Шум меня раздражает.
 3611|adj|restlich||remaining|оставшийся|Die restlichen Gäste sind angekommen.|The remaining guests have arrived.|Оставшиеся гости прибыли.
@@ -3809,7 +3809,7 @@
 3707|der|der Wirt|die Wirte|host, innkeeper|хозяин|Der Wirt ist freundlich.|The innkeeper is friendly.|Хозяин дружелюбен.
 3708|die|die Addition|die Additionen|addition, summation|сложение|Die Addition ist einfach.|The addition is simple.|Сложение простое.
 3709|verb|besagen, besagt, besagte, hat besagt||to say|говорить|Die Regeln besagen das.|The rules say that.|Правила говорят это.
-3710|die|die Geduld||patience|терпение|Geduld ist eine Tugend.|Patience is a virtue.|Терпение - это добродетель.
+3710|die|die Geduld||patience|терпение|Geduld ist eine Tugend.|Patience is a virtue.|Терпение — это добродетель.
 3711|die|die Innenstadt|die Innenstädte|town center, downtown|центр города|Die Innenstadt ist belebt.|The town center is lively.|Центр города оживлен.
 3712|die|die Konstruktion|die Konstruktionen|construction, design|конструкция|Die Konstruktion ist solide.|The construction is solid.|Конструкция прочная.
 3713|das|das Lehrbuch|die Lehrbücher|textbook|учебник|Das Lehrbuch ist nützlich.|The textbook is useful.|Учебник полезен.
@@ -4027,7 +4027,7 @@
 3923|die|die Wurst|die Würste|sausage|колбаса|Die Wurst ist frisch.|The sausage is fresh.|Колбаса свежая.
 3924|adj|anspruchsvoll||sophisticated|сложный|Das Buch ist anspruchsvoll.|The book is sophisticated.|Книга сложная.
 3925|das|das Bedenken|die Bedenken|concern, doubt|сомнение|Ich habe Bedenken.|I have concerns.|У меня есть сомнения.
-3926|der|der Cent|die Cent|cent|цент|Ein Cent ist wenig.|One cent is little.|Один цент - это мало.
+3926|der|der Cent|die Cent|cent|цент|Ein Cent ist wenig.|One cent is little.|Один цент — это мало.
 3927|verb|ermorden, ermordet, ermordete, hat ermordet||to murder, kill|убить|Er wurde ermordet.|He was murdered.|Он был убит.
 3928|adj|geometrisch||geometric|геометрический|Die Form ist geometrisch.|The shape is geometric.|Форма геометрическая.
 3929|die (pl)||die Geschwister|siblings|братья и сестры|Meine Geschwister sind nett.|My siblings are nice.|Мои братья и сестры милые.
@@ -4233,7 +4233,7 @@
 4129|adv|abschließend||concluding, final|в заключение|Abschließend möchte ich sagen.|In conclusion, I want to say.|В заключение я хочу сказать.
 4130|verb|aufschlagen, schlägt auf, schlug auf, hat aufgeschlagen||to open, serve, pitch|открывать|Er schlägt das Buch auf.|He opens the book.|Он открывает книгу.
 4131|die|die Glocke|die Glocken|bell|колокол|Die Glocke läutet.|The bell rings.|Колокол звонит.
-4132|die|die Informatik||computer science|информатика|Informatik ist mein Fach.|Computer science is my subject.|Информатика - мой предмет.
+4132|die|die Informatik||computer science|информатика|Informatik ist mein Fach.|Computer science is my subject.|Информатика — мой предмет.
 4133|der|der Niederschlag|die Niederschläge|precipitation, rainfall|осадки|Der Niederschlag war stark.|The rainfall was heavy.|Осадки были сильными.
 4134|adj|örtlich||local|местный|Die Hilfe war örtlich.|The help was local.|Помощь была местной.
 4135|verb|streifen, streift, streifte, hat gestreift||to touch, brush|касаться|Er streift den Arm.|He brushes the arm.|Он касается руки.
@@ -4506,7 +4506,7 @@
 4402|das|das Gremium|die Gremiumen|committee|комитет|Das Gremium tagt heute.|The committee meets today.|Комитет заседает сегодня.
 4403|adv|hinunter||down|вниз|Er ging die Treppe hinunter.|He went down the stairs.|Он спустился вниз по лестнице.
 4404|adv|soeben||just|только что|Ich habe es soeben gesehen.|I just saw it.|Я только что это видел.
-4405|die|die Sportart|die Sportarten|(type of) sport, discipline|вид спорта|Fußball ist meine Sportart.|Soccer is my sport.|Футбол - это мой вид спорта.
+4405|die|die Sportart|die Sportarten|(type of) sport, discipline|вид спорта|Fußball ist meine Sportart.|Soccer is my sport.|Футбол — это мой вид спорта.
 4406|das|das Tirol||Tyrol|Тироль|Tirol ist wunderschön.|Tyrol is beautiful.|Тироль прекрасен.
 4407|die|die Zuordnung|die Zuordnungen|classification, assignment|классификация|Die Zuordnung ist korrekt.|The classification is correct.|Классификация правильная.
 4408|adj|asiatisch||Asian|азиатский|Das Essen ist asiatisch.|The food is Asian.|Еда азиатская.
@@ -4711,7 +4711,7 @@
 4607|die|die Verbreitung|die Verbreitungen|dissemination, distribution, spread|распространение|Die Verbreitung der Nachrichten war schnell.|The dissemination of the news was quick.|Распространение новостей было быстрым.
 4608|verb|addieren, addiert, addierte, hat addiert||to add|складывать|Er addiert die Zahlen.|He adds the numbers.|Он складывает числа.
 4609|verb|austreten, tritt aus, trat aus, ist ausgetreten||to resign, leave, leak out|выйти|Er tritt aus dem Verein aus.|He resigns from the club.|Он выходит из клуба.
-4610|adv|bekanntlich||as is well known|как известно|Bekanntlich ist Wissen Macht.|As is well known, knowledge is power.|Как известно, знание - это сила.
+4610|adv|bekanntlich||as is well known|как известно|Bekanntlich ist Wissen Macht.|As is well known, knowledge is power.|Как известно, знание — это сила.
 4611|der|der Main||Main (river)|Майн|Der Main fließt durch Frankfurt.|The Main flows through Frankfurt.|Майн протекает через Франкфурт.
 4612|adv|neuerdings||recently|в последнее время|Neuerdings liest er viel.|Recently, he reads a lot.|В последнее время он много читает.
 4613|die|die Pension|die Pensionen|pension, guesthouse|гостиница|Die Pension ist gemütlich.|The guesthouse is cozy.|Гостиница уютная.
@@ -4897,7 +4897,7 @@
 4793|adj|fundamental||fundamental|фундаментальный|Das ist ein fundamentales Prinzip.|That is a fundamental principle.|Это фундаментальный принцип.
 4794|verb|glühen, glüht, glühte, hat geglüht||to glow, smolder|светиться|Die Kohle glüht im Kamin.|The coal glows in the fireplace.|Уголь светится в камине.
 4795|der|der Import|die Importe|import|импорт|Der Import von Waren ist wichtig.|The import of goods is important.|Импорт товаров важен.
-4796|die|die Konstante|die Konstanten|constant|константа|Die Variable ist eine Konstante.|The variable is a constant.|Переменная - это константа.
+4796|die|die Konstante|die Konstanten|constant|константа|Die Variable ist eine Konstante.|The variable is a constant.|Переменная — это константа.
 4797|die|die Schublade|die Schubladen|drawer|выдвижной ящик|Die Schublade ist offen.|The drawer is open.|Выдвижной ящик открыт.
 4798|die|die Toleranz|die Toleranzen|tolerance|терпимость|Toleranz ist sehr wichtig.|Tolerance is very important.|Терпимость очень важна.
 4799|adj|unnötig||unnecessary|ненужный|Das ist völlig unnötig.|That is completely unnecessary.|Это совершенно ненужно.
@@ -4919,7 +4919,7 @@
 4815|die|die Anatomie|die Anatomien|anatomy|анатомия|Die Anatomie ist komplex.|The anatomy is complex.|Анатомия сложна.
 4816|das|das Design|die Designs|design|дизайн|Das Design ist modern.|The design is modern.|Дизайн современный.
 4817|der|der Durchbruch|die Durchbrüche|breakthrough|прорыв|Der Durchbruch kam schnell.|The breakthrough came quickly.|Прорыв произошел быстро.
-4818|die|die Jahreszeit|die Jahreszeiten|season|время года|Der Winter ist meine Lieblingsjahreszeit.|Winter is my favorite season.|Зима - моё любимое время года.
+4818|die|die Jahreszeit|die Jahreszeiten|season|время года|Der Winter ist meine Lieblingsjahreszeit.|Winter is my favorite season.|Зима — моё любимое время года.
 4819|das|das Lob|die Lobe|praise|похвала|Er erhielt viel Lob.|He received much praise.|Он получил много похвалы.
 4820|die|die Telefonnummer|die Telefonnummern|phone number|номер телефона|Ich habe ihre Telefonnummer.|I have her phone number.|У меня есть её номер телефона.
 4821|die|die Umwandlung|die Umwandlungen|conversion|преобразование|Die Umwandlung ist erfolgt.|The conversion has taken place.|Преобразование произошло.
@@ -5014,7 +5014,7 @@
 4910|adj|gläubig||religious, devout|верующий|Er ist ein gläubiger Mensch.|He is a devout person.|Он верующий человек.
 4911|verb|heilen, heilt, heilte, hat geheilt||to heal, cure|лечить|Die Wunde heilt langsam.|The wound heals slowly.|Рана заживает медленно.
 4912|die|die Kündigung|die Kündigungen|termination, cancellation, notice|увольнение|Die Kündigung kam plötzlich.|The termination came suddenly.|Увольнение произошло внезапно.
-4913|das|das Kupfer|die Kupfer|copper|медь|Kupfer ist ein Metall.|Copper is a metal.|Медь - это металл.
+4913|das|das Kupfer|die Kupfer|copper|медь|Kupfer ist ein Metall.|Copper is a metal.|Медь — это металл.
 4914|die|die Lesung|die Lesungen|reading|чтение|Die Lesung war interessant.|The reading was interesting.|Чтение было интересным.
 4915|das|das Argentinien||Argentina|Аргентина|Argentinien liegt in Südamerika.|Argentina is in South America.|Аргентина находится в Южной Америке.
 4916|der|der Dom|die Dome|cathedral|собор|Der Dom ist beeindruckend.|The cathedral is impressive.|Собор впечатляет.
@@ -5092,7 +5092,7 @@
 4988|der|der Zorn||anger, wrath|гнев|Sein Zorn war groß.|His anger was great.|Его гнев был велик.
 4989|verb|beschwören, beschwört, beschwor, hat beschworen||to conjure, swear to|заклинать|Der Zauberer beschwor den Geist.|The magician conjured the spirit.|Маг заклинал духа.
 4990|die|die Kreuzung|die Kreuzungen|intersection|перекрёсток|Die Kreuzung ist gefährlich.|The intersection is dangerous.|Перекрёсток опасный.
-4991|der|der Mars||Mars|Марс|Mars ist ein Planet.|Mars is a planet.|Марс - это планета.
+4991|der|der Mars||Mars|Марс|Mars ist ein Planet.|Mars is a planet.|Марс — это планета.
 4992|der|der Mindestlohn|die Mindestlöhne|minimum wage|минимальная заработная плата|Der Mindestlohn wurde erhöht.|The minimum wage was increased.|Минимальная заработная плата была повышена.
 4993|der|der Missbrauch|die Missbräuche|abuse|злоупотребление|Missbrauch ist strafbar.|Abuse is punishable.|Злоупотребление наказуемо.
 4994|der|der Nationalpark|die Nationalparks|national park|национальный парк|Der Nationalpark ist geschützt.|The national park is protected.|Национальный парк охраняется.
