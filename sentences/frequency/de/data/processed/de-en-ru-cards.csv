@@ -32,7 +32,7 @@
 21|part|zu||too|слишком|Zu viel Zucker.|Too much sugar.|Слишком много сахара.
 21|prep|zu||to|к|Er ging zu ihr.|He went to her.|Он пошел к ней.
 22|conj|als||as, when|как, когда|Als er kam, ging sie.|As he came, she left.|Когда он пришел, она ушла.
-22|part|als||than|чем|Größer als er.|Taller than him.|Выше, чем он.
++22|part|als||than|чем|Größer als er.|Taller than him.|Выше, чем он.
 23|verb|können, kann, konnte, hat können||to be able to, can|мочь|Er kann schwimmen.|He can swim.|Он умеет плавать.
 24|pron|dies||this, that|этот|Dies ist mein Haus.|This is my house.|Это мой дом.
 25|part|wie||as|как|Er arbeitet wie ein Pferd.|He works like a horse.|Он работает как лошадь.
@@ -51,7 +51,7 @@
 33|adv|noch||still, yet|ещё|Es ist noch früh.|It is still early.|Ещё рано.
 34|prep|nach||after, toward|после, к|Nach der Schule.|After school.|После школы.
 35|conj|oder||or|или|Willst du Tee oder Kaffee?|Do you want tea or coffee?|Ты хочешь чай или кофе?
-36|pron|all||all|все|Alle kommen hierher.|All come here.|Все приходят сюда.
++36|pron|all||all|все|Alle kommen hierher.|All come here.|Все приходят сюда.
 37|prep|aus||out, out of, from|из|Er kommt aus Spanien.|He comes from Spain.|Он из Испании.
 38|pron|was||what|что|Was machst du?|What are you doing?|Что ты делаешь?
 39|adv|nur||only|только|Ich habe nur ein Buch.|I have only one book.|У меня есть только одна книга.
@@ -76,7 +76,7 @@
 56|pron|viel||much, a lot, many|много|Viel Lärm um nichts.|Much ado about nothing.|Много шума из ничего.
 57|verb|wollen, will, wollte, hat gewollt||to want to|хотеть|Ich will ein Eis.|I want an ice cream.|Я хочу мороженое.
 58|verb|machen, macht, machte, hat gemacht||to do, make|делать|Er macht seine Hausaufgaben.|He does his homework.|Он делает свою домашнюю работу.
-59|pron|andere (r, s)||other|другой|Die andere Tür.|The other door.|Другая дверь.
++59|pron|andere (r, s)||other|другой|Die andere Tür.|The other door.|Другая дверь.
 60|verb|sollen, soll, sollte, hat gesollt||should, ought to|должен|Du sollst das tun.|You should do that.|Ты должен это сделать.
 61|adv|schon||already|уже|Er ist schon da.|He is already there.|Он уже там.
 61|part|schon||really|действительно|Der Test war schon schwierig.|The test was really difficult.|Тест был действительно сложным.
@@ -119,8 +119,8 @@
 92|pron|ihn||him|его|Ich sehe ihn jeden Tag.|I see him every day.|Я вижу его каждый день.
 93|conj|denn||because|потому что|Er kommt, denn er muss.|He comes because he must.|Он приходит, потому что должен.
 93|part|denn||anyway|же|Was ist denn los?|What is going on anyway?|Что же происходит?
-94|das|das Beispiel|die Beispiele|example|пример|Ein gutes Beispiel.|A good example.|Хороший пример.
-95|adj|erste (r, s)||first|первый|Das erste Mal.|The first time.|Первый раз.
++94|das|das Beispiel|die Beispiele|example|пример|Ein gutes Beispiel.|A good example.|Хороший пример.
++95|adj|erste (r, s)||first|первый|Das erste Mal.|The first time.|Первый раз.
 96|die|die Zeit|die Zeiten|time|время|Die Zeit vergeht schnell.|Time flies.|Время летит.
 97|adj|lang||long|длинный|Der Fluss ist lang.|The river is long.|Река длинная.
 97|adv|lang||for a long time|долго|Er wartet schon lange.|He has been waiting for a long time.|Он ждет уже долго.
@@ -172,7 +172,7 @@
 136|verb|zeigen, zeigt, zeigte, hat gezeigt||to show|показать|Er zeigt mir das Bild.|He shows me the picture.|Он показывает мне картину.
 137|adj|natürlich||natural|натуральный|Das Wasser kommt aus einer natürlichen Quelle.|The water comes from a natural spring.|Вода поступает из натурального источника.
 137|adv|natürlich||naturally, of course|конечно|Natürlich komme ich.|Of course I come.|Конечно, я приду.
-138|adj|alt||old|старый|Das alte Haus.|The old house.|Старый дом.
++138|adj|alt||old|старый|Das alte Haus.|The old house.|Старый дом.
 139|adv|dort||there|там|Ich bin dort.|I am there.|Я там.
 140|das|das Deutschland||Germany|Германия|Deutschland ist schön.|Germany is beautiful.|Германия красивая.
 141|adj|gleich||same, right away, just|такой же|Wir haben das gleiche Problem.|We have the same problem.|У нас такая же проблема.
@@ -185,7 +185,7 @@
 147|das|das Haus|die Häuser|house|дом|Das Haus ist groß.|The house is big.|Дом большой.
 148|part|nein, nee, nö||no|нет|Nein, danke.|No, thank you.|Нет, спасибо.
 149|pron|wer||who, whoever|кто|Wer ist das?|Who is that?|Кто это?
-150|pron|dazu||in addition, furthermore, to that, for that|к этому|Er gehört dazu.|He belongs to that.|Он принадлежит к этому.
++150|pron|dazu||in addition, furthermore, to that, for that|к этому|Er gehört dazu.|He belongs to that.|Он принадлежит к этому.
 151|adj|eigentlich||actual, real|фактический|Er ist der eigentliche Besitzer.|He is the actual owner.|Он фактический владелец.
 151|adv|eigentlich||actually|на самом деле|Eigentlich mag ich es.|Actually, I like it.|На самом деле мне это нравится.
 151|part|eigentlich|||на самом деле|Das ist eigentlich wahr.|That is actually true.|Это на самом деле правда.
@@ -195,7 +195,7 @@
 155|verb|halten, hält, hielt, hat gehalten||to stop, hold|держать|Er hält den Ball.|He holds the ball.|Он держит мяч.
 156|verb|glauben, glaubt, glaubte, hat geglaubt||to believe|верить|Ich glaube dir.|I believe you.|Я верю тебе.
 157|die|die Frage|die Fragen|question|вопрос|Das ist die Frage.|That is the question.|Это вопрос.
-158|verb|gelten, gilt, galt, hat gegolten||to be valid|быть действительным|Das Gesetz gilt.|The law is valid.|Закон действует.
++158|verb|gelten, gilt, galt, hat gegolten||to be valid|быть действительным|Das Gesetz gilt.|The law is valid.|Закон действует.
 159|adj|gerade||straight|прямой|Die Linie ist gerade.|The line is straight.|Линия прямая.
 159|adv|gerade||just, just now, right now|сейчас|Ich mache es gerade.|I am doing it right now.|Я делаю это сейчас.
 160|verb|folgen, folgt, folgte, ist gefolgt||to follow|следовать|Er folgt dem Hund.|He follows the dog.|Он следует за собакой.
@@ -211,18 +211,18 @@
 169|adj|spät||later|позже|Ich werde später kommen.|I will come later.|Я приду позже.
 170|adv|bereits||already|уже|Er hat bereits gegessen.|He has already eaten.|Он уже поел.
 171|adj|möglich||possible|возможный|Das ist möglich.|That is possible.|Это возможно.
-171|adv|möglich||as . . . as possible, if possible|возможно|So schnell wie möglich.|As fast as possible.|Как можно быстрее.
-172|das|das Prozent|die Prozente|percent|процент|Zehn Prozent der Leute.|Ten percent of the people.|Десять процентов людей.
++171|adv|möglich||as . . . as possible, if possible|возможно|So schnell wie möglich.|As fast as possible.|Как можно быстрее.
++172|das|das Prozent|die Prozente|percent|процент|Zehn Prozent der Leute.|Ten percent of the people.|Десять процентов людей.
 173|conj|während||while, whereas|пока|Während ich lese, höre ich Musik.|While I read, I listen to music.|Пока я читаю, я слушаю музыку.
 173|prep|während||during, while|во время|Während des Tages arbeite ich.|During the day, I work.|В течение дня я работаю.
 174|pron|einige||a few, some|некоторые|Einige Menschen sind hier.|Some people are here.|Некоторые люди здесь.
 175|pron|dafür||for it, for that|за это|Ich bin dafür.|I am for it.|Я за это.
-176|adj|kurz||short|короткий|Ein kurzes Gespräch.|A short conversation.|Короткий разговор.
++176|adj|kurz||short|короткий|Ein kurzes Gespräch.|A short conversation.|Короткий разговор.
 177|adj|richtig||correct, right|правильный|Das ist richtig.|That is correct.|Это правильно.
 178|adj|stark||strong|сильный|Er ist stark.|He is strong.|Он сильный.
 179|verb|brauchen, braucht, brauchte, hat gebraucht||to need|нуждаться|Ich brauche Hilfe.|I need help.|Мне нужна помощь.
 180|die|die Hand|die Hände|hand|рука|Sie hebt die Hand.|She raises her hand.|Она поднимает руку.
-181|adv|etwa||about, approximately|примерно|Etwa zehn Minuten.|About ten minutes.|Около десяти минут.
++181|adv|etwa||about, approximately|примерно|Etwa zehn Minuten.|About ten minutes.|Около десяти минут.
 181|part|etwa||after all|ведь|Es ist etwa zu spät.|After all, it is too late.|Ведь уже поздно.
 182|adj|weitere (r, s)||additional, further|дополнительный|Wir brauchen weitere Details.|We need further details.|Нам нужны дополнительные детали.
 183|das|das Ende|die Enden|end|конец|Das Ende ist nah.|The end is near.|Конец близок.
@@ -250,7 +250,7 @@
 203|adj|schnell||fast|быстрый|Das Auto ist schnell.|The car is fast.|Машина быстрая.
 204|die|die Stadt|die Städte|city, town|город|Die Stadt ist groß.|The city is big.|Город большой.
 205|verb|spielen, spielt, spielte, hat gespielt||to play|играть|Er spielt Fußball.|He plays soccer.|Он играет в футбол.
-206|adv|zwar||admittedly, to be precise|хотя|Er kommt zwar, aber spät.|He is coming, admittedly, but late.|Он придет, хотя и поздно.
++206|adv|zwar||admittedly, to be precise|хотя|Er kommt zwar, aber spät.|He is coming, admittedly, but late.|Он придет, хотя и поздно.
 207|der|der Euro|die Euros|euro (unit of currency)|евро|Ein Euro für ein Brot.|One euro for a bread.|Один евро за хлеб.
 208|die|die Arbeit|die Arbeiten|work|работа|Die Arbeit ist schwer.|The work is hard.|Работа тяжелая.
 209|die|die Million, Mio.||million|миллион|Eine Million Menschen.|A million people.|Миллион человек.
