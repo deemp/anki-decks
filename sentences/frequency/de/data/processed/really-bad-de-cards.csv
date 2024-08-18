@@ -1,4 +1,14 @@
+|part_of_speech|word_de|sentence_de|issue
+30|part|zu|Zu viel Zucker.|Misclassified as particle; used as preposition
+33|part|als|Größer als er.|Misclassified as particle; used as conjunction
+36|part|wie|Er arbeitet wie ein Pferd.|Misclassified as particle; used as conjunction
+41|pron|Ihr|Ist das Ihr Auto?|Potentially misleading use of possessive pronoun
+63|pron|kein|Ich habe kein Geld.|Misclassified as pronoun; used as article
+84|(Reflexive pronoun in the accusative case.)|mich|Ich freue mich auf das Wochenende.|Vague classification of reflexive pronoun
+105|conj|mal|Ein mal eins ist eins.|Misclassified as conjunction; used as noun
+131|pron|wenig|Es gibt wenig Hoffnung.|Misclassified as pronoun; used as determiner/quantifier
 509|die|die Milliarde, Mrd.|Eine Milliarde Menschen.|Incomplete sentence
+576|pron|darum|Er geht darum.|Misclassified as pronoun; should be adverb
 611|prep|innerhalb|Innerhalb einer Woche.|Incomplete sentence
 656|prep|trotz|Trotz des Regens.|Incomplete sentence
 668|adv|jeweils|Jeweils am Morgen.|Incomplete sentence
@@ -6,19 +16,10 @@
 776|prep|aufgrund|Aufgrund des Wetters.|Incomplete sentence
 1155|adv|her|Vor einem Jahr.|Incomplete sentence
 1245|adv|erstmals|Erstmals hier.|Incomplete sentence
-576|pron|darum|Er geht darum.|Misclassified as pronoun; should be adverb
-1284|adj|geboren|Er ist geboren.|Functioning more as past participle than adjective
-105|conj|mal|Ein mal eins ist eins.|Misclassified as conjunction; used as noun
-33|part|als|Größer als er.|Misclassified as particle; used as conjunction
-36|part|wie|Er arbeitet wie ein Pferd.|Misclassified as particle; used as conjunction
-30|part|zu|Zu viel Zucker.|Misclassified as particle; used as preposition
-41|pron|Ihr|Ist das Ihr Auto?|Potentially misleading use of possessive pronoun
-63|pron|kein|Ich habe kein Geld.|Misclassified as pronoun; used as article
-84|(Reflexive pronoun in the accusative case.)|mich|Ich freue mich auf das Wochenende.|Vague classification of reflexive pronoun
-131|pron|wenig|Es gibt wenig Hoffnung.|Misclassified as pronoun; used as determiner/quantifier
 1264|adj|berliner|Die Berliner Mauer.|Should be capitalized as part of a proper noun
-1393|die|die See|Die See ist ruhig.|Potential confusion with "der See"
+1284|adj|geboren|Er ist geboren.|Functioning more as past participle than adjective
 1390|verb|konzentrieren, konzentriert, konzentrierte, hat konzentriert|Ich kann mich nicht konzentrieren.|Reflexive verb usage not indicated
+1393|die|die See|Die See ist ruhig.|Potential confusion with "der See"
 1488|mitten|Mitten im Raum.|Incomplete sentence
 1489|zufolge|Dem Bericht zufolge.|Incomplete sentence
 1779|der Verlauf|Der Verlauf der Krankheit.|Incomplete sentence
@@ -29,18 +30,18 @@
 2453|die Erwachsene|Die Erwachsene sind verantwortlich.|Incorrect noun form; should be "Die Erwachsenen sind verantwortlich."
 2513|plus|Morgen erwarten wir 10 Grad plus.|Could be unclear or incomplete depending on context
 2520|ausziehen, zieht aus, zog aus, ist ausgezogen|Er zog aus dem Haus aus.|Redundant use of "ausziehen"
+2751|derart|Derart ist es geschehen.|Awkward phrasing; not common usage
 2782|das|das Brasilien|Brasilien ist ein großes Land.|"das" should be omitted, as "Brasilien" is a proper noun and does not need an article
+2841|heimisch|Das ist mein heimischer Ort.|Awkward phrasing; "Heimatort" or "Heimat" would be better
 2854|die|die Hut|Er steht auf der Hut.|Incorrect article; should be "auf der Hut" (idiomatic expression), not "die Hut" (which would incorrectly refer to a hat)
 2924|das|das Dänemark|Dänemark ist wunderschön.|"das" should be omitted, as "Dänemark" is a proper noun and does not need an article
 3011|konsequent|Das ist konsequent gehandelt.|Incorrect structure; should be "Das wurde konsequent gehandelt" or "Das ist konsequent."
 3014|der|der Gehalt|Der Gehalt des Buches ist tiefgründig.|"der Gehalt" is used correctly, but "Gehalt" can also mean "salary" and might be confusing without context
 3066|das|das Weihnachten|Das Weihnachten ist bald.|"Weihnachten" usually doesn't take an article in this context
-3150|der|der Irak|Irak ist weit weg.|The article "der" is often omitted in contemporary usage
-3361|das|das Indisch|Viele Menschen in Indien sprechen Indisch.|The article "das" should be omitted when referring to a language
-2751|derart|Derart ist es geschehen.|Awkward phrasing; not common usage
-2841|heimisch|Das ist mein heimischer Ort.|Awkward phrasing; "Heimatort" or "Heimat" would be better
 3080|zugehörig|Das ist zugehörig.|Requires more context; usually used with an object
+3150|der|der Irak|Irak ist weit weg.|The article "der" is often omitted in contemporary usage
 3205|ha|Ha, das ist lustig!|Informal interjection; may be stylistically weak in formal contexts
+3361|das|das Indisch|Viele Menschen in Indien sprechen Indisch.|The article "das" should be omitted when referring to a language
 3422|fix|Das Problem wurde fix gelöst.|"fix" is colloquial and not suitable for formal contexts
 3430|das|das Asien|Asien ist vielfältig.|"das" should be omitted, as "Asien" is a proper noun and does not need an article
 3523|hi|Hi, wie geht’s?|Informal interjection; may be stylistically weak in formal contexts
@@ -65,6 +66,7 @@
 4294|das|das Thüringen|Thüringen liegt in Deutschland.|Unnecessary article; "das" should be omitted as "Thüringen" is a proper noun
 4344|abspielen, spielt ab, spielte ab, hat abgespielt|Das Lied spielt ab.|Incorrect usage; "abspielen" typically refers to a deliberate action of playing something
 4364|öh|Öh, was meinst du?|Informal interjection; may be stylistically weak in formal contexts
+4413|fügen (sich), fügt, fügte, hat gefügt|Sie fügte sich ihrem Schicksal.|Formal and somewhat outdated expression
 4435|mmh|Mmh, das schmeckt gut.|Informal interjection; may be stylistically weak in formal contexts
 4461|die|die News|Die News sind spannend.|Unnecessary anglicism; "Nachrichten" would be more appropriate
 4506|soeben|Ich habe es soeben gesehen.|Vague context; sentence could be more specific
@@ -74,4 +76,3 @@
 4679|nirgends|Er wohnt nirgends.|Ambiguous context; sentence lacks clarity
 4943|verstoßen, verstößt, verstieß, hat verstoßen|Er hat das Gesetz verstoßen.|Incorrect verb usage; should be "gegen das Gesetz verstoßen"
 5067|norwegisch|Die norwegische Fjorde sind wunderschön.|Incorrect noun agreement; should be "Die norwegischen Fjorde sind wunderschön"
-4413|fügen (sich), fügt, fügte, hat gefügt|Sie fügte sich ihrem Schicksal.|Formal and somewhat outdated expression
