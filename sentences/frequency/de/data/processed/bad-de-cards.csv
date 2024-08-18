@@ -1,67 +1,134 @@
 |part_of_speech|word_de|sentence_de
+6|verb|sein, ist, war, ist gewesen|Er ist mein Bruder.|Part of speech misalignment: 'ist' functions as an auxiliary verb, not a main verb.
 17|prep|von|Ein Brief von dir.|Incomplete sentence; lacks a main clause
+17|prep|von|Ein Brief von dir.|Incomplete sentence: Lacks a complete clause.
 30|part|zu|Zu viel Zucker.|Misclassified as particle; used as preposition
+30|part|zu|Zu viel Zucker.|Part of speech misalignment: 'zu' functions as a preposition here, not a particle.
 33|part|als|Größer als er.|Misclassified as particle; used as conjunction
 36|part|wie|Er arbeitet wie ein Pferd.|Misclassified as particle; used as conjunction
 41|pron|Ihr|Ist das Ihr Auto?|Potentially ambiguous; 'Ihr' can be mistaken for lowercase 'ihr'
+50|prep|nach|Nach der Schule.|Incomplete sentence: Lacks a complete clause.
 63|pron|kein|Ich habe kein Geld.|Misclassified as pronoun; used as article
+84|(Reflexive pronoun in the accusative case.)|mich|Ich freue mich auf das Wochenende.|Incorrect abbreviation: Should be 'pron' instead of the description.
 84|(Reflexive pronoun in the accusative case.)|mich|Ich freue mich auf das Wochenende.|Incorrect or unclear abbreviation for the part of speech
 105|conj|mal|Ein mal eins ist eins.|Misclassified as conjunction; used as noun
+105|conj|mal|Ein mal eins ist eins.|Part of speech misalignment: 'mal' functions as a noun here, not a conjunction.
+106|das|das Mal|Das erste Mal ist immer besonders|Correct but contextually might be misunderstood without the definite article being clearly associated with a noun
+107|part|mal|Wir waren mal in Paris.|Part of speech misalignment: 'mal' functions as an adverb here, not a particle.
+128|part|selbst, selber|Selbst ich kann das.|Part of speech misalignment: 'selbst' functions as an adverb here, not a particle.
 131|pron|wenig|Es gibt wenig Hoffnung.|Misclassified as pronoun; used as determiner/quantifier
 212|adv|möglich|So schnell wie möglich.|Incomplete sentence; lacks a main clause
+212|adv|möglich|So schnell wie möglich|Part of speech misalignment (functions as an adjective here)
 224|part|etwa|Es ist etwa zu spät.|Incorrect usage; 'etwa' should be an adverb here, not a particle
+224|part|etwa|Es ist etwa zu spät|Part of speech misalignment (functions as an adverb here)
 240|adv|eben, ebend|Ich habe es dir eben gesagt.|Spelling error; 'ebend' is incorrect, should be 'eben'
+240|adv|eben, ebend|Ich habe es dir eben gesagt|Part of speech misalignment (functions as an adverb here)
+241|part|eben, ebend|Das war eben so.|Part of speech misalignment: 'eben' functions as an adverb here, not a particle.
 243|der, das|das Teil|Jedes Teil hat seine Funktion.|Ambiguity; 'Teil' can refer to different meanings depending on the article ('der Teil' or 'das Teil')
 269|die (pl)||Viele Leute sind hier.|Missing the word for the plural form; 'die Leute' or 'die Menschen' should be explicitly stated
+274|verb|setzen, setzt, setzte, hat gesetzt|Er setzt sich auf den Stuhl|Misaligned verb usage (refl. verb missing identification)
+288|pron|ein paar|Ich habe ein paar Fragen|Part of speech misalignment (functions as a determiner)
+290|part|recht|Es ist recht schwierig.|Part of speech misalignment: 'recht' functions as an adverb here, not a particle.
+311|part|wohl|Wohl wird es regnen.|Part of speech misalignment: 'wohl' functions as an adverb here, not a particle.
+312|die|die Geschichte|Die Geschichte ist spannend.|Contextual ambiguity: 'Geschichte' could mean both 'story' and 'history', causing potential confusion without additional context.
 331|conj|sowie|Er kam sowie sie ging.|Incorrect conjunction usage; 'sowie' should mean 'as well as,' not 'as soon as'
+341|der|der Wert|Der Wert dieser Münze ist hoch|Misaligned article ('der' should align with 'Wert', but context may confuse)
+353|pron|bisschen, bissel|Ich brauche ein bisschen Hilfe.|Part of speech misalignment: 'bisschen' functions as a noun phrase, not a pronoun.
+426|part|na|Na, wie geht’s?|Part of speech misalignment (functions as an interjection rather than a particle)
+467|das|das Pro|Das Pro der Stadt ist die gute Infrastruktur.|Misalignment: 'Pro' is typically used as a prefix or in the phrase 'Pro und Contra,' not standalone.
+481|part|nämlich|Es ist nämlich so.|Part of speech misalignment: 'nämlich' functions as an adverb here, not a particle.
 509|die|die Milliarde, Mrd.|Eine Milliarde Menschen.|Incomplete sentence; lacks a verb or further context to complete the sentence.
 534|part|halt|Das ist halt so.|Informal usage; 'halt' is a colloquial filler and may not be appropriate in formal contexts.
 537|prep|nahe, nah|Der Parkplatz ist nah der Schule.|Incorrect preposition usage; 'nahe' should be followed by 'bei' or 'an,' as in 'Der Parkplatz ist nahe bei der Schule.'
+537|prep|nahe, nah|Der Parkplatz ist nah der Schule|Incomplete sentence or incorrect preposition usage; should be 'nahe an der Schule'.
 557|der, die|das Deutsche|Das Deutsche ist schwer.|Incorrect article usage; 'Deutsch' should not take an article in this context, making the sentence awkward. It should be 'Deutsch ist schwer.'
+557|der, die|das Deutsche|Das Deutsche ist schwer.|Misalignment in the abbreviation; should only have 'das' for 'das Deutsche'.
+576|pron|darum|Er geht darum.|Incomplete sentence; 'darum' needs to be part of a more complex sentence structure.
 576|pron|darum|Er geht darum.|Incorrect usage; "darum" is typically used to introduce a reason, not as a standalone phrase.
 607|adj|sogenannt|Der sogenannte Experte.|Incomplete sentence; lacks a verb to complete the thought.
 611|prep|innerhalb|Innerhalb einer Woche.|Incomplete sentence; lacks a subject and verb.
 615|adj|gesamt|Das gesamte Team.|Incomplete sentence; lacks a verb.
+622|die (pl)||Die Kosten sind hoch|Missing noun in the abbreviation, should indicate plural form explicitly.
 627|der|der Begriff|Ein neuer Begriff.|Incomplete sentence; lacks a verb.
 630|prep|laut|Laut dem Bericht.|Incomplete sentence; typically needs a main clause or verb.
+632|die (pl)||Die Daten sind wichtig|Missing noun in the abbreviation, should indicate plural form explicitly.
 635|die|die Aussage|Eine klare Aussage.|Incomplete sentence; lacks a verb.
 643|der|der Gedanke|Ein interessanter Gedanke.|Incomplete sentence; lacks a verb.
 655|der|der Dank|Mein Dank an dich.|Incomplete sentence; lacks a verb.
 656|prep|trotz|Trotz des Regens.|Incomplete sentence; lacks a main clause.
+662|verb|verhalten, verhält, verhielt, hat verhalten|Er verhält sich gut.|Reflexive pronoun 'sich' is missing from the part of speech indication.
 663|adv|mindestens|Das ist mindestens.|Incomplete sentence; lacks further context or completion.
 668|adv|jeweils|Jeweils am Morgen.|Incomplete sentence; lacks a verb or main clause.
+673|das|das Tier|Das Tier ist süß.|Correct, but contextually could be ambiguous in scientific or common usage.
+675|part|am|Am besten ist es jetzt.|Incorrect part of speech; 'am' here is part of a phrase 'am besten', functioning more as an adjective or adverbial superlative.
+676|verb|erhöhen, erhöht, erhöhte, hat erhöht|Er erhöht den Preis.|Correct, but can lead to confusion if used outside of an economic context.
+695|verb|trinken, trinkt, trank, hat getrunken|Ich trinke Wasser.|Correct, but may require clarification depending on specific context or type of liquid.
 774|die|die Mitte|Die Mitte des Raumes.|Incomplete sentence; lacks a verb.
 776|prep|aufgrund|Aufgrund des Wetters.|Incomplete sentence; lacks a main clause or verb.
 809|adj|wirtschaftlich|Die wirtschaftliche Lage.|Incomplete sentence; lacks a verb.
 825|adj|chemisch|Die chemische Reaktion.|Incomplete sentence; lacks a verb.
 840|das|der Alter|Das Alter ist nur eine Zahl.|Incorrect article; should be 'das Alter.'
+840|das|der Alter|Das Alter ist nur eine Zahl.|Incorrect noun gender in abbreviation, should be 'das Alter'.
+896|adv|rechts|Das Auto steht rechts.|Correct usage, but contextually might need further clarification in relation to 'right' (direction or position).
 899|das|das Russisch|Ich spreche Russisch.|Unnecessary article; 'das' should be omitted as 'Russisch' is a language and should not take an article.
+902|das|das Feld|Das Feld ist groß.|Correct usage, but contextually could have multiple meanings (e.g., field of study, field of land).
 939|adj|linke (r, s)|Die linke Hand.|Incomplete sentence; lacks a verb.
+945|adv|danke|Danke für alles.|Incorrect part of speech; 'danke' functions as an interjection here.
 951|adj|ehemalig|Mein ehemaliger Lehrer.|Incomplete sentence; lacks a verb.
 958|adj|künftig|Die künftige Entwicklung.|Incomplete sentence; lacks a verb.
+978|pron|wieso|Wieso fragst du?|'wieso' functions more as an interrogative adverb, not a pronoun.
 986|die|die Nähe|Die Nähe zum Park.|Incomplete sentence; lacks a verb.
+1019|die (pl)||Die Medien berichten.|Missing noun in the abbreviation; should indicate plural form explicitly.
+1024|das|das Tor|Das Tor ist offen.|'Tor' can mean both 'gate' and 'goal'; the context may need clarification.
 1024|das|das Tor|Das Tor ist offen.|Misalignment of article usage. Should not use 'das' for a goal in this context.
+1028|verb|eignen (sich), eignet, eignete, hat geeignet|Das Buch eignet sich.|Incorrect sentence structure; 'Das Buch eignet sich' is incomplete and requires further context, such as 'für etwas.'
 1053|das|das Protein|Protein ist wichtig.|Incorrect article; "Protein" is typically used without an article.
 1054|der|der Gewinn|Der Gewinn ist hoch.|Misalignment of meaning. Contextually 'Gewinn' can refer to a gain or profit, needs clarification.
+1061|part|ruhig|Du kannst ruhig fragen, wenn du etwas nicht verstehst.|'ruhig' functions as an adverb here, not a particle.
+1080|der|der Westen, West-|Der Westen ist groß.|The use of 'Westen' as a noun might confuse it with the geographical direction, where 'Westen' is commonly used as a compound.
+1090|die|das Grüne|Das Grüne ist beruhigend.|Confusing context; 'das Grüne' can be ambiguous without a clear referent.
+1090|die|das Grüne|Das Grüne ist beruhigend.|Contextually ambiguous; 'das Grüne' could refer to nature, greenery, or a specific object, requiring clarification.
 1090|die|das Grüne|Das Grüne ist beruhigend.|Incorrect article. 'Das Grüne' is an informal term not suitable for this sentence construction.
+1090|die|das Grüne|Das Grüne ist beruhigend.|Incorrect part of speech; 'Grüne' should be labeled as 'das' in abbreviation, but the sentence may cause confusion without proper context.
+1096|der|der Band|Sie hat den letzten Band der Trilogie gekauft.|Ambiguous part of speech; 'der Band' could be confused with 'das Band' (ribbon/tape), though correct in context.
+1096|der|der Band|Sie hat den letzten Band der Trilogie gekauft.|Potential confusion with 'das Band' (ribbon/tape), although grammatically correct.
+1124|der|der Januar|Januar ist kalt.|Correct, but in formal settings, it might be expected to specify 'der Januar'.
 1127|adj|jeweilig|Die jeweilige Situation.|Incomplete sentence; lacks a verb.
+1130|adj|vollständig|Das Buch ist vollständig.|Potential ambiguity; 'vollständig' might need context for clarity, though grammatically correct.
 1148|adj|heutig|Das heutige Wetter.|Incomplete sentence; lacks a verb.
+1153|prep|per|Kosten per Meter.|Incomplete sentence; 'per' as a preposition requires additional information to complete the context.
 1153|prep|per|Kosten per Meter.|Incomplete sentence; lacks a verb.
 1155|adv|her|Vor einem Jahr.|Incomplete sentence; lacks a verb.
+1162|adj|elektrisch|Das Auto ist elektrisch.|Correct, but in scientific contexts, 'elektrisch' could be ambiguous without specifying the type of electric system.
 1164|der|der Beitrag|Sein Beitrag war wichtig.|Article usage could be contextually incorrect as it could refer to different meanings (fee/contribution).
 1182|das|das Gebiet|Das Gebiet ist groß.|Vague sentence; 'Gebiet' context needed.
+1189|der, das|der Grad|Der Grad ist hoch.|Potential confusion between temperature, angle, or level, though grammatically correct.
+1190|pron|irgendein|Hast du irgendein Problem?|Correct grammatically, but 'irgendein' can sound unnatural here; 'Hast du irgendein Problem?' is not typically used in this way.
+1190|pron|irgendein|Hast du irgendein Problem?|Grammatically correct but unnatural; typically, 'Hast du irgendein Problem?' would be rephrased for clarity.
 1192|pron|irgendetwas, irgendwas|Hast du irgendetwas gesagt?|Informal usage of pronoun 'irgendwas.'
+1207|verb|töten, tötet, tötete, hat getötet|Er tötet die Zeit.|Figurative use of 'tötet' may cause confusion without context.
 1226|die|die Generation|Die neue Generation.|Incomplete sentence; lacks a verb.
 1227|adj|chinesisch|Das Essen ist chinesisch.|Ambiguity in context; 'chinesisch' as an adjective is vague.
+1228|das|das Chinesisch|Er lernt Chinesisch.|'Chinesisch' is often uncountable and contextually, the article 'das' may seem unnecessary.
+1237|das|das Papier|Das Papier ist weiß.|'Papier' as an uncountable noun might be confusing without additional context.
 1239|prep|angesichts|Angesichts der Lage.|Incomplete sentence; lacks a main clause or verb.
+1240|adj|leise|Der Raum ist leise.|Correct usage, but 'leise' could also function as an adverb, leading to potential ambiguity.
 1245|adv|erstmals|Erstmals hier.|Incomplete sentence; lacks a subject and verb.
 1253|adj|obere (r, s)|Die obere Etage.|Incomplete sentence; lacks a verb.
 1257|adj|mittlere (r, s)|Die mittlere Größe.|Incomplete sentence; lacks a verb.
+1264|adj|berliner|Die Berliner Mauer.|'Berliner' should be capitalized as it is derived from a proper noun (Berlin).
+1264|adj|berliner|Die Berliner Mauer.|Incorrect capitalization; 'berliner' should be capitalized as 'Berliner' when used as an adjective derived from a proper noun.
 1264|adj|berliner|Die Berliner Mauer.|Should be capitalized as part of a proper noun
 1284|adj|geboren|Er ist geboren.|Functioning more as past participle than adjective
 1284|adj|geboren|Er ist geboren.|Incomplete sentence; lacks further context or completion.
+1286|verb|zwingen, zwingt, zwang, hat gezwungen|Er zwingt ihn.|Incomplete sentence; missing the object or purpose for the action.
+1287|das|das Bier|Das Bier ist kalt.|Correct, but could be ambiguous in a formal context where 'Bier' could imply either a generic term or a specific brand.
+1287|das|das Bier|Das Bier ist kalt.|While correct, the sentence might be contextually vague, especially in formal or scientific settings.
+1299|verb|angehen, geht an, ging an, ist angegangen|Das geht dich nichts an.|Contextual usage could be confusing without further clarification.
+1302|verb|auftauchen, taucht auf, tauchte auf, ist aufgetaucht|Ein Problem tauchte auf.|Contextually, 'auftauchen' might be informal, and 'entstehen' could be more appropriate in some formal contexts.
 1316|part|äh|Äh, ich weiß nicht.|Interjection usage not contextually necessary or formal.
 1323|das|das Teilchen|Ein Teilchen ist klein.|Incomplete sentence; lacks a verb.
+1348|adj|Schweizer|Der Käse ist Schweizer.|'Schweizer' should be 'schweizerisch' if referring to something pertaining to Switzerland; 'Schweizer' is typically a noun.
 1348|adj|Schweizer|Der Käse ist Schweizer.|Adjective 'Schweizer' is redundant; 'Schweizer Käse' should be preferred.
 1362|adj|außen|Er bleibt draußen.|Incorrect part of speech; "außen" should be "draußen" to match the context.
 1374|adv|leid|Ich bin des Wartens leid.|Incorrect part of speech; "leid" is a noun but used as an adverb incorrectly.
@@ -70,58 +137,159 @@
 1390|verb|konzentrieren, konzentriert, konzentrierte, hat konzentriert|Ich kann mich nicht konzentrieren.|Reflexive verb usage not indicated
 1393|die|die See|Die See ist ruhig.|Potential confusion with 'der See'
 1400|der, die|die Jugendliche|Die Jugendliche liest ein Buch.|Ambiguous gender; better to specify.
+1400|der, die|die Jugendliche|Die Jugendliche liest ein Buch.|Incorrect abbreviation; should be gender-specific 'der Jugendliche' or 'die Jugendliche'.
+1400|der, die|die Jugendliche|Die Jugendliche liest ein Buch.|Incorrect abbreviation; should specify 'der Jugendliche' or 'die Jugendliche' for gender clarity.
+1400|der, die|die Jugendliche|Die Jugendliche liest ein Buch.|Incorrect abbreviation; should specify either 'der Jugendliche' (male) or 'die Jugendliche' (female).
 1417|verb|ankündigen, kündigt an, kündigte an, hat angekündigt|Er kündigte seinen Besuch an.|Verb 'ankündigen' needs a clearer context or explanation of visit.
+1424|die|die DDR (Deutsche Demokratische Republik)|Die DDR existiert nicht mehr.|Correct, but historical context may cause confusion without proper clarification.
+1424|die|die DDR (Deutsche Demokratische Republik)|Die DDR existiert nicht mehr.|Historically accurate, but the context might be unclear for those unfamiliar with the abbreviation.
+1424|die|die DDR (Deutsche Demokratische Republik)|Die DDR existiert nicht mehr.|The abbreviation 'DDR' may not be immediately recognized by all audiences, depending on the context.
+1427|der, die|die Abgeordnete|Die Abgeordnete spricht.|Incorrect abbreviation; should specify either 'der Abgeordnete' or 'die Abgeordnete.'
 1431|der|der Bezug|Er nimmt Bezug auf das Buch.|Could be ambiguous; context on 'Bezug' lacking.
 1433|der|der Stand|Der Stand ist hoch.|Incomplete sentence; lacks context or further clarification.
 1436|der|der Club|Der Club ist voll.|Club could contextually mean a team, context needed.
 1439|der|der Anschlag|Der Anschlag war verheerend.|Sensitive content; "Anschlag" refers to an attack, which may require careful handling.
 1459|adj|bayrisch|Das Essen ist bayrisch.|'Bayrisch' should use standard adjective 'bayerisch.'
+1469|das|das Amt|Er arbeitet im Amt.|Correct, but 'Amt' could be contextually vague without specifying the type of office.
 1471|verb|vermitteln, vermittelt, vermittelte, hat vermittelt|Er vermittelt den Vertrag.|The sentence implies a translation role, needing clarification.
+1488|adv|mitten|Mitten im Raum.|Incomplete sentence; 'Mitten im Raum' is a fragment and needs a verb or further context.
 1488|adv|mitten|Mitten im Raum.|Incomplete sentence; lacks a verb.
 1489|prep|zufolge|Dem Bericht zufolge.|Incomplete sentence; lacks a main clause or verb.
+1492|das|das Syrien|Syrien ist weit weg.|Incorrect abbreviation; should be 'Syrien' without 'das.'
 1492|das|das Syrien|Syrien ist weit weg.|Incorrect article usage; 'Syrien' should not use an article.
+1500|adj|froh|Ich bin froh.|Incomplete sentence; lacks context or additional information.
 1505|adj|zuständig|Er ist zuständig.|The sentence is contextually incomplete; 'zuständig' typically requires specification (e.g., 'Er ist zuständig für...').
+1523|das|das Sommersemester|Das Sommersemester beginnt.|The use of 'Sommersemester' as a subject is correct, but the sentence is too simple and lacks depth.
+1529|verb|veröffentlichen, veröffentlicht, veröffentlichte, hat veröffentlicht|Das Buch wurde veröffentlicht.|Passive voice without context. Could be improved with more information.
+1533|die|die Praxis|Die Praxis ist modern.|Lacks context regarding what type of 'Praxis' (medical practice, exercise) is being referred to.
+1533|die|die Praxis|Die Praxis ist modern.|The word 'Praxis' can refer to both a practice (e.g., medical practice) or practical experience. Without context, this could be unclear.
 1537|verb|übertragen|Daten werden übertragen.|Incomplete sentence; lacks a subject or context.
+1537|verb|übertragen|Daten werden übertragen.|Passive sentence without a subject, which makes it vague.
+1548|adv|vorbei|Die Zeit ist vorbei.|The sentence is correct, but very basic. 'Vorbei' might be better illustrated in a more complex context.
 1548|adv|vorbei|Die Zeit ist vorbei.|While correct, the sentence is overly simplistic; 'vorbei' typically refers to events or periods, making this sentence feel slightly awkward.
+1570|verb|verfügen, verfügt, verfügte, hat verfügt|Er verfügt über viele Bücher.|Correct, but 'verfügen' is usually used with more abstract or significant resources, not just 'Bücher.'
+1573|der|der Konzern|Der Konzern expandiert.|Correct but very general; it could benefit from more details.
+1576|adj|spezifisch|Das ist spezifisch.|Incomplete context; unclear what 'spezifisch' is referring to.
+1578|die|die Kamera|Die Kamera ist teuer.|Overly simplistic sentence.
+1597|adv|dahin|Das Auto fährt dahin.|'Dahin' is vague and could be more specific.
+1597|adv|dahin|Das Auto fährt dahin.|Vague; 'dahin' could benefit from more specific direction or purpose.
+1613|die|die VWL (Volkswirtschaftslehre)|VWL ist ein interessantes Fach.|Correct but could be more specific about what makes it interesting.
+1618|die|die Mark|Die Mark ist stabil.|'Mark' as a currency is outdated unless referring to a historical context.
+1618|die|die Mark|Die Mark ist stabil.|Outdated currency context unless specifically discussing historical context.
+1638|das|das Lager|Das Lager ist voll.|Ambiguous; unclear if referring to a storage facility, camp, etc.
+1647|adj|reich|Er ist reich.|Basic sentence; 'reich' could benefit from additional context.
+1647|adj|reich|Er ist reich.|Basic sentence; could benefit from more context or elaboration.
+1647|adj|reich|Er ist reich.|The sentence is correct but very basic; more context could enhance its meaning.
+1675|die|die Scheiße|Das ist totale Scheiße!|Correct but colloquial and potentially inappropriate depending on the context.
+1703|der|der Leiter|Der Leiter ist verantwortlich.|Could benefit from additional context about what the person is responsible for.
+1704|die|die Leiter|Die Leiter ist lang.|Correct, but lacks context; it could be ambiguous (ladder vs. leader).
+1704|die|die Leiter|Die Leiter ist lang.|This can be confusing without context because 'Leiter' can mean 'ladder' or 'leader.'
 1715|adv|einerseits|Einerseits bin ich müde.|Incomplete sentence; "andererseits" is expected for balance.
+1721|verb|packen, packt, packte, hat gepackt|Er packt seinen Koffer.|Simple sentence; correct but very basic.
+1724|verb|anwenden, wendet an, wandte an, hat angewandt|Er wendet die Technik an.|Could use more context about the specific application or technique.
 1737|das|das Reich|Das Reich war groß.|Sensitive content; "Reich" can have historical implications requiring context.
+1762|num||Er hat null Punkte.|Missing word before 'null Punkte.'
+1762|num||Er hat null Punkte.|The article or context before 'null Punkte' is missing.
 1762|num||Er hat null Punkte.|The sentence is incomplete because the entry is missing the number word 'null.'
 1779|der|der Verlauf|Der Verlauf der Krankheit.|Incomplete sentence; lacks a verb.
+1791|der|der Alltag|Der Alltag ist stressig.|Correct but could be more specific about why daily life is stressful.
+1791|der|der Alltag|Der Alltag ist stressig.|Correct, but could be more specific about what aspect of daily life is stressful.
+1798|verb|bedingen, bedingt, bedingte, hat bedingt|Das Problem bedingt eine Lösung.|The verb usage is correct, but the sentence could be more complex.
+1813|das|das Fach|Das Fach ist schwer.|Incomplete sentence; lacks context regarding what type of subject is being referred to.
+1816|die|die Nation|Die Nation ist groß.|Too generic; could benefit from more specific context.
+1816|die|die Nation|Die Nation ist groß.|Very generic; adding context would improve the sentence.
+1839|die|die Stufe|Die Stufe ist hoch.|Ambiguous; could refer to a physical step or a metaphorical level without clear context.
+1839|die|die Stufe|Die Stufe ist hoch.|Could refer to a physical step or a metaphorical level without clear context.
+1841|adj|primär|Das ist primär.|Incomplete context; it's unclear what is being primarily referred to.
+1841|adj|primär|Das ist primär.|Incomplete; the object of 'primär' is missing.
+1871|die|die Variable|Die Variable ändert sich.|Correct but overly simple; could benefit from more complex context.
+1876|das|das Volumen|Das Volumen ist groß.|The sentence is very generic; specifying the volume in question would improve clarity.
+1876|das|das Volumen|Das Volumen ist groß.|Too generic; could be more specific about what volume is being referred to.
+1910|verb|mitbringen, bringt mit, brachte mit, hat mitgebracht|Er bringt das Buch mit.|Correct but lacks additional context or purpose.
 1910|verb|mitbringen, bringt mit, brachte mit, hat mitgebracht|Er bringt das Buch mit.|The sentence is correct but lacks context; 'mitbringen' usually involves a specified event or location.
+1910|verb|mitbringen, bringt mit, brachte mit, hat mitgebracht|Er bringt das Buch mit.|While correct, the sentence is simplistic and could benefit from more context.
+1911|adj|seltsam|Das ist seltsam.|Overly simplistic; could be enhanced with more context about what is strange.
+1911|adj|seltsam|Das ist seltsam.|The sentence is overly simplistic; specifying what is strange would be better.
 1921|adj|-jährig|Er ist zwanzigjährig.|The use of '-jährig' is incomplete; it typically modifies a noun (e.g., 'zwanzigjähriger Mann').
 1928|adv|etc.|Bring Getränke etc.|Incorrect usage; "etc." is used as a noun but is an abbreviation.
 1931|verb|erweitern, erweitert, erweiterte, hat erweitert|Das Unternehmen erweitert.|Incomplete sentence; lacks an object or completion.
 1973|die|die Ansicht|Das ist meine Ansicht.|While correct, the sentence is very basic and lacks depth; 'Ansicht' often requires more elaboration for clarity.
+1974|die|die AG (Aktiengesellschaft)|Die AG ist erfolgreich.|Lacks details about what makes the Aktiengesellschaft successful.
+1974|die|die AG (Aktiengesellschaft)|Die AG ist erfolgreich.|Lacks specific details about what makes the Aktiengesellschaft successful.
 1993|pron|irgendwelche (r, s)|Irgendwelche Fragen?|Incomplete sentence; lacks a verb.
+2001|adj|spanisch|Sie trinkt spanischen Wein.|The sentence is correct, but 'spanisch' as an adjective might be better in a different context, such as 'Das spanische Essen ist lecker.' Also, 'spanisch' is typically capitalized as 'Spanisch' when referring to the language.
+2005|verb|vorhaben, hat vor, hatte vor, hat vorgehabt|Wir haben viel vor.|The sentence is correct but vague; typically, more context is provided with 'vorhaben' to specify the plan.
+2005|verb|vorhaben, hat vor, hatte vor, hat vorgehabt|Wir haben viel vor.|The sentence is correct, but 'vorhaben' is more commonly used in a context where a specific plan or intention is mentioned, and the sentence feels somewhat incomplete without specifying what exactly is planned.
+2023|das|das Gewicht|Das Gewicht ist schwer.|'Gewicht' refers to a measurement, so describing it as 'schwer' (heavy) is redundant. It would make more sense to say 'Das Gewicht ist hoch' (The weight is high).
+2023|das|das Gewicht|Das Gewicht ist schwer.|'Gewicht' refers to the concept of weight, so describing it as 'schwer' (heavy) is redundant and nonsensical. It should be rephrased or changed to 'hoch' (high) if referring to a large weight.
 2023|das|das Gewicht|Das Gewicht ist schwer.|Redundant; "Gewicht" and "schwer" convey the same meaning, making the sentence somewhat awkward.
+2023|das|das Gewicht|Das Gewicht ist schwer.|This sentence is redundant as 'Gewicht' already implies 'heaviness'. A better sentence might be 'Das Gewicht ist hoch' (The weight is high).
+2027|verb|versorgen, versorgt, versorgte, hat versorgt|Er versorgt die Familie.|The verb 'versorgen' means 'to supply' or 'to care for,' which makes the sentence technically correct, but it could benefit from more context to clarify how he is 'versorgen' his family (with money, care, etc.).
 2037|prep|mittels|Mittels eines Tricks gelang es.|Incomplete sentence
+2081|die|die Dimension|Die Dimension ist groß.|While correct, the sentence is a bit vague without context. A more specific context would make it clearer, such as 'Die Dimension des Problems ist groß.'
 2086|adj|Wiener|Der Kaffee ist Wiener Art.|The sentence is missing an article or preposition to be grammatically correct. It should be 'Der Kaffee ist von Wiener Art' or 'Der Kaffee ist nach Wiener Art.'
 2090|das|das Afghanistan|Afghanistan ist schön.|This sentence may be considered inappropriate due to the sensitive geopolitical context; 'schön' is an odd descriptor for a country known for conflict.
 2092|verb|absehen, sieht ab, sah ab, hat abgesehen|Das ist nicht abzusehen.|Incorrect usage; context needed to clarify "abzusehen."
 2115|das|das Israel|Israel liegt im Nahen Osten.|Incorrect article; "das" is unnecessary for country names.
 2161|die|die Saga|Die Saga ist spannend.|Incorrect use of the word 'Saga.' In German, 'Saga' usually refers to a myth or a legend, and describing it as 'spannend' (exciting) may seem odd depending on the context.
+2168|die|die Stiftung|Die Stiftung ist gemeinnützig.|While technically correct, the sentence is somewhat redundant as 'Stiftung' often implies 'gemeinnützig' (non-profit). More context would be helpful.
+2184|der|der Graf|Der Graf ist reich.|The sentence is correct, but 'Graf' is an outdated term for a count, and the context might confuse some readers without historical reference.
 2187|adj|optisch|Die Täuschung war optisch.|Incomplete sentence; needs more context to clarify "optisch."
+2203|die|die Leber|Die Leber ist wichtig.|The sentence is correct, but it lacks context. 'Wichtig' might feel too general without specifying why the liver is important (e.g., 'Die Leber ist wichtig für die Entgiftung des Körpers.').
 2203|die|die Leber|Die Leber ist wichtig.|The sentence is technically correct but sounds unnatural as it lacks specific context, making it awkward.
+2205|verb|aufheben, hebt auf, hob auf, hat aufgehoben|Er hebt das Buch auf.| The sentence is correct, but the context might be confusing. 'Aufheben' can also mean 'to abolish' or 'to repeal,' which could lead to ambiguity without clear context.
+2207|adj|heilig|Das ist ein heiliger Ort.|The sentence is correct, but in certain contexts, 'Ort' can be abstract, so it might require additional context or specification (e.g., 'Heiliger Ort der Anbetung' for clarity).
 2239|die|die Hose|Die Hose ist blau.|Incomplete sentence; lacks a verb.
 2241|verb|ansetzen, setzt an, setzte an, hat angesetzt|Er setzt den Termin an.|While 'ansetzen' can be used for setting a date, the sentence might be considered incomplete without additional context (e.g., 'Er setzt den Termin für morgen an').
 2245|verb|beruhen, beruht, beruhte, hat beruht|Das basiert auf Fakten.|Incorrect part of speech usage - 'beruhen' should be used instead of 'basiert' to match the part of speech in the sentence.
 2249|adv|innen|Das Licht ist innen.|Incorrect usage; "innen" should typically refer to a location or state (e.g., "Das Licht ist drinnen").
+2256|die, das|die E-Mail|Die E-Mail kam an.| While both 'die' and 'das' are technically used for 'E-Mail' in different regions, 'die E-Mail' is much more standard in everyday use.
 2256|die, das|die E-Mail|Die E-Mail kam an.|Ambiguous article usage.
+2256|die, das|die E-Mail|Die E-Mail kam an.|The sentence is correct, but the word 'die' in 'die E-Mail' is commonly accepted, while 'das' is less commonly used. Using 'die' exclusively might be better.
+2259|die|die Oma|Meine Oma ist nett.|The sentence is informal and lacks specificity. 'Oma' is colloquial; 'Großmutter' is more formal.
 2274|adv|daraufhin|Er geht daraufhin fort.|Incomplete context; unclear purpose or result from "daraufhin."
+2281|der|der Schlüssel|Der Schlüssel passt.|This sentence is vague. 'Passt' (fits) needs context, such as what the key fits into, e.g., 'Der Schlüssel passt ins Schloss' (The key fits the lock).
+2282|verb|deuten, deutet, deutete, hat gedeutet|Er deutet auf das Bild.|'Deuten' typically implies interpretation rather than physical pointing. 'Er zeigt auf das Bild' might be clearer.
+2283|adj|glatt|Die Straße ist glatt.|'Glatt' can be used to describe a surface as smooth or slippery, but in this context, 'Die Straße ist glatt' could be confusing. The sentence might imply that the road is icy or wet, but it's not entirely clear without additional context.
+2312|der|der Witz|Der Witz ist lustig.| This sentence is correct, but the context could be improved by providing a bit more detail, e.g., 'Der Witz, den er erzählte, war lustig.'
+2356|die|die Identität|Seine Identität ist geheim.|While grammatically correct, 'geheim' is awkward when used to describe 'Identität.' 'Unbekannt' (unknown) or 'verborgen' (hidden) is more natural.
+2357|der|der Stock|Das Büro ist im dritten Stock.|The word 'Stock' is correct, but 'Stockwerk' might be clearer in modern usage, especially for learners.
+2357|der|der Stock|Das Büro ist im dritten Stock.|While 'Stock' is technically correct, 'Stockwerk' is a more commonly used term for a building floor in standard German.
+2379|adv|versus|Es ist Team A versus Team B.|'Versus' is a Latin word used in English contexts; in German, 'gegen' (against) is more appropriate.
+2379|adv|versus|Es ist Team A versus Team B.|'Versus' is not standard German; 'gegen' (against) should be used instead.
+2379|adv|versus|Es ist Team A versus Team B.|'Versus' is typically used in English, and while it's understood in German, it's more natural to use 'gegen' (against).
 2379|adv|versus|Es ist Team A versus Team B.|Incorrect usage; "versus" is a loanword and should be replaced with "gegen."
+2395|der|der Einwohner|Der Einwohner ist zufrieden.|The sentence is grammatically correct but lacks context. It could be improved with additional details, such as 'Der Einwohner der Stadt ist zufrieden.'
+2410|die|die Vielfalt|Die Vielfalt der Tiere ist erstaunlich.|This sentence is correct, but it could be improved with more specific detail or context, such as 'Die biologische Vielfalt der Tiere in diesem Regenwald ist erstaunlich.'
+2412|verb|flüstern, flüstert, flüsterte, hat geflüstert|Sie flüstert ihm ins Ohr.|Correct sentence, but could be slightly more descriptive, such as 'Sie flüstert ihm ein Geheimnis ins Ohr.'
+2413|adv|geradezu|Das war geradezu genial!|While correct, 'geradezu' is an intensifier and could be more fitting in written language than in spoken language.
+2439|verb|aufwachsen, wächst auf, wuchs auf, ist aufgewachsen|Er ist in der Stadt aufgewachsen.|Correct sentence, but could be slightly improved with additional context, such as 'Er ist in einer kleinen Stadt aufgewachsen.'
 2451|adv|ebenda|Das Zitat stammt ebenda.|Incomplete sentence
 2453|der, die|die Erwachsene|Die Erwachsene sind verantwortlich.|Grammatical error; "die Erwachsene" should be "der Erwachsene" (singular) or "die Erwachsenen" (plural).
+2461|die|die Tiefe|Die Tiefe des Sees ist erstaunlich.| The sentence is correct but could be considered incomplete without additional context, e.g., 'Die Tiefe des Sees ist erstaunlich tief, besonders in den Wintermonaten.'
+2467|verb|vorlegen, legt vor, legte vor, hat vorgelegt|Er legt die Dokumente vor.|The verb 'vorlegen' is formal and might be contextually heavy-handed for everyday situations; 'zeigen' or 'einreichen' could be better depending on the context.
+2489|der|das Bord|Er ist an Bord.| The use of 'das Bord' is somewhat uncommon; typically, 'das Schiff' or 'der Bord' might be used, depending on context.
+2489|der|das Bord|Er ist an Bord.|'Das Bord' is awkward in this context; it should simply be 'Er ist an Bord' without the article for clarity.
+2489|der|das Bord|Er ist an Bord.|'Das Bord' is not correct; it should be 'das Boot' or 'das Schiff' depending on context. The sentence should be 'Er ist an Bord des Schiffes.'
+2489|der|das Bord|Er ist an Bord.|'Das Bord' is somewhat unusual. Typically, 'an Bord' would be used without an article, especially when referring to being on board a ship or plane.
 2489|der|das Bord|Er ist an Bord.|Incorrect article used.
+2497|das|das Gold|Das Gold glänzt.|While correct, this sentence is very basic. Adding context like 'im Sonnenlicht' (in the sunlight) would make it richer.
+2498|adj|umstritten|Das Thema ist umstritten.| The sentence is correct but could be considered incomplete without context. 'Umstritten' often requires elaboration, e.g., 'Das Thema ist in der wissenschaftlichen Gemeinschaft umstritten.'
 2513|adv|plus|Morgen erwarten wir 10 Grad plus.|Could be unclear or incomplete depending on context
+2513|adv|plus|Morgen erwarten wir 10 Grad plus.|Incorrect part of speech: 'plus' is used as an adjective, not an adverb.
 2514|conj|plus|10 plus 15 macht 25.|Incorrect part of speech; 'plus' should be classified as a noun in this context.
+2514|conj|plus|10 plus 15 macht 25.|Incorrect part of speech: 'plus' is used as a noun or preposition, not a conjunction.
 2515|das|das Plus|Ein Plus des Jobs ist das Gehalt.|Ambiguity: The usage of 'Plus' in this context is informal and might not be universally understood. It's often used in spoken language but may be unclear in formal writing.
 2520|verb|ausziehen, zieht aus, zog aus, ist ausgezogen|Er zog aus dem Haus aus.|Redundant use of 'ausziehen'
 2529|das|das Geschlecht|Das Geschlecht ist weiblich.|Inaccurate sentence; 'Geschlecht' refers to gender or sex, and saying 'Das Geschlecht ist weiblich' is unusual. Typically, you would specify 'Das Geschlecht ist weiblich' when referring to a specific person or group, which is missing here.
+2531|die|die Aussicht|Die Aussicht ist herrlich.|Potential ambiguity: 'Aussicht' can also mean 'prospect' in a figurative sense, so context could clarify which meaning is intended.
 2535|die|die Base|Die Base reagiert mit der Säure.|Ambiguity: The word 'Base' can refer to a base in chemistry, but it can also mean 'cousin' (female). The sentence is clear but might cause confusion without context.
 2540|die|die Ehre|Er bewahrt seine Ehre.|Ambiguity: The sentence is correct, but 'Ehre' typically doesn't need to be 'bewahrt' (preserved) in everyday speech; it's more commonly 'verteidigt' (defended).
 2545|der|der Dialog|Der Dialog war interessant.|Incomplete sentence; more context is needed to determine the relevance.
 2546|der|der Schuss|Ein Schuss fiel.|Incomplete sentence; lacks context to determine significance.
+2555|adj|olympisch|Die Spiele sind olympisch.|'olympisch' is usually used as an adjective in the context of the Olympic Games; a more precise sentence would specify 'olympische Spiele' or 'Olympische Spiele.'
 2555|adj|olympisch|Die Spiele sind olympisch.|Incomplete sentence; lacks context to determine proper adjective use.
+2556|adj|verdammt|Das war verdammt schwer!|Colloquial usage: 'verdammt' is used as an intensifier (adverb), not as an adjective.
 2556|adj|verdammt|Das war verdammt schwer!|Improper usage; 'verdammt' is colloquial and should be marked as such.
 2561|verb|umbringen, bringt um, brachte um, hat umgebracht|Er brachte sie um.|Incomplete sentence; unclear context.
 2566|pron|worauf|Worauf basiert diese Annahme?|Ambiguity: The word 'worauf' can be ambiguous without context. It might need further clarification in complex sentences.
@@ -146,6 +314,7 @@
 2692|die|die Entstehung|Die Entstehung des Lebens ist ein Rätsel.|Incomplete sentence; context missing.
 2700|adj|erkennbar|Das Bild ist erkennbar.|Incorrect usage; 'erkennbar' needs a clearer context or subject.
 2712|der, die|die Erste|Die Erste ist die Beste.|Incorrect usage; 'die Erste' is typically used in a specific context like a competition or ranking.
+2721|verb|austauschen, tauscht aus, tauschte aus, hat ausgetauscht|Sie tauschten die Ideen aus.|In this sentence, 'austauschen' is usually plural: 'Sie tauschten Ideen aus.' The definite article 'die' is unnecessary.
 2721|verb|austauschen, tauscht aus, tauschte aus, hat ausgetauscht|Sie tauschten die Ideen aus.|Incomplete sentence; lacks context to understand the significance of the exchange.
 2722|verb|beschleunigen, beschleunigt, beschleunigte, hat beschleunigt|Das Auto beschleunigt schnell.|Incomplete sentence; context needed.
 2727|der|der Protest|Der Protest war friedlich.|Incomplete sentence; context missing.
@@ -162,6 +331,7 @@
 2790|adj|bürgerlich|Das ist ein bürgerliches Recht.|Incorrect classification; 'bürgerlich' often needs context to be properly understood.
 2800|der, die|die Beschäftigte|Die Beschäftigte arbeitet hart.|Potential ambiguity; "Beschäftigte" can be either masculine or feminine, which should be clarified.
 2805|die|die Dichte|Die Dichte des Materials ist hoch.|Incorrect context; lacks a specific context or field of study for the term 'Dichte.'
+2821|die|die Opposition|Die Opposition protestiert.|Context missing: Without additional context, the sentence could imply political opposition or any other kind of opposition.
 2821|die|die Opposition|Die Opposition protestiert.|Incomplete sentence; lacks context to clarify what the protest is about.
 2828|die|die Adresse|Ich brauche deine Adresse.|Incomplete sentence; lacks context.
 2833|das|das Niederländisch|Niederländisch ist leicht zu lernen.|Incorrect article; 'Niederländisch' as a language does not typically require 'das.'
@@ -169,6 +339,8 @@
 2844|der|der Bildschirm|Der Bildschirm ist groß.|Incomplete sentence; lacks context.
 2851|die|die Beteiligung|Die Beteiligung war groß.|Incomplete sentence; lacks context to determine the significance of the involvement.
 2854|die|die Hut|Er steht auf der Hut.|Incorrect noun usage; "Hut" here should refer to "Hut" as a head covering, while "auf der Hut sein" is an idiom.
+2854|die|die Hut|Er steht auf der Hut.|Incorrect part of speech: The noun 'die Hut' should be 'der Hut' (the hat), while 'auf der Hut' refers to being on guard, which is an idiomatic expression.
+2854|die|die Hut|Er steht auf der Hut.|The gender 'die' is correct for the phrase 'auf der Hut,' meaning 'on guard,' but it does not match the usual use of 'Hut' as a noun for 'hat,' which is masculine ('der Hut').
 2915|die|die Aufklärung|Die Aufklärung war notwendig.|Incorrect context; 'Aufklärung' can refer to education, enlightenment, or solving a mystery, but the sentence doesn’t specify.
 2917|adj|denkbar|Das ist denkbar.|Ambiguity: The sentence is technically correct, but 'denkbar' is contextually vague and could be considered too broad without more information.
 2921|die|die Schönheit|Die Schönheit der Natur ist überwältigend.|Incomplete sentence; context missing.
@@ -177,82 +349,232 @@
 2935|die|die Truppe|Die Truppe marschiert.|Incomplete sentence; lacks context to determine the significance of the action.
 2944|die|die Kasse|Die Kasse ist leer.|Ambiguity: 'Kasse' could refer to both a cash register or a fund, leading to potential confusion without context.
 2945|die (pl)||Er hat viele Schulden.|Incomplete entry; missing word in the third column.
+2945|die (pl)||Er hat viele Schulden.|Missing word: The noun is missing from the input.
 2954|die|die Zunge|Die Zunge ist rosa.|Incorrect context; could be perceived as trivial or irrelevant without additional context.
+2954|die|die Zunge|Die Zunge ist rosa.|Possible anatomical or idiomatic confusion: The sentence may be unclear without context about whether it’s describing a tongue or using 'Zunge' metaphorically.
 2997|pron|wodurch|Wodurch ist das passiert?|While grammatically correct, this is a very simple phrase for this exercise.
+3000|verb|verdanken, verdankt, verdankte, hat verdankt|Ich verdanke ihm viel.|Incorrect part of speech; 'verdanken' is labeled as a verb but used as a verb correctly.
 3011|adj|konsequent|Das ist konsequent gehandelt.|Incorrect part of speech: 'konsequent' is an adjective, but the sentence uses it incorrectly as if it were an adverb.
 3014|der|der Gehalt|Der Gehalt des Buches ist tiefgründig.|'der Gehalt' is used correctly, but 'Gehalt' can also mean 'salary' and might be confusing without context
+3020|adv|extra|Er hat es extra gemacht.|Ambiguity; 'extra' can mean 'on purpose' or 'as an additional effort,' and the meaning isn't clear without further context.
+3041|der|der Nationalsozialist|Der Nationalsozialist sprach laut.|Incorrect context; 'Nationalsozialist' might be considered inappropriate or sensitive without additional context.
 3043|das|das Zitat|Das Zitat ist bekannt.|Too simple: The sentence is correct but lacks contextual richness.
 3059|die|die Anerkennung|Die Anerkennung war groß.|Ambiguity: The sentence is correct but could be improved for clarity, as 'groß' is vague.
+3066|das, die (pl)|das Weihnachten|Das Weihnachten ist bald.|Incorrect article; 'Weihnachten' does not use an article in this context.
 3066|das, die (pl)|das Weihnachten|Das Weihnachten ist bald.|Incorrect article; "Weihnachten" does not typically use an article.
 3066|das|das Weihnachten|Das Weihnachten ist bald.|'Weihnachten' usually doesn't take an article in this context
 3080|adj|zugehörig|Das ist zugehörig.|Incomplete sentence; lacks context or a clear object.
 3087|adj|permanent|Das ist permanent.|Incomplete sentence; lacks a clear subject or context.
 3106|adj|kinetisch|Das ist eine kinetische Energie.|Incorrect article; "Energie" is feminine, so the correct phrase is "eine kinetische Energie."
 3115|adj|langweilig|Dieses Buch ist langweilig.|Inappropriate tone: The sentence is overly simplistic and lacks depth.
+3123|die|die Linke|Die Linke hat gewonnen.|Ambiguity; 'Die Linke' can refer to a political party, but the sentence lacks context, making it unclear whether it's about politics or something else.
+3126|adj|einig|Wir sind uns einig.|Incorrect part of speech; 'einig' is used correctly here, but it is a predicate adjective, not an attributive adjective as typically expected by the part of speech label.
+3132|der|der Österreicher|Der Österreicher spricht Deutsch.|Potential ambiguity; 'Österreicher' could be considered overly general without further context, as it refers to all Austrians, and the sentence is somewhat stereotypical.
+3140|das|das Eisen|Das Eisen ist schwer.|Context issue; 'schwer' could be misunderstood without context (e.g., does it refer to weight, difficulty, or something else?).
+3142|die|die Besonderheit|Die Besonderheit ist klar.|Vague; 'Besonderheit' often requires more specific context to clarify what is unique or special, making the sentence seem incomplete.
 3146|adj|cool|Diese Idee ist cool.|Inappropriate register: The word 'cool' is informal and could be contextually inappropriate in formal or academic texts.
 3150|der|der Irak|Irak ist weit weg.|Incorrect article; "der" is unnecessary for country names.
 3150|verb|strecken, streckt, streckte, hat gestreckt|Er streckt die Arme.|Ambiguous context: Could be mistaken for a reflexive verb.
 3151|adj|virtuell|Das ist virtuell.|Incomplete sentence; lacks a clear context or noun.
+3159|der|der Besitz|Der Besitz ist groß.|Incorrect context; 'Besitz' typically refers to ownership or property, which may not be described as 'groß' without further context.
 3159|der|der Besitz|Der Besitz ist groß.|Vague context; "Besitz" is abstract and could benefit from more specificity.
+3161|der|der Gläubiger|Der Gläubiger ist geduldig.|Ambiguity; 'Gläubiger' could mean a creditor or a believer, requiring more context to avoid confusion.
+3168|adj|effizient|Die Methode ist effizient.|Incomplete; while correct, this sentence might benefit from further context to specify what makes the method efficient.
 3175|verb|angucken, guckt an, guckte an, hat angeguckt (ankucken)|Er guckt den Film an.|Spelling variation: 'angucken' and 'ankucken' are used regionally and can be informal.
 3179|verb|isolieren, isoliert, isolierte, hat isoliert|Der Ingenieur isoliert die Wand.|Ambiguity: The meaning of 'isoliert' could be misunderstood without context, as it could mean 'insulates' or 'isolates.'
+3180|der|der Mörder|Der Mörder ist gefasst.|Sensitive content; 'Mörder' involves a severe crime, and such a sentence might be flagged for lacking necessary context.
 3183|adj|problematisch|Das Problem ist problematisch.|Redundant phrasing; "problematisch" restates "Problem" without adding new information.
 3198|adv|hinweg|Er ist schon hinweg.|Incomplete sentence; lacks clarity on what "hinweg" refers to.
+3198|adv|hinweg|Er ist schon hinweg.|Vague; 'hinweg' typically needs additional information (e.g., what he is over or beyond).
 3205|interj|ha|Ha, das ist lustig!|Informal interjection; may be stylistically weak in formal contexts
 3218|adj|intelligent|Der Schüler ist intelligent.|Too simple: The sentence is correct but lacks depth and context.
+3222|der|der Suizid|Der Suizid ist tragisch.|Sensitive content; the topic is very sensitive and could be flagged for lacking appropriate context or phrasing.
 3234|verb|aussuchen, sucht aus, suchte aus, hat ausgesucht|Er sucht das beste aus.|Grammatical error; "beste" should be capitalized as "Beste" because it is used as a noun.
 3255|die|die Ferne|Die Ferne ist mystisch.|Ambiguity: 'Ferne' (distance) is abstract and could confuse readers without further context.
+3260|adj|neutral|Das System ist neutral.|Incomplete; 'neutral' is often used with more specific context, such as politically neutral or bias-neutral.
+3265|prep|mithilfe|Mithilfe des Teams schafften wir es.|Incorrect capitalization; 'mithilfe' should be 'Mithilfe' when used as a noun (feminine).
 3265|prep|mithilfe|Mithilfe des Teams schafften wir es.|Incorrect capitalization; "mithilfe" should be "Mithilfe" when used as a noun.
 3266|verb|umwandeln, wandelt um, wandelte um, hat umgewandelt|Der Prozess wandelt sich um.|Incorrect reflexive form: Should be 'Der Prozess wird umgewandelt.'
+3266|verb|umwandeln, wandelt um, wandelte um, hat umgewandelt|Der Prozess wandelt sich um.|Incorrect reflexive use; the verb 'umwandeln' should not be reflexive in this context.
+3276|das|das Regal|Das Regal ist voll.|Vague; the sentence could benefit from additional context to specify what the shelf is full of.
 3277|der|der Rucksack|Er trägt einen Rucksack.|Too simplistic: The sentence is grammatically correct but overly basic.
+3287|die|die Fettsäure|Die Fettsäure ist gesund.|Generalization; not all fatty acids are healthy, so this statement could be misleading or require qualification.
+3297|adj|radioaktiv|Das Material ist radioaktiv.|Inconsistent context; while grammatically correct, 'radioaktiv' as an adjective typically requires context that implies danger or significance, which is missing here.
+3299|das|das Wiedersehen|Das Wiedersehen war emotional.|Incorrect article use; 'Wiedersehen' typically does not use an article in casual contexts ('Es war ein emotionales Wiedersehen' would be better).
+3301|das|das Datum|Das Datum ist falsch.|Potential ambiguity; while correct, it is somewhat vague and could benefit from additional context, especially in formal or technical settings.
+3302|der|der Kellner|Der Kellner bringt das Essen.|Ambiguity; while technically correct, 'Kellner' could be replaced with a more gender-neutral or inclusive term like 'Bedienung' in modern usage.
 3304|verb|unterbringen, bringt unter, brachte unter, hat untergebracht|Wir müssen sie unterbringen.|Ambiguity: Without context, 'sie' could refer to a group of people, animals, or objects.
+3305|verb|vermögen, vermag, vermochte, hat vermocht|Er vermag es zu tun.|Outdated usage; 'vermögen' is somewhat archaic and not commonly used in modern spoken German.
+3306|adj|fröhlich|Er ist immer fröhlich.|Potential stereotype; 'immer' (always) could be seen as an exaggeration or stereotype, which might be inappropriate depending on context.
 3315|die|die Route|Die Route ist geplant.|Unclear article: Depending on context, 'Route' could be mistaken for a masculine noun.
+3319|die|die Bundeswehr|Die Bundeswehr ist stark.|Political sensitivity; depending on context, this statement could be seen as overly nationalistic or militaristic.
 3321|adj|mechanisch|Das Gerät ist mechanisch.|Incomplete information: The sentence lacks context to explain what is meant by 'mechanisch.'
+3344|das|das Norwegen|Norwegen ist schön.|Incorrect article; similar to the previous issue, country names typically do not require an article in German ('Norwegen ist schön' would be sufficient).
+3360|adj|indisch|Sie trägt ein indisches Kleid.|Cultural sensitivity; 'indisch' is correct, but care should be taken with cultural references to avoid stereotyping.
+3361|das|das Indisch|Viele Menschen in Indien sprechen Indisch.|Incorrect noun usage; 'Indisch' should not be a noun in this context, as the language is referred to as 'Hindi.'
 3361|das|das Indisch|Viele Menschen in Indien sprechen Indisch.|Incorrect part of speech: 'Indisch' is typically an adjective, not a noun.
+3364|die|die Einsicht|Das ist meine Einsicht.|Vague; 'Einsicht' usually implies understanding or insight into something, requiring more context to clarify its meaning.
 3365|das|das Fräulein|Das Fräulein ist jung.|Outdated usage: 'Fräulein' is an outdated and potentially offensive term in modern German.
+3366|das|das Polnisch|Polnisch ist eine schöne Sprache.|Incorrect article; language names in German typically do not require an article.
+3378|interj|tja|Tja, so ist das.|Colloquialism; 'Tja' is very informal and might not be suitable for all contexts, which could be an issue depending on the target audience.
+3411|die|die Reihenfolge|Die Reihenfolge ist wichtig.|Vague; though grammatically correct, the sentence lacks context, making it somewhat incomplete in meaning.
+3421|die|die Begeisterung|Ihre Begeisterung ist ansteckend.|Subjective; while correct, 'ansteckend' is a figurative term and may require more context in formal writing.
 3422|adj|fix|Das Problem wurde fix gelöst.|Colloquial usage; "fix" is informal and might be regionally specific.
 3430|das|das Asien|Asien ist vielfältig.|'das' should be omitted, as 'Asien' is a proper noun and does not need an article
+3430|das|das Asien|Asien ist vielfältig.|Incorrect article; continent names in German typically do not require an article.
+3431|verb|einlassen, lässt ein, ließ ein, hat eingelassen|Er lässt ihn ein.|Incomplete; 'einlassen' often implies letting someone into a place, but the sentence lacks context, making the meaning unclear.
+3434|die|die Abschreibung|Die Abschreibung ist hoch.|Incomplete; this financial term generally requires additional context (e.g., what is being depreciated, and why is it significant?).
+3436|adj|ästhetisch|Das Gebäude ist ästhetisch.|Incomplete description; 'ästhetisch' is better used as part of a more descriptive phrase (e.g., 'ästhetisch ansprechend') rather than standing alone.
 3436|adj|ästhetisch|Das Gebäude ist ästhetisch.|Incomplete sentence; "ästhetisch" is often paired with another descriptive word (e.g., "ästhetisch ansprechend").
+3437|verb|einschalten, schaltet ein, schaltete ein, hat eingeschaltet|Er schaltet das Licht ein.|Ambiguity; while grammatically correct, the sentence is very basic and might be flagged for being overly simplistic.
+3441|verb|übergeben, übergibt, übergab, hat übergeben|Er übergibt das Paket.|Ambiguity; 'übergeben' can also mean 'to vomit,' which might cause unintended confusion without further context.
+3443|verb|buchen|Wir buchen das Hotel.|Incomplete sentence; though grammatically correct, it lacks context or additional information that could be necessary for clarity.
+3466|das|der Schild|Das Schild ist groß.|Incorrect article; 'Schild' should be neuter 'das' when referring to a sign, but 'der Schild' refers to a shield, causing confusion.
+3466|das|der Schild|Das Schild ist groß.|Incorrect article; 'Schild' should be neuter 'das' when referring to a sign.
 3466|das|der Schild|Das Schild ist groß.|Incorrect article: 'Schild' can be both masculine (a shield) or neuter (a sign), context needed to clarify.
+3467|die|die Show|Die Show war fantastisch.|Use of anglicism; 'Show' is an anglicism, and the sentence could be seen as informal or colloquial.
 3475|der|der Teufel|Der Teufel ist böse.|Sensitive content; the use of "Teufel" can be culturally or religiously sensitive.
+3502|prep|inklusive|Das Paket ist inklusive Steuern.|Correct usage but might need additional context as 'inklusive' is often followed by a noun or noun phrase.
 3502|prep|inklusive|Das Paket ist inklusive Steuern.|Incorrect usage: The word 'inklusive' should be followed by 'von' to form 'inklusive von Steuern.'
 3505|verb|zustehen, steht zu, stand zu, hat zugestanden|Er steht dir zu.|Incorrect phrasing; "zustehen" requires a noun or pronoun subject, e.g., "Es steht dir zu."
+3505|verb|zustehen, steht zu, stand zu, hat zugestanden|Er steht dir zu.|The verb 'zustehen' is used correctly, but it is unclear without further context what is 'steht dir zu'. This could cause confusion.
 3518|der|der Premier|Der Premier spricht im Fernsehen.|Ambiguity: 'Premier' is vague and could refer to multiple roles (e.g., Prime Minister, Premier of a state). More context is needed.
 3522|der|der Christ|Der Christ betet.|Simplistic and lacks context: The sentence is too basic and doesn't provide meaningful information.
 3523|interj|hi|Hi, wie geht’s?|Informal interjection; may be stylistically weak in formal contexts
+3528|die|die Haustür|Die Haustür ist offen.|The sentence is correct, but it could be improved by adding context, such as why the door is open or what the significance is.
+3532|verb|locken, lockt, lockte, hat gelockt|Das Angebot lockt viele Kunden.|The sentence is correct, but it would benefit from more context about what the offer is to enhance clarity.
+3535|prep|samt|Er kam samt Familie.|The sentence is correct, but 'samt' is somewhat formal and could be confusing without additional context or specification.
+3543|die|die Vorsicht|Vorsicht ist geboten.|The sentence is correct, but it would be clearer with a specific situation where caution is necessary.
+3545|der|der Bezirk|Der Bezirk ist groß.|The sentence is correct but could benefit from more context to specify what kind of district it is.
+3546|der|der Bogen|Der Bogen ist gebogen.|The sentence is correct but slightly redundant, as 'Bogen' and 'gebogen' share the same root, making the sentence sound repetitive.
 3547|die|die Entdeckung|Die Entdeckung war spannend.|Simplistic: The sentence is too basic and lacks descriptive context.
 3548|die (pl)||Die Ferien sind vorbei.|Missing noun: The article 'die' is provided without a corresponding noun.
+3548|die (pl)||Die Ferien sind vorbei.|Missing the word that is supposed to be demonstrated in the sentence.
+3549|der|der General|Der General gibt Befehle.|The sentence is correct, but it could be more specific about the context to better illustrate the word's meaning.
+3551|verb|scheiden, scheidet, schied, hat geschieden|Sie haben sich scheiden lassen.|The sentence is correct, but the past participle “geschieden” is used in the context of divorce and could be more explicit in conveying the situation.
+3556|verb|beibringen, bringt bei, brachte bei, hat beigebracht|Er bringt den Kindern Englisch bei.|The sentence is correct, but it could benefit from a more complex structure to better showcase the verb 'beibringen.'
+3557|verb|bevorstehen, steht bevor, stand bevor, hat bevorgestanden|Eine Prüfung steht bevor.|The correct past participle is 'bevorstand', but 'bevorstehen' should not be used in the past participle form. The example sentence is fine, but the verb's forms should be re-evaluated.
+3561|adv|hinterher|Er kam hinterher.|The sentence is grammatically correct, but without context, 'hinterher' could be ambiguous.
+3569|adj|reell|Die Gefahr ist reell.|The sentence is correct, but 'reell' is somewhat less common in contemporary usage. 'Real' or 'wirklich' might be more appropriate depending on the context.
 3570|verb|reiten, reitet, ritt, ist geritten|Er reitet gerne.|Simplistic: The sentence is grammatically correct but too basic and lacks depth.
+3570|verb|reiten, reitet, ritt, ist geritten|Er reitet gerne.|The sentence is correct, but it could benefit from specifying what or where he is riding (e.g., a horse) for clearer context.
+3574|das|das Kloster|Das Kloster ist alt.|While grammatically correct, the sentence could benefit from additional context to specify what makes the monastery noteworthy.
+3582|der|der Grieche|Der Grieche lebt hier.|The sentence is correct, but it could be perceived as overly simplistic or lacking context, potentially leading to ambiguity.
 3584|verb|konfrontieren, konfrontiert, konfrontierte, hat konfrontiert|Er wurde konfrontiert.|Incomplete context; lacks detail on what or who he was confronted with.
 3585|der|der Sex|Das Thema war Sex.|Informal language; "Sex" might be too informal for some contexts and could be replaced with "Geschlechtsverkehr" in formal settings.
+3594|der|der Bär|Der Bär ist groß.|The sentence is correct, but adding context about the bear's situation or location would make it more meaningful.
 3595|adv|hinzu|Er kam hinzu.|Incomplete context: The sentence is correct, but it lacks clarity about what he joined or came to.
+3597|das|das Menschenrecht|Menschenrechte sind wichtig.|The sentence is correct, but using 'Menschenrechte' (plural) instead of 'Menschenrecht' (singular) deviates from the original intention of showing a singular noun.
+3600|der|der Wahnsinn|Der Wahnsinn hat keinen Sinn.|The sentence is correct, but the phrase is somewhat colloquial and could be confusing without further context.
+3603|der|der Sieger|Der Sieger ist bekannt.|The sentence is correct, but it is somewhat vague. Adding more context about what the winner won would improve clarity.
+3606|verb|anfühlen, fühlt an, fühlte an, hat angefühlt|Das fühlt sich weich an.|The sentence is correct, but it would be clearer if it specified what 'das' refers to.
+3607|adj|düster|Der Himmel ist düster.|The sentence is correct but lacks context; it could be improved by adding details about the situation or environment.
 3609|der|der Kompromiss|Der Kompromiss war nötig.|Simplistic: The sentence lacks depth and fails to convey more information about the situation.
+3613|der|der Vorhang|Der Vorhang ist zugezogen.|The sentence is correct, but the verb 'zugezogen' is slightly awkward here; 'Der Vorhang ist zu' would be more natural.
 3620|verb|vorbeigehen, geht vorbei, ging vorbei, ist vorbeigegangen|Er ging am Haus vorbei.|Simplistic: The sentence is too basic and lacks descriptive or contextual depth.
+3620|verb|vorbeigehen, geht vorbei, ging vorbei, ist vorbeigegangen|Er ging am Haus vorbei.|The sentence is correct, but it could benefit from more context about the significance of passing the house.
+3624|das|das Maximum|Das ist das Maximum.|The sentence is correct, but it lacks context, making it difficult to understand what 'Maximum' refers to.
+3626|adv|oftmals|Er kommt oftmals zu spät.|'Oftmals' is a somewhat outdated term; 'oft' would be more commonly used in modern German.
 3631|verb|bergen, birgt, barg, hat geborgen|Er birgt das Geheimnis.|Uncommon usage; "bergen" is more commonly associated with physical objects or dangers, making this use metaphorical.
+3631|verb|zusammenkommen, kommt zusammen, kam zusammen, ist zusammengekommen|Die Freunde kommen zusammen.|The sentence is correct but vague; specifying the reason for their gathering would provide better context.
+3633|der|der Nebel|Der Nebel ist dicht.|The sentence is correct, but adding details about the environment or situation would make it more descriptive.
+3634|der|der Terroranschlag|Der Terroranschlag war verheerend.|The sentence is correct, but the word 'verheerend' is very strong; context is crucial.
+3636|verb|konfrontieren, konfrontiert, konfrontierte, hat konfrontiert|Er wurde konfrontiert.|The sentence lacks an object, making it unclear what or who he was confronted with.
+3642|adj|hässlich|Das Bild ist hässlich.|The sentence is correct but lacks context, making it unclear what kind of picture is being referred to.
+3648|verb|zurücktreten, tritt zurück, trat zurück, ist zurückgetreten|Der Minister tritt zurück.|The sentence is correct, but it could provide more detail about the reason for the resignation.
 3650|verb|einschlagen, schlägt ein, schlug ein, hat eingeschlagen|Er schlug den Nagel ein.|Ambiguous, 'einschlagen' could also mean 'to succeed'
 3653|adj|akademisch|Die Arbeit ist akademisch.|Vague sentence; lacks context
 3654|adj|aufwendig|Das Kleid war aufwendig.|Incorrect form: Should be 'aufwändig' (common spelling).
+3656|verb|hocken, hockt, hockte, hat gehockt|Er hockt im Garten.|While 'hocken' is correctly used, the word choice can be perceived as informal or colloquial.
+3663|das|das Informationssystem|Das Informationssystem ist modern.|The sentence is correct, but adding context about the function or use of the 'Informationssystem' would make the sentence clearer.
 3664|adj|liberal|Die Partei ist liberal.|Ambiguity: The term 'liberal' can have different meanings depending on the context (e.g., political, economic) and is not sufficiently defined here.
+3664|adj|liberal|Die Partei ist liberal.|The sentence is correct, but the meaning of 'liberal' could be more nuanced depending on the political context, which isn’t provided here.
+3665|adj|musikalisch|Die Band ist musikalisch talentiert.|The sentence is correct, but it could be more specific by stating in what way the band is talented (e.g., instrumentally, vocally).
 3667|die|die Provinz|Die Provinz ist klein.|Simplistic: The sentence is too basic and lacks context or additional information.
 3668|die|die Trauer|Die Trauer ist groß.|Simplistic and lacks context: The sentence is too basic and does not convey sufficient information.
+3668|die|die Trauer|Die Trauer ist groß.|The sentence is correct but lacks context, making it unclear what the source of the grief is.
+3672|das|das Sofa|Das Sofa ist bequem.|The sentence is correct, but like the previous sentence, adding context (e.g., where the sofa is) would improve clarity.
 3676|das|das Huhn|Das Huhn legt Eier.|Simplistic: The sentence is grammatically correct but too basic and lacks depth.
+3684|verb|ausweichen, weicht aus, wich aus, ist ausgewichen|Das Auto wich dem Hindernis aus.|The sentence is correct, but the verb could also imply avoiding a non-physical obstacle, requiring more context.
+3685|das|das Paket|Das Paket ist angekommen.|The sentence is correct, but adding information about what the package contains or its significance would make it more meaningful.
+3686|verb|putzen, putzt, putzte, hat geputzt|Er putzt die Fenster.|The sentence is correct, but it could be improved by adding context, such as why the windows are being cleaned or when.
 3692|verb|erregen, erregt, erregte, hat erregt|Das Geräusch erregte Aufmerksamkeit.|Ambiguity: The verb 'erregen' can have multiple meanings, leading to potential confusion without additional context.
+3699|adj|operativ|Die Operation war erfolgreich.|The sentence is correct, but using 'operativ' here could be confusing as it usually refers to something related to operations in a broader sense, not just medical.
+3705|das|das Belgien|Belgien ist ein schönes Land.|The article 'das' is unnecessary and incorrect here, as 'Belgien' does not require an article in German.
+3706|die|die Einleitung|Die Einleitung des Buches ist spannend.|The sentence is correct, but it could specify more clearly which book or topic is being discussed.
+3709|das|das Möbel|Das Möbel ist antik.|The use of 'Möbel' is correct but usually refers to furniture in the plural form; 'Das Möbelstück' might be more appropriate here.
+3710|adj|akademisch|Die Arbeit ist akademisch.|The sentence is correct, but without specifying what kind of work or research is being referred to, it remains vague.
+3711|adj|restlich|Die restlichen Gäste sind angekommen.|The sentence is correct, but 'restlich' is often context-dependent and could be clearer with additional detail.
+3716|die|die Architektur|Architektur ist faszinierend.|The sentence is correct, but adding an article ('Die') before 'Architektur' would make the sentence more complete.
+3717|die|die Biologie|Biologie ist interessant.|The sentence is correct, but it lacks an article ('Die Biologie ist interessant') to be more natural in German.
 3719|adv|irgend|Er fragt irgendjemanden nach dem Weg.|"Irgendjemanden" should be used with a more formal context or it could be replaced with "jemanden" for simplicity.
 3720|der|der Kreislauf|Der Kreislauf ist stabil.|Ambiguity: 'Kreislauf' could refer to multiple contexts (biological, economic, etc.) and the sentence does not clarify.
+3722|das|das Sofa|Das Sofa ist bequem.|The sentence is correct but very basic; adding context or details about the situation could make it more informative.
 3728|verb|weichen, weicht, wich, ist gewichen|Das Brot weicht in der Suppe.|Incorrect usage; "weichen" should not be used with bread. Better would be "Das Brot wird in der Suppe weich."
 3729|adj|akut|Der Schmerz ist akut.|Simplistic: The sentence is correct but lacks context or depth, making it too basic.
+3730|das|das Album|Das Album ist neu.|The sentence is correct but lacks detail. Mentioning what kind of album it is would provide better context.
+3732|die|die Justiz|Die Justiz arbeitet hart.|The sentence is correct, but it could be more specific to clarify what aspect of 'Justiz' is being referred to.
+3736|der|der Flügel|Der Vogel hat einen Flügel gebrochen.|The sentence should be 'Der Vogel hat sich einen Flügel gebrochen' for clarity, as 'gebrochen' implies a passive construction.
+3737|der|der Teppich|Der Teppich ist teuer.|The sentence is correct, but it could include more detail to provide better context.
+3739|verb|werten, wertet, wertete, hat gewertet|Das Buch wurde gut bewertet.|The sentence is correct, but 'bewerten' is more commonly used than 'werten' in this context.
+3742|das|das Ägypten|Ägypten hat eine reiche Geschichte.|The use of 'das' is incorrect here; 'Ägypten' should not have an article in this context.
 3747|verb|tauschen, tauscht, tauschte, hat getauscht|Sie tauschten die Plätze.|Incorrect verb usage: 'Wechseln' would be a more appropriate verb than 'tauschen' for this context.
+3755|verb|weggehen, geht weg, ging weg, ist weggegangen|Er ist weggegangen.|The sentence is correct, but it could be clearer by specifying where he went or why.
+3756|verb|täuschen, täuscht, täuschte, hat getäuscht|Er täuschte sich.|The sentence is grammatically correct, but the reflexive usage could be clarified further with more context.
+3759|der|der Nachweis|Der Nachweis ist erbracht.|The sentence is correct, but specifying what proof was provided would enhance clarity.
 3764|verb|kippen, kippt, kippte, hat gekippt|Der Stuhl kippte.|Lacks context; could be interpreted as passive action without an agent
+3769|adj|israelisch|Das Produkt ist israelisch.|The sentence is correct, but the context of what product is being referred to would enhance understanding.
+3773|das|das Schaf|Das Schaf ist weiß.|The sentence is correct, but it is very simplistic and could use more context or detail.
 3782|das|das Adjektiv|Das Adjektiv ist klar.|Incorrect usage: The sentence is technically correct but provides no meaningful information, making it too simplistic.
+3782|das|das Adjektiv|Das Adjektiv ist klar.|The sentence is correct but lacks context. It does not demonstrate the meaning or usage of the adjective it refers to.
+3797|das|das Schema|Das Schema ist komplex.|The sentence is correct but could be enhanced by specifying what the schema is related to for better context.
+3802|adj|reichlich|Das Essen ist reichlich.|The sentence is correct, but specifying the type of food or situation would add context.
+3811|die|die Innenstadt|Die Innenstadt ist belebt.|The sentence is correct, but more context, such as the city or what makes it lively, would enhance clarity.
+3814|verb|siegen, siegt, siegte, hat gesiegt|Das Team siegt immer.|The sentence is correct, but the present tense “siegt” might be unclear without specifying the ongoing nature of the victories.
+3815|die|die Stichprobe|Die Stichprobe war klein.|The sentence is correct, but more context about what the sample refers to (e.g., a survey, experiment) would improve clarity.
+3831|verb|zutrauen, traut zu, traute zu, hat zugetraut|Er traut es sich zu.|The sentence is correct, but it would be clearer if it specified what 'es' refers to.
+3834|adj|bescheiden|Er ist bescheiden.|The sentence is correct but very basic. Adding context about the situation in which his modesty is displayed would make the sentence richer.
+3835|verb|entfallen, entfällt, entfiel, ist entfallen|Der Termin entfällt heute.|The sentence is correct, but more context about why the appointment is canceled would make it more complete.
+3841|num|achtzehn|Sie ist achtzehn Jahre alt.|The sentence is correct but could benefit from specifying who 'sie' is to avoid ambiguity.
 3842|das|das Chaos|Das Chaos ist komplett.|Simplistic: The sentence is too basic and does not convey meaningful context.
+3843|die|die Krone|Die Krone ist aus Gold.|The sentence is correct, but adding context would improve clarity, e.g., 'Die Krone des Königs ist aus Gold.'
 3846|der|der Schluck|Er trank einen Schluck Wasser.|Simplistic: The sentence is grammatically correct but lacks depth or context.
+3851|verb|aufreißen, reißt auf, riss auf, hat aufgerissen|Er reißt den Brief auf.|The sentence is correct, but 'aufreißen' can also have informal or negative connotations, which might not be intended here.
+3853|verb|hinzukommen, kommt hinzu, kam hinzu, ist hinzugekommen|Ein neues Problem kam hinzu.|The sentence is correct, but specifying what kind of problem arose would make the sentence more informative.
+3854|adj|prinzipiell|Das Prinzip ist einfach.|The sentence is correct, but it doesn’t fully illustrate the adjective 'prinzipiell,' which relates more to a principle or rule in general.
+3858|verb|vernachlässigen, vernachlässigt, vernachlässigte, hat vernachlässigt|Er vernachlässigt seine Arbeit.|The sentence is correct but could benefit from additional context to show the consequences of the neglect.
 3864|das|das Hessisch|Er versteht Hessisch, aber spricht es nicht.|Incorrect article usage: 'Hessisch' should not have an article ('das') in this context.
+3864|das|das Hessisch|Er versteht Hessisch, aber spricht es nicht.|While correct, 'Hessisch' could be considered colloquial and might need further specification that it refers to the dialect.
+3871|adj|detailliert|Der Bericht ist detailliert.|The sentence is correct, but specifying what the report is about would provide better context.
+3878|verb|erhoffen, erhofft, erhoffte, hat erhofft|Wir erhoffen uns Erfolg.|The sentence is correct, but 'erhoffen' is often followed by a more specific outcome or condition for success.
+3882|das|das Gemälde|Das Gemälde ist schön.|The sentence is correct, but adding details about why the painting is considered beautiful would make it more descriptive.
 3884|verb|heranziehen, zieht heran, zog heran, hat herangezogen|Der Lehrer wird herangezogen.|Incomplete sentence; lacks a clear object or context.
+3891|verb|annähern, nähert an, näherte an, hat angenähert|Der Zug nähert sich.|The sentence is correct, but adding context about what the train is approaching would provide more clarity.
+3896|verb|umsehen, sieht um, sah um, hat umgesehen|Er sieht sich um.|The sentence is correct, but without context, the meaning of 'umsehen' (to look around) is unclear.
+3898|verb|abziehen, zieht ab, zog ab, hat abgezogen|Der Abzug ist abgeschlossen.|The sentence is correct, but it could be clearer by specifying what 'Abzug' refers to (e.g., a military withdrawal, a discount).
+3900|die|die Niederlande|Die Niederlande sind schön.|The sentence is correct, but 'schön' is vague; more specific adjectives could enhance the clarity and precision of the sentence.
+3901|verb|schwanken, schwankt, schwankte, ist geschwankt|Die Preise schwanken stark.|The sentence is correct, but it could benefit from specifying what prices are fluctuating.
 3904|die|die Wahlperiode|Die Wahlperiode dauert vier Jahre.|Ambiguity: The sentence is correct, but more context is needed to specify the election or political system.
+3913|adj|jetzig|Die jetzige Lage ist schwierig.|The sentence is correct, but “jetzige” can be enhanced by specifying what situation is being referred to.
+3920|adj|außerordentlich|Das Ergebnis war außerordentlich.|The sentence is correct, but specifying in what way the result was extraordinary would add clarity.
+3924|der|der Republikaner|Der Republikaner gewann die Wahl.|The sentence is correct but could be more specific about which election or position is being referred to.
+3928|verb|anfallen, fällt an, fiel an, hat angefallen|Die Kosten fallen monatlich an.|The sentence is correct, but 'anfallen' could benefit from additional context to specify what these costs are related to.
+3931|adv|daheim|Ich bin daheim geblieben.|The sentence is correct, but providing context as to why the person stayed home would make it more informative.
+3941|verb|zulegen, legt zu, legte zu, hat zugelegt|Er hat Gewicht zugelegt.|The sentence is correct, but it could benefit from specifying the reason for the weight gain or its significance.
+3943|verb|auseinandersetzen, setzt auseinander, setzte auseinander, hat auseinandergesetzt|Er setzte sich mit dem Problem auseinander.|The sentence is correct, but the verb 'auseinandersetzen' is quite formal and might be clearer with additional context.
 3944|verb|bestrafen, bestraft, bestrafte, hat bestraft|Er wurde streng bestraft.|Simplistic: The sentence lacks context or explanation about why the punishment occurred.
 3952|der|der Eigentümer|Der Eigentümer verkauft das Haus.|Ambiguity: The sentence is correct, but 'der Eigentümer' does not specify whose property is being sold, which can lead to confusion.
+3961|die|die Akte|Die Akte ist geschlossen.|The sentence is correct, but specifying what kind of file or case is referred to would improve clarity.
+3972|verb|überziehen, zieht über, zog über, hat übergezogen|Er hat das Konto überzogen.|The sentence is correct, but it could benefit from specifying the consequence or context of overdrawing the account.
+3975|der|der Spanier|Der Spanier spricht schnell.|The sentence is correct, but it could be perceived as stereotypical or lacking specificity.
 3976|das|das Zeitalter|Das Zeitalter der Technik.|Incomplete sentence; lacks a main verb
+3976|das|das Zeitalter|Das Zeitalter der Technik.|This is a sentence fragment and should be completed to form a full sentence.
+3980|der|der Jurist|Der Jurist gab Rat.|The sentence is correct, but it would be clearer if it specified the type of advice or context in which the lawyer is giving advice.
+3985|der|der Rücktritt|Der Rücktritt kam überraschend.|The sentence is correct, but it would be clearer if the context or reason for the resignation were included.
 3986|die|die Schätzung|Die Schätzung war korrekt.|Simplistic: The sentence is grammatically correct but too basic and lacks context.
+3989|der|der Marktanteil|Der Marktanteil ist gestiegen.|The sentence is correct, but adding context about which market share is being referred to would make it clearer.
+3997|das|das Substrat|Das Substrat ist wichtig.|The sentence is correct but vague. Specifying what the substrate is used for would provide better context.
+4031|die (pl)||Meine Geschwister sind nett.|Missing German word in the entry.
 4036|interj|au|Au, das tut weh!|Informal interjection; may be stylistically weak in formal contexts
 4038|verb|beauftragen, beauftragt, beauftragte, hat beauftragt|Er wurde beauftragt.|Incomplete context; lacks details on what he was commissioned to do.
 4046|verb|scheißen, scheißt, schiss, hat geschissen|Das Kind hat gescheißt.|Vulgar language; inappropriate in formal contexts
@@ -264,11 +586,24 @@
 4129|adj|bar|Ich habe kein bar Geld.|Grammatically incorrect; should be "kein Bargeld."
 4130|das|das Business|Das Business floriert.|Awkward phrasing; "Geschäft" is more appropriate in formal German.
 4156|adv|lauter|Da waren lauter Leute.|Colloquial usage; "lauter" can be informal, meaning "a lot of."
+4170|die (pl)||Die Taliban kontrollieren das Gebiet.|Missing German word in the entry.
+4201|die (pl)||Die Alpen sind majestätisch.|Missing German word in the entry.
+4210|adj|regelrecht|Das war regelrecht absurd.|'Regelrecht' is used as an adjective here, but in the context provided, it is functioning as an adverb. The word is incorrectly classified.
+4210|verb|verankern, verankert, verankerte, hat verankert|Das Gesetz ist verankert.|The verb 'verankern' should ideally describe an active process, not just a state.
+4211|der|der Zähler|Der Zähler ist kaputt.|While 'der Zähler' is used correctly as a noun, this sentence does not provide sufficient context to understand whether 'Zähler' refers to a person or a device. The ambiguity could be resolved by adding context.
+4215|das|das Orchester|Das Orchester spielt gut.|Incorrect article (should be 'das').
+4216|adj|regulär|Der Plan ist regulär.|The use of 'regulär' here is ambiguous. In the given sentence, 'regulär' could be contextually vague without additional information, which may cause confusion. The word may need additional context or might not be the most suitable choice in this sentence.
+4217|adj|ukrainisch|Das Essen ist ukrainisch.|Incorrect usage of an adjective without a proper noun (should include a noun).
+4218|adj|ehrenamtlich|Die Arbeit ist ehrenamtlich.|The sentence is correct, but the context may be too vague. The term 'ehrenamtlich' typically refers to voluntary or unpaid work, but the sentence does not clarify what kind of work is being referred to, leading to potential ambiguity.
+4218|adj|ukrainisch|Das Essen ist ukrainisch.|The adjective 'ukrainisch' is used without a noun for context, making it unclear whether it refers to cuisine or something else.
+4219|verb|unterdrücken, unterdrückt, unterdrückte, hat unterdrückt|Der Diktator unterdrückt das Volk.|Incorrect word context for the specified part of speech.
 4223|prep|einschließlich|Alles ist eingeschlossen.|Incorrect preposition usage; should be "einschließlich."
 4224|das|das Glied|Das Glied schmerzt.|'Glied' has a potentially inappropriate double meaning; context needed
 4231|adv|abschließend|Abschließend möchte ich sagen.|Incomplete sentence; lacks a full statement or conclusion.
 4236|adj|örtlich|Die Hilfe war örtlich.|Incomplete context; "örtlich" would be better with clarification, such as "örtlich begrenzt."
+4243|adj|afrikanisch|Das Essen ist afrikanisch.|Incorrect usage of an adjective without a proper noun (should include a noun).
 4247|die|die Moral|Die Moral der Geschichte.|Incomplete sentence; lacks a verb.
+4247|die|die Moral|Die Moral der Geschichte.|The sentence is incomplete; it lacks a verb or a complete context.
 4256|adj|fachlich|Der Bericht ist fachlich.|Incomplete sentence; typically, "fachlich korrekt" or "fachlich fundiert" would be expected.
 4260|verb|spezialisieren, spezialisiert, spezialisierte, hat spezialisiert|Er spezialisiert sich.|Incomplete context; should specify what he is specializing in.
 4273|adv|binnen|Binnen einer Woche.|Incomplete sentence; lacks a verb or main clause.
@@ -283,14 +618,33 @@
 4461|die|die News|Die News sind spannend.|Informal language; "Nachrichten" is preferred in formal contexts.
 4467|adj|unbewusst|Er war unbewusst.|Incomplete context; unbewusst of what?
 4469|adj|voraussichtlich|Das Ergebnis ist voraussichtlich.|Incomplete context; "voraussichtlich positiv" or similar expected.
+4500|die|die Algebra|Algebra ist schwierig.|The sentence lacks the article 'die' before 'Algebra,' which is necessary for proper grammar.
 4500|die|die Algebra|Algebra ist schwierig.|Word used without an article, sentence could be improved with 'Die Algebra ist schwierig.'
 4506|adv|soeben|Ich habe es soeben gesehen.|Vague context; sentence could be more specific
 4507|die|die Sportart|Fußball ist meine Sportart.|Word used without an article, sentence could be improved with 'Die Sportart ist Fußball.'
+4514|das|das Hindernis|Das Hindernis ist groß.|The sentence lacks context to clarify what type of obstacle 'Hindernis' refers to.
 4528|prep|seitens|Seitens des Unternehmens.|Incomplete sentence; lacks main clause.
+4549|die|das Diagramm|Das Diagramm ist komplex.|Incorrect article; 'das' is correct, but it is labeled as 'die.'
 4561|adj|derzeitig|Die derzeitig Lage.|Incorrect adjective agreement; should be 'derzeitige Lage'
+4561|adj|derzeitig|Die derzeitig Lage.|This sentence is incomplete; it should be 'die derzeitige Lage.'
 4576|prep|anstelle|Anstelle von Wasser.|Incomplete sentence; lacks main clause.
 4611|adj|fließend|Das Wasser fließt fließend.|Redundant phrasing; 'fließend' and 'fließt' are repetitive
+4611|adj|fließend|Das Wasser fließt fließend.|The usage of 'fließend' as both the verb and adjective is redundant and unnecessary in this context.
+4619|verb|läuten, läutet, läutete, hat geläutet|Die Glocke läutet laut.|This sentence is correct, but it lacks additional context that could clarify the setting or situation in which the bell is ringing.
 4679|adv|nirgends|Er wohnt nirgends.|Ambiguous context; sentence lacks clarity
+4708|das|das Studio|Das Studio ist modern.|Contextually, 'das Studio' should be described further to clarify its specific usage, such as 'Filmstudio' or 'Aufnahmestudio.'
+4720|prep|willen|Er tat es des Friedens willen.|The sentence is missing the correct article; it should be 'des Friedens willen' to be grammatically correct.
+4721|der|der Atomkern|Der Atomkern ist klein.|This entry lacks sufficient context to fully understand the significance of 'Atomkern.'
+4749|das|das Nordkorea|Nordkorea ist isoliert.|The article should be omitted in this context because country names typically do not require an article in German, making 'Nordkorea ist isoliert' more appropriate.
+4788|adj|optimistisch|Sie ist optimistisch.|Could be clearer with more context or an additional noun, such as 'optimistisch in Bezug auf die Zukunft.'
+4822|die|die Drohung|Die Drohung war ernst gemeint.|The sentence lacks clarity about what the threat is regarding.
+4835|der|der Demonstrant|Der Demonstrant wurde festgenommen.|Missing further context about the situation of the arrest.
 4875|verb|einbinden, bindet ein, band ein, hat eingebunden|Sie binden das Projekt ein.|Grammatically incorrect; should be "Sie binden das Projekt ein."
+4910|die|die Jungfrau|Sie ist eine Jungfrau.|Ambiguous usage without sufficient context to specify the meaning (e.g., astrological or literal).
+4932|verb|langweilen, langweilt, langweilte, hat gelangweilt|Das Buch langweilte mich.|Could use more context to avoid vagueness.
 4943|verb|verstoßen, verstößt, verstieß, hat verstoßen|Er hat das Gesetz verstoßen.|Incorrect verb usage; should be 'gegen das Gesetz verstoßen'
+5048|das|das Attentat|Das Attentat war schockierend.|The sentence lacks additional context to clarify the nature of the 'Attentat.'
+5066|adj|fürchterlich|Das war eine fürchterliche Nacht.|Requires more context to specify why it was 'fürchterlich.'
 5067|adj|norwegisch|Die norwegische Fjorde sind wunderschön.|Incorrect noun agreement; should be 'Die norwegischen Fjorde sind wunderschön.'
+5077|der, die|die Delegierte|Ein Delegierter stellte Fragen.|The sentence should match the noun's gender in the input data.
+5100|die|die Fassung|Die neue Fassung ist fertig.|The sentence could be ambiguous without context, as 'Fassung' can mean different things (version, setting, composure). More context is needed to clarify the meaning
