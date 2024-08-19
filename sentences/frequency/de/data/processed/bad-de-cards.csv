@@ -280,7 +280,7 @@
 3066|das, die (pl)|das Weihnachten|Weihnachten ist bald.|Issue addressed: Removed incorrect article 'das'; corrected usage.
 3080|adj|zugehörig|Das ist der zugehörige Schlüssel.|Issue addressed: Added context to clarify what 'zugehörig' refers to.
 3087|adj|permanent|Das Problem ist permanent.|Issue addressed: Added context to clarify the meaning of 'permanent.'
-3106|adj|kinetisch|Das ist eine kinetische Energie.|Issue addressed: Corrected the article to match the gender of 'Energie.'
+3106|adj|kinetisch|Kinetische Energie beeinflusst die Bewegung.|Issue addressed: Make the example more informative by adding context to clarify the meaning of 'kinetisch.'
 3115|adj|langweilig|Dieses Buch ist sehr langweilig.|Issue addressed: Acknowledged the simplicity of the sentence but left it unchanged.
 3123|die|die Linke|Die Linke hat die Wahl gewonnen.|Issue addressed: Added context to clarify that 'Die Linke' refers to a political party.
 3127|adj|einig|Wir sind uns einig.|Issue addressed: Confirmed that 'einig' is correctly used as a predicate adjective, no change needed.
@@ -301,7 +301,7 @@
 3205|interj|ha|Ha, das ist wirklich lustig!|Issue addressed: Acknowledged the informal tone; no change made.
 3218|adj|intelligent|Der Schüler ist intelligent und kreativ.|Issue addressed: Added context to provide more depth.
 3222|der|der Suizid|Der Suizid des Patienten war tragisch.|Issue addressed: Added context to handle the sensitive topic carefully.
-3234|verb|aussuchen, sucht aus, suchte aus, hat ausgesucht|Er sucht das Beste aus.|Issue addressed: Corrected the capitalization of 'Beste.'
+3234|verb|aussuchen, sucht aus, suchte aus, hat ausgesucht|Er sucht das beste Angebot aus.|Issue addressed: Added context to clarify what is being selected, aligning with the verb "aussuchen."
 3252|verb|strecken, streckt, streckte, hat gestreckt|Er streckt die Arme in die Luft.|Issue addressed: Added context to clarify the meaning.
 3255|die|die Ferne|Die Ferne des Horizonts ist faszinierend.|Issue addressed: Added context to clarify what 'Ferne' refers to.
 3260|adj|neutral|Das politische System ist neutral.|Issue addressed: Added context to clarify the type of neutrality.
@@ -382,7 +382,7 @@
 3648|verb|zurücktreten, tritt zurück, trat zurück, ist zurückgetreten|Der Minister tritt wegen eines Skandals zurück.|Issue addressed: Added context to specify the reason for the resignation.
 3650|verb|einschlagen, schlägt ein, schlug ein, hat eingeschlagen|Er schlug den Nagel in die Wand ein.|Issue addressed: Clarified the action to reduce ambiguity.
 3653|adj|akademisch|Die akademische Arbeit wurde veröffentlicht.|Issue addressed: The sentence was updated to provide context by specifying that the work is an academic publication, making the sentence clearer and more informative.
-3654|adj|aufwendig|Das Kleid war aufwändig gestaltet.|Issue addressed: Corrected spelling to 'aufwändig.'
+3654|adj|aufwendig|Das Kleid war aufwendig gestaltet.|Issue addressed: Kept the original sentence as it is grammatically correct, even though 'aufwendig' is a less common term.
 3662|verb|hocken, hockt, hockte, hat gehockt|Er hockt im Garten und beobachtet die Vögel.|Issue addressed: Added context to reduce the informal or colloquial perception.
 3663|das|das Informationssystem|Das Informationssystem ist modern und effizient.|Issue addressed: Added context to specify the system's characteristics.
 3664|adj|liberal|Die Partei ist politisch liberal.|Issue addressed: Added context to clarify the meaning of 'liberal.'
@@ -405,7 +405,7 @@
 3717|die|die Biologie|Die Biologie ist interessant.|Issue addressed: Added 'Die' to complete the sentence.
 3719|adv|irgend|Er fragt irgendjemanden nach dem Weg.|Issue addressed: Kept the original sentence as it is grammatically correct.
 3720|der|der Kreislauf|Der Kreislauf des Blutes ist stabil.|Issue addressed: Specified that 'Kreislauf' refers to the circulatory system.
-3728|verb|weichen, weicht, wich, ist gewichen|Das Brot wird in der Suppe weich.|Issue addressed: Corrected the usage to describe the bread softening in the soup.
+3728|verb|weichen, weicht, wich, ist gewichen|Das Brot weicht in der Suppe.|Issue addressed: Corrected the form of the word in the sentence.
 3729|adj|akut|Der Schmerz ist akut und unerträglich.|Issue addressed: Added 'unerträglich' to provide depth and context.
 3730|das|das Album|Das neue Musikalbum ist erschienen.|Issue addressed: Specified the type of album to provide context.
 3732|die|die Justiz|Die Justiz arbeitet hart an der Aufklärung des Falls.|Issue addressed: Added context to specify the area of 'Justiz.'
@@ -487,7 +487,7 @@
 4216|adj|regulär|Der reguläre Plan wird befolgt.|Issue addressed: Specified the context to clarify the use of 'regulär.'
 4218|adj|ukrainisch|Das ukrainische Essen ist sehr würzig.|Issue addressed: Specified that 'ukrainisch' refers to cuisine.
 4219|verb|unterdrücken, unterdrückt, unterdrückte, hat unterdrückt|Der Diktator unterdrückt das Volk brutal.|Issue addressed: Acknowledged word context and added 'brutal' to enhance clarity.
-4223|prep|einschließlich|Alles ist eingeschlossen, einschließlich der Steuern.|Issue addressed: Corrected preposition usage to 'einschließlich.'
+4223|prep|einschließlich|Der Preis beträgt 50 Euro, einschließlich Steuern.|Issue addressed: Remove repetition.
 4224|das|das Glied|Das schmerzende Glied wurde untersucht.|Issue addressed: Clarified the context to avoid inappropriate double meaning.
 4231|adv|abschließend|Abschließend möchte ich sagen, dass wir erfolgreich waren.|Issue addressed: Completed the sentence to form a full statement.
 4236|adj|örtlich|Die Hilfe war örtlich begrenzt.|Issue addressed: Added 'begrenzt' to clarify the context of the assistance.
@@ -512,7 +512,7 @@
 4507|die|die Sportart|Die Sportart ist Fußball.|Issue addressed: Added the definite article for completeness.
 4514|das|das Hindernis|Das Hindernis auf der Strecke ist groß.|Issue addressed: Added context to clarify what type of obstacle is being referred to.
 4528|prep|seitens|Seitens des Unternehmens wurden Maßnahmen ergriffen.|Issue addressed: Completed the sentence to provide a main clause.
-4549|die|das Diagramm|Das Diagramm ist komplex.|Issue addressed: Corrected the article to match the entry.
+4549|das|das Diagramm|Das Diagramm vergleicht die beiden Produkte.|Issue addressed: Add more context to clarify the purpose of the diagram.
 4561|adj|derzeitig|Die derzeitige Lage ist kompliziert.|Issue addressed: Corrected the adjective agreement.
 4576|prep|anstelle|Anstelle von Wasser gab es Saft.|Issue addressed: Completed the sentence to provide a main clause.
 4611|adj|fließend|Er spricht fließend Englisch und Spanisch.|Issue addressed: Removed redundancy by providing another example.
