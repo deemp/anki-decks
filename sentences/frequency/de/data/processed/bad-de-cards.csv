@@ -15,7 +15,7 @@
 131|pron|wenig|Es gibt wenig Hoffnung.|little, few|There is little hope.
 212|adv|möglich|Wir machen es so schnell wie möglich.|as . . . as possible, if possible|We will do it as quickly as possible.
 224|part|etwa|Es ist etwa zu spät.|after all|It is after all too late.
-243|der, das|das Teil|Jedes Teil hat seine Funktion.|part|Each part has its function.
+243|der, das|das Teil|Jedes Teil des Geräts hat seine Funktion.|part|Each part of the device has its function.
 269|die (pl)||Viele Leute sind hier.|people|Many people are here.
 274|verb|setzen, setzt, setzte, hat gesetzt|Er setzt sich auf den Stuhl.|to sit down|He sits down on the chair.
 288|pron|ein paar|Ich habe ein paar Fragen.|a few|I have a few questions.
@@ -27,7 +27,7 @@
 353|pron|bisschen, bissel|Ich brauche ein bisschen Hilfe.|a little|I need a little help.
 426|part|na|Na, wie geht’s?|well|Well, how are you?
 467|das|das Pro|Das Pro der Stadt ist die gute Infrastruktur.|pro|The pro of the city is the good infrastructure.
-481|part|nämlich|Es ist nämlich so.|you see, namely|You see, it is like this.
+481|part|nämlich|Er kam zu spät, nämlich um zehn Minuten.|namely|He was late, namely by ten minutes.
 509|die|die Milliarde, Mrd.|Eine Milliarde Menschen leben auf der Erde.|billion|A billion people live on Earth.
 534|part|halt|Das ist halt so.|just, simply|That’s just the way it is.
 537|prep|nahe, nah|Der Parkplatz ist nah bei der Schule.|near, close to|The parking lot is near the school.
@@ -48,7 +48,7 @@
 663|adv|mindestens|Das dauert mindestens eine Stunde.|at least|That will take at least an hour.
 668|adv|jeweils|Jeweils am Morgen lese ich die Nachrichten.|each, each time|Each morning, I read the news.
 673|das|das Tier|Das Tier ist süß.|animal|The animal is cute.
-675|part|am|Am besten ist es jetzt.|the (+superlative)|Now is the best time.
+675|part|am|Der See ist am tiefsten in der Mitte.|the (+superlative)|The lake is deepest in the middle.
 676|verb|erhöhen, erhöht, erhöhte, hat erhöht|Er erhöht den Preis um 10 Prozent.|to raise, increase|He raises the price by 10 percent.
 695|verb|trinken, trinkt, trank, hat getrunken|Ich trinke jeden Morgen Wasser.|to drink|I drink water every morning.
 774|die|die Mitte|Die Mitte des Raumes ist frei.|middle|The middle of the room is free.
@@ -75,14 +75,14 @@
 1090|die|das Grüne|Das Grüne ist beruhigend.|the Greens|The greenery is calming.
 1124|der|der Januar|Der Januar ist kalt.|January|January is cold.
 1127|adj|jeweilig|Die jeweilige Situation erfordert Geduld.|particular, respective|The respective situation requires patience.
-1130|adj|vollständig|Das Buch ist vollständig und umfasst alle Kapitel.|complete|The book is complete and includes all chapters.
+1130|adj|vollständig|Das Buch wurde vollständig übersetzt.|complete|The book was fully translated.
 1148|adj|heutig|Das heutige Wetter ist angenehm.|present-day, today’s|Today's weather is pleasant.
 1153|prep|per|Die Kosten betragen 10 Euro per Meter.|by, per|The cost is 10 euros per meter.
 1155|adv|her|Vor einem Jahr kam ich nach Deutschland.|from sth, ago, as far as . . . is concerned|A year ago, I came to Germany.
 1162|adj|elektrisch|Das Auto ist elektrisch betrieben.|electric|The car is powered by electricity.
 1164|der|der Beitrag|Sein Beitrag zum Projekt war wichtig.|contribution|His contribution to the project was important.
 1182|das|das Gebiet|Das Gebiet ist groß und umfasst viele Wälder.|region, area, territory|The area is large and includes many forests.
-1189|der, das|der Grad|Der Temperaturgrad ist hoch.|degree|The temperature degree is high.
+1189|der, das|der Grad|Ein voller Kreis hat 360 Grad.|degree|A full circle has 360 degrees.
 1190|pron|irgendein|Hast du irgendein Problem?|some, any|Do you have any problem?
 1192|pron|irgendetwas, irgendwas|Hast du irgendwas gesagt?|something, anything|Did you say something?
 1207|verb|töten, tötet, tötete, hat getötet|Er tötet die Zeit, während er auf den Bus wartet.|to kill|He kills time while waiting for the bus.
@@ -103,7 +103,7 @@
 1302|verb|auftauchen, taucht auf, tauchte auf, ist aufgetaucht|Ein Problem tauchte plötzlich auf.|to surface, appear|A problem suddenly surfaced.
 1316|part|äh|Äh, ich weiß nicht.|um|Um, I don’t know.
 1323|das|das Teilchen|Ein Teilchen bewegt sich schnell.|particle|A particle moves quickly.
-1348|adj|Schweizer|Der Käse ist Schweizer Käse.|Swiss|The cheese is Swiss cheese.
+1348|adj|Schweizer|Die Schweizer Schokolade ist weltweit berühmt.|Swiss|Swiss chocolate is famous worldwide.
 1362|adj|außen|Er bleibt draußen.|outside|He stays outside.
 1374|adv|leid|Ich bin des Wartens leid.|(be) tired (of)|I am tired of waiting.
 1381|der|der Milliliter, ml|Das Glas fasst hundert Milliliter.|milliliter|The glass holds one hundred milliliters.
@@ -128,7 +128,7 @@
 1505|adj|zuständig|Er ist zuständig für die Organisation.|appropriate, responsible|He is responsible for the organization.
 1523|das|das Sommersemester|Das Sommersemester beginnt im April.|summer semester|The summer semester starts in April.
 1529|verb|veröffentlichen, veröffentlicht, veröffentlichte, hat veröffentlicht|Das Buch wurde letztes Jahr veröffentlicht.|to publish|The book was published last year.
-1533|die|die Praxis|Die Praxis ist modern ausgestattet.|practice, doctor’s office|The practice is modernly equipped.
+1533|die|die Praxis|Die Praxis ist modern ausgestattet.|practice, doctor’s office|The clinic is modernly equipped.
 1537|verb|übertragen|Die Daten werden in Echtzeit übertragen.|to transfer|The data is being transferred in real-time.
 1548|adv|vorbei|Die Zeit der Prüfungen ist vorbei.|past, over|The time of exams is over.
 1570|verb|verfügen, verfügt, verfügte, hat verfügt|Er verfügt über umfangreiche Ressourcen.|to have sth at one’s disposal, be in charge|He has extensive resources at his disposal.
@@ -150,11 +150,11 @@
 1762|num||Er hat null Punkte erreicht.|zero|He scored zero points.
 1779|der|der Verlauf|Der Verlauf der Krankheit war besorgniserregend.|course|The course of the disease was worrying.
 1791|der|der Alltag|Der Alltag ist stressig wegen der Arbeit.|workday, daily routine, everyday life|Everyday life is stressful because of work.
-1798|verb|bedingen, bedingt, bedingte, hat bedingt|Das Problem bedingt eine rasche Lösung.|to cause|The problem requires a quick solution.
+1798|verb|bedingen, bedingt, bedingte, hat bedingt|Das Problem bedingt eine rasche Lösung.|to require, to cause|The problem requires a quick solution.
 1813|das|das Fach|Das Fach Mathematik ist schwer.|compartment, subject|The subject of mathematics is difficult.
-1816|die|die Nation|Die Nation ist groß und vielfältig.|nation|The nation is large and diverse.
+1816|die|die Nation|Die Nation feiert heute ihren Unabhängigkeitstag.|nation|The nation is celebrating its Independence Day today.
 1839|die|die Stufe|Die Stufe ist hoch, sei vorsichtig.|step, level|The step is high, be careful.
-1841|adj|primär|Das ist primär ein finanzielles Problem.|primary|This is primarily a financial problem.
+1841|adj|primär|Die primäre Ursache des Problems ist unbekannt.|primary|The primary cause of the problem is unknown.
 1871|die|die Variable|Die Variable ändert sich je nach Bedingung.|variable|The variable changes depending on the condition.
 1876|das|das Volumen|Das Volumen des Raumes ist beeindruckend.|volume, total amount|The volume of the room is impressive.
 1911|adj|seltsam|Das erzählt des Tieres ist seltsam.|strange, peculiar|The story of the animal is strange.
@@ -224,7 +224,7 @@
 2604|verb|unterliegen, unterliegt, unterlag, hat unterlegen|Er unterliegt im Wettkampf.|to be defeated, be subject|He is defeated in the competition.
 2606|adj|willkommen|Du bist hier immer willkommen.|welcome|You are always welcome here.
 2617|verb|bedrohen, bedroht, bedrohte, hat bedroht|Die Situation bedroht uns alle durch die steigenden Spannungen.|to threaten|The situation threatens us all due to rising tensions.
-2625|adj|scheinbar|Das ist nur scheinbar so, es gibt mehr dahinter.|apparent|That is only apparently so, there is more behind it.
+2625|adj|scheinbar|Der Erfolg war scheinbar garantiert.|seemingly|Success was seemingly guaranteed.
 2641|der|der Kredit|Ich brauche einen Kredit für das neue Auto.|loan, credit|I need a loan for the new car.
 2642|das|das Wohnzimmer|Das Wohnzimmer ist gemütlich und einladend.|living room|The living room is cozy and inviting.
 2644|die|die Leitung|Die Leitung des Unternehmens hat gewechselt.|management, leadership|The management of the company has changed.
@@ -288,7 +288,7 @@
 3140|das|das Eisen|Das Eisen ist schwer und rostig.|iron|The iron is heavy and rusty.
 3142|die|die Besonderheit|Die Besonderheit dieser Stadt ist ihre Architektur.|idiosyncracy, (special) feature, unique characteristic|The unique characteristic of this city is its architecture.
 3146|adj|cool|Diese Idee ist cool.|cool|This idea is cool.
-3150|der|der Irak|Irak liegt im Nahen Osten.|Iraq|Iraq is in the Middle East.
+3150|der|der Irak|Der Irak liegt im Nahen Osten.|Iraq|Iraq is in the Middle East.
 3151|adj|virtuell|Die virtuelle Realität wird immer realistischer.|virtual|Virtual reality is becoming more realistic.
 3159|der|der Besitz|Der Besitz des Hauses ist umstritten.|property, possession|The ownership of the house is disputed.
 3161|der|der Gläubiger|Der Gläubiger wartet auf die Rückzahlung.|creditor, believer|The creditor is waiting for repayment.
@@ -317,7 +317,7 @@
 3305|verb|vermögen, vermag, vermochte, hat vermocht|Er vermag es zu tun, obwohl es schwierig ist.|to be capable|He is capable of doing it, even though it's difficult.
 3306|adj|fröhlich|Er ist immer fröhlich, egal was passiert.|cheerful|He is always cheerful, no matter what happens.
 3315|die|die Route|Die Route für die Wanderung ist geplant.|route|The route for the hike is planned.
-3319|die|die Bundeswehr|Die Bundeswehr ist stark, aber umstritten.|Armed Forces|The Bundeswehr is strong, but controversial.
+3319|die|die Bundeswehr|Die Bundeswehr modernisiert ihre Ausrüstung.|Armed Forces|The Bundeswehr is modernizing its equipment.
 3321|adj|mechanisch|Das Gerät arbeitet mechanisch, ohne Elektronik.|mechanical|The device works mechanically, without electronics.
 3336|das|das Polnisch|Polnisch ist eine schöne Sprache.|Polish|Polish is a beautiful language.
 3344|das|das Norwegen|Norwegen ist schön.|Norway|Norway is beautiful.
@@ -422,7 +422,7 @@
 3773|das|das Schaf|Das weiße Schaf grast auf der Wiese.|sheep|The white sheep is grazing in the meadow.
 3782|das|das Adjektiv|Das Adjektiv in diesem Satz ist klar.|adjective|The adjective in this sentence is clear.
 3797|das|das Schema|Das Schema für die Datenbank ist komplex.|scheme|The scheme for the database is complex.
-3802|adj|reichlich|Das reichliche Essen reicht für alle.|plenty, generous|The plentiful food is enough for everyone.
+3802|adj|reichlich|Er hat reichlich Erfahrung in diesem Bereich gesammelt.|plenty, generous|He has gained plenty of experience in this field.
 3811|die|die Innenstadt|Die Innenstadt von Berlin ist belebt.|town center, downtown|The downtown of Berlin is lively.
 3814|verb|siegen, siegt, siegte, hat gesiegt|Das Team siegt regelmäßig.|to win, triumph|The team wins regularly.
 3815|die|die Stichprobe|Die Stichprobe der Umfrage war klein.|sample|The sample size of the survey was small.
