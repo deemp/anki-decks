@@ -1,18 +1,14 @@
 |part_of_speech|word_de|sentence_de
 7|art|ein|Er hat ein Buch in der Tasche gefunden.
-651|adj|eng|Der Raum war so eng, dass wir kaum atmen konnten.
 1827|adv|ab|Der Zug fährt in fünf Minuten ab.
-3508|die|die CD|Ich habe die CD mit meiner Lieblingsmusik gefunden.
 276|adj|weit|Der Fluss ist an dieser Stelle sehr weit.
 352|das|das Buch|Er hat das Buch in einem Rutsch gelesen.
 507|die|die Idee|Die Idee für das Projekt kam ganz spontan.
 533|adj|rot|Das Auto ist rot und glänzt in der Sonne.
 563|der|der Film|Der Film war spannend bis zur letzten Minute.
-694|das|das Foto|Sie hat das Foto in einem alten Album gefunden.
 919|das|das Blut|Das Blut tropfte von der Wunde auf den Boden.
 148|adj|hoch|Der Baum ist sehr hoch gewachsen.
 264|die|die Woche|Die Woche begann mit einem sonnigen Montag.
-286|der|der Doktor|Der Doktor untersucht den Patienten sehr gründlich.
 410|adj|offen|Die Tür stand weit offen, als ich ankam.
 430|die|die Tür|Sie schloss die Tür leise hinter sich.
 443|adj|voll|Das Glas ist bis zum Rand voll.
@@ -37,25 +33,18 @@
 4502|die|die Box|Die Box ist voller Überraschungen.
 69|pron|mein|Mein Hund wartet immer vor der Tür.
 71|das|das Jahr|Das Jahr verging wie im Flug.
-123|adj|lang|Der Fluss ist lang und schlängelt sich durch die Stadt.
 408|adj|direkt|Der direkte Weg führt durch den Wald.
 459|die (pl)||Die Berge sind von hier aus gut sichtbar.
-503|die|die Grenze|Die Grenze zwischen den Ländern ist gut bewacht.
 545|der|der Körper|Der Körper ist ein komplexes System.
 587|der|der Tisch|Der Tisch in der Küche ist aus Holz.
 594|der|der Boden|Der Boden war nass vom Regen.
-771|das|das Modell|Das Modell des Hauses ist beeindruckend detailreich.
 773|adv|unten|Unten im Keller lagert der Wein.
 797|die|die Reise|Die Reise nach Paris war ein Traum.
-801|die|die Reihe|Die Reihe der Stühle war ordentlich aufgestellt.
 906|der|der Brief|Der Brief lag geöffnet auf dem Tisch.
 924|der|der Mund|Er öffnete den Mund, um etwas zu sagen.
 960|die|die Kirche|Die Kirche steht mitten im Dorf.
-968|das|das Atom|Das Atom ist die kleinste Einheit der Materie.
 997|die|die Hälfte|Die Hälfte des Kuchens war schon gegessen.
-1002|der|der Berg|Der Berg erhebt sich majestätisch in den Himmel.
 1060|adj|ruhig|Das Meer war heute besonders ruhig.
-1204|der|der Papa|Mein Papa liest mir immer eine Geschichte vor.
 1249|der|der Wagen|Der Wagen steht in der Garage.
 1252|die|die Tat|Die Tat wurde genau beobachtet.
 1468|der|der Strom|Der Strom fiel für eine Stunde aus.
@@ -72,7 +61,6 @@
 2305|das|das Holz|Das Holz knisterte im Kamin.
 2822|der|der Saal|Der Saal war für das Konzert gut gefüllt.
 3030|die|die Kuh|Die Kuh graste friedlich auf der Wiese.
-3215|der|der Turm|Der Turm bietet eine tolle Aussicht auf die Stadt.
 3320|der|der Kerl|Der Kerl an der Bar sieht verdächtig aus.
 3590|der|der Apfel|Der Apfel fiel direkt vom Baum.
 3651|der|der Rock|Der Rock ist aus leichtem Stoff.
@@ -88,29 +76,20 @@
 5106|die|die Ruine|Die Ruine war von Pflanzen überwuchert.
 15|aux|werden, wird, wurde, ist geworden|Er wird bald nach Hause kommen.
 115|der|der Mensch|Der Mensch ist ein soziales Wesen.
-306|adj|schwer|Der Koffer ist so schwer, dass ich ihn kaum heben kann.
-412|die|die Person|Die Person an der Tür wollte nicht hereinkommen.
 425|das|das Ding|Das Ding auf dem Tisch sieht merkwürdig aus.
 446|die|die Straße|Die Straße war voller Menschen.
-478|das|das Produkt|Das Produkt wurde gestern auf den Markt gebracht.
 584|adj|langsam|Der Schneefall war heute besonders langsam.
 589|verb|bieten, bietet, bot, hat geboten|Er bietet seine Hilfe an.
 598|der|der Tod|Der Tod des Königs hat das Land erschüttert.
 650|die|die Zelle|Die Zelle teilte sich unter dem Mikroskop.
-654|der|der Sohn|Der Sohn des Bäckers hilft oft in der Bäckerei.
 782|das|das Angebot|Das Angebot war zu gut, um es abzulehnen.
-799|der|der Zustand|Der Zustand des Patienten hat sich verbessert.
-811|adj|modern|Die Wohnung ist modern und stilvoll eingerichtet.
 837|das|das Hotel|Das Hotel liegt direkt am Strand.
 886|die|die Ebene|Die Ebene erstreckt sich bis zum Horizont.
 961|adv|links|Links vom Gebäude liegt ein Park.
-1008|die|die Sicht|Die Sicht war durch den Nebel stark eingeschränkt.
 1018|adj|teuer|Der Schmuck war unglaublich teuer.
 1027|das|das Dorf|Das Dorf liegt idyllisch am See.
-1199|der|der Bund|Der Bund wurde nach langen Verhandlungen geschlossen.
 1282|der|der Osten, Ost-|Der Osten des Landes ist dünn besiedelt.
 1337|die|die Welle|Die Welle schlug hoch an den Strand.
-1340|adj|dicht|Der Nebel war so dicht, dass man kaum etwas sehen konnte.
 1363|der|der Kreis|Der Kreis schließt sich langsam.
 1517|die|die Pause|Die Pause dauerte nur fünf Minuten.
 1522|adj|gelb|Die Blätter sind im Herbst oft gelb.
@@ -124,7 +103,6 @@
 2061|adj|nackt|Er stand nackt am Fenster.
 2062|die|die Ware|Die Ware wurde heute geliefert.
 2170|die|die GmbH|Die GmbH wurde vor zehn Jahren gegründet.
-2217|der|der Kauf|Der Kauf des Hauses war eine gute Entscheidung.
 2235|der|der Trend|Der Trend geht zu nachhaltiger Mode.
 2259|die|die Oma|Die Oma backt die besten Plätzchen.
 2358|das|das Gefäß|Das Gefäß ist aus Glas und sehr zerbrechlich.
@@ -138,182 +116,98 @@
 3406|adj|fett|Das Essen war zu fett für meinen Geschmack.
 3462|das|das Konto|Das Konto ist im Plus.
 3563|die|die Maus|Die Maus huschte schnell über den Boden.
-3741|der|der Hang|Der Hang ist steil und schwierig zu erklimmen.
-3771|der|der Prinz|Der Prinz reitet auf seinem weißen Pferd durch das Dorf.
-3994|der|der LKW (Lastkraftwagen)|Der LKW transportiert schwere Güter durch die Stadt.
 4028|der|der Cent|Er fand einen Cent auf dem Gehweg.
-4088|das|das Lokal|Das Lokal an der Ecke bietet leckere Speisen an.
-4144|der|der Ozean|Der Ozean erstreckt sich weit bis zum Horizont.
 4246|die|die Lampe|Die Lampe im Wohnzimmer spendet warmes Licht.
 4472|der|der Abfall|Der Abfall muss regelmäßig entsorgt werden.
-4678|der|der Mythos|Der Mythos besagt, dass es einen verborgenen Schatz gibt.
 4758|das|das Klo|Das Klo befindet sich am Ende des Flurs.
-4760|der|der Knall|Plötzlich ertönte ein lauter Knall in der Ferne.
-5027|das|das Seil|Das Seil ist stark genug, um das Gewicht zu tragen.
-112|pron|jede (r, s)|Jeder ist für seine eigenen Taten verantwortlich.
 197|adj|gerade|Die Straße führt geradewegs zum See.
 248|adj|schnell|Der schnelle Läufer gewann das Rennen.
-278|der|der Vater|Der Vater liest seinen Kindern eine Geschichte vor.
 372|adj|bekannt|Dieses Lied ist sehr bekannt in Deutschland.
 379|die|die Nacht|Die Nacht war klar und voller Sterne.
 416|das|das Auto|Das Auto parkte direkt vor dem Haus.
 424|die|die Gruppe|Die Gruppe wanderte gemeinsam durch den Wald.
-441|das|das Ergebnis|Das Ergebnis der Prüfung war besser als erwartet.
-539|das|das Kapitel|Das nächste Kapitel des Buches ist besonders spannend.
 622|die (pl)||Die Blumen im Garten blühen wunderschön.
 633|der|der Krieg|Der Krieg hinterließ tiefe Spuren im Land.
-652|die|die Kultur|Die Kultur eines Landes prägt seine Identität.
-744|das|das Werk|Das Werk des Künstlers beeindruckt die Besucher.
-746|der|der Bürger|Der Bürger forderte mehr Transparenz von der Regierung.
-915|adj|breit|Die breite Straße führt direkt zum Marktplatz.
 929|der|der Fehler|Ein kleiner Fehler kann große Folgen haben.
-1014|das|das BGB (Bürgerliches Gesetzbuch)|Das BGB regelt die Rechte und Pflichten der Bürger.
-1016|adj|blau|Der blaue Himmel versprach einen sonnigen Tag.
-1035|der|der Absatz|Der Absatz des neuen Buches ist beeindruckend hoch.
 1040|adj|toll|Das war wirklich eine tolle Feier!
-1044|der|der Chef|Der Chef lobte seine Mitarbeiter für die gute Arbeit.
-1046|das|das Risiko|Das Risiko war hoch, aber der Erfolg war es wert.
 1100|der|der Wald|Der Wald war im Herbst besonders schön.
 1101|die|die Insel|Die Insel ist nur mit dem Boot erreichbar.
-1102|der|der Schluss|Am Ende kam der spannende Schluss der Geschichte.
 1112|der|der Sieg|Der Sieg war hart erkämpft, aber verdient.
-1122|adj|ernst|Das war eine ernste Angelegenheit, die schnell geklärt werden musste.
-1124|der|der Januar|Im Januar ist es oft sehr kalt in Deutschland.
-1178|der|der Besuch|Der Besuch bei den Großeltern war immer ein Highlight.
 1180|die|die Quelle|Die Quelle des Flusses liegt tief im Wald.
 1263|die|die Spur|Die Spur im Schnee führte direkt zum Haus.
-1273|das|das Maß|Das Maß aller Dinge ist für jeden Menschen anders.
-1277|der|der Rand|Am Rand des Feldes wuchs eine bunte Blumenwiese.
-1280|der|der Winter|Der Winter brachte viel Schnee und eisige Temperaturen.
 1334|adj|frisch|Das frische Brot duftet herrlich.
 1365|adj|digital|Das digitale Zeitalter hat vieles verändert.
-1452|die|die Ecke|An der Ecke des Raumes stand ein alter Schrank.
-1473|die|die Union|Die Union diskutierte über die aktuellen politischen Herausforderungen.
-1487|adj|hell|Das helle Licht blendete ihn für einen Moment.
-1502|der|der Geist|Der Geist des alten Schlosses spukt angeblich noch heute.
-1550|die|die Karte|Die Karte zeigte den Weg zum versteckten Schatz.
 1577|adj|stabil|Das stabile Gerüst hielt dem Sturm stand.
 1602|die|die Steuer|Die Steuer auf Benzin wurde erneut erhöht.
 1628|der|der Kurs|Der Kurs der Aktien stieg deutlich an.
 1639|adj|grau|Der graue Himmel versprach Regen.
 1756|das|das Ion|Das Ion trägt eine elektrische Ladung.
-1757|der|der Laden|Der Laden an der Ecke verkauft frisches Gemüse.
 1769|der|der Fluss|Der Fluss fließt ruhig durch die Stadt.
-1775|das|das Handy|Das Handy klingelte mitten in der Besprechung.
-1808|die|die Haltung|Seine Haltung zum Thema war eindeutig negativ.
-1820|adj|billig|Die billigen Schuhe waren nach kurzer Zeit kaputt.
 1852|der|der Test|Der Test war schwieriger als erwartet.
-1879|das|das Drittel|Ein Drittel der Teilnehmer hat die Prüfung bestanden.
 1890|adj|schmal|Die schmale Gasse führt zum Marktplatz.
-1899|adj|bunt|Die bunten Blätter fallen im Herbst von den Bäumen.
-1912|das|das Gen|Das Gen bestimmt viele Eigenschaften des Menschen.
 1914|der|der Onkel|Mein Onkel besucht uns jedes Wochenende.
-1969|der|der Anwalt|Der Anwalt verteidigte seinen Mandanten mit Nachdruck.
-1989|das|das Schloss|Das Schloss auf dem Hügel ist ein beliebtes Ausflugsziel.
 2033|die|die Treppe|Die Treppe knarrte bei jedem Schritt.
-2107|adj|golden|Die goldene Sonne tauchte den Himmel in warme Farben.
-2155|die|die Schrift|Die Schrift auf dem alten Dokument war schwer zu entziffern.
-2178|das|das Brot|Das frische Brot schmeckte köstlich zum Frühstück.
 2218|das|das Öl|Das Öl wird aus Oliven gepresst.
-2219|der|der Betrag|Der Betrag auf der Rechnung war überraschend hoch.
-2247|die|die City|In der City gibt es viele Einkaufsmöglichkeiten.
-2293|die|die Armee|Die Armee bereitete sich auf die Verteidigung vor.
 2350|der|der Mord|Der Mord wurde schnell aufgeklärt.
-2523|adj|flach|Das flache Land erstreckt sich bis zum Horizont.
 2745|das|das Hemd|Das Hemd ist frisch gebügelt.
 2816|der|der Sprung|Der Sprung ins kalte Wasser erfrischte ihn.
 2853|der|der Hut|Der Hut schützt vor der Sonne.
-2953|die|die Version|Die neue Version der Software enthält viele Verbesserungen.
 2961|die|die Lücke|Die Lücke im Zaun musste repariert werden.
 3007|der|der Sturm|Der Sturm wütete die ganze Nacht.
 3078|der|der Mantel|Der Mantel hielt ihn warm an kalten Tagen.
 3126|das|das Symptom|Das Symptom der Krankheit war hohes Fieber.
-3146|adj|cool|Er sah in seiner neuen Jacke wirklich cool aus.
 3170|die|die Platte|Die Platte auf dem Tisch war aus Holz.
-3281|die|die Börse|Die Börse reagierte nervös auf die neuesten Nachrichten.
 3337|der|der Posten|Der Posten wurde neu besetzt.
 3354|der|der Bescheid|Ich gebe dir Bescheid, sobald ich mehr weiß.
-3398|der|der Ertrag|Der Ertrag der Ernte war dieses Jahr besonders gut.
 3440|die|die Säule|Die Säule stützte das Dach des Tempels.
 3477|der|der Anzug|Der Anzug passte perfekt zu ihm.
 3526|der|der Helfer|Der Helfer brachte die Kisten ins Haus.
-3573|die|die Kälte|Die Kälte im Winter ist manchmal unerträglich.
 3587|adj|absurd|Die absurde Idee sorgte für viele Lacher.
-3622|der|der Frühling|Im Frühling blühen die Blumen in allen Farben.
 3709|das|das Möbel|Das Möbelstück ist antik und sehr wertvoll.
 4001|das|das Becken|Das Becken im Badezimmer ist aus Marmor.
 4062|das|das Rathaus|Das Rathaus steht im Zentrum der Stadt.
 4102|der|der Strahl|Der Strahl der Sonne wärmte sein Gesicht.
 4136|das|das Tuch|Das Tuch war weich und angenehm auf der Haut.
 4158|der|der Tunnel|Der Tunnel führte unter dem Fluss hindurch.
-4288|der|der Fürst|Der Fürst regierte das Land mit Weisheit und Gerechtigkeit.
 4293|der|der Sack|Der Sack war gefüllt mit Kartoffeln.
-4319|die|die Fassade|Die Fassade des Gebäudes war frisch gestrichen.
 4357|adj|mild|Der milde Winter überraschte alle.
 4432|die|die Malerei|Die Malerei an der Wand war ein Meisterwerk.
 4512|adj|blutig|Der blutige Kampf dauerte die ganze Nacht.
 4582|adj|reif|Die reifen Äpfel fielen von den Bäumen.
-4596|der|der Schrei|Ein lauter Schrei durchbrach die Stille der Nacht.
-4602|adj|witzig|Der witzige Kommentar brachte alle zum Lachen.
-4663|adj|giftig|Die giftige Pflanze darf nicht berührt werden.
-4672|die|die Dusche|Die Dusche am Morgen erfrischt Körper und Geist.
-5001|der|der Römer|Der Römer betrachtete die Ruinen mit Ehrfurcht.
-5057|adj|uralt|Der uralte Baum stand seit Jahrhunderten im Wald.
 192|der|der Herr|Der Herr im Anzug wirkte sehr beeindruckend.
 253|die|die Arbeit|Die Arbeit am Projekt machte ihm großen Spaß.
 263|die|die Mutter|Die Mutter umarmte ihr Kind liebevoll.
 269|die (pl)||Die Fenster des Hauses wurden frisch geputzt.
-290|das|das Recht|Das Recht auf Bildung ist in vielen Ländern fest verankert.
 380|der|der Platz|Der Platz im Park war voll von Menschen.
 395|der|der Ort|Der Ort war ideal für ein Picknick.
 440|die|die Rolle|Die Rolle des Lehrers erfordert viel Geduld.
 450|pron|jene (r, s)|Jene Entscheidung war von großer Bedeutung.
-474|die|die Richtung|Die Richtung der Reise wurde spontan geändert.
-483|der|der Anfang|Der Anfang eines neuen Kapitels ist immer spannend.
 496|der|der Kollege|Der Kollege half mir bei der Aufgabe.
 530|adj|schwarz|Der schwarze Anzug steht ihm gut.
 562|adj|gering|Das Risiko ist in diesem Fall sehr gering.
-712|das|das Molekül|Das Molekül ist der kleinste Baustein der Materie.
-737|das|das Fenster|Das Fenster im Schlafzimmer steht immer offen.
 790|die|die Größe|Die Größe des Raums beeindruckte alle.
 843|adj|niedrig|Der niedrige Preis überraschte die Kunden.
 871|die|die Nummer|Die Nummer auf der Liste ist nicht korrekt.
-917|die|die Wirkung|Die Wirkung des Medikaments setzte schnell ein.
-1009|der|der Dollar|Der Dollar ist weltweit eine wichtige Währung.
 1012|die|die Position|Die Position des Managers wurde neu besetzt.
-1113|die|die Küche|Die Küche im neuen Haus ist modern eingerichtet.
 1158|das|das Theater|Das Theaterstück begeisterte das Publikum.
-1229|das|das Zeichen|Das Zeichen an der Wand deutete auf Gefahr hin.
-1312|adj|linear|Die Entwicklung verlief linear über die Jahre.
 1326|der|der Computer|Der Computer wurde neu gestartet.
-1373|der|der Kaffee|Der Kaffee am Morgen weckt seine Lebensgeister.
 1462|das|das Gebäude|Das Gebäude wurde vor kurzem renoviert.
 1510|die|die Übung|Die Übung war komplex, aber lehrreich.
-1524|adj|heftig|Der heftig Regen verursachte Überschwemmungen.
-1532|die|die Strecke|Die Strecke führte durch malerische Landschaften.
 1552|die|die Krise|Die Krise erschütterte das ganze Land.
 1611|der|der Gegner|Der Gegner war stark, aber nicht unbesiegbar.
 1683|die|die Flasche|Die Flasche Wein lag schon lange im Keller.
 1729|der|der Wille|Der Wille zum Erfolg treibt ihn an.
 1803|das|das Fahrzeug|Das Fahrzeug parkt direkt vor dem Haus.
-1819|die|die Auflage|Die Auflage des Buches ist bereits vergriffen.
 1854|adj|super|Das neue Restaurant ist wirklich super!
-1896|verb|regeln, regelt, regelte, hat geregelt|Die Verkehrsampel regelt den Verkehr an der Kreuzung.
-1919|die|die Störung|Eine Störung im Signal unterbrach die Verbindung.
-1925|die|die Ausgabe|Die neueste Ausgabe der Zeitschrift liegt am Kiosk.
 1955|adj|beliebt|Dieses Café ist bei Studenten sehr beliebt.
-1957|adj|komisch|Der Film war lustig, aber auch ein bisschen komisch.
 2046|das|das Video|Das Video ging im Internet viral.
 2156|die|die Silbe|Die Betonung liegt auf der ersten Silbe.
 2197|die|die Wolke|Eine dunkle Wolke zog über den Himmel.
 2285|adj|weich|Das Kissen ist angenehm weich.
-2392|die|die Periode|Diese Periode der Geschichte war besonders turbulent.
 3054|das|das Labor|Im Labor werden neue Medikamente entwickelt.
 3070|das|das Schwein|Das Schwein im Stall grunzt laut.
 3094|die|die Rente|Nach vierzig Jahren Arbeit geht er in Rente.
 3188|der|der Kanton|Der Kanton hat seine eigenen Gesetze.
-3191|der|der Status|Der Status der Bestellung wird online angezeigt.
-3248|die|die Software|Die neue Software hat viele nützliche Funktionen.
 3262|adj|feucht|Das Handtuch war noch leicht feucht.
 3264|die|die Lunge|Die Lunge versorgt den Körper mit Sauerstoff.
 3289|adj|herrlich|Das Wetter heute ist einfach herrlich.
@@ -323,108 +217,68 @@
 3473|der|der Song|Der neue Song von ihr ist ein Hit.
 3488|die|die Front|An der Front tobte ein heftiger Sturm.
 3591|adj|autonom|Das Fahrzeug fährt vollkommen autonom.
-3610|der|der Maßstab|Der Maßstab auf der Karte zeigt die Entfernung an.
 3770|der|der Hörer|Der Hörer legte abrupt auf.
 3786|das|das Getränk|Das Getränk im Glas war erfrischend kühl.
 3954|adj|mutig|Es war mutig von ihm, die Wahrheit zu sagen.
-3957|die|die Tafel|Die Tafel im Klassenzimmer war voller Notizen.
-3983|das|das Neuron|Das Neuron leitet Informationen im Gehirn weiter.
 4025|die|die Wurst|Die Wurst auf dem Grill duftet köstlich.
-4190|adj|live|Das Konzert wurde live im Fernsehen übertragen.
 4367|das|das Hirn|Das Hirn steuert alle Funktionen des Körpers.
 4405|der|der Stall|Der Stall wurde frisch ausgemistet.
-4407|die|die Bibel|Die Bibel ist das meistverkaufte Buch der Welt.
-4426|adj|homogen|Die Gruppe war in ihren Meinungen erstaunlich homogen.
 4463|die|die Siedlung|Die Siedlung am Stadtrand wächst ständig.
-4491|das|das Handwerk|Das Handwerk wird von Generation zu Generation weitergegeben.
 4513|der|der Erwerb|Der Erwerb des Hauses war ein großer Schritt.
 4589|adj|hilflos|Das Kätzchen sah hilflos aus.
 4747|die|die Miene|Seine Miene verriet keine Emotionen.
 4986|der|der Reiter|Der Reiter galoppierte über das Feld.
-5024|adj|nominal|Die nominale Größe unterscheidet sich von der realen.
 5034|das|das Modul|Das Modul im Kurs war besonders interessant.
-5069|die|die Skulptur|Die Skulptur im Park ist sehr modern gestaltet.
 305|die|die Aufgabe|Die Aufgabe war schwieriger als erwartet.
-370|die|die Lösung|Die Lösung des Problems war einfacher als gedacht.
-382|das|das Spiel|Das Spiel gestern Abend war spannend bis zum Schluss.
 399|die|die Stelle|Die Stelle im Buch ist besonders interessant.
-434|die|die Möglichkeit|Die Möglichkeit, ins Ausland zu reisen, begeistert sie.
 531|verb|sterben, stirbt, starb, ist gestorben|Er starb friedlich im Kreise seiner Familie.
-541|die|die Bedeutung|Die Bedeutung dieses Wortes ist nicht leicht zu erklären.
 582|adj|falsch|Die Antwort war leider falsch.
-632|die (pl)||Die Blumen auf der Wiese leuchten in bunten Farben.
 705|die|die Grundlage|Die Grundlage des Erfolgs ist harte Arbeit.
-795|die|die Phase|In dieser Phase des Projekts ist viel Geduld gefragt.
 878|das|das Elektron|Das Elektron bewegt sich um den Atomkern.
-907|das|das Mitglied|Jedes Mitglied des Teams hat eine wichtige Rolle.
 936|die|die Verfügung|Die Mittel stehen zur freien Verfügung.
-940|der|der Einfluss|Der Einfluss der Medien ist nicht zu unterschätzen.
-950|adj|klassisch|Die klassische Musik begeistert viele Menschen.
 1081|der|der Titel|Der Titel des Buches weckt Interesse.
 1186|die|die Summe|Die Summe der Kosten war höher als erwartet.
 1200|adj|extrem|Das Wetter war extrem heiß diesen Sommer.
-1210|der|der Zeitpunkt|Der Zeitpunkt für die Entscheidung war gut gewählt.
-1289|adj|komplett|Das Bild war nach dem Puzzle endlich komplett.
 1292|die|die Nachricht|Die Nachricht traf ihn völlig unerwartet.
-1418|das|das Enzym|Das Enzym spielt eine wichtige Rolle bei der Verdauung.
 1451|adj|streng|Die strenge Lehrerin achtet auf Disziplin.
 1465|verb|sichern, sichert, sicherte, hat gesichert|Die Polizei sicherte den Tatort ab.
-1503|das|das Objekt|Das Objekt im Schaufenster erregte seine Aufmerksamkeit.
 1518|adj|scharf|Das Messer ist sehr scharf, sei vorsichtig.
-1521|die|die Formel|Die Formel ist für die Berechnung entscheidend.
 1581|das|das Pferd|Das Pferd galoppierte über die Wiese.
 1680|der|der Keller|Der Keller ist voll mit alten Möbeln.
 1700|der|der Vorschlag|Der Vorschlag wurde einstimmig angenommen.
 1702|adj|entfernt|Der entfernte Berg war kaum zu sehen.
-1732|die|die Tradition|Die Tradition wird in dieser Familie hochgehalten.
 1766|die|die Realität|Die Realität sieht leider oft anders aus.
 1814|verb|begrenzen, begrenzt, begrenzte, hat begrenzt|Wir müssen die Ausgaben begrenzen.
 1891|der|der Streit|Der Streit eskalierte schnell.
 1892|adj|spannend|Der Film gestern war wirklich spannend.
-1951|die|die Stirn|Er legte die Stirn in Falten, als er nachdachte.
-1970|pron|dahinter|Dahinter steckt viel mehr, als man auf den ersten Blick sieht.
 2014|das|das Geräusch|Das Geräusch kam aus dem Keller.
 2054|die|die Ladung|Die Ladung wurde sicher im Hafen entladen.
-2080|das|das Viertel|Das Viertel ist bekannt für seine lebendige Kulturszene.
 2136|der|der Täter|Der Täter wurde schnell gefasst.
 2141|der|der Anlass|Der Anlass für das Fest war ein Geburtstag.
 2157|der|der Anstieg|Der Anstieg der Temperaturen bereitet Sorgen.
-2182|das|das Umfeld|Das Umfeld spielt eine große Rolle für die Entwicklung.
 2214|der|der Verkehr|Der Verkehr in der Stadt ist oft chaotisch.
-2251|das|das Metall|Das Metall wurde zu einer Skulptur verarbeitet.
 2255|die|die Trennung|Die Trennung fiel beiden schwer.
 2273|der|der Schlag|Der Schlag traf ihn völlig unerwartet.
 2276|die|die Marke|Die Marke ist weltweit bekannt.
 2297|der|der Termin|Der Termin beim Arzt war dringend notwendig.
 2303|adj|winzig|Die winzige Spinne krabbelte über den Tisch.
-2316|adj|analog|Die alte Uhr ist rein analog und benötigt keine Batterien.
 2349|die|die Kommune|Die Kommune plant neue Wohnprojekte.
-2351|adj|extern|Die Daten werden auf einem externen Laufwerk gespeichert.
 2447|adj|trocken|Die Luft in der Wüste ist extrem trocken.
 2471|der|der Koffer|Der Koffer war schwer, aber gut zu tragen.
 2495|adj|wertvoll|Der Ring war klein, aber sehr wertvoll.
 2526|der|der Winkel|Der Winkel des Dachs war zu steil.
-2591|das|das Erbe|Das Erbe wurde unter den Geschwistern aufgeteilt.
 2626|die|die Frequenz|Die Frequenz des Signals war zu niedrig.
-2633|adj|schlicht|Das schlichte Design des Hauses gefällt mir sehr.
-2780|das|das Messer|Das Messer schneidet durch das Brot wie durch Butter.
 2829|der|der Akzent|Sein deutscher Akzent war kaum zu hören.
 2859|der|der Mittag|Zum Mittag gab es eine leckere Suppe.
-2968|die|die Einnahme|Die Einnahme der Medikamente erfolgte regelmäßig.
-3016|das|das Motto|Das Motto der Veranstaltung lautet: „Gemeinsam stark“.
 3029|verb|bedecken, bedeckt, bedeckte, hat bedeckt|Der Schnee bedeckte die Straßen vollständig.
 3086|adj|bitter|Die bittere Wahrheit kam ans Licht.
 3120|der|der Horizont|Am Horizont zeichnete sich eine Stadt ab.
 3197|der|der Duft|Der Duft der Blumen erfüllte den Raum.
 3278|adj|sensibel|Er reagiert sehr sensibel auf Kritik.
-3284|der|der Teller|Der Teller war leer nach dem köstlichen Essen.
 3341|die|die Öffnung|Die Öffnung im Boden führte in eine Höhle.
 3435|adj|abstrakt|Die abstrakte Kunst hängt im Museum.
-3469|adj|bequem|Der Sessel im Wohnzimmer ist besonders bequem.
 3472|das|das Rätsel|Das Rätsel war schwieriger als gedacht.
 3568|die|die Kohle|Die Kohle im Grill brannte lange.
-3701|die|die Schlange|Die Schlange bewegte sich langsam durch das Gras.
-3793|adj|endlos|Die endlose Wüste erstreckte sich bis zum Horizont.
 3822|adj|elegant|Die elegante Frau betrat den Raum.
 3865|adj|passiv|Er blieb während der Diskussion passiv.
 3873|das|das Gepäck|Das Gepäck wurde am Flughafen verloren.
@@ -432,18 +286,13 @@
 3888|der|der Träger|Der Träger des Preises hielt eine Rede.
 3915|der|der Krebs|Der Krebs breitete sich leider schnell aus.
 4043|der|der Kristall|Der Kristall funkelte im Sonnenlicht.
-4113|die|die Spaltung|Die Spaltung der Gesellschaft bereitet Sorgen.
 4148|adv|umsonst|Die ganze Arbeit war nicht umsonst.
 4221|verb|verziehen, verzieht, verzog, hat verzogen|Das Kind verzog das Gesicht vor Ekel.
-4258|das|das Regime|Das Regime unterdrückte jede Form von Opposition.
-4332|der|der Trick|Mit einem einfachen Trick löste er das Problem.
 4377|das|das Format|Das Format der Datei wurde nicht unterstützt.
 4434|die|die Maske|Die Maske verdeckte ihr Gesicht vollständig.
 4442|das|das Klavier|Das Klavier stand majestätisch im Wohnzimmer.
 4446|der|der Neubau|Der Neubau des Hauses war teurer als geplant.
 4455|das|das Bündel|Das Bündel Geldscheine lag auf dem Tisch.
-4481|die|die Betreuung|Die Betreuung der Kinder war hervorragend organisiert.
-4489|das|das Center|Das neue Center bietet zahlreiche Einkaufsmöglichkeiten.
 4499|das|das Testament|Das Testament wurde beim Notar hinterlegt.
 4525|das|das Kinn|Er kratzte sich nachdenklich am Kinn.
 4615|das|das Festival|Das Festival zog tausende Besucher an.
@@ -451,160 +300,93 @@
 4653|adj|dominant|Seine dominante Art machte ihn unbeliebt.
 4732|adj|vornehm|Sie trug ein vornehmes Kleid bei der Gala.
 4740|die|die Allianz|Die Allianz der Länder stärkte den Frieden.
-4757|der|der Kämpfer|Der Kämpfer gab niemals auf, egal wie schwer der Kampf war.
 4789|das|das Segment|Das Marktsegment wurde sorgfältig analysiert.
 4838|das|das Insekt|Das Insekt summte um die Blume.
 4927|das|das Archiv|Das Archiv bewahrt wertvolle Dokumente auf.
 4994|die|die Deutung|Die Deutung des Traums fiel schwer.
-5033|adj|magisch|Der Sonnenuntergang hatte eine magische Wirkung.
 381|adj|schlecht|Das Wetter war heute wirklich schlecht.
-401|das|das Gesicht|Ein Lächeln breitete sich auf ihrem Gesicht aus.
 518|das|das Gefühl|Ein warmes Gefühl durchströmte sie.
 557|der, die|das Deutsche|Das Deutsche ist eine komplexe Sprache.
 577|der|der Kunde|Der Kunde war mit dem Service sehr zufrieden.
 580|die|die Antwort|Die Antwort auf die Frage fiel ihm schwer.
 892|der|der Hund|Der Hund bellte laut vor Freude.
-918|die|die Bildung|Die Bildung ist der Schlüssel zu einer besseren Zukunft.
 941|die|die Temperatur|Die Temperatur sank in der Nacht unter Null.
-949|die|die Analyse|Die Analyse der Daten ergab interessante Ergebnisse.
 1033|adv|weg|Er ging ohne ein Wort zu sagen einfach weg.
-1048|die|die Tabelle|Die Tabelle zeigt die aktuellen Verkaufszahlen.
 1079|adj|vorhanden|Alle notwendigen Mittel waren vorhanden.
 1082|der|der Eindruck|Der erste Eindruck war äußerst positiv.
 1123|der|der Roman|Der Roman wurde ein Bestseller.
-1143|der|der Rest|Den Rest der Arbeit erledigte er am nächsten Tag.
 1147|adj|riesig|Der riesige Baum stand majestätisch im Park.
-1196|das|das Jahrzehnt|Das vergangene Jahrzehnt brachte viele Veränderungen.
 1218|das|das Zentrum|Das Zentrum der Stadt ist immer belebt.
 1367|das|das Gericht|Das Gericht sprach ein gerechtes Urteil.
-1446|das|das Wachstum|Das Wachstum der Wirtschaft überraschte die Experten.
-1461|das|das Gehirn|Das Gehirn verarbeitet Millionen von Informationen gleichzeitig.
-1474|das|das Studium|Das Studium der Medizin erfordert viel Disziplin.
-1516|die|die Gemeinde|Die Gemeinde veranstaltete ein großes Fest.
-1539|adj|global|Die globale Erwärmung ist eine große Herausforderung.
 1546|verb|besetzen, besetzt, besetzte, hat besetzt|Die Demonstranten besetzten den Platz.
 1549|der|der Fan|Der Fan jubelte laut im Stadion.
-1565|die|die Runde|Die letzte Runde des Spiels war besonders spannend.
 1616|adj|sichtbar|Der Fortschritt war deutlich sichtbar.
 1646|adj|perfekt|Das Kleid sitzt perfekt.
 1746|die|die Umwelt|Die Umwelt leidet unter der Verschmutzung.
 1790|die|die Botschaft|Die Botschaft wurde deutlich vermittelt.
 1845|adj|massiv|Das massive Tor öffnete sich langsam.
 1909|die|die Prüfung|Die Prüfung war schwieriger als erwartet.
-1944|das|das Management|Das Management des Unternehmens steht unter Druck.
-1958|adj|westlich|Die westliche Region ist bekannt für ihre Weinberge.
 2038|der|der Unfall|Der Unfall verursachte einen langen Stau.
-2064|adj|lokal|Das lokale Geschäft bietet frische Produkte an.
-2114|adj|relevant|Die Informationen waren für die Untersuchung sehr relevant.
 2248|die|die Klausur|Die Klausur war schwer, aber machbar.
 2272|die|die Begegnung|Die Begegnung mit ihm war ein Zufall.
-2300|das|das Drama|Das Drama auf der Bühne fesselte das Publikum.
 2352|die|die Partie|Die Partie Schach dauerte mehrere Stunden.
 2384|die|die Wärme|Die Wärme der Sonne fühlte sich angenehm an.
-2422|die|die Serie|Die Serie hat Millionen von Zuschauern begeistert.
 2457|adj|friedlich|Die Demonstration verlief friedlich.
 2615|adj|sanft|Der sanfte Wind streichelte ihr Gesicht.
 2726|adj|grob|Die groben Worte verletzten ihn tief.
 2752|adj|kreativ|Ihre kreative Lösung überraschte alle.
 3013|das|das Gehalt|Das Gehalt wurde pünktlich überwiesen.
-3237|das|das Stadion|Das Stadion war bis auf den letzten Platz gefüllt.
-3310|verb|spalten, spaltet, spaltete, hat gespalten|Die Debatte spaltete die Gemeinde in zwei Lager.
-3383|das|das Quartal|Im letzten Quartal stiegen die Gewinne deutlich.
 3402|adj|dynamisch|Das Team zeigte eine dynamische Leistung.
 3438|der|der Klang|Der Klang der Glocken erfüllte die Luft.
 3465|der|der Rechner|Der Rechner stürzte mitten in der Arbeit ab.
 3548|die (pl)||Die Pflanzen auf dem Balkon blühen prächtig.
 3565|die|die Vene|Die Vene am Arm war deutlich sichtbar.
-3659|der|der Rohstoff|Der Rohstoff wurde aus dem Ausland importiert.
 3899|der|der Befund|Der Befund war leider positiv.
 3947|der|der Friedhof|Der Friedhof liegt am Rande der Stadt.
 3955|der|der Stolz|Sein Stolz verhinderte, dass er um Hilfe bat.
 3978|adj|blass|Er sah nach der Krankheit sehr blass aus.
 4086|die|die Großstadt|Die Großstadt zieht viele junge Leute an.
 4134|das|das Gewehr|Das Gewehr wurde sorgfältig gereinigt.
-4171|adj|brutal|Der Film war extrem brutal und nicht für Kinder geeignet.
 4176|der|der Spruch|Der alte Spruch hat immer noch Gültigkeit.
 4177|adj|strikt|Die Regeln wurden strikt befolgt.
 4188|der|der Container|Der Container wurde auf das Schiff geladen.
-4292|das|das Rezept|Das Rezept für den Kuchen war einfach nachzukochen.
-4383|die|die Priorität|Die Priorität lag auf der Fertigstellung des Projekts.
 4386|der|der Wettkampf|Der Wettkampf war hart, aber fair.
 4399|die|die Explosion|Die Explosion war kilometerweit zu hören.
-4417|die|die Reflexion|Die Reflexion im Spiegel war gestochen scharf.
-4461|die|die News|Die News über das Ereignis verbreiteten sich schnell.
-4547|der|der Aufsatz|Der Aufsatz für die Schule musste bis Freitag abgegeben werden.
-4552|adj|innovativ|Das Unternehmen entwickelt innovative Lösungen für moderne Probleme.
 4606|der|der Fond|Der Fond legte eine gute Performance hin.
-4691|adj|antik|Der antike Schrank war ein echtes Schmuckstück.
-4735|die|die Illusion|Die Illusion verschwand, als das Licht anging.
 4861|der|der Apparat|Der Apparat funktioniert einwandfrei.
 5037|das|das Stockwerk|Das Büro befindet sich im dritten Stockwerk.
-5056|der|der Umzug|Der Umzug in die neue Wohnung verlief reibungslos.
-5088|adj|vertikal|Die vertikale Linie trennt die beiden Hälften des Bildes.
 363|adj|leicht|Der Koffer war überraschend leicht.
-469|verb|ergeben, ergibt, ergab, hat ergeben|Die Untersuchung ergab keine neuen Erkenntnisse.
-525|die|die Zukunft|Die Zukunft der Firma sieht vielversprechend aus.
-560|verb|gelingen, gelingt, gelang, ist gelungen|Es gelang ihm, das schwierige Rätsel zu lösen.
-574|adj|positiv|Die positiven Nachrichten verbreiteten sich schnell.
 601|die|die Bank|Die Bank gewährte ihm einen Kredit.
-700|der|der Mitarbeiter|Der Mitarbeiter erhielt eine Auszeichnung für seine Arbeit.
 833|die|die Angabe|Die Angabe im Formular war nicht korrekt.
-854|der|der Künstler|Der Künstler stellte seine Werke in der Galerie aus.
-856|der|der Versuch|Der Versuch scheiterte, aber er gab nicht auf.
 870|das|das Internet|Das Internet hat die Welt verändert.
-876|adj|interessant|Das Buch ist wirklich interessant geschrieben.
 889|der|der Spieler|Der Spieler erzielte das entscheidende Tor.
 911|adj|weltweit|Das Produkt wird weltweit verkauft.
-913|der|der Beginn|Der Beginn des Films verzögerte sich um 15 Minuten.
-1026|adj|komplex|Die komplexe Gleichung stellte ihn vor eine Herausforderung.
 1136|die|die Theorie|Die Theorie wurde in der Praxis bestätigt.
 1183|die|die Behörde|Die Behörde genehmigte den Bau des Hauses.
 1205|die|die Krankheit|Die Krankheit breitete sich schnell aus.
-1311|die|die Maschine|Die Maschine läuft seit Stunden ohne Unterbrechung.
-1317|das|das Wochenende|Am Wochenende machte er eine Wanderung in den Bergen.
-1366|adj|unbekannt|Die Herkunft des seltsamen Geräuschs blieb unbekannt.
 1459|adj|bayrisch|Das bayrische Bier schmeckt besonders gut.
 1481|verb|beenden, beendet, beendete, hat beendet|Er beendete das Gespräch abrupt.
 1499|der|der Auftrag|Der Auftrag wurde pünktlich abgeschlossen.
-1541|die|die Annahme|Die Annahme war falsch, wie sich später herausstellte.
-1566|der|der Angriff|Der Angriff erfolgte überraschend aus dem Hinterhalt.
 1569|der|der Wettbewerb|Der Wettbewerb zog viele Teilnehmer an.
 1583|der|der Zugang|Der Zugang zum Gebäude war schwer bewacht.
-1666|die|die Bestimmung|Die Bestimmung des Ziels war entscheidend für den Erfolg.
 1799|die|die Gestalt|Die Gestalt im Nebel war kaum zu erkennen.
 1829|der|der Vorgang|Der Vorgang dauerte länger als erwartet.
 1843|adj|vollkommen|Die Arbeit war vollkommen fehlerfrei.
 1863|adj|zeitlich|Die zeitliche Planung war äußerst knapp.
 1938|die|die Rechnung|Die Rechnung wurde per Post zugestellt.
-2019|das|das Phänomen|Das Phänomen faszinierte Wissenschaftler weltweit.
-2078|die|die Institution|Die Institution fördert Bildung und Forschung.
-2094|adj|regional|Die regionalen Produkte sind besonders frisch.
-2123|die|die CSU (Christlich-Soziale Union)|Die CSU hat bei der letzten Wahl viele Stimmen gewonnen.
 2252|das|das Netzwerk|Das soziale Netzwerk wächst täglich weiter.
-2254|die|die Technologie|Die neue Technologie revolutioniert die Industrie.
-2302|die|die Vorschrift|Die Vorschrift muss von allen Mitarbeitern beachtet werden.
 2348|adj|gezielt|Die gezielte Aktion führte zum Erfolg.
-2502|adj|wirksam|Das Medikament war sehr wirksam gegen die Schmerzen.
 2589|adj|effektiv|Die neue Methode ist äußerst effektiv.
 2601|der|der Ast|Der Ast des Baumes brach im Sturm ab.
 2636|der|der Pass|Der Pass wurde an der Grenze kontrolliert.
 2651|verb|sperren, sperrt, sperrte, hat gesperrt|Die Straße wurde wegen Bauarbeiten gesperrt.
-2734|das|das Subjekt|Das Subjekt steht im Deutschen oft am Satzanfang.
 2845|verb|erwischen, erwischt, erwischte, hat erwischt|Der Dieb wurde auf frischer Tat erwischt.
-2849|adj|magnetisch|Das magnetische Feld beeinflusst die Kompassnadel.
 2861|das|das Finale|Das Finale des Turniers war äußerst spannend.
-2902|der|der Anhänger|Der Anhänger folgte dem Wagen durch die Stadt.
 2985|adj|senkrecht|Das Gebäude hat eine fast senkrechte Fassade.
 3045|adj|kaputt|Der Fernseher ist leider kaputt gegangen.
-3099|der|der Aufstieg|Der Aufstieg zum Gipfel dauerte mehrere Stunden.
 3121|die|die Intensität|Die Intensität des Trainings war extrem hoch.
-3153|die|die Zeitschrift|Die Zeitschrift erscheint monatlich und berichtet über Wissenschaft.
 3183|adj|problematisch|Die Situation wurde zunehmend problematisch.
-3316|der|der Supermarkt|Der Supermarkt um die Ecke hat lange Öffnungszeiten.
-3385|der|der Zettel|Er schrieb die Einkaufsliste auf einen kleinen Zettel.
-3386|die|die Abgrenzung|Die Abgrenzung des Grundstücks ist deutlich markiert.
 3400|der|der Vormittag|Der Vormittag verging wie im Flug.
-3479|die|die Herrschaft|Die Herrschaft des Königs dauerte viele Jahrzehnte.
 3525|der|der Treffer|Der Treffer im Tor entschied das Spiel.
 3534|die|die Mahlzeit|Die Mahlzeit bestand aus frischen Zutaten.
 3575|die|die Laune|Heute hat sie wirklich gute Laune.
@@ -613,22 +395,11 @@
 3775|das|das Tagebuch|Sie schreibt täglich in ihr Tagebuch.
 3820|adj|dauernd|Das dauernde Klingeln des Telefons nervte.
 3886|der|der Koch|Der Koch bereitete ein köstliches Essen zu.
-3887|der|der Stadtteil|Der Stadtteil ist für seine alten Gebäude bekannt.
-3938|die|die Gliederung|Die Gliederung des Berichts war klar strukturiert.
-3971|adj|schmutzig|Die schmutzigen Schuhe mussten draußen bleiben.
-4015|adj|symbolisch|Das Geschenk hatte einen hohen symbolischen Wert.
-4080|die|die Quote|Die Quote der erfolgreichen Abschlüsse stieg deutlich.
-4084|adj|aromatisch|Der aromatische Duft des Kaffees erfüllte den Raum.
 4135|das|das Mittelmeer|Das Mittelmeer ist ein beliebtes Reiseziel.
-4143|das|das Lebewesen|Jedes Lebewesen hat seinen Platz im Ökosystem.
-4191|die|die Mutation|Die Mutation des Virus wurde genau untersucht.
-4203|die|die Einteilung|Die Einteilung der Gruppen erfolgte nach Alter.
 4220|verb|unterteilen, unterteilt, unterteilte, hat unterteilt|Der Text wurde in drei Kapitel unterteilt.
 4257|das|das Märchen|Das Märchen erzählt von einem mutigen Helden.
-4308|adj|erreichbar|Der Kundendienst ist rund um die Uhr erreichbar.
 4331|die|die Richtlinie|Die neue Richtlinie trat sofort in Kraft.
 4409|das|das Gemisch|Das Gemisch wurde vorsichtig erhitzt.
-4510|adj|asiatisch|Das asiatische Essen ist sehr beliebt in Europa.
 4558|das|das Zeugnis|Das Zeugnis wurde ihm mit Stolz überreicht.
 4565|adj|gigantisch|Das Gebäude hatte gigantische Ausmaße.
 4571|die|die Pistole|Die Pistole lag ungeladen im Schrank.
@@ -647,228 +418,112 @@
 465|der|der Flüchtling|Der Flüchtling fand eine neue Heimat.
 477|die|die Sprache|Die deutsche Sprache ist reich an Wörtern.
 617|verb|verschwinden, verschwindet, verschwand, ist verschwunden|Die Sonne verschwand hinter den Wolken.
-736|die|die Bedingung|Die Bedingung für den Vertrag war klar definiert.
 750|die|die Wirtschaft|Die Wirtschaft erholt sich langsam.
-859|die|die Eigenschaft|Seine beste Eigenschaft ist seine Ehrlichkeit.
-904|adj|amerikanisch|Die amerikanische Kultur ist weltweit einflussreich.
-985|der|der Abschnitt|Der nächste Abschnitt des Buches ist besonders spannend.
 1021|das|das Institut|Das Institut forscht an neuen Technologien.
 1069|der|der Sprecher|Der Sprecher der Firma machte eine Erklärung.
-1073|der|der Trainer|Der Trainer motivierte das Team vor dem Spiel.
-1139|das|das Ereignis|Das Ereignis wurde von vielen Menschen verfolgt.
-1201|das|das Merkmal|Das wichtigste Merkmal der Art ist ihr Gefieder.
 1202|adj|theoretisch|Theoretisch ist das Experiment erfolgreich.
 1320|der|der Forscher|Der Forscher entdeckte eine neue Spezies.
-1394|der|der Tourist|Der Tourist fotografierte die Sehenswürdigkeiten.
 1590|die|die Tatsache|Die Tatsache wurde lange ignoriert.
-1607|das|das Krankenhaus|Das Krankenhaus befindet sich in der Innenstadt.
 1651|das|das Instrument|Das Instrument war neu und glänzte im Licht.
 1684|adj|wunderbar|Der Abend war einfach wunderbar.
-1696|der|der Umgang|Der Umgang mit schwierigen Kunden erfordert Geduld.
 1792|der|der Umsatz|Der Umsatz stieg im letzten Quartal stark an.
 1801|verb|ablaufen, läuft ab, lief ab, hat abgelaufen|Der Vertrag läuft Ende des Jahres ab.
 1850|die|die Konkurrenz|Die Konkurrenz war hart, aber fair.
 1861|der|der Geburtstag|Sein Geburtstag wurde groß gefeiert.
-1884|das|das Restaurant|Das Restaurant war bis auf den letzten Platz besetzt.
 1962|adj|optimal|Das Ergebnis war optimal für uns.
 1976|adj|empirisch|Die Studie basiert auf empirischen Daten.
 1987|adj|parallel|Die Straßen verlaufen parallel zueinander.
 1991|das|das Wunder|Das Wunder von Bern bleibt unvergessen.
 1999|die|die Physik|Die Physik erklärt viele Naturphänomene.
-2000|die|die Erkrankung|Die Erkrankung ist schwerwiegend, aber behandelbar.
-2059|die|die Religion|Die Religion spielt in vielen Kulturen eine wichtige Rolle.
 2095|adj|strategisch|Die Entscheidung war strategisch klug.
 2103|das|das Kino|Das Kino zeigt heute einen neuen Film.
 2134|der|der Käufer|Der Käufer verhandelte über den Preis.
 2167|das|das Bewusstsein|Das Bewusstsein für Nachhaltigkeit wächst.
-2212|der|der Gebrauch|Der Gebrauch von Smartphones ist weit verbreitet.
 2332|adj|ordentlich|Das Zimmer war ordentlich aufgeräumt.
 2510|adj|indirekt|Er äußerte seine Kritik nur indirekt.
-2516|die|die Schwingung|Die Schwingung der Saite erzeugte einen klaren Ton.
 2537|das|das Geheimnis|Das Geheimnis wurde endlich gelüftet.
 2539|adj|dramatisch|Die dramatische Wendung überraschte alle.
 2571|der|der Ablauf|Der Ablauf des Tages war gut organisiert.
-2630|adj|unklar|Die Anweisungen waren leider unklar formuliert.
-2713|adj|vielfach|Die vielfachen Wiederholungen halfen beim Lernen.
 2737|der|der Schatz|Der Schatz lag tief verborgen unter der Erde.
 2808|das|das Virus|Das Virus verbreitet sich schnell.
-2899|der|der Konkurrent|Der Konkurrent war stark, aber nicht unschlagbar.
-2901|die|die Wellenlänge|Die Wellenlänge des Lichts bestimmt seine Farbe.
-2907|die|die Plattform|Die Plattform bietet viele nützliche Funktionen.
 2918|der|der Fernseher|Der Fernseher zeigt das Spiel in HD-Qualität.
-2959|der|der Arbeitgeber|Der Arbeitgeber bot ihm eine Gehaltserhöhung an.
 2989|das|das Turnier|Das Turnier war international gut besucht.
-3002|der|der Vordergrund|Im Vordergrund des Bildes stehen die Menschen.
-3061|die|die Autobahn|Die Autobahn war wegen eines Unfalls gesperrt.
 3089|die|die Abstimmung|Die Abstimmung ergab eine klare Mehrheit.
 3271|adj|furchtbar|Das Wetter war furchtbar schlecht.
 3327|das|das Dokument|Das Dokument wurde sicher aufbewahrt.
 3348|der|der Wechselkurs|Der Wechselkurs ist derzeit sehr günstig.
 3393|der|der Sachverhalt|Der Sachverhalt wurde gründlich untersucht.
-3418|adj|harmonisch|Die Farben der Einrichtung wirkten harmonisch.
 3487|der|der Blutdruck|Der Arzt kontrollierte seinen Blutdruck.
 3577|die|die Toilette|Die Toilette war frisch geputzt.
-3578|das|das Unglück|Das Unglück ereignete sich mitten in der Nacht.
 3612|adj|starr|Sein Blick war starr auf das Ziel gerichtet.
-3638|die|die Muskulatur|Die Muskulatur wurde durch das Training gestärkt.
 3687|adj|variabel|Die Einstellungen sind variabel anpassbar.
 3707|adj|gefangen|Das Tier wurde in der Falle gefangen.
-3777|adj|elementar|Elementare Kenntnisse sind Voraussetzung für den Kurs.
-3808|die|die Addition|Die Addition der Zahlen ergab ein unerwartetes Ergebnis.
-3823|die|die Haftung|Die Haftung bei Unfällen ist gesetzlich geregelt.
-3850|das|das Attribut|Das Attribut im Satz beschreibt das Substantiv näher.
-3852|die|die Diagnose|Die Diagnose der Krankheit war schwer zu stellen.
 3890|die|die Zunahme|Die Zunahme der Fälle beunruhigt die Ärzte.
 3905|verb|blockieren, blockiert, blockierte, hat blockiert|Die Demonstranten blockierten die Straße.
-3916|der|der Kühlschrank|Der Kühlschrank war leer und musste aufgefüllt werden.
-3968|das|das Magnetfeld|Das Magnetfeld der Erde schützt uns vor Strahlung.
 4008|adj|seitlich|Das Auto wurde seitlich beschädigt.
-4030|adj|geometrisch|Die geometrischen Formen im Bild waren faszinierend.
-4044|adj|partiell|Die partiellen Ergebnisse reichen für eine Entscheidung nicht aus.
 4051|verb|vernetzen, vernetzt, vernetzte, hat vernetzt|Die Computer wurden miteinander vernetzt.
-4095|die|die Erfindung|Die Erfindung des Telefons veränderte die Welt.
-4263|der|der Operator|Der Operator überwachte die Maschinen rund um die Uhr.
 4303|adj|sinnlos|Die Diskussion war völlig sinnlos.
-4313|die|die Rotation|Die Rotation der Erde verursacht den Tag-Nacht-Rhythmus.
-4317|der|der Darm|Der Darm spielt eine wichtige Rolle bei der Verdauung.
-4389|adj|horizontal|Die horizontale Linie trennt die beiden Bereiche.
-4398|die|die Epoche|Die Renaissance war eine bedeutende Epoche der Kunstgeschichte.
 4416|adj|quadratisch|Der Tisch hat eine quadratische Form.
-4443|adj|kommunal|Die kommunalen Wahlen finden nächsten Monat statt.
 4546|verb|zerbrechen, zerbricht, zerbrach, hat zerbrochen|Das Glas zerbrach, als es auf den Boden fiel.
-4587|adj|empfindlich|Die Haut ist besonders empfindlich gegenüber Sonnenlicht.
-4677|der|der Klimawandel|Der Klimawandel ist eine der größten Herausforderungen unserer Zeit.
 4748|das|das Motorrad|Er fuhr mit dem Motorrad quer durch Europa.
-4775|die|die Jagd|Die Jagd auf wilde Tiere ist in vielen Ländern verboten.
 4794|adj|beweglich|Der Gymnast war außergewöhnlich beweglich.
-4796|adj|fraglich|Es ist fraglich, ob das Projekt erfolgreich sein wird.
-4798|der|der Moderator|Der Moderator führte charmant durch die Sendung.
-4907|der|der Fund|Der Fund alter Münzen begeisterte die Archäologen.
-4917|die|die Anatomie|Die Anatomie des Menschen wurde detailliert erklärt.
-4945|der|der Anhang|Der Anhang der E-Mail enthält wichtige Dokumente.
-4962|der|der Syrer|Der Syrer fand in Deutschland ein neues Zuhause.
 5029|verb|einstufen, stuft ein, stufte ein, hat eingestuft|Das Risiko wurde als hoch eingestuft.
-5110|die|die Zivilisation|Die Zivilisation entwickelte sich über Jahrtausende hinweg.
 326|die|die Stunde|Die Stunde verging wie im Flug.
 404|pron|mehrere|Mehrere Personen meldeten sich freiwillig.
-543|die|die Chemie|Die Chemie zwischen den beiden stimmte sofort.
-549|das|das Jahrhundert|Das 21. Jahrhundert bringt viele technologische Fortschritte.
-841|die|die Sicherheit|Die Sicherheit der Passagiere hat oberste Priorität.
 1051|der|der Hinweis|Der Hinweis führte zur Lösung des Rätsels.
 1108|der|der Beruf|Sein Beruf ist anspruchsvoll, aber erfüllend.
-1141|adj|organisch|Der Salat wird aus organisch angebauten Zutaten hergestellt.
-1242|adj|eindeutig|Die Antwort auf die Frage war eindeutig richtig.
-1332|die|die Anwendung|Die Anwendung der neuen Technik brachte Erfolg.
-1379|die|die Statistik|Die Statistik zeigt einen deutlichen Anstieg der Zahlen.
-1407|die|die Ursache|Die Ursache des Problems wurde schnell gefunden.
-1420|adj|intensiv|Das intensive Training führte zu schnellen Fortschritten.
-1472|die|die Wirklichkeit|Die Wirklichkeit sieht oft anders aus als die Erwartungen.
 1547|das|das Gegenteil|Das Gegenteil von „heiß“ ist „kalt“.
-1634|adj|traditionell|Das Fest wird traditionell jedes Jahr gefeiert.
-1708|das|das Kriterium|Das wichtigste Kriterium für die Auswahl war die Qualität.
-1718|die|die Mathematik|Die Mathematik ist die Grundlage vieler Wissenschaften.
-1734|adj|freiwillig|Er engagierte sich freiwillig für die gemeinnützige Arbeit.
-1755|die|die Komponente|Jede Komponente des Geräts muss einwandfrei funktionieren.
-1946|die|die Erwartung|Die Erwartungen an das neue Produkt waren hoch.
 1982|die|die Umsetzung|Die Umsetzung des Plans verlief reibungslos.
-2013|der|der Knochen|Der Knochenbruch heilte schneller als erwartet.
-2015|die|die Gegenwart|In der Gegenwart gibt es viele Herausforderungen.
-2029|der|der Start|Der Start des Rennens verzögerte sich um eine Stunde.
 2122|die|die Verletzung|Die Verletzung am Knie heilte langsam.
-2209|die|die Beobachtung|Die genaue Beobachtung führte zu neuen Erkenntnissen.
 2223|die|die Nutzung|Die Nutzung von Solarenergie nimmt zu.
 2253|adj|systematisch|Er ging das Problem systematisch an.
 2258|der|der Manager|Der Manager traf eine wichtige Entscheidung.
 2261|die|die Operation|Die Operation verlief ohne Komplikationen.
 2262|die|die Probe|Die Probe wurde ins Labor geschickt.
-2265|adj|nachhaltig|Nachhaltige Lösungen sind für die Zukunft unerlässlich.
-2323|das|das Kapital|Das Unternehmen benötigte zusätzliches Kapital.
-2419|der|der Geruch|Der Geruch von frischem Brot erfüllte den Raum.
-2496|der|der Erzähler|Der Erzähler führte die Zuhörer durch die Geschichte.
-2511|der|der Zeitraum|Der Zeitraum für die Anmeldung endet nächste Woche.
 2547|das|das Seminar|Das Seminar fand in einem großen Saal statt.
 2579|adj|dauerhaft|Eine dauerhafte Lösung muss gefunden werden.
-2674|adj|christlich|Die christlichen Werte sind in der Gesellschaft fest verankert.
 2677|die|die Leiche|Die Leiche wurde im Wald gefunden.
-2715|die|die Ernährung|Eine gesunde Ernährung ist wichtig für das Wohlbefinden.
 2838|der|der Parameter|Der Parameter wurde korrekt eingestellt.
-2855|das|das Medium|Das Medium Internet bietet viele Möglichkeiten.
 2900|die|die Party|Die Party dauerte bis spät in die Nacht.
 2993|adj|flexibel|Der Arbeitsplan ist flexibel gestaltbar.
-3056|adj|divers|Die Gruppe war sehr divers in ihrer Zusammensetzung.
 3087|adj|permanent|Die permanente Belastung führte zu Stress.
 3157|die|die These|Die These wurde ausführlich diskutiert.
-3192|das|das Stichwort|Er sprach über das Stichwort, das ihm genannt wurde.
 3232|das|das Verbrechen|Das Verbrechen wurde schnell aufgeklärt.
-3246|der|der Großteil|Der Großteil der Arbeit wurde bereits erledigt.
 3340|die|die Arterie|Die Arterie versorgt das Herz mit Blut.
-3471|der|der Kindergarten|Der Kindergarten bietet den Kindern viel Platz zum Spielen.
-3513|die|die Erziehung|Die Erziehung der Kinder liegt den Eltern am Herzen.
-3571|das|das Smartphone|Das Smartphone ist aus unserem Alltag nicht mehr wegzudenken.
 3608|verb|freisetzen, setzt frei, setzte frei, hat freigesetzt|Die Reaktion setzt Energie frei.
-3683|die|die Auflösung|Die Auflösung des Bildes war gestochen scharf.
 3792|der|der Bruch|Der Bruch im Knochen heilte langsam.
 3880|die|die Feuerwehr|Die Feuerwehr löschte den Brand schnell.
 3893|das|das Eigentum|Das Haus ist ihr persönliches Eigentum.
-3933|der|der Protagonist|Der Protagonist des Romans war eine starke Persönlichkeit.
-3939|die|die Kartoffel|Die Kartoffel ist ein Grundnahrungsmittel in vielen Ländern.
-3948|adj|materiell|Die materielle Sicherheit ist für viele Menschen wichtig.
-4097|das|das Immunsystem|Das Immunsystem schützt den Körper vor Krankheiten.
 4108|das|das Manuskript|Das Manuskript des Buches war endlich fertig.
-4194|die|die Vermutung|Die Vermutung stellte sich als richtig heraus.
 4227|die|die Bitte|Die Bitte um Hilfe wurde sofort erfüllt.
-4259|der|der Schädel|Der Schädel wurde bei den Ausgrabungen entdeckt.
 4316|der|der Anleger|Der Anleger investierte sein Geld klug.
 4466|der|der Sturz|Der Sturz vom Fahrrad verlief glimpflich.
-4488|der|der Verteidiger|Der Verteidiger des Angeklagten sprach leidenschaftlich.
-4500|die|die Algebra|Die Algebra ist ein wichtiger Bereich der Mathematik.
 4509|die|die Zuordnung|Die Zuordnung der Aufgaben war klar geregelt.
 4538|der|der Jäger|Der Jäger pirschte sich lautlos an.
 4540|der|der Kongress|Der Kongress fand in Berlin statt.
 4555|adj|ungeheuer|Die Aufgabe war ungeheuer schwierig.
-4566|die|die Nervenzelle|Die Nervenzelle leitet elektrische Impulse weiter.
 4634|die|die Schokolade|Die Schokolade schmolz in der Sonne.
-4756|das|das Gutachten|Das Gutachten wurde von einem Experten erstellt.
 4772|die|die Rezeption|Die Rezeption war rund um die Uhr besetzt.
-4783|adj|ethisch|Die ethischen Bedenken wurden ausführlich diskutiert.
 4940|verb|ergehen, ergeht, erging, hat ergangen|Der Befehl erging an alle Soldaten.
 4966|verb|erlassen, erlässt, erließ, hat erlassen|Das neue Gesetz wurde gestern erlassen.
-5042|das|das Elektroauto|Das Elektroauto ist eine umweltfreundliche Alternative.
 5046|der|der Tatort|Der Tatort wurde von der Polizei abgesperrt.
-318|die|die Abbildung|Die Abbildung im Buch zeigte die Anatomie des Menschen.
-402|die|die Entwicklung|Die Entwicklung neuer Technologien schreitet schnell voran.
-521|die|die Information|Die Information über den Vorfall wurde schnell verbreitet.
-597|die|die Politik|Die Politik beeinflusst das tägliche Leben erheblich.
 733|die|die Zeitung|Die Zeitung berichtete über das Ereignis.
-969|adj|historisch|Der historische Moment wurde für immer festgehalten.
-1150|das|das Museum|Das Museum beherbergt viele wertvolle Kunstwerke.
 1198|adj|unmittelbar|Die Auswirkungen waren unmittelbar spürbar.
-1248|die|die Ausbildung|Die Ausbildung zum Ingenieur dauert mehrere Jahre.
-1402|die|die Änderung|Die Änderung des Plans wurde einstimmig beschlossen.
 1404|die|die Erkenntnis|Die Erkenntnis kam nach langer Forschung.
 1419|adj|individuell|Das Training wurde individuell angepasst.
-1477|die|die Demokratie|Die Demokratie ist die Grundlage unserer Gesellschaft.
 1528|adj|umgekehrt|Die Reihenfolge war genau umgekehrt.
-1587|verb|festlegen, legt fest, legte fest, hat festgelegt|Der Termin wurde auf nächste Woche festgelegt.
-1670|adj|statistisch|Die statistischen Daten zeigen einen klaren Trend.
 1866|adj|elektronisch|Die elektronische Musik füllte den Raum.
 1933|die|die Gesundheit|Die Gesundheit ist das wichtigste Gut.
 2004|die|die Veranstaltung|Die Veranstaltung war gut besucht.
 2017|die|die Aminosäure|Die Aminosäure ist essenziell für den Körper.
 2044|das|das Schicksal|Das Schicksal führte sie wieder zusammen.
-2144|der|der Hersteller|Der Hersteller garantierte die Qualität des Produkts.
 2333|verb|stoppen, stoppt, stoppte, hat gestoppt|Der Zug wurde in letzter Minute gestoppt.
 2386|die|die Gemeinschaft|Die Gemeinschaft arbeitete eng zusammen.
-2418|die|die Existenz|Die Existenz des Unternehmens stand auf dem Spiel.
-2463|der|der Organismus|Der menschliche Organismus ist äußerst komplex.
-2521|die|die Gewerkschaft|Die Gewerkschaft verhandelte erfolgreich höhere Löhne.
 2595|adj|radikal|Er forderte radikale Veränderungen.
 2620|der|der Arbeitnehmer|Der Arbeitnehmer beantragte Urlaub.
 2768|verb|einschlafen, schläft ein, schlief ein, ist eingeschlafen|Das Kind schlief nach einer Weile ein.
 3005|der|der Wahlkampf|Der Wahlkampf war hart umkämpft.
 3050|verb|ausgleichen, gleicht aus, glich aus, hat ausgeglichen|Das Team glich in letzter Minute aus.
-3081|adj|analytisch|Die analytischen Fähigkeiten des Wissenschaftlers waren bemerkenswert.
-3107|das|das Skript|Das Skript für den Film war hervorragend geschrieben.
 3128|die|die Auffassung|Ihre Auffassung war völlig anders als meine.
 3166|die|die Anfrage|Die Anfrage wurde sofort beantwortet.
 3208|die|die Ausführung|Die Ausführung war einfach perfekt.
@@ -888,7 +543,6 @@
 4248|adj|philosophisch|Er stellte eine philosophische Frage.
 4289|adj|geschickt|Sie löste das Problem geschickt.
 4347|verb|inszenieren, inszeniert, inszenierte, hat inszeniert|Der Regisseur inszenierte das Stück neu.
-4423|die|die Ausrichtung|Die Ausrichtung des Unternehmens änderte sich.
 4498|das|das Substantiv|Das Substantiv ist im Deutschen wichtig.
 4643|der|der Bürgerkrieg|Der Bürgerkrieg dauerte jahrelang.
 4867|die|die Spekulation|Die Spekulation erwies sich als wahr.
@@ -960,29 +614,19 @@
 3726|verb|vernichten, vernichtet, vernichtete, hat vernichtet|Das Feuer vernichtete alles.
 4052|num|vierzehn|Vierzehn Bücher liegen auf dem Tisch.
 4165|die|die Moderne|Die Moderne beeinflusst die Kunst stark.
-4192|adj|sozialistisch|Die sozialistische Bewegung gewann an Bedeutung.
 4278|das|das Nervensystem|Das Nervensystem reagiert auf Stress.
-4290|adj|mittelalterlich|Das Schloss hat einen mittelalterlichen Charme.
-4295|adj|anorganisch|Anorganische Chemie ist ein wichtiges Studienfach.
 4334|verb|abschaffen, schafft ab, schaffte ab, hat abgeschafft|Die Regierung will das Gesetz abschaffen.
 4453|die|die Bemühung|Trotz aller Bemühungen blieb der Erfolg aus.
 4569|die|die Feststellung|Die Feststellung kam überraschend.
 4599|der|der Transfer|Der Transfer verlief reibungslos.
 4665|adj|hinreichend|Die Beweise waren hinreichend.
-4681|der|der Stoffwechsel|Der Stoffwechsel beschleunigt sich beim Sport.
 4696|die|die Verbindlichkeit|Ihre Worte hatten große Verbindlichkeit.
 1270|die|die Vergangenheit|Die Vergangenheit holte ihn wieder ein.
-1538|die|die Wissenschaft|Die Wissenschaft hat enorme Fortschritte gemacht.
-1643|die|die Kategorie|Das Buch fällt in die Kategorie Science-Fiction.
 1750|die|die Tätigkeit|Ihre Tätigkeit als Lehrerin macht ihr Spaß.
 1895|die|die Karriere|Seine Karriere verlief steil nach oben.
-1949|der|der Weltkrieg|Der Zweite Weltkrieg veränderte die Welt nachhaltig.
-2048|adj|durchschnittlich|Die Temperaturen sind durchschnittlich gestiegen.
 2177|die|die Arbeitslosigkeit|Die Arbeitslosigkeit nahm drastisch zu.
 2500|adj|biologisch|Biologisch abbaubare Produkte sind im Trend.
-2565|die|die Verbesserung|Die Verbesserung der Bedingungen war dringend nötig.
 2575|adj|identisch|Die Zwillinge sehen fast identisch aus.
-2605|der|der Wähler|Der Wähler entschied sich für den neuen Kandidaten.
 2611|die|die Überraschung|Die Überraschung war perfekt gelungen.
 2882|der|der Widerspruch|Sein Widerspruch war klar formuliert.
 3371|verb|einleiten, leitet ein, leitete ein, hat eingeleitet|Die Regierung wird die Reform einleiten.
@@ -998,13 +642,11 @@
 4222|die|die Bestellung|Die Bestellung wurde pünktlich geliefert.
 4370|die|die Überprüfung|Die Überprüfung der Daten dauerte lange.
 4395|der|der Bewerber|Der Bewerber überzeugte im Gespräch.
-4530|die|die Versuchsperson|Die Versuchspersonen wurden sorgfältig ausgewählt.
 4639|die|die Verstärkung|Die Verstärkung traf rechtzeitig ein.
 4695|adj|konstruktiv|Das Meeting verlief sehr konstruktiv.
 4708|das|das Studio|Das Studio wurde neu renoviert.
 4781|die|die Auszeichnung|Die Auszeichnung ging an die beste Schülerin.
 4904|der|der Begleiter|Der Begleiter blieb immer in ihrer Nähe.
-5074|die|die Befreiung|Die Befreiung der Geiseln verlief erfolgreich.
 1037|der|der Vertrag|Der Vertrag wurde gestern unterzeichnet.
 1271|das|das Gleichgewicht|Das Gleichgewicht ist leicht zu stören.
 1777|das|das Experiment|Das Experiment verlief wie geplant.
@@ -1012,17 +654,13 @@
 1870|adj|demokratisch|Das Land hat ein demokratisches System.
 1952|die|die Behandlung|Die Behandlung schlug sofort an.
 1971|die|die Stärke|Seine Stärke liegt in der Ruhe.
-2569|die|die Landwirtschaft|Die Landwirtschaft spielt eine wichtige Rolle.
 2661|adj|kontinuierlich|Der Druck nahm kontinuierlich zu.
-2741|der, die|die Angestellte|Die Angestellten forderten bessere Arbeitsbedingungen.
 2769|die|die Flüchtlingskrise|Die Flüchtlingskrise spaltet die Nation.
 2818|adj|experimentell|Die experimentelle Methode führte zum Erfolg.
 2966|die|die Angelegenheit|Diese Angelegenheit muss geklärt werden.
 3100|pron|keinerlei|Es gab keinerlei Probleme.
 3390|die|die Unterscheidung|Die Unterscheidung fiel ihm schwer.
-3509|die|die Durchführung|Die Durchführung des Plans verlief reibungslos.
 3780|das|das Versprechen|Er hielt sein Versprechen.
-4229|adj|elektromagnetisch|Elektromagnetische Felder beeinflussen Geräte.
 4241|adj|prominent|Ein prominenter Gast besuchte das Event.
 4345|die|die Erhebung|Die Erhebung der Daten dauerte Wochen.
 4553|adj|kollektiv|Die Entscheidung wurde kollektiv getroffen.
@@ -1031,7 +669,6 @@
 5097|die|die Offenheit|Offenheit ist in einer Beziehung wichtig.
 1238|adj|physikalisch|Physikalische Gesetze gelten überall.
 1343|die|die Technik|Die Technik wurde ständig verbessert.
-1411|die|die Forschung|Die Forschung an diesem Projekt schreitet voran.
 1678|die|die Ausstellung|Die Ausstellung war gut besucht.
 2388|der|der Unternehmer|Der Unternehmer investierte in neue Projekte.
 2568|die|die Innovation|Innovation treibt den Fortschritt an.
@@ -1042,32 +679,21 @@
 3333|die|die Demonstration|Die Demonstration verlief friedlich.
 4124|die|die Sicherung|Die Sicherung der Daten hat Priorität.
 4160|die|die Differenzierung|Die Differenzierung ist manchmal schwierig.
-4609|adj|rational|Rationales Denken hilft in schwierigen Situationen.
 4688|die|die Tageszeitung|Die Tageszeitung berichtete ausführlich.
 1681|der|der Bürgermeister|Der Bürgermeister eröffnete das Fest.
 2484|adj|vergleichbar|Die Ergebnisse sind kaum vergleichbar.
-2563|der|der Gesellschafter|Der Gesellschafter zog sich aus dem Geschäft zurück.
-3052|die|die Vereinbarung|Die Vereinbarung wurde schriftlich festgehalten.
 3088|das|das Abkommen|Das Abkommen wurde feierlich unterzeichnet.
-3353|die|die Veröffentlichung|Die Veröffentlichung der Studie erregte großes Aufsehen.
 4099|die|die Pressekonferenz|Die Pressekonferenz war gut besucht.
 4245|die|die Genehmigung|Die Genehmigung wurde endlich erteilt.
 4403|adj|nachvollziehbar|Die Erklärung war gut nachvollziehbar.
-4581|adj|organisatorisch|Organisatorische Herausforderungen wurden gemeistert.
-5011|die|die Fluggesellschaft|Die Fluggesellschaft bietet günstige Tarife an.
 400|adj|unterschiedlich|Die Meinungen gingen stark auseinander.
 1543|die|die Öffentlichkeit|Die Öffentlichkeit reagierte empört.
 1923|die|die Auseinandersetzung|Die Auseinandersetzung endete friedlich.
-4769|die|die Energiewirtschaft|Die Energiewirtschaft steht vor großen Herausforderungen.
 5079|das|das Grundeinkommen|Das Grundeinkommen wird heiß diskutiert.
 2453|der, die|die Erwachsene|Die Erwachsenen hatten viel Spaß.
 2934|die|die Persönlichkeit|Ihre Persönlichkeit beeindruckte alle.
-2965|das|das Wirtschaftsforum|Das Wirtschaftsforum brachte neue Ideen hervor.
 2984|die|die Intelligenz|Intelligenz allein reicht nicht aus.
-4689|adj|technologisch|Technologische Fortschritte prägen die Zukunft.
 4694|adj|gesundheitlich|Gesundheitliche Probleme wurden früh erkannt.
-4518|die|die Wiedervereinigung|Die Wiedervereinigung brachte große Veränderungen.
-2842|adj|interkulturell|Interkulturelle Kompetenzen sind heute wichtig.
 226|das|das Ende|Das Ende des Films überraschte alle.
 359|die|die Form|Die Form passt perfekt zu der Schale.
 488|der|der Satz|Der Satz beginnt mit einem starken Wort.
@@ -1265,7 +891,6 @@
 3113|die|die Abweichung|Die Abweichung führt zu Fehlern.
 3428|der|der Zinssatz|Der Zinssatz erhöht sich jährlich.
 3677|die|die Relation|Die Relation zwischen den Werten passt.
-3767|die|die Beurteilung|Die Beurteilung erfolgt nach klaren Kriterien.
 3921|der|der Empfang|Der Empfang verläuft reibungslos.
 4328|die|die Lektüre|Die Lektüre fesselt den Leser.
 4669|adv|nebenan|Er wohnt direkt nebenan.
@@ -1314,15 +939,11 @@
 3036|die|die Stabilität|Die Stabilität gewährleistet Sicherheit.
 3134|der|der Ursprung|Der Ursprung des Flusses liegt im Gebirge.
 3359|der|der Eingriff|Der Eingriff verlief ohne Komplikationen.
-3410|die|die Notwendigkeit|Die Notwendigkeit einer Entscheidung wurde deutlich.
 3510|der|der Humor|Der Humor lockerte die Stimmung.
-3544|die|die Auskunft|Die Auskunft gab ihm die nötigen Informationen.
-3593|adj|anstrengend|Die Arbeit verlief anstrengend, aber erfolgreich.
 3604|die|die Unterkunft|Die Unterkunft liegt direkt am See.
 3656|die|die Kapazität|Die Kapazität reicht für alle Gäste aus.
 3765|adj|vergeblich|Er versuchte es vergeblich noch einmal.
 3794|die|die Erweiterung|Die Erweiterung des Gebäudes beginnt morgen.
-3869|der|der Vorgänger|Der Vorgänger hinterließ viele nützliche Hinweise.
 3956|adj|sympathisch|Er wirkte sofort sympathisch auf alle.
 4026|adj|anspruchsvoll|Die Aufgabe gestaltete sich anspruchsvoll.
 4090|adj|thermisch|Das Material reagiert thermisch auf Hitze.
@@ -1330,32 +951,24 @@
 4235|der|der Niederschlag|Der Niederschlag fiel in großen Mengen.
 4329|adj|motorisch|Die Bewegung fiel ihm motorisch schwer.
 4438|verb|zerreißen, zerreißt, zerriss, hat zerrissen|Er zerreißt das alte Foto in zwei Hälften.
-4474|der|der Katalysator|Der Katalysator sorgt für eine saubere Verbrennung.
 4511|die|die Biografie|Die Biografie beschreibt sein bewegtes Leben.
 4522|adj|elastisch|Das Band dehnte sich elastisch aus.
 4650|die|die Behauptung|Die Behauptung löste eine Debatte aus.
-4872|die|die Verteidigung|Die Verteidigung verteidigte ihre Position erfolgreich.
 4893|die|die Einzelheit|Die Einzelheit entging ihm nicht.
 4993|adj|ausgezeichnet|Der Film wurde ausgezeichnet aufgenommen.
 4995|der|der Einstieg|Der Einstieg gelang ihm ohne Probleme.
-5049|der|der Ausschnitt|Der Ausschnitt zeigte nur einen Teil des Bildes.
 1352|der|der Umstand|Der Umstand verhinderte den Erfolg.
-1445|der|der Besucher|Der Besucher betrat das Museum früh am Morgen.
-1753|der|der Arbeitsplatz|Der Arbeitsplatz bietet viel Raum zur Entfaltung.
 1838|adj|kurzfristig|Die Entscheidung wurde kurzfristig getroffen.
 1902|die|die Auswirkung|Die Auswirkung war sofort spürbar.
-1950|adj|kompliziert|Die Situation wurde kompliziert durch neue Regeln.
 1977|die|die Kombination|Die Kombination der Farben war gelungen.
 2099|die|die Übersetzung|Die Übersetzung des Textes ist gelungen.
 2139|die|die Bezeichnung|Die Bezeichnung war ihm neu.
 2307|die|die Förderung|Die Förderung wurde genehmigt.
 2347|das|das Vorjahr|Das Vorjahr brachte gute Ergebnisse.
 2434|das|das Konzert|Das Konzert endete mit großem Applaus.
-2480|die|die Überzeugung|Die Überzeugung führte zu einem klaren Ergebnis.
 2507|die|die Atmosphäre|Die Atmosphäre war angespannt.
 2525|adj|einheimisch|Er bevorzugt einheimische Produkte.
 2624|das|das Personal|Das Personal arbeitete effizient.
-2647|der|der Austausch|Der Austausch fand in einer freundlichen Atmosphäre statt.
 2785|die|die Herkunft|Die Herkunft des Produkts bleibt unklar.
 2787|die|die Katastrophe|Die Katastrophe verursachte großen Schaden.
 2801|die|die Bundesliga|Die Bundesliga startet im August.
@@ -1364,31 +977,24 @@
 2973|der|der Vortrag|Der Vortrag fesselte das Publikum.
 3076|die|die Freundschaft|Die Freundschaft hielt ein Leben lang.
 3240|der|der Anblick|Der Anblick überraschte alle Anwesenden.
-3541|das|das Praktikum|Das Praktikum bereitete ihn gut auf den Beruf vor.
 3559|die|die Erscheinung|Die Erscheinung wirkte mysteriös.
-3679|die|die Steigerung|Die Steigerung der Produktion lief reibungslos.
 3680|der|der Vorfall|Der Vorfall wurde gründlich untersucht.
 3689|die|die Akademie|Die Akademie bildet Künstler aus.
-3723|das|das Protokoll|Das Protokoll fasste alle wichtigen Punkte zusammen.
 3744|die|die Ausprägung|Die Ausprägung des Talents zeigte sich früh.
 3981|die|die Mission|Die Mission endete erfolgreich.
 4167|die|die Nachbarschaft|Die Nachbarschaft half sich gegenseitig.
 4266|die|die Unterhaltung|Die Unterhaltung verlief angeregt.
 4305|der|der Algorithmus|Der Algorithmus löst das Problem effizient.
-4326|adj|intellektuell|Das Gespräch verlief intellektuell anspruchsvoll.
 4391|adj|kriminell|Er verhielt sich kriminell und wurde gefasst.
 4421|die|die Anmerkung|Die Anmerkung brachte neue Erkenntnisse.
 4448|die|die Schau|Die Schau zog viele Besucher an.
-4652|der|der Diskurs|Der Diskurs brachte interessante Aspekte hervor.
 4655|die|die Kreativität|Die Kreativität fördert neue Ideen.
-4770|das|das Halbfinale|Das Halbfinale entschied sich im Elfmeterschießen.
 4881|die|die Korrektur|Die Korrektur verbesserte den Text deutlich.
 4890|die|die Altstadt|Die Altstadt ist immer einen Besuch wert.
 4982|die|die Größenordnung|Die Größenordnung beeindruckte alle.
 5006|die|die Vorgehensweise|Die Vorgehensweise wurde klar erklärt.
 981|die|die Literatur|Die Literatur begeistert viele Leser.
 999|das|das Interview|Das Interview verlief sehr gut.
-1307|die|die Geschwindigkeit|Die Geschwindigkeit des Autos beeindruckte alle.
 1661|die|die Konsequenz|Die Konsequenz war unvermeidlich.
 1717|der|der Fortschritt|Der Fortschritt war deutlich sichtbar.
 1795|die|die Regelung|Die Regelung wurde pünktlich umgesetzt.
@@ -1405,10 +1011,8 @@
 2747|die|die Begründung|Die Begründung überzeugte niemanden.
 2791|das|das Erlebnis|Das Erlebnis bleibt unvergessen.
 2815|adj|ironisch|Er antwortete ironisch auf die Frage.
-2896|adj|umfangreich|Die Bibliothek bietet ein umfangreiches Sortiment.
 2937|die|die Einschätzung|Die Einschätzung erwies sich als zutreffend.
 3104|der|der Gastgeber|Der Gastgeber empfing die Gäste herzlich.
-3202|die|die Leidenschaft|Die Leidenschaft für Musik führte ihn zum Erfolg.
 4060|die|die Kampagne|Die Kampagne lief besser als erwartet.
 4085|der|der Grenzwert|Der Grenzwert wurde überschritten.
 4093|die|die Beschleunigung|Die Beschleunigung setzte abrupt ein.
@@ -1416,7 +1020,6 @@
 4342|die|die Mechanik|Die Mechanik funktionierte reibungslos.
 4603|die|die Annäherung|Die Annäherung verlief friedlich.
 4777|der|der Spaziergang|Der Spaziergang durch den Park war erholsam.
-4784|die|die Fusion|Die Fusion der Unternehmen verlief erfolgreich.
 4934|adj|ungleich|Die Verteilung war ungleich.
 1214|die|die Unterstützung|Die Unterstützung kam im richtigen Moment.
 1395|die|die Konzentration|Die Konzentration ließ nach der Pause nach.
@@ -1426,12 +1029,9 @@
 2826|die|die Zustimmung|Die Zustimmung fiel einstimmig aus.
 2898|die|die Infrastruktur|Die Infrastruktur der Stadt ist hervorragend.
 3069|die|die Reduktion|Die Reduktion der Kosten war notwendig.
-3119|der|der Champion|Der Champion verteidigte seinen Titel erfolgreich.
 3652|die|die Übernahme|Die Übernahme verlief ohne Probleme.
 3700|die|die Qualifikation|Die Qualifikation für das Turnier gelang ihm.
-3760|die|die Steuerung|Die Steuerung der Maschine funktionierte einwandfrei.
 3907|die|die Dynamik|Die Dynamik der Gruppe veränderte sich.
-4933|die|die Symmetrie|Die Symmetrie des Gebäudes beeindruckte die Besucher.
 5072|adj|Zürcher|Er genoss die Zürcher Küche sehr.
 707|die|die Leistung|Die Leistung des Motors war beeindruckend.
 2299|die|die Synthese|Die Synthese gelang im Labor problemlos.
@@ -1443,10 +1043,7 @@
 3788|adj|physiologisch|Der Prozess verlief physiologisch korrekt.
 3872|die|die Fremdsprache|Die Fremdsprache beherrscht er fließend.
 4142|die|die Geographie|Die Geographie der Region ist faszinierend.
-4406|die|die Arbeitskraft|Die Arbeitskraft der Mitarbeiter ist beeindruckend.
 4465|die|die Stellungnahme|Die Stellungnahme klärte viele Fragen.
-4564|die|die Evolution|Die Evolution der Arten dauert Millionen Jahre.
-1457|die|die Wahrscheinlichkeit|Die Wahrscheinlichkeit eines Erfolgs ist hoch.
 1463|adj|langfristig|Er plant langfristig für die Zukunft.
 2159|der|der Auftritt|Der Auftritt war ein voller Erfolg.
 2328|das|das Vermögen|Das Vermögen wuchs stetig.
@@ -1458,15 +1055,10 @@
 3446|adj|strukturell|Das Problem war strukturell bedingt.
 3499|die|die Vermittlung|Die Vermittlung verlief erfolgreich.
 3581|die|die Fragestellung|Die Fragestellung war präzise formuliert.
-3605|die|die Verknüpfung|Die Verknüpfung der Daten erwies sich als nützlich.
 4464|adj|signifikant|Die Veränderung war signifikant.
 4763|adj|parlamentarisch|Er arbeitet parlamentarisch korrekt.
-5003|die|die Übereinstimmung|Die Übereinstimmung der Ergebnisse überraschte alle.
 5063|die|die Diskriminierung|Die Diskriminierung wurde strikt abgelehnt.
 2643|die|die Kompetenz|Die Kompetenz des Lehrers steht außer Frage.
-2656|das|das Individuum|Das Individuum steht im Mittelpunkt der Philosophie.
-3063|die|die Berücksichtigung|Die Berücksichtigung aller Faktoren ist wichtig.
-3716|die|die Architektur|Die Architektur des Gebäudes ist beeindruckend.
 4816|das|das Vokabular|Das Vokabular des Schülers ist vielfältig.
 4902|die|die Verhaltensweise|Die Verhaltensweise des Hundes änderte sich.
 2508|die|die Beschäftigung|Die Beschäftigung hält ihn auf Trab.
@@ -1474,14 +1066,10 @@
 4103|die|die Anwesenheit|Die Anwesenheit aller war erforderlich.
 4379|der|der Gesichtspunkt|Der Gesichtspunkt war gut gewählt.
 4870|der|der Studiengang|Der Studiengang hat viele Bewerber.
-2070|die|die Abhängigkeit|Die Abhängigkeit von Ressourcen wurde deutlich.
 4109|die|die Nacherfüllung|Die Nacherfüllung verlief reibungslos.
-4276|die|die Inszenierung|Die Inszenierung des Stücks war beeindruckend.
 4325|der|der Gesetzentwurf|Der Gesetzentwurf wurde diskutiert.
 3958|die|die Transformation|Die Transformation des Unternehmens gelang.
 4408|die|die Gemeinsamkeit|Die Gemeinsamkeit stärkte die Verbindung.
-4182|die|die Flüchtlingspolitik|Die Flüchtlingspolitik steht im Fokus der Debatte.
-4613|adj|naturwissenschaftlich|Er forscht auf naturwissenschaftlichem Gebiet.
 265|der|der Weg|Der Weg führte direkt zum Ziel.
 347|adj|rund|Er kaufte rund 50 Äpfel.
 848|die|die Erde|Die Erde dreht sich um die Sonne.
@@ -1544,8 +1132,6 @@
 2071|die|die Einrichtung|Die Einrichtung des Zimmers war modern.
 2938|adj|funktionell|Das Gerät ist sehr funktionell.
 3026|die|die Gestaltung|Die Gestaltung des Gartens war gelungen.
-3097|die|die Zusammenfassung|Die Zusammenfassung fasste alle wichtigen Punkte zusammen.
-1600|die|die Kommunikation|Die Kommunikation zwischen den Teams war reibungslos.
 2237|der|der Mechanismus|Der Mechanismus funktionierte einwandfrei.
 1479|die|die Aufnahme|Die Aufnahme verlief problemlos.
 1992|der|der Abschluss|Der Abschluss des Projekts war erfolgreich.
@@ -1573,9 +1159,7 @@
 1920|die|die Aktion|Die Aktion begann früh am Morgen.
 3580|die|die Eröffnung|Die Eröffnung zog viele Besucher an.
 4594|die|die Premiere|Die Premiere des Films war ein großer Erfolg.
-2996|der|der Übersetzer|Der Übersetzer übertrug den Text ins Deutsche.
 4575|adj|verbindlich|Er gab verbindlich seine Zusage.
-4908|adj|funktional|Das Möbelstück erfüllt eine funktionale Aufgabe.
 1744|der|der Ton|Der Ton änderte sich plötzlich.
 4003|adj|zart|Er bereitete das zarte Gemüse zu.
 4954|der|der Abgrund|Er stand still am Rand des Abgrunds.
@@ -1965,7 +1549,6 @@
 3182|adj|ökologisch|Das Produkt ist ökologisch unbedenklich.
 3184|die|die Substitution|Die Substitution verlief problemlos.
 3226|adj|hintere (r, s)|Der hintere Sitz ist kaputt.
-3410|die|die Notwendigkeit|Die Notwendigkeit ist offensichtlich.
 3457|die|die Hitze|Die Hitze war unerträglich.
 3644|adj|unverändert|Die Lage blieb unverändert.
 4121|adj|Kölner|Das Kölner Fest war lebendig.
@@ -2034,7 +1617,6 @@
 4934|adj|ungleich|Die Kräfteverhältnisse waren ungleich.
 5094|der|der Mindestlohn|Der Mindestlohn wurde erhöht.
 341|der|der Wert|Der Wert des Bildes stieg.
-1600|die|die Kommunikation|Die Kommunikation verlief reibungslos.
 1972|die|die Ironie|Die Ironie war deutlich spürbar.
 2823|adj|syrisch|Das syrische Essen ist lecker.
 2898|die|die Infrastruktur|Die Infrastruktur wurde ausgebaut.
@@ -2070,16 +1652,13 @@
 4142|die|die Geographie|Die Geographie der Region ist komplex.
 4216|adj|regulär|Das Treffen fand regulär statt.
 4250|die|die Willenserklärung|Die Willenserklärung war eindeutig.
-4406|die|die Arbeitskraft|Die Arbeitskraft war erschöpft.
 5096|der|der Nationalpark|Der Nationalpark ist geschützt.
 358|der|der Blick|Der Blick aus dem Fenster war schön.
 635|die|die Aussage|Die Aussage wurde notiert.
 1148|adj|heutig|Die heutige Sitzung ist wichtig.
-1457|die|die Wahrscheinlichkeit|Die Wahrscheinlichkeit ist hoch.
 1603|adj|angeblich|Er ist angeblich krank.
 1631|adj|sprachlich|Er machte sprachliche Fehler.
 2023|das|das Gewicht|Das Gewicht des Pakets war groß.
-3017|die|die Philosophie|Die Philosophie des Unternehmens war erfolgreich.
 3164|adj|unzählig|Er stellte unzählige Fragen.
 4372|adj|vorig|Das war im vorigen Jahr.
 4464|adj|signifikant|Die Unterschiede sind signifikant.
@@ -2088,11 +1667,9 @@
 1433|der|der Stand|Der Stand wurde aufgebaut.
 2613|die|die Wurzel|Die Wurzel des Problems ist klar.
 3043|das|das Zitat|Das Zitat stammt von Goethe.
-3063|die|die Berücksichtigung|Die Berücksichtigung aller Faktoren ist wichtig.
 3288|die|die Fettsäure|Die Fettsäure ist essentiell.
 3545|der|der Bezirk|Der Bezirk wurde modernisiert.
 3703|adj|verehrt|Der Künstler wurde verehrt.
-3716|die|die Architektur|Die Architektur ist beeindruckend.
 3799|adj|städtisch|Das städtische Leben ist lebendig.
 4117|adj|außergewöhnlich|Das war eine außergewöhnliche Leistung.
 4816|das|das Vokabular|Das Vokabular wird erweitert.
@@ -2110,14 +1687,12 @@
 4247|die|die Moral|Die Moral der Geschichte ist klar.
 1737|das|das Reich|Das Reich zerfiel in Teile.
 1911|adj|seltsam|Das Verhalten war seltsam.
-2070|die|die Abhängigkeit|Die Abhängigkeit wächst stetig.
 2680|der|der Abbau|Der Abbau der Rohstoffe beginnt.
 3003|der|der Reiz|Der Reiz des Abenteuers lockt.
 3223|adj|benachbart|Das benachbarte Dorf ist klein.
 3730|das|das Album|Das Album erschien letzte Woche.
 3961|die|die Akte|Die Akte bleibt vertraulich.
 3973|adv|zumeist|Zumeist sind die Straßen leer.
-4276|die|die Inszenierung|Die Inszenierung war ein Erfolg.
 4325|der|der Gesetzentwurf|Der Gesetzentwurf wurde abgelehnt.
 2416|adj|zukünftig|Zukünftige Projekte sind geplant.
 2462|adj|gegenwärtig|Gegenwärtig ist alles ruhig.
@@ -2189,11 +1764,9 @@
 4856|adj|visuell|Der Film ist visuell beeindruckend.
 4924|die|die Bekämpfung|Die Bekämpfung der Krankheit war erfolgreich.
 234|pron|denen|Er hilft denen, die ihn brauchen.
-2958|die|die Vielzahl|Die Vielzahl der Möglichkeiten ist verwirrend.
 3653|adj|akademisch|Das akademische Niveau ist hoch.
 3759|der|der Nachweis|Der Nachweis wurde erbracht.
 3913|adj|jetzig|Die jetzige Situation ist angespannt.
-4709|die|die Verbreitung|Die Verbreitung des Virus ist besorgniserregend.
 4819|der|der Zerfall|Der Zerfall des Gebäudes begann.
 3871|adj|detailliert|Der Bericht ist detailliert und genau.
 2582|adj|räumlich|Die räumliche Trennung fiel schwer.
@@ -2398,7 +1971,6 @@
 3736|der|der Flügel|Der Flügel war verstimmt.
 3835|verb|entfallen, entfällt, entfiel, ist entfallen|Der Termin entfiel wegen Krankheit.
 3900|die|die Niederlande|Die Niederlande sind flach und grün.
-4007|die|die Nachrichtenagentur|Die Nachrichtenagentur bestätigte die Meldung.
 4210|verb|verankern, verankert, verankerte, hat verankert|Das Recht wurde im Gesetz verankert.
 4296|verb|ausstehen, steht aus, stand aus, hat ausgestanden|Die Entscheidung steht noch aus.
 4611|adj|fließend|Er spricht fließend Deutsch.
@@ -2427,7 +1999,6 @@
 4927|das|das Archiv|Das Archiv enthält alte Dokumente.
 941|die|die Temperatur|Die Temperatur stieg rapide.
 1033|adv|weg|Er ging einfach weg.
-1516|die|die Gemeinde|Die Gemeinde wählte einen neuen Bürgermeister.
 4188|der|der Container|Der Container wurde verschifft.
 2252|das|das Netzwerk|Das Netzwerk war überlastet.
 3886|der|der Koch|Der Koch bereitete das Menü vor.
@@ -2542,7 +2113,6 @@
 2644|die|die Leitung|Die Leitung wurde repariert.
 2828|die|die Adresse|Die Adresse wurde notiert.
 2910|verb|herausstellen (sich), stellt heraus, stellte heraus, hat herausgestellt|Es stellte sich heraus, dass er Recht hatte.
-2958|die|die Vielzahl|Die Vielzahl der Möglichkeiten überforderte ihn.
 3106|adj|kinetisch|Die kinetische Energie ist groß.
 3302|der|der Kellner|Der Kellner brachte das Essen.
 3319|die|die Bundeswehr|Die Bundeswehr übte im Gelände.
@@ -2554,19 +2124,12 @@
 3913|adj|jetzig|Die jetzige Situation ist schwierig.
 3944|verb|bestrafen, bestraft, bestrafte, hat bestraft|Er wurde hart bestraft.
 4549|das|das Diagramm|Das Diagramm zeigt die Daten.
-4709|die|die Verbreitung|Die Verbreitung des Virus ist alarmierend.
 4817|verb|weiterentwickeln, entwickelt weiter, entwickelte weiter, hat weiterentwickelt|Er entwickelte das Konzept weiter.
 4819|der|der Zerfall|Der Zerfall des Gebäudes begann.
 1083|der|der Baum|Der Baum spendet Schatten.
-968|das|das Atom|Das Atom wurde gespalten.
-799|der|der Zustand|Der Zustand verschlechterte sich.
 2358|das|das Gefäß|Das Gefäß ist zerbrochen.
 4246|die|die Lampe|Die Lampe leuchtet hell.
-652|die|die Kultur|Die Kultur der Stadt ist vielfältig.
-915|adj|breit|Die Straße ist breit.
 4136|das|das Tuch|Das Tuch lag auf dem Tisch.
-474|die|die Richtung|Die Richtung wurde geändert.
-737|das|das Fenster|Das Fenster blieb offen.
 1611|der|der Gegner|Der Gegner war stark.
 3264|die|die Lunge|Die Lunge arbeitet einwandfrei.
 4367|das|das Hirn|Das Hirn steuert den Körper.
@@ -2578,21 +2141,16 @@
 4446|der|der Neubau|Der Neubau ist fast fertig.
 4789|das|das Segment|Das Segment wurde analysiert.
 3955|der|der Stolz|Der Stolz stand ihm ins Gesicht geschrieben.
-560|verb|gelingen, gelingt, gelang, ist gelungen|Der Plan gelang perfekt.
-856|der|der Versuch|Der Versuch scheiterte leider.
-876|adj|interessant|Das Thema war sehr interessant.
 2861|das|das Finale|Das Finale war spannend.
 2985|adj|senkrecht|Die Wand steht senkrecht.
 3121|die|die Intensität|Die Intensität des Lichts nahm zu.
 4257|das|das Märchen|Das Märchen wurde erzählt.
 4573|adj|sowjetisch|Sowjetische Technik war robust.
-859|die|die Eigenschaft|Die Eigenschaft ist nützlich.
 1069|der|der Sprecher|Der Sprecher hielt eine Rede.
 1792|der|der Umsatz|Der Umsatz stieg im letzten Quartal.
 2737|der|der Schatz|Der Schatz wurde gefunden.
 2918|der|der Fernseher|Der Fernseher lief den ganzen Abend.
 4546|verb|zerbrechen, zerbricht, zerbrach, hat zerbrochen|Das Glas zerbrach in tausend Teile.
-543|die|die Chemie|Die Chemie stimmte sofort.
 1108|der|der Beruf|Der Beruf erfüllte ihn.
 4108|das|das Manuskript|Das Manuskript wurde überarbeitet.
 4509|die|die Zuordnung|Die Zuordnung der Aufgaben war klar.
@@ -2619,7 +2177,6 @@
 1182|das|das Gebiet|Das Gebiet wurde erkundet.
 2090|das|Afghanistan|Afghanistan liegt in Südasien.
 2652|der|der Sportler|Der Sportler gewann die Medaille.
-2692|die|die Entstehung|Die Entstehung des Vereins wurde dokumentiert.
 3305|verb|vermögen, vermag, vermochte, hat vermocht|Er vermochte es, alle zu überzeugen.
 3574|das|das Kloster|Das Kloster liegt abgelegen.
 3585|der|der Sex|Der Sex war ein Tabuthema.
@@ -2630,57 +2187,6 @@
 4273|adv|binnen|Binnen einer Woche war alles erledigt.
 4802|der|der Rechtsanwalt|Der Rechtsanwalt verteidigte ihn gut.
 4888|der|die Verletzte|Der Verletzte wurde behandelt.
-694|das|das Foto|Das Foto zeigt eine Landschaft.
-1204|der|der Papa|Der Papa spielte mit den Kindern.
-654|der|der Sohn|Der Sohn hilft im Garten.
-3741|der|der Hang|Der Hang ist steil.
-1016|adj|blau|Der Himmel war blau.
-1124|der|der Januar|Der Januar war kalt.
-1487|adj|hell|Das Licht war hell.
-1775|das|das Handy|Das Handy klingelte laut.
-1808|die|die Haltung|Die Haltung war angespannt.
-3573|die|die Kälte|Die Kälte war unerträglich.
-3622|der|der Frühling|Der Frühling brachte Blumen.
-4602|adj|witzig|Sein Kommentar war witzig.
-4663|adj|giftig|Die Pflanze ist giftig.
-917|die|die Wirkung|Die Wirkung setzte sofort ein.
-1009|der|der Dollar|Der Dollar stieg im Wert.
-1312|adj|linear|Die Kurve verlief linear.
-1524|adj|heftig|Der Sturm war heftig.
-1819|die|die Auflage|Die Auflage wurde erhöht.
-3957|die|die Tafel|Die Tafel hing an der Wand.
-950|adj|klassisch|Klassische Musik beruhigt ihn.
-1289|adj|komplett|Das Set ist komplett.
-3284|der|der Teller|Der Teller fiel zu Boden.
-3469|adj|bequem|Der Stuhl ist bequem.
-4113|die|die Spaltung|Die Spaltung der Partei war unvermeidlich.
-2300|das|das Drama|Das Drama endete tragisch.
-3659|der|der Rohstoff|Der Rohstoff wird knapp.
-4417|die|die Reflexion|Die Reflexion blendete.
-4735|die|die Illusion|Die Illusion zerbrach schnell.
-2078|die|die Institution|Die Institution wurde gegründet.
-2094|adj|regional|Regional gibt es Unterschiede.
-2902|der|der Anhänger|Der Anhänger war defekt.
-4143|das|das Lebewesen|Das Lebewesen lebte im Wald.
-4191|die|die Mutation|Die Mutation veränderte das Gen.
-1073|der|der Trainer|Der Trainer motivierte das Team.
-3002|der|der Vordergrund|Im Vordergrund steht das Ziel.
-3061|die|die Autobahn|Die Autobahn ist stark befahren.
-3418|adj|harmonisch|Das Team arbeitete harmonisch zusammen.
-3767|die|die Beurteilung|Die Beurteilung war positiv.
-3683|die|die Auflösung|Die Auflösung des Rätsels überraschte.
-4194|die|die Vermutung|Die Vermutung stellte sich als richtig heraus.
-1587|verb|festlegen, legt fest, legte fest, hat festgelegt|Er legte den Plan fest.
-4423|die|die Ausrichtung|Die Ausrichtung des Ziels war klar.
-1445|der|der Besucher|Der Besucher verließ das Museum.
-2996|der|der Übersetzer|Der Übersetzer arbeitete genau.
-4681|der|der Stoffwechsel|Der Stoffwechsel beschleunigte sich.
-5074|die|die Befreiung|Die Befreiung brachte Erleichterung.
-2569|die|die Landwirtschaft|Die Landwirtschaft erlebte einen Aufschwung.
-4229|adj|elektromagnetisch|Elektromagnetische Felder sind unsichtbar.
-1457|die|die Wahrscheinlichkeit|Die Wahrscheinlichkeit ist hoch.
-4276|die|die Inszenierung|Die Inszenierung des Stücks war aufwendig.
-4613|adj|naturwissenschaftlich|Das naturwissenschaftliche Experiment gelang.
 1096|der|der Band|Der Band enthält Gedichte.
 1264|adj|berliner|Berliner Spezialitäten sind lecker.
 1348|adj|Schweizer|Schweizer Schokolade ist berühmt.
@@ -2698,57 +2204,6 @@
 4038|verb|beauftragen, beauftragt, beauftragte, hat beauftragt|Er beauftragte die Firma sofort.
 4721|der|der Atomkern|Der Atomkern spaltete sich.
 4788|adj|optimistisch|Er blickt optimistisch in die Zukunft.
-503|die|die Grenze|Die Grenze wurde geschlossen.
-801|die|die Reihe|Er stellte sich in die Reihe.
-412|die|die Person|Die Person war sehr freundlich.
-2217|der|der Kauf|Der Kauf war eine gute Entscheidung.
-4144|der|der Ozean|Der Ozean ist tief und weit.
-744|das|das Werk|Das Werk wurde veröffentlicht.
-1452|die|die Ecke|An der Ecke stand ein Baum.
-1757|der|der Laden|Der Laden öffnete um neun Uhr.
-3146|adj|cool|Das Konzert war echt cool.
-4319|die|die Fassade|Die Fassade wurde renoviert.
-5001|der|der Römer|Der Römer besiegte seine Gegner.
-1229|das|das Zeichen|Das Zeichen war deutlich.
-1373|der|der Kaffee|Der Kaffee schmeckte bitter.
-4190|adj|live|Das Konzert wurde live übertragen.
-4407|die|die Bibel|Die Bibel liegt auf dem Tisch.
-5069|die|die Skulptur|Die Skulptur steht im Park.
-1521|die|die Formel|Die Formel wurde berechnet.
-2251|das|das Metall|Das Metall war schwer.
-4332|der|der Trick|Der Trick funktionierte gut.
-401|das|das Gesicht|Sein Gesicht zeigte Freude.
-1048|die|die Tabelle|Die Tabelle wurde aktualisiert.
-2064|adj|lokal|Er kaufte lokal ein.
-4691|adj|antik|Das antike Artefakt wurde entdeckt.
-469|verb|ergeben, ergibt, ergab, hat ergeben|Die Untersuchung ergab neue Hinweise.
-3971|adj|schmutzig|Die Kleidung war schmutzig.
-4203|die|die Einteilung|Die Einteilung erfolgte schnell.
-2630|adj|unklar|Der Ablauf war unklar.
-3578|das|das Unglück|Das Unglück ereignete sich gestern.
-4095|die|die Erfindung|Die Erfindung veränderte die Welt.
-1332|die|die Anwendung|Die Anwendung war einfach.
-1634|adj|traditionell|Er feierte traditionell mit der Familie.
-1946|die|die Erwartung|Die Erwartung wurde übertroffen.
-2013|der|der Knochen|Der Knochen heilte gut.
-2323|das|das Kapital|Das Kapital wurde investiert.
-2419|der|der Geruch|Der Geruch war angenehm.
-2855|das|das Medium|Das Medium beeinflusst die Meinung.
-3246|der|der Großteil|Der Großteil der Arbeit ist erledigt.
-2463|der|der Organismus|Der Organismus reagierte schnell.
-3544|die|die Auskunft|Die Auskunft war hilfreich.
-3679|die|die Steigerung|Die Steigerung war enorm.
-4290|adj|mittelalterlich|Die mittelalterliche Burg ist gut erhalten.
-4784|die|die Fusion|Die Fusion der Firmen war erfolgreich.
-3509|die|die Durchführung|Die Durchführung verlief reibungslos.
-4564|die|die Evolution|Die Evolution erklärt die Vielfalt.
-3716|die|die Architektur|Die Architektur des Gebäudes beeindruckte.
-5011|die|die Fluggesellschaft|Die Fluggesellschaft bietet viele Ziele an.
-2070|die|die Abhängigkeit|Die Abhängigkeit wurde bekämpft.
-2965|das|das Wirtschaftsforum|Das Wirtschaftsforum fand in Berlin statt.
-4689|adj|technologisch|Technologisch sind wir gut aufgestellt.
-2842|adj|interkulturell|Interkulturell arbeiten erfordert Verständnis.
-334|pron|deren|Die Schüler, deren Noten gut sind, erhalten Preise.
 586|conj|nachdem|Nachdem es regnete, gingen wir nach Hause.
 1226|die|die Generation|Die jüngere Generation denkt anders.
 1439|der|der Anschlag|Der Anschlag erschütterte die Stadt.
@@ -2763,53 +2218,6 @@
 3834|adj|bescheiden|Er lebt sehr bescheiden.
 3928|verb|anfallen, fällt an, fiel an, hat angefallen|Hohe Kosten fielen an.
 3989|der|der Marktanteil|Der Marktanteil stieg stark.
-651|adj|eng|Der Weg war eng und steil.
-1002|der|der Berg|Der Berg war hoch und schneebedeckt.
-478|das|das Produkt|Das Produkt kam gut an.
-811|adj|modern|Das Haus ist modern ausgestattet.
-4088|das|das Lokal|Das Lokal war gut besucht.
-4760|der|der Knall|Der Knall war laut und scharf.
-112|pron|jede (r, s)|Jeder hat seine eigenen Stärken.
-441|das|das Ergebnis|Das Ergebnis war zufriedenstellend.
-1277|der|der Rand|Am Rand des Feldes stand ein Baum.
-1550|die|die Karte|Die Karte führte uns zum Ziel.
-2247|die|die City|Die City war voll von Menschen.
-2523|adj|flach|Das Land war flach und weit.
-4672|die|die Dusche|Die Dusche war erfrischend.
-1113|die|die Küche|Die Küche war modern ausgestattet.
-3191|der|der Status|Der Status änderte sich schnell.
-907|das|das Mitglied|Jedes Mitglied hat Stimmrecht.
-1951|die|die Stirn|Er runzelte die Stirn.
-5033|adj|magisch|Das Erlebnis war fast magisch.
-3310|verb|spalten, spaltet, spaltete, hat gespalten|Er spaltete das Holz mühelos.
-3383|das|das Quartal|Das Quartal war erfolgreich.
-525|die|die Zukunft|Die Zukunft liegt in unseren Händen.
-3099|der|der Aufstieg|Der Aufstieg war mühsam.
-4308|adj|erreichbar|Der Gipfel ist nur schwer erreichbar.
-4510|adj|asiatisch|Asiatische Küche ist sehr beliebt.
-736|die|die Bedingung|Die Bedingung war klar definiert.
-1139|das|das Ereignis|Das Ereignis war unvergesslich.
-1201|das|das Merkmal|Ein Merkmal der Art ist die Farbe.
-1607|das|das Krankenhaus|Das Krankenhaus wurde renoviert.
-2901|die|die Wellenlänge|Wir sind auf derselben Wellenlänge.
-2907|die|die Plattform|Die Plattform bietet viele Funktionen.
-2959|der|der Arbeitgeber|Der Arbeitgeber bot bessere Bedingungen an.
-4798|der|der Moderator|Der Moderator führte durch die Sendung.
-4962|der|der Syrer|Der Syrer erzählte seine Geschichte.
-1242|adj|eindeutig|Die Antwort war eindeutig falsch.
-1407|die|die Ursache|Die Ursache war unbekannt.
-4259|der|der Schädel|Der Schädel war gut erhalten.
-4756|das|das Gutachten|Das Gutachten bestätigte die Schäden.
-5049|der|der Ausschnitt|Der Ausschnitt zeigte das Wichtigste.
-2480|die|die Überzeugung|Die Überzeugung war stark.
-4652|der|der Diskurs|Der Diskurs verlief lebhaft.
-4908|adj|funktional|Das Design ist funktional und ansprechend.
-1307|die|die Geschwindigkeit|Die Geschwindigkeit war beeindruckend.
-4192|adj|sozialistisch|Sozialistische Ideen wurden diskutiert.
-1643|die|die Kategorie|Die Kategorie wurde erweitert.
-1411|die|die Forschung|Die Forschung brachte neue Erkenntnisse.
-3052|die|die Vereinbarung|Die Vereinbarung wurde getroffen.
-3063|die|die Berücksichtigung|Die Berücksichtigung aller Faktoren ist wichtig.
 1431|der|der Bezug|Der Bezug war gut erklärt.
 1471|verb|vermitteln, vermittelt, vermittelte, hat vermittelt|Er vermittelte das Wissen klar.
 1779|der|der Verlauf|Der Verlauf der Straße war kurvig.
@@ -2823,41 +2231,6 @@
 3884|verb|heranziehen, zieht heran, zog heran, hat herangezogen|Er zog Experten zur Beratung heran.
 4063|adj|schwul|Er lebt offen schwul.
 5048|das|das Attentat|Das Attentat wurde vereitelt.
-1046|das|das Risiko|Das Risiko wurde minimiert.
-1102|der|der Schluss|Der Schluss war überraschend.
-5057|adj|uralt|Das Buch ist uralt.
-712|das|das Molekül|Das Molekül wurde untersucht.
-1532|die|die Strecke|Die Strecke war lang und anstrengend.
-1919|die|die Störung|Die Störung wurde behoben.
-3248|die|die Software|Die Software wurde aktualisiert.
-3983|das|das Neuron|Das Neuron sendet Signale.
-370|die|die Lösung|Die Lösung fand er schnell.
-2591|das|das Erbe|Das Erbe wurde geteilt.
-2633|adj|schlicht|Das Design war schlicht und elegant.
-2968|die|die Einnahme|Die Einnahme stieg deutlich.
-3701|die|die Schlange|Die Schlange war giftig.
-4258|das|das Regime|Das Regime fiel schnell.
-1143|der|der Rest|Der Rest wurde aufgehoben.
-1474|das|das Studium|Das Studium bereitete ihn vor.
-2734|das|das Subjekt|Das Subjekt wurde analysiert.
-4015|adj|symbolisch|Das Geschenk war symbolisch gemeint.
-1394|der|der Tourist|Der Tourist fragte nach dem Weg.
-2212|der|der Gebrauch|Der Gebrauch des Geräts war einfach.
-2713|adj|vielfach|Vielfach wurde das Thema besprochen.
-2899|der|der Konkurrent|Der Konkurrent bot bessere Preise an.
-3638|die|die Muskulatur|Die Muskulatur stärkte sich.
-3823|die|die Haftung|Die Haftung war gut abgesichert.
-3852|die|die Diagnose|Die Diagnose war eindeutig.
-4389|adj|horizontal|Das Bild hängt horizontal.
-4945|der|der Anhang|Der Anhang wurde überprüft.
-2015|die|die Gegenwart|Die Gegenwart ist wichtiger als die Vergangenheit.
-1150|das|das Museum|Das Museum war gut besucht.
-3593|adj|anstrengend|Die Arbeit war anstrengend.
-1753|der|der Arbeitsplatz|Der Arbeitsplatz war sicher.
-4326|adj|intellektuell|Intellektuelle Gespräche sind anregend.
-3202|die|die Leidenschaft|Seine Leidenschaft war die Kunst.
-1538|die|die Wissenschaft|Die Wissenschaft schreitet voran.
-2048|adj|durchschnittlich|Er hatte durchschnittliche Noten.
 1207|verb|töten, tötet, tötete, hat getötet|Er tötete das Ungeziefer schnell.
 1816|die|die Nation|Die Nation feierte den Erfolg.
 2750|verb|zögern, zögert, zögerte, hat gezögert|Er zögerte, bevor er sprach.
@@ -2867,49 +2240,6 @@
 3920|adj|außerordentlich|Er war außerordentlich begabt.
 3924|der|der Republikaner|Der Republikaner gewann die Wahl.
 4810|die|die Interaktion|Die Interaktion war intensiv.
-286|der|der Doktor|Der Doktor behandelte den Patienten.
-3215|der|der Turm|Der Turm ragte hoch in den Himmel.
-1008|die|die Sicht|Die Sicht war klar und weit.
-278|der|der Vater|Der Vater spielte mit seinem Sohn.
-1273|das|das Maß|Das Maß war korrekt.
-1820|adj|billig|Das Produkt war billig.
-1912|das|das Gen|Das Gen bestimmte die Farbe.
-2178|das|das Brot|Das Brot war frisch gebacken.
-2219|der|der Betrag|Der Betrag wurde überwiesen.
-2293|die|die Armee|Die Armee marschierte weiter.
-4596|der|der Schrei|Der Schrei hallte durch den Raum.
-483|der|der Anfang|Der Anfang war schwer.
-3610|der|der Maßstab|Der Maßstab war genau definiert.
-632|die (pl)||Die Kinder spielten im Park.
-940|der|der Einfluss|Der Einfluss war stark.
-1732|die|die Tradition|Die Tradition wird weitergeführt.
-1944|das|das Management|Das Management traf die Entscheidung.
-2422|die|die Serie|Die Serie wurde verlängert.
-3237|das|das Stadion|Das Stadion war ausverkauft.
-5056|der|der Umzug|Der Umzug war stressig.
-913|der|der Beginn|Der Beginn war vielversprechend.
-2019|das|das Phänomen|Das Phänomen wurde untersucht.
-2254|die|die Technologie|Die Technologie entwickelt sich schnell.
-2849|adj|magnetisch|Magnetische Kräfte wirkten stark.
-3887|der|der Stadtteil|Der Stadtteil war ruhig.
-3938|die|die Gliederung|Die Gliederung des Textes war logisch.
-3968|das|das Magnetfeld|Das Magnetfeld wurde gemessen.
-4443|adj|kommunal|Kommunale Entscheidungen sind wichtig.
-4907|der|der Fund|Der Fund wurde gemeldet.
-4566|die|die Nervenzelle|Die Nervenzelle überträgt Signale.
-1248|die|die Ausbildung|Die Ausbildung war intensiv.
-1670|adj|statistisch|Statistisch gesehen war er im Recht.
-2418|die|die Existenz|Die Existenz war bedroht.
-3869|der|der Vorgänger|Der Vorgänger war beliebt.
-1950|adj|kompliziert|Die Lösung war kompliziert.
-3541|das|das Praktikum|Das Praktikum bereitete ihn vor.
-4770|das|das Halbfinale|Das Halbfinale war spannend.
-2896|adj|umfangreich|Das Werk ist umfangreich.
-4295|adj|anorganisch|Anorganische Chemie ist komplex.
-3119|der|der Champion|Der Champion verteidigte seinen Titel.
-4530|die|die Versuchsperson|Die Versuchsperson reagierte gut.
-4518|die|die Wiedervereinigung|Die Wiedervereinigung war historisch.
-4182|die|die Flüchtlingspolitik|Die Flüchtlingspolitik war umstritten.
 1177|adv|andererseits|Andererseits konnte er nichts tun.
 2727|der|der Protest|Der Protest war laut und deutlich.
 3692|verb|erregen, erregt, erregte, hat erregt|Er erregte viel Aufmerksamkeit.
@@ -2917,224 +2247,474 @@
 4223|prep|einschließlich|Einschließlich des Bonus war das Gehalt hoch.
 5032|verb|langweilen, langweilt, langweilte, hat gelangweilt|Der Vortrag langweilte das Publikum.
 5066|adj|fürchterlich|Das Wetter war fürchterlich.
-3508|die|die CD|Die CD enthält 12 Lieder.
-771|das|das Modell|Das Modell wurde vorgestellt.
-5027|das|das Seil|Das Seil war robust.
-1014|das|das BGB (Bürgerliches Gesetzbuch)|Das BGB regelt viele Bereiche.
-1035|der|der Absatz|Der Absatz stieg kontinuierlich.
-1899|adj|bunt|Der Markt war bunt und lebendig.
-3398|der|der Ertrag|Der Ertrag war zufriedenstellend.
-1925|die|die Ausgabe|Die Ausgabe war teuer.
-1210|der|der Zeitpunkt|Der Zeitpunkt war ideal.
-3793|adj|endlos|Der Weg schien endlos.
-949|die|die Analyse|Die Analyse war präzise.
-1565|die|die Runde|Die Runde verlief ruhig.
-4292|das|das Rezept|Das Rezept ist leicht nachzukochen.
-574|adj|positiv|Die Reaktion war positiv.
-854|der|der Künstler|Der Künstler stellte seine Werke aus.
-1311|die|die Maschine|Die Maschine lief reibungslos.
-3479|die|die Herrschaft|Die Herrschaft war absolut.
-4084|adj|aromatisch|Der Duft war aromatisch.
-904|adj|amerikanisch|Amerikanische Autos sind beliebt.
-1696|der|der Umgang|Der Umgang mit ihm war schwierig.
-2000|die|die Erkrankung|Die Erkrankung war schwerwiegend.
-2516|die|die Schwingung|Die Schwingung war spürbar.
-841|die|die Sicherheit|Die Sicherheit wurde erhöht.
-2511|der|der Zeitraum|Der Zeitraum war kurz.
-4097|das|das Immunsystem|Das Immunsystem war geschwächt.
-969|adj|historisch|Historische Bücher sind interessant.
-4474|der|der Katalysator|Der Katalysator wurde ersetzt.
-2605|der|der Wähler|Der Wähler gab seine Stimme ab.
-4406|die|die Arbeitskraft|Die Arbeitskraft wurde gut bezahlt.
-3605|die|die Verknüpfung|Die Verknüpfung war kompliziert.
-4609|adj|rational|Er traf eine rationale Entscheidung.
 2027|verb|versorgen, versorgt, versorgte, hat versorgt|Er versorgte die Verletzten.
 2790|adj|bürgerlich|Er lebt ein bürgerliches Leben.
 3142|die|die Besonderheit|Die Besonderheit wurde betont.
 3613|der|der Vorhang|Der Vorhang fiel langsam.
-3994|der|der LKW (Lastkraftwagen)|Der LKW transportierte schwere Güter.
-1957|adj|komisch|Der Film war komisch und unterhaltsam.
-382|das|das Spiel|Das Spiel war spannend.
-795|die|die Phase|Die Phase war herausfordernd.
-1958|adj|westlich|Das westliche Gebiet war unruhig.
-2502|adj|wirksam|Das Medikament war wirksam.
-3316|der|der Supermarkt|Der Supermarkt war gut sortiert.
-4030|adj|geometrisch|Geometrische Formen faszinieren ihn.
-4917|die|die Anatomie|Die Anatomie des Körpers ist komplex.
-3056|adj|divers|Das Team war divers zusammengesetzt.
-3192|das|das Stichwort|Das Stichwort war treffend gewählt.
-3513|die|die Erziehung|Die Erziehung der Kinder war streng.
-597|die|die Politik|Die Politik beeinflusst das Leben.
-1402|die|die Änderung|Die Änderung wurde genehmigt.
-3410|die|die Notwendigkeit|Die Notwendigkeit war offensichtlich.
-3723|das|das Protokoll|Das Protokoll wurde geschrieben.
-1949|der|der Weltkrieg|Der Weltkrieg veränderte die Welt.
-2565|die|die Verbesserung|Die Verbesserung war dringend nötig.
-5003|die|die Übereinstimmung|Die Übereinstimmung war erstaunlich.
-2563|der|der Gesellschafter|Der Gesellschafter traf die Entscheidung.
-2656|das|das Individuum|Das Individuum zählt in der Gesellschaft.
 3543|die|die Vorsicht|Vorsicht ist besser als Nachsicht.
 3551|verb|scheiden, scheidet, schied, hat geschieden|Das Paar wurde geschieden.
 3882|das|das Gemälde|Das Gemälde hängt im Museum.
 3904|die|die Wahlperiode|Die Wahlperiode endet bald.
 3943|verb|auseinandersetzen, setzt auseinander, setzte auseinander, hat auseinandergesetzt|Er setzte sich mit dem Thema auseinander.
 4528|prep|seitens|Seitens der Regierung gab es Kritik.
-1199|der|der Bund|Der Bund plant neue Gesetze.
-539|das|das Kapitel|Das Kapitel handelt von Liebe.
-1044|der|der Chef|Der Chef lobte seine Mitarbeiter.
-1879|das|das Drittel|Ein Drittel der Schüler fehlt.
-2107|adj|golden|Der Ring war golden.
-1896|verb|regeln, regelt, regelte, hat geregelt|Er regelt seine Angelegenheiten selbst.
-2392|die|die Periode|Die Periode dauerte mehrere Jahre.
-5024|adj|nominal|Nominal sind die Werte gleich.
-2780|das|das Messer|Das Messer war scharf.
-1196|das|das Jahrzehnt|Das Jahrzehnt war von Frieden geprägt.
-1446|das|das Wachstum|Das Wachstum war stark.
-1539|adj|global|Die Krise hat globale Auswirkungen.
-4461|die|die News|Die News wurden schnell verbreitet.
-1317|das|das Wochenende|Das Wochenende war erholsam.
-1366|adj|unbekannt|Der Künstler blieb unbekannt.
-1566|der|der Angriff|Der Angriff war geplant.
-3386|die|die Abgrenzung|Die Abgrenzung der Bereiche war klar.
-1884|das|das Restaurant|Das Restaurant war voll.
-3850|das|das Attribut|Das Attribut beschreibt die Eigenschaft.
-2029|der|der Start|Der Start verlief reibungslos.
-2209|die|die Beobachtung|Die Beobachtung war genau.
-2496|der|der Erzähler|Der Erzähler spannte den Bogen.
-4500|die|die Algebra|Die Algebra ist Teil der Mathematik.
-4783|adj|ethisch|Ethische Fragen sind wichtig.
-2144|der|der Hersteller|Der Hersteller garantierte Qualität.
-3107|das|das Skript|Das Skript wurde überarbeitet.
-1600|die|die Kommunikation|Die Kommunikation verlief gut.
-3760|die|die Steuerung|Die Steuerung reagierte schnell.
-4933|die|die Symmetrie|Die Symmetrie des Designs ist perfekt.
-4581|adj|organisatorisch|Organisatorisch war alles geregelt.
-385|pron|dessen|Der Mann, dessen Haus brannte, war verzweifelt.
 2751|adv|derart|Derart gute Chancen hat man selten.
 2821|die|die Opposition|Die Opposition kritisierte die Regierung.
 3569|adj|reell|Reell betrachtet ist die Lage schwierig.
 3732|die|die Justiz|Die Justiz ermittelt gegen ihn.
 3858|verb|vernachlässigen, vernachlässigt, vernachlässigte, hat vernachlässigt|Er vernachlässigte seine Pflichten.
-123|adj|lang|Der Weg war lang und beschwerlich.
-306|adj|schwer|Die Aufgabe war schwer.
-746|der|der Bürger|Der Bürger ging zur Wahl.
-1178|der|der Besuch|Der Besuch war unerwartet.
-1969|der|der Anwalt|Der Anwalt vertrat ihn vor Gericht.
-4426|adj|homogen|Das Team war homogen zusammengesetzt.
-434|die|die Möglichkeit|Die Möglichkeit besteht immer.
-3016|das|das Motto|Das Motto lautet „Carpe Diem“.
-4481|die|die Betreuung|Die Betreuung der Kinder war gut.
-4383|die|die Priorität|Die Priorität lag auf der Sicherheit.
-1541|die|die Annahme|Die Annahme war korrekt.
-3385|der|der Zettel|Der Zettel lag auf dem Tisch.
-4080|die|die Quote|Die Quote wurde erfüllt.
-3777|adj|elementar|Elementare Regeln sollten beachtet werden.
-3916|der|der Kühlschrank|Der Kühlschrank war voll.
-4263|der|der Operator|Der Operator überwachte die Prozesse.
-4317|der|der Darm|Der Darm ist ein wichtiger Teil des Körpers.
-4796|adj|fraglich|Es ist fraglich, ob er kommt.
-318|die|die Abbildung|Die Abbildung zeigt den Aufbau.
-1477|die|die Demokratie|Die Demokratie ist ein hohes Gut.
-2521|die|die Gewerkschaft|Die Gewerkschaft rief zum Streik auf.
-2741|der, die|die Angestellte|Die Angestellten forderten höhere Löhne.
 1061|part|ruhig|Du kannst ruhig fragen.
 2587|verb|vergeben, vergibt, vergab, hat vergeben|Er vergab die Aufgaben an die Mitarbeiter.
 2921|die|die Schönheit|Die Schönheit der Natur ist atemberaubend.
 4835|der|der Demonstrant|Der Demonstrant wurde festgenommen.
-1280|der|der Winter|Der Winter war kalt und schneereich.
-1418|das|das Enzym|Das Enzym beschleunigt die Reaktion.
-2182|das|das Umfeld|Das Umfeld beeinflusst den Erfolg.
-918|die|die Bildung|Die Bildung ist der Schlüssel.
-985|der|der Abschnitt|Der Abschnitt wurde übersprungen.
-1718|die|die Mathematik|Die Mathematik ist seine Stärke.
-2265|adj|nachhaltig|Nachhaltige Lösungen sind gefragt.
-5042|das|das Elektroauto|Das Elektroauto ist umweltfreundlich.
-4872|die|die Verteidigung|Die Verteidigung war gut vorbereitet.
 1260|das|das Konzept|Das Konzept wurde vorgestellt.
 3430|das|Asien|Asien ist der größte Kontinent.
 3802|adj|reichlich|Es gab reichlich Essen.
 3997|das|das Substrat|Das Substrat wurde analysiert.
-3771|der|der Prinz|Der Prinz heiratete die Prinzessin.
-3281|die|die Börse|Die Börse reagierte positiv.
-541|die|die Bedeutung|Die Bedeutung der Worte war klar.
-1503|das|das Objekt|Das Objekt wurde verkauft.
-2080|das|das Viertel|Das Viertel war ruhig.
-4489|das|das Center|Das Center war modern ausgestattet.
-2123|die|die CSU (Christlich-Soziale Union)|Die CSU gewann die Wahl in Bayern.
-3808|die|die Addition|Die Addition ist einfach zu lernen.
-4313|die|die Rotation|Die Rotation war gleichmäßig.
-4775|die|die Jagd|Die Jagd war erfolgreich.
-1379|die|die Statistik|Die Statistik zeigt die Entwicklung.
-2715|die|die Ernährung|Die Ernährung war ausgewogen.
-4488|der|der Verteidiger|Der Verteidiger hielt stark dagegen.
-3353|die|die Veröffentlichung|Die Veröffentlichung sorgte für Aufsehen.
 1715|adv|einerseits|Einerseits wollte er helfen.
 2037|prep|mittels|Mittels eines Tricks gelang ihm das.
 2361|die|die Tiefe|Die Tiefe des Sees ist unbekannt.
 3972|verb|überziehen, überzieht, überzog, hat überzogen|Er überzog den Kreditrahmen.
-1340|adj|dicht|Die Wälder waren dicht und dunkel.
-4678|der|der Mythos|Der Mythos wurde entlarvt.
-1502|der|der Geist|Der Geist des Hauses erschien.
-1989|das|das Schloss|Das Schloss war prunkvoll.
-2351|adj|extern|Er wurde extern beraten.
-4171|adj|brutal|Der Film war brutal.
-5088|adj|vertikal|Das Bild hängt vertikal.
-1666|die|die Bestimmung|Die Bestimmung wurde geändert.
-4587|adj|empfindlich|Die Haut reagierte empfindlich.
-1420|adj|intensiv|Das Training war intensiv.
-3948|adj|materiell|Materieller Besitz ist vergänglich.
-521|die|die Information|Die Information war nützlich.
-4769|die|die Energiewirtschaft|Die Energiewirtschaft ist im Wandel.
 3665|adj|musikalisch|Musikalisch war er talentiert.
-290|das|das Recht|Das Recht schützt die Schwachen.
-2316|adj|analog|Analoge Geräte sind selten geworden.
-700|der|der Mitarbeiter|Der Mitarbeiter wurde befördert.
-1472|die|die Wirklichkeit|Die Wirklichkeit sah anders aus.
-1708|das|das Kriterium|Das Kriterium war entscheidend.
-1755|die|die Komponente|Die Komponente war defekt.
-3933|der|der Protagonist|Der Protagonist überlebte das Abenteuer.
-402|die|die Entwicklung|Die Entwicklung war rasant.
-2647|der|der Austausch|Der Austausch verlief reibungslos.
-3097|die|die Zusammenfassung|Die Zusammenfassung war hilfreich.
 3556|verb|beibringen, bringt bei, brachte bei, hat beigebracht|Er brachte ihm das Lesen bei.
 4231|adv|abschließend|Abschließend bedankte er sich.
-2953|die|die Version|Die neue Version ist besser.
-4288|der|der Fürst|Der Fürst regierte gerecht.
-4757|der|der Kämpfer|Der Kämpfer gab nicht auf.
-2114|adj|relevant|Die Information war relevant.
-2302|die|die Vorschrift|Die Vorschrift wurde eingehalten.
-2059|die|die Religion|Die Religion ist ein wichtiges Thema.
-5110|die|die Zivilisation|Die Zivilisation hat sich entwickelt.
-1734|adj|freiwillig|Er engagiert sich freiwillig.
-3471|der|der Kindergarten|Der Kindergarten betreut die Kleinen.
 3864|das|das Hessisch|Das Hessisch klingt vertraut.
 3976|das|das Zeitalter|Das Zeitalter der Aufklärung begann.
 4910|die|die Jungfrau|Die Jungfrau war unberührt.
-2155|die|die Schrift|Die Schrift war kaum lesbar.
-1026|adj|komplex|Das Thema war komplex.
-549|das|das Jahrhundert|Das Jahrhundert war ereignisreich.
-1141|adj|organisch|Organische Lebensmittel sind beliebt.
-3939|die|die Kartoffel|Die Kartoffel ist vielseitig verwendbar.
 1389|adv|vielmehr|Vielmehr sollte er handeln.
 2925|pron|dazwischen|Er stand dazwischen und hörte zu.
-4491|das|das Handwerk|Das Handwerk wird geschätzt.
-3571|das|das Smartphone|Das Smartphone ist unverzichtbar.
 2168|die|die Stiftung|Die Stiftung unterstützt Bildung.
-1970|pron|dahinter|Er versteckte sich dahinter.
 2735|der|der Außenminister|Der Außenminister reiste nach Berlin.
-4547|der|der Aufsatz|Der Aufsatz wurde gut bewertet.
-4398|die|die Epoche|Die Epoche der Romantik begann.
-2674|adj|christlich|Die christlichen Werte sind wichtig.
 2617|verb|bedrohen, bedroht, bedrohte, hat bedroht|Er bedrohte die Zeugin.
 2805|die|die Dichte|Die Dichte des Waldes nahm zu.
-1461|das|das Gehirn|Das Gehirn steuert den Körper.
 2498|adj|umstritten|Die Entscheidung war umstritten.
-4044|adj|partiell|Die partielle Sonnenfinsternis war sichtbar.
-4552|adj|innovativ|Innovative Ideen wurden gefördert.
-3153|die|die Zeitschrift|Die Zeitschrift lag auf dem Tisch.
-4677|der|der Klimawandel|Der Klimawandel betrifft uns alle.
-1122|adj|ernst|Das Problem ist ernst.
-3081|adj|analytisch|Analytisch betrachtet hat er recht.
-1473|die|die Union|Die Union gewann die Wahl.
 2410|die|die Vielfalt|Die Vielfalt der Angebote war beeindruckend.
-1613|die|die VWL (Volkswirtschaftslehre)|Die VWL ist Teil der Wirtschaftswissenschaften.
+968|das|das Atom
+1204|der|der Papa
+799|der|der Zustand
+3741|der|der Hang
+652|die|die Kultur
+915|adj|breit
+1016|adj|blau
+1124|der|der Januar
+1487|adj|hell
+1775|das|das Handy
+1808|die|die Haltung
+3573|die|die Kälte
+3622|der|der Frühling
+4602|adj|witzig
+4663|adj|giftig
+474|die|die Richtung
+737|das|das Fenster
+1009|der|der Dollar
+1312|adj|linear
+1524|adj|heftig
+1819|die|die Auflage
+3957|die|die Tafel
+1289|adj|komplett
+3284|der|der Teller
+3469|adj|bequem
+4113|die|die Spaltung
+2300|das|das Drama
+3659|der|der Rohstoff
+4417|die|die Reflexion
+4735|die|die Illusion
+560|verb|gelingen, gelingt, gelang, ist gelungen
+856|der|der Versuch
+876|adj|interessant
+2078|die|die Institution
+2094|adj|regional
+2902|der|der Anhänger
+4143|das|das Lebewesen
+4191|die|die Mutation
+859|die|die Eigenschaft
+1073|der|der Trainer
+3002|der|der Vordergrund
+3061|die|die Autobahn
+3418|adj|harmonisch
+543|die|die Chemie
+3683|die|die Auflösung
+4194|die|die Vermutung
+1587|verb|festlegen, legt fest, legte fest, hat festgelegt
+4423|die|die Ausrichtung
+4681|der|der Stoffwechsel
+5074|die|die Befreiung
+2569|die|die Landwirtschaft
+4229|adj|elektromagnetisch
+3767|die|die Beurteilung
+1445|der|der Besucher
+1457|die|die Wahrscheinlichkeit
+4276|die|die Inszenierung
+4613|adj|naturwissenschaftlich
+2996|der|der Übersetzer
+2958|die|die Vielzahl
+4007|die|die Nachrichtenagentur
+1516|die|die Gemeinde
+2692|die|die Entstehung
+4194|die|die Vermutung
+2842|adj|interkulturell
+694|das|das Foto
+654|der|der Sohn
+2217|der|der Kauf
+4144|der|der Ozean
+1452|die|die Ecke
+1757|der|der Laden
+3146|adj|cool
+4319|die|die Fassade
+5001|der|der Römer
+917|die|die Wirkung
+1229|das|das Zeichen
+1373|der|der Kaffee
+4190|adj|live
+4407|die|die Bibel
+5069|die|die Skulptur
+950|adj|klassisch
+1521|die|die Formel
+2251|das|das Metall
+4332|der|der Trick
+1048|die|die Tabelle
+2064|adj|lokal
+4691|adj|antik
+3971|adj|schmutzig
+4203|die|die Einteilung
+2630|adj|unklar
+3578|das|das Unglück
+4095|die|die Erfindung
+1332|die|die Anwendung
+1634|adj|traditionell
+1946|die|die Erwartung
+2013|der|der Knochen
+2323|das|das Kapital
+2419|der|der Geruch
+2855|das|das Medium
+3246|der|der Großteil
+2463|der|der Organismus
+4290|adj|mittelalterlich
+3509|die|die Durchführung
+5011|die|die Fluggesellschaft
+2965|das|das Wirtschaftsforum
+4689|adj|technologisch
+2842|adj|interkulturell
+3544|die|die Auskunft
+3679|die|die Steigerung
+4784|die|die Fusion
+4564|die|die Evolution
+3716|die|die Architektur
+2070|die|die Abhängigkeit
+385|pron|dessen
+1613|die|die VWL (Volkswirtschaftslehre)
+503|die|die Grenze
+801|die|die Reihe
+1002|der|der Berg
+412|die|die Person
+4088|das|das Lokal
+4760|der|der Knall
+744|das|das Werk
+1277|der|der Rand
+1550|die|die Karte
+2247|die|die City
+2523|adj|flach
+4672|die|die Dusche
+1113|die|die Küche
+3191|der|der Status
+1951|die|die Stirn
+5033|adj|magisch
+401|das|das Gesicht
+3310|verb|spalten, spaltet, spaltete, hat gespalten
+3383|das|das Quartal
+469|verb|ergeben, ergibt, ergab, hat ergeben
+3099|der|der Aufstieg
+4308|adj|erreichbar
+4510|adj|asiatisch
+1139|das|das Ereignis
+1201|das|das Merkmal
+1607|das|das Krankenhaus
+2901|die|die Wellenlänge
+2907|die|die Plattform
+2959|der|der Arbeitgeber
+4798|der|der Moderator
+4962|der|der Syrer
+1242|adj|eindeutig
+1407|die|die Ursache
+4259|der|der Schädel
+4756|das|das Gutachten
+4192|adj|sozialistisch
+1643|die|die Kategorie
+1411|die|die Forschung
+3052|die|die Vereinbarung
+5049|der|der Ausschnitt
+2480|die|die Überzeugung
+4652|der|der Diskurs
+1307|die|die Geschwindigkeit
+3063|die|die Berücksichtigung
+4908|adj|funktional
+3063|die|die Berücksichtigung
+4709|die|die Verbreitung
+2958|die|die Vielzahl
+3063|die|die Berücksichtigung
+651|adj|eng
+478|das|das Produkt
+811|adj|modern
+112|pron|jede (r, s)
+441|das|das Ergebnis
+1046|das|das Risiko
+1102|der|der Schluss
+5057|adj|uralt
+1532|die|die Strecke
+1919|die|die Störung
+3248|die|die Software
+3983|das|das Neuron
+907|das|das Mitglied
+2591|das|das Erbe
+2633|adj|schlicht
+2968|die|die Einnahme
+3701|die|die Schlange
+4258|das|das Regime
+1143|der|der Rest
+1474|das|das Studium
+525|die|die Zukunft
+2734|das|das Subjekt
+4015|adj|symbolisch
+736|die|die Bedingung
+1394|der|der Tourist
+2212|der|der Gebrauch
+2713|adj|vielfach
+2899|der|der Konkurrent
+3638|die|die Muskulatur
+3823|die|die Haftung
+3852|die|die Diagnose
+4389|adj|horizontal
+4945|der|der Anhang
+2015|die|die Gegenwart
+1150|das|das Museum
+1538|die|die Wissenschaft
+2048|adj|durchschnittlich
+3593|adj|anstrengend
+1753|der|der Arbeitsplatz
+4326|adj|intellektuell
+3202|die|die Leidenschaft
+3017|die|die Philosophie
+3215|der|der Turm
+1008|die|die Sicht
+1273|das|das Maß
+1820|adj|billig
+1912|das|das Gen
+2178|das|das Brot
+2219|der|der Betrag
+2293|die|die Armee
+4596|der|der Schrei
+712|das|das Molekül
+3610|der|der Maßstab
+370|die|die Lösung
+1732|die|die Tradition
+1944|das|das Management
+2422|die|die Serie
+3237|das|das Stadion
+5056|der|der Umzug
+2019|das|das Phänomen
+2254|die|die Technologie
+2849|adj|magnetisch
+3887|der|der Stadtteil
+3938|die|die Gliederung
+3968|das|das Magnetfeld
+4443|adj|kommunal
+4907|der|der Fund
+4566|die|die Nervenzelle
+1248|die|die Ausbildung
+1670|adj|statistisch
+2418|die|die Existenz
+4295|adj|anorganisch
+4530|die|die Versuchsperson
+4518|die|die Wiedervereinigung
+3869|der|der Vorgänger
+1950|adj|kompliziert
+3541|das|das Praktikum
+4770|das|das Halbfinale
+2896|adj|umfangreich
+3119|der|der Champion
+4182|die|die Flüchtlingspolitik
+2015|die|die Gegenwart
+3508|die|die CD
+286|der|der Doktor
+5027|das|das Seil
+278|der|der Vater
+1014|das|das BGB (Bürgerliches Gesetzbuch)
+1035|der|der Absatz
+1899|adj|bunt
+3398|der|der Ertrag
+483|der|der Anfang
+1925|die|die Ausgabe
+632|die (pl)|
+940|der|der Einfluss
+1210|der|der Zeitpunkt
+3793|adj|endlos
+1565|die|die Runde
+4292|das|das Rezept
+913|der|der Beginn
+1311|die|die Maschine
+3479|die|die Herrschaft
+4084|adj|aromatisch
+1696|der|der Umgang
+2000|die|die Erkrankung
+2516|die|die Schwingung
+2511|der|der Zeitraum
+4097|das|das Immunsystem
+2605|der|der Wähler
+4609|adj|rational
+4474|der|der Katalysator
+4406|die|die Arbeitskraft
+3605|die|die Verknüpfung
+334|pron|deren
+771|das|das Modell
+3994|der|der LKW (Lastkraftwagen)
+1957|adj|komisch
+949|die|die Analyse
+1958|adj|westlich
+574|adj|positiv
+854|der|der Künstler
+2502|adj|wirksam
+3316|der|der Supermarkt
+904|adj|amerikanisch
+4030|adj|geometrisch
+4917|die|die Anatomie
+841|die|die Sicherheit
+3056|adj|divers
+3192|das|das Stichwort
+3513|die|die Erziehung
+969|adj|historisch
+1402|die|die Änderung
+1949|der|der Weltkrieg
+2565|die|die Verbesserung
+2563|der|der Gesellschafter
+3410|die|die Notwendigkeit
+3723|das|das Protokoll
+5003|die|die Übereinstimmung
+2656|das|das Individuum
+1199|der|der Bund
+1044|der|der Chef
+1879|das|das Drittel
+2107|adj|golden
+1896|verb|regeln, regelt, regelte, hat geregelt
+2392|die|die Periode
+5024|adj|nominal
+382|das|das Spiel
+795|die|die Phase
+2780|das|das Messer
+1196|das|das Jahrzehnt
+1446|das|das Wachstum
+1539|adj|global
+4461|die|die News
+1317|das|das Wochenende
+1366|adj|unbekannt
+1566|der|der Angriff
+3386|die|die Abgrenzung
+1884|das|das Restaurant
+3850|das|das Attribut
+2029|der|der Start
+2209|die|die Beobachtung
+2496|der|der Erzähler
+4500|die|die Algebra
+4783|adj|ethisch
+597|die|die Politik
+2144|der|der Hersteller
+3107|das|das Skript
+4581|adj|organisatorisch
+3760|die|die Steuerung
+4933|die|die Symmetrie
+1600|die|die Kommunikation
+539|das|das Kapitel
+1178|der|der Besuch
+1969|der|der Anwalt
+4426|adj|homogen
+3016|das|das Motto
+4481|die|die Betreuung
+4383|die|die Priorität
+1541|die|die Annahme
+3385|der|der Zettel
+4080|die|die Quote
+3777|adj|elementar
+3916|der|der Kühlschrank
+4263|der|der Operator
+4317|der|der Darm
+4796|adj|fraglich
+1477|die|die Demokratie
+2521|die|die Gewerkschaft
+2741|der, die|die Angestellte
+123|adj|lang
+306|adj|schwer
+746|der|der Bürger
+1280|der|der Winter
+434|die|die Möglichkeit
+1418|das|das Enzym
+2182|das|das Umfeld
+1718|die|die Mathematik
+2265|adj|nachhaltig
+5042|das|das Elektroauto
+318|die|die Abbildung
+4872|die|die Verteidigung
+3771|der|der Prinz
+3281|die|die Börse
+1503|das|das Objekt
+2080|das|das Viertel
+4489|das|das Center
+918|die|die Bildung
+2123|die|die CSU (Christlich-Soziale Union)
+985|der|der Abschnitt
+3808|die|die Addition
+4313|die|die Rotation
+4775|die|die Jagd
+1379|die|die Statistik
+2715|die|die Ernährung
+4488|der|der Verteidiger
+3353|die|die Veröffentlichung
+1340|adj|dicht
+4678|der|der Mythos
+1502|der|der Geist
+1989|das|das Schloss
+541|die|die Bedeutung
+2351|adj|extern
+4171|adj|brutal
+5088|adj|vertikal
+1666|die|die Bestimmung
+4587|adj|empfindlich
+1420|adj|intensiv
+3948|adj|materiell
+4769|die|die Energiewirtschaft
+2316|adj|analog
+1472|die|die Wirklichkeit
+1708|das|das Kriterium
+1755|die|die Komponente
+3933|der|der Protagonist
+521|die|die Information
+2647|der|der Austausch
+3097|die|die Zusammenfassung
+2953|die|die Version
+4288|der|der Fürst
+290|das|das Recht
+4757|der|der Kämpfer
+2114|adj|relevant
+700|der|der Mitarbeiter
+2302|die|die Vorschrift
+2059|die|die Religion
+5110|die|die Zivilisation
+1734|adj|freiwillig
+3471|der|der Kindergarten
+402|die|die Entwicklung
+2155|die|die Schrift
+1026|adj|komplex
+1141|adj|organisch
+3939|die|die Kartoffel
+4491|das|das Handwerk
+549|das|das Jahrhundert
+3571|das|das Smartphone
+1970|pron|dahinter
+4547|der|der Aufsatz
+4398|die|die Epoche
+2674|adj|christlich
+1461|das|das Gehirn
+4044|adj|partiell
+4552|adj|innovativ
+3153|die|die Zeitschrift
+4677|der|der Klimawandel
+1122|adj|ernst
+3081|adj|analytisch
+1473|die|die Union
