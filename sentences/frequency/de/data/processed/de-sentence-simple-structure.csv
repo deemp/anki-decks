@@ -1,4 +1,4 @@
-|part_of_speech|word_de
+|part_of_speech|word_de|sentence_de
 7|art|ein|Er hat ein Buch in der Tasche gefunden.
 651|adj|eng|Der Raum war so eng, dass wir kaum atmen konnten.
 1827|adv|ab|Der Zug fährt in fünf Minuten ab.
@@ -1579,3 +1579,1562 @@
 1744|der|der Ton|Der Ton änderte sich plötzlich.
 4003|adj|zart|Er bereitete das zarte Gemüse zu.
 4954|der|der Abgrund|Er stand still am Rand des Abgrunds.
+98|adj|gut
+625|adj|fest
+689|adj|okay
+800|adj|wahr
+231|adj|schön
+556|adv|genug
+927|adj|fremd
+1426|adj|real
+2087|adj|blöd
+4590|der|der Mist
+246|adj|besser
+703|adj|normal
+732|adj|selten
+810|adj|privat
+1110|adj|nötig
+1308|adj|ideal
+2096|adj|exakt
+179|adj|wichtig
+211|adj|möglich
+219|adj|richtig
+626|adj|aktuell
+629|adj|relativ
+844|adj|ständig
+884|adj|negativ
+885|adj|zentral
+897|adj|konkret
+1536|adj|üblich
+696|pron|derselbe, dieselbe, dasselbe
+792|adj|offenbar
+959|adj|national
+1181|adj|typisch
+1994|adj|korrekt
+2559|adj|illegal
+3176|adj|diskret
+638|adj|schwierig
+806|adj|notwendig
+908|adj|praktisch
+1430|adj|sinnvoll
+1848|adj|dringend
+603|adj|persönlich
+723|adj|wesentlich
+1361|adj|offiziell
+1881|adj|endgültig
+1961|adj|unmöglich
+2287|adj|bedeutend
+3028|adj|merkwürdig
+3060|adj|ausgeprägt
+3382|adj|maßgeblich
+4152|adj|alltäglich
+2284|adj|schrecklich
+1807|adj|erforderlich
+4579|adj|konventionell
+1322|adj|offensichtlich
+4035|adj|unwahrscheinlich
+1405|adj|selbstverständlich
+297|der|der Punkt
+902|das|das Feld
+1240|adj|leise
+2239|die|die Hose
+1237|das|das Papier
+1704|die|die Leiter
+3140|das|das Eisen
+2844|der|der Bildschirm
+1287|das|das Bier
+2283|adj|glatt
+2955|adj|dänisch
+3729|adj|akut
+3218|adj|intelligent
+2642|das|das Wohnzimmer
+3667|die|die Provinz
+3502|prep|inklusive
+3663|das|das Informationssystem
+72|pron|du
+0|art|der, die, das
+789|die|die EU (Europäische Union)
+421|adj|früh
+673|das|das Tier
+39|pron|ihr
+45|pron|sein
+140|der|der Tag
+183|das|das Haus
+203|die|die Welt
+458|der|der Raum
+464|die|die USA (Vereinigte Staaten von Amerika)
+745|adj|grün
+895|die|die Wand
+1508|der|der Hof
+2794|die|die Wut
+2887|adj|süß
+168|das|das Land
+249|die|die Stadt
+302|das|das Bild
+532|der|der Markt
+578|die|die Menge
+755|die|die Folie
+1375|das|das Leid
+1401|das|das Netz
+1745|das|das Büro
+2192|das|das Boot
+2560|der|der Sand
+2870|das|das Gras
+2974|das|das Zelt
+4066|das|das Camp
+4238|der|der Topf
+4353|die|die Hast
+5083|der|der Ofen
+48|pron|man
+111|pron|unser
+414|die|die Schule
+528|adj|weiß
+599|der|der Erfolg
+612|die|die Kunst
+727|adj|rein
+728|das|das Zimmer
+802|die|die Natur
+832|der|der Anteil
+836|der|der Sommer
+868|die|die Region
+909|die|die Gefahr
+957|der|der Himmel
+967|der|der Verein
+1170|die|die Macht
+1344|das|das Blatt
+1509|der|der Polizist
+1815|das|das Lied
+2224|der|der Park
+2321|die|die Halle
+2775|der|der Hafen
+2804|das|das Ufer
+3021|der|der Fleck
+3058|die|die Wiese
+3295|der|der Stamm
+3615|die|die Wüste
+3745|der|der Block
+4004|der|der Zwang
+4048|der|der Tanz
+4415|die|die Hölle
+4623|das|der Rasen
+4658|der|der Tempel
+5090|der|der Zorn
+383|die|die Familie
+393|der|der Bereich
+413|der|der Moment
+559|die|die Wohnung
+572|der|der Gott
+681|der|der Morgen
+990|die|die Türkei
+1062|der|der Traum
+1151|die|die Farbe
+1250|das|das Schiff
+1269|adj|heiß
+1327|der|der Effekt
+1359|die|die Figur
+1360|die|die Freude
+1384|pron|euer
+1633|der|der Fahrer
+1663|die|die Schuld
+1677|der|der Herbst
+1689|die|die Fläche
+1821|adj|dünn
+1886|die|die Tasche
+1930|die|die Anlage
+2012|der|der August
+2180|der|der Hunger
+2208|der|der Umfang
+2238|der|der Nutzen
+2286|die|die Klinik
+2549|die|die Blume
+2754|das|das Ausmaß
+2819|adj|kühl
+3033|adv|drüben
+3501|der|der Felsen
+3751|adj|gültig
+3772|der|der Radius
+3847|der|der Schock
+4128|der|der Balkon
+4228|die|die Blüte
+4338|der|der Engel
+4396|die|die Breite
+4441|die|die Furcht
+4687|der|der Riese
+3|conj|und
+105|conj|mal
+454|die|die Stimme
+738|der|der Zug
+828|die|die Schweiz
+872|das|das Lächeln
+1092|der|der Abstand
+1144|der|der Wunsch
+1232|der|der Garten
+1449|der|der Verlust
+1527|der|der Schaden
+1544|der|der Spiegel
+1763|die|die Schicht
+1963|das|das Wetter
+2049|der|der Strand
+2147|die|die Auswahl
+2250|die|die Membran
+2335|der|der Rat
+2369|die|die Reform
+2672|der|der Star
+3065|der|der Schreck
+3071|der|der Komplex
+3346|der|der Schrank
+3452|adj|tödlich
+3566|der|der Bestand
+3754|der|der Skandal
+3906|das|das Defizit
+4312|adj|populär
+4430|die|die Galerie
+4458|das|das Gift
+4560|die|die App
+4718|der|der Triumph
+4946|das|das Atelier
+839|num|eins
+995|das|das Gas
+1159|der|der König
+1231|der|der Haushalt
+1423|die|die Szene
+1515|verb|füllen, füllt, füllte, hat gefüllt
+1979|das|das Gedicht
+1992|der|der Abschluss
+2718|die|die Republik
+3090|der|der Geschmack
+3279|die|die Vision
+3311|das|das Vorhaben
+3796|der|der Reichtum
+4021|adj|ländlich
+4034|der|der Staub
+4322|die|die Terrasse
+4327|adj|legendär
+4380|adj|glänzend
+4401|die|die Kulisse
+4411|der|der Dreck
+4593|das|das Porträt
+4676|adj|gehörlos
+4744|das|das Ehepaar
+5030|die|die Fakultät
+5036|der|der Rückzug
+438|der|der Vergleich
+511|die|die Energie
+552|adj|öffentlich
+665|das|das Interesse
+710|die|die Beziehung
+1094|die|die Maßnahme
+1491|die|die Bahn
+1542|die|die Umgebung
+1606|der|der Flughafen
+1780|das|das Potenzial
+1906|das|das Bedürfnis
+2057|adj|potenziell
+2172|das|das Fest
+2338|adj|großartig
+2578|das|das Café
+2650|der|der Kaiser
+2683|das|das Geschenk
+2888|die|die Villa
+2999|der|der Buchstabe
+3006|adj|flüssig
+3178|das|das Gymnasium
+3381|die|die Hochzeit
+3414|die|die Zahlung
+3598|adj|mühsam
+3629|die|die Aufregung
+3639|der|der Rückstand
+3817|der|der Vorsprung
+3883|das|das Heim
+4050|das|das Universum
+4119|der|der Index
+4277|das|das Kraftwerk
+4444|der|der Landkreis
+4495|der|der Rentner
+4578|der|der Diener
+4620|die|die Neugier
+4626|der|der Datensatz
+4645|der|der Lastwagen
+4685|adj|familiär
+5061|der|der Ausblick
+8|pron|einer
+282|das|das Unternehmen
+389|adj|europäisch
+471|die|die Universität
+546|die|die Struktur
+772|die|die Bewegung
+922|die|die Veränderung
+1115|adj|täglich
+1285|adj|gefährlich
+1490|der|der Konflikt
+1556|der|der Journalist
+1604|adj|günstig
+1855|adj|ökonomisch
+1936|der|der Kandidat
+1981|die|die Hochschule
+2003|der|der Teilnehmer
+2076|das|das Bundesland
+2269|der|der Fischer
+2424|die|die Entfernung
+3130|das|das Kunstwerk
+3135|adj|mündlich
+3257|das|das Grundstück
+3323|der|der Ausgleich
+3506|adj|auffällig
+3594|der|der Bär
+3974|adj|gemütlich
+4141|adj|flüchtig
+4492|adj|humanitär
+4516|adj|römisch
+4686|die|die Reichweite
+4891|das|das Denkmal
+1006|die|die Erinnerung
+1482|die|die Investition
+1707|die|die Waffe
+1751|die|die Landschaft
+1873|adj|körperlich
+2118|der|der Charakter
+2179|die|die Geburt
+2488|der|der Arbeiter
+2631|adj|verfügbar
+2688|das|das Frühstück
+2716|die|die Küste
+3533|verb|löschen, löscht, löschte, hat gelöscht
+3599|adj|präzise
+3727|adj|vorläufig
+3756|die|die Abgabe
+3894|adj|gründlich
+3970|die|die Schlagzeile
+4011|der|der Durchmesser
+4039|der|der Brand
+4419|adj|unauffällig
+4451|die|die Bande
+4475|die|die Piste
+4477|die|die Stasi (Staatssicherheitsdienst)
+4507|die|die Sportart
+4675|der|der Fotograf
+4782|der|der Bundesstaat
+4795|der|der Fachbereich
+4952|die|die Leere
+5007|die|die Affäre
+89|adj|ganz
+715|das|das Auftreten
+1185|die|die Organisation
+1304|verb|auslösen, löst aus, löste aus, hat ausgelöst
+1428|verb|verstärken, verstärkt, verstärkte, hat verstärkt
+1650|adj|ausländisch
+1784|verb|beschränken, beschränkt, beschränkte, hat beschränkt
+1810|die|die Stimmung
+1935|verb|aufführen, führt auf, führte auf, hat aufgeführt
+2091|die|die Flucht
+2171|adj|ungewöhnlich
+2188|adj|militärisch
+2501|adj|vielfältig
+2550|der|der Schreibtisch
+2871|adj|logisch
+2949|das|das Zuhause
+2964|adj|unangenehm
+3082|das|das Anliegen
+3109|adj|zugänglich
+3194|adj|wunderschön
+3447|die|die Anzeige
+3481|adj|nützlich
+3682|die|die Ankunft
+3781|das|das Werkzeug
+3813|das|das Lehrbuch
+3838|das|das Schlafzimmer
+3911|die|die Anregung
+3918|die|die Airline
+3967|adj|königlich
+4009|das|das Abendessen
+4174|die|die Redaktion
+4239|die|die Enttäuschung
+4365|adj|Thüringer
+4371|die|die Verzweiflung
+4521|adj|auswärtig
+4715|die|die Pension
+1043|die|die Schwester
+1154|adj|regelmäßig
+1175|die|die Verantwortung
+1710|verb|zerstören, zerstört, zerstörte, hat zerstört
+1922|adj|künstlich
+2071|die|die Einrichtung
+2729|der|der Überblick
+2856|die|die Verpflichtung
+3026|die|die Gestaltung
+3182|adj|ökologisch
+3184|die|die Substitution
+3226|adj|hintere (r, s)
+3410|die|die Notwendigkeit
+3457|die|die Hitze
+3644|adj|unverändert
+4121|adj|Kölner
+4550|die|die Erleichterung
+4635|der|der Sekretär
+4660|die|die Verlängerung
+4941|der|der Gesang
+4992|der|der Abstieg
+141|adj|deutsch
+1169|die|die Kontrolle
+1206|die|die Voraussetzung
+1209|die|die Substanz
+1567|verb|einführen, führt ein, führte ein, hat eingeführt
+1659|die|die Bakterie
+1939|der|der Übergang
+1977|die|die Kombination
+2099|die|die Übersetzung
+2307|die|die Förderung
+2507|die|die Atmosphäre
+2548|die|die Werbung
+2663|adj|Münchner
+2763|adj|ausführlich
+2865|der|der Terrorist
+3280|adj|vordere
+3521|der|der Befehl
+3712|die|die Sanktion
+4201|die (pl)|
+4297|das|das Bundesamt
+4391|adj|kriminell
+4404|adj|spürbar
+4439|adj|zwangsläufig
+4545|adj|zeitgenössisch
+4633|adj|pädagogisch
+4674|die|die Fachhochschule
+4729|die|die Recherche
+4746|die|die Handschrift
+5092|die|die Kreuzung
+774|die|die Mitte
+1253|adj|obere (r, s)
+1408|adj|ursprünglich
+1455|adj|berühmt
+1588|adj|österreichisch
+1632|adj|bisherig
+1661|die|die Konsequenz
+1786|der|der Schauspieler
+1789|adj|jährlich
+1824|der|der Anbieter
+2104|die|die Dauer
+2222|die|die Koordination
+2320|adj|äußere (r, s)
+2464|die|die Ressource
+2659|die|die Versorgung
+2675|adj|Hamburger
+2807|die|die Strahlung
+3216|die|die Beschwerde
+4085|der|der Grenzwert
+4149|adj|verdächtig
+4162|adj|gleichmäßig
+4169|adj|stationär
+4184|die|die Infektion
+4198|das|das Maul
+4437|adj|unerträglich
+4777|der|der Spaziergang
+4866|das|das Paradies
+4883|adj|sächsisch
+4934|adj|ungleich
+5094|der|der Mindestlohn
+341|der|der Wert
+1600|die|die Kommunikation
+1972|die|die Ironie
+2823|adj|syrisch
+2898|die|die Infrastruktur
+2954|die|die Zunge
+3031|verb|verknüpfen, verknüpft, verknüpfte, hat verknüpft
+3046|die|die Menschheit
+3069|die|die Reduktion
+3196|der|der Weltmeister
+3633|der|der Nebel
+3643|die|die Hypothese
+3804|adj|spektakulär
+3839|die|die Tragödie
+3889|verb|verschärfen, verschärft, verschärfte, hat verschärft
+4287|adj|ärztlich
+4471|verb|zurückweisen, weist zurück, wies zurück, hat zurückgewiesen
+4762|adj|oberflächlich
+2|pron|der, die, das
+707|die|die Leistung
+1456|verb|ersetzen, ersetzt, ersetzte, hat ersetzt
+1813|das|das Fach
+2242|adj|arabisch
+2426|die|die Wahrnehmung
+2449|die|die Wechselwirkung
+2771|adj|allmählich
+2904|die|die Finanzierung
+2944|die|die Kasse
+3084|adj|sonstig
+3466|das|der Schild
+3491|die|die Verschiebung
+3564|die|die Unabhängigkeit
+3842|das|das Chaos
+4122|der|der Pariser
+4142|die|die Geographie
+4216|adj|regulär
+4250|die|die Willenserklärung
+4406|die|die Arbeitskraft
+5096|der|der Nationalpark
+358|der|der Blick
+635|die|die Aussage
+1148|adj|heutig
+1457|die|die Wahrscheinlichkeit
+1603|adj|angeblich
+1631|adj|sprachlich
+2023|das|das Gewicht
+3017|die|die Philosophie
+3164|adj|unzählig
+4372|adj|vorig
+4464|adj|signifikant
+4793|die|die Ähnlichkeit
+1080|der|der Westen, West-
+1433|der|der Stand
+2613|die|die Wurzel
+3043|das|das Zitat
+3063|die|die Berücksichtigung
+3288|die|die Fettsäure
+3545|der|der Bezirk
+3703|adj|verehrt
+3716|die|die Architektur
+3799|adj|städtisch
+4117|adj|außergewöhnlich
+4816|das|das Vokabular
+4897|der|der Import
+5059|adj|anfänglich
+627|der|der Begriff
+724|adj|englisch
+1399|adj|finanziell
+1548|adv|vorbei
+1673|adj|italienisch
+3260|adj|neutral
+3672|das|das Sofa
+4103|die|die Anwesenheit
+4243|adj|afrikanisch
+4247|die|die Moral
+1737|das|das Reich
+1911|adj|seltsam
+2070|die|die Abhängigkeit
+2680|der|der Abbau
+3003|der|der Reiz
+3223|adj|benachbart
+3730|das|das Album
+3961|die|die Akte
+3973|adv|zumeist
+4276|die|die Inszenierung
+4325|der|der Gesetzentwurf
+2416|adj|zukünftig
+2462|adj|gegenwärtig
+2851|die|die Beteiligung
+3206|die|die Universitätsbibliothek
+3720|der|der Kreislauf
+3737|der|der Teppich
+3824|adj|mutmaßlich
+4561|adj|derzeitig
+4679|adv|nirgends
+550|adj|wahrscheinlich
+1054|der|der Gewinn
+1164|der|der Beitrag
+2081|die|die Dimension
+2574|adj|Frankfurter
+3159|der|der Besitz
+3668|die|die Trauer
+3782|das|das Adjektiv
+3811|die|die Innenstadt
+3815|die|die Stichprobe
+3986|die|die Schätzung
+4813|die|die Rendite
+5073|die|die Beachtung
+958|adj|künftig
+2312|der|der Witz
+2395|der|der Einwohner
+2529|das|das Geschlecht
+3014|der|der Gehalt
+3222|der|der Suizid
+3301|das|das Datum
+3467|die|die Show
+3475|der|der Teufel
+3854|adj|prinzipiell
+4172|adj|ehrenamtlich
+809|adj|wirtschaftlich
+2481|die|die Ableitung
+2728|die|die Tour
+2915|die|die Aufklärung
+2931|adj|japanisch
+3059|die|die Anerkennung
+3486|die|die Bereitschaft
+3603|der|der Sieger
+3706|die|die Einleitung
+3758|adj|israelisch
+4224|das|das Glied
+4514|das|das Hindernis
+2531|die|die Aussicht
+3297|adj|radioaktiv
+3315|die|die Route
+3503|adj|kognitiv
+3898|verb|abziehen, zieht ab, zog ab, hat abgezogen
+4847|die|die Festlegung
+1876|das|das Volumen
+2187|adj|optisch
+2660|der|der Kommentar
+2667|die|die Rückkehr
+3255|die|die Ferne
+3411|die|die Reihenfolge
+3642|adj|hässlich
+3797|das|das Schema
+3863|adj|hessisch
+5067|adj|norwegisch
+5100|die|die Fassung
+312|die|die Geschichte
+2555|adj|olympisch
+3434|die|die Abschreibung
+3597|das|das Menschenrecht
+4801|die|die Realisierung
+4856|adj|visuell
+4924|die|die Bekämpfung
+234|pron|denen
+2958|die|die Vielzahl
+3653|adj|akademisch
+3759|der|der Nachweis
+3913|adj|jetzig
+4709|die|die Verbreitung
+4819|der|der Zerfall
+3871|adj|detailliert
+2582|adj|räumlich
+3168|adj|effizient
+3609|der|der Kompromiss
+4721|der|der Atomkern
+1841|adj|primär
+3547|die|die Entdeckung
+3989|der|der Marktanteil
+1779|der|der Verlauf
+3634|der|der Terroranschlag
+5048|das|das Attentat
+3421|die|die Begeisterung
+4810|die|die Interaktion
+2727|der|der Protest
+2921|die|die Schönheit
+1260|das|das Konzept
+2410|die|die Vielfalt
+507|die|die Idee
+812|das|das Haar
+2669|die|die Bar
+997|die|die Hälfte
+2304|der|der Flug
+2822|der|der Saal
+3320|der|der Kerl
+294|das|das Wasser
+650|die|die Zelle
+886|die|die Ebene
+1685|der|der Zweck
+2170|die|die GmbH
+633|der|der Krieg
+1577|adj|stabil
+3587|adj|absurd
+4102|der|der Strahl
+562|adj|gering
+843|adj|niedrig
+3786|das|das Getränk
+4463|die|die Siedlung
+1200|adj|extrem
+1292|die|die Nachricht
+1766|die|die Realität
+2447|adj|trocken
+3120|der|der Horizont
+4455|das|das Bündel
+4653|adj|dominant
+580|die|die Antwort
+1909|die|die Prüfung
+2038|der|der Unfall
+3402|adj|dynamisch
+3978|adj|blass
+4086|die|die Großstadt
+4399|die|die Explosion
+4606|der|der Fond
+2845|verb|erwischen, erwischt, erwischte, hat erwischt
+3045|adj|kaputt
+3596|adj|lateinisch
+4331|die|die Richtlinie
+4899|die|die Schublade
+477|die|die Sprache
+1059|die|die Darstellung
+1320|der|der Forscher
+1976|adj|empirisch
+2539|adj|dramatisch
+2571|der|der Ablauf
+3089|die|die Abstimmung
+3348|der|der Wechselkurs
+3905|verb|blockieren, blockiert, blockierte, hat blockiert
+4051|verb|vernetzen, vernetzt, vernetzte, hat vernetzt
+404|pron|mehrere
+4466|der|der Sturz
+1404|die|die Erkenntnis
+1419|adj|individuell
+2044|das|das Schicksal
+2202|die|die Interpretation
+2333|verb|stoppen, stoppt, stoppte, hat gestoppt
+3359|der|der Eingriff
+4180|die|die Eizelle
+4993|adj|ausgezeichnet
+2928|die|die Webseite
+3721|das|das Lösungsmittel
+3731|adj|chronisch
+4890|die|die Altstadt
+3104|der|der Gastgeber
+4334|verb|abschaffen, schafft ab, schaffte ab, hat abgeschafft
+1972|die|die Ironie
+3519|die|die Zeichnung
+4222|die|die Bestellung
+707|die|die Leistung
+5097|die|die Offenheit
+2505|der|der Mittelwert
+3581|die|die Fragestellung
+4408|die|die Gemeinsamkeit
+1127|adj|jeweilig
+1791|der|der Alltag
+1876|das|das Volumen
+2187|adj|optisch
+2241|verb|ansetzen, setzt an, setzte an, hat angesetzt
+2660|der|der Kommentar
+2667|die|die Rückkehr
+3057|der|der Höhepunkt
+3161|der|der Gläubiger
+3180|der|der Mörder
+3255|die|die Ferne
+3306|adj|fröhlich
+3411|die|die Reihenfolge
+3518|der|der Premierminister
+3549|der|der General
+3642|adj|hässlich
+3711|adj|restlich
+3797|das|das Schema
+3863|adj|hessisch
+4219|verb|unterdrücken, unterdrückt, unterdrückte, hat unterdrückt
+4274|adj|einstig
+4469|adj|voraussichtlich
+4804|verb|wiedergeben, gibt wieder, gab wieder, hat wiedergegeben
+4920|die|die Jahreszeit
+5067|adj|norwegisch
+5100|die|die Fassung
+264|die|die Woche
+1022|der|der Plan
+1894|das|das Dach
+3964|das|das Heft
+584|adj|langsam
+1648|die|die Fahrt
+2150|der|der Rang
+929|der|der Fehler
+1101|die|die Insel
+1112|der|der Sieg
+1180|die|die Quelle
+1263|die|die Spur
+1602|die|die Steuer
+2961|die|die Lücke
+3078|der|der Mantel
+4512|adj|blutig
+450|pron|jene (r, s)
+871|die|die Nummer
+1158|das|das Theater
+3384|die|die Spalte
+705|die|die Grundlage
+1451|adj|streng
+1700|der|der Vorschlag
+2054|die|die Ladung
+2471|der|der Koffer
+3341|die|die Öffnung
+4499|das|das Testament
+4732|adj|vornehm
+1746|die|die Umwelt
+2352|die|die Partie
+3426|die|die Übersicht
+4176|der|der Spruch
+889|der|der Spieler
+1136|die|die Theorie
+1183|die|die Behörde
+1459|adj|bayrisch
+1499|der|der Auftrag
+1583|der|der Zugang
+1799|die|die Gestalt
+1883|die|die Perspektive
+2636|der|der Pass
+3534|die|die Mahlzeit
+3820|adj|dauernd
+4220|verb|unterteilen, unterteilt, unterteilte, hat unterteilt
+4988|das|das Trinken
+1987|adj|parallel
+2167|das|das Bewusstsein
+2989|das|das Turnier
+3098|die|die Disziplin
+3687|adj|variabel
+4794|adj|beweglich
+1051|der|der Hinweis
+2261|die|die Operation
+3087|adj|permanent
+3949|der|der Produzent
+4772|die|die Rezeption
+3134|der|der Ursprung
+3942|der|der Aktionär
+4026|adj|anspruchsvoll
+4090|adj|thermisch
+4438|verb|zerreißen, zerreißt, zerriss, hat zerrissen
+2260|die|die Umfrage
+2271|die|die Überlegung
+2730|der|der Geschäftsführer
+1214|die|die Unterstützung
+4020|die|die Konferenz
+4047|der|der Schiedsrichter
+3788|adj|physiologisch
+2237|der|der Mechanismus
+2634|adj|angemessen
+4816|das|das Vokabular
+312|die|die Geschichte
+509|die|die Milliarde, Mrd.
+630|prep|laut
+668|adv|jeweils
+1597|adv|dahin
+2086|adj|Wiener
+2555|adj|olympisch
+2662|das|das Radio
+2666|verb|ansteigen, steigt an, stieg an, ist angestiegen
+2712|der, die|die Erste
+2781|adv|teils
+3434|die|die Abschreibung
+3736|der|der Flügel
+3835|verb|entfallen, entfällt, entfiel, ist entfallen
+3900|die|die Niederlande
+4007|die|die Nachrichtenagentur
+4210|verb|verankern, verankert, verankerte, hat verankert
+4296|verb|ausstehen, steht aus, stand aus, hat ausgestanden
+4611|adj|fließend
+4619|verb|läuten, läutet, läutete, hat geläutet
+4337|die|die Burg
+425|das|das Ding
+598|der|der Tod
+3406|adj|fett
+4472|der|der Abfall
+372|adj|bekannt
+2816|der|der Sprung
+3126|das|das Symptom
+3709|das|das Möbel
+4158|der|der Tunnel
+192|der|der Herr
+440|die|die Rolle
+1683|die|die Flasche
+1955|adj|beliebt
+531|verb|sterben, stirbt, starb, ist gestorben
+1518|adj|scharf
+1992|der|der Abschluss
+2141|der|der Anlass
+2214|der|der Verkehr
+3915|der|der Krebs
+4740|die|die Allianz
+4927|das|das Archiv
+941|die|die Temperatur
+1033|adv|weg
+1516|die|die Gemeinde
+4188|der|der Container
+2252|das|das Netzwerk
+3886|der|der Koch
+4135|das|das Mittelmeer
+4558|das|das Zeugnis
+4786|die|die Instanz
+1021|das|das Institut
+1202|adj|theoretisch
+3393|der|der Sachverhalt
+3890|die|die Zunahme
+4748|das|das Motorrad
+4436|die|die Präsentation
+1198|adj|unmittelbar
+4204|der|der Eintritt
+2787|die|die Katastrophe
+4305|der|der Algorithmus
+2659|die|die Versorgung
+1395|die|die Konzentration
+1750|die|die Tätigkeit
+3491|die|die Verschiebung
+4142|die|die Geographie
+4553|adj|kollektiv
+3207|die|die Zusammensetzung
+4160|die|die Differenzierung
+5063|die|die Diskriminierung
+3088|das|das Abkommen
+3958|die|die Transformation
+611|prep|innerhalb
+716|verb|auftreten, tritt auf, trat auf, ist aufgetreten
+1024|das|das Tor
+1239|prep|angesichts
+1529|verb|veröffentlichen, veröffentlicht, veröffentlichte, hat veröffentlicht
+1871|die|die Variable
+2318|prep|hinsichtlich
+2439|verb|aufwachsen, wächst auf, wuchs auf, ist aufgewachsen
+2455|verb|zurückführen, führt zurück, führte zurück, hat zurückgeführt
+2641|der|der Kredit
+2642|das|das Wohnzimmer
+3179|verb|isolieren, isoliert, isolierte, hat isoliert
+3360|adj|indisch
+3584|verb|konfrontieren, konfrontiert, konfrontierte, hat konfrontiert
+3597|das|das Menschenrecht
+3667|die|die Provinz
+3685|das|das Paket
+3698|adj|operativ
+3831|verb|zutrauen, traut zu, traute zu, hat zugetraut
+3856|die (pl)|die Unterlage
+4413|verb|fügen (sich), fügt, fügte, hat gefügt
+4801|die|die Realisierung
+4856|adj|visuell
+4857|das|das Wohl
+4878|die|die Hauptsache
+4924|die|die Bekämpfung
+563|der|der Film
+919|das|das Blut
+1095|das|das Band
+4583|der|der Stab
+424|die|die Gruppe
+1365|adj|digital
+3354|der|der Bescheid
+4432|die|die Malerei
+253|die|die Arbeit
+269|die (pl)|
+1012|die|die Position
+3054|das|das Labor
+3094|die|die Rente
+3954|adj|mutig
+5034|das|das Modul
+399|die|die Stelle
+1186|die|die Summe
+2297|der|der Termin
+2303|adj|winzig
+3029|verb|bedecken, bedeckt, bedeckte, hat bedeckt
+4434|die|die Maske
+577|der|der Kunde
+1147|adj|riesig
+2384|die|die Wärme
+3465|der|der Rechner
+3548|die (pl)|
+5037|das|das Stockwerk
+2651|verb|sperren, sperrt, sperrte, hat gesperrt
+3183|adj|problematisch
+1651|das|das Instrument
+1986|das|das Wesen
+3451|adj|realistisch
+3612|adj|starr
+1982|die|die Umsetzung
+2258|der|der Manager
+2547|das|das Seminar
+2579|adj|dauerhaft
+5046|der|der Tatort
+3128|die|die Auffassung
+3794|die|die Erweiterung
+3744|die|die Ausprägung
+4881|die|die Korrektur
+2222|die|die Koordination
+2937|die|die Einschätzung
+4453|die|die Bemühung
+4777|der|der Spaziergang
+1687|die|die Verwendung
+2500|adj|biologisch
+2904|die|die Finanzierung
+5053|das|das Referendum
+2643|die|die Kompetenz
+4902|die|die Verhaltensweise
+234|pron|denen
+467|das|das Pro
+1618|die|die Mark
+2092|verb|absehen, sieht ab, sah ab, hat abgesehen
+2207|adj|heilig
+2603|prep|jenseits
+2644|die|die Leitung
+2828|die|die Adresse
+2910|verb|herausstellen (sich), stellt heraus, stellte heraus, hat herausgestellt
+2958|die|die Vielzahl
+3106|adj|kinetisch
+3302|der|der Kellner
+3319|die|die Bundeswehr
+3502|prep|inklusive
+3532|verb|locken, lockt, lockte, hat gelockt
+3653|adj|akademisch
+3662|verb|hocken, hockt, hockte, hat gehockt
+3759|der|der Nachweis
+3913|adj|jetzig
+3944|verb|bestrafen, bestraft, bestrafte, hat bestraft
+4549|das|das Diagramm
+4709|die|die Verbreitung
+4817|verb|weiterentwickeln, entwickelt weiter, entwickelte weiter, hat weiterentwickelt
+4819|der|der Zerfall
+1083|der|der Baum
+968|das|das Atom
+799|der|der Zustand
+2358|das|das Gefäß
+4246|die|die Lampe
+652|die|die Kultur
+915|adj|breit
+4136|das|das Tuch
+474|die|die Richtung
+737|das|das Fenster
+1611|der|der Gegner
+3264|die|die Lunge
+4367|das|das Hirn
+4513|der|der Erwerb
+2157|der|der Anstieg
+2398|adj|lebendig
+4377|das|das Format
+4442|das|das Klavier
+4446|der|der Neubau
+4789|das|das Segment
+3955|der|der Stolz
+560|verb|gelingen, gelingt, gelang, ist gelungen
+856|der|der Versuch
+876|adj|interessant
+2861|das|das Finale
+2985|adj|senkrecht
+3121|die|die Intensität
+4257|das|das Märchen
+4573|adj|sowjetisch
+859|die|die Eigenschaft
+1069|der|der Sprecher
+1792|der|der Umsatz
+2737|der|der Schatz
+2918|der|der Fernseher
+4546|verb|zerbrechen, zerbricht, zerbrach, hat zerbrochen
+543|die|die Chemie
+1108|der|der Beruf
+4108|das|das Manuskript
+4509|die|die Zuordnung
+2017|die|die Aminosäure
+4511|die|die Biografie
+1838|adj|kurzfristig
+4391|adj|kriminell
+2711|adj|derartig
+4594|die|die Premiere
+2898|die|die Infrastruktur
+3572|die|die Werkstatt
+3700|die|die Qualifikation
+4178|die|die Befragung
+4781|die|die Auszeichnung
+2818|adj|experimentell
+3564|die|die Unabhängigkeit
+2388|der|der Unternehmer
+2670|die|die Betrachtung
+3233|die|die Aktivierung
+4694|adj|gesundheitlich
+171|adj|natürlich
+595|conj|bevor
+776|prep|aufgrund
+1182|das|das Gebiet
+2090|das|Afghanistan
+2652|der|der Sportler
+2692|die|die Entstehung
+3305|verb|vermögen, vermag, vermochte, hat vermocht
+3574|das|das Kloster
+3585|der|der Sex
+3607|adj|düster
+3871|adj|detailliert
+3931|adv|daheim
+3985|der|der Rücktritt
+4273|adv|binnen
+4802|der|der Rechtsanwalt
+4888|der|die Verletzte
+694|das|das Foto
+1204|der|der Papa
+654|der|der Sohn
+3741|der|der Hang
+1016|adj|blau
+1124|der|der Januar
+1487|adj|hell
+1775|das|das Handy
+1808|die|die Haltung
+3573|die|die Kälte
+3622|der|der Frühling
+4602|adj|witzig
+4663|adj|giftig
+917|die|die Wirkung
+1009|der|der Dollar
+1312|adj|linear
+1524|adj|heftig
+1819|die|die Auflage
+3957|die|die Tafel
+950|adj|klassisch
+1289|adj|komplett
+3284|der|der Teller
+3469|adj|bequem
+4113|die|die Spaltung
+2300|das|das Drama
+3659|der|der Rohstoff
+4417|die|die Reflexion
+4735|die|die Illusion
+2078|die|die Institution
+2094|adj|regional
+2902|der|der Anhänger
+4143|das|das Lebewesen
+4191|die|die Mutation
+1073|der|der Trainer
+3002|der|der Vordergrund
+3061|die|die Autobahn
+3418|adj|harmonisch
+3767|die|die Beurteilung
+3683|die|die Auflösung
+4194|die|die Vermutung
+1587|verb|festlegen, legt fest, legte fest, hat festgelegt
+4423|die|die Ausrichtung
+1445|der|der Besucher
+2996|der|der Übersetzer
+4681|der|der Stoffwechsel
+5074|die|die Befreiung
+2569|die|die Landwirtschaft
+4229|adj|elektromagnetisch
+1457|die|die Wahrscheinlichkeit
+4276|die|die Inszenierung
+4613|adj|naturwissenschaftlich
+1096|der|der Band
+1264|adj|berliner
+1348|adj|Schweizer
+1703|der|der Leiter
+2535|die|die Base
+2582|adj|räumlich
+3091|adj|nachfolgend
+3132|der|der Österreicher
+3168|adj|effizient
+3582|der|der Grieche
+3609|der|der Kompromiss
+3624|das|das Maximum
+3686|verb|putzen, putzt, putzte, hat geputzt
+3878|verb|erhoffen, erhofft, erhoffte, hat erhofft
+4038|verb|beauftragen, beauftragt, beauftragte, hat beauftragt
+4721|der|der Atomkern
+4788|adj|optimistisch
+503|die|die Grenze
+801|die|die Reihe
+412|die|die Person
+2217|der|der Kauf
+4144|der|der Ozean
+744|das|das Werk
+1452|die|die Ecke
+1757|der|der Laden
+3146|adj|cool
+4319|die|die Fassade
+5001|der|der Römer
+1229|das|das Zeichen
+1373|der|der Kaffee
+4190|adj|live
+4407|die|die Bibel
+5069|die|die Skulptur
+1521|die|die Formel
+2251|das|das Metall
+4332|der|der Trick
+401|das|das Gesicht
+1048|die|die Tabelle
+2064|adj|lokal
+4691|adj|antik
+469|verb|ergeben, ergibt, ergab, hat ergeben
+3971|adj|schmutzig
+4203|die|die Einteilung
+2630|adj|unklar
+3578|das|das Unglück
+4095|die|die Erfindung
+1332|die|die Anwendung
+1634|adj|traditionell
+1946|die|die Erwartung
+2013|der|der Knochen
+2323|das|das Kapital
+2419|der|der Geruch
+2855|das|das Medium
+3246|der|der Großteil
+2463|der|der Organismus
+3544|die|die Auskunft
+3679|die|die Steigerung
+4290|adj|mittelalterlich
+4784|die|die Fusion
+3509|die|die Durchführung
+4564|die|die Evolution
+3716|die|die Architektur
+5011|die|die Fluggesellschaft
+2070|die|die Abhängigkeit
+2965|das|das Wirtschaftsforum
+4689|adj|technologisch
+2842|adj|interkulturell
+334|pron|deren
+586|conj|nachdem
+1226|die|die Generation
+1439|der|der Anschlag
+1841|adj|primär
+1931|verb|erweitern, erweitert, erweiterte, hat erweitert
+2722|verb|beschleunigen, beschleunigt, beschleunigte, hat beschleunigt
+3173|adj|vorübergehend
+3321|adj|mechanisch
+3547|die|die Entdeckung
+3648|verb|zurücktreten, tritt zurück, trat zurück, ist zurückgetreten
+3684|verb|ausweichen, weicht aus, wich aus, ist ausgewichen
+3834|adj|bescheiden
+3928|verb|anfallen, fällt an, fiel an, hat angefallen
+3989|der|der Marktanteil
+651|adj|eng
+1002|der|der Berg
+478|das|das Produkt
+811|adj|modern
+4088|das|das Lokal
+4760|der|der Knall
+112|pron|jede (r, s)
+441|das|das Ergebnis
+1277|der|der Rand
+1550|die|die Karte
+2247|die|die City
+2523|adj|flach
+4672|die|die Dusche
+1113|die|die Küche
+3191|der|der Status
+907|das|das Mitglied
+1951|die|die Stirn
+5033|adj|magisch
+3310|verb|spalten, spaltet, spaltete, hat gespalten
+3383|das|das Quartal
+525|die|die Zukunft
+3099|der|der Aufstieg
+4308|adj|erreichbar
+4510|adj|asiatisch
+736|die|die Bedingung
+1139|das|das Ereignis
+1201|das|das Merkmal
+1607|das|das Krankenhaus
+2901|die|die Wellenlänge
+2907|die|die Plattform
+2959|der|der Arbeitgeber
+4798|der|der Moderator
+4962|der|der Syrer
+1242|adj|eindeutig
+1407|die|die Ursache
+4259|der|der Schädel
+4756|das|das Gutachten
+5049|der|der Ausschnitt
+2480|die|die Überzeugung
+4652|der|der Diskurs
+4908|adj|funktional
+1307|die|die Geschwindigkeit
+4192|adj|sozialistisch
+1643|die|die Kategorie
+1411|die|die Forschung
+3052|die|die Vereinbarung
+3063|die|die Berücksichtigung
+1431|der|der Bezug
+1471|verb|vermitteln, vermittelt, vermittelte, hat vermittelt
+1779|der|der Verlauf
+1974|die|die AG (Aktiengesellschaft)
+2946|der|der Hinblick
+3151|adj|virtuell
+3528|die|die Haustür
+3600|der|der Wahnsinn
+3634|der|der Terroranschlag
+3663|das|das Informationssystem
+3884|verb|heranziehen, zieht heran, zog heran, hat herangezogen
+4063|adj|schwul
+5048|das|das Attentat
+1046|das|das Risiko
+1102|der|der Schluss
+5057|adj|uralt
+712|das|das Molekül
+1532|die|die Strecke
+1919|die|die Störung
+3248|die|die Software
+3983|das|das Neuron
+370|die|die Lösung
+2591|das|das Erbe
+2633|adj|schlicht
+2968|die|die Einnahme
+3701|die|die Schlange
+4258|das|das Regime
+1143|der|der Rest
+1474|das|das Studium
+2734|das|das Subjekt
+4015|adj|symbolisch
+1394|der|der Tourist
+2212|der|der Gebrauch
+2713|adj|vielfach
+2899|der|der Konkurrent
+3638|die|die Muskulatur
+3823|die|die Haftung
+3852|die|die Diagnose
+4389|adj|horizontal
+4945|der|der Anhang
+2015|die|die Gegenwart
+1150|das|das Museum
+3593|adj|anstrengend
+1753|der|der Arbeitsplatz
+4326|adj|intellektuell
+3202|die|die Leidenschaft
+1538|die|die Wissenschaft
+2048|adj|durchschnittlich
+1207|verb|töten, tötet, tötete, hat getötet
+1816|die|die Nation
+2750|verb|zögern, zögert, zögerte, hat gezögert
+2753|verb|einziehen, zieht ein, zog ein, hat eingezogen
+2777|verb|abbilden, bildet ab, bildete ab, hat abgebildet
+3421|die|die Begeisterung
+3920|adj|außerordentlich
+3924|der|der Republikaner
+4810|die|die Interaktion
+286|der|der Doktor
+3215|der|der Turm
+1008|die|die Sicht
+278|der|der Vater
+1273|das|das Maß
+1820|adj|billig
+1912|das|das Gen
+2178|das|das Brot
+2219|der|der Betrag
+2293|die|die Armee
+4596|der|der Schrei
+483|der|der Anfang
+3610|der|der Maßstab
+632|die (pl)|
+940|der|der Einfluss
+1732|die|die Tradition
+1944|das|das Management
+2422|die|die Serie
+3237|das|das Stadion
+5056|der|der Umzug
+913|der|der Beginn
+2019|das|das Phänomen
+2254|die|die Technologie
+2849|adj|magnetisch
+3887|der|der Stadtteil
+3938|die|die Gliederung
+3968|das|das Magnetfeld
+4443|adj|kommunal
+4907|der|der Fund
+4566|die|die Nervenzelle
+1248|die|die Ausbildung
+1670|adj|statistisch
+2418|die|die Existenz
+3869|der|der Vorgänger
+1950|adj|kompliziert
+3541|das|das Praktikum
+4770|das|das Halbfinale
+2896|adj|umfangreich
+4295|adj|anorganisch
+3119|der|der Champion
+4530|die|die Versuchsperson
+4518|die|die Wiedervereinigung
+4182|die|die Flüchtlingspolitik
+1177|adv|andererseits
+2727|der|der Protest
+3692|verb|erregen, erregt, erregte, hat erregt
+3941|verb|zulegen, legt zu, legte zu, hat zugelegt
+4223|prep|einschließlich
+5032|verb|langweilen, langweilt, langweilte, hat gelangweilt
+5066|adj|fürchterlich
+3508|die|die CD
+771|das|das Modell
+5027|das|das Seil
+1014|das|das BGB (Bürgerliches Gesetzbuch)
+1035|der|der Absatz
+1899|adj|bunt
+3398|der|der Ertrag
+1925|die|die Ausgabe
+1210|der|der Zeitpunkt
+3793|adj|endlos
+949|die|die Analyse
+1565|die|die Runde
+4292|das|das Rezept
+574|adj|positiv
+854|der|der Künstler
+1311|die|die Maschine
+3479|die|die Herrschaft
+4084|adj|aromatisch
+904|adj|amerikanisch
+1696|der|der Umgang
+2000|die|die Erkrankung
+2516|die|die Schwingung
+841|die|die Sicherheit
+2511|der|der Zeitraum
+4097|das|das Immunsystem
+969|adj|historisch
+4474|der|der Katalysator
+2605|der|der Wähler
+4406|die|die Arbeitskraft
+3605|die|die Verknüpfung
+4609|adj|rational
+2027|verb|versorgen, versorgt, versorgte, hat versorgt
+2790|adj|bürgerlich
+3142|die|die Besonderheit
+3613|der|der Vorhang
+3994|der|der LKW (Lastkraftwagen)
+1957|adj|komisch
+382|das|das Spiel
+795|die|die Phase
+1958|adj|westlich
+2502|adj|wirksam
+3316|der|der Supermarkt
+4030|adj|geometrisch
+4917|die|die Anatomie
+3056|adj|divers
+3192|das|das Stichwort
+3513|die|die Erziehung
+597|die|die Politik
+1402|die|die Änderung
+3410|die|die Notwendigkeit
+3723|das|das Protokoll
+1949|der|der Weltkrieg
+2565|die|die Verbesserung
+5003|die|die Übereinstimmung
+2563|der|der Gesellschafter
+2656|das|das Individuum
+3543|die|die Vorsicht
+3551|verb|scheiden, scheidet, schied, hat geschieden
+3882|das|das Gemälde
+3904|die|die Wahlperiode
+3943|verb|auseinandersetzen, setzt auseinander, setzte auseinander, hat auseinandergesetzt
+4528|prep|seitens
+1199|der|der Bund
+539|das|das Kapitel
+1044|der|der Chef
+1879|das|das Drittel
+2107|adj|golden
+1896|verb|regeln, regelt, regelte, hat geregelt
+2392|die|die Periode
+5024|adj|nominal
+2780|das|das Messer
+1196|das|das Jahrzehnt
+1446|das|das Wachstum
+1539|adj|global
+4461|die|die News
+1317|das|das Wochenende
+1366|adj|unbekannt
+1566|der|der Angriff
+3386|die|die Abgrenzung
+1884|das|das Restaurant
+3850|das|das Attribut
+2029|der|der Start
+2209|die|die Beobachtung
+2496|der|der Erzähler
+4500|die|die Algebra
+4783|adj|ethisch
+2144|der|der Hersteller
+3107|das|das Skript
+1600|die|die Kommunikation
+3760|die|die Steuerung
+4933|die|die Symmetrie
+4581|adj|organisatorisch
+385|pron|dessen
+2751|adv|derart
+2821|die|die Opposition
+3569|adj|reell
+3732|die|die Justiz
+3858|verb|vernachlässigen, vernachlässigt, vernachlässigte, hat vernachlässigt
+123|adj|lang
+306|adj|schwer
+746|der|der Bürger
+1178|der|der Besuch
+1969|der|der Anwalt
+4426|adj|homogen
+434|die|die Möglichkeit
+3016|das|das Motto
+4481|die|die Betreuung
+4383|die|die Priorität
+1541|die|die Annahme
+3385|der|der Zettel
+4080|die|die Quote
+3777|adj|elementar
+3916|der|der Kühlschrank
+4263|der|der Operator
+4317|der|der Darm
+4796|adj|fraglich
+318|die|die Abbildung
+1477|die|die Demokratie
+2521|die|die Gewerkschaft
+2741|der, die|die Angestellte
+1061|part|ruhig
+2587|verb|vergeben
+2921|die|die Schönheit
+4835|der|der Demonstrant
+1280|der|der Winter
+1418|das|das Enzym
+2182|das|das Umfeld
+918|die|die Bildung
+985|der|der Abschnitt
+1718|die|die Mathematik
+2265|adj|nachhaltig
+5042|das|das Elektroauto
+4872|die|die Verteidigung
+1260|das|das Konzept
+3430|das|Asien
+3802|adj|reichlich
+3997|das|das Substrat
+3771|der|der Prinz
+3281|die|die Börse
+541|die|die Bedeutung
+1503|das|das Objekt
+2080|das|das Viertel
+4489|das|das Center
+2123|die|die CSU (Christlich-Soziale Union)
+3808|die|die Addition
+4313|die|die Rotation
+4775|die|die Jagd
+1379|die|die Statistik
+2715|die|die Ernährung
+4488|der|der Verteidiger
+3353|die|die Veröffentlichung
+1715|adv|einerseits
+2037|prep|mittels
+2361|die|die Tiefe
+3972|verb|überziehen, zieht über, zog über, hat überzogen
+1340|adj|dicht
+4678|der|der Mythos
+1502|der|der Geist
+1989|das|das Schloss
+2351|adj|extern
+4171|adj|brutal
+5088|adj|vertikal
+1666|die|die Bestimmung
+4587|adj|empfindlich
+1420|adj|intensiv
+3948|adj|materiell
+521|die|die Information
+4769|die|die Energiewirtschaft
+3665|adj|musikalisch
+290|das|das Recht
+2316|adj|analog
+700|der|der Mitarbeiter
+1472|die|die Wirklichkeit
+1708|das|das Kriterium
+1755|die|die Komponente
+3933|der|der Protagonist
+402|die|die Entwicklung
+2647|der|der Austausch
+3097|die|die Zusammenfassung
+3556|verb|beibringen, bringt bei, brachte bei, hat beigebracht
+4231|adv|abschließend
+2953|die|die Version
+4288|der|der Fürst
+4757|der|der Kämpfer
+2114|adj|relevant
+2302|die|die Vorschrift
+2059|die|die Religion
+5110|die|die Zivilisation
+1734|adj|freiwillig
+3471|der|der Kindergarten
+3864|das|das Hessisch
+3976|das|das Zeitalter
+4910|die|die Jungfrau
+2155|die|die Schrift
+1026|adj|komplex
+549|das|das Jahrhundert
+1141|adj|organisch
+3939|die|die Kartoffel
+1389|adv|vielmehr
+2925|pron|dazwischen
+4491|das|das Handwerk
+3571|das|das Smartphone
+2168|die|die Stiftung
+1970|pron|dahinter
+2735|der|der Außenminister
+4547|der|der Aufsatz
+4398|die|die Epoche
+2674|adj|christlich
+2617|verb|bedrohen, bedroht, bedrohte, hat bedroht
+2805|die|die Dichte
+1461|das|das Gehirn
+2498|adj|umstritten
+4044|adj|partiell
+4552|adj|innovativ
+3153|die|die Zeitschrift
+4677|der|der Klimawandel
+1122|adj|ernst
+3081|adj|analytisch
+1473|die|die Union
+2410|die|die Vielfalt
+1613|die|die VWL (Volkswirtschaftslehre)
