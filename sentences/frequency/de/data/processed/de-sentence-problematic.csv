@@ -19,11 +19,9 @@
 3366|die|die Rose|Die Rose im Garten duftet herrlich.
 4502|die|die Box|Die Box ist voller Überraschungen.
 69|pron|mein|Mein Hund wartet immer vor der Tür.
-71|das|das Jahr|Das Jahr verging wie im Flug.
 408|adj|direkt|Der direkte Weg führt durch den Wald.
 545|der|der Körper|Der Körper ist ein komplexes System.
 587|der|der Tisch|Der Tisch in der Küche ist aus Holz.
-594|der|der Boden|Der Boden war nass vom Regen.
 773|adv|unten|Unten im Keller lagert der Wein.
 797|die|die Reise|Die Reise nach Paris war ein Traum.
 906|der|der Brief|Der Brief lag geöffnet auf dem Tisch.
@@ -41,7 +39,6 @@
 1862|das|das Kleid|Das Kleid steht ihr wirklich gut.
 1943|das|das Loch|Das Loch im Zaun muss repariert werden.
 2158|die|die Kurve|Die Kurve war gefährlich scharf.
-2305|das|das Holz|Das Holz knisterte im Kamin.
 3030|die|die Kuh|Die Kuh graste friedlich auf der Wiese.
 3590|der|der Apfel|Der Apfel fiel direkt vom Baum.
 3651|der|der Rock|Der Rock ist aus leichtem Stoff.
@@ -49,14 +46,11 @@
 4012|die|die Oper|Die Oper hat die Zuschauer begeistert.
 4196|der|der Käse|Der Käse riecht sehr intensiv.
 4490|der|der Halt|Der Bus machte einen kurzen Halt.
-4670|das|das TV|Das TV läuft im Hintergrund.
-4776|die|die Puppe|Die Puppe saß auf dem Regal.
 4968|das|das Fass|Das Fass war mit Wein gefüllt.
 5106|die|die Ruine|Die Ruine war von Pflanzen überwuchert.
 15|aux|werden, wird, wurde, ist geworden|Er wird bald nach Hause kommen.
 115|der|der Mensch|Der Mensch ist ein soziales Wesen.
 446|die|die Straße|Die Straße war voller Menschen.
-589|verb|bieten, bietet, bot, hat geboten|Er bietet seine Hilfe an.
 837|das|das Hotel|Das Hotel liegt direkt am Strand.
 961|adv|links|Links vom Gebäude liegt ein Park.
 1018|adj|teuer|Der Schmuck war unglaublich teuer.
@@ -67,11 +61,8 @@
 1517|die|die Pause|Die Pause dauerte nur fünf Minuten.
 1522|adj|gelb|Die Blätter sind im Herbst oft gelb.
 1525|die|die Bühne|Die Bühne war hell erleuchtet.
-1719|das|das Bad|Das Bad ist frisch renoviert.
 1882|adj|ewig|Die Diskussion schien ewig zu dauern.
-1900|die|die Falle|Die Falle schnappte laut zu.
 2021|die|die Brücke|Die Brücke verbindet die beiden Städte.
-2061|adj|nackt|Er stand nackt am Fenster.
 2062|die|die Ware|Die Ware wurde heute geliefert.
 2235|der|der Trend|Der Trend geht zu nachhaltiger Mode.
 2259|die|die Oma|Die Oma backt die besten Plätzchen.
@@ -80,7 +71,6 @@
 2597|der|der Kanal|Der Kanal führt durch die Stadt.
 2977|die|die Brille|Die Brille lag auf dem Schreibtisch.
 3187|der|der Hügel|Der Hügel ist leicht zu erklimmen.
-3213|adj|nass|Der Boden war nass vom Regen.
 3387|die|die Jacke|Die Jacke hält mich warm im Winter.
 3563|die|die Maus|Die Maus huschte schnell über den Boden.
 4028|der|der Cent|Er fand einen Cent auf dem Gehweg.
@@ -103,11 +93,9 @@
 2033|die|die Treppe|Die Treppe knarrte bei jedem Schritt.
 2218|das|das Öl|Das Öl wird aus Oliven gepresst.
 2350|der|der Mord|Der Mord wurde schnell aufgeklärt.
-2745|das|das Hemd|Das Hemd ist frisch gebügelt.
 2853|der|der Hut|Der Hut schützt vor der Sonne.
 3007|der|der Sturm|Der Sturm wütete die ganze Nacht.
 3170|die|die Platte|Die Platte auf dem Tisch war aus Holz.
-3337|der|der Posten|Der Posten wurde neu besetzt.
 3440|die|die Säule|Die Säule stützte das Dach des Tempels.
 3477|der|der Anzug|Der Anzug passte perfekt zu ihm.
 3526|der|der Helfer|Der Helfer brachte die Kisten ins Haus.
@@ -142,10 +130,8 @@
 3473|der|der Song|Der neue Song von ihr ist ein Hit.
 3488|die|die Front|An der Front tobte ein heftiger Sturm.
 3591|adj|autonom|Das Fahrzeug fährt vollkommen autonom.
-3770|der|der Hörer|Der Hörer legte abrupt auf.
 4025|die|die Wurst|Die Wurst auf dem Grill duftet köstlich.
 4405|der|der Stall|Der Stall wurde frisch ausgemistet.
-4589|adj|hilflos|Das Kätzchen sah hilflos aus.
 4747|die|die Miene|Seine Miene verriet keine Emotionen.
 4986|der|der Reiter|Der Reiter galoppierte über das Feld.
 582|adj|falsch|Die Antwort war leider falsch.
@@ -311,17 +297,13 @@
 3050|verb|ausgleichen, gleicht aus, glich aus, hat ausgeglichen|Das Team glich in letzter Minute aus.
 3166|die|die Anfrage|Die Anfrage wurde sofort beantwortet.
 3208|die|die Ausführung|Die Ausführung war einfach perfekt.
-3247|die|die Motivation|Ohne Motivation läuft nichts.
-3287|verb|einbeziehen, bezieht ein, bezog ein, hat einbezogen|Er wollte alle einbeziehen.
 3309|adj|quantitativ|Quantitative Daten allein reichen nicht.
-3420|verb|absagen, sagt ab, sagte ab, hat abgesagt|Sie musste leider absagen.
 3448|der|der Chinese|Der Chinese sprach fließend Deutsch.
 3540|die|die Mitteilung|Die Mitteilung kam unerwartet.
 4024|die|die Versicherung|Die Versicherung zahlt nicht immer.
 4055|die|die Ablehnung|Die Ablehnung kam überraschend.
 4138|die|die Wende|Die Wende brachte viele Veränderungen.
 4157|der|der Mediziner|Der Mediziner forschte intensiv.
-4211|der|der Zähler|Der Zähler stand auf null.
 4248|adj|philosophisch|Er stellte eine philosophische Frage.
 4289|adj|geschickt|Sie löste das Problem geschickt.
 4347|verb|inszenieren, inszeniert, inszenierte, hat inszeniert|Der Regisseur inszenierte das Stück neu.
@@ -331,30 +313,21 @@
 4903|die|die Wachstumsrate|Die Wachstumsrate stieg stark an.
 4923|die|die Umwandlung|Die Umwandlung dauerte Monate.
 4948|die|die Fachsprache|Die Fachsprache ist schwer zu verstehen.
-5016|die|die Lesung|Die Lesung war gut besucht.
-5104|das|das Präparat|Das Präparat zeigte Wirkung.
 482|adj|international|Das Treffen war international besetzt.
 575|das|das Gespräch|Das Gespräch verlief freundlich.
 761|die|die Einführung|Die Einführung verlief reibungslos.
 1254|die|die Gleichung|Die Gleichung wurde korrekt gelöst.
-1296|adj|konstant|Der Druck blieb konstant.
 1356|die|die Integration|Die Integration verlief erfolgreich.
-1454|der|der Artikel|Der Artikel erschien gestern.
 1657|das|das Verständnis|Das Verständnis war schnell da.
 1833|adj|weitgehend|Das Problem ist weitgehend gelöst.
 1837|adj|gegenseitig|Sie hatten gegenseitigen Respekt.
 2035|die|die Einstellung|Ihre Einstellung hat sich geändert.
-2124|der|der Direktor|Der Direktor hielt eine Rede.
-2164|adj|unendlich|Der Raum schien unendlich.
-2190|verb|unterbrechen, unterbricht, unterbrach, hat unterbrochen|Bitte unterbrich mich nicht.
-2308|der|der Impuls|Der Impuls kam plötzlich.
 2336|der|der Bewohner|Die Bewohner waren freundlich.
 2363|adj|moralisch|Das war eine moralische Entscheidung.
 2436|der|der Transport|Der Transport verlief reibungslos.
 2590|der|der Eingang|Der Eingang war schwer zu finden.
 2649|die|die Station|Die Station war modern ausgestattet.
 2950|adj|einheitlich|Die Regeln sind einheitlich festgelegt.
-3044|die|die Anpassung|Die Anpassung dauerte etwas.
 3124|num|neunzig|Neunzig Minuten vergingen schnell.
 3131|das|das Ministerium|Das Ministerium genehmigte den Antrag.
 3380|der|der Empfänger|Der Empfänger freute sich sehr.
@@ -371,12 +344,8 @@
 4484|der|der Nachwuchs|Der Nachwuchs gedeiht prächtig.
 4524|der|der Herausgeber|Der Herausgeber entschied das Layout.
 5009|verb|ausstrahlen, strahlt aus, strahlte aus, hat ausgestrahlt|Der Sender strahlt das Programm aus.
-505|die|die Entscheidung|Die Entscheidung fiel schwer.
-944|das|das Verfahren|Das Verfahren dauerte lange.
-1672|verb|durchsetzen, setzt durch, setzte durch, hat durchgesetzt|Er konnte sich durchsetzen.
 1778|der|der Frieden|Der Frieden war endlich erreicht.
 1998|adj|automatisch|Das Licht schaltet sich automatisch ein.
-2130|adj|mathematisch|Mathematisch ist das korrekt.
 2329|die|die Verwaltung|Die Verwaltung arbeitet effizient.
 2778|der|der Rezeptor|Der Rezeptor reagierte sofort.
 2869|die|die Auswertung|Die Auswertung ergab interessante Daten.
@@ -384,7 +353,6 @@
 3401|num|achtzig|Achtzig Gäste waren eingeladen.
 3530|adj|aggressiv|Der Hund verhielt sich aggressiv.
 3717|die|die Biologie|Die Biologie fasziniert ihn sehr.
-3726|verb|vernichten, vernichtet, vernichtete, hat vernichtet|Das Feuer vernichtete alles.
 4052|num|vierzehn|Vierzehn Bücher liegen auf dem Tisch.
 4165|die|die Moderne|Die Moderne beeinflusst die Kunst stark.
 4278|das|das Nervensystem|Das Nervensystem reagiert auf Stress.
@@ -419,9 +387,7 @@
 2661|adj|kontinuierlich|Der Druck nahm kontinuierlich zu.
 2769|die|die Flüchtlingskrise|Die Flüchtlingskrise spaltet die Nation.
 2966|die|die Angelegenheit|Diese Angelegenheit muss geklärt werden.
-3100|pron|keinerlei|Es gab keinerlei Probleme.
 3390|die|die Unterscheidung|Die Unterscheidung fiel ihm schwer.
-3780|das|das Versprechen|Er hielt sein Versprechen.
 4241|adj|prominent|Ein prominenter Gast besuchte das Event.
 4345|die|die Erhebung|Die Erhebung der Daten dauerte Wochen.
 4863|der|der Betrachter|Der Betrachter war tief bewegt.
@@ -452,54 +418,38 @@
 488|der|der Satz|Der Satz beginnt mit einem starken Wort.
 514|die|die Kraft|Die Kraft zieht das Seil straff.
 529|der|der Text|Der Text erklärt die Regeln deutlich.
-639|das|das Gut|Das Gut liegt nahe der Stadt.
 3047|die|die Note|Die Note motivierte ihn, weiterzulernen.
 152|der|der Mann|Der Mann hilft seinem Nachbarn oft.
 298|der|der Grund|Der Grund bleibt ihm ein Rätsel.
-388|der|der Preis|Der Preis steigt jeden Monat.
 492|das|das Licht|Das Licht erhellt den Raum sofort.
 567|die|die Musik|Die Musik weckt alte Erinnerungen.
 613|die|die Lage|Die Lage verschärft sich täglich.
-1279|der|der Kern|Der Kern trifft den Punkt.
-2050|der|der Zins|Der Zins steigt jedes Jahr.
 2839|adj|steil|Der Weg führt steil nach oben.
 3379|der|der Zaun|Der Zaun umschließt das Grundstück.
-3463|der|der Lärm|Der Lärm stört den Schlaf.
 3512|adj|treu|Er bleibt treu an ihrer Seite.
-285|adj|klar|Sie erklärt die Regeln klar.
 498|adj|tief|Der Brunnen reicht tief in die Erde.
 721|das|das Bett|Das Bett steht neben dem Fenster.
 822|der|der Stoff|Der Stoff liegt weich in der Hand.
 912|die|die Liebe|Die Liebe wächst mit der Zeit.
-921|die|die Anzahl|Die Anzahl der Gäste steigt.
 955|adj|kalt|Das Wasser fühlt sich kalt an.
 1741|die|die Mauer|Die Mauer schützt das alte Haus.
 1853|der|der Süden, Süd-|Der Süden lockt mit warmem Wetter.
-1874|die|die Liste|Die Liste enthält alle Namen.
 2767|adj|blind|Er vertraut blind auf seinen Freund.
 3251|der|der Hass|Der Hass zerstört jede Freundschaft.
 3334|die|die Linse|Die Linse vergrößert das Bild.
-3374|der|der Leib|Der Leib erträgt die Kälte.
-3588|die|die Miete|Die Miete steigt jedes Jahr.
 3618|die|die Tasse|Die Tasse zerbricht beim Sturz.
 4299|der|der Faden|Der Faden reißt mitten im Nähen.
 4459|der|der Knopf|Der Knopf fällt von der Jacke.
 4607|die|die Logik|Die Logik fehlt in seiner Erklärung.
 4618|der, das|der Laptop|Der Laptop startet nach dem Update.
-304|der|der Name|Der Name klingt vertraut.
-699|adj|knapp|Die Zeit reicht knapp aus.
-845|der|der Einsatz|Der Einsatz erhöht den Druck.
 864|die|die Wahl|Die Wahl bestimmt die Zukunft.
 1109|der|der Ansatz|Der Ansatz führt zu einem neuen Plan.
-1212|der|der Gang|Der Gang führt zur Küche.
 1630|der|der Service|Der Service verbessert sich ständig.
-1725|adj|wild|Die Tiere leben wild im Wald.
 1907|das|das Niveau|Das Niveau steigt mit der Übung.
 1948|der|der Beweis|Der Beweis überzeugt den Richter.
 2736|die|die Faser|Die Faser reißt bei hoher Belastung.
 2947|die|die Last|Die Last drückt schwer auf den Rücken.
 3245|die|die Grafik|Die Grafik zeigt deutliche Unterschiede.
-3314|der|der Pilz|Der Pilz wächst im Schatten.
 4042|das|das Examen|Das Examen fordert volle Konzentration.
 4420|der|der Zwerg|Der Zwerg versteckt sich im Wald.
 4529|adj|verbal|Er reagiert nur verbal auf Kritik.
@@ -510,51 +460,37 @@
 980|die|die Bindung|Die Bindung hält die Teile zusammen.
 1554|die|die Debatte|Die Debatte endet ohne Ergebnis.
 1653|die|die Gegend|Die Gegend lädt zum Wandern ein.
-1709|der|der Beifall|Der Beifall füllt den Raum.
 1743|der|der Stuhl|Der Stuhl wackelt auf dem Boden.
-2327|der|der Lohn|Der Lohn deckt die Kosten.
 2360|die|die Milch|Die Milch steht im Kühlschrank.
 2494|der|der Schnitt|Der Schnitt teilt den Apfel in zwei.
-2731|der|der Griff|Der Griff löst sich leicht.
 2759|die|die Distanz|Die Distanz wächst zwischen ihnen.
 3079|die|die Prognose|Die Prognose stimmt oft nicht.
 3256|das|das Gelände|Das Gelände erfordert festes Schuhwerk.
-3303|die|die Kiste|Die Kiste steht im Keller.
 3329|die|die Varianz|Die Varianz erklärt die Schwankungen.
 3433|die|die Vorgabe|Die Vorgabe legt das Ziel fest.
-3743|der|der Applaus|Der Applaus endet abrupt.
 3749|das|das Budget|Das Budget begrenzt die Ausgaben.
 4632|die|die Kabine|Die Kabine bietet Platz für zwei.
 731|das|das Verhältnis|Das Verhältnis bleibt angespannt.
-1071|die|die Kritik|Die Kritik trifft den Nerv.
 1163|der|der Aufbau|Der Aufbau dauert mehrere Stunden.
 1276|die|die Qualität|Die Qualität überzeugt die Kunden.
-1315|adj|kritisch|Er prüft alles kritisch nach.
 1357|der|der Nachbar|Der Nachbar hilft bei jedem Problem.
 1559|der|der Schmerz|Der Schmerz lässt ihn nicht schlafen.
 1649|der|der Urlaub|Der Urlaub beginnt nächste Woche.
 1727|die|die Spitze|Die Spitze erreicht die Wolken.
 1773|die|die Führung|Die Führung übernimmt das Kommando.
-1812|adj|enorm|Der Druck wächst enorm an.
-2065|der|der Standard|Der Standard gilt für alle.
 2112|die|die Messung|Die Messung ergibt klare Werte.
 2120|die|die Lehre|Die Lehre erklärt die Grundlagen.
 2295|der|der Nerv|Der Nerv schmerzt bei jeder Bewegung.
-2527|adj|sauer|Er reagiert sauer auf Kritik.
 2707|der|der Aufwand|Der Aufwand lohnt sich am Ende.
 2930|der|der Besitzer|Der Besitzer begrüßt die Gäste.
 2940|das|das Resultat|Das Resultat bestätigt die Theorie.
 3067|der|der Anschluss|Der Anschluss funktioniert einwandfrei.
-3152|der|der Vorname|Der Vorname steht im Ausweis.
-3317|der|der Ausgang|Der Ausgang führt ins Freie.
 3357|adj|klinisch|Er untersucht alles klinisch genau.
-4101|der|der Sessel|Der Sessel steht am Fenster.
 4120|der|der Kasten|Der Kasten ist schwer zu tragen.
 4140|das|das Bündnis|Das Bündnis stärkt die Position.
 4339|das|das Fazit|Das Fazit fasst alles zusammen.
 4918|das|das Design|Das Design gefällt auf Anhieb.
 4965|der|der Einkauf|Der Einkauf dauerte länger als geplant.
-455|die|die Reaktion|Die Reaktion folgte prompt.
 479|die|die Situation|Die Situation entspannt sich langsam.
 933|das|das Prinzip|Das Prinzip erklärt die Methode.
 972|die|die Vorstellung|Die Vorstellung beginnt um acht.
@@ -567,25 +503,16 @@
 1466|das|das Material|Das Material bricht unter Druck.
 1493|das|das Einkommen|Das Einkommen reicht kaum aus.
 1553|die|die Strategie|Die Strategie führt zum Erfolg.
-1840|das|das Urteil|Das Urteil fällt hart aus.
 1857|die|die Initiative|Die Initiative bringt neue Ideen.
-1869|das|das Detail|Das Detail entgeht niemandem.
-2101|das|das Argument|Das Argument überzeugt nicht.
-2206|die|die Belastung|Die Belastung wächst täglich.
 2221|das|das Fahrrad|Das Fahrrad steht vor der Tür.
 2291|der|der Standort|Der Standort bietet viele Vorteile.
 2432|die|die Strafe|Die Strafe folgt auf das Vergehen.
 2460|die|die Matrix|Die Matrix enthält viele Zahlen.
 2586|das|das Spektrum|Das Spektrum deckt alle Bereiche ab.
 2762|das|das Muster|Das Muster zeigt klare Linien.
-2942|die|die Anordnung|Die Anordnung ändert alles.
 2980|der|der Entwurf|Der Entwurf erhält gute Kritik.
 3185|der|der Tipp|Der Tipp bringt ihm den Erfolg.
-3203|der|der Parkplatz|Der Parkplatz ist oft voll.
-3614|die|die Währung|Die Währung verliert an Wert.
-3935|die|die Strömung|Die Strömung reißt alles mit.
 3992|die|die Teilnahme|Die Teilnahme bringt viele Vorteile.
-4081|die|die Vorlage|Die Vorlage trifft den Punkt.
 4125|die|die Steigung|Die Steigung fordert viel Kraft.
 4131|das|das Duell|Das Duell endet unentschieden.
 4462|das|das Profil|Das Profil zeigt klare Kanten.
@@ -597,30 +524,21 @@
 693|der|der Unterschied|Der Unterschied zeigt sich deutlich.
 1137|der|der Inhalt|Der Inhalt passt in die Tasche.
 1235|der|der Gegensatz|Der Gegensatz bleibt unverändert.
-2204|die|die Stellung|Die Stellung erfordert Mut.
 2377|der|der Gipfel|Der Gipfel bietet eine tolle Aussicht.
-2435|der|der Kontext|Der Kontext erklärt den Satz.
 2593|adj|islamisch|Er lebt nach islamisch geprägten Regeln.
 2623|die|die Materie|Die Materie verändert ihre Form.
-2653|die|die Differenz|Die Differenz wächst stetig.
-2702|die|die Achse|Die Achse dreht sich schnell.
 2911|die|die Kleidung|Die Kleidung trocknet in der Sonne.
-3038|adj|juristisch|Er klärt alles juristisch ab.
 3312|die|die Einigung|Die Einigung bringt endlich Ruhe.
 3388|die|die Präferenz|Die Präferenz entscheidet die Wahl.
 3485|die|die Bedrohung|Die Bedrohung wächst von Tag zu Tag.
 3562|adj|kostenlos|Er bietet die Hilfe kostenlos an.
-3807|der|der Wirt|Der Wirt öffnet die Tür weit.
 3922|adj|minimal|Er zahlt minimal für die Reparatur.
 4381|das|das Original|Das Original bleibt unberührt.
-4605|das|das Exemplar|Das Exemplar steht im Regal.
 4915|die|die Teilung|Die Teilung spaltet die Gruppe.
-5086|die|die Sehne|Die Sehne reißt beim Sprung.
 350|das|das Thema|Das Thema weckt großes Interesse.
 583|der|der Zusammenhang|Der Zusammenhang bleibt unklar.
 661|das|das Verhalten|Das Verhalten ändert sich langsam.
 1038|der|der Ausdruck|Der Ausdruck passt perfekt zum Text.
-1090|die|das Grüne|Das Grüne beruhigt die Augen.
 1225|der|der Schutz|Der Schutz bewahrt vor Gefahren.
 1396|verb|verbieten, verbietet, verbot, hat verboten|Die Stadt verbietet das Rauchen im Park.
 1453|der|der Lauf|Der Lauf führt durch den Wald.
@@ -640,7 +558,6 @@
 1085|die|die Diskussion|Die Diskussion dreht sich im Kreis.
 1383|der|der Gegenstand|Der Gegenstand fällt vom Tisch.
 1398|die|die Fähigkeit|Die Fähigkeit beeindruckt alle.
-1585|die|die Suche|Die Suche bleibt erfolglos.
 1983|das|das Engagement|Das Engagement führt zum Erfolg.
 2111|die|die Bewertung|Die Bewertung fällt sehr positiv aus.
 2232|die|die Vorbereitung|Die Vorbereitung kostet viel Zeit.
@@ -663,16 +580,13 @@
 4166|adj|molekular|Er analysiert die Struktur molekular.
 4454|die|die Besetzung|Die Besetzung wechselt häufig.
 4692|die|die Ausstattung|Die Ausstattung erleichtert die Arbeit.
-5018|der|der Dom|Der Dom ragt über die Stadt.
 823|die|die Rede|Die Rede beeindruckt das Publikum.
 1281|der|der Hintergrund|Der Hintergrund zeigt das Meer.
 1329|die|die Verteilung|Die Verteilung sorgt für Gerechtigkeit.
 1387|die|die Zusammenarbeit|Die Zusammenarbeit fördert den Erfolg.
 1736|der|der Antrag|Der Antrag erhielt breite Zustimmung.
-1748|die|die Beschreibung|Die Beschreibung passt genau.
 1836|die|die Berechnung|Die Berechnung führt zum Ergebnis.
 1856|die|die Erzählung|Die Erzählung fesselt die Zuhörer.
-2545|der|der Dialog|Der Dialog bringt Klarheit.
 2573|die|die Bemerkung|Die Bemerkung führte zur Diskussion.
 2880|die|die Scheibe|Die Scheibe zerspringt beim Aufprall.
 3025|die|die Beratung|Die Beratung dauert mehrere Stunden.
@@ -690,7 +604,6 @@
 4995|der|der Einstieg|Der Einstieg gelang ihm ohne Probleme.
 1352|der|der Umstand|Der Umstand verhinderte den Erfolg.
 1902|die|die Auswirkung|Die Auswirkung war sofort spürbar.
-2139|die|die Bezeichnung|Die Bezeichnung war ihm neu.
 2347|das|das Vorjahr|Das Vorjahr brachte gute Ergebnisse.
 2434|das|das Konzert|Das Konzert endete mit großem Applaus.
 2525|adj|einheimisch|Er bevorzugt einheimische Produkte.
@@ -716,7 +629,6 @@
 999|das|das Interview|Das Interview verlief sehr gut.
 1717|der|der Fortschritt|Der Fortschritt war deutlich sichtbar.
 1795|die|die Regelung|Die Regelung wurde pünktlich umgesetzt.
-2163|adj|gerecht|Das Urteil fiel gerecht aus.
 2389|die|die Dienstleistung|Die Dienstleistung wurde sehr geschätzt.
 2407|die|die Kindheit|Die Kindheit verbrachte er auf dem Land.
 2469|adj|erstaunlich|Er handelte erstaunlich schnell.
@@ -741,7 +653,6 @@
 4465|die|die Stellungnahme|Die Stellungnahme klärte viele Fragen.
 1463|adj|langfristig|Er plant langfristig für die Zukunft.
 2159|der|der Auftritt|Der Auftritt war ein voller Erfolg.
-2328|das|das Vermögen|Das Vermögen wuchs stetig.
 2813|adj|sexuell|Er sprach offen über sexuelle Themen.
 2895|adj|hervorragend|Er hat hervorragend gearbeitet.
 3446|adj|strukturell|Das Problem war strukturell bedingt.
@@ -756,45 +667,30 @@
 920|das|das Meer|Das Meer rauschte leise im Hintergrund.
 935|der|der Kampf|Der Kampf dauerte mehrere Stunden.
 1146|adj|dick|Er schnitt eine dicke Scheibe Brot ab.
-2744|der|der Flur|Der Flur führt zur Küche.
 4006|die|die Münze|Die Münze glänzte im Sonnenlicht.
 4378|die|die Gasse|Die Gasse führte zur alten Kirche.
 861|die|die Methode|Die Methode erwies sich als effektiv.
 1222|die|die Haut|Die Haut spannte nach dem Sonnenbad.
-2034|die|die Decke|Die Decke hielt ihn warm.
-994|die|die Linie|Die Linie verläuft gerade.
-2431|die|die Säure|Die Säure reagierte heftig.
 2506|der|der Stil|Der Stil des Hauses gefällt mir.
 2995|adj|mobil|Er bleibt mobil trotz seines Alters.
 3077|die|die Hütte|Die Hütte bot Schutz vor dem Sturm.
 4045|die|die Schale|Die Schale ist aus Ton gefertigt.
-4185|der|der Keks|Der Keks schmeckte frisch.
-4321|das|das Plakat|Das Plakat hing an der Wand.
 1255|der|der Stein|Der Stein lag schwer in der Hand.
-1376|adj|still|Er saß still auf dem Stuhl.
-2042|der|der Fisch|Der Fisch schwamm im Teich.
 2960|die|die Höhle|Die Höhle bot Schutz vor dem Regen.
-3801|adj|harmlos|Der Hund sah harmlos aus.
 4056|die|die Abwehr|Die Abwehr hielt dem Angriff stand.
-4543|die|die Passage|Die Passage führte ins Freie.
 5000|das|das Kissen|Das Kissen lag weich auf dem Sofa.
-2109|adj|sauber|Er hielt sein Zimmer sauber.
 4727|die|die Pflege|Die Pflege der Pflanzen erfordert Zeit.
 1129|die|die Definition|Die Definition wurde im Text erläutert.
 4651|die|die Berührung|Die Berührung löste Gänsehaut aus.
-2113|adj|gewaltig|Der Baum war gewaltig groß.
 2939|das|das Gewebe|Das Gewebe dehnte sich unter Druck.
 3375|adj|objektiv|Er analysierte die Lage objektiv.
 3996|adj|romantisch|Er plante ein romantisches Abendessen.
 1540|der|der Nachmittag|Der Nachmittag verging wie im Flug.
 1560|adj|erheblich|Die Kosten stiegen erheblich an.
-1806|der|der Vorwurf|Der Vorwurf traf ihn tief.
-2056|adj|lustig|Der Witz war wirklich lustig.
 2938|adj|funktionell|Das Gerät ist sehr funktionell.
 1479|die|die Aufnahme|Die Aufnahme verlief problemlos.
 3675|die|die Aufführung|Die Aufführung begeisterte das Publikum.
 1624|das|das Signal|Das Signal leuchtete plötzlich auf.
-3423|die|die Frucht|Die Frucht fiel vom Baum.
 4110|adj|sachlich|Er erklärte den Sachverhalt sachlich.
 748|adj|echt|Er zeigte echten Enthusiasmus.
 4375|adj|belgisch|Er probierte belgische Schokolade.
@@ -865,136 +761,66 @@
 4035|adj|unwahrscheinlich|Das Szenario ist unwahrscheinlich.
 1405|adj|selbstverständlich|Deine Hilfe ist selbstverständlich.
 297|der|der Punkt|Der Punkt ist klar formuliert.
-902|das|das Feld|Die Kühe grasen auf dem Feld.
-1240|adj|leise|Sie sprach mit leiser Stimme.
 1237|das|das Papier|Das Papier liegt auf dem Tisch.
 3140|das|das Eisen|Das heiße Eisen brennt in der Hand.
 2844|der|der Bildschirm|Der Bildschirm flackert ständig.
-1287|das|das Bier|Er trinkt gern kaltes Bier.
-2955|adj|dänisch|Wir essen dänischen Käse.
-3729|adj|akut|Das Problem ist jetzt akut.
 3218|adj|intelligent|Er ist ein intelligenter Mensch.
 72|pron|du|Du hast den besten Kuchen gebacken.
-0|art|der, die, das|Das Kind spielt im Garten.
 789|die|die EU (Europäische Union)|Die EU hat neue Gesetze erlassen.
-421|adj|früh|Ich stehe heute früh auf.
 673|das|das Tier|Im Wald lebt ein seltenes Tier.
 39|pron|ihr|Ihr habt die Prüfung bestanden.
-45|pron|sein|Sein Auto steht vor der Tür.
-140|der|der Tag|Der Tag beginnt mit Sonne.
-183|das|das Haus|Das Haus wurde renoviert.
-203|die|die Welt|Die Welt dreht sich weiter.
-895|die|die Wand|Ein Bild hängt an der Wand.
-2794|die|die Wut|Die Wut war deutlich spürbar.
-2887|adj|süß|Die Schokolade ist sehr süß.
-168|das|das Land|Das Land ist weit und schön.
-249|die|die Stadt|Die Stadt pulsiert vor Leben.
-302|das|das Bild|Das Bild hängt an der Wand.
 532|der|der Markt|Der Markt findet samstags statt.
-578|die|die Menge|Die Menge jubelte lautstark.
 755|die|die Folie|Die Präsentation nutzte viele Folien.
-1375|das|das Leid|Er litt sehr unter dem Leid.
 1745|das|das Büro|Im Büro herrscht viel Betrieb.
 2192|das|das Boot|Das Boot schaukelt auf den Wellen.
-2560|der|der Sand|Der Sand ist warm und fein.
-2870|das|das Gras|Das Gras ist grün und saftig.
-4066|das|das Camp|Im Camp herrscht viel Trubel.
-4353|die|die Hast|In der Hast vergaß er alles.
-5083|der|der Ofen|Der Ofen ist heiß und glüht.
-111|pron|unser|Unser Haus ist das Größte.
-528|adj|weiß|Der Schnee ist blendend weiß.
 599|der|der Erfolg|Sein Erfolg war beeindruckend.
-727|adj|rein|Das Wasser ist rein und klar.
-728|das|das Zimmer|Im Zimmer steht ein Bett.
-802|die|die Natur|Die Natur ist überwältigend.
-836|der|der Sommer|Der Sommer war sehr heiß.
 868|die|die Region|Die Region ist touristisch geprägt.
 909|die|die Gefahr|Die Gefahr ist nicht zu unterschätzen.
-957|der|der Himmel|Der Himmel ist wolkenlos.
 967|der|der Verein|Der Verein hat viele Mitglieder.
 1509|der|der Polizist|Der Polizist regelte den Verkehr.
-1815|das|das Lied|Das Lied ist ein Ohrwurm.
-2321|die|die Halle|In der Halle herrscht Ruhe.
-2775|der|der Hafen|Der Hafen ist voller Schiffe.
-2804|das|das Ufer|Am Ufer wachsen viele Bäume.
 3295|der|der Stamm|Der Stamm des Baumes ist dick.
 3745|der|der Block|Der Block ist vollgeschrieben.
-4004|der|der Zwang|Er fühlte den inneren Zwang.
 4048|der|der Tanz|Der Tanz begann um Mitternacht.
 4415|die|die Hölle|Der Lärm war die reinste Hölle.
 4623|das|der Rasen|Der Rasen wurde frisch gemäht.
 4658|der|der Tempel|Der Tempel steht auf einem Hügel.
-383|die|die Familie|Die Familie sitzt am Tisch.
-393|der|der Bereich|Der Bereich ist abgesperrt.
 559|die|die Wohnung|Die Wohnung ist neu renoviert.
 990|die|die Türkei|Die Türkei liegt teils in Asien.
 1062|der|der Traum|Ein schöner Traum ging vorbei.
-1151|die|die Farbe|Die Farbe ist leuchtend rot.
-1250|das|das Schiff|Das Schiff segelt im Meer.
-1269|adj|heiß|Der Sommer war extrem heiß.
-1327|der|der Effekt|Der Effekt war beeindruckend.
-1359|die|die Figur|Die Figur steht am Fenster.
 1384|pron|euer|Habt ihr euer Zimmer aufgeräumt?
-1633|der|der Fahrer|Der Fahrer blieb unverletzt.
-1663|die|die Schuld|Die Schuld liegt bei ihm.
-1677|der|der Herbst|Im Herbst fallen die Blätter.
-1821|adj|dünn|Das Eis ist gefährlich dünn.
-1886|die|die Tasche|Die Tasche ist vollgepackt.
 1930|die|die Anlage|Die Anlage wurde modernisiert.
-2012|der|der August|Der August war sehr heiß.
 2208|der|der Umfang|Der Umfang des Projekts ist groß.
-2286|die|die Klinik|Die Klinik ist sehr modern.
-2549|die|die Blume|Die Blume duftet herrlich.
 2754|das|das Ausmaß|Das Ausmaß der Schäden ist enorm.
-2819|adj|kühl|Der Morgen war angenehm kühl.
-3033|adv|drüben|Die Kinder spielen drüben.
-3501|der|der Felsen|Der Felsen ragt in die Höhe.
 3751|adj|gültig|Das Ticket ist bis morgen gültig.
 4128|der|der Balkon|Der Balkon bietet eine schöne Aussicht.
 4228|die|die Blüte|Die Blütezeit ist im Frühling.
-4338|der|der Engel|Der Engel bewacht das Grab.
 4396|die|die Breite|Die Breite des Flusses ist beachtlich.
-4441|die|die Furcht|Die Furcht war ihm anzusehen.
-4687|der|der Riese|Der Riese war freundlich.
 3|conj|und|Kaffee und Kuchen passen zusammen.
 105|conj|mal|Er ging mal links, mal rechts.
-738|der|der Zug|Der Zug fährt pünktlich ab.
 828|die|die Schweiz|Die Schweiz ist bekannt für Käse.
-872|das|das Lächeln|Sein Lächeln war charmant.
 1092|der|der Abstand|Der Abstand zwischen den Autos wächst.
-1144|der|der Wunsch|Ein Wunsch ging in Erfüllung.
-1232|der|der Garten|Der Garten blüht im Frühling.
 1449|der|der Verlust|Der Verlust war schwer zu ertragen.
 1544|der|der Spiegel|Der Spiegel reflektiert das Licht.
 1763|die|die Schicht|Die Schicht endet um Mitternacht.
 1963|das|das Wetter|Das Wetter war sonnig und warm.
-2250|die|die Membran|Die Membran ist sehr dünn.
 2369|die|die Reform|Die Reform brachte viele Veränderungen.
 2672|der|der Star|Der Star war umringt von Fans.
 3065|der|der Schreck|Der Schreck fuhr ihm in die Glieder.
 3071|der|der Komplex|Der Komplex umfasst mehrere Gebäude.
 3346|der|der Schrank|Der Schrank ist voller Kleidung.
-3566|der|der Bestand|Der Bestand ist gesichert.
 3754|der|der Skandal|Der Skandal erschütterte das Land.
-3906|das|das Defizit|Das Defizit wächst weiterhin.
-4312|adj|populär|Diese Serie ist sehr populär.
 4430|die|die Galerie|Die Galerie zeigt moderne Kunst.
 4560|die|die App|Die App ist einfach zu bedienen.
-4718|der|der Triumph|Der Triumph war ihm sicher.
 4946|das|das Atelier|Im Atelier wurde lange gearbeitet.
 995|das|das Gas|Das Gas strömte aus der Leitung.
-1159|der|der König|Der König regiert gerecht.
-1231|der|der Haushalt|Der Haushalt wurde geplant.
 1423|die|die Szene|Die Szene war sehr dramatisch.
 1515|verb|füllen, füllt, füllte, hat gefüllt|Er füllt die Flasche mit Wasser.
 1979|das|das Gedicht|Das Gedicht beschreibt den Herbst.
 2718|die|die Republik|Die Republik feiert ihr Jubiläum.
 3090|der|der Geschmack|Der Geschmack der Suppe ist einzigartig.
 3279|die|die Vision|Ihre Vision wurde Wirklichkeit.
-3796|der|der Reichtum|Sein Reichtum wuchs stetig.
 4034|der|der Staub|Der Staub bedeckt das alte Buch.
 4322|die|die Terrasse|Sie sitzen gern auf der Terrasse.
-4327|adj|legendär|Seine Konzerte sind legendär.
 4380|adj|glänzend|Das Auto glänzt nach der Wäsche.
 4401|die|die Kulisse|Die Berge bilden eine schöne Kulisse.
 4411|der|der Dreck|Der Dreck muss weggefegt werden.
@@ -1006,86 +832,52 @@
 438|der|der Vergleich|Ein Vergleich ist oft hilfreich.
 511|die|die Energie|Die Energie der Sonne ist stark.
 665|das|das Interesse|Das Interesse am Thema wächst.
-710|die|die Beziehung|Ihre Beziehung wurde stärker.
-1094|die|die Maßnahme|Die Maßnahme war erfolgreich.
-1491|die|die Bahn|Die Bahn fährt pünktlich ab.
-1542|die|die Umgebung|Die Umgebung ist sehr grün.
-1606|der|der Flughafen|Der Flughafen wird erweitert.
 1780|das|das Potenzial|Das Potenzial des Projekts ist enorm.
 1906|das|das Bedürfnis|Das Bedürfnis nach Ruhe wächst.
 2057|adj|potenziell|Das ist ein potenzielles Risiko.
-2172|das|das Fest|Das Fest beginnt am Abend.
 2338|adj|großartig|Der Film war großartig inszeniert.
 2578|das|das Café|Das Café ist immer gut besucht.
 2650|der|der Kaiser|Der Kaiser regierte viele Jahre.
 2683|das|das Geschenk|Das Geschenk kam pünktlich an.
-2999|der|der Buchstabe|Ein Buchstabe fehlte im Text.
-3006|adj|flüssig|Er spricht flüssig Deutsch.
 3178|das|das Gymnasium|Das Gymnasium bietet gute Bildung.
 3381|die|die Hochzeit|Die Hochzeit war sehr emotional.
 3414|die|die Zahlung|Die Zahlung erfolgte pünktlich.
-3639|der|der Rückstand|Der Rückstand wuchs stetig.
 3817|der|der Vorsprung|Der Vorsprung schrumpfte schnell.
-3883|das|das Heim|Er kehrte ins Heim zurück.
-4050|das|das Universum|Das Universum ist unendlich.
-4119|der|der Index|Der Index wurde aktualisiert.
 4277|das|das Kraftwerk|Das Kraftwerk liefert Energie.
 4444|der|der Landkreis|Der Landkreis investiert in Bildung.
 4495|der|der Rentner|Der Rentner genießt den Ruhestand.
-4578|der|der Diener|Der Diener öffnete die Tür.
-4620|die|die Neugier|Die Neugier trieb ihn an.
-4626|der|der Datensatz|Der Datensatz wurde gelöscht.
 4645|der|der Lastwagen|Der Lastwagen transportiert Waren.
 4685|adj|familiär|Das Restaurant wirkt familiär.
 5061|der|der Ausblick|Der Ausblick war atemberaubend.
-8|pron|einer|Einer von uns muss gehen.
 282|das|das Unternehmen|Das Unternehmen expandiert weiter.
 389|adj|europäisch|Das ist ein europäisches Projekt.
 471|die|die Universität|Die Universität bietet viele Kurse.
 546|die|die Struktur|Die Struktur ist sehr komplex.
-772|die|die Bewegung|Die Bewegung wächst schnell.
 922|die|die Veränderung|Die Veränderung ist notwendig.
-1115|adj|täglich|Er liest täglich die Zeitung.
 1285|adj|gefährlich|Die Straße ist gefährlich glatt.
 1490|der|der Konflikt|Der Konflikt eskalierte schnell.
 1556|der|der Journalist|Der Journalist recherchierte gründlich.
-1604|adj|günstig|Das Angebot war sehr günstig.
 1855|adj|ökonomisch|Das Land hat ökonomische Probleme.
 1936|der|der Kandidat|Der Kandidat stellte sich vor.
 1981|die|die Hochschule|Die Hochschule liegt in der Stadt.
 2003|der|der Teilnehmer|Der Teilnehmer stellte eine Frage.
 2076|das|das Bundesland|Das Bundesland hat viele Einwohner.
 2269|der|der Fischer|Der Fischer brachte frischen Fisch.
-2424|die|die Entfernung|Die Entfernung war zu groß.
 3130|das|das Kunstwerk|Das Kunstwerk hängt im Museum.
-3135|adj|mündlich|Die Prüfung war mündlich.
 3257|das|das Grundstück|Das Grundstück wurde verkauft.
-3323|der|der Ausgleich|Der Ausgleich wurde erreicht.
-3506|adj|auffällig|Sein Verhalten war auffällig.
 4516|adj|römisch|Das römische Reich war mächtig.
 4686|die|die Reichweite|Die Reichweite des Senders ist groß.
-4891|das|das Denkmal|Das Denkmal wurde enthüllt.
 1006|die|die Erinnerung|Die Erinnerung bleibt lebendig.
 1482|die|die Investition|Die Investition zahlt sich aus.
-1707|die|die Waffe|Die Waffe wurde gefunden.
 1751|die|die Landschaft|Die Landschaft ist atemberaubend.
-1873|adj|körperlich|Er ist körperlich sehr fit.
-2118|der|der Charakter|Sein Charakter ist stark.
 2179|die|die Geburt|Die Geburt verlief komplikationslos.
 2488|der|der Arbeiter|Der Arbeiter begann frühmorgens.
 2631|adj|verfügbar|Die Information ist verfügbar.
 2688|das|das Frühstück|Das Frühstück war reichhaltig.
 2716|die|die Küste|Die Küste erstreckt sich weit.
-3533|verb|löschen, löscht, löschte, hat gelöscht|Er löschte das Feuer schnell.
-3599|adj|präzise|Er arbeitete sehr präzise.
-3727|adj|vorläufig|Das Ergebnis ist vorläufig.
-3756|die|die Abgabe|Die Abgabe ist bald fällig.
 3894|adj|gründlich|Er reinigte den Raum gründlich.
 3970|die|die Schlagzeile|Die Schlagzeile sorgte für Aufsehen.
 4011|der|der Durchmesser|Der Durchmesser des Kreises ist groß.
-4039|der|der Brand|Der Brand zerstörte das Haus.
-4419|adj|unauffällig|Er bewegte sich unauffällig.
-4475|die|die Piste|Die Piste war gut präpariert.
 4477|die|die Stasi (Staatssicherheitsdienst)|Die Stasi überwachte alle Bürger.
 4507|die|die Sportart|Diese Sportart erfordert Ausdauer.
 4675|der|der Fotograf|Der Fotograf machte viele Bilder.
@@ -1093,182 +885,102 @@
 4795|der|der Fachbereich|Der Fachbereich ist gut ausgestattet.
 4952|die|die Leere|Die Leere im Raum war spürbar.
 5007|die|die Affäre|Die Affäre sorgte für Skandale.
-89|adj|ganz|Er blieb den ganzen Tag hier.
 715|das|das Auftreten|Sein Auftreten war überzeugend.
 1185|die|die Organisation|Die Organisation plant ein Event.
-1304|verb|auslösen, löst aus, löste aus, hat ausgelöst|Das Ereignis löste Panik aus.
 1428|verb|verstärken, verstärkt, verstärkte, hat verstärkt|Sie verstärkte die Tür mit Stahl.
 1650|adj|ausländisch|Er spricht viele ausländische Sprachen.
 1784|verb|beschränken, beschränkt, beschränkte, hat beschränkt|Er beschränkte die Zugänge strikt.
-1810|die|die Stimmung|Die Stimmung war angespannt.
 1935|verb|aufführen, führt auf, führte auf, hat aufgeführt|Das Theater führt ein Stück auf.
-2091|die|die Flucht|Die Flucht gelang im Dunkeln.
 2171|adj|ungewöhnlich|Das war ein ungewöhnlicher Fall.
 2188|adj|militärisch|Sie trainierte militärische Taktiken.
-2501|adj|vielfältig|Die Auswahl ist vielfältig.
 2550|der|der Schreibtisch|Der Schreibtisch ist aus Holz.
-2871|adj|logisch|Seine Erklärung war logisch.
-2949|das|das Zuhause|Er fand ein neues Zuhause.
-2964|adj|unangenehm|Das Gespräch war unangenehm.
 3082|das|das Anliegen|Das Anliegen wurde vorgebracht.
 3109|adj|zugänglich|Die Dokumente sind zugänglich.
 3194|adj|wunderschön|Der Garten blühte wunderschön.
 3447|die|die Anzeige|Die Anzeige führte zur Festnahme.
 3481|adj|nützlich|Das Werkzeug ist sehr nützlich.
-3682|die|die Ankunft|Die Ankunft verzögerte sich.
 3781|das|das Werkzeug|Das Werkzeug liegt in der Kiste.
 3813|das|das Lehrbuch|Das Lehrbuch erklärt alles gut.
 3838|das|das Schlafzimmer|Das Schlafzimmer ist gemütlich.
-3911|die|die Anregung|Die Anregung kam von ihm.
-3918|die|die Airline|Die Airline hat Verspätungen.
-3967|adj|königlich|Der Empfang war königlich.
-4009|das|das Abendessen|Das Abendessen war köstlich.
 4174|die|die Redaktion|Die Redaktion bearbeitet den Artikel.
-4239|die|die Enttäuschung|Die Enttäuschung war groß.
 4365|adj|Thüringer|Die Thüringer Küche ist berühmt.
-4371|die|die Verzweiflung|Die Verzweiflung war spürbar.
 4521|adj|auswärtig|Die auswärtigen Gäste reisten an.
-4715|die|die Pension|Die Pension liegt im Zentrum.
 1043|die|die Schwester|Die Schwester kochte das Essen.
-1154|adj|regelmäßig|Er übt regelmäßig Klavier.
 1175|die|die Verantwortung|Die Verantwortung liegt bei ihr.
-1710|verb|zerstören, zerstört, zerstörte, hat zerstört|Das Feuer zerstörte das Haus.
 1922|adj|künstlich|Das Licht ist künstlich erzeugt.
-2071|die|die Einrichtung|Die Einrichtung war teuer.
-2729|der|der Überblick|Er behielt den Überblick.
 2856|die|die Verpflichtung|Die Verpflichtung wurde erfüllt.
-3026|die|die Gestaltung|Die Gestaltung war kreativ.
 3182|adj|ökologisch|Das Produkt ist ökologisch unbedenklich.
 3184|die|die Substitution|Die Substitution verlief problemlos.
-3226|adj|hintere (r, s)|Der hintere Sitz ist kaputt.
-3457|die|die Hitze|Die Hitze war unerträglich.
-3644|adj|unverändert|Die Lage blieb unverändert.
-4121|adj|Kölner|Das Kölner Fest war lebendig.
 4550|die|die Erleichterung|Die Erleichterung war deutlich.
 4635|der|der Sekretär|Der Sekretär öffnete den Brief.
 4660|die|die Verlängerung|Die Verlängerung wurde genehmigt.
-4941|der|der Gesang|Der Gesang war wunderschön.
-4992|der|der Abstieg|Der Abstieg war sehr steil.
 141|adj|deutsch|Das deutsche Brot ist beliebt.
-1169|die|die Kontrolle|Die Kontrolle verlief gut.
 1206|die|die Voraussetzung|Die Voraussetzung ist erfüllt.
-1209|die|die Substanz|Die Substanz reagiert heftig.
-1567|verb|einführen, führt ein, führte ein, hat eingeführt|Er führte das Gesetz ein.
 1659|die|die Bakterie|Die Bakterie vermehrt sich schnell.
-1939|der|der Übergang|Der Übergang war fließend.
-1977|die|die Kombination|Die Kombination war perfekt.
 2099|die|die Übersetzung|Die Übersetzung war fehlerfrei.
-2307|die|die Förderung|Die Förderung ist notwendig.
-2507|die|die Atmosphäre|Die Atmosphäre war entspannt.
-2548|die|die Werbung|Die Werbung war sehr kreativ.
 2663|adj|Münchner|Die Münchner Biergärten sind bekannt.
 2763|adj|ausführlich|Er beschrieb das Problem ausführlich.
-2865|der|der Terrorist|Der Terrorist wurde gefasst.
-3280|adj|vordere|Der vordere Platz ist frei.
-3521|der|der Befehl|Der Befehl wurde ausgeführt.
-3712|die|die Sanktion|Die Sanktion zeigte Wirkung.
-4201|die (pl)||Die Kinder spielen draußen.
 4297|das|das Bundesamt|Das Bundesamt erließ neue Regeln.
-4404|adj|spürbar|Die Spannung war spürbar.
 4439|adj|zwangsläufig|Die Entscheidung war zwangsläufig.
 4545|adj|zeitgenössisch|Die zeitgenössische Kunst ist beliebt.
 4633|adj|pädagogisch|Das Programm ist pädagogisch wertvoll.
-4729|die|die Recherche|Die Recherche dauerte lange.
 4746|die|die Handschrift|Die Handschrift war unleserlich.
 5092|die|die Kreuzung|Die Kreuzung ist stark befahren.
 774|die|die Mitte|Er stand in der Mitte des Raums.
-1253|adj|obere (r, s)|Der obere Stock ist bewohnt.
 1408|adj|ursprünglich|Ursprünglich war alles anders geplant.
 1455|adj|berühmt|Der Sänger ist berühmt geworden.
 1588|adj|österreichisch|Das österreichische Essen schmeckt gut.
 1632|adj|bisherig|Die bisherige Lösung war unzureichend.
-1661|die|die Konsequenz|Die Konsequenz war fatal.
 1786|der|der Schauspieler|Der Schauspieler gewann einen Preis.
 1789|adj|jährlich|Das Fest findet jährlich statt.
 1824|der|der Anbieter|Der Anbieter wurde gewechselt.
 2104|die|die Dauer|Die Dauer des Films ist zwei Stunden.
 2320|adj|äußere (r, s)|Das äußere Tor war verschlossen.
-2675|adj|Hamburger|Der Hamburger Hafen ist groß.
-2807|die|die Strahlung|Die Strahlung war gefährlich.
 3216|die|die Beschwerde|Die Beschwerde wurde abgelehnt.
 4085|der|der Grenzwert|Der Grenzwert wurde überschritten.
 4149|adj|verdächtig|Sein Verhalten war verdächtig.
-4162|adj|gleichmäßig|Der Rhythmus war gleichmäßig.
 4169|adj|stationär|Er blieb stationär im Krankenhaus.
 4184|die|die Infektion|Die Infektion breitete sich aus.
-4198|das|das Maul|Das Maul des Hundes ist groß.
-4437|adj|unerträglich|Die Hitze war unerträglich.
-4866|das|das Paradies|Der Garten war ein Paradies.
 4883|adj|sächsisch|Die sächsische Dialekt ist unverkennbar.
 4934|adj|ungleich|Die Kräfteverhältnisse waren ungleich.
-5094|der|der Mindestlohn|Der Mindestlohn wurde erhöht.
-341|der|der Wert|Der Wert des Bildes stieg.
 2823|adj|syrisch|Das syrische Essen ist lecker.
-2954|die|die Zunge|Die Zunge ist ein Muskel.
 3031|verb|verknüpfen, verknüpft, verknüpfte, hat verknüpft|Er verknüpfte die Daten erfolgreich.
 3069|die|die Reduktion|Die Reduktion der Kosten war nötig.
 3196|der|der Weltmeister|Der Weltmeister trainierte hart.
-3633|der|der Nebel|Der Nebel verdichtete sich.
 3643|die|die Hypothese|Die Hypothese wurde bestätigt.
 3804|adj|spektakulär|Das Feuerwerk war spektakulär.
 3839|die|die Tragödie|Die Tragödie erschütterte alle.
 3889|verb|verschärfen, verschärft, verschärfte, hat verschärft|Er verschärfte die Kontrollen.
 4471|verb|zurückweisen, weist zurück, wies zurück, hat zurückgewiesen|Der Antrag wurde zurückgewiesen.
 4762|adj|oberflächlich|Die Prüfung war oberflächlich.
-2|pron|der, die, das|Die Katze trank das Wasser.
-1456|verb|ersetzen, ersetzt, ersetzte, hat ersetzt|Er ersetzte den alten Motor.
-2242|adj|arabisch|Er spricht fließend Arabisch.
-2426|die|die Wahrnehmung|Die Wahrnehmung trügt oft.
 2449|die|die Wechselwirkung|Die Wechselwirkung wurde untersucht.
-2771|adj|allmählich|Er verstand es allmählich.
 2944|die|die Kasse|Die Kasse schließt um acht Uhr.
 3084|adj|sonstig|Er erledigte sonstige Aufgaben.
-3466|das|der Schild|Das Schild war beschädigt.
 4122|der|der Pariser|Der Pariser Eiffelturm ist berühmt.
 4216|adj|regulär|Das Treffen fand regulär statt.
 4250|die|die Willenserklärung|Die Willenserklärung war eindeutig.
 5096|der|der Nationalpark|Der Nationalpark ist geschützt.
 358|der|der Blick|Der Blick aus dem Fenster war schön.
-635|die|die Aussage|Die Aussage wurde notiert.
 1148|adj|heutig|Die heutige Sitzung ist wichtig.
-1631|adj|sprachlich|Er machte sprachliche Fehler.
 2023|das|das Gewicht|Das Gewicht des Pakets war groß.
-3164|adj|unzählig|Er stellte unzählige Fragen.
 4464|adj|signifikant|Die Unterschiede sind signifikant.
 4793|die|die Ähnlichkeit|Die Ähnlichkeit ist verblüffend.
-1080|der|der Westen, West-|Der Westen war friedlich.
-1433|der|der Stand|Der Stand wurde aufgebaut.
 2613|die|die Wurzel|Die Wurzel des Problems ist klar.
-3043|das|das Zitat|Das Zitat stammt von Goethe.
-3288|die|die Fettsäure|Die Fettsäure ist essentiell.
 3545|der|der Bezirk|Der Bezirk wurde modernisiert.
-3703|adj|verehrt|Der Künstler wurde verehrt.
 3799|adj|städtisch|Das städtische Leben ist lebendig.
 4117|adj|außergewöhnlich|Das war eine außergewöhnliche Leistung.
-4897|der|der Import|Der Import wurde gesteigert.
 5059|adj|anfänglich|Der anfängliche Plan war besser.
 627|der|der Begriff|Der Begriff ist schwer zu definieren.
-724|adj|englisch|Er spricht fließend englisch.
 1399|adj|finanziell|Er unterstützt uns finanziell.
-1548|adv|vorbei|Der Zug ist gerade vorbei.
-1673|adj|italienisch|Wir essen heute italienisch.
-3260|adj|neutral|Seine Haltung blieb neutral.
-3672|das|das Sofa|Das Sofa steht im Wohnzimmer.
-4103|die|die Anwesenheit|Ihre Anwesenheit war wichtig.
 4243|adj|afrikanisch|Die afrikanische Musik begeistert.
 4247|die|die Moral|Die Moral der Geschichte ist klar.
-1737|das|das Reich|Das Reich zerfiel in Teile.
-1911|adj|seltsam|Das Verhalten war seltsam.
 2680|der|der Abbau|Der Abbau der Rohstoffe beginnt.
 3003|der|der Reiz|Der Reiz des Abenteuers lockt.
 3223|adj|benachbart|Das benachbarte Dorf ist klein.
 3730|das|das Album|Das Album erschien letzte Woche.
-3961|die|die Akte|Die Akte bleibt vertraulich.
 3973|adv|zumeist|Zumeist sind die Straßen leer.
 4325|der|der Gesetzentwurf|Der Gesetzentwurf wurde abgelehnt.
 2416|adj|zukünftig|Zukünftige Projekte sind geplant.
-2462|adj|gegenwärtig|Gegenwärtig ist alles ruhig.
-2851|die|die Beteiligung|Die Beteiligung war gering.
 3206|die|die Universitätsbibliothek|Die Universitätsbibliothek ist modern.
 3720|der|der Kreislauf|Der Kreislauf stabilisierte sich.
 3737|der|der Teppich|Der Teppich bedeckt den Boden.
@@ -1276,26 +988,19 @@
 4561|adj|derzeitig|Die derzeitige Lage ist kritisch.
 4679|adv|nirgends|Er fand den Schlüssel nirgends.
 550|adj|wahrscheinlich|Wahrscheinlich regnet es morgen.
-1054|der|der Gewinn|Der Gewinn war beträchtlich.
 1164|der|der Beitrag|Sein Beitrag war entscheidend.
 2081|die|die Dimension|Die Dimensionen sind beeindruckend.
 2574|adj|Frankfurter|Die Frankfurter Messe beginnt bald.
 3159|der|der Besitz|Der Besitz wechselte den Eigentümer.
 3782|das|das Adjektiv|Das Adjektiv beschreibt das Nomen.
-3811|die|die Innenstadt|Die Innenstadt ist belebt.
 3815|die|die Stichprobe|Die Stichprobe ist repräsentativ.
 3986|die|die Schätzung|Die Schätzung liegt bei 10.000 Euro.
 4813|die|die Rendite|Die Rendite war erfreulich hoch.
 5073|die|die Beachtung|Die Beachtung der Regeln ist wichtig.
 958|adj|künftig|Künftige Projekte sind geplant.
-2312|der|der Witz|Der Witz war sehr lustig.
 2395|der|der Einwohner|Der Einwohner verließ die Stadt.
 2529|das|das Geschlecht|Das Geschlecht spielt keine Rolle.
 3014|der|der Gehalt|Der Gehalt des Buches ist tiefgründig.
-3301|das|das Datum|Das Datum wurde festgelegt.
-3467|die|die Show|Die Show war spektakulär.
-3475|der|der Teufel|Der Teufel steckt im Detail.
-3854|adj|prinzipiell|Er ist prinzipiell dagegen.
 4172|adj|ehrenamtlich|Er arbeitet ehrenamtlich im Verein.
 2481|die|die Ableitung|Die Ableitung der Formel ist schwierig.
 2728|die|die Tour|Die Tour durch die Stadt war spannend.
@@ -1303,39 +1008,18 @@
 2931|adj|japanisch|Wir kochten ein japanisches Gericht.
 3059|die|die Anerkennung|Die Anerkennung seiner Arbeit war groß.
 3486|die|die Bereitschaft|Die Bereitschaft zur Hilfe ist da.
-3603|der|der Sieger|Der Sieger wurde gefeiert.
-3758|adj|israelisch|Das israelische Team gewann.
 4224|das|das Glied|Das Glied der Kette ist gebrochen.
 4514|das|das Hindernis|Das Hindernis wurde überwunden.
 2531|die|die Aussicht|Die Aussicht von hier ist schön.
 3297|adj|radioaktiv|Das Material ist radioaktiv belastet.
 3315|die|die Route|Die Route führt durch die Berge.
-507|die|die Idee|Die Idee kam ihm plötzlich.
-812|das|das Haar|Das Haar glänzt im Licht.
-2669|die|die Bar|Die Bar öffnete um acht Uhr.
-997|die|die Hälfte|Die Hälfte des Kuchens fehlt.
-2304|der|der Flug|Der Flug wurde gestrichen.
-2822|der|der Saal|Der Saal füllte sich schnell.
-3320|der|der Kerl|Der Kerl war sehr freundlich.
-294|das|das Wasser|Das Wasser im See ist klar.
 650|die|die Zelle|Die Zelle teilte sich schnell.
 886|die|die Ebene|Die Ebene erstreckt sich weit.
-1685|der|der Zweck|Der Zweck heiligt die Mittel.
 2170|die|die GmbH|Die GmbH wurde 1995 gegründet.
-633|der|der Krieg|Der Krieg endete nach Jahren.
-1577|adj|stabil|Das Haus ist stabil gebaut.
-3587|adj|absurd|Die Forderungen waren absurd.
 4102|der|der Strahl|Der Strahl durchdrang die Dunkelheit.
-843|adj|niedrig|Die Kosten bleiben niedrig.
 4463|die|die Siedlung|Die Siedlung liegt am Stadtrand.
 1292|die|die Nachricht|Die Nachricht verbreitete sich schnell.
 1766|die|die Realität|Die Realität übertraf die Erwartungen.
-3120|der|der Horizont|Der Horizont war rot gefärbt.
-4455|das|das Bündel|Er trug ein schweres Bündel.
-4653|adj|dominant|Der dominante Spieler gewann.
-1909|die|die Prüfung|Die Prüfung war sehr schwer.
-2038|der|der Unfall|Der Unfall verursachte Stau.
-3402|adj|dynamisch|Das Team arbeitet dynamisch.
 4086|die|die Großstadt|Die Großstadt pulsiert vor Leben.
 4399|die|die Explosion|Die Explosion war ohrenbetäubend.
 2845|verb|erwischen, erwischt, erwischte, hat erwischt|Die Polizei erwischte den Dieb.
@@ -1347,24 +1031,15 @@
 1976|adj|empirisch|Die Ergebnisse sind empirisch belegt.
 2571|der|der Ablauf|Der Ablauf des Prozesses ist festgelegt.
 3089|die|die Abstimmung|Die Abstimmung war erfolgreich.
-3348|der|der Wechselkurs|Der Wechselkurs sank weiter.
-3905|verb|blockieren, blockiert, blockierte, hat blockiert|Er blockierte die Straße.
-4051|verb|vernetzen, vernetzt, vernetzte, hat vernetzt|Die Computer wurden vernetzt.
-404|pron|mehrere|Er machte mehrere Fehler.
 1419|adj|individuell|Die Beratung war individuell angepasst.
 2044|das|das Schicksal|Das Schicksal meinte es gut mit ihm.
-2333|verb|stoppen, stoppt, stoppte, hat gestoppt|Er stoppte das Auto abrupt.
-3359|der|der Eingriff|Der Eingriff war erfolgreich.
-4180|die|die Eizelle|Die Eizelle wurde befruchtet.
 4993|adj|ausgezeichnet|Der Service war ausgezeichnet.
 2928|die|die Webseite|Die Webseite lädt sehr schnell.
-3721|das|das Lösungsmittel|Das Lösungsmittel verdampfte.
 3731|adj|chronisch|Er leidet an chronischen Schmerzen.
 4890|die|die Altstadt|Die Altstadt ist gut erhalten.
 3104|der|der Gastgeber|Der Gastgeber begrüßte alle Gäste.
 4334|verb|abschaffen, schafft ab, schaffte ab, hat abgeschafft|Er schaffte das alte System ab.
 1972|die|die Ironie|Die Ironie war offensichtlich.
-3519|die|die Zeichnung|Die Zeichnung wurde gerahmt.
 4222|die|die Bestellung|Die Bestellung wurde storniert.
 707|die|die Leistung|Die Leistung des Teams war stark.
 5097|die|die Offenheit|Die Offenheit im Gespräch war hilfreich.
@@ -1374,61 +1049,37 @@
 1876|das|das Volumen|Das Volumen des Pakets ist groß.
 2187|adj|optisch|Das Design ist optisch ansprechend.
 2241|verb|ansetzen, setzt an, setzte an, hat angesetzt|Er setzte den Schnitt präzise an.
-2667|die|die Rückkehr|Die Rückkehr war ungewiss.
 3161|der|der Gläubiger|Der Gläubiger forderte sein Geld zurück.
-3180|der|der Mörder|Der Mörder wurde gefasst.
-3255|die|die Ferne|In der Ferne sah er Berge.
-3306|adj|fröhlich|Das Kind lachte fröhlich.
 3411|die|die Reihenfolge|Die Reihenfolge wurde geändert.
 3518|der|der Premierminister|Der Premierminister hielt eine Rede.
 3549|der|der General|Der General führte die Truppen an.
 3642|adj|hässlich|Das Gebäude sieht hässlich aus.
-3797|das|das Schema|Das Schema ist kompliziert.
 3863|adj|hessisch|Die hessische Küche ist bekannt.
 4219|verb|unterdrücken, unterdrückt, unterdrückte, hat unterdrückt|Er unterdrückte seine Gefühle.
-4274|adj|einstig|Der einstige Ruhm verblasste.
 4469|adj|voraussichtlich|Der Zug kommt voraussichtlich später an.
 4804|verb|wiedergeben, gibt wieder, gab wieder, hat wiedergegeben|Er gab das Gespräch korrekt wieder.
 5100|die|die Fassung|Die Fassung des Films ist kürzer.
-264|die|die Woche|Die Woche verging schnell.
-1022|der|der Plan|Der Plan wurde umgesetzt.
-1894|das|das Dach|Das Dach wurde neu gedeckt.
-3964|das|das Heft|Das Heft liegt auf dem Tisch.
 1648|die|die Fahrt|Die Fahrt dauerte drei Stunden.
-929|der|der Fehler|Der Fehler wurde korrigiert.
 1101|die|die Insel|Die Insel ist nur per Boot erreichbar.
-1112|der|der Sieg|Der Sieg war hart umkämpft.
-1180|die|die Quelle|Die Quelle sprudelt frisch.
 1263|die|die Spur|Die Spur führte ins Ungewisse.
-2961|die|die Lücke|Die Lücke im Wissen war groß.
-3078|der|der Mantel|Der Mantel hielt ihn warm.
-4512|adj|blutig|Das Fleisch war noch blutig.
 871|die|die Nummer|Die Nummer wurde falsch gewählt.
 1158|das|das Theater|Das Theaterstück war fesselnd.
 3384|die|die Spalte|Die Spalte im Felsen war tief.
-1451|adj|streng|Der Lehrer war sehr streng.
 1700|der|der Vorschlag|Der Vorschlag wurde angenommen.
 2054|die|die Ladung|Die Ladung erreichte den Hafen.
 3341|die|die Öffnung|Die Öffnung der Tür war schwierig.
 4499|das|das Testament|Das Testament wurde vorgelesen.
-4732|adj|vornehm|Das Restaurant wirkt vornehm.
-1746|die|die Umwelt|Die Umwelt wird geschützt.
 2352|die|die Partie|Die Partie endete unentschieden.
 3426|die|die Übersicht|Die Übersicht zeigt alle Daten.
-4176|der|der Spruch|Der Spruch war sehr treffend.
-889|der|der Spieler|Der Spieler traf das Tor.
-1136|die|die Theorie|Die Theorie wurde bewiesen.
 1183|die|die Behörde|Die Behörde genehmigte den Antrag.
 1459|adj|bayrisch|Die bayrische Kultur ist reichhaltig.
 1583|der|der Zugang|Der Zugang zum Gebäude ist gesperrt.
 1799|die|die Gestalt|Die Gestalt verschwand im Nebel.
-3534|die|die Mahlzeit|Die Mahlzeit war köstlich.
 4220|verb|unterteilen, unterteilt, unterteilte, hat unterteilt|Der Text wurde in Kapitel unterteilt.
 4988|das|das Trinken|Das Trinken von Wasser ist wichtig.
 1987|adj|parallel|Die Straßen verlaufen parallel.
 2167|das|das Bewusstsein|Das Bewusstsein kehrte zurück.
 2989|das|das Turnier|Das Turnier endete unentschieden.
-3687|adj|variabel|Das Ergebnis ist variabel.
 4794|adj|beweglich|Das Material ist sehr beweglich.
 1051|der|der Hinweis|Der Hinweis war sehr hilfreich.
 2261|die|die Operation|Die Operation verlief erfolgreich.
@@ -1436,69 +1087,43 @@
 3942|der|der Aktionär|Der Aktionär investierte klug.
 4026|adj|anspruchsvoll|Das Projekt war anspruchsvoll.
 4090|adj|thermisch|Die thermische Belastung war hoch.
-4438|verb|zerreißen, zerreißt, zerriss, hat zerrissen|Er zerriss den Brief wütend.
 2271|die|die Überlegung|Die Überlegung war entscheidend.
 2730|der|der Geschäftsführer|Der Geschäftsführer begrüßte die Gäste.
 1214|die|die Unterstützung|Die Unterstützung kam zur rechten Zeit.
 4020|die|die Konferenz|Die Konferenz begann pünktlich.
 2237|der|der Mechanismus|Der Mechanismus wurde repariert.
-2634|adj|angemessen|Die Strafe war angemessen.
 4816|das|das Vokabular|Das Vokabular umfasst viele Wörter.
 312|die|die Geschichte|Die Geschichte ist spannend erzählt.
 509|die|die Milliarde, Mrd.|Eine Milliarde Euro wurde investiert.
-630|prep|laut|Laut Gesetz ist das verboten.
 1597|adv|dahin|Er ging dahin, wo es ruhig war.
-2086|adj|Wiener|Die Wiener Küche ist bekannt.
 2662|das|das Radio|Das Radio spielte leise Musik.
-2666|verb|ansteigen, steigt an, stieg an, ist angestiegen|Die Kosten steigen stetig an.
-2712|der, die|die Erste|Sie war die Erste im Ziel.
-3736|der|der Flügel|Der Flügel war verstimmt.
 3835|verb|entfallen, entfällt, entfiel, ist entfallen|Der Termin entfiel wegen Krankheit.
 3900|die|die Niederlande|Die Niederlande sind flach und grün.
 4210|verb|verankern, verankert, verankerte, hat verankert|Das Recht wurde im Gesetz verankert.
 4296|verb|ausstehen, steht aus, stand aus, hat ausgestanden|Die Entscheidung steht noch aus.
-4611|adj|fließend|Er spricht fließend Deutsch.
 4619|verb|läuten, läutet, läutete, hat geläutet|Die Glocken läuteten am Morgen.
-4337|die|die Burg|Die Burg steht auf dem Hügel.
-4472|der|der Abfall|Der Abfall wurde entsorgt.
 3126|das|das Symptom|Das Symptom verschwand schnell.
 4158|der|der Tunnel|Der Tunnel ist lang und dunkel.
-192|der|der Herr|Der Herr sprach zur Menge.
 440|die|die Rolle|Sie spielte eine wichtige Rolle.
-1955|adj|beliebt|Das Spiel ist sehr beliebt.
 531|verb|sterben, stirbt, starb, ist gestorben|Viele Helden starben im Krieg.
-1518|adj|scharf|Die Klinge ist sehr scharf.
-1992|der|der Abschluss|Der Abschluss wurde gefeiert.
-2141|der|der Anlass|Der Anlass war ein Jubiläum.
 2214|der|der Verkehr|Der Verkehr stockte plötzlich.
-3915|der|der Krebs|Der Krebs breitet sich aus.
 4740|die|die Allianz|Die Allianz wurde geschlossen.
 4927|das|das Archiv|Das Archiv enthält alte Dokumente.
-941|die|die Temperatur|Die Temperatur stieg rapide.
 4188|der|der Container|Der Container wurde verschifft.
-2252|das|das Netzwerk|Das Netzwerk war überlastet.
 3886|der|der Koch|Der Koch bereitete das Menü vor.
-4135|das|das Mittelmeer|Das Mittelmeer ist ruhig.
 4558|das|das Zeugnis|Das Zeugnis wurde ausgestellt.
 4786|die|die Instanz|Die Instanz entschied schnell.
 1021|das|das Institut|Das Institut forscht intensiv.
-1202|adj|theoretisch|Theoretisch wäre es möglich.
-3393|der|der Sachverhalt|Der Sachverhalt ist komplex.
 3890|die|die Zunahme|Die Zunahme der Fälle beunruhigt.
-4748|das|das Motorrad|Das Motorrad fuhr schnell.
-4436|die|die Präsentation|Die Präsentation lief gut.
 1198|adj|unmittelbar|Er reagierte unmittelbar nach dem Anruf.
 2787|die|die Katastrophe|Die Katastrophe traf alle unvorbereitet.
 4305|der|der Algorithmus|Der Algorithmus löste das Problem.
-2659|die|die Versorgung|Die Versorgung ist gesichert.
-1395|die|die Konzentration|Die Konzentration ließ nach.
 1750|die|die Tätigkeit|Die Tätigkeit machte ihm Spaß.
 3491|die|die Verschiebung|Die Verschiebung des Termins war nötig.
 4142|die|die Geographie|Die Geographie der Region ist komplex.
 4553|adj|kollektiv|Kollektiv beschlossen sie die Maßnahmen.
 3207|die|die Zusammensetzung|Die Zusammensetzung änderte sich.
 4160|die|die Differenzierung|Die Differenzierung fällt schwer.
-5063|die|die Diskriminierung|Die Diskriminierung nahm zu.
 3088|das|das Abkommen|Das Abkommen wurde ratifiziert.
 3958|die|die Transformation|Die Transformation war erfolgreich.
 611|prep|innerhalb|Innerhalb einer Stunde war er da.
@@ -1507,191 +1132,114 @@
 1239|prep|angesichts|Angesichts der Lage handelte er schnell.
 1529|verb|veröffentlichen, veröffentlicht, veröffentlichte, hat veröffentlicht|Der Artikel wurde veröffentlicht.
 1871|die|die Variable|Die Variable beeinflusst das Ergebnis.
-2439|verb|aufwachsen, wächst auf, wuchs auf, ist aufgewachsen|Er wuchs auf dem Land auf.
-2641|der|der Kredit|Der Kredit wurde bewilligt.
 3179|verb|isolieren, isoliert, isolierte, hat isoliert|Er isolierte das Kabel sorgfältig.
 3360|adj|indisch|Er kochte indisch für seine Freunde.
 3584|verb|konfrontieren, konfrontiert, konfrontierte, hat konfrontiert|Er konfrontierte ihn mit der Wahrheit.
 3597|das|das Menschenrecht|Das Menschenrecht ist unverzichtbar.
 3667|die|die Provinz|Die Provinz liegt weit im Osten.
-3685|das|das Paket|Das Paket wurde geliefert.
 3698|adj|operativ|Operativ konnte er alles regeln.
 3831|verb|zutrauen, traut zu, traute zu, hat zugetraut|Man traute ihm diese Aufgabe zu.
 3856|die (pl)|die Unterlage|Die Unterlagen wurden eingereicht.
-4413|verb|fügen (sich), fügt, fügte, hat gefügt|Er fügte sich dem Urteil.
 4801|die|die Realisierung|Die Realisierung dauerte länger.
 4856|adj|visuell|Visuell war das Projekt ansprechend.
 4857|das|das Wohl|Das Wohl der Familie ist ihm wichtig.
 4878|die|die Hauptsache|Die Hauptsache wurde erledigt.
 4924|die|die Bekämpfung|Die Bekämpfung der Seuche gelang.
 563|der|der Film|Der Film fesselte die Zuschauer.
-1095|das|das Band|Das Band zerriss plötzlich.
-424|die|die Gruppe|Die Gruppe löste sich auf.
 1365|adj|digital|Digital arbeiten erleichtert vieles.
-3354|der|der Bescheid|Der Bescheid kam gestern an.
 4432|die|die Malerei|Die Malerei war beeindruckend.
 253|die|die Arbeit|Die Arbeit begann um acht Uhr.
-269|die (pl)||Die Blumen blühen im Garten.
 1012|die|die Position|Die Position wurde neu besetzt.
 3054|das|das Labor|Das Labor untersuchte die Proben.
-3094|die|die Rente|Die Rente reicht kaum aus.
 3954|adj|mutig|Mutig stellte er sich der Gefahr.
-5034|das|das Modul|Das Modul wurde installiert.
-399|die|die Stelle|Die Stelle wurde gestrichen.
-1186|die|die Summe|Die Summe wurde überwiesen.
-2297|der|der Termin|Der Termin ist nächste Woche.
 3029|verb|bedecken, bedeckt, bedeckte, hat bedeckt|Der Schnee bedeckte die Dächer.
 4434|die|die Maske|Die Maske verdeckte sein Gesicht.
-577|der|der Kunde|Der Kunde war unzufrieden.
-2384|die|die Wärme|Die Wärme hielt nicht lange.
-3548|die (pl)||Die Daten wurden gesichert.
-5037|das|das Stockwerk|Das Stockwerk wurde geräumt.
-2651|verb|sperren, sperrt, sperrte, hat gesperrt|Die Straße wurde gesperrt.
 3183|adj|problematisch|Problematisch war die Umsetzung.
 1651|das|das Instrument|Das Instrument wurde gestimmt.
-1986|das|das Wesen|Das Wesen verschwand im Wald.
-3612|adj|starr|Er blieb starr vor Schreck.
 1982|die|die Umsetzung|Die Umsetzung verlief reibungslos.
 2258|der|der Manager|Der Manager traf die Entscheidung.
-2547|das|das Seminar|Das Seminar war gut besucht.
 2579|adj|dauerhaft|Dauerhaft bleibt das bestehen.
-5046|der|der Tatort|Der Tatort wurde abgesperrt.
-3128|die|die Auffassung|Die Auffassung war geteilt.
 3794|die|die Erweiterung|Die Erweiterung des Hauses begann.
 3744|die|die Ausprägung|Die Ausprägung ist deutlich sichtbar.
-4881|die|die Korrektur|Die Korrektur dauerte lange.
-2222|die|die Koordination|Die Koordination verlief gut.
-2937|die|die Einschätzung|Die Einschätzung war richtig.
-4453|die|die Bemühung|Die Bemühung war sichtbar.
-1687|die|die Verwendung|Die Verwendung ist einfach.
 2500|adj|biologisch|Biologisch ist das Produkt einwandfrei.
 2904|die|die Finanzierung|Die Finanzierung wurde gesichert.
 5053|das|das Referendum|Das Referendum entschied alles.
-2643|die|die Kompetenz|Die Kompetenz liegt bei ihm.
 4902|die|die Verhaltensweise|Die Verhaltensweise änderte sich.
 234|pron|denen|Er hilft denen, die ihn brauchen.
-467|das|das Pro|Das Pro überwog das Kontra.
-2092|verb|absehen, sieht ab, sah ab, hat abgesehen|Er sah von der Strafe ab.
 2603|prep|jenseits|Jenseits des Flusses liegt das Dorf.
-2644|die|die Leitung|Die Leitung wurde repariert.
-2828|die|die Adresse|Die Adresse wurde notiert.
 3106|adj|kinetisch|Die kinetische Energie ist groß.
 3302|der|der Kellner|Der Kellner brachte das Essen.
 3319|die|die Bundeswehr|Die Bundeswehr übte im Gelände.
 3502|prep|inklusive|Inklusive Getränk kostet es zehn Euro.
 3653|adj|akademisch|Das Niveau ist akademisch hoch.
-3759|der|der Nachweis|Der Nachweis wurde erbracht.
 3913|adj|jetzig|Die jetzige Situation ist schwierig.
-4549|das|das Diagramm|Das Diagramm zeigt die Daten.
 4817|verb|weiterentwickeln, entwickelt weiter, entwickelte weiter, hat weiterentwickelt|Er entwickelte das Konzept weiter.
 4819|der|der Zerfall|Der Zerfall des Gebäudes begann.
-1083|der|der Baum|Der Baum spendet Schatten.
-2358|das|das Gefäß|Das Gefäß ist zerbrochen.
-4136|das|das Tuch|Das Tuch lag auf dem Tisch.
 3264|die|die Lunge|Die Lunge arbeitet einwandfrei.
-4367|das|das Hirn|Das Hirn steuert den Körper.
 4513|der|der Erwerb|Der Erwerb des Hauses war teuer.
 2157|der|der Anstieg|Der Anstieg der Preise war erwartet.
-2398|adj|lebendig|Das Viertel ist lebendig.
-4377|das|das Format|Das Format wurde geändert.
-4442|das|das Klavier|Das Klavier klingt melodisch.
-4446|der|der Neubau|Der Neubau ist fast fertig.
-4789|das|das Segment|Das Segment wurde analysiert.
-2985|adj|senkrecht|Die Wand steht senkrecht.
 3121|die|die Intensität|Die Intensität des Lichts nahm zu.
-4257|das|das Märchen|Das Märchen wurde erzählt.
 4573|adj|sowjetisch|Sowjetische Technik war robust.
-1069|der|der Sprecher|Der Sprecher hielt eine Rede.
 1792|der|der Umsatz|Der Umsatz stieg im letzten Quartal.
-2737|der|der Schatz|Der Schatz wurde gefunden.
 2918|der|der Fernseher|Der Fernseher lief den ganzen Abend.
 4546|verb|zerbrechen, zerbricht, zerbrach, hat zerbrochen|Das Glas zerbrach in tausend Teile.
 4108|das|das Manuskript|Das Manuskript wurde überarbeitet.
 4509|die|die Zuordnung|Die Zuordnung der Aufgaben war klar.
 2017|die|die Aminosäure|Die Aminosäure ist lebenswichtig.
 4511|die|die Biografie|Die Biografie wurde veröffentlicht.
-4391|adj|kriminell|Das Verhalten war kriminell.
 2711|adj|derartig|Derartige Probleme gab es nie.
-4594|die|die Premiere|Die Premiere war ein Erfolg.
 2898|die|die Infrastruktur|Die Infrastruktur wurde verbessert.
 3572|die|die Werkstatt|Die Werkstatt reparierte das Auto.
 3700|die|die Qualifikation|Die Qualifikation war entscheidend.
 4178|die|die Befragung|Die Befragung brachte neue Erkenntnisse.
 4781|die|die Auszeichnung|Die Auszeichnung wurde verliehen.
 3564|die|die Unabhängigkeit|Die Unabhängigkeit wurde erkämpft.
-2388|der|der Unternehmer|Der Unternehmer expandierte.
 2670|die|die Betrachtung|Die Betrachtung der Lage war wichtig.
 4694|adj|gesundheitlich|Gesundheitlich geht es ihm besser.
-171|adj|natürlich|Natürlich half er sofort.
 595|conj|bevor|Bevor es regnet, gehen wir heim.
 776|prep|aufgrund|Aufgrund der Lage blieb er ruhig.
-1182|das|das Gebiet|Das Gebiet wurde erkundet.
 2090|das|Afghanistan|Afghanistan liegt in Südasien.
 2652|der|der Sportler|Der Sportler gewann die Medaille.
 3305|verb|vermögen, vermag, vermochte, hat vermocht|Er vermochte es, alle zu überzeugen.
-3574|das|das Kloster|Das Kloster liegt abgelegen.
-3585|der|der Sex|Der Sex war ein Tabuthema.
 3871|adj|detailliert|Der Plan wurde detailliert beschrieben.
 3931|adv|daheim|Er blieb den ganzen Tag daheim.
 3985|der|der Rücktritt|Der Rücktritt kam überraschend.
 4273|adv|binnen|Binnen einer Woche war alles erledigt.
 4802|der|der Rechtsanwalt|Der Rechtsanwalt verteidigte ihn gut.
 4888|der|die Verletzte|Der Verletzte wurde behandelt.
-1096|der|der Band|Der Band enthält Gedichte.
 1264|adj|berliner|Berliner Spezialitäten sind lecker.
 1348|adj|Schweizer|Schweizer Schokolade ist berühmt.
-1703|der|der Leiter|Der Leiter entschied schnell.
 2535|die|die Base|Die Base reagierte mit der Säure.
 2582|adj|räumlich|Die räumliche Trennung fiel schwer.
 3132|der|der Österreicher|Der Österreicher gewann das Rennen.
 3168|adj|effizient|Das System arbeitet effizient.
 3582|der|der Grieche|Der Grieche kochte fantastisch.
 3609|der|der Kompromiss|Der Kompromiss wurde akzeptiert.
-3624|das|das Maximum|Das Maximum wurde erreicht.
 3686|verb|putzen, putzt, putzte, hat geputzt|Er putzte die Fenster gründlich.
 4038|verb|beauftragen, beauftragt, beauftragte, hat beauftragt|Er beauftragte die Firma sofort.
-4721|der|der Atomkern|Der Atomkern spaltete sich.
 4788|adj|optimistisch|Er blickt optimistisch in die Zukunft.
 1226|die|die Generation|Die jüngere Generation denkt anders.
 1439|der|der Anschlag|Der Anschlag erschütterte die Stadt.
-1841|adj|primär|Primär geht es um den Erfolg.
 1931|verb|erweitern, erweitert, erweiterte, hat erweitert|Er erweiterte sein Wissen durch Bücher.
-2722|verb|beschleunigen, beschleunigt, beschleunigte, hat beschleunigt|Er beschleunigte den Prozess.
-3173|adj|vorübergehend|Vorübergehend bleibt er hier.
 3321|adj|mechanisch|Die mechanische Arbeit war anstrengend.
 3648|verb|zurücktreten, tritt zurück, trat zurück, ist zurückgetreten|Der Präsident trat unerwartet zurück.
 3684|verb|ausweichen, weicht aus, wich aus, ist ausgewichen|Er wich der Frage geschickt aus.
-3989|der|der Marktanteil|Der Marktanteil stieg stark.
-1431|der|der Bezug|Der Bezug war gut erklärt.
 1471|verb|vermitteln, vermittelt, vermittelte, hat vermittelt|Er vermittelte das Wissen klar.
 1779|der|der Verlauf|Der Verlauf der Straße war kurvig.
-1974|die|die AG (Aktiengesellschaft)|Die AG plant eine Expansion.
 3151|adj|virtuell|Das Treffen fand virtuell statt.
-3600|der|der Wahnsinn|Der Wahnsinn griff um sich.
 3884|verb|heranziehen, zieht heran, zog heran, hat herangezogen|Er zog Experten zur Beratung heran.
-5048|das|das Attentat|Das Attentat wurde vereitelt.
 1207|verb|töten, tötet, tötete, hat getötet|Er tötete das Ungeziefer schnell.
 1816|die|die Nation|Die Nation feierte den Erfolg.
-2750|verb|zögern, zögert, zögerte, hat gezögert|Er zögerte, bevor er sprach.
 2753|verb|einziehen, zieht ein, zog ein, hat eingezogen|Er zog in die neue Wohnung ein.
-2777|verb|abbilden, bildet ab, bildete ab, hat abgebildet|Das Foto bildet die Szene ab.
-3421|die|die Begeisterung|Die Begeisterung war spürbar.
 3920|adj|außerordentlich|Er war außerordentlich begabt.
 3924|der|der Republikaner|Der Republikaner gewann die Wahl.
-4810|die|die Interaktion|Die Interaktion war intensiv.
 1177|adv|andererseits|Andererseits konnte er nichts tun.
 2727|der|der Protest|Der Protest war laut und deutlich.
 3692|verb|erregen, erregt, erregte, hat erregt|Er erregte viel Aufmerksamkeit.
 5032|verb|langweilen, langweilt, langweilte, hat gelangweilt|Der Vortrag langweilte das Publikum.
-5066|adj|fürchterlich|Das Wetter war fürchterlich.
-2027|verb|versorgen, versorgt, versorgte, hat versorgt|Er versorgte die Verletzten.
 2790|adj|bürgerlich|Er lebt ein bürgerliches Leben.
 3142|die|die Besonderheit|Die Besonderheit wurde betont.
-3613|der|der Vorhang|Der Vorhang fiel langsam.
 3543|die|die Vorsicht|Vorsicht ist besser als Nachsicht.
-3551|verb|scheiden, scheidet, schied, hat geschieden|Das Paar wurde geschieden.
-3882|das|das Gemälde|Das Gemälde hängt im Museum.
-3904|die|die Wahlperiode|Die Wahlperiode endet bald.
 4528|prep|seitens|Seitens der Regierung gab es Kritik.
 2751|adv|derart|Derart gute Chancen hat man selten.
 3569|adj|reell|Reell betrachtet ist die Lage schwierig.
@@ -1701,51 +1249,36 @@
 1260|das|das Konzept|Das Konzept wurde vorgestellt.
 3430|das|Asien|Asien ist der größte Kontinent.
 3997|das|das Substrat|Das Substrat wurde analysiert.
-1715|adv|einerseits|Einerseits wollte er helfen.
 2037|prep|mittels|Mittels eines Tricks gelang ihm das.
 2361|die|die Tiefe|Die Tiefe des Sees ist unbekannt.
-3972|verb|überziehen, überzieht, überzog, hat überzogen|Er überzog den Kreditrahmen.
 3665|adj|musikalisch|Musikalisch war er talentiert.
-3556|verb|beibringen, bringt bei, brachte bei, hat beigebracht|Er brachte ihm das Lesen bei.
 4231|adv|abschließend|Abschließend bedankte er sich.
-3864|das|das Hessisch|Das Hessisch klingt vertraut.
 3976|das|das Zeitalter|Das Zeitalter der Aufklärung begann.
-4910|die|die Jungfrau|Die Jungfrau war unberührt.
-1389|adv|vielmehr|Vielmehr sollte er handeln.
 2925|pron|dazwischen|Er stand dazwischen und hörte zu.
 2168|die|die Stiftung|Die Stiftung unterstützt Bildung.
 2735|der|der Außenminister|Der Außenminister reiste nach Berlin.
 2805|die|die Dichte|Die Dichte des Waldes nahm zu.
 2498|adj|umstritten|Die Entscheidung war umstritten.
 968|das|das Atom|Das Atom bildet die Basis aller Materie.
-1204|der|der Papa|Der Papa holt die Kinder ab.
 3741|der|der Hang|Der Hang war steil und rutschig.
 652|die|die Kultur|Die Kultur des Landes fasziniert mich.
-915|adj|breit|Der Fluss ist breit und tief.
 1016|adj|blau|Das Meer leuchtet blau in der Sonne.
 1124|der|der Januar|Der Januar bringt oft Schnee mit sich.
-1487|adj|hell|Das Licht im Zimmer war hell.
 1775|das|das Handy|Ich habe mein Handy vergessen.
 1808|die|die Haltung|Die Haltung des Tieres war ruhig.
 3573|die|die Kälte|Die Kälte dringt durch die Kleidung.
 3622|der|der Frühling|Der Frühling bringt Wärme und Leben.
 4602|adj|witzig|Sein Kommentar war witzig und spontan.
 4663|adj|giftig|Die Pflanze ist giftig und gefährlich.
-474|die|die Richtung|In welche Richtung gehen wir?
 737|das|das Fenster|Das Fenster blieb die ganze Nacht offen.
-1009|der|der Dollar|Der Dollar stieg im Wert.
 1312|adj|linear|Der Fortschritt verläuft linear.
 1524|adj|heftig|Der Sturm war heftig und zerstörerisch.
 1819|die|die Auflage|Die neue Auflage erschien gestern.
 3957|die|die Tafel|Die Tafel war mit Notizen bedeckt.
 1289|adj|komplett|Das Haus war komplett renoviert.
-3284|der|der Teller|Der Teller fiel zu Boden.
-3469|adj|bequem|Der Sessel ist sehr bequem.
-2300|das|das Drama|Das Drama endete tragisch.
 4417|die|die Reflexion|Die Reflexion im Wasser war klar.
 4735|die|die Illusion|Die Illusion zerbrach schnell.
 560|verb|gelingen, gelingt, gelang, ist gelungen|Der Plan gelang ohne Probleme.
-856|der|der Versuch|Der Versuch misslang erneut.
 876|adj|interessant|Das Buch ist wirklich interessant.
 2078|die|die Institution|Die Institution fördert Bildung.
 2094|adj|regional|Regional ist die Küche einzigartig.
@@ -1753,10 +1286,8 @@
 4143|das|das Lebewesen|Das Lebewesen reagierte auf Geräusche.
 4191|die|die Mutation|Die Mutation veränderte das Gen.
 1073|der|der Trainer|Der Trainer motivierte die Mannschaft.
-3061|die|die Autobahn|Die Autobahn war gesperrt.
 3418|adj|harmonisch|Die Farben wirken harmonisch zusammen.
 543|die|die Chemie|Die Chemie zwischen ihnen stimmte.
-1587|verb|festlegen, legt fest, legte fest, hat festgelegt|Er legte die Regeln fest.
 4423|die|die Ausrichtung|Die Ausrichtung des Events war perfekt.
 4681|der|der Stoffwechsel|Der Stoffwechsel arbeitet schneller.
 5074|die|die Befreiung|Die Befreiung brachte Erleichterung.
@@ -1765,54 +1296,32 @@
 1457|die|die Wahrscheinlichkeit|Die Wahrscheinlichkeit für Regen steigt.
 4276|die|die Inszenierung|Die Inszenierung war beeindruckend.
 1516|die|die Gemeinde|Die Gemeinde feierte das Fest.
-694|das|das Foto|Das Foto zeigt uns am Strand.
-654|der|der Sohn|Der Sohn spielte im Garten.
-2217|der|der Kauf|Der Kauf des Hauses war klug.
-1452|die|die Ecke|An der Ecke trafen sie sich.
-1757|der|der Laden|Der Laden öffnet um acht Uhr.
-3146|adj|cool|Das Konzert war echt cool.
 4319|die|die Fassade|Die Fassade wurde neu gestrichen.
 5001|der|der Römer|Der Römer baute beeindruckende Straßen.
-1229|das|das Zeichen|Das Zeichen war deutlich.
-1373|der|der Kaffee|Der Kaffee duftete herrlich.
 4190|adj|live|Das Konzert wurde live übertragen.
 4407|die|die Bibel|Die Bibel liegt auf dem Tisch.
-5069|die|die Skulptur|Die Skulptur stand im Park.
 950|adj|klassisch|Klassische Musik erklingt im Saal.
 1521|die|die Formel|Die Formel war schwierig zu lösen.
 2251|das|das Metall|Das Metall ist schwer und kalt.
-4332|der|der Trick|Der Trick beeindruckte alle.
 1048|die|die Tabelle|Die Tabelle zeigt die Ergebnisse.
 2064|adj|lokal|Lokal gibt es bessere Angebote.
-4691|adj|antik|Antike Vasen sind wertvoll.
-3971|adj|schmutzig|Seine Schuhe waren schmutzig.
 4203|die|die Einteilung|Die Einteilung der Gruppen war einfach.
 2630|adj|unklar|Der Text bleibt unklar formuliert.
 3578|das|das Unglück|Das Unglück ereignete sich plötzlich.
 4095|die|die Erfindung|Die Erfindung revolutionierte die Welt.
 1332|die|die Anwendung|Die Anwendung des Programms ist leicht.
-2323|das|das Kapital|Das Kapital wurde investiert.
 2419|der|der Geruch|Der Geruch von Kaffee weckte ihn.
 2855|das|das Medium|Das Medium beeinflusst die Meinung.
 3246|der|der Großteil|Der Großteil der Arbeit ist erledigt.
 3509|die|die Durchführung|Die Durchführung verlief reibungslos.
-3544|die|die Auskunft|Die Auskunft war hilfreich.
 4784|die|die Fusion|Die Fusion der Firmen brachte Erfolg.
 4564|die|die Evolution|Die Evolution erklärt viele Phänomene.
 1613|die|die VWL (Volkswirtschaftslehre)|Die VWL beschäftigt sich mit Märkten.
-503|die|die Grenze|Die Grenze wurde gesichert.
-801|die|die Reihe|Er stellte sich in die Reihe.
-1002|der|der Berg|Der Berg ragte in den Himmel.
-412|die|die Person|Die Person war freundlich.
 4088|das|das Lokal|Das Lokal serviert gute Gerichte.
 4760|der|der Knall|Ein lauter Knall erschreckte uns.
 744|das|das Werk|Das Werk wurde veröffentlicht.
 1277|der|der Rand|Am Rand des Feldes stand ein Baum.
-1550|die|die Karte|Die Karte zeigte den Weg.
-2523|adj|flach|Das Land war flach und weit.
-4672|die|die Dusche|Die Dusche war erfrischend.
 3191|der|der Status|Sein Status in der Firma stieg.
-1951|die|die Stirn|Er legte die Stirn in Falten.
 5033|adj|magisch|Die Atmosphäre war fast magisch.
 401|das|das Gesicht|Sein Gesicht zeigte keine Regung.
 3310|verb|spalten, spaltet, spaltete, hat gespalten|Er spaltete das Holz für den Kamin.
@@ -1827,7 +1336,6 @@
 2907|die|die Plattform|Die Plattform brach unter der Last.
 4798|der|der Moderator|Der Moderator führte durch die Sendung.
 4962|der|der Syrer|Der Syrer erzählte von seiner Reise.
-1242|adj|eindeutig|Die Antwort war eindeutig.
 1407|die|die Ursache|Die Ursache des Problems war klar.
 4259|der|der Schädel|Der Schädel war stark beschädigt.
 4756|das|das Gutachten|Das Gutachten bestätigte den Verdacht.
@@ -1836,64 +1344,49 @@
 1411|die|die Forschung|Die Forschung bringt neue Erkenntnisse.
 3052|die|die Vereinbarung|Die Vereinbarung wurde getroffen.
 2480|die|die Überzeugung|Seine Überzeugung war unerschütterlich.
-1307|die|die Geschwindigkeit|Die Geschwindigkeit nahm zu.
 4908|adj|funktional|Das Design war funktional und effizient.
 2958|die|die Vielzahl|Die Vielzahl der Optionen verwirrte ihn.
 651|adj|eng|Die Gassen der Altstadt sind eng.
 811|adj|modern|Das Gebäude wirkt sehr modern.
-112|pron|jede (r, s)|Jeder Gast war willkommen.
 441|das|das Ergebnis|Das Ergebnis war überraschend.
 1046|das|das Risiko|Das Risiko wuchs mit der Zeit.
-5057|adj|uralt|Der Baum im Garten ist uralt.
 1532|die|die Strecke|Die Strecke war lang und kurvig.
-1919|die|die Störung|Die Störung wurde behoben.
 3248|die|die Software|Die Software lief einwandfrei.
 3983|das|das Neuron|Das Neuron sendet elektrische Impulse.
-907|das|das Mitglied|Das Mitglied trat zurück.
-2591|das|das Erbe|Das Erbe wurde aufgeteilt.
 2633|adj|schlicht|Der Raum war schlicht eingerichtet.
 2968|die|die Einnahme|Die Einnahme stieg im letzten Jahr.
 4258|das|das Regime|Das Regime kontrollierte das Land.
 1143|der|der Rest|Der Rest des Kuchens blieb übrig.
-525|die|die Zukunft|Die Zukunft ist ungewiss.
 2734|das|das Subjekt|Das Subjekt des Satzes ist markiert.
 4015|adj|symbolisch|Das Geschenk war symbolisch wertvoll.
-736|die|die Bedingung|Die Bedingungen waren hart.
-1394|der|der Tourist|Der Tourist machte Fotos.
 2212|der|der Gebrauch|Der Gebrauch des Werkzeugs war einfach.
 2713|adj|vielfach|Vielfach wurde das Problem diskutiert.
 2899|der|der Konkurrent|Der Konkurrent senkte die Preise.
 3638|die|die Muskulatur|Die Muskulatur wuchs durch das Training.
 3823|die|die Haftung|Die Haftung auf Eis war schlecht.
-3852|die|die Diagnose|Die Diagnose war präzise.
 4389|adj|horizontal|Das Bild hing horizontal an der Wand.
 4945|der|der Anhang|Der Anhang der E-Mail war groß.
 1150|das|das Museum|Das Museum zeigt antike Kunst.
 1538|die|die Wissenschaft|Die Wissenschaft macht Fortschritte.
 2048|adj|durchschnittlich|Seine Leistungen waren durchschnittlich.
 3593|adj|anstrengend|Die Arbeit war körperlich anstrengend.
-1753|der|der Arbeitsplatz|Sein Arbeitsplatz war sicher.
 3202|die|die Leidenschaft|Die Kunst ist seine Leidenschaft.
 3215|der|der Turm|Der Turm steht im Zentrum der Stadt.
 1273|das|das Maß|Das Maß der Dinge ist entscheidend.
 1820|adj|billig|Das Produkt war billig und nützlich.
 1912|das|das Gen|Das Gen beeinflusst die Haarfarbe.
 2178|das|das Brot|Das Brot ist frisch und knusprig.
-2219|der|der Betrag|Der Betrag wurde überwiesen.
 4596|der|der Schrei|Der Schrei hallte durch die Nacht.
 370|die|die Lösung|Die Lösung des Rätsels war einfach.
 1732|die|die Tradition|Die Tradition wurde fortgeführt.
 1944|das|das Management|Das Management entschied schnell.
 3237|das|das Stadion|Das Stadion füllte sich schnell.
 5056|der|der Umzug|Der Umzug verlief reibungslos.
-2019|das|das Phänomen|Das Phänomen blieb unerklärt.
 2254|die|die Technologie|Die Technologie entwickelt sich schnell.
-2849|adj|magnetisch|Das Magnetfeld ist stark.
 3887|der|der Stadtteil|Der Stadtteil hat viele Parks.
 3938|die|die Gliederung|Die Gliederung des Textes war klar.
 3968|das|das Magnetfeld|Das Magnetfeld wurde gemessen.
 4443|adj|kommunal|Kommunale Wahlen stehen bevor.
-4907|der|der Fund|Der Fund war eine Sensation.
 4566|die|die Nervenzelle|Die Nervenzelle leitet Signale weiter.
 1248|die|die Ausbildung|Die Ausbildung dauert drei Jahre.
 1670|adj|statistisch|Statistisch gesehen hat er recht.
@@ -1902,25 +1395,17 @@
 4530|die|die Versuchsperson|Die Versuchsperson wurde untersucht.
 4518|die|die Wiedervereinigung|Die Wiedervereinigung war historisch.
 3869|der|der Vorgänger|Sein Vorgänger war erfolgreicher.
-1950|adj|kompliziert|Die Aufgabe war kompliziert.
-3541|das|das Praktikum|Das Praktikum war lehrreich.
-4770|das|das Halbfinale|Das Halbfinale war spannend.
-2896|adj|umfangreich|Das Buch war umfangreich.
 3119|der|der Champion|Der Champion verteidigte seinen Titel.
 2015|die|die Gegenwart|In der Gegenwart zählt der Moment.
-3508|die|die CD|Die CD enthält viele Hits.
 286|der|der Doktor|Der Doktor verschrieb ein Medikament.
-5027|das|das Seil|Das Seil hielt das Gewicht.
 278|der|der Vater|Der Vater holte seine Tochter ab.
 1014|das|das BGB (Bürgerliches Gesetzbuch)|Das BGB regelt zivile Angelegenheiten.
 1035|der|der Absatz|Der Absatz des Schuhs war hoch.
 1899|adj|bunt|Das Fest war bunt und lebendig.
 3398|der|der Ertrag|Der Ertrag war zufriedenstellend.
-1925|die|die Ausgabe|Die Ausgabe wurde erhöht.
 632|die (pl)||Die Daten wurden sorgfältig überprüft.
 940|der|der Einfluss|Sein Einfluss wuchs mit der Zeit.
 1210|der|der Zeitpunkt|Der Zeitpunkt war gut gewählt.
-3793|adj|endlos|Die Diskussion schien endlos.
 4292|das|das Rezept|Das Rezept stammt von meiner Großmutter.
 913|der|der Beginn|Der Beginn der Feier verzögerte sich.
 1311|die|die Maschine|Die Maschine lief ohne Probleme.
@@ -1928,8 +1413,6 @@
 4084|adj|aromatisch|Der Wein schmeckte aromatisch.
 1696|der|der Umgang|Der Umgang mit dem Gerät ist einfach.
 2000|die|die Erkrankung|Die Erkrankung breitet sich aus.
-2516|die|die Schwingung|Die Schwingung war stark.
-2511|der|der Zeitraum|Der Zeitraum war begrenzt.
 4097|das|das Immunsystem|Das Immunsystem wurde gestärkt.
 2605|der|der Wähler|Der Wähler gab seine Stimme ab.
 4609|adj|rational|Die Entscheidung war rational.
@@ -1941,8 +1424,6 @@
 1957|adj|komisch|Der Film war komisch und unterhaltsam.
 949|die|die Analyse|Die Analyse ergab neue Ergebnisse.
 1958|adj|westlich|Das westliche Gebiet war ruhig.
-574|adj|positiv|Die Nachricht war positiv.
-2502|adj|wirksam|Das Medikament war wirksam.
 3316|der|der Supermarkt|Der Supermarkt war gut sortiert.
 904|adj|amerikanisch|Amerikanische Filme sind beliebt.
 4030|adj|geometrisch|Geometrische Formen faszinieren ihn.
@@ -1950,22 +1431,18 @@
 3056|adj|divers|Das Team war divers zusammengesetzt.
 3192|das|das Stichwort|Das Stichwort war treffend gewählt.
 3513|die|die Erziehung|Die Erziehung der Kinder war streng.
-1402|die|die Änderung|Die Änderung wurde genehmigt.
 1949|der|der Weltkrieg|Der Weltkrieg veränderte die Welt.
 2565|die|die Verbesserung|Die Verbesserung war dringend nötig.
 3410|die|die Notwendigkeit|Die Notwendigkeit war offensichtlich.
 3723|das|das Protokoll|Das Protokoll wurde geschrieben.
 5003|die|die Übereinstimmung|Die Übereinstimmung war erstaunlich.
-1199|der|der Bund|Der Bund plant neue Gesetze.
 1044|der|der Chef|Der Chef lobte seine Mitarbeiter.
 1879|das|das Drittel|Ein Drittel der Schüler fehlt.
 1896|verb|regeln, regelt, regelte, hat geregelt|Er regelt seine Angelegenheiten selbst.
 2392|die|die Periode|Die Periode dauerte mehrere Jahre.
 5024|adj|nominal|Nominal sind die Werte gleich.
-795|die|die Phase|Die Phase war herausfordernd.
 1446|das|das Wachstum|Das Wachstum der Stadt war enorm.
 1317|das|das Wochenende|Das Wochenende verbrachte er am See.
-1366|adj|unbekannt|Der Weg war ihm unbekannt.
 1566|der|der Angriff|Der Angriff erfolgte unerwartet.
 1884|das|das Restaurant|Das Restaurant bot köstliche Speisen an.
 3850|das|das Attribut|Das wichtigste Attribut war die Farbe.
@@ -1981,14 +1458,12 @@
 1969|der|der Anwalt|Der Anwalt vertrat seine Interessen.
 4426|adj|homogen|Die Gruppe war homogen zusammengesetzt.
 4383|die|die Priorität|Die Priorität lag auf Sicherheit.
-3385|der|der Zettel|Der Zettel lag auf dem Tisch.
 4080|die|die Quote|Die Quote für die Sendung stieg an.
 3777|adj|elementar|Elementare Kenntnisse sind erforderlich.
 4263|der|der Operator|Der Operator steuerte die Maschine.
 4317|der|der Darm|Der Darm verarbeitet die Nahrung.
 4796|adj|fraglich|Seine Aussagen waren fraglich.
 2741|der, die|die Angestellte|Der Angestellte arbeitete fleißig.
-123|adj|lang|Der Fluss ist lang und breit.
 306|adj|schwer|Der Koffer war schwer zu tragen.
 746|der|der Bürger|Der Bürger forderte mehr Transparenz.
 1280|der|der Winter|Der Winter brachte viel Schnee.
@@ -1997,46 +1472,35 @@
 1718|die|die Mathematik|Die Mathematik ist präzise und logisch.
 5042|das|das Elektroauto|Das Elektroauto fährt emissionsfrei.
 318|die|die Abbildung|Die Abbildung zeigt das Ergebnis.
-4872|die|die Verteidigung|Die Verteidigung hielt stand.
-3771|der|der Prinz|Der Prinz bestieg den Thron.
 3281|die|die Börse|Die Börse erlebte einen Aufschwung.
-1503|das|das Objekt|Das Objekt wurde versteigert.
 2080|das|das Viertel|Das Viertel ist bekannt für seine Cafés.
 4489|das|das Center|Das Center öffnet um zehn Uhr.
-2123|die|die CSU (Christlich-Soziale Union)|Die CSU gewann die Mehrheit.
 985|der|der Abschnitt|Der Abschnitt des Textes ist wichtig.
 4775|die|die Jagd|Die Jagd auf das Wild war erfolgreich.
 1379|die|die Statistik|Die Statistik zeigt klare Trends.
 4488|der|der Verteidiger|Der Verteidiger blockte den Angriff.
-1340|adj|dicht|Der Wald war dicht bewachsen.
-4678|der|der Mythos|Der Mythos wurde entlarvt.
 1502|der|der Geist|Der Geist erschien in der Nacht.
 1989|das|das Schloss|Das Schloss stand auf einem Hügel.
 541|die|die Bedeutung|Die Bedeutung des Wortes war klar.
 2351|adj|extern|Die Daten wurden extern gesichert.
 4171|adj|brutal|Der Film war brutal und erschreckend.
-5088|adj|vertikal|Die Linie verläuft vertikal.
 1666|die|die Bestimmung|Die Bestimmung war klar definiert.
 1420|adj|intensiv|Das Training war intensiv und fordernd.
 3948|adj|materiell|Materieller Besitz ist vergänglich.
 1708|das|das Kriterium|Das Kriterium war entscheidend.
 521|die|die Information|Die Information war hilfreich.
-2647|der|der Austausch|Der Austausch war produktiv.
 3097|die|die Zusammenfassung|Die Zusammenfassung war prägnant.
 4288|der|der Fürst|Der Fürst regierte das Land gerecht.
 290|das|das Recht|Das Recht schützt die Schwachen.
-4757|der|der Kämpfer|Der Kämpfer gab nicht auf.
 2114|adj|relevant|Die Daten sind für die Studie relevant.
 2302|die|die Vorschrift|Die Vorschrift wurde geändert.
 2059|die|die Religion|Die Religion beeinflusst viele Kulturen.
 1734|adj|freiwillig|Freiwillig half er bei der Arbeit.
 3471|der|der Kindergarten|Der Kindergarten betreut viele Kinder.
-2155|die|die Schrift|Die Schrift war kaum lesbar.
 1026|adj|komplex|Das Thema war komplex und schwierig.
 1141|adj|organisch|Organische Lebensmittel sind gesünder.
 4491|das|das Handwerk|Das Handwerk hat eine lange Tradition.
 3571|das|das Smartphone|Das Smartphone liegt auf dem Tisch.
-1970|pron|dahinter|Er versteckte sich dahinter.
 4547|der|der Aufsatz|Der Aufsatz wurde gut bewertet.
 4398|die|die Epoche|Die Epoche der Renaissance war prägend.
 2674|adj|christlich|Christliche Werte prägen das Land.
@@ -2045,409 +1509,206 @@
 3153|die|die Zeitschrift|Die Zeitschrift erschien monatlich.
 4677|der|der Klimawandel|Der Klimawandel bedroht die Natur.
 3081|adj|analytisch|Analytisch betrachtet hat er recht.
-1473|die|die Union|Die Union gewann die Wahl.
-137|pron|wo|Wo hast du das Buch gelassen?
 1551|adj|arm|Der arme Junge verlor sein Spielzeug.
 110|verb|stehen, steht, stand, hat gestanden|Er steht früh auf und geht joggen.
 184|part|nein, nee, nö|Nein, das kann nicht wahr sein!
-720|adv|los|Los, wir müssen jetzt gehen!
 1828|der|der Jude|Der Jude erzählte uns seine Geschichte.
 2240|verb|lügen, lügt, log, hat gelogen|Er lügt immer, wenn er Angst hat.
 4494|adj|naiv|Das naive Kind vertraute jedem.
-37|pron|wie|Wie hast du das geschafft?
 161|pron|dabei|Er war dabei, als es passierte.
-174|adv|dort|Dort hinten steht ein Baum.
 220|adj|stark|Der Wind wehte heute besonders stark.
-422|verb|treten, tritt, trat, hat getreten|Er tritt den Ball ins Tor.
-447|die|die Angst|Die Angst überwältigte ihn.
 775|adv|hin|Er ging hin, um es selbst zu sehen.
-855|adj|aktiv|Er ist aktiv im Sportverein.
-1078|adv|hinaus|Er ging hinaus in die Nacht.
 1397|adj|krank|Er fühlte sich krank und ging ins Bett.
 2083|adj|müde|Er war müde und legte sich hin.
 2089|adj|tätig|Er ist in der Forschung tätig.
-2971|verb|einkaufen, kauft ein, kaufte ein, hat eingekauft|Sie kauft jeden Freitag ein.
-3250|adj|wach|Ich war die ganze Nacht wach.
 3338|verb|zuschauen, schaut zu, schaute zu, hat zugeschaut|Er schaut gern beim Fußball zu.
-4013|adj|satt|Nach dem Essen war er satt.
-92|adv|also|Also, wann treffen wir uns?
-121|adj|erste (r, s)|Er gewann das erste Rennen.
 217|pron|dafür|Ich bin dafür, dass wir loslegen.
-540|verb|ausgehen, geht aus, ging aus, ist ausgegangen|Wir gehen heute Abend aus.
 553|pron|euch|Ich habe euch lange nicht gesehen.
 647|verb|freuen, freut, freute, hat gefreut|Er freut sich über das Geschenk.
 688|verb|vorkommen, kommt vor, kam vor, ist vorgekommen|Das kommt öfter vor, als man denkt.
 934|adv|vorher|Vorher hat er alles vorbereitet.
 1010|verb|leiden, leidet, litt, hat gelitten|Er leidet unter starken Kopfschmerzen.
 1221|der|der Juni|Der Juni ist mein Lieblingsmonat.
-1350|verb|danken, dankt, dankte, hat gedankt|Er dankte ihr für die Hilfe.
-1557|verb|kochen, kocht, kochte, hat gekocht|Sie kocht gerne italienisch.
-2084|verb|sparen, spart, sparte, hat gespart|Er spart Geld für den Urlaub.
 2465|verb|trauen, traut, traute, hat getraut|Er traut sich, allein zu reisen.
 2581|die|die Not|Die Not war groß, aber er blieb stark.
-3083|adj|locker|Er nahm die Sache locker.
 3085|verb|abwarten, wartet ab, wartete ab, hat abgewartet|Er wartet ab, was passieren wird.
-3258|pron|wofür|Wofür brauchst du das Geld?
-4127|pron|worum|Worum geht es in dem Film?
 4181|adj|fit|Er bleibt fit durch regelmäßigen Sport.
 4283|die|die UNO (Vereinte Nationen)|Die UNO spielt eine wichtige Rolle.
 4876|das|das Fieber|Das Fieber stieg über Nacht an.
 14|aux|werden, wird, wurde, ist geworden|Es wird ein langer Tag werden.
-31|prep|zu|Er geht zu seiner Freundin.
-43|part|so|So einfach ist das nicht.
-77|pron|andere (r, s)|Der andere Weg ist kürzer.
 109|adj|neu|Ich habe ein neues Buch gekauft.
-126|die|die Frau|Die Frau lachte herzlich.
 143|verb|bleiben, bleibt, blieb, ist geblieben|Er blieb die ganze Nacht wach.
 158|verb|heißen, heißt, hieß, hat geheißen|Er heißt Max und kommt aus Berlin.
 182|verb|hören, hört, hörte, hat gehört|Ich höre oft Musik beim Arbeiten.
-190|adj|letzte (r, s)|Das war seine letzte Chance.
 194|verb|glauben, glaubt, glaubte, hat geglaubt|Er glaubt an das Gute im Menschen.
-417|pron|niemand|Niemand wusste die Antwort.
 487|die|die Folge|Die Folge des Unfalls war schwer.
 628|verb|erleben, erlebt, erlebte, hat erlebt|Er erlebt das Abenteuer seines Lebens.
-634|der|der Gast|Der Gast lobte das Essen.
 669|verb|reichen, reicht, reichte, hat gereicht|Das Geld reicht für den Einkauf.
-677|verb|sorgen, sorgt, sorgte, hat gesorgt|Er sorgt für seine Familie.
-763|verb|klingen, klingt, klang, hat geklungen|Die Musik klingt wunderbar.
 764|verb|lieben, liebt, liebte, hat geliebt|Er liebt sie von ganzem Herzen.
 850|adv|vorne, vorn|Er stand ganz vorne in der Schlange.
 914|das|China|China hat eine lange Geschichte.
 1135|verb|singen, singt, sang, hat gesungen|Sie singt im Chor ihrer Schule.
 1324|verb|genügen, genügt, genügte, hat genügt|Das genügt, um alle zu versorgen.
 1342|adj|bereit|Er war bereit, alles zu geben.
-1572|der|der Zweifel|Der Zweifel nagte an ihm.
 1596|verb|reißen, reißt, riss, hat gerissen|Der Faden reißt unter der Last.
 1635|verb|weinen, weint, weinte, hat geweint|Er weint oft bei traurigen Filmen.
 1668|adj|ehrlich|Er ist immer ehrlich zu seinen Freunden.
 1723|adj|vorsichtig|Er ging vorsichtig die Treppe hinunter.
 1834|adj|traurig|Er war traurig über die Nachricht.
 1875|verb|träumen, träumt, träumte, hat geträumt|Er träumt von einer besseren Welt.
-1916|adj|mächtig|Der König war sehr mächtig.
-1926|adv|online|Er kauft seine Bücher online.
 2181|adj|jüdisch|Die jüdische Gemeinde feiert heute.
 2489|der|das Bord|Das Gepäck liegt sicher an Bord.
 2576|verb|rollen, rollt, rollte, hat gerollt|Der Ball rollt den Hügel hinunter.
 2761|verb|hassen, hasst, hasste, hat gehasst|Er hasst es, früh aufzustehen.
 3377|adj|stumm|Er blieb stumm und sagte kein Wort.
-3776|verb|zielen, zielt, zielte, hat gezielt|Er zielt genau auf die Mitte.
-4269|verb|ablösen, löst ab, löste ab, hat abgelöst|Er löst den alten Reifen ab.
 4955|das|das Asyl|Er beantragte Asyl in Deutschland.
-13|pron|Sie|Sie hat den Kuchen gebacken.
 42|adv|so|Er machte es so, wie gesagt wurde.
 59|verb|müssen, muss, musste, hat gemusst|Du musst das bis morgen erledigen.
 96|adv|wieder|Wir treffen uns wieder am Freitag.
-138|pron|nichts, nix|Nichts kann ihn aufhalten.
-196|verb|gelten, gilt, galt, hat gegolten|Die Regeln gelten für alle.
-241|part|eben, ebend|Das ist eben so, wie es ist.
 258|verb|meinen, meint, meinte, hat gemeint|Er meint, das wäre eine gute Idee.
 266|adv|weiter|Er ging weiter, ohne sich umzusehen.
 296|verb|versuchen, versucht, versuchte, hat versucht|Er versucht, das Problem zu lösen.
-415|pron|darin, drin, drinnen|Darin liegt das Geheimnis.
-502|adv|sofort|Er kam sofort, als ich rief.
 534|part|halt|Das ist halt so, akzeptier es.
-606|der|der Junge|Der Junge spielt im Park.
 619|verb|bewegen, bewegt, bewegte, hat bewegt|Er bewegt den Tisch in die Ecke.
-636|das|das Gesetz|Das Gesetz wurde geändert.
-645|part|ach|Ach, das wusste ich nicht!
-659|verb|gefallen, gefällt, gefiel, hat gefallen|Das Bild gefällt mir sehr.
-765|die|die Dame|Die Dame trinkt ihren Tee.
-956|die|die Sorge|Die Sorge um ihn war groß.
 975|der|der Typ|Der Typ an der Bar war seltsam.
-978|pron|wieso|Wieso hast du das gemacht?
-993|verb|drohen, droht, drohte, hat gedroht|Er droht mit Konsequenzen.
 1000|adv|egal|Es ist ihm egal, was andere denken.
 1003|adv|irgendwo|Das Buch liegt irgendwo im Haus.
 1104|das|das Volk|Das Volk wählte einen neuen Anführer.
-1219|verb|anrufen, ruft an, rief an, hat angerufen|Er ruft seinen Freund an.
-1243|adv|heraus|Er kam aus dem Haus heraus.
 1545|verb|zurückkommen, kommt zurück, kam zurück, ist zurückgekommen|Er kommt morgen aus dem Urlaub zurück.
-1574|verb|tanzen, tanzt, tanzte, hat getanzt|Er tanzt gern auf Partys.
 1582|verb|begegnen, begegnet, begegnete, ist begegnet|Er begegnete ihr auf der Straße.
-1617|verb|zulassen, lässt zu, ließ zu, hat zugelassen|Er lässt keine Fehler zu.
-1765|adv|zurück|Er kam nach Hause zurück.
 1859|die|die DNA (DNS, Desoxyribonukleinsäure)|Die DNA-Analyse brachte Klarheit.
-2026|adj|verrückt|Das ist eine verrückte Idee!
 2093|das|Afrika|Afrika hat viele verschiedene Kulturen.
-2592|der|der Erbe|Der Erbe trat sein Erbe an.
 2789|verb|beraten, berät, beriet, hat beraten|Er berät die Kunden freundlich.
 3048|verb|seufzen, seufzt, seufzte, hat geseufzt|Er seufzt tief, als er das hörte.
 3137|verb|jagen, jagt, jagte, hat gejagt|Er jagt das Reh durch den Wald.
 3177|verb|erstaunen, erstaunt, erstaunte, ist erstaunt|Er war erstaunt über das Ergebnis.
-3424|das|Kanada|Kanada ist ein schönes Land.
-3632|verb|erwachen, erwacht, erwachte, ist erwacht|Er erwacht früh am Morgen.
-3658|verb|regnen, regnet, regnete, hat geregnet|Es regnet den ganzen Tag.
-3783|verb|bremsen, bremst, bremste, hat gebremst|Er bremst das Auto scharf.
-3867|verb|stinken, stinkt, stank, hat gestunken|Der Müll stinkt schrecklich.
 3909|verb|umarmen, umarmt, umarmte, hat umarmt|Er umarmt seinen Freund zum Abschied.
-4262|der|der Löwe|Der Löwe brüllt laut im Zoo.
 4341|das|Irland|Irland ist berühmt für seine Landschaft.
-4384|der|der Stich|Der Stich schmerzte sehr.
 4410|adj|schlank|Er bleibt schlank durch viel Bewegung.
 4428|der|der Diabetes|Diabetes erfordert viel Disziplin.
 4554|adj|nüchtern|Er bleibt bei der Arbeit nüchtern.
 4608|der|der Müll|Der Müll wird morgen abgeholt.
 4767|der|der Beleg|Der Beleg liegt auf dem Tisch.
-4987|verb|spinnen, spinnt, spann, hat gesponnen|Er spinnt ein Netz aus Lügen.
 5082|das|das Obst|Das Obst liegt frisch auf dem Tisch.
 21|prep|mit|Er kam mit seinem Hund ins Haus.
 25|prep|für|Ich habe ein Geschenk für dich.
-41|pron|Ihr|Ihr habt das gut gemacht!
 44|prep|bei|Ich bleibe bei meiner Meinung.
-49|adv|noch|Er ist noch nicht fertig.
 75|verb|wollen, will, wollte, hat gewollt|Ich will das morgen erledigen.
-81|verb|kommen, kommt, kam, ist gekommen|Er kommt morgen nach Hause.
-163|adj|einfach|Das ist einfach unglaublich.
 280|verb|arbeiten, arbeitet, arbeitete, hat gearbeitet|Er arbeitet hart für sein Geld.
-281|das|das Geld|Das Geld liegt auf dem Tisch.
 292|prep|wegen|Wegen des Regens blieb er zu Hause.
-317|adv|allein, alleine|Ich gehe nicht gern allein.
-411|verb|erkennen, erkennt, erkannte, hat erkannt|Er erkennt die Stimme sofort.
-423|verb|reden, redet, redete, hat geredet|Sie redet gerne über Bücher.
 451|verb|erinnern, erinnert, erinnerte, hat erinnert|Er erinnert sich an das Treffen.
-453|verb|bedeuten, bedeutet, bedeutete, hat bedeutet|Was bedeutet dieses Zeichen?
-585|der|der Arm|Er hob den Arm zur Begrüßung.
 605|verb|holen, holt, holte, hat geholt|Er holt die Zeitung aus dem Briefkasten.
 616|der|der Druck|Der Druck auf den Knopf ist zu stark.
 631|der|der Fuß|Er tritt mit dem Fuß gegen den Ball.
 684|das|Bayern|Bayern ist ein schönes Bundesland.
-742|verb|schlafen, schläft, schlief, hat geschlafen|Er schläft immer früh ein.
 749|die|die Firma|Die Firma stellt Computer her.
-759|verb|passen, passt, passte, hat gepasst|Das Kleid passt ihr perfekt.
-948|adv|zuerst|Zuerst muss man das lesen.
 1004|verb|trennen, trennt, trennte, hat getrennt|Sie trennte das Papier vom Plastik.
 1013|der|der Sport|Sport macht Spaß und hält fit.
-1032|verb|treiben, treibt, trieb, hat getrieben|Er treibt Sport jeden Morgen.
-1058|die|die Ruhe|Die Ruhe im Wald tat ihm gut.
-1077|das|das Opfer|Das Opfer wurde gerettet.
-1126|verb|kämpfen, kämpft, kämpfte, hat gekämpft|Er kämpft bis zum Schluss.
 1128|verb|versprechen, verspricht, versprach, hat versprochen|Er versprach, pünktlich zu sein.
-1131|verb|heben, hebt, hob, hat gehoben|Er hebt die Kiste vom Boden.
 1134|die|die Masse|Die Masse drängte zum Ausgang.
-1160|das|das Ohr|Er hielt sich das Ohr zu.
 1165|der|der Februar|Der Februar ist der kürzeste Monat.
 1195|verb|vertrauen, vertraut, vertraute, hat vertraut|Er vertraut nur wenigen Menschen.
-1283|das|Amerika|Amerika ist ein großes Land.
-1297|der|der Oktober|Der Oktober ist meist kühl.
 1338|die|die Nase|Die Nase lief ihm wegen der Erkältung.
-1495|adj|britisch|Er liebt britischen Humor.
 1531|adj|abhängig|Er ist finanziell von ihnen abhängig.
-1564|part|naja|Naja, das könnte stimmen.
-1655|das|das Feuer|Das Feuer brannte lichterloh.
 1701|verb|anhalten, hält an, hielt an, hat angehalten|Er hält das Auto an der Ampel an.
-1731|verb|weisen, weist, wies, hat gewiesen|Er weist den Weg zum Bahnhof.
-1733|verb|brennen, brennt, brannte, hat gebrannt|Das Haus brennt lichterloh.
-1811|adj|zufällig|Er traf sie zufällig im Café.
-1832|verb|umdrehen, dreht um, drehte um, hat umgedreht|Er drehte den Schlüssel um.
 1842|der|der Schnee|Der Schnee bedeckt die Straßen.
 1885|verb|wandern, wandert, wanderte, ist gewandert|Er wandert gerne in den Bergen.
-2008|verb|malen, malt, malte, hat gemalt|Sie malt gern Landschaften.
 2011|verb|üben, übt, übte, hat geübt|Er übt täglich auf der Gitarre.
 2028|verb|laden, lädt, lud, hat geladen|Er lädt die Kisten in den LKW.
 2031|adj|weiblich|Der weibliche Vogel singt nicht.
 2196|verb|nachweisen, weist nach, wies nach, hat nachgewiesen|Er konnte seine Unschuld nachweisen.
 2372|verb|streiten, streitet, stritt, hat gestritten|Sie stritten sich um das Geld.
 2470|verb|grinsen, grinst, grinste, hat gegrinst|Er grinst schelmisch nach der Frage.
-2632|pron|wozu|Wozu dient dieses Werkzeug?
-2654|der|der Fakt|Der Fakt spricht für sich.
 2687|adv|dorthin|Er geht dorthin, wo er gebraucht wird.
-2916|verb|auskommen, kommt aus, kam aus, ist ausgekommen|Er kommt gut mit allen aus.
-2956|das|das Dänisch|Dänisch ist schwer zu lernen.
 3039|adj|peinlich|Das war eine peinliche Situation.
 3049|die|die Achtung|Achtung, die Straße ist glatt!
-3163|verb|rutschen, rutscht, rutschte, ist gerutscht|Er rutschte auf dem Eis aus.
-3181|adj|erwachsen|Er sieht jetzt erwachsen aus.
 3298|adj|unsicher|Er fühlt sich unsicher bei der Prüfung.
 4049|verb|tippen, tippt, tippte, hat getippt|Er tippt den Text schnell ein.
 4053|verb|weitermachen, macht weiter, machte weiter, hat weitergemacht|Er macht mit der Arbeit weiter.
-4151|verb|abheben, hebt ab, hob ab, hat abgehoben|Das Flugzeug hebt bald ab.
 4281|adj|skeptisch|Er blickt skeptisch auf die Zahlen.
-4333|der|der Tropfen|Ein Tropfen fiel ins Wasser.
-4368|der|der Pfeil|Der Pfeil traf ins Schwarze.
 4390|verb|irren (sich), irrt, irrte, hat geirrt|Er hat sich in der Straße geirrt.
 4452|adj|behindert|Er hilft seinem behinderten Bruder.
 4479|adj|überlegen|Er ist ihm überlegen im Schach.
 4486|verb|trösten, tröstet, tröstete, hat getröstet|Er tröstet sie nach dem Verlust.
-4497|adv|sogleich|Er kam sogleich zur Hilfe.
 4616|verb|hinlegen, legt hin, legte hin, hat hingelegt|Er legt das Buch auf den Tisch hin.
 4785|verb|glänzen, glänzt, glänzte, hat geglänzt|Der Tisch glänzt nach dem Polieren.
-4963|verb|verzeihen, verzeiht, verzieh, hat verziehen|Er verzeiht ihm den Fehler.
-19|part|nicht|Er hat das nicht gewusst.
-22|pron|sich|Er wäscht sich das Gesicht.
-34|verb|können, kann, konnte, hat können|Er kann sehr gut schwimmen.
-78|verb|sollen, soll, sollte, hat gesollt|Er soll das Projekt leiten.
-102|verb|sehen, sieht, sah, hat gesehen|Er sieht die Stadt von oben.
-103|pron|einer|Einer von uns muss es tun.
-104|adv|sehr|Das Essen schmeckt sehr gut.
-108|verb|lassen, lässt, ließ, hat gelassen|Sie lässt das Buch liegen.
-130|adj|wenig|Er hat wenig Zeit für Hobbys.
-199|verb|folgen, folgt, folgte, ist gefolgt|Der Hund folgt seinem Herrn.
-208|adj|spät|Es ist schon spät geworden.
 221|verb|brauchen, braucht, brauchte, hat gebraucht|Wir brauchen mehr Informationen.
 222|die|die Hand|Er hält die Hand seiner Mutter.
-250|verb|spielen, spielt, spielte, hat gespielt|Die Kinder spielen im Garten.
 256|verb|verstehen, versteht, verstand, hat verstanden|Er versteht die Aufgabe nicht.
-283|adj|nächste (r, s)|Der nächste Zug kommt bald.
 338|verb|lernen, lernt, lernte, hat gelernt|Sie lernt gerade für die Prüfung.
-427|verb|gewinnen, gewinnt, gewann, hat gewonnen|Das Team gewinnt das Spiel.
-458|der|der Raum|Der Raum ist voll besetzt.
-472|verb|betreffen, betrifft, betraf, hat betroffen|Die Regel betrifft uns alle.
-485|verb|nutzen, nutzt, nutzte, hat genutzt|Er nutzt jede Gelegenheit.
-555|verb|anfangen, fängt an, fing an, hat angefangen|Das Konzert fängt gleich an.
 608|die|die Polizei|Die Polizei ermittelt im Fall.
-614|der|der Schüler|Der Schüler lernt fleißig.
-653|der|der Prozess|Der Prozess dauert Jahre.
-660|das|das Mädchen|Das Mädchen lacht fröhlich.
-697|verb|wählen, wählt, wählte, hat gewählt|Er wählt den richtigen Weg.
-778|adv|zuvor|Zuvor hatte er angerufen.
 780|adv|dennoch|Es ist schwierig, dennoch machbar.
 793|der|der Bruder|Mein Bruder ist älter als ich.
 794|verb|beteiligen, beteiligt, beteiligte, hat beteiligt|Er beteiligt sich an der Diskussion.
 805|adv|bloß|Es war bloß ein Missverständnis.
 815|adj|unabhängig|Sie ist finanziell unabhängig.
 862|die|die Ordnung|Die Ordnung muss eingehalten werden.
-863|das|Russland|Russland ist das größte Land.
 875|verb|überzeugen, überzeugt, überzeugte, hat überzeugt|Er überzeugt durch gute Argumente.
 877|adj|menschlich|Er zeigt sich sehr menschlich.
-905|die|die Sekunde|Es dauert nur eine Sekunde.
 952|das|das Bein|Er hat sich das Bein gebrochen.
 1005|verb|benötigen, benötigt, benötigte, hat benötigt|Er benötigt Hilfe bei der Aufgabe.
-1076|adv|wiederum|Das war wiederum sehr klug.
 1142|adj|glücklich|Er ist glücklich über das Ergebnis.
-1234|verb|auffallen, fällt auf, fiel auf, ist aufgefallen|Das neue Kleid fällt auf.
 1362|adj|außen|Die Farbe ist außen verblasst.
-1425|adj|rasch|Er reagiert rasch auf Fragen.
-1443|verb|begleiten, begleitet, begleitete, hat begleitet|Er begleitet sie nach Hause.
-1447|verb|aufgeben, gibt auf, gab auf, hat aufgegeben|Er gibt nicht so leicht auf.
 1595|adj|zufrieden|Er ist zufrieden mit der Arbeit.
 1761|das|das Knie|Das Knie schmerzt nach dem Sturz.
 1793|der|der Verband|Der Verband muss gewechselt werden.
 1823|der|der Amerikaner|Der Amerikaner spricht Englisch.
 1826|das|Spanien|Spanien ist ein beliebtes Reiseziel.
 1865|die|die Brust|Die Brust hebt sich beim Atmen.
-1878|part|ah|Ah, das verstehe ich jetzt!
 2024|verb|beruhigen, beruhigt, beruhigte, hat beruhigt|Er beruhigt das weinende Kind.
-2043|die|die Medizin|Die Medizin wirkt schnell.
-2116|die|die Lippe|Ihre Lippe ist geschwollen.
-2126|verb|fangen, fängt, fing, hat gefangen|Er fängt den Ball geschickt.
-2162|verb|anmelden, meldet an, meldete an, hat angemeldet|Sie meldet sich zum Kurs an.
 2243|das|das Arabisch|Arabisch ist schwer zu lernen.
-2256|die, das|die E-Mail|Die E-Mail ist angekommen.
 2264|der|der Mut|Er hat den Mut, die Wahrheit zu sagen.
 2267|verb|bevorzugen, bevorzugt, bevorzugte, hat bevorzugt|Er bevorzugt Tee statt Kaffee.
 2268|adv|hierzu|Hierzu gibt es keine weiteren Fragen.
-2621|verb|beugen, beugt, beugte, hat gebeugt|Er beugt sich über das Buch.
 2792|adv|nachher|Wir treffen uns nachher im Café.
 3027|adj|katholisch|Sie ist katholisch aufgewachsen.
 3093|verb|neigen, neigt, neigte, hat geneigt|Er neigt dazu, zu spät zu kommen.
 3141|der|der Iran|Der Iran liegt im Nahen Osten.
-3144|verb|lenken, lenkt, lenkte, hat gelenkt|Er lenkt das Auto sicher.
-3162|adv|mitunter|Mitunter macht er Fehler.
-3165|das|das Zeug|Das Zeug liegt überall herum.
-3171|adv|siehe|Siehe die Anmerkung unten.
 3190|adj|schwanger|Sie ist im achten Monat schwanger.
-3229|der|der Export|Der Export ist gestiegen.
-3468|die|die Unruhe|Die Unruhe im Saal wächst.
 3520|verb|agieren, agiert, agierte, hat agiert|Er agiert immer ruhig und besonnen.
-3627|der|der Papst|Der Papst besucht das Land.
 3757|verb|blühen, blüht, blühte, hat geblüht|Die Blumen blühen im Frühling.
 3795|die|die Lüge|Die Lüge wurde schnell entlarvt.
-3926|adj|unerwartet|Das kam völlig unerwartet.
-4054|verb|abhauen, haut ab, hieb ab, ist abgehauen|Der Dieb haut schnell ab.
-4058|verb|auskennen, kennt aus, kannte aus, hat ausgekannt|Er kennt sich hier gut aus.
-4092|adj|verwandt|Wir sind entfernt verwandt.
-4123|verb|schimpfen, schimpft, schimpfte, hat geschimpft|Sie schimpft über den Lärm.
 4363|der|der Genosse|Der Genosse steht treu zur Partei.
-4364|interj|öh|Öh, ich weiß nicht genau.
-4570|verb|losfahren, fährt los, fuhr los, ist losgefahren|Der Zug fährt pünktlich los.
 4577|verb|beleidigen, beleidigt, beleidigte, hat beleidigt|Er beleidigt niemanden ohne Grund.
-4586|adv|anderswo|Wir müssen anderswo suchen.
 4703|adj|fähig|Er ist fähig, die Aufgabe zu lösen.
-4792|verb|abgehen, geht ab, ging ab, ist abgegangen|Der Knopf ist abgegangen.
-4797|verb|hinsetzen, setzt hin, setzte hin, hat hingesetzt|Er setzt sich auf den Stuhl.
-5054|adj|simpel|Das ist eine simpel Lösung.
-3978|adj|blass|Er sieht heute blass aus.
 6|verb|sein, ist, war, ist gewesen|Er ist heute sehr beschäftigt.
-9|aux|haben, hat, hatte, hat gehabt|Wir haben alles erledigt.
-38|pron|wir|Wir gehen zusammen ins Kino.
-63|pron|kein|Kein Problem, ich helfe dir.
 99|conj|bis|Warte hier, bis ich zurück bin.
 120|das|das Beispiel|Das Beispiel zeigt es deutlich.
-135|num|drei|Er hat drei Äpfel gekauft.
 155|adv|einmal|Wir treffen uns einmal pro Woche.
-437|adv|manchmal|Manchmal gehe ich spazieren.
-449|verb|fühlen, fühlt, fühlte, hat gefühlt|Sie fühlt sich heute gut.
-452|part|oh|Oh, das wusste ich nicht!
 501|adv|ebenfalls|Ich wünsche dir ebenfalls viel Glück.
-561|adv|bald|Wir sehen uns bald wieder.
 610|adj|gewiss|Er ist sich gewiss, dass es klappt.
-621|verb|aufnehmen, nimmt auf, nahm auf, hat aufgenommen|Sie nimmt das Gespräch auf.
-687|verb|anbieten, bietet an, bot an, hat angeboten|Er bietet seine Hilfe an.
 758|der|der Lehrer|Der Lehrer erklärt die Aufgabe.
 786|der|der Autor|Der Autor liest aus seinem Buch.
-827|adj|schlimm|Das war ein schlimmer Fehler.
-414|die|die Schule|Die Schule beginnt um 8 Uhr.
 1029|die|die Klasse|Die Klasse schreibt einen Test.
-1039|verb|geraten, gerät, geriet, ist geraten|Er gerät in Schwierigkeiten.
-1075|verb|melden, meldet, meldete, hat gemeldet|Er meldet sich freiwillig.
 1187|der|der Job|Er hat einen neuen Job gefunden.
-1278|das|Italien|Italien ist ein schönes Land.
-1316|part|äh|Äh, ich bin mir nicht sicher.
-1412|verb|schießen, schießt, schoss, hat geschossen|Er schießt den Ball ins Tor.
-1584|num|elf|Er hat elf Punkte erzielt.
 1693|verb|behalten, behält, behielt, hat behalten|Er behält das Geheimnis für sich.
 1712|verb|ausfallen, fällt aus, fiel aus, ist ausgefallen|Der Unterricht fällt heute aus.
-1785|die|die Branche|Die Branche wächst schnell.
 1846|adj|sämtlich|Sämtliche Tickets sind ausverkauft.
-1872|das|das Fleisch|Das Fleisch ist gut gewürzt.
 1889|verb|orientieren, orientiert, orientierte, hat orientiert|Er orientiert sich nach Süden.
-1929|verb|leuchten, leuchtet, leuchtete, hat geleuchtet|Die Sterne leuchten hell.
 2257|verb|mitmachen, macht mit, machte mit, hat mitgemacht|Er macht bei der Challenge mit.
 2292|der|der Zufall|Der Zufall führte uns zusammen.
-2476|das|das Rad|Das Rad dreht sich schnell.
-3053|verb|aufbrechen, bricht auf, brach auf, hat aufgebrochen|Wir brechen morgen früh auf.
-3096|adv|vorhin|Ich war vorhin noch dort.
 3210|adj|rechtzeitig|Er kam rechtzeitig zur Sitzung.
-3344|das|Norwegen|Norwegen hat schöne Fjorde.
-3560|adv|herunter|Er kam die Treppe herunter.
 3874|adj|unglücklich|Er war unglücklich über den Verlust.
-3979|verb|irritieren, irritiert, irritierte, hat irritiert|Das Verhalten irritiert mich.
-4033|verb|ragen, ragt, ragte, hat geragt|Der Turm ragt in den Himmel.
-4089|die|die Mitternacht|Um Mitternacht ist es still.
-4098|verb|platzen, platzt, platzte, ist geplatzt|Der Luftballon ist geplatzt.
 4175|der|der Schweiß|Der Schweiß läuft ihm von der Stirn.
 4189|adj|gelassen|Er bleibt in jeder Situation gelassen.
 4207|die|die Hüfte|Die Hüfte schmerzt beim Gehen.
 4237|verb|streifen, streift, streifte, hat gestreift|Der Hund streift durch den Wald.
-4284|adv|woanders|Das Problem liegt woanders.
-4320|der|der Favorit|Er ist der Favorit im Rennen.
-4354|adv|hinauf|Er geht die Treppe hinauf.
-4470|verb|würdigen, würdigt, würdigte, hat gewürdigt|Er würdigt ihre Leistung.
 4574|verb|überführen, überführt, überführte, hat überführt|Die Polizei hat ihn überführt.
-4734|adj|evangelisch|Sie ist evangelisch getauft.
 4961|verb|schwören, schwört, schwor, hat geschworen|Er schwört, die Wahrheit zu sagen.
 4998|der|der Irrtum|Der Irrtum wurde schnell erkannt.
 5004|adj|unschuldig|Der Angeklagte ist unschuldig.
-5028|der|der Tresen|Er lehnt sich an den Tresen.
 5035|der|der Priester|Der Priester spricht zur Gemeinde.
-3842|das|das Chaos|Das Chaos im Zimmer ist groß.
-859|die|die Eigenschaft|Die Eigenschaft ist nützlich.
 1196|das|das Jahrzehnt|Ein Jahrzehnt ist schnell vergangen.
 3016|das|das Motto|Das Motto lautet „Gemeinsam stark“.
-3808|die|die Addition|Die Addition ist korrekt.
 2692|die|die Entstehung|Die Entstehung des Planeten war komplex.
 917|die|die Wirkung|Die Wirkung des Medikaments ist stark.
 385|pron|dessen|Er erinnert sich an dessen Worte.
 4769|die|die Energiewirtschaft|Die Energiewirtschaft ist im Wandel.
 3760|die|die Steuerung|Die Steuerung des Fahrzeugs ist präzise.
 2521|die|die Gewerkschaft|Die Gewerkschaft fordert höhere Löhne.
-444|verb|erwarten, erwartet, erwartete, hat erwartet|Er erwartet eine Antwort.
 1042|verb|schweigen, schweigt, schwieg, hat geschwiegen|Er schweigt während der Sitzung.
-552|adj|öffentlich|Er sprach öffentlich darüber.
-486|adj|sozial|Er engagiert sich sozial.
 878|das|das Elektron|Das Elektron ist negativ geladen.
 986|die|die Nähe|Die Nähe des Flusses ist schön.
-3581|die|die Fragestellung|Die Fragestellung ist klar.
 4920|die|die Jahreszeit|Der Herbst ist eine schöne Jahreszeit.
 4047|der|der Schiedsrichter|Der Schiedsrichter pfeift das Spiel ab.
 2555|adj|olympisch|Er trainiert für die olympischen Spiele.
@@ -2455,31 +1716,19 @@
 2818|adj|experimentell|Das Ergebnis ist experimentell.
 3091|adj|nachfolgend|Die nachfolgende Erklärung ist wichtig.
 2842|adj|interkulturell|Er fördert interkulturellen Austausch.
-3547|die|die Entdeckung|Die Entdeckung war bedeutend.
 2959|der|der Arbeitgeber|Der Arbeitgeber ist zufrieden.
 3634|der|der Terroranschlag|Der Terroranschlag erschüttert das Land.
 969|adj|historisch|Das Gebäude ist historisch bedeutsam.
-2563|der|der Gesellschafter|Der Gesellschafter stimmt zu.
 2656|das|das Individuum|Das Individuum ist einzigartig.
 3943|verb|auseinandersetzen, setzt auseinander, setzte auseinander, hat auseinandergesetzt|Er setzt sich mit dem Thema auseinander.
-3386|die|die Abgrenzung|Die Abgrenzung ist wichtig.
 2821|die|die Opposition|Die Opposition kritisiert den Plan.
-918|die|die Bildung|Die Bildung ist entscheidend.
-2715|die|die Ernährung|Die Ernährung ist gesund.
-700|der|der Mitarbeiter|Der Mitarbeiter ist fleißig.
-1472|die|die Wirklichkeit|Die Wirklichkeit ist komplex.
 5110|die|die Zivilisation|Die Zivilisation entwickelt sich weiter.
-3939|die|die Kartoffel|Er isst gerne Kartoffeln.
 1461|das|das Gehirn|Das Gehirn steuert den Körper.
 809|adj|wirtschaftlich|Das Land wächst wirtschaftlich.
-3706|die|die Einleitung|Die Einleitung beginnt jetzt.
 4847|die|die Festlegung|Die Festlegung ist verbindlich.
 2202|die|die Interpretation|Die Interpretation ist umstritten.
-2660|der|der Kommentar|Der Kommentar ist scharf.
-705|die|die Grundlage|Die Grundlage ist wichtig.
 2260|die|die Umfrage|Die Umfrage zeigt klare Ergebnisse.
 4113|die|die Spaltung|Die Spaltung der Gruppe ist sichtbar.
-3002|der|der Vordergrund|Der Vordergrund ist scharf.
 3683|die|die Auflösung|Die Auflösung war überraschend.
 2996|der|der Übersetzer|Der Übersetzer arbeitet genau.
 3716|die|die Architektur|Die Architektur ist beeindruckend.
@@ -2488,28 +1737,20 @@
 586|conj|nachdem|Nachdem er ging, wurde es ruhig.
 5049|der|der Ausschnitt|Der Ausschnitt ist interessant.
 3663|das|das Informationssystem|Das Informationssystem ist komplex.
-3701|die|die Schlange|Die Schlange windet sich.
 4326|adj|intellektuell|Das Gespräch war intellektuell anregend.
 4581|adj|organisatorisch|Die organisatorische Struktur ist klar.
 4481|die|die Betreuung|Die Betreuung der Kinder ist gesichert.
-2587|verb|vergeben|Er hat den Auftrag vergeben.
-1755|die|die Komponente|Diese Komponente fehlt noch.
 3933|der|der Protagonist|Der Protagonist kämpft tapfer.
-2953|die|die Version|Die neue Version ist besser.
 4631|adv|gleichwohl|Es ist schwer, gleichwohl möglich.
-3046|die|die Menschheit|Die Menschheit muss handeln.
 3503|adj|kognitiv|Kognitive Fähigkeiten sind wichtig.
 3057|der|der Höhepunkt|Der Höhepunkt des Films war spannend.
 5067|adj|norwegisch|Das norwegische Team war stark.
-1883|die|die Perspektive|Die Perspektive ändert sich.
 3949|der|der Produzent|Der Produzent finanziert den Film.
 4007|die|die Nachrichtenagentur|Die Nachrichtenagentur meldet es.
 4613|adj|naturwissenschaftlich|Er ist naturwissenschaftlich begabt.
 3679|die|die Steigerung|Die Steigerung ist beachtlich.
 597|die|die Politik|Die Politik bestimmt das Leben.
-3916|der|der Kühlschrank|Der Kühlschrank ist leer.
 1477|die|die Demokratie|Die Demokratie muss verteidigt werden.
-3311|das|das Vorhaben|Das Vorhaben scheitert nicht.
 3711|adj|restlich|Die restlichen Fragen bleiben offen.
 1499|der|der Auftrag|Der Auftrag ist abgeschlossen.
 3788|adj|physiologisch|Das ist physiologisch bedingt.
@@ -2520,538 +1761,153 @@
 4290|adj|mittelalterlich|Die Stadt hat mittelalterliche Gebäude.
 334|pron|deren|Das ist das Haus, deren Dach kaputt ist.
 1474|das|das Studium|Das Studium beginnt im Herbst.
-854|der|der Künstler|Der Künstler malt ein Bild.
-2780|das|das Messer|Er schneidet mit dem Messer.
 4313|die|die Rotation|Die Rotation der Erde ist konstant.
 4408|die|die Gemeinsamkeit|Die Gemeinsamkeiten sind offensichtlich.
-478|das|das Produkt|Das Produkt ist ausverkauft.
 2946|der|der Hinblick|Im Hinblick auf die Zukunft planen wir.
-4500|die|die Algebra|Die Algebra ist kompliziert.
 434|die|die Möglichkeit|Die Möglichkeit besteht, zu gewinnen.
-62|part|ja|Ja, das gefällt mir.
-1|pron|der, die, das|Das ist der Schlüssel.
-16|verb|werden, wird, wurde, ist geworden|Er wird bald kommen.
-18|pron|ich|Ich gehe nach Hause.
-27|prep|an|Er steht an der Ecke.
-10|verb|haben, hat, hatte, hat gehabt|Wir haben genug Zeit.
-40|pron|ihr|Ihr seid willkommen.
-61|prep|um|Er läuft um das Haus.
-74|pron|viel|Viel hat sich verändert.
-91|num|zwei|Ich habe zwei Hunde.
-547|verb|stimmen, stimmt, stimmte, hat gestimmt|Das Ergebnis stimmt.
-2717|verb|mitkommen, kommt mit, kam mit, ist mitgekommen|Willst du mitkommen?
-4238|der|der Topf|Der Topf kocht über.
-127|pron|etwas|Ich habe etwas gefunden.
-147|pron|beide|Beide sind angekommen.
-172|adv|natürlich|Natürlich komme ich mit.
-180|adv|vielleicht|Vielleicht hast du recht.
-198|adv|gerade|Er ist gerade angekommen.
-201|verb|führen, führt, führte, hat geführt|Er führt die Gruppe.
-224|part|etwa|Etwa so könnte es gehen.
-255|das|das Problem|Das Problem ist gelöst.
-260|verb|fahren, fährt, fuhr, ist gefahren|Er fährt zur Arbeit.
-267|das|das Auge|Er hat ein blaues Auge.
-268|adv|oft|Er kommt oft zu spät.
-271|adv|sogar|Er hilft sogar Fremden.
-310|adv|wohl|Er ist wohl zu Hause.
-435|der|der Sinn|Das hat keinen Sinn.
-463|verb|erscheinen, erscheint, erschien, ist erschienen|Das Buch erscheint morgen.
-491|verb|beschreiben, beschreibt, beschrieb, hat beschrieben|Er beschreibt den Vorfall.
-504|verb|ändern, ändert, änderte, hat geändert|Er ändert seine Meinung.
-609|die|die Chance|Er hat die Chance verpasst.
-644|verb|besitzen, besitzt, besaß, hat besessen|Er besitzt ein Haus.
-648|verb|hängen, hängt, hängte, hat gehängt|Er hängt das Bild auf.
-662|verb|verhalten, verhält, verhielt, hat verhalten|Er verhält sich ruhig.
-672|verb|schlagen, schlägt, schlug, hat geschlagen|Er schlägt den Ball weit.
-678|die|die Erfahrung|Die Erfahrung zählt.
-679|der|der Patient|Der Patient schläft.
 777|verb|beschäftigen, beschäftigt, beschäftigte, hat beschäftigt|Er beschäftigt sich mit dem Thema.
-785|verb|reagieren, reagiert, reagierte, hat reagiert|Er reagiert schnell.
-787|verb|kriegen, kriegt, kriegte, hat gekriegt|Er kriegt, was er will.
-813|adv|deswegen|Er kam deswegen zu spät.
-814|verb|spüren, spürt, spürte, hat gespürt|Er spürt den Schmerz.
-832|der|der Anteil|Sein Anteil ist groß.
-852|die|die Meinung|Die Meinung ist geteilt.
-869|der|der Sonntag|Der Sonntag ist ruhig.
-888|adv|gestern|Gestern war es kalt.
-982|verb|überraschen, überrascht, überraschte, hat überrascht|Die Nachricht überrascht ihn.
-989|adj|übrig|Es bleibt nichts übrig.
-992|verb|drücken, drückt, drückte, hat gedrückt|Er drückt den Knopf.
-1608|verb|wenden, wendet, wandte, hat gewandt|Er wendet das Blatt.
-2359|verb|atmen, atmet, atmete, hat geatmet|Er atmet tief durch.
-4877|verb|gießen, gießt, goss, hat gegossen|Er gießt die Blumen.
-572|der|der Gott|Der Gott wird verehrt.
-1052|der|der Vorteil|Das ist ein Vorteil.
-1097|die|die Band|Die Band spielt laut.
-1119|verb|überlegen, überlegt, überlegte, hat überlegt|Er überlegt einen Moment.
-1132|der|der Rücken|Der Rücken schmerzt.
-1138|verb|scheitern, scheitert, scheiterte, ist gescheitert|Der Plan ist gescheitert.
-1167|verb|einfallen, fällt ein, fiel ein, ist eingefallen|Mir fällt nichts ein.
-1179|num|hundert|Er hat hundert Euro.
-1188|verb|ausreichen, reicht aus, reichte aus, hat ausgereicht|Das Geld reicht aus.
-1197|der|der Wind|Der Wind weht stark.
-1291|verb|gelangen, gelangt, gelangte, ist gelangt|Er gelangt ans Ziel.
-1300|verb|verlaufen, verläuft, verlief, ist verlaufen|Der Weg verläuft im Wald.
-1330|verb|blicken, blickt, blickte, hat geblickt|Er blickt aus dem Fenster.
-1345|verb|prägen, prägt, prägte, hat geprägt|Das Ereignis prägt ihn.
-1364|verb|nicken, nickt, nickte, hat genickt|Er nickt zustimmend.
-1441|verb|riechen, riecht, roch, hat gerochen|Er riecht das Essen.
-1485|verb|anlegen, legt an, legte an, hat angelegt|Er legt das Geld an.
-1492|das|Syrien|Syrien liegt im Nahen Osten.
-1513|der|der Experte|Der Experte spricht.
-1520|das|das Fernsehen|Das Fernsehen läuft.
-1526|verb|empfinden, empfindet, empfand, hat empfunden|Er empfindet Freude.
-1614|der|der Handel|Der Handel floriert.
-1622|verb|hinweisen, weist hin, wies hin, hat hingewiesen|Er weist auf das Problem hin.
-1656|verb|bemühen (sich), bemüht, bemühte, hat bemüht|Er bemüht sich sehr.
-1667|verb|vermeiden, vermeidet, vermied, hat vermieden|Er vermeidet Fehler.
-1716|die|die Spannung|Die Spannung steigt.
 1764|adj|unglaublich|Die Geschichte ist unglaublich.
-1772|verb|begrüßen, begrüßt, begrüßte, hat begrüßt|Er begrüßt die Gäste.
-1794|verb|betreten, betritt, betrat, hat betreten|Er betritt das Zimmer.
-1831|der|der Meister|Der Meister zeigt es vor.
-1858|das|das Flugzeug|Das Flugzeug landet.
-1903|adv|einander|Sie helfen einander.
 1915|adv|soweit|Soweit ich weiß, kommt er nicht.
-1934|verb|zutreffen, trifft zu, traf zu, hat zugetroffen|Die Aussage trifft zu.
-1964|verb|ergänzen, ergänzt, ergänzte, hat ergänzt|Er ergänzt den Bericht.
-1980|verb|unterhalten (sich), unterhält, unterhielt, hat unterhalten|Wir unterhalten uns gut.
-1985|verb|erwerben, erwirbt, erwarb, hat erworben|Er erwirbt neue Kenntnisse.
-1990|verb|steuern, steuert, steuerte, hat gesteuert|Er steuert das Auto.
 2002|das|das Spanisch|Spanisch ist schwer zu lernen.
-2009|die|die Post|Die Post kommt um zehn.
-2016|adj|generell|Er folgt generell den Regeln.
-2055|adv|äußerst|Er ist äußerst vorsichtig.
-2066|der|der Kanzler|Der Kanzler spricht heute.
 2152|verb|herausfinden, findet heraus, fand heraus, hat herausgefunden|Er findet die Wahrheit heraus.
-2176|verb|vorgehen, geht vor, ging vor, ist vorgegangen|Er geht systematisch vor.
-2189|die|die Mühe|Die Mühe hat sich gelohnt.
 2346|verb|verurteilen, verurteilt, verurteilte, hat verurteilt|Der Richter verurteilt den Dieb.
-2512|verb|aufkommen, kommt auf, kam auf, ist aufgekommen|Ein Sturm kommt auf.
 2514|conj|plus|Er verdient 50 Euro plus Bonus.
 2522|der|der Tourismus|Der Tourismus wächst jährlich.
-2684|adj|hübsch|Sie ist hübsch und klug.
-2742|adj|dankbar|Er ist für die Hilfe dankbar.
-3010|verb|räumen, räumt, räumte, hat geräumt|Er räumt den Tisch ab.
-3073|verb|anstreben, strebt an, strebte an, hat angestrebt|Er strebt eine Karriere an.
-3074|verb|beklagen, beklagt, beklagte, hat beklagt|Er beklagt den Verlust.
-3145|verb|vorbeikommen, kommt vorbei, kam vorbei, ist vorbeigekommen|Kommst du heute vorbei?
-3160|pron|etliche|Etliche kamen zu spät.
 3172|adj|verheiratet|Er ist seit zehn Jahren verheiratet.
 3211|adj|anwesend|Alle Mitglieder sind anwesend.
 3253|verb|telefonieren, telefoniert, telefonierte, hat telefoniert|Er telefoniert mit seiner Mutter.
-3389|verb|übereinstimmen, stimmt überein, stimmte überein, hat übereingestimmt|Die Daten stimmen überein.
 3415|verb|argumentieren, argumentiert, argumentierte, hat argumentiert|Er argumentiert sehr geschickt.
-3621|die|die Flamme|Die Flamme flackert im Wind.
-3647|verb|heulen, heult, heulte, hat geheult|Der Hund heult laut.
 3666|der|der Pfarrer|Der Pfarrer predigt jeden Sonntag.
 3710|verb|nerven, nervt, nervte, hat genervt|Die lauten Geräusche nerven mich.
-3766|verb|wischen, wischt, wischte, hat gewischt|Er wischt den Boden.
-3847|der|der Schock|Der Schock sitzt tief.
-3849|verb|reizen, reizt, reizte, hat gereizt|Er reizt die Nerven.
-3859|verb|versinken, versinkt, versank, ist versunken|Das Schiff versinkt langsam.
-3866|der|der Rauch|Der Rauch steigt auf.
-3868|interj|tschüss|Tschüss, bis morgen!
-3875|verb|wehen, weht, wehte, hat geweht|Der Wind weht stark.
 3881|verb|fixieren, fixiert, fixierte, hat fixiert|Er fixiert den Blick auf das Ziel.
-4067|der|der Daumen|Er drückt die Daumen.
-4159|der|der Assistent|Der Assistent hilft dem Chef.
-4205|der, die|die Geliebte|Er beschenkt die Geliebte.
-4252|verb|andauern, dauert an, dauerte an, hat angedauert|Der Regen dauert an.
-4253|verb|aufrichten (sich), richtet auf, richtete auf, hat aufgerichtet|Er richtet sich mühsam auf.
-4318|verb|erobern, erobert, eroberte, hat erobert|Er erobert das Schloss.
-4324|verb|forschen, forscht, forschte, hat geforscht|Er forscht in der Medizin.
-4468|der|der Verstoß|Der Verstoß wird bestraft.
 4473|der|der Demokrat|Der Demokrat verteidigt seine Werte.
-4539|adj|kommunikativ|Er ist sehr kommunikativ.
-4567|adj|überflüssig|Das war völlig überflüssig.
-4668|verb|nachlassen, lässt nach, ließ nach, hat nachgelassen|Der Druck lässt nach.
 4684|der|der Berliner|Der Berliner liebt seine Stadt.
-4737|adj|nachdenklich|Er wirkt heute nachdenklich.
-4753|adj|diplomatisch|Er handelt sehr diplomatisch.
 4761|das|Kuba|Kuba ist eine Insel im Karibischen Meer.
-4787|verb|meiden, meidet, mied, hat gemieden|Er meidet laute Orte.
-4840|verb|spannen, spannt, spannte, hat gespannt|Er spannt den Bogen.
 4909|der|der Hase|Der Hase hoppelt durch das Feld.
-4921|das|das Lob|Das Lob hat ihn motiviert.
-4978|verb|zuschlagen, schlägt zu, schlug zu, hat zugeschlagen|Er schlägt plötzlich zu.
-4983|verb|hinfahren, fährt hin, fuhr hin, ist hingefahren|Er fährt morgen hin.
-4990|verb|verwundern, verwundert, verwunderte, hat verwundert|Das Ergebnis verwundert ihn.
-5040|die|die Abnahme|Die Abnahme erfolgte schnell.
-5058|verb|zusammenhalten, hält zusammen, hielt zusammen, hat zusammengehalten|Die Freunde halten zusammen.
-5093|der|der Mars|Der Mars ist der rote Planet.
-3594|der|der Bär|Der Bär schläft im Winter.
-1813|das|das Fach|Er hat sein Fach gewechselt.
-305|die|die Aufgabe|Er löst die Aufgabe.
-243|der, das|das Teil|Das Teil fehlt noch.
 3045|adj|kaputt|Der Stuhl ist kaputt gegangen.
-1147|adj|riesig|Der Baum ist riesig.
-2247|die|die City|Die City ist voll belebt.
-2107|adj|golden|Der Ring ist golden.
-409|pron|daher|Daher kommt sein Mut.
-800|adj|wahr|Das ist doch nicht wahr!
-93|adv|jetzt|Jetzt ist es zu spät.
-262|pron|dich|Ich sehe dich morgen.
-65|adv|da|Da liegt der Fehler.
-82|pron|mir|Mir gefällt das sehr.
-2294|adj|kräftig|Er schlägt kräftig zu.
-85|pron|mich|Das hat mich überrascht.
-119|part|denn|Was machst du denn hier?
-538|die|die Hilfe|Er braucht dringend Hilfe.
-1036|adv|unterwegs|Er ist noch unterwegs.
-4|prep|in|Er ist in der Stadt.
-202|verb|bringen, bringt, brachte, hat gebracht|Er bringt das Buch zurück.
-387|num|zehn|Er hat zehn Äpfel gekauft.
-1904|pron|weshalb|Weshalb fragst du das?
-11|pron|sie|Sie kommt heute nicht.
-32|conj|als|Er kam, als es dunkel war.
-47|part|aber|Aber das ist wichtig!
-53|prep|aus|Er kommt aus Berlin.
-1258|verb|erheben, erhebt, erhob, hat erhoben|Er erhebt seine Stimme.
-1295|verb|stoßen, stößt, stieß, hat gestoßen|Er stößt die Tür auf.
-1458|das|das Ausland|Er reist ins Ausland.
-1968|verb|rücken, rückt, rückte, hat gerückt|Er rückt den Stuhl näher.
-2399|verb|waschen, wäscht, wusch, hat gewaschen|Er wäscht seine Hände.
-3058|die|die Wiese|Die Wiese blüht im Frühling.
-3615|die|die Wüste|Die Wüste ist trocken.
-101|verb|wissen, weiß, wusste, hat gewusst|Ich weiß die Antwort.
-151|prep|ohne|Er kam ohne Vorwarnung.
-164|part|einfach|Das ist einfach unglaublich!
-229|adv|nie|Er war noch nie hier.
-235|verb|nennen, nennt, nannte, hat genannt|Er nennt ihn beim Namen.
-237|verb|ziehen, zieht, zog, hat gezogen|Er zieht an dem Seil.
-238|das|das Wort|Er hat das letzte Wort.
-275|adv|deshalb|Deshalb komme ich nicht.
-287|das|das Paar|Das Paar tanzt elegant.
-324|num|fünf|Ich habe fünf Finger.
-348|adv|rund|Rund 50 Gäste sind gekommen.
 360|adj|einzeln|Er betrachtet jeden Fall einzeln.
-384|pron|jemand|Jemand hat geklopft.
-392|verb|helfen, hilft, half, hat geholfen|Er hilft seinem Freund.
 407|verb|legen, legt, legte, hat gelegt|Er legt das Buch auf den Tisch.
-420|verb|vorstellen, stellt vor, stellte vor, hat vorgestellt|Er stellt die Idee vor.
-489|pron|manche (r, s)|Manche glauben das nicht.
 493|adj|ähnlich|Die beiden sehen sich ähnlich.
-497|adv|bisher|Bisher war alles ruhig.
-527|adv|bitte|Bitte komm rechtzeitig.
-600|adv|zudem|Zudem gibt es neue Regeln.
-624|verb|merken, merkt, merkte, hat gemerkt|Er merkt den Fehler.
-649|verb|berichten, berichtet, berichtete, hat berichtet|Er berichtet von dem Vorfall.
-657|verb|fordern, fordert, forderte, hat gefordert|Er fordert mehr Gehalt.
-658|verb|studieren, studiert, studierte, hat studiert|Er studiert Medizin.
 664|adv|ziemlich|Es ist ziemlich spät geworden.
-674|adv|jedenfalls|Jedenfalls werde ich da sein.
 706|num|acht|Er hat acht Stunden gearbeitet.
-734|adj|innere (r, s)|Der innere Kreis ist wichtig.
 752|verb|hoffen, hofft, hoffte, hat gehofft|Er hofft auf gute Nachrichten.
 757|die|die Tochter|Die Tochter besucht ihre Eltern.
-770|das|Österreich|Österreich liegt in Europa.
-788|adv|zirka, ca.|Er kommt ca. um 8 Uhr.
-796|verb|angeben, gibt an, gab an, hat angegeben|Er gibt seine Daten an.
-824|verb|unterstützen, unterstützt, unterstützte, hat unterstützt|Er unterstützt seine Familie.
-835|prep|außer|Außer ihm war niemand da.
-842|die|die SPD (Sozialdemokratische Partei Deutschlands)|Die SPD gewann die Wahl.
 846|verb|liefern, liefert, lieferte, hat geliefert|Er liefert die Ware pünktlich.
-874|adv|genauso|Es ist genauso, wie du sagst.
 879|das|Frankreich|Frankreich liegt in Westeuropa.
 880|die|die Freiheit|Die Freiheit ist ein hohes Gut.
-893|verb|antworten, antwortet, antwortete, hat geantwortet|Er antwortet auf die Frage.
 901|adv|zugleich|Er sprach und schrieb zugleich.
-931|verb|aufbauen, baut auf, baute auf, hat aufgebaut|Er baut eine Brücke auf.
-962|die|die CDU (Christlich Demokratische Union Deutschlands)|Die CDU stellt den Kanzler.
-965|adj|lieb|Er ist ein lieber Mensch.
 973|adj|entscheidend|Das war entscheidend für den Erfolg.
-979|der|der Faktor|Der Faktor ist entscheidend.
-1015|die|die Nachfrage|Die Nachfrage ist hoch.
-1019|die (pl)||Die Schiffe liegen im Hafen.
-1089|der|der Finger|Er zeigt mit dem Finger.
-1168|verb|verletzen, verletzt, verletzte, hat verletzt|Er verletzt sich am Knie.
-1230|die|die Wahrheit|Die Wahrheit kommt ans Licht.
-1245|adv|erstmals|Er tritt erstmals auf.
-1274|verb|abgeben, gibt ab, gab ab, hat abgegeben|Er gibt den Schlüssel ab.
-1301|adv|demnach|Demnach müssen wir handeln.
-1303|adj|böse|Er ist sehr böse auf mich.
-1305|verb|weitergehen, geht weiter, ging weiter, ist weitergegangen|Das Spiel geht weiter.
-1313|verb|ausmachen, macht aus, machte aus, hat ausgemacht|Er macht das Licht aus.
-1325|verb|schieben, schiebt, schob, hat geschoben|Er schiebt den Wagen.
-1372|verb|bemerken, bemerkt, bemerkte, hat bemerkt|Er bemerkt den Fehler.
-1385|verb|umsetzen, setzt um, setzte um, hat umgesetzt|Er setzt den Plan um.
-1460|adv|diesmal|Diesmal klappt es bestimmt.
-1475|verb|festhalten, hält fest, hielt fest, hat festgehalten|Er hält den Griff fest.
-1512|verb|anziehen, zieht an, zog an, hat angezogen|Er zieht den Mantel an.
-1601|das|das Steuer|Er übernimmt das Steuer.
-1676|das|das Telefon|Das Telefon klingelt.
-1686|verb|ehren, ehrt, ehrte, hat geehrt|Er ehrt seinen Lehrer.
-1690|verb|streichen, streicht, strich, hat gestrichen|Er streicht die Wand.
-1691|verb|zitieren, zitiert, zitierte, hat zitiert|Er zitiert den Autor.
-1754|verb|erfassen, erfasst, erfasste, hat erfasst|Er erfasst die Daten.
-1807|adj|erforderlich|Das ist jetzt erforderlich.
-1822|verb|achten, achtet, achtete, hat geachtet|Er achtet auf die Details.
-1825|die|die Industrie|Die Industrie boomt.
-1844|das|England|England liegt in Europa.
-1937|verb|profitieren, profitiert, profitierte, hat profitiert|Er profitiert vom Erfolg.
-2041|verb|entschuldigen, entschuldigt, entschuldigte, hat entschuldigt|Er entschuldigt sich höflich.
-2051|verb|bewerten, bewertet, bewertete, hat bewertet|Er bewertet die Arbeit.
-2085|adv|quasi|Das ist quasi erledigt.
-2102|verb|berühren, berührt, berührte, hat berührt|Er berührt das Herz.
-2138|verb|ordnen, ordnet, ordnete, hat geordnet|Er ordnet die Papiere.
-2147|die|die Auswahl|Die Auswahl ist groß.
-2148|verb|markieren, markiert, markierte, hat markiert|Er markiert den Text.
-2194|verb|zurückziehen, zieht zurück, zog zurück, hat zurückgezogen|Er zieht den Antrag zurück.
-2195|verb|klopfen, klopft, klopfte, hat geklopft|Er klopft an die Tür.
-2198|verb|aufmachen, macht auf, machte auf, hat aufgemacht|Er macht das Fenster auf.
 2201|verb|wundern (sich), wundert, wunderte, hat gewundert|Er wundert sich über das Ergebnis.
-2215|verb|aufhalten, hält auf, hielt auf, hat aufgehalten|Er hält die Tür auf.
-2229|verb|vorwerfen, wirft vor, warf vor, hat vorgeworfen|Er wirft ihm Lügen vor.
-2233|verb|ausrichten, richtet aus, richtete aus, hat ausgerichtet|Er richtet das Treffen aus.
-2244|verb|mischen, mischt, mischte, hat gemischt|Er mischt die Farben.
 2378|der|der Nachteil|Der Nachteil ist offensichtlich.
-2461|verb|abholen, holt ab, holte ab, hat abgeholt|Er holt das Paket ab.
-2553|verb|fliehen, flieht, floh, ist geflohen|Er flieht vor dem Krieg.
-2567|adj|einsam|Er fühlt sich oft einsam.
-2572|verb|anstehen, steht an, stand an, hat angestanden|Er steht für Tickets an.
 2738|adj|sekundär|Das ist von sekundärer Bedeutung.
-2758|der|der Atem|Der Atem geht schnell.
-2788|verb|lehnen, lehnt, lehnte, hat gelehnt|Er lehnt an der Wand.
-2798|verb|zusammenhängen, hängt zusammen, hing zusammen, hat zusammengehangen|Alles hängt zusammen.
-2825|verb|loben, lobt, lobte, hat gelobt|Er lobt die Schüler.
-2843|die|die Stille|Die Stille ist angenehm.
-2927|das|Tibet|Tibet liegt im Himalaya.
-3066|das, die (pl)|das Weihnachten|Weihnachten feiern wir groß.
-3092|verb|nachfolgen, folgt nach, folgte nach, ist nachgefolgt|Er folgt dem Plan nach.
 3147|verb|kleben, klebt, klebte, hat geklebt|Er klebt das Poster an die Wand.
 3148|die|die Unsicherheit|Die Unsicherheit bleibt bestehen.
-3175|verb|angucken, guckt an, guckte an, hat angeguckt (ankucken)|Er guckt sich den Film an.
-3186|verb|auffordern, fordert auf, forderte auf, hat aufgefordert|Er fordert ihn auf zu gehen.
-3212|verb|brüllen, brüllt, brüllte, hat gebrüllt|Der Löwe brüllt laut.
-3227|verb|schwingen, schwingt, schwang, hat geschwungen|Er schwingt das Seil.
 3241|verb|ausscheiden, scheidet aus, schied aus, ist ausgeschieden|Er scheidet aus dem Wettbewerb aus.
 3259|adv|jederzeit|Du kannst mich jederzeit anrufen.
-3270|verb|ablegen, legt ab, legte ab, hat abgelegt|Er legt den Mantel ab.
-3290|verb|untergehen, geht unter, ging unter, ist untergegangen|Die Sonne geht unter.
-3408|verb|ausweisen, weist aus, wies aus, hat ausgewiesen|Der Pass weist ihn aus.
-3417|verb|beißen, beißt, biss, hat gebissen|Der Hund beißt nicht.
-3452|adj|tödlich|Der Biss war tödlich.
-3500|der|der Wohlstand|Der Wohlstand wächst.
-3592|adj|blond|Sie hat blondes Haar.
-3660|verb|beten, betet, betete, hat gebetet|Er betet jeden Abend.
-3778|adv|nebenbei|Er lernt nebenbei Gitarre.
 3821|adj|eigenständig|Er arbeitet völlig eigenständig.
-3910|die|die Vernunft|Die Vernunft gebietet es.
 3963|verb|fotografieren, fotografiert, fotografierte, hat fotografiert|Er fotografiert die Landschaft.
-4016|das|das T-Shirt|Das T-Shirt ist blau.
-4018|verb|gestehen, gesteht, gestand, hat gestanden|Er gesteht seine Schuld.
-4061|verb|klauen, klaut, klaute, hat geklaut|Er hat das Geld geklaut.
-4186|die|die Sorte|Welche Sorte bevorzugst du?
-4254|verb|auslaufen, läuft aus, lief aus, ist ausgelaufen|Die Frist ist ausgelaufen.
-4261|verb|variieren, variiert, variierte, hat variiert|Er variiert das Thema.
-4267|verb|zerfallen, zerfällt, zerfiel, ist zerfallen|Das Gebäude zerfällt langsam.
-4272|verb|besorgen, besorgt, besorgte, hat besorgt|Er besorgt die Tickets.
-4343|der|der Psychologe|Der Psychologe hört ihm zu.
-4346|verb|herausragen, ragt heraus, ragte heraus, hat herausgeragt|Der Turm ragt hoch heraus.
 4348|verb|klatschen, klatscht, klatschte, hat geklatscht|Er klatscht laut in die Hände.
-4374|das|das Bargeld|Er zahlt mit Bargeld.
-4382|die|die ÖVP (Österreichische Volkspartei)|Die ÖVP hat gewonnen.
-4392|verb|verfallen, verfällt, verfiel, ist verfallen|Das Haus verfällt langsam.
 4457|die|die FPÖ (Freiheitliche Partei Österreichs)|Die FPÖ hat ihren Kandidaten gewählt.
-4476|der|der Senat|Der Senat tagt heute.
 4515|adv|inwieweit|Inwieweit das stimmt, bleibt offen.
-4523|verb|entkommen, entkommt, entkam, ist entkommen|Der Häftling entkam.
-4541|adj|letzterer, letztere, letzteres|Letzterer Punkt ist wichtig.
-4604|verb|blasen, bläst, blies, hat geblasen|Er bläst in die Trompete.
-4614|die|die Ökonomie|Die Ökonomie wächst stetig.
 4649|das|das Arschloch|Er benimmt sich wie ein Arschloch.
 4728|adj|präsent|Er war bei der Sitzung präsent.
-4751|verb|anfassen, fasst an, fasste an, hat angefasst|Er fasst das Glas an.
-4818|pron|worüber|Worüber sprichst du?
-4837|adj|höflich|Er ist immer höflich.
-4894|adj|frühzeitig|Er kam frühzeitig an.
-4911|adj|legal|Das ist völlig legal.
-4936|verb|abschalten, schaltet ab, schaltete ab, hat abgeschaltet|Er schaltet den Fernseher ab.
-4949|die|die Geldmenge|Die Geldmenge steigt weiter.
-4950|das|das Getreide|Das Getreide wächst schnell.
-4956|verb|aufziehen, zieht auf, zog auf, hat aufgezogen|Er zieht die Uhr auf.
-4973|adj|plausibel|Die Erklärung ist plausibel.
-4989|verb|verkehren, verkehrt, verkehrte, hat verkehrt|Der Zug verkehrt regelmäßig.
-5105|die|die Rettung|Die Rettung kam rechtzeitig.
-733|die|die Zeitung|Er liest die Zeitung täglich.
-1200|adj|extrem|Das war extrem schwierig.
-2447|adj|trocken|Der Boden ist trocken.
-4466|der|der Sturz|Der Sturz war heftig.
-2150|der|der Rang|Er hat den höchsten Rang.
-2781|adv|teils|Teils stimme ich dir zu.
-1683|die|die Flasche|Die Flasche ist leer.
-3465|der|der Rechner|Der Rechner ist kaputt.
-1611|der|der Gegner|Der Gegner war stark.
-1634|adj|traditionell|Er lebt traditionell.
 1113|die|die Küche|Die Küche ist frisch renoviert worden.
 4063|adj|schwul|Er hat sich als schwul geoutet.
-2293|die|die Armee|Die Armee rückte schnell vor.
 173|adj|alt|Das Buch ist sehr alt, aber interessant.
-191|verb|fragen, fragt, fragte, hat gefragt|Er fragt oft nach dem Weg.
-26|adv|auch|Sie kommt auch zur Party.
-79|adv|schon|Er ist schon wieder zu spät.
-419|verb|warten, wartet, wartete, hat gewartet|Ich warte auf den Bus.
-97|pron|uns|Er hilft uns beim Umzug.
-236|adv|warum|Warum bist du so früh hier?
-945|adv|danke|Danke, das war sehr nett.
-193|verb|halten, hält, hielt, hat gehalten|Er hält das Glas fest.
-436|verb|passieren, passiert, passierte, hat passiert|Was ist gestern passiert?
-667|adv|wobei|Wobei kann ich dir helfen?
-784|verb|verkaufen, verkauft, verkaufte, hat verkauft|Er verkauft sein altes Auto.
 970|verb|sinken, sinkt, sank, ist gesunken|Die Preise sind deutlich gesunken.
 2060|adj|religiös|Er ist sehr religiös erzogen worden.
 464|die|die USA (Vereinigte Staaten von Amerika)|Die USA sind wirtschaftlich stark.
-1031|verb|erlauben, erlaubt, erlaubte, hat erlaubt|Erlauben Sie mir eine Frage?
-1508|der|der Hof|Der Hof ist voller Blumen.
-2266|verb|zusehen, sieht zu, sah zu, hat zugesehen|Sie sahen dem Spiel zu.
-247|adv|fast|Er hat fast alles erledigt.
 603|adj|persönlich|Das ist meine persönliche Meinung.
-1149|part|hallo|Hallo, wie geht's dir?
 1347|der|der November|Der November war dieses Jahr mild.
-2974|das|das Zelt|Das Zelt steht am See.
 3368|verb|verwirren, verwirrt, verwirrte, hat verwirrt|Die Nachricht verwirrte ihn sehr.
-3646|verb|hereinkommen, kommt herein, kam herein, ist hereingekommen (reinkommen)|Bitte kommen Sie herein!
 3750|das|das Gemüse|Das Gemüse ist frisch vom Markt.
 612|die|die Kunst|Die Kunst des Malens fasziniert mich.
-2694|der|der Magen|Mein Magen knurrt vor Hunger.
-4197|verb|losgehen, geht los, ging los, ist losgegangen|Das Konzert geht gleich los.
-33|part|als|Er arbeitet als Lehrer.
 55|adv|nur|Ich habe nur noch zehn Minuten.
-67|verb|geben, gibt, gab, hat gegeben|Er gibt mir das Buch.
 70|adv|mehr|Ich brauche mehr Informationen.
-83|adv|immer|Er kommt immer zu spät.
 681|der|der Morgen|Der Morgen ist ruhig und kühl.
 1360|die|die Freude|Die Freude war groß, als er ankam.
 1689|die|die Fläche|Die Fläche wurde neu bepflanzt.
 116|pron|ihm|Ich habe ihm das Buch gegeben.
-124|adv|lang|Der Weg ist lang und steinig.
-133|prep|gegen|Er kämpfte gegen den Wind.
-153|pron|welch, -e, -er, -es|Welches Buch liest du gerade?
 165|adv|erst|Er kam erst um Mitternacht nach Hause.
-170|verb|zeigen, zeigt, zeigte, hat gezeigt|Er zeigt mir den Weg.
 175|das|Deutschland|Deutschland ist bekannt für Autos.
 188|adv|eigentlich|Eigentlich wollte ich das nicht tun.
-228|pron|solch|Solche Fehler passieren oft.
 233|adv|wirklich|Das war wirklich eine Überraschung.
 239|pron|darauf, drauf|Er wartet darauf, dass es beginnt.
 252|der|der Euro|Der Euro ist eine stabile Währung.
-259|pron|davon|Ich habe genug davon.
 272|adv|jedoch|Er kam, jedoch war er zu spät.
-293|pron|dir|Ich gebe dir das Buch zurück.
-300|verb|beginnen, beginnt, begann, hat begonnen|Der Film beginnt um acht Uhr.
 301|verb|laufen, läuft, lief, ist gelaufen|Er läuft jeden Morgen fünf Kilometer.
 313|verb|erzählen, erzählt, erzählte, hat erzählt|Sie erzählt ihm eine Geschichte.
-340|adj|wert|Das ist keinen Cent wert.
 345|das|Europa|Europa ist kulturell vielfältig.
 351|verb|handeln, handelt, handelte, hat gehandelt|Er handelt schnell und entschlossen.
-365|conj|je|Je mehr, desto besser.
-373|das|das Ziel|Das Ziel ist klar definiert.
 375|adv|eher|Ich würde eher zu Hause bleiben.
-405|verb|schließen, schließt, schloss, hat geschlossen|Er schließt die Tür leise.
 433|adj|meiste|Die meiste Zeit verbringt er draußen.
-454|die|die Stimme|Ihre Stimme klingt schön.
 480|adv|außerdem|Außerdem wollte er noch etwas sagen.
-484|num|sechs|Ich habe sechs Äpfel gekauft.
 506|verb|verlassen, verlässt, verließ, hat verlassen|Er verlässt das Haus um acht Uhr.
 517|verb|einsetzen, setzt ein, setzte ein, hat eingesetzt|Der Regen setzt plötzlich ein.
-591|adv|zusammen|Sie arbeiten eng zusammen.
-602|prep|ab|Ab morgen bin ich im Urlaub.
-604|der|der Präsident|Der Präsident hält eine Rede.
 637|verb|planen, plant, plante, hat geplant|Er plant seinen nächsten Urlaub.
 666|verb|unterscheiden, unterscheidet, unterschied, hat unterschieden|Man kann die beiden kaum unterscheiden.
 691|verb|wünschen, wünscht, wünschte, hat gewünscht|Er wünscht sich ein neues Auto.
 692|verb|interessieren, interessiert, interessierte, hat interessiert|Das Thema interessiert ihn sehr.
 702|das|das Glück|Er hat heute wirklich Glück gehabt.
 766|die|die Vorlesung|Die Vorlesung beginnt um zehn Uhr.
-768|adv|meist|Er ist meist pünktlich.
-803|verb|rechnen, rechnet, rechnete, hat gerechnet|Er rechnet mit vielen Gästen.
-857|adv|somit|Somit ist alles geklärt.
 866|verb|erfüllen, erfüllt, erfüllte, hat erfüllt|Er erfüllt alle Anforderungen.
 867|die|die Mama|Die Mama kocht das Abendessen.
 891|verb|fliegen, fliegt, flog, ist geflogen|Der Vogel fliegt in den Süden.
 894|adv|weiterhin|Er bleibt weiterhin optimistisch.
 900|verb|zahlen, zahlt, zahlte, hat gezahlt|Er zahlt die Rechnung pünktlich.
-903|verb|verdienen, verdient, verdiente, hat verdient|Er verdient gutes Geld.
 1527|der|der Schaden|Der Schaden war groß nach dem Sturm.
-4458|das|das Gift|Das Gift wirkt schnell.
-3462|das|das Konto|Das Konto ist überzogen.
 1011|der|der Anspruch|Er hat einen Anspruch auf Entschädigung.
-1017|verb|anschauen, schaut an, schaute an, hat angeschaut|Er schaut sich den Film an.
 1020|verb|richten, richtet, richtete, hat gerichtet|Er richtet den Blick nach vorn.
 1025|der|der Betrieb|Der Betrieb läuft reibungslos.
 1084|verb|lauten, lautet, lautete, hat gelautet|Der Beschluss lautet einstimmig.
 1086|adv|hingegen|Er ist klug, sein Bruder hingegen nicht.
 1114|adj|verantwortlich|Er ist verantwortlich für das Projekt.
-1152|num|zwölf|Zwölf Gäste sind eingeladen.
 1156|verb|wechseln, wechselt, wechselte, hat gewechselt|Er wechselt den Reifen selbst.
 1203|verb|ermitteln, ermittelt, ermittelte, hat ermittelt|Die Polizei ermittelt in dem Fall.
-1213|der|der Politiker|Der Politiker hält eine Rede.
 1220|verb|entfernen, entfernt, entfernte, hat entfernt|Er entfernt den Fleck aus dem Hemd.
 1233|adv|hinten|Der Schlüssel liegt ganz hinten.
 1236|verb|verteilen, verteilt, verteilte, hat verteilt|Er verteilt die Flyer in der Stadt.
 1298|verb|umgehen, umgeht, umging, hat umgangen|Er umgeht geschickt das Problem.
-1318|der|der Donnerstag|Am Donnerstag habe ich frei.
 1321|verb|gründen, gründet, gründete, hat gegründet|Er gründet seine eigene Firma.
-1333|verb|zeichnen, zeichnet, zeichnete, hat gezeichnet|Er zeichnet ein Bild von ihr.
 1339|verb|vertreten, vertritt, vertrat, hat vertreten|Er vertritt die Firma bei der Messe.
 1341|der|der Soldat|Der Soldat marschiert im Gleichschritt.
-1349|adj|gesund|Er lebt sehr gesund.
 1353|verb|einladen, lädt ein, lud ein, hat eingeladen|Er lädt seine Freunde zum Essen ein.
 1377|verb|leiten, leitet, leitete, hat geleitet|Er leitet das Unternehmen seit Jahren.
-1410|verb|erzielen, erzielt, erzielte, hat erzielt|Er erzielt hohe Gewinne.
 1416|die|die Ahnung|Ich habe keine Ahnung, wo er ist.
 1480|die|die Ausnahme|Das ist eine seltene Ausnahme.
-1483|die|die Lust|Er hat keine Lust auf Kino.
 1507|verb|springen, springt, sprang, ist gesprungen|Der Hund springt über den Zaun.
 1511|der|der Widerstand|Der Widerstand gegen das Projekt wächst.
-1519|verb|schütteln, schüttelt, schüttelte, hat geschüttelt|Er schüttelt den Kopf.
 1535|verb|mitnehmen, nimmt mit, nahm mit, hat mitgenommen|Er nimmt seinen Hund überall mit.
 1563|das|das Griechisch|Das Griechisch ist schwer zu lernen.
-1636|verb|genießen, genießt, genoss, hat genossen|Er genießt den ruhigen Abend.
-1699|verb|schenken, schenkt, schenkte, hat geschenkt|Sie schenkt ihm ein Buch.
 1711|verb|zuhören, hört zu, hörte zu, hat zugehört|Er hört dem Lehrer aufmerksam zu.
 1818|der|der Wein|Der Wein schmeckt ausgezeichnet.
-1830|verb|ausgeben, gibt aus, gab aus, hat ausgegeben|Er gibt zu viel Geld aus.
 1847|verb|übersetzen, übersetzt, übersetzte, hat übersetzt|Sie übersetzt das Buch ins Deutsche.
-1897|adv|insofern|Insofern war alles gut.
 1967|verb|befragen, befragt, befragte, hat befragt|Die Polizei befragt die Zeugen.
-2007|part|aha|Aha, das erklärt vieles!
 2025|adv|ansonsten|Ansonsten habe ich nichts mehr zu sagen.
 2040|der|der Regen|Der Regen hörte plötzlich auf.
 2108|verb|klären, klärt, klärte, hat geklärt|Er klärt die Situation schnell.
 2119|verb|antreten, tritt an, trat an, hat angetreten|Er tritt seine neue Stelle an.
-2151|verb|rennen, rennt, rannte, ist gerannt|Der Hund rennt schnell davon.
 2216|verb|schneiden, schneidet, schnitt, hat geschnitten|Er schneidet das Brot in Scheiben.
 2231|der|der Verkauf|Der Verkauf lief besser als erwartet.
 2245|verb|beruhen, beruht, beruhte, hat beruht|Die Entscheidung beruht auf Fakten.
 2279|adv|freilich|Freilich, das ist eine gute Idee.
-2311|verb|vorgeben, gibt vor, gab vor, hat vorgegeben|Er gibt vor, krank zu sein.
-2342|der|der Ring|Der Ring ist aus Gold.
 2355|verb|erwidern, erwidert, erwiderte, hat erwidert|Er erwidert ihren Gruß höflich.
 2383|adj|sportlich|Er ist sehr sportlich und aktiv.
-2420|verb|herkommen, kommt her, kam her, ist hergekommen|Woher kommst du her?
 2437|verb|abbauen, baut ab, baute ab, hat abgebaut|Er baut den alten Schuppen ab.
-2443|der|der Motor|Der Motor läuft einwandfrei.
 2445|die|die Aktie|Die Aktie stieg gestern um 5%.
 2492|verb|beurteilen, beurteilt, beurteilte, hat beurteilt|Er beurteilt die Lage kritisch.
-2594|verb|zustimmen, stimmt zu, stimmte zu, hat zugestimmt|Er stimmt dem Vorschlag zu.
 2610|das|das Gefängnis|Das Gefängnis ist gut bewacht.
 2678|adv|nochmals|Nochmals vielen Dank für alles.
-2783|verb|ergreifen, ergreift, ergriff, hat ergriffen|Er ergreift die Flucht.
 2796|adj|quer|Er legt die Bücher quer ins Regal.
 2827|die|die Absicht|Er hat die beste Absicht, zu helfen.
 2837|verb|zusammenarbeiten, arbeitet zusammen, arbeitete zusammen, hat zusammengearbeitet|Die Firmen arbeiten eng zusammen.
 2868|adj|arbeitslos|Er ist seit zwei Monaten arbeitslos.
 2929|verb|widersprechen, widerspricht, widersprach, hat widersprochen|Er widerspricht seiner Meinung.
-2945|die (pl)|die Pläne|Die Pläne wurden verworfen.
 2948|adv|zuhause|Ich bleibe heute lieber zuhause.
 2976|verb|bedanken (sich), bedankt, bedankte, hat bedankt|Er bedankt sich herzlich für die Hilfe.
 2982|verb|ansagen, sagt an, sagte an, hat angesagt|Er sagt die nächste Station an.
-2988|verb|probieren, probiert, probierte, hat probiert|Er probiert das neue Gericht.
 3000|verb|verdanken, verdankt, verdankte, hat verdankt|Er verdankt seinen Erfolg harter Arbeit.
 3008|der|der Akteur|Der Akteur spielt die Hauptrolle.
-3015|adv|indes|Indes wurde die Lage ernster.
 3101|der|der Mond|Der Mond scheint hell am Himmel.
 3117|adj|schief|Das Bild hängt schief an der Wand.
 3125|der|der Sänger|Der Sänger begeisterte das Publikum.
@@ -3060,8 +1916,6 @@
 3243|das|das Klima|Das Klima verändert sich weltweit.
 3378|interj|tja|Tja, das ist jetzt blöd gelaufen.
 3391|die|die Dichtung|Die Dichtung am Fenster ist defekt.
-3409|verb|biegen, biegt, bog, hat gebogen|Er biegt das Metall zurecht.
-3412|verb|spazieren, spaziert, spazierte, ist spaziert|Er spaziert gerne im Park.
 3445|verb|kündigen, kündigt, kündigte, hat gekündigt|Er kündigt seinen Job nach zehn Jahren.
 3455|die|die Bombe|Die Bombe explodierte in der Nacht.
 3507|verb|ausbrechen, bricht aus, brach aus, hat ausgebrochen|Das Feuer brach plötzlich aus.
@@ -3071,21 +1925,16 @@
 3617|verb|eingreifen, greift ein, griff ein, hat eingegriffen|Die Polizei greift schnell ein.
 3669|der|der Aufsichtsrat|Der Aufsichtsrat trifft sich morgen.
 3691|der|der Berater|Der Berater gibt wichtige Tipps.
-3702|adj|schräg|Das Haus steht etwas schräg.
 3734|das|das Abenteuer|Das Abenteuer war sehr aufregend.
 3735|verb|erforschen, erforscht, erforschte, hat erforscht|Er erforscht das Verhalten von Tieren.
-3784|verb|einbauen, baut ein, baute ein, hat eingebaut|Er baut das neue Fenster ein.
 3870|verb|anstarren, starrt an, starrte an, hat angestarrt|Er starrt sie die ganze Zeit an.
 3945|verb|einlegen, legt ein, legte ein, hat eingelegt|Er legt die CD ins Laufwerk ein.
-3969|die|die Mode|Die Mode ändert sich ständig.
 3987|die|die Entropie|Die Entropie des Systems nimmt zu.
 3995|der|der Quatsch|Das ist doch völliger Quatsch!
 4037|verb|aufgreifen, greift auf, griff auf, hat aufgegriffen|Er greift das Thema erneut auf.
 4040|verb|eindringen, dringt ein, drang ein, ist eingedrungen|Das Wasser drang in den Keller ein.
-4057|der|der Arsch|Er fiel auf den Arsch.
 4065|adj|bemerkenswert|Das Ergebnis ist wirklich bemerkenswert.
 4077|verb|durchziehen, zieht durch, zog durch, hat durchgezogen|Er zieht sein Vorhaben konsequent durch.
-4096|die|die Fliege|Die Fliege saß auf dem Tisch.
 4130|das|das Business|Im Business gibt es keine Freunde.
 4139|die|die Agentur|Die Agentur sucht neue Talente.
 4153|verb|anbringen, bringt an, brachte an, hat angebracht|Er bringt das Regal an der Wand an.
@@ -3093,149 +1942,71 @@
 4249|verb|verständigen (sich), verständigt, verständigte, hat verständigt|Sie verständigen sich per Telefon.
 4255|adj|einverstanden|Ich bin mit dem Plan einverstanden.
 4285|verb|ablesen, liest ab, las ab, hat abgelesen|Er liest die Zahlen vom Display ab.
-4304|verb|streben, strebt, strebte, hat gestrebt|Er strebt nach Erfolg.
-4323|verb|aufsuchen, sucht auf, suchte auf, hat aufgesucht|Er sucht den Arzt auf.
 4344|verb|abspielen, spielt ab, spielte ab, hat abgespielt|Er spielt das Lied nochmal ab.
 4351|verb|beschweren, beschwert, beschwerte, hat beschwert|Er beschwert sich über den Lärm.
-4355|verb|hindern, hindert, hinderte, hat gehindert|Er hindert ihn am Weggehen.
-4360|verb|schrumpfen, schrumpft, schrumpfte, ist geschrumpft|Der Markt schrumpft rapide.
-4388|verb|haften, haftet, haftete, hat gehaftet|Der Leim haftet gut auf Holz.
-4435|interj|mmh|Mmh, das schmeckt gut!
 4440|verb|betrinken (sich), betrinkt, betrank, hat betrunken|Er hat sich gestern betrunken.
 4508|das|Tirol|Tirol ist bekannt für seine Berge.
 4517|adv|weitaus|Das ist weitaus besser als erwartet.
 4556|das|das Vorurteil|Vorurteile führen zu Missverständnissen.
-4559|verb|anmachen, macht an, machte an, hat angemacht|Er macht das Licht an.
-4563|verb|eingeben, gibt ein, gab ein, hat eingegeben|Er gibt das Passwort ein.
 4584|verb|überholen, überholt, überholte, hat überholt|Er überholt das langsame Auto.
-4585|verb|vorangehen, geht voran, ging voran, ist vorangegangen|Er geht mutig voran.
-4621|die|die Notiz|Er machte eine kurze Notiz.
 4647|verb|pfeifen, pfeift, pfiff, hat gepfiffen|Er pfeift eine fröhliche Melodie.
-4657|verb|stechen, sticht, stach, hat gestochen|Die Biene stach ihn ins Bein.
-4667|verb|loslassen, lässt los, ließ los, hat losgelassen|Er lässt das Seil los.
-4671|adv|bestens|Er ist bestens vorbereitet.
 4680|das|Portugal|Portugal ist ein schönes Reiseland.
 4704|verb|füttern, füttert, fütterte, hat gefüttert|Er füttert die hungrigen Vögel.
 4710|verb|addieren, addiert, addierte, hat addiert|Er addiert die Zahlen schnell.
 4742|verb|backen, bäckt, buk, hat gebacken|Er backt einen leckeren Kuchen.
-4779|adv|zeitweise|Zeitweise regnet es stark.
 4858|verb|zerlegen, zerlegt, zerlegte, hat zerlegt|Er zerlegt den Motor in Einzelteile.
 4879|verb|kassieren, kassiert, kassierte, hat kassiert|Er kassiert das Geld an der Kasse.
 4937|verb|blättern, blättert, blätterte, hat geblättert|Er blättert durch das Magazin.
-4958|adj|faul|Er ist heute sehr faul.
 4970|der|der Landsmann|Er traf einen alten Landsmann.
-5015|das|das Kupfer|Das Rohr ist aus Kupfer.
 5023|der|der Kumpel|Er trifft sich mit seinem Kumpel.
-5044|die|die Jeans|Die Jeans passt perfekt.
 5052|die|die Population|Die Population der Stadt wächst stetig.
 5055|verb|tasten, tastet, tastete, hat getastet|Er tastet nach dem Lichtschalter.
-5064|der|der Frosch|Der Frosch sprang ins Wasser.
-5065|der|der Funke|Der Funke sprang über.
 3898|verb|abziehen, zieht ab, zog ab, hat abgezogen|Er zieht die Folie vorsichtig ab.
 4899|die|die Schublade|Die Schublade klemmt seit Tagen.
-584|adj|langsam|Er fährt sehr langsam.
-2471|der|der Koffer|Der Koffer ist schwer.
-598|der|der Tod|Der Tod kam unerwartet.
-3406|adj|fett|Der Fisch ist sehr fett.
 372|adj|bekannt|Er ist als guter Arzt bekannt.
-3709|das|das Möbel|Das Möbelstück ist antik.
 4204|der|der Eintritt|Der Eintritt kostet fünf Euro.
-2303|adj|winzig|Das Insekt ist winzig klein.
 3451|adj|realistisch|Seine Erwartungen sind realistisch.
 2207|adj|heilig|Das Land ist den Menschen heilig.
-3662|verb|hocken, hockt, hockte, hat gehockt|Er hockt oft im Garten.
 3928|verb|anfallen, fällt an, fiel an, hat angefallen|Die Kosten fallen überraschend an.
 3528|die|die Haustür|Die Haustür ist abgeschlossen.
-483|der|der Anfang|Der Anfang war schwierig.
 3610|der|der Maßstab|Der Maßstab ist zwei Meter lang.
 4461|die|die News|Die News verbreiten sich schnell.
-88|adv|hier|Hier wohne ich seit Jahren.
-261|verb|kennen, kennt, kannte, hat gekannt|Er kennt den Weg sehr gut.
-500|verb|lachen, lacht, lachte, hat gelacht|Er lacht über den Witz.
-719|pron|wann|Wann kommst du nach Hause?
-1555|pron|davor|Ich habe davor gewarnt.
-1660|verb|tauchen, taucht, tauchte, ist getaucht|Er taucht tief ins Wasser.
-1893|pron|wohin|Wohin führt dieser Weg?
-299|der|der Kopf|Er schüttelt den Kopf.
-730|verb|bauen, baut, baute, hat gebaut|Er baut ein neues Haus.
-2673|adj|wütend|Er ist wütend auf den Chef.
-3095|das|das Taxi|Das Taxi wartet vor dem Haus.
-3645|pron|woran|Woran denkst du gerade?
-23|pron|er|Er kommt heute spät.
-195|die|die Frage|Die Frage bleibt offen.
-683|verb|geschehen, geschieht, geschah, ist geschehen|Was ist gestern geschehen?
-781|verb|werfen, wirft, warf, hat geworfen|Er wirft den Ball weit.
-873|verb|lächeln, lächelt, lächelte, hat gelächelt|Er lächelt ihr freundlich zu.
-932|die|die Sonne|Die Sonne scheint hell.
-1514|adv|ohnehin|Er hätte ohnehin gewonnen.
 1626|adv|sowieso|Es wird sowieso nicht funktionieren.
 4019|die|die Kerze|Die Kerze brennt ruhig im Dunkeln.
-339|adj|frei|Der Platz ist noch frei.
-564|verb|kaufen, kauft, kaufte, hat gekauft|Er kauft sich ein neues Auto.
-1401|das|das Netz|Das Netz fängt den Ball.
 4233|die|die Glocke|Die Glocke läutet zur vollen Stunde.
-48|pron|man|Man sollte mehr lesen.
-2224|der|der Park|Der Park ist voller Blumen.
-2234|verb|rühren, rührt, rührte, hat gerührt|Er rührt den Kaffee um.
 3021|der|der Fleck|Der Fleck auf dem Hemd ist groß.
 3296|verb|pressen, presst, presste, hat gepresst|Er presst den Saft aus der Orange.
 3988|das|das Gelenk|Das Gelenk schmerzt beim Bewegen.
-5050|adv|jüngst|Er wurde jüngst befördert.
 12|pron|sie|Sie liest ein spannendes Buch.
 60|conj|um|Er arbeitet, um Geld zu verdienen.
 66|conj|da|Er geht nach Hause, da es spät ist.
-73|prep|durch|Er geht durch den Wald.
-90|part|ganz|Ich bin ganz sicher.
-2049|der|der Strand|Der Strand ist menschenleer.
 2335|der|der Rat|Der Rat des Lehrers war hilfreich.
-117|pron|ihn|Ich habe ihn gestern gesehen.
 118|conj|denn|Er ging nicht, denn es regnete.
-159|conj|ob|Er fragt, ob du kommst.
 213|das|das Prozent|Das Produkt ist zehn Prozent teurer.
-230|der|der Fall|Der Fall ist abgeschlossen.
-277|verb|sitzen, sitzt, saß, hat gesessen|Er sitzt auf der Bank.
 284|verb|erklären, erklärt, erklärte, hat erklärt|Der Lehrer erklärt die Aufgabe.
-291|part|recht|Du hast recht, das ist gut.
-328|adv|gern, gerne|Ich helfe dir gerne.
 329|adv|überhaupt|Ich verstehe überhaupt nichts.
 355|adv|anders|Es hätte anders laufen können.
-367|adj|beste (r, s)|Das ist die beste Lösung.
 368|verb|bilden, bildet, bildete, hat gebildet|Sie bilden eine starke Gruppe.
 397|der|der Abend|Der Abend war sehr entspannend.
 403|die|die Uhr|Die Uhr zeigt fünf Minuten vor zwölf.
 431|der|der Schritt|Er macht einen großen Schritt nach vorn.
 432|verb|entwickeln, entwickelt, entwickelte, hat entwickelt|Das Team entwickelt eine neue Software.
 470|verb|entscheiden, entscheidet, entschied, hat entschieden|Er entscheidet sich für das rote Auto.
-475|verb|bestimmen, bestimmt, bestimmte, hat bestimmt|Er bestimmt die Richtung.
 495|prep|gegenüber|Das Haus liegt gegenüber der Bank.
-499|adj|halb|Das Glas ist halb voll.
-512|adv|plötzlich|Plötzlich ging das Licht aus.
-513|pron|danach|Danach gingen sie nach Hause.
-542|verb|betrachten, betrachtet, betrachtete, hat betrachtet|Er betrachtet das Bild lange.
-554|adv|insgesamt|Insgesamt waren 50 Gäste da.
-566|verb|öffnen, öffnet, öffnete, hat geöffnet|Er öffnet das Fenster.
 569|das|das Stück|Ein Stück Kuchen liegt auf dem Teller.
 640|der|der Kilometer|Er läuft fünf Kilometer am Tag.
 642|verb|vergessen, vergisst, vergaß, hat vergessen|Er vergisst oft seine Schlüssel.
-655|der|der Dank|Vielen Dank für deine Hilfe!
-670|num|sieben|Er hat sieben Bücher gelesen.
 708|verb|vorliegen, liegt vor, lag vor, hat vorgelegen|Das Dokument liegt bereits vor.
-756|verb|leisten, leistet, leistete, hat geleistet|Er leistet gute Arbeit.
-820|adv|überall|Überall liegen Bücher herum.
 834|das|das Team|Das Team arbeitet effizient zusammen.
 853|verb|drehen, dreht, drehte, hat gedreht|Er dreht den Schlüssel im Schloss.
 860|adv|längst|Das Problem ist längst gelöst.
 883|das|das Französisch|Er lernt Französisch in der Schule.
-890|adj|absolut|Das ist absolut korrekt.
 925|verb|berechnen, berechnet, berechnete, hat berechnet|Er berechnet die Kosten für das Projekt.
 938|das|das Programm|Das Programm läuft ohne Fehler.
 987|adj|zahlreich|Es gab zahlreiche Beschwerden.
 830|das|das Geschäft|Das Geschäft schließt um 18 Uhr.
 2010|die|die Seele|Die Seele leidet unter der Einsamkeit.
 1065|verb|aufhören, hört auf, hörte auf, hat aufgehört|Er hört endlich auf zu rauchen.
-1072|adj|erneut|Das Problem tritt erneut auf.
-1088|die|die Bevölkerung|Die Bevölkerung wuchs rasant.
-1091|adj|total|Das war ein totaler Erfolg.
 1093|die|die Schulter|Er klopft ihm auf die Schulter.
 1145|verb|beschließen, beschließt, beschloss, hat beschlossen|Der Rat beschließt neue Regeln.
 1171|die|die Mannschaft|Die Mannschaft gewinnt das Spiel.
@@ -3245,22 +2016,15 @@
 1256|verb|kümmern (sich), kümmert, kümmerte, hat gekümmert|Er kümmert sich um die Kinder.
 1293|verb|sammeln, sammelt, sammelte, hat gesammelt|Er sammelt Briefmarken seit Jahren.
 1306|verb|abhängen, hängt ab, hing ab, hat abgehangen|Alles hängt von seiner Entscheidung ab.
-1309|der|der Augenblick|Der Augenblick ist günstig.
-1403|verb|abschließen, schließt ab, schloss ab, hat abgeschlossen|Er schließt die Tür ab.
 1435|num|zwanzig|Zwanzig Minuten sind vergangen.
 1444|das|das Publikum|Das Publikum applaudiert begeistert.
 1448|adj|stolz|Er ist stolz auf seinen Erfolg.
-1467|verb|verbringen, verbringt, verbrachte, hat verbracht|Er verbringt den Tag am Meer.
-1470|verb|kritisieren, kritisiert, kritisierte, hat kritisiert|Er kritisiert den neuen Plan.
 1594|verb|vermuten, vermutet, vermutete, hat vermutet|Er vermutet, dass es regnen wird.
 1612|der|der Leser|Der Leser versteht den Text leicht.
 1615|die|die Kenntnis|Sie hat gute Kenntnisse in Mathematik.
 1629|adv|einst|Einst war er ein berühmter Künstler.
 1664|die|die Mehrheit|Die Mehrheit stimmte für den Vorschlag.
-1665|verb|anhaben, hat an, hatte an, hat angehabt|Er hat eine warme Jacke an.
-1669|verb|beachten, beachtet, beachtete, hat beachtet|Er beachtet die Regeln genau.
 1674|das|das Italienisch|Italienisch klingt sehr melodisch.
-1675|die|die Scheiße|Die Scheiße stinkt gewaltig.
 1697|verb|überprüfen, überprüft, überprüfte, hat überprüft|Er überprüft die Daten regelmäßig.
 1735|conj|umso|Je mehr er übt, umso besser wird er.
 1788|adv|beinahe|Er hätte beinahe den Zug verpasst.
@@ -3268,241 +2032,106 @@
 1913|verb|engagieren, engagiert, engagierte, hat engagiert|Er engagiert sich für den Umweltschutz.
 1942|verb|einnehmen, nimmt ein, nahm ein, hat eingenommen|Er nimmt die Medikamente regelmäßig ein.
 1954|verb|aussprechen, spricht aus, sprach aus, hat ausgesprochen|Er spricht seine Bedenken offen aus.
-1965|adv|voneinander|Sie lernen viel voneinander.
 1966|verb|auswählen, wählt aus, wählte aus, hat ausgewählt|Er wählt den besten Kandidaten aus.
-2069|verb|aufregen, regt auf, regte auf, hat aufgeregt|Das Verhalten regt ihn auf.
-2105|verb|klappen, klappt, klappte, hat geklappt|Der Plan klappt wie erwartet.
 2129|num|dreißig|Dreißig Minuten vergingen schnell.
 2154|verb|benennen, benennt, benannte, hat benannt|Er benennt die wichtigsten Punkte.
-2183|adv|allzu|Das ist allzu kompliziert.
 2185|das|Indien|Indien ist ein faszinierendes Land.
-2193|das|das Dutzend|Er kaufte ein Dutzend Eier.
 2220|verb|herauskommen, kommt heraus, kam heraus, ist herausgekommen (rauskommen)|Das Buch kommt im Herbst heraus.
-2277|verb|angreifen, greift an, griff an, hat angegriffen|Der Hund greift plötzlich an.
 2288|das|das Organ|Das Organ spielt eine zentrale Rolle.
-2319|die|die Katze|Die Katze liegt auf dem Sofa.
 2339|verb|trainieren, trainiert, trainierte, hat trainiert|Er trainiert täglich im Fitnessstudio.
 2381|das|das Baby|Das Baby schläft tief und fest.
-2428|der|der Schlaf|Er braucht mehr Schlaf.
-2430|die|die Kette|Die Kette ist aus Gold.
-2477|verb|ausbauen, baut aus, baute aus, hat ausgebaut|Er baut das Haus weiter aus.
 2493|verb|raten, rät, riet, hat geraten|Er rät ihm, vorsichtig zu sein.
 2584|der|der Respekt|Respekt ist in jeder Beziehung wichtig.
 2682|die|die Freizeit|In der Freizeit geht er gerne wandern.
 2698|verb|versichern, versichert, versicherte, hat versichert|Er versichert ihr seine Unterstützung.
 2704|verb|speichern, speichert, speicherte, hat gespeichert|Er speichert die Datei auf dem Computer.
 2710|das|das Tal|Das Tal ist von Bergen umgeben.
-2888|die|die Villa|Die Villa steht am Stadtrand.
 2908|verb|dominieren, dominiert, dominierte, hat dominiert|Er dominiert das Spielgeschehen.
-2920|verb|mangeln, mangelt, mangelte, hat gemangelt|Es mangelt ihm an Erfahrung.
 2972|verb|eintragen, trägt ein, trug ein, hat eingetragen|Er trägt seinen Namen in die Liste ein.
 2979|verb|verschließen, verschließt, verschloss, hat verschlossen|Er verschließt die Tür sorgfältig.
-2983|verb|hemmen, hemmt, hemmte, hat gehemmt|Der Stau hemmt den Verkehr.
 2992|verb|bearbeiten, bearbeitet, bearbeitete, hat bearbeitet|Er bearbeitet die Bilder am Computer.
-3129|prep|herum|Er läuft um das Haus herum.
 3136|adj|neugierig|Er ist neugierig auf das neue Buch.
-3154|verb|absetzen, setzt ab, setzte ab, hat abgesetzt|Er setzt die Brille ab.
 3158|verb|begehen, begeht, beging, hat begangen|Er begeht einen schweren Fehler.
 3195|verb|grüßen, grüßt, grüßte, hat gegrüßt|Er grüßt freundlich die Nachbarn.
-3228|verb|erleiden, erleidet, erlitt, hat erlitten|Er erleidet große Schmerzen.
 3231|die|die Phantasie|Seine Phantasie kennt keine Grenzen.
 3254|verb|ertragen, erträgt, ertrug, hat ertragen|Er kann die Hitze kaum ertragen.
 3345|verb|schildern, schildert, schilderte, hat geschildert|Er schildert den Vorfall genau.
 3351|verb|lagern, lagert, lagerte, hat gelagert|Die Waren werden im Lagerhaus gelagert.
-3355|verb|versagen, versagt, versagte, hat versagt|Er versagt unter Druck.
-3392|verb|einhalten, hält ein, hielt ein, hat eingehalten|Er hält alle Fristen ein.
 3404|verb|abstellen, stellt ab, stellte ab, hat abgestellt|Er stellt das Fahrrad vor dem Haus ab.
-3405|die|die Droge|Die Droge wirkt schnell.
 3464|die|die Option|Er hat nur eine Option zur Auswahl.
 3478|verb|erkranken, erkrankt, erkrankte, ist erkrankt|Er erkrankte plötzlich schwer.
 3493|verb|abweichen, weicht ab, wich ab, ist abgewichen|Der Plan weicht vom Original ab.
 3524|verb|schleppen, schleppt, schleppte, hat geschleppt|Er schleppt die Kisten in den Keller.
 3611|verb|skizzieren, skizziert, skizzierte, hat skizziert|Er skizziert den Entwurf auf Papier.
-3625|das|das Militär|Das Militär wird verstärkt.
 3629|die|die Aufregung|Die Aufregung war groß, als er ankam.
 3636|adj|deutschsprachig|Er liest deutschsprachige Bücher.
 3649|adv|demnächst|Demnächst startet die neue Serie.
-3674|verb|abwenden, wendet ab, wendete ab, hat abgewendet|Er wendet das Unglück ab.
-3696|die|die Frist|Die Frist endet morgen.
-3810|die|die Geduld|Geduld ist eine Tugend.
-3832|adv|abseits|Er stand abseits der Gruppe.
 3927|die|die Unterschrift|Die Unterschrift fehlt auf dem Dokument.
-3965|adj|hilfreich|Der Tipp war sehr hilfreich.
 4064|verb|ablenken, lenkt ab, lenkte ab, hat abgelenkt|Er lenkt ihn geschickt vom Thema ab.
 4072|der|der Verstand|Sein Verstand ist scharf wie ein Messer.
-4154|verb|entgehen, entgeht, entging, ist entgangen|Das Detail ist ihm entgangen.
 4163|verb|hinnehmen, nimmt hin, nahm hin, hat hingenommen|Er nimmt die Kritik gelassen hin.
 4225|die|die Migration|Die Migration nimmt weltweit zu.
 4240|verb|ernähren, ernährt, ernährte, hat ernährt|Er ernährt seine Familie mit Mühe.
 4265|das|das Pfund|Ein Pfund Butter kostet zwei Euro.
 4286|verb|anzünden, zündet an, zündete an, hat angezündet|Er zündet das Feuer im Kamin an.
-4307|verb|drucken, druckt, druckte, hat gedruckt|Er druckt das Dokument aus.
-4310|die|die Fahne|Die Fahne weht im Wind.
 4335|verb|anheben, hebt an, hob an, hat angehoben|Er hebt die Kiste vorsichtig an.
 4352|verb|entgegenkommen, kommt entgegen, kam entgegen, ist entgegengekommen|Er kommt dem Vorschlag entgegen.
 4359|die|die Prävention|Prävention ist besser als Heilung.
 4397|verb|einsehen, sieht ein, sah ein, hat eingesehen|Er sieht endlich seinen Fehler ein.
-4427|verb|nachkommen, kommt nach, kam nach, ist nachgekommen|Er kommt seiner Pflicht nach.
 4501|verb|befördern, befördert, beförderte, hat befördert|Er wird zum Manager befördert.
 4504|das|das Gremium|Das Gremium trifft die Entscheidung.
 4533|adv|zwischendurch|Er trinkt zwischendurch einen Kaffee.
-4536|der|der Einzelfall|Das ist kein Einzelfall.
 4731|der|der Vertrieb|Der Vertrieb läuft auf Hochtouren.
-4749|das|Nordkorea|Nordkorea liegt in Ostasien.
-4750|adj|pünktlich|Er ist immer pünktlich.
-4766|verb|ähneln, ähnelt, ähnelte, hat geähnelt|Er ähnelt seinem Vater sehr.
 4773|das|das Tennis|Tennis ist ein beliebter Sport.
-4824|der|der Gruß|Ein herzlicher Gruß an alle!
 4862|verb|auslegen, legt aus, legte aus, hat ausgelegt|Er legt den Plan auf den Tisch aus.
 4889|verb|abdecken, deckt ab, deckte ab, hat abgedeckt|Er deckt den Tisch mit einer Decke ab.
 4901|adj|unnötig|Das war ein unnötiger Kommentar.
 4912|der|der Pfad|Der Pfad führt durch den Wald.
-4931|verb|mustern, mustert, musterte, hat gemustert|Er mustert die Ware genau.
-4938|adj|brav|Das Kind ist sehr brav.
-4947|das|das Brett|Das Brett ist aus Holz.
-4960|verb|mitspielen, spielt mit, spielte mit, hat mitgespielt|Er spielt im Team mit.
 4985|adj|östlich|Der Wind kommt aus östlicher Richtung.
-5002|der|der Specht|Der Specht klopft am Baum.
 5021|verb|ernten, erntet, erntete, hat geerntet|Er erntet die Früchte im Herbst.
 5025|die|die Ratte|Die Ratte versteckt sich im Keller.
 5087|der|der Spalt|Der Spalt in der Wand ist sichtbar.
 5102|adv|halbwegs|Er hat die Aufgabe halbwegs verstanden.
-3331|verb|abschneiden, schneidet ab, schnitt ab, hat abgeschnitten|Er schneidet das Seil ab.
-4141|adj|flüchtig|Der Täter ist flüchtig.
-2239|die|die Hose|Die Hose passt perfekt.
 1704|die|die Leiter|Die Leiter steht sicher an der Wand.
-1603|adj|angeblich|Er ist angeblich im Urlaub.
 3668|die|die Trauer|Die Trauer war groß nach dem Verlust.
-459|die (pl)|die Blumen|Die Blumen blühen im Garten.
-833|die|die Angabe|Die Angabe war unvollständig.
-562|adj|gering|Der Schaden ist gering.
-3087|adj|permanent|Er ist permanent beschäftigt.
-919|das|das Blut|Das Blut floss aus der Wunde.
-4583|der|der Stab|Der Stab ist aus Metall.
 3532|verb|locken, lockt, lockte, hat gelockt|Er lockt die Katze mit Futter.
-3944|verb|bestrafen, bestraft, bestrafte, hat bestraft|Er wurde streng bestraft.
-1108|der|der Beruf|Er liebt seinen Beruf.
-3607|adj|düster|Das Wetter ist heute düster.
-4194|die|die Vermutung|Die Vermutung war korrekt.
 1946|die|die Erwartung|Die Erwartungen wurden erfüllt.
-2013|der|der Knochen|Der Knochen ist gebrochen.
 1607|das|das Krankenhaus|Das Krankenhaus ist gut ausgestattet.
-712|das|das Molekül|Das Molekül ist winzig klein.
-3941|verb|zulegen, legt zu, legte zu, hat zugelegt|Er legt beim Tempo zu.
 1565|die|die Runde|Die Runde endet nach zehn Minuten.
-382|das|das Spiel|Das Spiel ist spannend.
 1539|adj|global|Das Unternehmen ist global tätig.
-1541|die|die Annahme|Die Annahme war falsch.
 1061|part|ruhig|Du kannst ruhig nach Hause gehen.
-3802|adj|reichlich|Es gab reichlich zu essen.
 2617|verb|bedrohen, bedroht, bedrohte, hat bedroht|Er bedroht ihn mit einem Messer.
-588|verb|rufen, ruft, rief, hat gerufen|Er ruft laut nach Hilfe.
 167|das|das Kind|Das Kind spielt im Sandkasten.
 2047|verb|zugehen, geht zu, ging zu, ist zugegangen|Er geht langsam auf die Tür zu.
-144|adv|nun, nu|Nun beginnt der Unterricht.
-714|verb|ankommen, kommt an, kam an, ist angekommen|Der Zug kommt pünktlich an.
-1783|der|der Vogel|Der Vogel singt laut.
-2067|adv|nochmal|Sag das bitte nochmal.
-3774|adj|schuldig|Er fühlt sich schuldig.
-3999|verb|zumachen, macht zu, machte zu, hat zugemacht|Er macht das Fenster zu.
 160|verb|denken, denkt, dachte, hat gedacht|Er denkt oft an seine Kindheit.
-177|verb|nehmen, nimmt, nahm, hat genommen|Er nimmt den Bus zur Arbeit.
-343|pron|daran, dran|Er denkt immer daran.
 494|die|die Regel|Die Regel ist einfach zu verstehen.
 726|adv|zuletzt|Zuletzt sah ich ihn in der Stadt.
-745|adj|grün|Der Apfel ist noch grün.
-646|die|die Partei|Die Partei gewann die Wahl.
 910|verb|binden, bindet, band, hat gebunden|Er bindet die Krawatte geschickt.
 1217|verb|fassen, fasst, fasste, hat gefasst|Er fasst den Entschluss, zu bleiben.
-2755|der|der Feind|Der Feind rückte näher.
 4027|das|das Bedenken|Er hat starke Bedenken geäußert.
-4885|das|das Silber|Das Besteck ist aus Silber.
 1170|die|die Macht|Er hat viel Macht in der Firma.
-1641|der|der Bus|Der Bus kommt um acht Uhr.
 2030|verb|wagen, wagt, wagte, hat gewagt|Er wagt den Sprung ins Ungewisse.
 3325|verb|anklagen, klagt an, klagte an, hat angeklagt|Er wird wegen Betrugs angeklagt.
 413|der|der Moment|Der Moment ist perfekt für ein Foto.
-2180|der|der Hunger|Er hat großen Hunger.
 2238|der|der Nutzen|Der Nutzen des Produkts ist fraglich.
-24|prep|auf|Er steigt auf den Berg.
-58|conj|wenn|Wenn er kommt, gehen wir los.
-64|prep|über|Wir reden über das Problem.
-87|adj|groß|Der Baum wächst groß.
-838|adj|laut|Das Kind schreit laut.
-100|prep|bis|Warte, bis er fertig ist.
-125|verb|leben, lebt, lebte, hat gelebt|Er lebt in der Stadt.
-132|verb|finden, findet, fand, hat gefunden|Er findet den Schlüssel.
-146|adv|heute|Heute scheint die Sonne.
-156|pron|ihnen|Ich gebe ihnen das Buch.
-157|pron|Ihnen|Darf ich Ihnen helfen?
-189|part|eigentlich|Eigentlich wollte ich gehen.
-209|adj|spät|Er kam spät nach Hause.
-210|adv|bereits|Er hat bereits gegessen.
-227|verb|schreiben, schreibt, schrieb, hat geschrieben|Sie schreibt einen Brief.
-308|verb|treffen, trifft, traf, hat getroffen|Er trifft den Freund im Park.
-325|verb|scheinen, scheint, schien, hat geschienen|Die Sonne scheint hell.
-336|pron|damals|Damals war alles anders.
-354|adj|deutlich|Er spricht deutlich und klar.
 366|verb|verlieren, verliert, verlor, hat verloren|Er verliert oft seinen Schlüssel.
-377|die|die Minute|In einer Minute ist er hier.
 418|die|die Gesellschaft|Die Gesellschaft wächst stetig.
 428|adv|zunächst|Zunächst erklärt er die Regeln.
-439|das|das System|Das System funktioniert gut.
-462|adj|häufig|Er kommt häufig zu spät.
-466|adv|früher|Früher war alles besser.
-508|verb|verbinden, verbindet, verband, hat verbunden|Er verbindet die Kabel.
-522|pron|dadurch|Dadurch lernte er viel.
-524|die|die Weise|Auf diese Weise klappt es.
-576|pron|darum|Darum bat er um Hilfe.
-641|adj|zusätzlich|Er erhält zusätzliches Geld.
-760|verb|beobachten, beobachtet, beobachtete, hat beobachtet|Er beobachtet die Vögel.
-807|verb|entdecken, entdeckt, entdeckte, hat entdeckt|Er entdeckt eine neue Insel.
-817|der|der Rahmen|Der Rahmen ist aus Holz.
-831|conj|weder|Er hat weder Zeit noch Geld.
-851|adj|rechte (r, s)|Er hob die rechte Hand.
 3598|adj|mühsam|Er erledigt die Aufgabe mühsam.
-1758|adj|fein|Der Kuchen schmeckt fein.
-2082|das|das Ei|Das Ei ist hart gekocht.
-3902|der|der Stoß|Er erhielt einen harten Stoß.
-2146|das|das Motiv|Das Motiv ist klar erkennbar.
-3879|die|die Feder|Die Feder ist leicht.
-3959|die|die Uniform|Die Uniform sitzt perfekt.
-1646|adj|perfekt|Er spricht perfekt Deutsch.
-1045|verb|greifen, greift, griff, hat gegriffen|Er greift nach dem Seil.
 1049|verb|ermöglichen, ermöglicht, ermöglichte, hat ermöglicht|Das neue Gesetz ermöglicht es.
 1057|verb|wiederholen, wiederholt, wiederholte, hat wiederholt|Er wiederholt die Übung täglich.
-1064|adv|stets|Er ist stets freundlich.
-1161|verb|fördern, fördert, förderte, hat gefördert|Er fördert das Projekt aktiv.
 1244|conj|falls|Falls es regnet, bleiben wir drinnen.
 1288|verb|ansprechen, spricht an, sprach an, hat angesprochen|Er spricht das Thema offen an.
-1294|verb|ablehnen, lehnt ab, lehnte ab, hat abgelehnt|Er lehnt das Angebot ab.
 1299|verb|angehen, geht an, ging an, ist angegangen|Das Licht geht automatisch an.
-1319|die|die Saison|Die Saison endet im Herbst.
-1358|adj|maximal|Er gibt maximal 50 Euro aus.
 1368|verb|schätzen, schätzt, schätzte, hat geschätzt|Er schätzt die Arbeit der Kollegen.
-1393|die|die See|Die See ist heute ruhig.
 1406|verb|erzeugen, erzeugt, erzeugte, hat erzeugt|Er erzeugt Energie mit Solarzellen.
 1422|verb|begreifen, begreift, begriff, hat begriffen|Er begreift schnell die Zusammenhänge.
-1429|verb|ausschließen, schließt aus, schloss aus, hat ausgeschlossen|Er schließt jede Lüge aus.
 1478|adv|niemals|Er wird das niemals vergessen.
 1504|adv|möglicherweise|Möglicherweise kommt er morgen.
-1530|verb|aufstellen, stellt auf, stellte auf, hat aufgestellt|Er stellt die Möbel auf.
 1558|verb|zurückgehen, geht zurück, ging zurück, ist zurückgegangen|Er geht zu seinen Eltern zurück.
 1568|adv|desto|Je mehr er übt, desto besser wird er.
-1575|verb|überleben, überlebt, überlebte, hat überlebt|Er überlebt das Unglück.
-1637|der|der Dienst|Er hat heute Dienst.
-1645|adj|freundlich|Er begrüßt alle freundlich.
-1658|die|die AfD (Alternative für Deutschland)|Die AfD gewann an Stimmen.
-1713|die|die Weile|Er bleibt eine Weile hier.
-1738|verb|investieren, investiert, investierte, hat investiert|Er investiert in Immobilien.
-1739|verb|bestellen, bestellt, bestellte, hat bestellt|Er bestellt das Essen online.
-1759|der|der Stern|Der Stern leuchtet hell.
-1797|verb|überwiegen, überwiegt, überwog, hat überwogen|Seine Vorteile überwiegen.
-1804|verb|fließen, fließt, floss, ist geflossen|Der Fluss fließt ruhig dahin.
 1817|die|die Verhandlung|Die Verhandlung beginnt morgen.
-1877|verb|zugeben, gibt zu, gab zu, hat zugegeben|Er gibt seinen Fehler zu.
 1898|die|die Zigarette|Die Zigarette liegt auf dem Tisch.
-1908|die|die Tante|Die Tante kommt zu Besuch.
 1924|verb|pflegen, pflegt, pflegte, hat gepflegt|Er pflegt seinen kranken Vater.
 1927|verb|ableiten, leitet ab, leitete ab, hat abgeleitet|Er leitet die Regeln aus dem Text ab.
 1988|adv|hierbei|Hierbei handelt es sich um ein Problem.
@@ -3512,175 +2141,82 @@
 2125|verb|enttäuschen, enttäuscht, enttäuschte, hat enttäuscht|Er enttäuscht seine Eltern nie.
 2127|die|die Träne|Eine Träne rollt über seine Wange.
 2128|adj|damalig|Die damalige Entscheidung war schwer.
-2135|das|das Rennen|Das Rennen ist spannend.
-2186|verb|lohnen (sich), lohnt, lohnte, hat gelohnt|Der Aufwand lohnt sich.
 2210|verb|erfinden, erfindet, erfand, hat erfunden|Er erfindet ständig neue Geschichten.
 2213|der|der Landtag|Der Landtag debattiert über das Gesetz.
 2226|verb|schmecken, schmeckt, schmeckte, hat geschmeckt|Das Essen schmeckt hervorragend.
 2263|verb|bedienen, bedient, bediente, hat bedient|Er bedient die Maschine mühelos.
 2289|verb|besprechen, bespricht, besprach, hat besprochen|Sie besprechen die Details des Plans.
-2310|der|der Verdacht|Der Verdacht fällt auf ihn.
 2325|verb|zuordnen, ordnet zu, ordnete zu, hat zugeordnet|Er ordnet die Dateien dem Projekt zu.
-2340|die|die Variante|Diese Variante ist besser.
 2354|adj|dumm|Das war eine dumme Entscheidung.
 2364|pron|selbe (r, s)|Er trägt denselben Hut wie gestern.
-2413|adv|geradezu|Das ist geradezu unglaublich.
-2474|num|fünfzig|Er zählt bis fünfzig.
-2552|verb|winken, winkt, winkte, hat gewinkt|Er winkt dem Zug nach.
 2556|adj|verdammt|Das war ein verdammt guter Film!
 2619|adj|klug|Er ist klug und vorausschauend.
 2723|die|die Norm|Die Normen werden oft überprüft.
-2740|der, die, das|die Alte|Die Alte wohnt noch hier.
-2776|die|die Niere|Seine Niere arbeitet gut.
-2803|adj|übel|Mir ist übel nach dem Essen.
 2820|der|der Maler|Der Maler arbeitet an einem neuen Bild.
 2834|der|der Planet|Der Planet kreist um die Sonne.
-2862|verb|gewähren, gewährt, gewährte, hat gewährt|Er gewährt ihm Asyl.
 2878|verb|klagen, klagt, klagte, hat geklagt|Er klagt über Rückenschmerzen.
 2933|verb|ärgern, ärgert, ärgerte, hat geärgert|Er ärgert seine kleine Schwester.
-2994|pron|hierfür|Hierfür gibt es keinen Grund.
-3012|verb|bekämpfen, bekämpft, bekämpfte, hat bekämpft|Er bekämpft die Müdigkeit.
 3018|der|der Sender|Der Sender strahlt das Programm aus.
-3105|adv|hinein|Er geht in den Raum hinein.
-3114|verb|aufsetzen, setzt auf, setzte auf, hat aufgesetzt|Er setzt die Brille auf.
 3174|verb|vorübergehen, geht vorüber, ging vorüber, ist vorübergegangen|Der Schmerz ging schnell vorüber.
 3239|der|der Wasserstoff|Wasserstoff ist ein wichtiges Element.
 3291|die|die Einschränkung|Die Einschränkung gilt für alle.
-3350|verb|flüchten, flüchtet, flüchtete, ist geflüchtet|Er flüchtet vor dem Unwetter.
 3369|adv|aufeinander|Sie sind aufeinander angewiesen.
-3372|verb|entwerfen, entwirft, entwarf, hat entworfen|Er entwirft das neue Gebäude.
 3376|verb|schaden, schadet, schadete, hat geschadet|Zu viel Zucker schadet den Zähnen.
-3394|adj|sorgfältig|Er arbeitet sorgfältig.
-3403|die|die Gerechtigkeit|Gerechtigkeit muss sein.
-3413|verb|verweigern, verweigert, verweigerte, hat verweigert|Er verweigert die Aussage.
 3460|die|die Solidarität|Die Solidarität war stark spürbar.
 3497|adj|stundenlang|Er wartet stundenlang im Regen.
 3517|die|die Meldung|Die Meldung verbreitete sich schnell.
-3595|adv|hinzu|Er kommt hinzu und hilft mit.
-3601|der|der Anruf|Der Anruf kam spät abends.
 3655|verb|einschätzen, schätzt ein, schätzte ein, hat eingeschätzt|Er schätzt die Lage richtig ein.
-3704|pron|wieviel|Wieviel kostet das Buch?
-3761|verb|zurückgeben, gibt zurück, gab zurück, hat zurückgegeben|Er gibt das Geld zurück.
-3789|die|die Unternehmung|Die Unternehmung war riskant.
 3819|verb|bekennen, bekennt, bekannte, hat bekannt|Er bekennt sich zu seinen Fehlern.
-3837|die|die Hemmung|Er hat keine Hemmungen mehr.
-3840|die|die Wunde|Die Wunde heilt langsam.
-3844|verb|reiben, reibt, rieb, hat gerieben|Er reibt sich die Augen.
-3903|der|der Unsinn|Das ist doch Unsinn!
 3908|adv|nirgendwo|Ich finde den Schlüssel nirgendwo.
 3974|adj|gemütlich|Wir sitzen gemütlich beisammen.
-4069|verb|lauschen, lauscht, lauschte, hat gelauscht|Er lauscht der Musik.
 4087|verb|hervorheben, hebt hervor, hob hervor, hat hervorgehoben|Er hebt die wichtigsten Punkte hervor.
-4104|der|der Bube|Der Bube spielt im Hof.
 4150|adj|zuverlässig|Er ist ein zuverlässiger Partner.
-4206|das|das Gramm|Ein Gramm Salz genügt.
-4232|verb|aufschlagen, schlägt auf, schlug auf, hat aufgeschlagen|Er schlägt das Buch auf.
-4271|verb|ausbleiben, bleibt aus, blieb aus, ist ausgeblieben|Der Regen blieb aus.
 4279|adj|nördlich|Nördlich von Berlin liegt ein See.
 4311|die|die Panik|Die Panik brach plötzlich aus.
-4330|adv|nunmehr|Er lebt nunmehr in Hamburg.
-4422|der|der Anreiz|Der Anreiz war groß genug.
 4449|verb|unterstreichen, unterstreicht, unterstrich, hat unterstrichen|Er unterstreicht die wichtige Passage.
-4483|der|der Kuchen|Der Kuchen schmeckt süß.
-4492|adj|humanitär|Er leistet humanitäre Hilfe.
 4503|adj|gänzlich|Er hat das gänzlich vergessen.
 4568|verb|einteilen, teilt ein, teilte ein, hat eingeteilt|Er teilt die Arbeit geschickt ein.
 4595|der|der Schadenersatz|Er erhält Schadenersatz für den Unfall.
 4625|verb|befestigen, befestigt, befestigte, hat befestigt|Er befestigt das Bild an der Wand.
-4637|verb|übernachten, übernachtet, übernachtete, hat übernachtet|Er übernachtet im Hotel.
 4640|verb|zuweisen, weist zu, wies zu, hat zugewiesen|Er weist jedem eine Aufgabe zu.
 4666|verb|knüpfen, knüpft, knüpfte, hat geknüpft|Er knüpft Kontakte auf der Messe.
 4706|verb|koppeln, koppelt, koppelte, hat gekoppelt|Er koppelt den Anhänger an das Auto.
 4726|die|die Legende|Die Legende erzählt von Helden.
-4745|das|das Ensemble|Das Ensemble probt jeden Tag.
-4860|verb|antreffen, trifft an, traf an, hat angetroffen|Er trifft ihn zufällig an.
 4913|verb|riskieren, riskiert, riskierte, hat riskiert|Er riskiert alles für den Erfolg.
 4935|adj|verlässlich|Er ist ein verlässlicher Kollege.
 4939|der|der Cousin|Der Cousin besucht uns im Sommer.
-5013|verb|heilen, heilt, heilte, hat geheilt|Der Arzt heilt den Patienten.
 5019|adv|eigens|Er kam eigens für das Konzert.
 5031|verb|hindeuten, deutet hin, deutete hin, hat hingedeutet|Alles deutet auf einen Fehler hin.
-5039|adv|zuweilen|Er kommt zuweilen zu spät.
 5095|der|der Missbrauch|Der Missbrauch wurde gemeldet.
-5103|adj|jugendlich|Er wirkt sehr jugendlich.
-5107|die|die Tablette|Die Tablette wirkt schnell.
-4669|adv|nebenan|Er wohnt gleich nebenan.
-4557|die|die Warnung|Die Warnung kam zu spät.
-4451|die|die Bande|Die Bande plant einen Raub.
-2464|die|die Ressource|Die Ressource ist begrenzt.
-4287|adj|ärztlich|Er sucht ärztlichen Rat.
 4372|adj|vorig|Im vorigen Jahr war es anders.
-2283|adj|glatt|Die Straße ist glatt.
-3222|der|der Suizid|Der Suizid wurde verhindert.
-782|das|das Angebot|Das Angebot gilt nur heute.
-3786|das|das Getränk|Das Getränk ist erfrischend.
-580|die|die Antwort|Die Antwort ist korrekt.
-4606|der|der Fond|Der Fond wächst stetig.
-2539|adj|dramatisch|Die Lage ist dramatisch.
-1404|die|die Erkenntnis|Die Erkenntnis kam spät.
-1602|die|die Steuer|Die Steuer wurde erhöht.
-450|pron|jene (r, s)|Jenes Buch habe ich gelesen.
-2636|der|der Pass|Der Pass ist abgelaufen.
 3820|adj|dauernd|Er redet dauernd über das Wetter.
 3098|die|die Disziplin|Disziplin ist wichtig im Sport.
 3134|der|der Ursprung|Der Ursprung der Idee liegt in Asien.
-425|das|das Ding|Das Ding ist kaputt.
-2642|das|das Wohnzimmer|Das Wohnzimmer ist gemütlich.
-4777|der|der Spaziergang|Der Spaziergang war erholsam.
 1618|die|die Mark|Die Mark war früher die Währung.
-4246|die|die Lampe|Die Lampe leuchtet hell.
-2861|das|das Finale|Das Finale ist spannend.
-1838|adj|kurzfristig|Er plant alles kurzfristig.
-3659|der|der Rohstoff|Der Rohstoff ist knapp.
 3878|verb|erhoffen, erhofft, erhoffte, hat erhofft|Er erhofft sich bessere Ergebnisse.
-3834|adj|bescheiden|Er bleibt immer bescheiden.
-4652|der|der Diskurs|Der Diskurs war lebhaft.
-1102|der|der Schluss|Der Schluss kam überraschend.
-2422|die|die Serie|Die Serie wird fortgesetzt.
-3107|das|das Skript|Das Skript liegt bereit.
 4587|adj|empfindlich|Er reagiert empfindlich auf Kritik.
 4229|adj|elektromagnetisch|Elektromagnetische Felder umgeben uns.
 3955|der|der Stolz|Sein Stolz verbietet es ihm zu fragen.
 4674|die|die Fachhochschule|Die Fachhochschule bietet neue Kurse an.
-4029|verb|ermorden, ermordet, ermordete, hat ermordet|Er wurde kaltblütig ermordet.
 402|die|die Entwicklung|Die Entwicklung verlief positiv.
 549|das|das Jahrhundert|Das Jahrhundert neigt sich dem Ende zu.
-54|pron|was|Was hast du heute gesagt?
-95|part|doch|Komm doch bitte mal her!
-107|part|mal|Geh mal schnell nachsehen!
-186|pron|dazu|Was meinst du denn dazu?
-426|part|na|Na, wie läuft es bei dir?
 1215|part|hey|Hey, warte doch bitte auf mich!
 4036|interj|au|Au, das hat wirklich wehgetan!
 516|verb|gehören|Das Buch gehört eigentlich mir.
-1117|der|der Spaß|Der Spaß war wirklich riesig.
-523|pron|dagegen|Hast du etwas dagegen gesagt?
-3523|interj|hi|Hi, wie geht’s dir heute?
-1571|pron|woher|Weißt du, woher er kommt?
 200|verb|sprechen|Wir haben lange miteinander gesprochen.
 311|part|wohl|Das wird wohl nicht leicht werden.
 376|verb|essen|Ich habe gestern zu viel gegessen.
-3586|pron|wovon|Weißt du, wovon er spricht?
-1953|der|der Zahn|Der Zahn schmerzt seit Tagen.
-3515|pron|wonach|Wonach hast du gesucht?
-218|adj|kurz|Der Weg war wirklich kurz.
 593|adv|ebenso|Ich habe das ebenso verstanden.
-3483|der|der Schein|Der Schein trügt manchmal.
-390|adv|sonst|Sonst ist alles in Ordnung.
 565|verb|ansehen|Wir sollten uns das genauer ansehen.
 2131|die|die Pflicht|Es ist meine Pflicht, zu helfen.
 2705|der|der Tee|Der Tee ist heute besonders stark.
 166|part|erst|Ich habe es erst gestern erfahren.
-276|adj|weit|Der Weg ist ziemlich weit.
 533|adj|rot|Das Auto ist knallrot lackiert.
 20|pron|es|Es regnet schon den ganzen Tag.
-279|pron|dein|Ist das wirklich dein Ernst?
 2889|adj|weh|Mein Kopf tut schrecklich weh.
 327|verb|aussehen|Sie sieht heute besonders müde aus.
 767|verb|zählen|Kannst du bitte das Geld zählen?
 2943|verb|aufwachen|Ich bin heute früh aufgewacht.
-510|adv|endlich|Endlich haben wir gewonnen!
-1034|verb|aufstehen|Er musste früh aufstehen.
 1692|verb|senken|Sie hat den Preis deutlich gesenkt.
 2230|der|der Bauch|Mein Bauch fühlt sich komisch an.
 5090|der|der Zorn|Der Zorn war ihm deutlich anzusehen.
@@ -3688,46 +2224,22 @@
 974|verb|teilen|Kannst du den Kuchen mit mir teilen?
 1351|der|der Fußball|Der Fußball war heute spannend.
 1851|der|der Muskel|Der Muskel am Bein schmerzt stark.
-2883|verb|dastehen|Er blieb stumm da stehen.
 3352|verb|übertreiben|Man sollte es nicht übertreiben.
 2714|verb|empfangen|Er hat uns herzlich empfangen.
 3204|verb|formen|Wir formen die Tonfiguren gemeinsam.
-3934|verb|quälen|Das Gewissen hat ihn gequält.
 4755|verb|färben|Sie hat sich die Haare blond gefärbt.
-4928|die|die Dose|Die Dose ist fast leer.
 4021|adj|ländlich|Das Dorf ist sehr ländlich gelegen.
 347|adj|rund|Der Tisch hat eine runde Form.
-185|pron|wer|Weißt du, wer das ist?
 476|verb|fehlen|Dir wird nichts fehlen, versprochen!
-1176|verb|schreien|Das Baby hat laut geschrien.
 35|pron|dies|Dies ist mein letztes Angebot.
-52|pron|all|All das macht keinen Sinn.
 86|verb|gehen|Wir müssen jetzt wirklich gehen.
-618|verb|wohnen|Wir wohnen schon lange hier.
-1671|der|der Hals|Mein Hals tut heute weh.
-128|part|selbst|Ich habe es selbst gemacht.
-207|verb|mögen|Ich mag dieses Lied sehr.
-245|num|vier|Er hat vier Bücher gekauft.
 685|verb|lösen|Wie willst du das Problem lösen?
 798|adj|erfolgreich|Das Projekt war sehr erfolgreich.
-1344|das|das Blatt|Das Blatt hat sich gewendet.
-1388|verb|enden|Der Film endet gleich.
-1714|verb|drängen|Sie drängten zur Tür hinaus.
-2045|verb|aufgehen|Die Sonne geht früh auf.
 2725|verb|decken|Wir decken den Tisch für das Abendessen.
-2814|adv|hierher|Komm schnell hierher!
-3127|adj|einig|Wir sind uns darüber einig.
 3230|verb|kehren|Er kehrt die Blätter zusammen.
-4412|verb|eilen|Ich musste zur Arbeit eilen.
 56|verb|sagen|Ich wollte dir etwas Wichtiges sagen.
-315|adj|sicher|Bist du dir wirklich sicher?
 1068|die|die Ferse|Die Ferse schmerzt beim Gehen.
-1262|verb|stören|Ich wollte dich nicht stören.
-1434|verb|retten|Der Arzt konnte ihn retten.
 1945|verb|schwimmen|Ich schwimme jeden Morgen im See.
-4821|verb|abreisen|Wir werden morgen abreisen.
-3349|die|die Faust|Er ballte die Faust vor Wut.
-3358|verb|wiegen|Er wiegt das Paket genau.
 1864|der|der Ball|Der Ball ist über den Zaun geflogen.
 1437|die|die Gewalt|Die Gewalt hat hier keinen Platz.
 953|das|das Glas|Das Glas ist mir aus der Hand gefallen.
@@ -3739,13 +2251,10 @@
 937|verb|feiern|Wir feiern heute eine große Party.
 2487|verb|verleihen|Die Bibliothek verleiht auch DVDs.
 2773|das|das Vitamin|Dieses Obst enthält viel Vitamin C.
-3790|verb|vorlesen|Kannst du mir bitte vorlesen?
 1272|das|Griechenland|Griechenland ist ein wunderschönes Land.
 841|die|die Sicherheit|Die Sicherheit hat oberste Priorität.
 2410|die|die Vielfalt|Die Vielfalt der Blumen ist erstaunlich.
 1867|verb|verabschieden|Wir haben uns herzlich verabschiedet.
-2315|verb|ausführen|Er wird den Plan ausführen.
-4588|die|die Finanzen|Die Finanzen sind in Ordnung.
 3138|die|die Schwäche|Die Schwäche überwältigte ihn plötzlich.
 3809|verb|besagen|Die Regeln besagen das Gegenteil.
 2368|der|der Konsument|Der Konsument hat hohe Erwartungen.
@@ -3754,33 +2263,23 @@
 946|verb|beziehen|Sie beziehen das neue Haus im Herbst.
 1720|verb|erläutern|Kannst du das näher erläutern?
 783|das|das Projekt|Das Projekt läuft seit einem Jahr.
-839|num|eins|Ich habe nur noch eins übrig.
 5043|pron|irgendjemand|Hat irgendjemand die Tür offen gelassen?
 2910|verb|herausstellen (sich)|Es wird sich bald herausstellen.
-753|verb|erfahren|Ich habe viel Neues erfahren.
-223|adv|etwa|Kommst du etwa nicht mit?
 3772|der|der Radius|Der Radius des Kreises ist bekannt.
 3017|die|die Philosophie|Die Philosophie lehrt uns das Denken.
-548|verb|bitten, bittet, bat, hat gebeten|Er bat um eine zweite Chance.
 4214|der|der Gründer|Der Gründer verließ die Firma schnell.
 2018|das|das Marketing|Das Marketing lockte viele Kunden an.
 668|adv|jeweils|Die Spiele beginnen jeweils um acht.
 4223|prep|einschließlich|Einschließlich der Getränke, bitte!
 2265|adj|nachhaltig|Sie planen nachhaltig und handeln.
-1122|adj|ernst|Er sprach in ernstem Ton.
 1087|der|der Student|Der Student arbeitet und studiert.
 3538|verb|aufbringen, bringt auf, brachte auf, hat aufgebracht|Sie brachte das Geld schnell auf.
 2921|die|die Schönheit|Er bewunderte die Schönheit lange.
 698|adj|gleichzeitig|Sie lachten gleichzeitig laut.
 2088|die|die Soziologie|Soziologie erklärt soziale Strukturen.
 5111|adj|zuversichtlich|Er bleibt zuversichtlich trotz allem.
-3233|die|die Aktivierung|Aktiviere das Konto sofort.
 5011|die|die Fluggesellschaft|Die Fluggesellschaft erhöhte die Preise.
-2770|der|der Ärger|Der Ärger kam schnell auf.
-1378|der|der Vertreter|Der Vertreter sprach für uns.
 5070|der|der Stadtrat|Der Stadtrat beschloss neue Regeln.
-2816|der|der Sprung|Er wagte den Sprung mutig.
-2367|die|die FDP (Freie Demokratische Partei)|Die FDP gewann neue Wähler.
 3442|verb|aufklären, klärt auf, klärte auf, hat aufgeklärt|Sie klärten das Missverständnis auf.
 3951|der|der Asylbewerber|Der Asylbewerber wartet geduldig.
 4592|die|die Physiologie|Physiologie untersucht Körperfunktionen.
@@ -5400,7 +3899,7 @@
 1432|der|der Dienstag|Am Dienstag habe ich frei.
 1440|verb|beeinflussen, beeinflusst, beeinflusste, hat beeinflusst|Er beeinflusst die Meinung der Gruppe.
 1722|das|Großbritannien|Großbritannien verließ die EU.
-1762|num|null|Die Temperatur fiel auf null Grad.
+1762|num||Die Temperatur fiel auf null Grad.
 1796|verb|teilnehmen, nimmt teil, nahm teil, hat teilgenommen|Er nimmt am Wettbewerb teil.
 1868|verb|ausdrücken, drückt aus, drückte aus, hat ausgedrückt|Er drückte seine Gefühle deutlich aus.
 1887|verb|vornehmen (sich), nimmt vor, nahm vor, hat vorgenommen|Er nahm sich vor, mehr zu lesen.
