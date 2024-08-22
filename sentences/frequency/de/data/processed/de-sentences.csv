@@ -1,17 +1,17 @@
 |sentence_de
 98|Mir schmeckt das Essen sehr gut.
 137|Wo hast du das Buch gelassen?
-16|Er wird Arzt, wenn er fertig studiert hat.
+16|Er wird bald kommen.
 37|Wie hast du das geschafft?
 72|Du hast den besten Kuchen gebacken.
 88|Komm her, ich bin hier!
 110|Er steht früh auf und geht joggen.
 184|Nein, das kann nicht wahr sein!
-185|Wer hat das gesagt?
+185|Wer kommt mit?
 720|Los, wir müssen jetzt gehen!
 1551|Der arme Junge verlor sein Spielzeug.
 54|Was machst du heute?
-62|Ja, das stimmt!
+62|Ja, das stimmt.
 92|Also, wann treffen wir uns?
 161|Er war dabei, als es passierte.
 174|Dort hinten steht ein Baum.
@@ -23,7 +23,7 @@
 625|Der Vertrag wurde fest unterschrieben.
 689|Wenn du okay bist, gehen wir weiter.
 775|Er ging hin, um es selbst zu sehen.
-800|Die Gerüchte haben sich als wahr erwiesen.
+800|Das Gerücht ist wahr.
 855|Er ist aktiv im Sportverein.
 1828|Der Jude erzählte uns seine Geschichte.
 2240|Er lügt immer, wenn er Angst hat.
@@ -47,7 +47,7 @@
 688|Das kommt öfter vor, als man denkt.
 927|Dieses Land ist mir völlig fremd.
 934|Vorher hat er alles vorbereitet.
-1042|Er schwieg, als die Frage gestellt wurde.
+1042|Er schweigt während der Sitzung.
 1078|Er ging hinaus in die Nacht.
 1397|Er fühlte sich krank und ging ins Bett.
 1426|Der Schmerz fühlt sich völlig real an.
@@ -71,13 +71,13 @@
 143|Er blieb die ganze Nacht wach.
 158|Er heißt Max und kommt aus Berlin.
 182|Ich höre oft Musik beim Arbeiten.
-186|Was sagst du dazu?
+186|Er gehört dazu.
 190|Das war seine letzte Chance.
 194|Er glaubt an das Gute im Menschen.
 246|Heute fühle ich mich schon besser.
 417|Niemand wusste die Antwort.
 419|Er wartet auf den Bus.
-426|Na, wie geht’s dir?
+426|Na, was gibt’s Neues?
 487|Die Folge des Unfalls war schwer.
 500|Er lacht über den Witz.
 628|Er erlebt das Abenteuer seines Lebens.
@@ -115,7 +115,7 @@
 41|Ihr habt das gut gemacht!
 44|Ich bleibe bei meiner Meinung.
 49|Er ist noch nicht fertig.
-65|Da ist das Buch!
+65|Da ist der Schlüssel.
 75|Ich will das morgen erledigen.
 81|Er kommt morgen nach Hause.
 82|Mir gefällt das Lied.
@@ -133,11 +133,11 @@
 296|Er versucht, das Problem zu lösen.
 415|Darin liegt das Geheimnis.
 502|Er kam sofort, als ich rief.
-523|Er war dagegen, aber es passierte trotzdem.
+523|Ich bin dagegen.
 534|Das ist halt so, akzeptier es.
 606|Der Junge spielt im Park.
 619|Er bewegt den Tisch in die Ecke.
-626|Aktuell gibt es keine neuen Informationen.
+626|Das Thema ist aktuell.
 629|Diese Aufgabe war relativ leicht.
 636|Das Gesetz wurde geändert.
 645|Ach, das wusste ich nicht!
@@ -176,7 +176,7 @@
 2576|Der Ball rollt den Hügel hinunter.
 2761|Er hasst es, früh aufzustehen.
 3377|Er blieb stumm und sagte kein Wort.
-3523|Hi, wie geht's dir?
+3523|Hi, wie geht’s?
 3776|Er zielt genau auf die Mitte.
 4269|Er löst den alten Reifen ab.
 4955|Er beantragte Asyl in Deutschland.
@@ -203,7 +203,7 @@
 436|Was ist hier passiert?
 451|Er erinnert sich an das Treffen.
 453|Was bedeutet dieses Zeichen?
-476|Ihm fehlt der Mut.
+476|Dir fehlt der Mut.
 585|Er hob den Arm zur Begrüßung.
 605|Er holt die Zeitung aus dem Briefkasten.
 616|Der Druck auf den Knopf ist zu stark.
@@ -227,7 +227,7 @@
 1104|Das Volk wählte einen neuen Anführer.
 1176|Er schreit laut vor Wut.
 1181|Solches Verhalten ist typisch für sie.
-1215|Hey, pass auf!
+1215|Hey, komm mal her!
 1219|Er ruft seinen Freund an.
 1243|Er kam aus dem Haus heraus.
 1545|Er kommt morgen aus dem Urlaub zurück.
@@ -245,7 +245,7 @@
 2093|Afrika hat viele verschiedene Kulturen.
 2559|Drogenhandel ist in jedem Land illegal.
 2592|Der Erbe trat sein Erbe an.
-2673|Er wurde wütend, als er die Nachricht hörte.
+2673|Er ist wütend geworden.
 2789|Er berät die Kunden freundlich.
 3048|Er seufzt tief, als er das hörte.
 3095|Das Taxi kam pünktlich.
@@ -275,7 +275,7 @@
 5082|Das Obst liegt frisch auf dem Tisch.
 23|Er kommt gleich zurück.
 27|Er steht an der Tür.
-35|Dies ist mein Haus.
+35|Dies ist mein Stift.
 38|Wir gehen zusammen ins Kino.
 39|Ihr habt die Prüfung bestanden.
 45|Sein Auto steht vor der Tür.
@@ -299,7 +299,7 @@
 223|Er kommt etwa um 18 Uhr.
 250|Die Kinder spielen im Garten.
 256|Er versteht die Aufgabe nicht.
-279|Ist das dein Auto?
+279|Ist das dein Buch?
 283|Der nächste Zug kommt bald.
 297|Der Punkt ist klar formuliert.
 338|Sie lernt gerade für die Prüfung.
@@ -310,7 +310,7 @@
 472|Die Regel betrifft uns alle.
 485|Er nutzt jede Gelegenheit.
 494|Die Regel ist eindeutig.
-538|Er bittet um Hilfe.
+538|Er braucht die Hilfe.
 548|Er bittet um mehr Zeit.
 555|Das Konzert fängt gleich an.
 608|Die Polizei ermittelt im Fall.
@@ -388,7 +388,7 @@
 2687|Er geht dorthin, wo er gebraucht wird.
 2794|Die Wut war deutlich spürbar.
 2887|Die Schokolade ist sehr süß.
-2889|Mein Kopf tut weh.
+2889|Es tut mir weh.
 2916|Er kommt gut mit allen aus.
 2956|Dänisch ist schwer zu lernen.
 3039|Das war eine peinliche Situation.
@@ -430,9 +430,9 @@
 302|Das Bild hängt an der Wand.
 327|Sie sieht heute gut aus.
 339|Er ist frei von Sorgen.
-387|Er hat zehn Finger.
+387|Ich habe zehn Bücher.
 437|Manchmal gehe ich spazieren.
-444|Er erwartet Besuch.
+444|Er erwartet eine Antwort.
 449|Sie fühlt sich heute gut.
 452|Oh, das wusste ich nicht!
 501|Ich wünsche dir ebenfalls viel Glück.
@@ -441,7 +441,7 @@
 561|Wir sehen uns bald wieder.
 564|Er kauft das neue Buch.
 578|Die Menge jubelte lautstark.
-603|Das bleibt meine persönliche Entscheidung.
+603|Er nahm es persönlich.
 610|Er ist sich gewiss, dass es klappt.
 618|Er wohnt in Berlin.
 621|Sie nimmt das Gespräch auf.
@@ -478,7 +478,7 @@
 1865|Die Brust hebt sich beim Atmen.
 1878|Ah, das verstehe ich jetzt!
 1881|Der Vertrag wurde endgültig geschlossen.
-1904|Weshalb fragst du?
+1904|Weshalb bist du hier?
 1961|So eine Aufgabe ist fast unmöglich.
 2024|Er beruhigt das weinende Kind.
 2043|Die Medizin wirkt schnell.
@@ -509,7 +509,7 @@
 3171|Siehe die Anmerkung unten.
 3190|Sie ist im achten Monat schwanger.
 3229|Der Export ist gestiegen.
-3368|Er verwirrt die Gäste mit seinen Aussagen.
+3368|Das verwirrt ihn sehr.
 3468|Die Unruhe im Saal wächst.
 3520|Er agiert immer ruhig und besonnen.
 3627|Der Papst besucht das Land.
@@ -533,7 +533,7 @@
 4570|Der Zug fährt pünktlich los.
 4577|Er beleidigt niemanden ohne Grund.
 4586|Wir müssen anderswo suchen.
-4631|Er ist müde, gleichwohl arbeitet er weiter.
+4631|Es ist schwer, gleichwohl möglich.
 4703|Er ist fähig, die Aufgabe zu lösen.
 4792|Der Knopf ist abgegangen.
 4797|Er setzt sich auf den Stuhl.
@@ -605,7 +605,7 @@
 989|Es ist nichts übrig.
 992|Er drückt den Knopf.
 1029|Die Klasse schreibt einen Test.
-1034|Er steht früh auf.
+1034|Er steht schnell auf.
 1039|Er gerät in Schwierigkeiten.
 1075|Er meldet sich freiwillig.
 1170|Die Macht liegt bei ihm.
@@ -617,7 +617,7 @@
 1344|Ein Blatt fiel zu Boden.
 1388|Der Film endet bald.
 1412|Er schießt den Ball ins Tor.
-1458|Er lebt im Ausland.
+1458|Er reist ins Ausland.
 1509|Der Polizist regelte den Verkehr.
 1584|Er hat elf Punkte erzielt.
 1608|Er wendet das Blatt.
@@ -647,7 +647,7 @@
 2694|Der Magen knurrt laut.
 2725|Er deckt den Tisch.
 2775|Der Hafen ist voller Schiffe.
-2814|Komm bitte hierher!
+2814|Komm bitte hierher.
 3021|Ein Fleck auf dem Hemd.
 3028|Sein Verhalten war wirklich merkwürdig.
 3053|Wir brechen morgen früh auf.
@@ -656,7 +656,7 @@
 3096|Ich war vorhin noch dort.
 3127|Wir sind uns einig.
 3210|Er kam rechtzeitig zur Sitzung.
-3230|Er kehrt den Boden.
+3230|Er kehrt den Hof.
 3296|Er presst den Saft aus.
 3325|Der Anwalt klagt ihn an.
 3344|Norwegen hat schöne Fjorde.
@@ -695,7 +695,7 @@
 5028|Er lehnt sich an den Tresen.
 5035|Der Priester spricht zur Gemeinde.
 5050|Er war jüngst in Paris.
-5090|Der Zorn steht ihm ins Gesicht geschrieben.
+5090|Der Zorn war spürbar.
 33|Er ist größer als ich.
 55|Ich habe nur ein Buch.
 56|Sie sagt die Wahrheit.
@@ -999,7 +999,7 @@
 1691|Er zitiert den Autor.
 1754|Er erfasst die Daten.
 1763|Die Schicht endet um Mitternacht.
-1807|Für die Arbeit ist Erfahrung erforderlich.
+1807|Das ist erforderlich.
 1822|Achte auf die Regeln.
 1825|Die Industrie wächst.
 1844|England ist ein Land.
@@ -1262,7 +1262,7 @@
 3236|Er haut auf den Tisch.
 3238|Die Übertragung läuft.
 3243|Das Klima ändert sich.
-3311|Das Vorhaben scheiterte an der Finanzierung.
+3311|Das Vorhaben scheitert nicht.
 3378|Tja, so ist das Leben.
 3391|Er liebt die Dichtung.
 3409|Das Metall biegt sich.
@@ -1287,7 +1287,7 @@
 3969|Mode wechselt schnell.
 3987|Die Entropie nimmt zu.
 3995|Das ist alles Quatsch.
-4021|Das Dorf liegt in einer ländlichen Gegend.
+4021|Er lebt ländlich.
 4034|Der Staub bedeckt das alte Buch.
 4037|Er griff die Idee auf.
 4040|Das Wasser dringt ein.
@@ -1385,7 +1385,7 @@
 511|Die Energie der Sonne ist stark.
 522|Dadurch wurde es besser.
 524|Auf diese Weise geht es.
-552|Die Diskussion war öffentlich zugänglich.
+552|Er sprach öffentlich darüber.
 576|Er geht darum nicht hin.
 641|Zusätzlich gibt es mehr.
 665|Das Interesse am Thema wächst.
@@ -1764,7 +1764,7 @@
 4422|Das Geld ist ein Anreiz.
 4449|Er unterstrich den Text.
 4483|Der Kuchen schmeckt gut.
-4492|Die Organisation leistet humanitäre Hilfe.
+4492|Die Hilfe ist humanitär.
 4503|Das war gänzlich falsch.
 4516|Das römische Reich war mächtig.
 4568|Er teilt die Arbeit ein.
@@ -2523,7 +2523,7 @@
 4545|Die zeitgenössische Kunst ist beliebt.
 4548|Brandenburg ist eine Region.
 4633|Das Programm ist pädagogisch wertvoll.
-4674|Die Fachhochschule bietet duale Studiengänge.
+4674|Die Fachhochschule bietet viele Studiengänge.
 4693|Er begünstigt seine Freunde.
 4697|Er treibt das Projekt voran.
 4699|Er ließ seine Sachen zurück.
@@ -2849,7 +2849,7 @@
 2936|Das ist ausdrücklich verboten.
 2954|Die Zunge ist ein Muskel.
 3031|Er verknüpfte die Daten erfolgreich.
-3046|Die Menschheit steht vor Herausforderungen.
+3046|Die Menschheit muss handeln.
 3072|Sofern es regnet, bleiben wir.
 3139|Das Unternehmen hat ein Minus.
 3150|Der Irak liegt im Nahen Osten.
@@ -2879,7 +2879,7 @@
 4005|Der Engländer spricht Deutsch.
 4073|Er sprach zugunsten des Plans.
 4161|Die Maßnahmen waren drastisch.
-4287|Die ärztliche Untersuchung war gründlich.
+4287|Er sucht ärztlichen Rat.
 4300|Hunderttausend Menschen kamen.
 4306|Das Licht beleuchtet den Raum.
 4309|Der Regen erschwert die Fahrt.
@@ -3164,7 +3164,7 @@
 2866|Hast du jemals so etwas gesehen?
 2873|Sie verzweifelte an der Aufgabe.
 2963|Das ist eine subjektive Meinung.
-3017|Die Philosophie befasst sich mit dem Denken.
+3017|Die Philosophie des Unternehmens überzeugt.
 3034|Der Polizist erschoss den Täter.
 3115|Dieses Buch ist sehr langweilig.
 3122|Der Lehrer korrigiert die Tests.
@@ -3935,7 +3935,7 @@
 400|Die Meinungen gingen stark auseinander.
 4109|Die Nacherfüllung verlief reibungslos.
 2934|Ihre Persönlichkeit beeindruckte alle.
-1|Das sind die Kinder, die im Park spielen.
+1|Das ist der Plan.
 958|Künftige Projekte sind geplant.
 1153|Die Kosten betragen 10 Euro per Meter.
 1505|Er ist zuständig für die Organisation.
@@ -3956,7 +3956,7 @@
 2935|Die Truppe marschiert durch die Stadt.
 3014|Der Gehalt des Buches ist tiefgründig.
 3041|Der Nationalsozialist hielt eine Rede.
-3222|Der Suizid erschütterte die Gemeinschaft.
+3222|Der Suizid ist tragisch.
 3261|Das Produkt ist qualitativ hochwertig.
 3301|Das Datum wurde festgelegt.
 3467|Die Show war spektakulär.
@@ -4038,7 +4038,7 @@
 289|Es ist mir recht, wenn wir später gehen.
 307|Das Ergebnis entspricht den Erwartungen.
 481|Er kam zu spät, nämlich um zehn Minuten.
-809|Das Unternehmen ist wirtschaftlich stabil.
+809|Das Land wächst wirtschaftlich.
 825|Die chemische Reaktion verläuft schnell.
 1286|Er zwingt ihn, das Zimmer zu verlassen.
 1409|Die Basis des Erfolgs ist harte Arbeit.
@@ -4065,7 +4065,7 @@
 3486|Die Bereitschaft zur Hilfe ist da.
 3603|Der Sieger wurde gefeiert.
 3620|Er ging am Haus seiner Kindheit vorbei.
-3706|Die Einleitung des Buches ist interessant.
+3706|Die Einleitung beginnt jetzt.
 3733|Die Freunde kommen zum Feiern zusammen.
 3758|Das israelische Team gewann.
 3857|Er nutzt eine Unterlage für seine Maus.
@@ -4075,12 +4075,12 @@
 4514|Das Hindernis wurde überwunden.
 4815|Der König war ein souveräner Herrscher.
 4875|Sie binden das Projekt in den Plan ein.
-276|Der Fluss ist an dieser Stelle sehr weit.
-533|Das Auto ist rot und glänzt in der Sonne.
+276|Er reist weit.
+533|Das Auto ist rot.
 2270|Der Ruf des Adlers hallte durch das Tal.
 3047|Die Note motivierte ihn, weiterzulernen.
-459|Die Berge sind von hier aus gut sichtbar.
-782|Das Angebot war zu gut, um es abzulehnen.
+459|Die Häuser stehen leer.
+782|Er lehnt das Angebot ab.
 1282|Der Osten des Landes ist dünn besiedelt.
 3563|Die Maus huschte schnell über den Boden.
 4758|Das Klo befindet sich am Ende des Flurs.
@@ -4089,20 +4089,20 @@
 4001|Das Becken im Badezimmer ist aus Marmor.
 2156|Die Betonung liegt auf der ersten Silbe.
 4025|Die Wurst auf dem Grill duftet köstlich.
-305|Die Aufgabe war schwieriger als erwartet.
-486|Er engagiert sich sozial in der Gemeinde.
-878|Das Elektron bewegt sich um den Atomkern.
+305|Er löst die Aufgabe.
+486|Er engagiert sich sozial.
+878|Das Elektron ist negativ geladen.
 2626|Die Frequenz des Signals war zu niedrig.
 2829|Sein deutscher Akzent war kaum zu hören.
 3885|Das Image der Firma hat sich verbessert.
 4622|Die Rakete startete erfolgreich ins All.
-953|Das Glas fiel auf den Boden und zerbrach.
+953|Er bricht das Glas.
 1079|Alle notwendigen Mittel waren vorhanden.
 1367|Das Gericht sprach ein gerechtes Urteil.
 1790|Die Botschaft wurde deutlich vermittelt.
 2615|Der sanfte Wind streichelte ihr Gesicht.
 3438|Der Klang der Glocken erfüllte die Luft.
-833|Die Angabe im Formular war nicht korrekt.
+833|Die Angabe ist korrekt.
 1205|Die Krankheit breitete sich schnell aus.
 1829|Der Vorgang dauerte länger als erwartet.
 1863|Die zeitliche Planung war äußerst knapp.
@@ -4117,7 +4117,7 @@
 3232|Das Verbrechen wurde schnell aufgeklärt.
 3880|Die Feuerwehr löschte den Brand schnell.
 4227|Die Bitte um Hilfe wurde sofort erfüllt.
-733|Die Zeitung berichtete über das Ereignis.
+733|Er liest die Zeitung.
 1866|Die elektronische Musik füllte den Raum.
 2386|Die Gemeinschaft arbeitete eng zusammen.
 3026|Die Gestaltung war kreativ.
@@ -4156,8 +4156,8 @@
 3675|Die Aufführung begeisterte das Publikum.
 1923|Die Auseinandersetzung endete friedlich.
 5079|Das Grundeinkommen wird heiß diskutiert.
-243|Jedes Teil des Geräts hat seine Funktion.
-986|Die Nähe zum Park ist ein großer Vorteil.
+243|Das Teil fehlt noch.
+986|Die Nähe des Flusses ist schön.
 1099|Derjenige, der das Buch liest, ist klug.
 1155|Vor einem Jahr kam ich nach Deutschland.
 1417|Er kündigte seinen Besuch für morgen an.
@@ -4175,7 +4175,7 @@
 3365|Das Fräulein wurde höflich angesprochen.
 3399|Der Finanzminister spricht im Parlament.
 3443|Wir buchen das Hotel für unseren Urlaub.
-3503|Das Training fördert kognitive Fähigkeiten.
+3503|Kognitive Fähigkeiten sind wichtig.
 3623|Sie haben eine langjährige Freundschaft.
 3694|Die Kosten sind proportional zum Nutzen.
 3898|Er zog die Truppen ab.
@@ -4183,7 +4183,7 @@
 4705|Der Gesetzgeber beschließt neue Gesetze.
 4822|Die Drohung gegen ihn war ernst gemeint.
 4830|Die Verarbeitung der Daten dauert lange.
-4847|Die Festlegung der Termine erfolgt später.
+4847|Die Festlegung ist verbindlich.
 4851|Die muslimische Gemeinde feiert Ramadan.
 507|Die Idee kam ihm plötzlich.
 812|Das Haar glänzt im Licht.
@@ -4229,7 +4229,7 @@
 1059|Die Darstellung des Films war gut.
 1320|Der Forscher entdeckte etwas Neues.
 1976|Die Ergebnisse sind empirisch belegt.
-2539|Die Ereignisse entwickelten sich dramatisch.
+2539|Die Lage ist dramatisch.
 2571|Der Ablauf des Prozesses ist festgelegt.
 3089|Die Abstimmung war erfolgreich.
 3348|Der Wechselkurs sank weiter.
@@ -4240,7 +4240,7 @@
 1404|Die Erkenntnis kam spät.
 1419|Die Beratung war individuell angepasst.
 2044|Das Schicksal meinte es gut mit ihm.
-2202|Die Interpretation des Textes war korrekt.
+2202|Die Interpretation ist umstritten.
 2333|Er stoppte das Auto abrupt.
 3359|Der Eingriff war erfolgreich.
 4180|Die Eizelle wurde befruchtet.
@@ -4257,16 +4257,16 @@
 707|Die Leistung des Teams war stark.
 5097|Die Offenheit im Gespräch war hilfreich.
 2505|Der Mittelwert der Daten ist berechnet.
-3581|Die Fragestellung war präzise formuliert.
-4408|Die Gemeinsamkeit der beiden ist erstaunlich.
+3581|Die Fragestellung ist klar.
+4408|Die Gemeinsamkeiten sind offensichtlich.
 1127|Die jeweilige Lösung wurde diskutiert.
 1791|Der Alltag kehrte schnell zurück.
 1876|Das Volumen des Pakets ist groß.
 2187|Das Design ist optisch ansprechend.
 2241|Er setzte den Schnitt präzise an.
-2660|Der Kommentar wurde kontrovers diskutiert.
+2660|Der Kommentar ist scharf.
 2667|Die Rückkehr war ungewiss.
-3057|Der Höhepunkt des Abends war das Feuerwerk.
+3057|Der Höhepunkt des Films war spannend.
 3161|Der Gläubiger forderte sein Geld zurück.
 3180|Der Mörder wurde gefasst.
 3255|In der Ferne sah er Berge.
@@ -4275,15 +4275,15 @@
 3518|Der Premierminister hielt eine Rede.
 3549|Der General führte die Truppen an.
 3642|Das Gebäude sieht hässlich aus.
-3711|Die restlichen Aufgaben erledigte er später.
+3711|Die restlichen Fragen bleiben offen.
 3797|Das Schema ist kompliziert.
 3863|Die hessische Küche ist bekannt.
 4219|Er unterdrückte seine Gefühle.
 4274|Der einstige Ruhm verblasste.
 4469|Der Zug kommt voraussichtlich später an.
 4804|Er gab das Gespräch korrekt wieder.
-4920|Der Herbst ist meine Lieblingsjahreszeit.
-5067|Die norwegischen Fjorde sind beeindruckend.
+4920|Der Herbst ist eine schöne Jahreszeit.
+5067|Das norwegische Team war stark.
 5100|Die Fassung des Films ist kürzer.
 264|Die Woche verging schnell.
 1022|Der Plan wurde umgesetzt.
@@ -4305,7 +4305,7 @@
 871|Die Nummer wurde falsch gewählt.
 1158|Das Theaterstück war fesselnd.
 3384|Die Spalte im Felsen war tief.
-705|Die Grundlage für den Erfolg wurde gelegt.
+705|Die Grundlage ist wichtig.
 1451|Der Lehrer war sehr streng.
 1700|Der Vorschlag wurde angenommen.
 2054|Die Ladung erreichte den Hafen.
@@ -4321,10 +4321,10 @@
 1136|Die Theorie wurde bewiesen.
 1183|Die Behörde genehmigte den Antrag.
 1459|Die bayrische Kultur ist reichhaltig.
-1499|Der Auftrag wurde erfolgreich abgeschlossen.
+1499|Der Auftrag ist abgeschlossen.
 1583|Der Zugang zum Gebäude ist gesperrt.
 1799|Die Gestalt verschwand im Nebel.
-1883|Die Perspektive des Malers ist einzigartig.
+1883|Die Perspektive ändert sich.
 2636|Der Pass ist abgelaufen.
 3534|Die Mahlzeit war köstlich.
 3820|Er redet dauernd Unsinn.
@@ -4333,45 +4333,45 @@
 1987|Die Straßen verlaufen parallel.
 2167|Das Bewusstsein kehrte zurück.
 2989|Das Turnier endete unentschieden.
-3098|Disziplin ist beim Training entscheidend.
+3098|Er zeigt viel Disziplin.
 3687|Das Ergebnis ist variabel.
 4794|Das Material ist sehr beweglich.
 1051|Der Hinweis war sehr hilfreich.
 2261|Die Operation verlief erfolgreich.
 3087|Der Lärm war permanent.
-3949|Der Produzent arbeitet an einem neuen Film.
+3949|Der Produzent finanziert den Film.
 4772|Die Rezeption war stets besetzt.
-3134|Der Ursprung des Flusses liegt im Gebirge.
+3134|Der Ursprung ist unklar.
 3942|Der Aktionär investierte klug.
 4026|Das Projekt war anspruchsvoll.
 4090|Die thermische Belastung war hoch.
 4438|Er zerriss den Brief wütend.
-2260|Die Umfrage ergab interessante Ergebnisse.
+2260|Die Umfrage zeigt klare Ergebnisse.
 2271|Die Überlegung war entscheidend.
 2730|Der Geschäftsführer begrüßte die Gäste.
 1214|Die Unterstützung kam zur rechten Zeit.
 4020|Die Konferenz begann pünktlich.
-4047|Der Schiedsrichter entschied auf Abseits.
-3788|Die physiologischen Prozesse wurden erklärt.
+4047|Der Schiedsrichter pfeift das Spiel ab.
+3788|Das ist physiologisch bedingt.
 2237|Der Mechanismus wurde repariert.
 2634|Die Strafe war angemessen.
 4816|Das Vokabular umfasst viele Wörter.
 312|Die Geschichte ist spannend erzählt.
 509|Eine Milliarde Euro wurde investiert.
 630|Laut Gesetz ist das verboten.
-668|Die Sitzungen finden jeweils dienstags statt.
+668|Die Sitzungen finden jeweils montags statt.
 1597|Er ging dahin, wo es ruhig war.
 2086|Die Wiener Küche ist bekannt.
-2555|Die olympischen Spiele waren erfolgreich.
+2555|Er trainiert für die olympischen Spiele.
 2662|Das Radio spielte leise Musik.
 2666|Die Kosten steigen stetig an.
 2712|Sie war die Erste im Ziel.
 2781|Er hatte teils recht.
-3434|Die Abschreibung wurde korrekt berechnet.
+3434|Die Abschreibung ist berechtigt.
 3736|Der Flügel war verstimmt.
 3835|Der Termin entfiel wegen Krankheit.
 3900|Die Niederlande sind flach und grün.
-4007|Die Nachrichtenagentur meldete den Vorfall.
+4007|Die Nachrichtenagentur meldet es.
 4210|Das Recht wurde im Gesetz verankert.
 4296|Die Entscheidung steht noch aus.
 4611|Er spricht fließend Deutsch.
@@ -4434,9 +4434,9 @@
 1239|Angesichts der Lage handelte er schnell.
 1529|Der Artikel wurde veröffentlicht.
 1871|Die Variable beeinflusst das Ergebnis.
-2318|Hinsichtlich der Kosten wurde diskutiert.
+2318|Hinsichtlich des Plans gab es Änderungen.
 2439|Er wuchs auf dem Land auf.
-2455|Das Ergebnis lässt sich darauf zurückführen.
+2455|Er führt den Erfolg auf das Team zurück.
 2641|Der Kredit wurde bewilligt.
 2642|Das Wohnzimmer ist groß.
 3179|Er isolierte das Kabel sorgfältig.
@@ -4485,7 +4485,7 @@
 3183|Problematisch war die Umsetzung.
 1651|Das Instrument wurde gestimmt.
 1986|Das Wesen verschwand im Wald.
-3451|Realistisch betrachtet ist das schwierig.
+3451|Er bleibt realistisch.
 3612|Er blieb starr vor Schreck.
 1982|Die Umsetzung verlief reibungslos.
 2258|Der Manager traf die Entscheidung.
@@ -4514,7 +4514,7 @@
 2603|Jenseits des Flusses liegt das Dorf.
 2644|Die Leitung wurde repariert.
 2828|Die Adresse wurde notiert.
-2910|Es stellte sich heraus, dass er Recht hatte.
+2910|Es stellte sich heraus, dass er recht hatte.
 2958|Die Vielzahl der Optionen verwirrte ihn.
 3106|Die kinetische Energie ist groß.
 3302|Der Kellner brachte das Essen.
@@ -4527,12 +4527,12 @@
 3913|Die jetzige Situation ist schwierig.
 3944|Er wurde hart bestraft.
 4549|Das Diagramm zeigt die Daten.
-4709|Die Verbreitung der Nachricht war schnell.
+4709|Die Verbreitung der Nachricht ist schnell.
 4817|Er entwickelte das Konzept weiter.
 4819|Der Zerfall des Gebäudes begann.
 1083|Der Baum spendet Schatten.
 968|Das Atom bildet die Basis aller Materie.
-799|Der Zustand des Hauses verschlechterte sich.
+799|Der Zustand des Autos ist gut.
 2358|Das Gefäß ist zerbrochen.
 4246|Die Lampe leuchtet hell.
 652|Die Kultur des Landes fasziniert mich.
@@ -4550,7 +4550,7 @@
 4442|Das Klavier klingt melodisch.
 4446|Der Neubau ist fast fertig.
 4789|Das Segment wurde analysiert.
-3955|Der Stolz stand ihm ins Gesicht geschrieben.
+3955|Der Stolz steht ihm ins Gesicht geschrieben.
 560|Der Plan gelang ohne Probleme.
 856|Der Versuch misslang erneut.
 876|Das Buch ist wirklich interessant.
@@ -4580,11 +4580,11 @@
 3700|Die Qualifikation war entscheidend.
 4178|Die Befragung brachte neue Erkenntnisse.
 4781|Die Auszeichnung wurde verliehen.
-2818|Experimentell wurde die Methode getestet.
+2818|Das Ergebnis ist experimentell.
 3564|Die Unabhängigkeit wurde erkämpft.
 2388|Der Unternehmer expandierte.
 2670|Die Betrachtung der Lage war wichtig.
-3233|Die Aktivierung des Kontos erfolgte sofort.
+3233|Die Aktivierung des Kontos war erfolgreich.
 4694|Gesundheitlich geht es ihm besser.
 171|Natürlich half er sofort.
 595|Bevor es regnet, gehen wir heim.
@@ -4626,7 +4626,7 @@
 1289|Das Haus war komplett renoviert.
 3284|Der Teller fiel zu Boden.
 3469|Der Sessel ist sehr bequem.
-4113|Die Spaltung der Gruppe war unvermeidlich.
+4113|Die Spaltung der Gruppe ist sichtbar.
 2300|Das Drama endete tragisch.
 3659|Der Rohstoff wird knapp.
 4417|Die Reflexion im Wasser war klar.
@@ -4637,30 +4637,30 @@
 4143|Das Lebewesen reagierte auf Geräusche.
 4191|Die Mutation veränderte das Gen.
 1073|Der Trainer motivierte die Mannschaft.
-3002|Im Vordergrund steht das Thema Gesundheit.
+3002|Der Vordergrund ist scharf.
 3061|Die Autobahn war gesperrt.
 3418|Die Farben wirken harmonisch zusammen.
 3767|Die Beurteilung fiel positiv aus.
-3683|Die Auflösung des Vereins war beschlossen.
-4194|Die Vermutung stellte sich als wahr heraus.
+3683|Die Auflösung war überraschend.
+4194|Die Vermutung lag nahe.
 1587|Er legte die Regeln fest.
 4423|Die Ausrichtung des Events war perfekt.
 1445|Der Besucher ging durch die Ausstellung.
-2996|Der Übersetzer arbeitet schnell und genau.
+2996|Der Übersetzer arbeitet genau.
 4681|Der Stoffwechsel arbeitet schneller.
 5074|Die Befreiung brachte Erleichterung.
-2569|Die Landwirtschaft ist ein wichtiger Sektor.
-4229|Das Gerät nutzt elektromagnetische Wellen.
+2569|Die Landwirtschaft ist grundlegend.
+4229|Das Gerät nutzt elektromagnetische Felder.
 1457|Die Wahrscheinlichkeit für Regen steigt.
 4276|Die Inszenierung war beeindruckend.
-4613|Naturwissenschaftliche Fächer sind beliebt.
+4613|Er ist naturwissenschaftlich begabt.
 1096|Der Band enthält Gedichte.
 1264|Berliner Spezialitäten sind lecker.
 1348|Schweizer Schokolade ist berühmt.
 1703|Der Leiter entschied schnell.
 2535|Die Base reagierte mit der Säure.
 2582|Die räumliche Trennung fiel schwer.
-3091|Im nachfolgenden Text wird alles erklärt.
+3091|Die nachfolgende Erklärung ist wichtig.
 3132|Der Österreicher gewann das Rennen.
 3168|Das System arbeitet effizient.
 3582|Der Grieche kochte fantastisch.
@@ -4701,28 +4701,28 @@
 3578|Das Unglück ereignete sich plötzlich.
 4095|Die Erfindung revolutionierte die Welt.
 1332|Die Anwendung des Programms ist leicht.
-1634|Traditionelle Gerichte schmecken immer gut.
+1634|Er lebt traditionell.
 1946|Die Erwartung war groß.
 2013|Der Knochen heilte gut.
 2323|Das Kapital wurde investiert.
 2419|Der Geruch von Kaffee weckte ihn.
 2855|Das Medium beeinflusst die Meinung.
 3246|Der Großteil der Arbeit ist erledigt.
-2463|Der Organismus reagierte auf die Behandlung.
+2463|Der Organismus reagiert schnell.
 3544|Die Auskunft war hilfreich.
-3679|Die Steigerung der Preise war überraschend.
-4290|Die mittelalterliche Burg wurde restauriert.
+3679|Die Steigerung ist beachtlich.
+4290|Die Stadt hat mittelalterliche Gebäude.
 4784|Die Fusion der Firmen brachte Erfolg.
 3509|Die Durchführung verlief reibungslos.
 4564|Die Evolution erklärt viele Phänomene.
-3716|Die Architektur des Gebäudes beeindruckte.
+3716|Die Architektur ist beeindruckend.
 5011|Die Fluggesellschaft bietet günstige Flüge an.
-2070|Die Abhängigkeit von Öl ist problematisch.
-2965|Das Wirtschaftsforum fand in Berlin statt.
+2070|Die Abhängigkeit macht Sorgen.
+2965|Das Wirtschaftsforum tagt bald.
 4689|Das Unternehmen ist technologisch führend.
-2842|Interkulturelle Kompetenzen sind gefragt.
-334|Das ist das Haus, deren Dach repariert wird.
-586|Nachdem es regnete, gingen wir nach Hause.
+2842|Er fördert interkulturellen Austausch.
+334|Das ist das Haus, deren Dach kaputt ist.
+586|Nachdem er ging, wurde es ruhig.
 1226|Die jüngere Generation denkt anders.
 1439|Der Anschlag erschütterte die Stadt.
 1841|Primär geht es um den Erfolg.
@@ -4730,7 +4730,7 @@
 2722|Er beschleunigte den Prozess.
 3173|Vorübergehend bleibt er hier.
 3321|Die mechanische Arbeit war anstrengend.
-3547|Die Entdeckung veränderte die Geschichte.
+3547|Die Entdeckung war bedeutend.
 3648|Der Präsident trat unerwartet zurück.
 3684|Er wich der Frage geschickt aus.
 3834|Er lebt sehr bescheiden.
@@ -4738,7 +4738,7 @@
 3989|Der Marktanteil stieg stark.
 651|Die Gassen der Altstadt sind eng.
 1002|Der Berg ragte in den Himmel.
-478|Das Produkt wurde neu auf den Markt gebracht.
+478|Das Produkt ist ausverkauft.
 811|Das Gebäude wirkt sehr modern.
 4088|Das Lokal serviert gute Gerichte.
 4760|Ein lauter Knall erschreckte uns.
@@ -4766,14 +4766,14 @@
 1607|Er kam ins Krankenhaus.
 2901|Die Wellenlänge wurde gemessen.
 2907|Die Plattform brach unter der Last.
-2959|Der Arbeitgeber kündigte neue Stellen an.
+2959|Der Arbeitgeber ist zufrieden.
 4798|Der Moderator führte durch die Sendung.
 4962|Der Syrer erzählte von seiner Reise.
 1242|Die Antwort war eindeutig.
 1407|Die Ursache des Problems war klar.
 4259|Der Schädel war stark beschädigt.
 4756|Das Gutachten bestätigte den Verdacht.
-5049|Der Ausschnitt des Bildes war gut gewählt.
+5049|Der Ausschnitt ist interessant.
 2480|Seine Überzeugung war unerschütterlich.
 4652|Der Diskurs war lebhaft.
 4908|Das Design war funktional und effizient.
@@ -4787,17 +4787,17 @@
 1471|Er vermittelte das Wissen klar.
 1779|Der Verlauf der Straße war kurvig.
 1974|Die AG plant eine Expansion.
-2946|Im Hinblick auf die Lage änderte er den Plan.
+2946|Im Hinblick auf die Zukunft planen wir.
 3151|Das Treffen fand virtuell statt.
 3528|Die Haustür war offen.
 3600|Der Wahnsinn griff um sich.
-3634|Der Terroranschlag erschütterte das Land.
-3663|Das Informationssystem wurde aktualisiert.
+3634|Der Terroranschlag erschüttert das Land.
+3663|Das Informationssystem ist komplex.
 3884|Er zog Experten zur Beratung heran.
 4063|Er lebt offen schwul.
 5048|Das Attentat wurde vereitelt.
 1046|Das Risiko wuchs mit der Zeit.
-1102|Der Schluss der Geschichte war unerwartet.
+1102|Der Schluss ist logisch.
 5057|Der Baum im Garten ist uralt.
 712|Das Molekül ist winzig.
 1532|Die Strecke war lang und kurvig.
@@ -4808,10 +4808,10 @@
 2591|Das Erbe wurde aufgeteilt.
 2633|Der Raum war schlicht eingerichtet.
 2968|Die Einnahme stieg im letzten Jahr.
-3701|Die Schlange schlängelte sich durchs Gras.
+3701|Die Schlange windet sich.
 4258|Das Regime kontrollierte das Land.
 1143|Der Rest des Kuchens blieb übrig.
-1474|Das Studium bereitete ihn auf den Beruf vor.
+1474|Das Studium beginnt im Herbst.
 2734|Das Subjekt des Satzes ist markiert.
 4015|Das Geschenk war symbolisch wertvoll.
 1394|Der Tourist machte Fotos.
@@ -4827,7 +4827,7 @@
 1150|Das Museum zeigt antike Kunst.
 3593|Die Arbeit war körperlich anstrengend.
 1753|Sein Arbeitsplatz war sicher.
-4326|Intellektuelle Diskussionen sind spannend.
+4326|Das Gespräch war intellektuell anregend.
 3202|Die Kunst ist seine Leidenschaft.
 1538|Die Wissenschaft macht Fortschritte.
 2048|Seine Leistungen waren durchschnittlich.
@@ -4842,7 +4842,7 @@
 4810|Die Interaktion war intensiv.
 286|Der Doktor verschrieb ein Medikament.
 3215|Der Turm steht im Zentrum der Stadt.
-1008|Die Sicht war durch Nebel beeinträchtigt.
+1008|Die Sicht ist klar.
 278|Der Vater holte seine Tochter ab.
 1273|Das Maß der Dinge ist entscheidend.
 1820|Das Produkt war billig und nützlich.
@@ -4887,7 +4887,7 @@
 2727|Der Protest war laut und deutlich.
 3692|Er erregte viel Aufmerksamkeit.
 3941|Er legte an Gewicht zu.
-4223|Einschließlich des Bonus war das Gehalt hoch.
+4223|Einschließlich der Kosten beträgt der Preis 100 Euro.
 5032|Der Vortrag langweilte das Publikum.
 5066|Das Wetter war fürchterlich.
 3508|Die CD enthält viele Hits.
@@ -4904,7 +4904,7 @@
 1565|Die Runde war spannend.
 4292|Das Rezept stammt von meiner Großmutter.
 574|Die Nachricht war positiv.
-854|Der Künstler malte ein beeindruckendes Bild.
+854|Der Künstler malt ein Bild.
 1311|Die Maschine lief ohne Probleme.
 3479|Die Herrschaft wechselte den Besitzer.
 4084|Der Wein schmeckte aromatisch.
@@ -4912,10 +4912,10 @@
 1696|Der Umgang mit dem Gerät ist einfach.
 2000|Die Erkrankung breitet sich aus.
 2516|Die Schwingung war stark.
-841|Die Sicherheit im Gebäude war gewährleistet.
+841|Die Sicherheit der Daten ist gewährleistet.
 2511|Der Zeitraum war begrenzt.
 4097|Das Immunsystem wurde gestärkt.
-969|Historische Ereignisse prägten die Stadt.
+969|Das Gebäude ist historisch bedeutsam.
 4474|Der Katalysator reduziert Emissionen.
 2605|Der Wähler gab seine Stimme ab.
 4406|Die Arbeitskraft wurde gut bezahlt.
@@ -4937,20 +4937,20 @@
 3056|Das Team war divers zusammengesetzt.
 3192|Das Stichwort war treffend gewählt.
 3513|Die Erziehung der Kinder war streng.
-597|Die Politik beeinflusst das tägliche Leben.
+597|Die Politik bestimmt das Leben.
 1402|Die Änderung wurde genehmigt.
 3410|Die Notwendigkeit war offensichtlich.
 3723|Das Protokoll wurde geschrieben.
 1949|Der Weltkrieg veränderte die Welt.
 2565|Die Verbesserung war dringend nötig.
 5003|Die Übereinstimmung war erstaunlich.
-2563|Der Gesellschafter traf die Entscheidung.
-2656|Das Individuum zählt in der Gesellschaft.
+2563|Der Gesellschafter stimmt zu.
+2656|Das Individuum ist einzigartig.
 3543|Vorsicht ist besser als Nachsicht.
 3551|Das Paar wurde geschieden.
 3882|Das Gemälde hängt im Museum.
 3904|Die Wahlperiode endet bald.
-3943|Er setzte sich mit dem Thema auseinander.
+3943|Er setzt sich mit dem Thema auseinander.
 4528|Seitens der Regierung gab es Kritik.
 1199|Der Bund plant neue Gesetze.
 539|Das Kapitel behandelt wichtige Themen.
@@ -4960,31 +4960,31 @@
 1896|Er regelt seine Angelegenheiten selbst.
 2392|Die Periode dauerte mehrere Jahre.
 5024|Nominal sind die Werte gleich.
-2780|Das Messer schneidet mühelos durch das Brot.
+2780|Er schneidet mit dem Messer.
 1196|Ein Jahrzehnt ist schnell vergangen.
 1446|Das Wachstum der Stadt war enorm.
 1539|Das Problem ist global.
-4461|Die News verbreiteten sich rasend schnell.
+4461|Die News sind aktuell.
 1317|Das Wochenende verbrachte er am See.
 1366|Der Weg war ihm unbekannt.
 1566|Der Angriff erfolgte unerwartet.
-3386|Die Abgrenzung der Gebiete war notwendig.
+3386|Die Abgrenzung ist wichtig.
 1884|Das Restaurant bot köstliche Speisen an.
 3850|Das wichtigste Attribut war die Farbe.
 2029|Der Start verlief ohne Probleme.
 2209|Die Beobachtung ergab neue Erkenntnisse.
 2496|Der Erzähler fesselte das Publikum.
-4500|Die Algebra beschäftigt sich mit Gleichungen.
+4500|Die Algebra ist kompliziert.
 4783|Ethisch korrektes Handeln ist wichtig.
 2144|Der Hersteller garantiert hohe Qualität.
-3107|Das Skript wurde rechtzeitig eingereicht.
+3107|Das Skript liegt bereit.
 1600|Die Kommunikation im Team verlief gut.
 3760|Die Steuerung des Fahrzeugs ist präzise.
 4933|Die Symmetrie des Designs beeindruckt.
-4581|Organisatorisch war alles perfekt geplant.
+4581|Die organisatorische Struktur ist klar.
 385|Er erinnert sich an dessen Worte.
 2751|Derart gute Chancen hat man selten.
-2821|Die Opposition kritisierte die Regierung.
+2821|Die Opposition kritisiert den Plan.
 3569|Reell betrachtet ist die Lage schwierig.
 3732|Die Justiz ermittelt gegen ihn.
 3858|Er vernachlässigte seine Pflichten.
@@ -4994,33 +4994,33 @@
 1178|Der Besuch im Museum war lehrreich.
 1969|Der Anwalt vertrat seine Interessen.
 4426|Die Gruppe war homogen zusammengesetzt.
-434|Die Möglichkeit bestand, den Job zu bekommen.
+434|Die Möglichkeit besteht, zu gewinnen.
 3016|Das Motto lautet „Gemeinsam stark“.
-4481|Die Betreuung der Kinder war hervorragend.
+4481|Die Betreuung der Kinder ist gesichert.
 4383|Die Priorität lag auf Sicherheit.
 1541|Die Annahme war falsch.
 3385|Der Zettel lag auf dem Tisch.
 4080|Die Quote für die Sendung stieg an.
 3777|Elementare Kenntnisse sind erforderlich.
-3916|Der Kühlschrank war voll mit Lebensmitteln.
+3916|Der Kühlschrank ist leer.
 4263|Der Operator steuerte die Maschine.
 4317|Der Darm verarbeitet die Nahrung.
 4796|Seine Aussagen waren fraglich.
 318|Die Abbildung zeigt das Ergebnis.
-1477|Die Demokratie sichert Freiheit und Rechte.
+1477|Die Demokratie muss verteidigt werden.
 2521|Die Gewerkschaft fordert höhere Löhne.
 2741|Der Angestellte arbeitete fleißig.
 1061|Du kannst ruhig fragen.
-2587|Er vergab die Aufgaben an die Mitarbeiter.
-2921|Die Schönheit der Natur ist atemberaubend.
+2587|Er hat den Auftrag vergeben.
+2921|Die Schönheit der Natur ist beeindruckend.
 4835|Der Demonstrant wurde festgenommen.
 1280|Der Winter brachte viel Schnee.
 1418|Das Enzym beschleunigt die Reaktion.
 2182|Das Umfeld beeinflusst das Verhalten.
-918|Die Bildung ist der Schlüssel zum Erfolg.
+918|Die Bildung ist entscheidend.
 985|Der Abschnitt des Textes ist wichtig.
 1718|Die Mathematik ist präzise und logisch.
-2265|Nachhaltige Entwicklung ist entscheidend.
+2265|Er lebt nachhaltig.
 5042|Das Elektroauto fährt emissionsfrei.
 4872|Die Verteidigung hielt stand.
 1260|Das Konzept wurde vorgestellt.
@@ -5035,10 +5035,10 @@
 4489|Das Center öffnet um zehn Uhr.
 2123|Die CSU gewann die Mehrheit.
 3808|Die Addition ist korrekt.
-4313|Die Rotation der Erde erzeugt Tag und Nacht.
+4313|Die Rotation der Erde ist konstant.
 4775|Die Jagd auf das Wild war erfolgreich.
 1379|Die Statistik zeigt klare Trends.
-2715|Die Ernährung beeinflusst die Gesundheit.
+2715|Die Ernährung ist gesund.
 4488|Der Verteidiger blockte den Angriff.
 3353|Die Veröffentlichung des Buches war erfolgreich.
 1715|Einerseits wollte er helfen.
@@ -5053,31 +5053,31 @@
 4171|Der Film war brutal und erschreckend.
 5088|Die Linie verläuft vertikal.
 1666|Die Bestimmung war klar definiert.
-4587|Seine Haut reagierte empfindlich auf Kälte.
+4587|Er reagiert empfindlich.
 1420|Das Training war intensiv und fordernd.
 3948|Materieller Besitz ist vergänglich.
 521|Die Information war hilfreich.
 4769|Die Energiewirtschaft ist im Wandel.
 3665|Musikalisch war er talentiert.
 290|Das Recht schützt die Schwachen.
-2316|Analoge Uhren haben einen besonderen Charme.
-700|Der Mitarbeiter erhielt eine Beförderung.
-1472|Die Wirklichkeit war anders als erwartet.
+2316|Die Uhr ist analog.
+700|Der Mitarbeiter ist fleißig.
+1472|Die Wirklichkeit ist komplex.
 1708|Das Kriterium war entscheidend.
-1755|Die Komponente musste ausgetauscht werden.
-3933|Der Protagonist überwand alle Hindernisse.
-402|Die Entwicklung des Projekts schreitet voran.
+1755|Diese Komponente fehlt noch.
+3933|Der Protagonist kämpft tapfer.
+402|Die Entwicklung des Projekts ist abgeschlossen.
 2647|Der Austausch war produktiv.
 3097|Die Zusammenfassung war prägnant.
 3556|Er brachte ihm das Lesen bei.
 4231|Abschließend bedankte er sich.
-2953|Die neue Version des Programms ist besser.
+2953|Die neue Version ist besser.
 4288|Der Fürst regierte das Land gerecht.
 4757|Der Kämpfer gab nicht auf.
 2114|Die Daten sind für die Studie relevant.
 2302|Die Vorschrift wurde geändert.
 2059|Die Religion beeinflusst viele Kulturen.
-5110|Die Zivilisation entwickelte sich rasant.
+5110|Die Zivilisation entwickelt sich weiter.
 1734|Freiwillig half er bei der Arbeit.
 3471|Der Kindergarten betreut viele Kinder.
 3864|Das Hessisch klingt vertraut.
@@ -5085,9 +5085,9 @@
 4910|Die Jungfrau war unberührt.
 2155|Die Schrift war kaum lesbar.
 1026|Das Thema war komplex und schwierig.
-549|Das Jahrhundert brachte viele Erfindungen.
+549|Das 20. Jahrhundert brachte viele Veränderungen.
 1141|Organische Lebensmittel sind gesünder.
-3939|Die Kartoffel wurde gekocht und serviert.
+3939|Er isst gerne Kartoffeln.
 1389|Vielmehr sollte er handeln.
 2925|Er stand dazwischen und hörte zu.
 4491|Das Handwerk hat eine lange Tradition.
@@ -5100,7 +5100,7 @@
 2674|Christliche Werte prägen das Land.
 2617|Er bedrohte die Zeugin.
 2805|Die Dichte des Waldes nahm zu.
-1461|Das Gehirn steuert alle Körperfunktionen.
+1461|Das Gehirn steuert den Körper.
 2498|Die Entscheidung war umstritten.
 4044|Die Lösung war nur partiell erfolgreich.
 4552|Innovative Ideen führten zum Erfolg.
@@ -5109,5 +5109,5 @@
 1122|Die Lage ist ernst.
 3081|Analytisch betrachtet hat er recht.
 1473|Die Union gewann die Wahl.
-2410|Die Vielfalt der Angebote war beeindruckend.
+2410|Die Vielfalt der Natur ist beeindruckend.
 1613|Die VWL beschäftigt sich mit Märkten.
