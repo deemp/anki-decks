@@ -1,27 +1,27 @@
 |part_of_speech|word_de|word_en
-11|pron|sie|she, her
-12|pron|sie|they, them
-33|part|als|than
-36|part|wie|as
-39|pron|ihr|her, their, hers, theirs
-41|pron|ihr|your
-47|part|aber|but
-80|part|schon|really
-94|adv|doch|however, but
-105|conj|mal|times
-128|part|selbst|even
-129|pron|selbst|-self
-180|adv|vielleicht|perhaps, maybe
-181|part|vielleicht|
-189|part|eigentlich|
-197|adj|gerade|straight
-209|adj|spät|later
-224|part|eben, ebend|after all
-240|adv|eben, ebend|just, now
-310|adv|wohl|well
-348|adv|rund|approximately
-550|adj|wahrscheinlich|likely, probable
-804|adj|bloß|bare, mere
-826|adj|schlimm|bad, serious
-1096|der|der Band|volume, tome
-1374|adv|leid|(be) tired (of)
+11|pron|sie|she, her|Sie hat das Buch gestern fertig gelesen.
+12|pron|sie|they, them|Sie haben die Aufgabe zusammen gemacht.
+33|part|als|than|Er ist viel schneller als sein Bruder.
+36|part|wie|as|Er arbeitet genauso hart wie sie.
+39|pron|ihr|her, their, hers, theirs|Ihr Haus steht direkt am See.
+41|pron|ihr|your|Ist das wirklich Ihr letzter Entschluss?
+47|part|aber|but|Ich wollte kommen, aber es ging nicht.
+80|part|schon|really|Ich habe das Buch schon gelesen.
+94|adv|doch|however, but|Er wollte kommen, doch wurde krank.
+105|conj|mal|times|Komm mal vorbei, wenn du Zeit hast.
+128|part|selbst|even|Selbst die Experten waren überrascht.
+129|pron|selbst|-self|Er hat das Auto selbst repariert.
+180|adv|vielleicht|perhaps, maybe|Vielleicht schaffen wir es rechtzeitig.
+181|part|vielleicht||Vielleicht sollten wir das später klären.
+189|part|eigentlich||Eigentlich wollte ich etwas anderes.
+197|adj|gerade|straight|Er hat die Linie gerade gezogen.
+209|adj|spät|later|Es ist spät, wir sollten gehen.
+224|part|eben, ebend|after all|Das musste eben passieren.
+240|adv|eben, ebend|just, now|Ich habe eben erst davon gehört.
+310|adv|wohl|well|Er wird wohl nicht mehr kommen.
+348|adv|rund|approximately|Es waren rund 200 Gäste da.
+550|adj|wahrscheinlich|likely, probable|Es ist wahrscheinlich, dass er recht hat.
+804|adj|bloß|bare, mere|Das war bloß ein kleiner Unfall.
+826|adj|schlimm|bad, serious|Es war nicht so schlimm, wie gedacht.
+1096|der|der Band|volume, tome|Der dritte Band erscheint nächstes Jahr.
+1374|adv|leid|(be) tired (of)|Er ist es leid, zu warten.
