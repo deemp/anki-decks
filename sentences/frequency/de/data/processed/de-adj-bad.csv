@@ -1,775 +1,775 @@
-|part_of_speech|word_de|sentence_de
-87|adj|groß|Der Baum im Garten ist sehr groß.
-89|adj|ganz|Ich habe den ganzen Tag gearbeitet.
-+98|adj|gut|Mir schmeckt das Essen sehr gut.
-109|adj|neu|Ich habe ein neues Buch gekauft.
-121|adj|erste (r, s)|Der erste Schnee ist gefallen.
-123|adj|lang|Der lange Weg führt durch den Wald.
-130|adj|wenig|Es bleibt nur wenig Zeit bis zur Abgabe.
-139|adj|klein|Das Haus ist klein, aber gemütlich.
-148|adj|hoch|Der Baum ist sehr hoch gewachsen.
-163|adj|einfach|Die Lösung war einfach und klar.
-171|adj|natürlich|Das war eine ganz natürliche Reaktion.
-173|adj|alt|Das Buch ist sehr alt, aber interessant.
-176|adj|gleich|Wir haben das gleiche Problem.
-179|adj|wichtig|Pünktlichkeit ist im Job wichtig.
-187|adj|eigentlich|Er ist der eigentliche Besitzer.
-190|adj|letzte (r, s)|Die letzte Chance ist nun vorbei.
-197|adj|gerade|Er hat die Linie gerade gezogen.
-205|adj|eigen|Er brachte sein eigenes Essen mit.
-+206|adj|genau|Er erklärte die Aufgabe genau.
-208|adj|spät|Es ist schon zu spät für eine Antwort.
-+209|adj|spät|Können wir das später besprechen?
-211|adj|möglich|Bei uns ist fast alles möglich.
-218|adj|kurz|Der Film war überraschend kurz.
-219|adj|richtig|Dein Vorschlag war absolut richtig.
-220|adj|stark|Der Wind wehte heute besonders stark.
-225|adj|weitere (r, s)|Ein weiterer Vorschlag wurde gemacht.
-231|adj|schön|Am See war es gestern sehr schön.
-232|adj|wirklich|Das ist eine wirkliche Gefahr.
-244|adj|jung|Der junge Mann geht zur Arbeit.
-246|adj|besser|Heute fühle ich mich schon besser.
-248|adj|schnell|Der schnelle Läufer gewann das Rennen.
-283|adj|nächste (r, s)|Das nächste Treffen ist im März.
-285|adj|klar|Das Wasser war klar und ruhig.
-+289|adj|recht|Es ist mir recht, wenn wir später gehen.
-303|adj|verschieden|Er probierte verschiedene Methoden aus.
-306|adj|schwer|Der Koffer war schwer zu tragen.
-330|adj|bestimmt|Das ist bestimmt eine gute Idee.
-+340|adj|wert|Seine Mühe ist jede Anerkennung wert.
-346|adj|gemeinsam|Wir haben ein gemeinsames Ziel.
-347|adj|rund|Der Tisch hat eine runde Form.
-354|adj|deutlich|Die Anweisungen waren deutlich.
-356|adj|politisch|Er ist politisch sehr engagiert.
-363|adj|leicht|Der Koffer war überraschend leicht.
-367|adj|beste (r, s)|Er ist der beste Spieler im Team.
-372|adj|bekannt|Er ist als guter Arzt bekannt.
-381|adj|schlecht|Das Wetter war heute wirklich schlecht.
-389|adj|europäisch|Das ist ein europäisches Projekt.
-+394|adj|tatsächlich|Es ist tatsächlich wahr, was er sagt.
-398|adj|einzig|Er ist der einzige, der es kann.
-400|adj|unterschiedlich|Die Meinungen gingen stark auseinander.
-408|adj|direkt|Der direkte Weg führt durch den Wald.
-410|adj|offen|Die Tür stand weit offen, als ich ankam.
-421|adj|früh|Er steht jeden Tag sehr früh auf.
-433|adj|meiste|Die meiste Zeit verbringt er draußen.
-448|adj|allgemein|Allgemein gilt das als unhöflich.
-462|adj|häufig|Er wiederholte seine Frage oft.
-486|adj|sozial|Soziale Gerechtigkeit ist ihm wichtig.
-493|adj|ähnlich|Die beiden sehen sich ähnlich.
-498|adj|tief|Der Brunnen reicht tief in die Erde.
-499|adj|halb|Der Weg ist noch halb geschafft.
-528|adj|weiß|Der weiße Schnee bedeckt das ganze Tal.
-530|adj|schwarz|Der schwarze Anzug steht ihm gut.
-533|adj|rot|Das Auto ist knallrot lackiert.
-536|adj|nah|Wir wohnen in einer nahen Stadt.
-552|adj|öffentlich|Die öffentliche Meinung ist gespalten.
-562|adj|gering|Der Schaden ist nur gering gewesen.
-570|adj|besondere (r, s)|Er hat eine besondere Art zu sprechen.
-571|adj|tot|Der Baum im Garten ist leider tot.
-+573|adj|völlig|Er war völlig erschöpft nach dem Lauf.
-574|adj|positiv|Er gab eine positive Rückmeldung.
-582|adj|falsch|Die Antwort war leider falsch.
-584|adj|langsam|Er sprach langsam und deutlich.
-603|adj|persönlich|Das ist meine persönliche Meinung.
-610|adj|gewiss|Er ist sich gewiss, dass es klappt.
-615|adj|gesamt|Das gesamte Team arbeitet hart.
-625|adj|fest|Der Vertrag wurde fest unterschrieben.
-626|adj|aktuell|Das Thema ist aktuell sehr wichtig.
-629|adj|relativ|Diese Aufgabe war relativ leicht.
-638|adj|schwierig|Die Prüfung war extrem schwierig.
-641|adj|zusätzlich|Zusätzlich brachte er Getränke mit.
-651|adj|eng|Die Gassen der Altstadt sind eng.
-689|adj|okay|Wenn du okay bist, gehen wir weiter.
-698|adj|gleichzeitig|Sie lachten gleichzeitig laut.
-703|adj|normal|Nach dem Unfall ist alles wieder normal.
-718|adj|technisch|Das Problem ist technischer Natur.
-723|adj|wesentlich|Dieser Punkt ist wesentlich für uns.
-724|adj|englisch|Der englische Text ist schwer.
-727|adj|rein|Das Wasser aus der Quelle ist rein.
-+732|adj|selten|Solche Tiere sieht man sehr selten.
-734|adj|innere (r, s)|Das innere Gleichgewicht ist wichtig.
-745|adj|grün|Das grüne Gras leuchtete in der Sonne.
-748|adj|echt|Er zeigte echten Enthusiasmus.
-769|adj|dunkel|Es wurde plötzlich dunkel im Raum.
-791|adj|hart|Der Stein ist hart wie Granit.
-+792|adj|offenbar|Offenbar ist er nicht gut informiert.
-798|adj|erfolgreich|Das Projekt war sehr erfolgreich.
-800|adj|wahr|Die Geschichte ist tatsächlich wahr.
-+804|adj|bloß|Das war bloß ein kleiner Unfall.
-806|adj|notwendig|Eine Klärung der Sache ist notwendig.
-809|adj|wirtschaftlich|Das Land wächst wirtschaftlich.
-810|adj|privat|Das Gespräch bleibt streng privat.
-811|adj|modern|Das Gebäude wirkt sehr modern.
-815|adj|unabhängig|Sie ist finanziell unabhängig.
-825|adj|chemisch|Die chemische Reaktion verläuft schnell.
-826|adj|schlimm|Es war nicht so schlimm, wie gedacht.
-838|adj|laut|Er sprach laut, damit ihn alle hören.
-843|adj|niedrig|Der Preis war erstaunlich niedrig.
-844|adj|ständig|Er ist ständig unterwegs und arbeitet.
-851|adj|rechte (r, s)|Der rechte Schuh passt perfekt.
-855|adj|aktiv|Er bleibt auch im Alter aktiv.
-876|adj|interessant|Das Buch ist wirklich interessant.
-877|adj|menschlich|Er zeigt sich sehr menschlich.
-882|adj|französisch|Er liest gerne französische Literatur.
-884|adj|negativ|Der Einfluss war eher negativ.
-885|adj|zentral|Das Büro liegt in zentraler Lage.
-890|adj|absolut|Das ist absolut kein Problem mehr.
-897|adj|konkret|Hast du eine konkrete Idee dazu?
-898|adj|russisch|Er studiert russische Geschichte.
-904|adj|amerikanisch|Amerikanische Filme sind beliebt.
-908|adj|praktisch|Diese Lösung ist praktisch und nützlich.
-911|adj|weltweit|Das Produkt wird weltweit verkauft.
-915|adj|breit|Der breite Fluss fließt ruhig dahin.
-927|adj|fremd|Dieses Land ist mir völlig fremd.
-939|adj|linke (r, s)|Der linke Schuh drückt ein wenig.
-942|adj|leer|Die Straße war nachts völlig leer.
-950|adj|klassisch|Klassische Musik erklingt im Saal.
-951|adj|ehemalig|Mein ehemaliger Lehrer war sehr nett.
-955|adj|kalt|Das Wasser fühlt sich kalt an.
-958|adj|künftig|Künftige Projekte sind geplant.
-959|adj|national|Dieses Fest hat nationale Bedeutung.
-965|adj|lieb|Der Hund ist sehr lieb zu Kindern.
-969|adj|historisch|Das Gebäude ist historisch bedeutsam.
-973|adj|entscheidend|Das war entscheidend für den Erfolg.
-977|adj|wissenschaftlich|Das ist wissenschaftlich belegt.
-984|adj|bewusst|Er war sich der Gefahr bewusst.
-987|adj|zahlreich|Es gab zahlreiche Beschwerden.
-988|adj|medizinisch|Das ist medizinisch notwendig.
-989|adj|übrig|Nichts bleibt mehr übrig für später.
-1016|adj|blau|Das Meer leuchtet blau in der Sonne.
-1018|adj|teuer|Der Schmuck war unglaublich teuer.
-1040|adj|toll|Das war wirklich eine tolle Feier!
-1047|adj|schwach|Er fühlt sich heute sehr schwach.
-1055|adj|grundsätzlich|Er lehnt das grundsätzlich ab.
-1060|adj|ruhig|Das Meer war heute besonders ruhig.
-1072|adj|erneut|Er stellte erneut dieselbe Frage.
-1079|adj|vorhanden|Alle notwendigen Mittel waren vorhanden.
-1091|adj|total|Er war total erschöpft nach dem Lauf.
-1105|adj|kulturell|Das Festival ist kulturell wichtig.
-1110|adj|nötig|Deine Zustimmung ist unbedingt nötig.
-1114|adj|verantwortlich|Er ist verantwortlich für das Projekt.
-1115|adj|täglich|Er fährt täglich zur Arbeit mit dem Zug.
-1122|adj|ernst|Er machte ein ernstes Gesicht.
-1127|adj|jeweilig|Die jeweilige Lösung wurde diskutiert.
-1130|adj|vollständig|Das Buch wurde vollständig übersetzt.
-1141|adj|organisch|Organische Lebensmittel sind gesünder.
-1142|adj|glücklich|Er ist glücklich über das Ergebnis.
-1146|adj|dick|Er schnitt eine dicke Scheibe Brot ab.
-1147|adj|riesig|Der Baum im Garten ist riesig.
-1148|adj|heutig|Die heutige Sitzung ist wichtig.
-1154|adj|regelmäßig|Er besucht regelmäßig das Fitnessstudio.
-1162|adj|elektrisch|Das Auto ist elektrisch betrieben.
-1181|adj|typisch|Solches Verhalten ist typisch für sie.
-1198|adj|unmittelbar|Er reagierte unmittelbar nach dem Anruf.
-1200|adj|extrem|Das Wetter ist heute extrem heiß.
-1202|adj|theoretisch|Theoretisch könnte es funktionieren.
-1238|adj|physikalisch|Physikalische Gesetze gelten überall.
-1240|adj|leise|Der Wind weht leise durch die Bäume.
-1242|adj|eindeutig|Die Antwort war eindeutig richtig.
-1253|adj|obere (r, s)|Das obere Regal ist schwer erreichbar.
-1257|adj|mittlere (r, s)|Die mittlere Größe passt am besten.
-1267|adj|staatlich|Er besucht eine staatliche Schule.
-1269|adj|heiß|Der Tee war zu heiß zum Trinken.
-1284|adj|geboren|Sie ist eine geborene Musikerin.
-1289|adj|komplett|Das Haus war komplett renoviert.
-1296|adj|konstant|Die Geschwindigkeit blieb konstant.
-1303|adj|böse|Er war wirklich böse auf mich.
-1308|adj|ideal|Ein Spaziergang wäre jetzt ideal.
-1315|adj|kritisch|Er stellte kritische Fragen zur Lage.
-1322|adj|offensichtlich|Der Fehler war offensichtlich.
-1334|adj|frisch|Das frische Brot duftet herrlich.
-1340|adj|dicht|Der dichte Nebel erschwert die Sicht.
-1342|adj|bereit|Er war bereit, alles zu geben.
-1348|adj|Schweizer|Schweizer Schokolade ist berühmt.
-1349|adj|gesund|Er ernährt sich gesund und treibt Sport.
-1355|adj|warm|Das Wasser im See ist angenehm warm.
-1358|adj|maximal|Das ist das maximal erlaubte Gewicht.
-1361|adj|offiziell|Die Entscheidung ist nun offiziell.
-1362|adj|außen|Die Farbe ist außen verblasst.
-1366|adj|unbekannt|Der Täter blieb bisher unbekannt.
-1376|adj|still|Der Raum war still und dunkel.
-1397|adj|krank|Er fühlte sich krank und ging ins Bett.
-1399|adj|finanziell|Er unterstützt uns finanziell.
-1408|adj|ursprünglich|Ursprünglich war alles anders geplant.
-1419|adj|individuell|Die Beratung war individuell angepasst.
-1420|adj|intensiv|Das Training war intensiv und fordernd.
-1425|adj|rasch|Er verließ den Raum rasch und wortlos.
-1426|adj|real|Der Schmerz fühlt sich völlig real an.
-1430|adj|sinnvoll|So ein Plan wäre wirklich sinnvoll.
-1448|adj|stolz|Er ist stolz auf seinen Erfolg.
-1451|adj|streng|Der Chef ist streng, aber gerecht.
-1455|adj|berühmt|Der Sänger ist berühmt geworden.
-1463|adj|langfristig|Er plant langfristig für die Zukunft.
-1464|adj|herzlich|Er begrüßte uns sehr herzlich.
-1487|adj|hell|Das Zimmer ist hell und freundlich.
-1495|adj|britisch|Er liest gerne britische Literatur.
-1500|adj|froh|Ich bin froh, dass du hier bist.
-1505|adj|zuständig|Er ist zuständig für die Organisation.
-1518|adj|scharf|Das scharfe Messer schneidet gut.
-1522|adj|gelb|Die Blätter sind im Herbst oft gelb.
-1524|adj|heftig|Der Sturm war heftig und zerstörerisch.
-1528|adj|umgekehrt|Die Reihenfolge war genau umgekehrt.
-1531|adj|abhängig|Er ist finanziell von ihnen abhängig.
-1534|adj|ungefähr|Der Weg ist ungefähr zehn Kilometer.
-1536|adj|üblich|Solche Regeln sind hier üblich.
-1539|adj|global|Das Unternehmen ist global tätig.
-1551|adj|arm|Der arme Junge verlor sein Spielzeug.
-1560|adj|erheblich|Die Kosten stiegen erheblich an.
-1561|adj|ausschließlich|Das ist ausschließlich für Mitglieder.
-1562|adj|griechisch|Er studiert die griechische Mythologie.
-1576|adj|spezifisch|Das ist eine sehr spezifische Frage.
-1577|adj|stabil|Die Brücke ist stabil und sicher.
-1586|adj|doppelt|Die Menge ist doppelt so groß.
-1588|adj|österreichisch|Das österreichische Essen schmeckt gut.
-1595|adj|zufrieden|Er ist zufrieden mit der Arbeit.
-1604|adj|günstig|Die Tickets sind günstig erhältlich.
-1609|adj|türkisch|Der türkische Basar ist sehr lebhaft.
-1616|adj|sichtbar|Der Fortschritt war deutlich sichtbar.
-1631|adj|sprachlich|Er zeigte sprachlich großes Talent.
-1632|adj|bisherig|Die bisherige Lösung war unzureichend.
-1634|adj|traditionell|Das Fest wird traditionell gefeiert.
-1639|adj|grau|Der graue Himmel versprach Regen.
-1644|adj|nett|Die Nachbarn sind immer sehr nett.
-1645|adj|freundlich|Er begrüßte uns sehr freundlich.
-1646|adj|perfekt|Das Timing war einfach perfekt.
-1647|adj|reich|Er wurde durch harte Arbeit reich.
-1650|adj|ausländisch|Er spricht viele ausländische Sprachen.
-1652|adj|fern|Der Berg lag fern am Horizont.
-1662|adj|schuld|Er fühlt sich schuld am Unfall.
-1668|adj|ehrlich|Er ist immer ehrlich zu seinen Freunden.
-1673|adj|italienisch|Das Essen schmeckt italienisch.
-1684|adj|wunderbar|Der Abend war einfach wunderbar.
-1702|adj|entfernt|Der entfernte Berg war kaum zu sehen.
-1723|adj|vorsichtig|Er ging vorsichtig die Treppe hinunter.
-1725|adj|wild|Der wilde Sturm tobt die ganze Nacht.
-1726|adj|gesetzlich|Er handelt gesetzlich korrekt.
-1758|adj|fein|Der feine Sand fühlt sich weich an.
-1764|adj|unglaublich|Die Geschichte ist unglaublich.
-1774|adj|untere (r, s)|Das Buch ist auf dem unteren Regal.
-1789|adj|jährlich|Das Fest findet jährlich statt.
-1807|adj|erforderlich|Die Genehmigung ist erforderlich.
-1811|adj|zufällig|Der zufällige Fund war äußerst wertvoll.
-1812|adj|enorm|Der Aufwand für das Projekt war enorm.
-1820|adj|billig|Das Produkt war billig und nützlich.
-1821|adj|dünn|Das dünne Papier reißt schnell.
-1833|adj|weitgehend|Das Problem ist weitgehend gelöst.
-1834|adj|traurig|Er war traurig über die Nachricht.
-1837|adj|gegenseitig|Sie hatten gegenseitigen Respekt.
-1841|adj|primär|Die primäre Aufgabe ist erledigt.
-1843|adj|vollkommen|Die Arbeit war vollkommen fehlerfrei.
-1845|adj|massiv|Das massive Tor öffnete sich langsam.
-1846|adj|sämtlich|Sämtliche Tickets sind ausverkauft.
-1854|adj|super|Das neue Restaurant ist wirklich super!
-1855|adj|ökonomisch|Das Land hat ökonomische Probleme.
-1863|adj|zeitlich|Die zeitliche Planung war äußerst knapp.
-1866|adj|elektronisch|Die elektronische Musik füllte den Raum.
-1870|adj|demokratisch|Das Land hat ein demokratisches System.
-1873|adj|körperlich|Er arbeitet körperlich sehr hart.
-1881|adj|endgültig|Der Vertrag wurde endgültig geschlossen.
-1882|adj|ewig|Die Diskussion schien ewig zu dauern.
-1890|adj|schmal|Die schmale Gasse führt zum Marktplatz.
-1892|adj|spannend|Der Film gestern war wirklich spannend.
-1899|adj|bunt|Das Fest war bunt und lebendig.
-1911|adj|seltsam|Er fand die Situation seltsam.
-1916|adj|mächtig|Der König ist mächtig und einflussreich.
-1921|adj|-jährig|Er ist ein zwanzigjähriger Mann.
-1922|adj|künstlich|Das Licht ist künstlich erzeugt.
-1950|adj|kompliziert|Er erklärte die komplizierte Aufgabe.
-1955|adj|beliebt|Das Buch ist bei vielen sehr beliebt.
-1957|adj|komisch|Der Film war komisch und unterhaltsam.
-1958|adj|westlich|Das westliche Gebiet war ruhig.
-1959|adj|geistig|Die Arbeit ist geistig anspruchsvoll.
-1961|adj|unmöglich|So eine Aufgabe ist fast unmöglich.
-1962|adj|optimal|Das Ergebnis war optimal für uns.
-1976|adj|empirisch|Die Ergebnisse sind empirisch belegt.
-1987|adj|parallel|Die Straßen verlaufen parallel.
-1994|adj|korrekt|Deine Antwort war völlig korrekt.
-1998|adj|automatisch|Das Licht schaltet sich automatisch ein.
-2001|adj|spanisch|Er hört gerne spanische Musik.
-2026|adj|verrückt|Diese verrückte Idee gefällt mir!
-2031|adj|weiblich|Der weibliche Vogel singt nicht.
-2048|adj|durchschnittlich|Seine Leistungen waren durchschnittlich.
-2056|adj|lustig|Er erzählte eine lustige Geschichte.
-2057|adj|potenziell|Das ist ein potenzielles Risiko.
-2060|adj|religiös|Er ist sehr religiös erzogen worden.
-2061|adj|nackt|Er stand nackt vor der Dusche.
-2063|adj|beruflich|Beruflich hat er große Erfolge erzielt.
-2086|adj|Wiener|Die Wiener Oper ist weltbekannt.
-2087|adj|blöd|Es war wirklich eine blöde Entscheidung.
-2107|adj|golden|Die goldene Uhr gehört meinem Opa.
-2109|adj|sauber|Das Zimmer war ordentlich und sauber.
-2114|adj|relevant|Die Daten sind für die Studie relevant.
-2128|adj|damalig|Die damalige Entscheidung war schwer.
-2130|adj|mathematisch|Die mathematische Lösung ist korrekt.
-2142|adj|medial|Die mediale Präsenz des Events war groß.
-2143|adj|hauptsächlich|Er ist hauptsächlich beschäftigt.
-2149|adj|mehrfach|Er wurde schon mehrfach ausgezeichnet.
-2164|adj|unendlich|Die Möglichkeiten scheinen unendlich.
-2166|adj|literarisch|Das Werk ist literarisch bedeutend.
-2171|adj|ungewöhnlich|Das war ein ungewöhnlicher Fall.
-2174|adj|männlich|Die männlichen Läufer waren schneller.
-2181|adj|jüdisch|Die jüdische Gemeinde feiert heute.
-2187|adj|optisch|Das Design ist optisch ansprechend.
-2207|adj|heilig|Das Land ist den Menschen heilig.
-2242|adj|arabisch|Das arabische Essen ist köstlich.
-2253|adj|systematisch|Er ging das Problem systematisch an.
-2265|adj|nachhaltig|Sie planen nachhaltig und handeln.
-2283|adj|glatt|Die Straße war nach dem Regen glatt.
-2284|adj|schrecklich|Der Unfall war wirklich schrecklich.
-2285|adj|weich|Das Kissen ist angenehm weich.
-2287|adj|bedeutend|Das war eine bedeutende Entdeckung.
-2294|adj|kräftig|Er hat einen kräftigen Händedruck.
-2298|adj|angenehm|Das Gespräch verlief angenehm.
-2303|adj|winzig|In dem winzigen Raum steht nur ein Bett.
-2306|adj|künstlerisch|Seine künstlerische Arbeit beeindruckt.
-2313|adj|aufmerksam|Er hörte dem Vortrag aufmerksam zu.
-2316|adj|analog|Das Gerät funktioniert rein analog.
-2320|adj|äußere (r, s)|Das äußere Tor war verschlossen.
-2332|adj|ordentlich|Das Zimmer war ordentlich aufgeräumt.
-2337|adj|gewöhnlich|Er isst gewöhnlich sehr wenig.
-2343|adj|beliebig|Wählen Sie eine beliebige Option aus.
-2353|adj|stetig|Er arbeitet stetig an seinem Ziel.
-2354|adj|dumm|Das war eine dumme Entscheidung.
-2380|adj|vertraut|Er ist mit der Technik vertraut.
-2383|adj|sportlich|Er ist sehr sportlich und aktiv.
-2390|adj|intern|Das ist ein internes Dokument.
-2393|adj|schriftlich|Das ist eine schriftliche Bestätigung.
-2394|adj|genetisch|Das ist ein genetischer Defekt.
-2398|adj|lebendig|Der Markt war lebendig und bunt.
-2404|adj|braun|Das Haus ist braun gestrichen.
-2416|adj|zukünftig|Zukünftige Projekte sind geplant.
-2447|adj|trocken|Das Brot ist leider trocken geworden.
-2457|adj|friedlich|Die Demonstration verlief friedlich.
-2459|adj|vernünftig|Das war eine vernünftige Entscheidung.
-2462|adj|gegenwärtig|Er ist gegenwärtig nicht erreichbar.
-2468|adj|wahnsinnig|Der Lärm war einfach wahnsinnig laut.
-2469|adj|erstaunlich|Er handelte erstaunlich schnell.
-2472|adj|emotional|Das Gespräch wurde sehr emotional.
-2484|adj|vergleichbar|Die Ergebnisse sind kaum vergleichbar.
-2495|adj|wertvoll|Der Ring war klein, aber sehr wertvoll.
-2498|adj|umstritten|Die Entscheidung war umstritten.
-2501|adj|vielfältig|Die Auswahl im Laden war vielfältig.
-2502|adj|wirksam|Das Medikament ist sehr wirksam.
-2510|adj|indirekt|Er äußerte seine Kritik nur indirekt.
-2523|adj|flach|Das flache Land erstreckt sich weit.
-2525|adj|einheimisch|Er bevorzugt einheimische Produkte.
-2527|adj|sauer|Der saure Apfel schmeckt mir nicht.
-2555|adj|olympisch|Er trainiert für die olympischen Spiele.
-2559|adj|illegal|Drogenhandel ist in jedem Land illegal.
-2567|adj|einsam|Er fühlte sich einsam nach dem Umzug.
-2574|adj|Frankfurter|Die Frankfurter Messe beginnt bald.
-2575|adj|identisch|Die Zwillinge sehen fast identisch aus.
-2582|adj|räumlich|Die räumliche Trennung fiel schwer.
-2583|adj|jahrelang|Er arbeitete jahrelang an dem Projekt.
-2589|adj|effektiv|Die neue Methode ist äußerst effektiv.
-2595|adj|radikal|Er forderte radikale Veränderungen.
-2606|adj|willkommen|Du bist hier immer willkommen.
-2608|adj|gelegentlich|Gelegentlich treffe ich alte Freunde.
-2614|adj|formal|Die Bewerbung war formal korrekt.
-2615|adj|sanft|Der sanfte Wind streichelte ihr Gesicht.
-2619|adj|klug|Er ist klug und vorausschauend.
-2625|adj|scheinbar|Der Erfolg war scheinbar garantiert.
-2628|adj|selbstständig|Er arbeitet seit Jahren selbstständig.
-2630|adj|unklar|Der Text bleibt unklar formuliert.
-2631|adj|verfügbar|Die Information ist verfügbar.
-2633|adj|schlicht|Der Raum war schlicht eingerichtet.
-2634|adj|angemessen|Das Gehalt ist angemessen hoch.
-2638|adj|ernsthaft|Das ist eine ernsthafte Angelegenheit.
-2661|adj|kontinuierlich|Der Druck nahm kontinuierlich zu.
-2663|adj|Münchner|Die Münchner Biergärten sind bekannt.
-2673|adj|wütend|Er wurde wütend, als er das erfuhr.
-2674|adj|christlich|Christliche Werte prägen das Land.
-2675|adj|Hamburger|Der Hamburger Hafen ist sehr bekannt.
-2684|adj|hübsch|Das Kleid sieht wirklich hübsch aus.
-2686|adj|spontan|Er entschied sich spontan für die Reise.
-2693|adj|konservativ|Er hat konservative Ansichten.
-2695|adj|psychisch|Die Belastung war psychisch schwer.
-2700|adj|erkennbar|Der Fehler war sofort erkennbar.
-2711|adj|derartig|Derartige Probleme gab es nie.
-2726|adj|grob|Die groben Worte verletzten ihn tief.
-2738|adj|sekundär|Das ist von sekundärer Bedeutung.
-2742|adj|dankbar|Ich bin sehr dankbar für deine Hilfe.
-2746|adj|inhaltlich|Inhaltlich war der Text stark.
-2752|adj|kreativ|Ihre kreative Lösung überraschte alle.
-2763|adj|ausführlich|Er beschrieb das Problem ausführlich.
-2767|adj|blind|Er vertraut blind auf seinen Freund.
-2771|adj|allmählich|Allmählich verstand er die Situation.
-2796|adj|quer|Er legt die Bücher quer ins Regal.
-2803|adj|übel|Mir wurde plötzlich übel nach dem Essen.
-2811|adj|schwedisch|Das ist eine schwedische Firma.
-2813|adj|sexuell|Er sprach offen über sexuelle Themen.
-2815|adj|ironisch|Er antwortete ironisch auf die Frage.
-2818|adj|experimentell|Das Ergebnis ist experimentell.
-2819|adj|kühl|Der kühle Wind weht vom Meer her.
-2823|adj|syrisch|Das syrische Essen ist lecker.
-2832|adj|niederländisch|Wir haben niederländische Freunde.
-2839|adj|steil|Der Weg führt steil nach oben.
-2841|adj|heimisch|Sie sollten sich hier heimisch fühlen.
-2842|adj|interkulturell|Er fördert interkulturellen Austausch.
-2858|adj|alternativ|Es gibt eine alternative Lösung.
-2868|adj|arbeitslos|Er ist seit zwei Monaten arbeitslos.
-2884|adj|nervös|Vor der Prüfung war er sehr nervös.
-2887|adj|süß|Das Baby lächelt süß im Schlaf.
-2889|adj|weh|Mein Kopf tut schrecklich weh.
-2894|adj|fair|Er spielt immer fair und ehrlich.
-2895|adj|hervorragend|Er hat hervorragend gearbeitet.
-2896|adj|umfangreich|Er las den umfangreichen Bericht.
-2903|adj|betrieblich|Die betriebliche Leistung steigt.
-2917|adj|denkbar|Das ist denkbar, aber unwahrscheinlich.
-2931|adj|japanisch|Wir kochten ein japanisches Gericht.
-2936|adj|ausdrücklich|Das ist ausdrücklich verboten.
-2955|adj|dänisch|Die dänische Küche ist sehr beliebt.
-2963|adj|subjektiv|Das ist eine subjektive Meinung.
-2964|adj|unangenehm|Das unangenehme Wetter hält an.
-2967|adj|charakteristisch|Das ist charakteristisch für ihn.
-2985|adj|senkrecht|Die Linie verläuft senkrecht zur Achse.
-2995|adj|mobil|Er bleibt mobil trotz seines Alters.
-3004|adj|verständlich|Die Anweisungen waren verständlich.
-3006|adj|flüssig|Das Wasser floss flüssig durch das Rohr.
-3011|adj|konsequent|Er verfolgt seine Ziele konsequent.
-3027|adj|katholisch|Sie ist katholisch aufgewachsen.
-3028|adj|merkwürdig|Sein Verhalten war wirklich merkwürdig.
-3038|adj|juristisch|Die juristische Lage ist unklar.
-3039|adj|peinlich|Das war eine peinliche Situation.
-3045|adj|kaputt|Der Stuhl ist kaputt gegangen.
-3056|adj|divers|Das Team war divers zusammengesetzt.
-3060|adj|ausgeprägt|Sie hat ein ausgeprägtes Talent gezeigt.
-3064|adj|dementsprechend|Er verhielt sich dementsprechend.
-3080|adj|zugehörig|Das ist der zugehörige Schlüssel.
-3081|adj|analytisch|Analytisch betrachtet hat er recht.
-3083|adj|locker|Das Gespräch war locker und entspannt.
-3084|adj|sonstig|Er erledigte sonstige Aufgaben.
-3086|adj|bitter|Die bittere Wahrheit kam ans Licht.
-3087|adj|permanent|Er lebt in permanentem Stress.
-3091|adj|nachfolgend|Die nachfolgende Erklärung ist wichtig.
-3102|adj|professionell|Er geht die Aufgaben professionell an.
-3106|adj|kinetisch|Die kinetische Energie ist groß.
-3109|adj|zugänglich|Die Dokumente sind zugänglich.
-3115|adj|langweilig|Dieses Buch ist sehr langweilig.
-3117|adj|schief|Das Bild hängt schief an der Wand.
-3127|adj|einig|Einige Leute kamen schon sehr früh.
-3133|adj|stellvertretend|Er übernahm stellvertretend die Leitung.
-3135|adj|mündlich|Er bestand die mündliche Prüfung.
-3136|adj|neugierig|Er ist neugierig auf das neue Buch.
-3146|adj|cool|Er findet die neue Jacke cool.
-3151|adj|virtuell|Das Treffen fand virtuell statt.
-3164|adj|unzählig|Unzählige Sterne leuchten am Himmel.
-3168|adj|effizient|Das System arbeitet effizient.
-3172|adj|verheiratet|Er ist seit zehn Jahren verheiratet.
-3173|adj|vorübergehend|Er nahm eine vorübergehende Stelle an.
-3176|adj|diskret|Er hat sich sehr diskret verhalten.
-3181|adj|erwachsen|Er benimmt sich schon sehr erwachsen.
-3182|adj|ökologisch|Das Produkt ist ökologisch unbedenklich.
-3183|adj|problematisch|Problematisch war die Umsetzung.
-3190|adj|schwanger|Sie ist im achten Monat schwanger.
-3194|adj|wunderschön|Der Garten blühte wunderschön.
-3209|adj|geheim|Das ist ein geheimes Dokument.
-3210|adj|rechtzeitig|Er kam rechtzeitig zur Sitzung.
-3211|adj|anwesend|Alle Mitglieder sind anwesend.
-3213|adj|nass|Der Boden war nass nach dem Regen.
-3218|adj|intelligent|Er ist ein intelligenter Mensch.
-3223|adj|benachbart|Das benachbarte Dorf ist klein.
-3224|adj|explizit|Die Anweisungen waren explizit.
-3226|adj|hintere (r, s)|Der hintere Eingang ist verschlossen.
-3250|adj|wach|Ich bin schon seit sechs Uhr wach.
-3260|adj|neutral|Er blieb in der Diskussion neutral.
-3261|adj|qualitativ|Das Produkt ist qualitativ hochwertig.
-3262|adj|feucht|Das Handtuch war noch leicht feucht.
-3271|adj|furchtbar|Das Wetter war furchtbar schlecht.
-3278|adj|sensibel|Er reagiert sehr sensibel auf Kritik.
-3280|adj|vordere|Der vordere Sitz ist bequemer.
-3289|adj|herrlich|Das Wetter heute ist einfach herrlich.
-3297|adj|radioaktiv|Das Material ist radioaktiv belastet.
-3298|adj|unsicher|Er fühlt sich unsicher bei der Prüfung.
-3306|adj|fröhlich|Sie hat ein fröhliches Lachen.
-3309|adj|quantitativ|Quantitative Daten allein reichen nicht.
-3313|adj|heimlich|Er traf sich heimlich mit ihr.
-3321|adj|mechanisch|Die mechanische Arbeit war anstrengend.
-3324|adj|symmetrisch|Das Muster war symmetrisch angeordnet.
-3332|adj|anscheinend|Anscheinend ist das Wetter gut.
-3335|adj|polnisch|Wir besuchen eine polnische Stadt.
-3357|adj|klinisch|Er untersucht alles klinisch genau.
-3360|adj|indisch|Er kochte indisch für seine Freunde.
-3375|adj|objektiv|Er analysierte die Lage objektiv.
-3377|adj|stumm|Er blieb stumm und sagte kein Wort.
-3382|adj|maßgeblich|Er war maßgeblich am Erfolg beteiligt.
-3394|adj|sorgfältig|Er arbeitet sehr sorgfältig am Projekt.
-3402|adj|dynamisch|Er arbeitet dynamisch und erreicht viel.
-3406|adj|fett|Das Essen war wirklich sehr reichlich.
-3418|adj|harmonisch|Die Farben wirken harmonisch zusammen.
-3422|adj|fix|Der Termin ist fix und steht fest.
-3435|adj|abstrakt|Die abstrakte Kunst hängt im Museum.
-3436|adj|ästhetisch|Das Gebäude ist ästhetisch ansprechend.
-3446|adj|strukturell|Das Problem war strukturell bedingt.
-3451|adj|realistisch|Seine Erwartungen sind realistisch.
-3452|adj|tödlich|Das Gift ist für Menschen tödlich.
-3461|adj|besorgt|Er ist besorgt um seine Gesundheit.
-3469|adj|bequem|Das Sofa im Wohnzimmer ist sehr bequem.
-3481|adj|nützlich|Das Werkzeug ist sehr nützlich.
-3489|adj|physisch|Die Arbeit ist physisch anstrengend.
-3495|adj|gespannt|Er ist gespannt auf die Nachricht.
-3497|adj|stundenlang|Er wartet stundenlang im Regen.
-3503|adj|kognitiv|Kognitive Fähigkeiten sind wichtig.
-3506|adj|auffällig|Sein Verhalten war sehr auffällig.
-3511|adj|psychologisch|Psychologische Beratung kann helfen.
-3512|adj|treu|Er bleibt treu an ihrer Seite.
-3530|adj|aggressiv|Der Hund verhielt sich aggressiv.
-3531|adj|definitiv|Das ist definitiv die beste Wahl.
-3553|adj|südlich|Südlich von hier liegt der See.
-3562|adj|kostenlos|Er bietet die Hilfe kostenlos an.
-3567|adj|einzigartig|Das Design ist wirklich einzigartig.
-3569|adj|reell|Reell betrachtet ist die Lage schwierig.
-3583|adj|industriell|Die Stadt ist industriell geprägt.
-3587|adj|absurd|Diese Behauptung ist einfach absurd.
-3591|adj|autonom|Das Fahrzeug fährt vollkommen autonom.
-3592|adj|blond|Das blonde Kind spielt draußen.
-3593|adj|anstrengend|Die Arbeit war körperlich anstrengend.
-3596|adj|lateinisch|Die lateinische Sprache ist komplex.
-3598|adj|mühsam|Er erledigt die Aufgabe mühsam.
-3599|adj|präzise|Der Techniker arbeitet sehr präzise.
-3607|adj|düster|Der düstere Wald wirkt unheimlich.
-3612|adj|starr|Er blickte starr auf den Bildschirm.
-3623|adj|langjährig|Sie haben eine langjährige Freundschaft.
-3636|adj|deutschsprachig|Er liest deutschsprachige Bücher.
-3642|adj|hässlich|Das Gebäude sieht hässlich aus.
-3644|adj|unverändert|Die Situation blieb unverändert.
-3653|adj|akademisch|Das Niveau ist akademisch hoch.
-3654|adj|aufwendig|Das Kleid war aufwendig gestaltet.
-3664|adj|liberal|Die Partei ist politisch liberal.
-3665|adj|musikalisch|Musikalisch war er talentiert.
-3687|adj|variabel|Die Bedingungen sind variabel.
-3694|adj|proportional|Die Kosten sind proportional zum Nutzen.
-3698|adj|operativ|Operativ konnte er alles regeln.
-3702|adj|schräg|Die Straße verläuft leicht schräg.
-3703|adj|verehrt|Der verehrte Lehrer hielt eine Rede.
-3707|adj|gefangen|Das Tier wurde in der Falle gefangen.
-3711|adj|restlich|Die restlichen Fragen bleiben offen.
-3718|adj|einmalig|Er bietet das Erlebnis einmalig an.
-3724|adj|unsichtbar|Das Gas war unsichtbar, aber gefährlich.
-3727|adj|vorläufig|Das ist eine vorläufige Entscheidung.
-3729|adj|akut|Das Problem trat ganz plötzlich auf.
-3731|adj|chronisch|Er leidet an chronischen Schmerzen.
-3738|adj|touristisch|Die Stadt ist touristisch attraktiv.
-3740|adj|geographisch|Die Lage ist geographisch vorteilhaft.
-3751|adj|gültig|Das Ticket ist bis morgen gültig.
-3758|adj|israelisch|Er spricht fließend Hebräisch.
-3765|adj|vergeblich|Er versuchte es vergeblich noch einmal.
-3774|adj|schuldig|Er fühlte sich schuldig für den Fehler.
-3777|adj|elementar|Elementare Kenntnisse sind erforderlich.
-3785|adj|final (er, e, es)|Das ist die finale Entscheidung.
-3788|adj|physiologisch|Das ist physiologisch bedingt.
-3793|adj|endlos|Die Diskussion schien endlos zu sein.
-3799|adj|städtisch|Das städtische Leben ist lebendig.
-3801|adj|harmlos|Das Geräusch klang ganz harmlos.
-3802|adj|reichlich|Es gab reichlich zu essen für alle.
-3804|adj|spektakulär|Das Feuerwerk war spektakulär.
-3820|adj|dauernd|Er redet dauernd über das Wetter.
-3821|adj|eigenständig|Er arbeitet völlig eigenständig.
-3822|adj|elegant|Die elegante Frau betrat den Raum.
-3824|adj|mutmaßlich|Der mutmaßliche Täter wurde gefasst.
-3826|adj|vermehrt|Vermehrt kamen neue Probleme auf.
-3833|adj|asymmetrisch|Das Bild zeigt sich asymmetrisch.
-3834|adj|bescheiden|Er lebt bescheiden, aber zufrieden.
-3854|adj|prinzipiell|Er ist prinzipiell gegen Gewalt.
-3863|adj|hessisch|Die hessische Küche ist bekannt.
-3865|adj|passiv|Er blieb während der Diskussion passiv.
-3871|adj|detailliert|Der Plan wurde detailliert beschrieben.
-3874|adj|unglücklich|Er war unglücklich über den Verlust.
-3894|adj|gründlich|Er reinigte den Raum gründlich.
-3913|adj|jetzig|Die jetzige Situation ist schwierig.
-3917|adj|lächerlich|Die Forderung war einfach lächerlich.
-3920|adj|außerordentlich|Er war außerordentlich begabt.
-3922|adj|minimal|Er zahlt minimal für die Reparatur.
-3926|adj|unerwartet|Der Besuch war völlig unerwartet.
-3948|adj|materiell|Materieller Besitz ist vergänglich.
-3954|adj|mutig|Mutig stellte er sich der Gefahr.
-3956|adj|sympathisch|Er wirkte sofort sympathisch auf alle.
-3965|adj|hilfreich|Das Buch war sehr hilfreich für mich.
-3967|adj|königlich|Er erhielt königlichen Besuch.
-3971|adj|schmutzig|Die schmutzige Wäsche liegt dort.
-3974|adj|gemütlich|Wir sitzen gemütlich beisammen.
-3978|adj|blass|Nach dem Schock war er sehr blass.
-3996|adj|romantisch|Er plante ein romantisches Abendessen.
-4003|adj|zart|Er bereitete das zarte Gemüse zu.
-4008|adj|seitlich|Das Auto wurde seitlich beschädigt.
-4013|adj|satt|Ich bin satt und kann nicht mehr essen.
-4015|adj|symbolisch|Das Geschenk war symbolisch wertvoll.
-4021|adj|ländlich|Das Dorf ist sehr ländlich gelegen.
-4026|adj|anspruchsvoll|Das Projekt war anspruchsvoll.
-4030|adj|geometrisch|Geometrische Formen faszinieren ihn.
-4035|adj|unwahrscheinlich|Das Szenario ist unwahrscheinlich.
-4044|adj|partiell|Die Lösung war nur partiell erfolgreich.
-4063|adj|schwul|Er hat sich als schwul geoutet.
-4065|adj|bemerkenswert|Das Ergebnis ist wirklich bemerkenswert.
-4068|adj|einseitig|Er entscheidet einseitig für alle.
-4076|adj|bundesweit|Die Aktion fand bundesweit Beachtung.
-4084|adj|aromatisch|Der Wein schmeckte aromatisch.
-4090|adj|thermisch|Die thermische Belastung war hoch.
-4092|adj|verwandt|Wir sind entfernt miteinander verwandt.
-4110|adj|sachlich|Er erklärte den Sachverhalt sachlich.
-4117|adj|außergewöhnlich|Das war eine außergewöhnliche Leistung.
-4121|adj|Kölner|Der Kölner Dom ist weltbekannt.
-4129|adj|bar|Ich bezahle die Rechnung lieber bar.
-4141|adj|flüchtig|Er gibt ihr einen flüchtigen Kuss.
-4149|adj|verdächtig|Sein Verhalten war verdächtig.
-4150|adj|zuverlässig|Er ist ein zuverlässiger Partner.
-4152|adj|alltäglich|Solche Probleme sind leider alltäglich.
-4161|adj|drastisch|Die Maßnahmen waren drastisch.
-4162|adj|gleichmäßig|Er atmete ruhig und gleichmäßig.
-4166|adj|molekular|Er analysiert die Struktur molekular.
-4169|adj|stationär|Er blieb stationär im Krankenhaus.
-4171|adj|brutal|Der Film war brutal und erschreckend.
-4172|adj|ehrenamtlich|Er arbeitet ehrenamtlich im Verein.
-4173|adj|großzügig|Er ist ein sehr großzügiger Mensch.
-4177|adj|strikt|Die Regeln wurden strikt befolgt.
-4181|adj|fit|Er bleibt fit durch regelmäßigen Sport.
-4189|adj|gelassen|Er bleibt in jeder Situation gelassen.
-4190|adj|live|Das Konzert wurde live übertragen.
-4192|adj|sozialistisch|Sozialistische Ideen waren umstritten.
-4209|adj|regelrecht|Das war eine regelrechte Katastrophe.
-4216|adj|regulär|Das Treffen fand regulär statt.
-4218|adj|ukrainisch|Das ukrainische Essen ist sehr würzig.
-4229|adj|elektromagnetisch|Elektromagnetische Felder umgeben uns.
-4236|adj|örtlich|Die Hilfe war örtlich begrenzt.
-4241|adj|prominent|Ein prominenter Gast besuchte das Event.
-4243|adj|afrikanisch|Die afrikanische Musik begeistert.
-4248|adj|philosophisch|Er stellte eine philosophische Frage.
-4255|adj|einverstanden|Ich bin mit dem Plan einverstanden.
-4256|adj|fachlich|Der Bericht ist fachlich fundiert.
-4274|adj|einstig|Der einstige Ruhm verblasste schnell.
-4279|adj|nördlich|Nördlich von Berlin liegt ein See.
-4280|adj|obig|Das obige Beispiel zeigt den Fehler.
-4281|adj|skeptisch|Er blickt skeptisch auf die Zahlen.
-4287|adj|ärztlich|Die ärztliche Beratung ist kostenlos.
-4289|adj|geschickt|Sie löste das Problem geschickt.
-4290|adj|mittelalterlich|Die Stadt hat mittelalterliche Gebäude.
-4295|adj|anorganisch|Anorganische Chemie ist faszinierend.
-4303|adj|sinnlos|Die Diskussion war völlig sinnlos.
-4308|adj|erreichbar|Der Gipfel war kaum erreichbar.
-4312|adj|populär|Diese Band ist sehr populär in Europa.
-4326|adj|intellektuell|Das Gespräch war intellektuell anregend.
-4327|adj|legendär|Die legendäre Band tritt wieder auf.
-4329|adj|motorisch|Die Bewegung fiel ihm motorisch schwer.
-4357|adj|mild|Der milde Winter überraschte alle.
-4365|adj|Thüringer|Die Thüringer Küche ist berühmt.
-4372|adj|vorig|Im vorigen Jahr war es anders.
-4375|adj|belgisch|Er probierte belgische Schokolade.
-4380|adj|glänzend|Das Auto glänzt nach der Wäsche.
-4389|adj|horizontal|Das Bild hing horizontal an der Wand.
-4391|adj|kriminell|Er wollte nicht kriminell werden.
-4393|adj|vorzeitig|Der Bericht ist vorzeitig fertig.
-4403|adj|nachvollziehbar|Die Erklärung war gut nachvollziehbar.
-4404|adj|spürbar|Die Kälte war spürbar im Raum.
-4410|adj|schlank|Er bleibt schlank durch viel Bewegung.
-4416|adj|quadratisch|Der Tisch hat eine quadratische Form.
-4418|adj|solide|Der Plan ist solide und durchdacht.
-4419|adj|unauffällig|Er kleidete sich sehr unauffällig.
-4426|adj|homogen|Die Gruppe war homogen zusammengesetzt.
-4437|adj|unerträglich|Der Lärm wurde unerträglich laut.
-4439|adj|zwangsläufig|Die Entscheidung war zwangsläufig.
-4443|adj|kommunal|Kommunale Wahlen stehen bevor.
-4452|adj|behindert|Er hilft seinem behinderten Bruder.
-4464|adj|signifikant|Die Unterschiede sind signifikant.
-4467|adj|unbewusst|Er war sich unbewusst der Gefahr.
-4469|adj|voraussichtlich|Der Zug kommt voraussichtlich später an.
-4479|adj|überlegen|Er ist ihm überlegen im Schach.
-4492|adj|humanitär|Sie leisteten humanitäre Hilfe.
-4494|adj|naiv|Das naive Kind vertraute jedem.
-4503|adj|gänzlich|Er hat das gänzlich vergessen.
-4510|adj|asiatisch|Asiatische Küche ist sehr beliebt.
-4512|adj|blutig|Nach dem Unfall war die Straße blutig.
-4516|adj|römisch|Das römische Reich war mächtig.
-4521|adj|auswärtig|Die auswärtigen Gäste reisten an.
-4522|adj|elastisch|Das Band dehnte sich elastisch aus.
-4529|adj|verbal|Er reagiert nur verbal auf Kritik.
-4537|adj|gängig|Diese Methode ist sehr gängig.
-4539|adj|kommunikativ|Er ist sehr kommunikativ und offen.
-4541|adj|letzterer, letztere, letzteres|Von beiden ist letzteres besser.
-4545|adj|zeitgenössisch|Die zeitgenössische Kunst ist beliebt.
-4552|adj|innovativ|Innovative Ideen führten zum Erfolg.
-4553|adj|kollektiv|Kollektiv beschlossen sie die Maßnahmen.
-4554|adj|nüchtern|Er bleibt bei der Arbeit nüchtern.
-4555|adj|ungeheuer|Die Aufgabe war ungeheuer schwierig.
-4561|adj|derzeitig|Die derzeitige Lage ist kritisch.
-4565|adj|gigantisch|Das Gebäude hatte gigantische Ausmaße.
-4567|adj|überflüssig|Diese Information war überflüssig.
-4573|adj|sowjetisch|Sowjetische Technik war robust.
-4575|adj|verbindlich|Er gab verbindlich seine Zusage.
-4579|adj|konventionell|Er bevorzugt konventionelle Methoden.
-4581|adj|organisatorisch|Die organisatorische Struktur ist klar.
-4582|adj|reif|Die reifen Äpfel fielen von den Bäumen.
-4587|adj|empfindlich|Er reagiert empfindlich auf Kritik.
-4589|adj|hilflos|Das hilflose Kind weinte bitterlich.
-4602|adj|witzig|Sein Kommentar war witzig und spontan.
-4609|adj|rational|Die Entscheidung war rational.
-4611|adj|fließend|Er spricht fließend drei Sprachen.
-4613|adj|naturwissenschaftlich|Er ist naturwissenschaftlich begabt.
-4633|adj|pädagogisch|Das Programm ist pädagogisch wertvoll.
-4653|adj|dominant|Der dominante Spieler setzte sich durch.
-4663|adj|giftig|Die Pflanze ist giftig und gefährlich.
-4665|adj|hinreichend|Die Beweise waren hinreichend.
-4676|adj|gehörlos|Er unterrichtet gehörlose Kinder.
-4685|adj|familiär|Das Restaurant wirkt familiär.
-4689|adj|technologisch|Technologisch geht die Firma voran.
-4691|adj|antik|Das antike Gebäude wurde restauriert.
-4694|adj|gesundheitlich|Gesundheitlich geht es ihm besser.
-4695|adj|konstruktiv|Das Meeting verlief sehr konstruktiv.
-4703|adj|fähig|Er ist fähig, die Aufgabe zu lösen.
-4722|adj|ausgesprochen|Das Essen war ausgesprochen lecker.
-4728|adj|präsent|Er war bei der Sitzung präsent.
-4732|adj|vornehm|Die vornehme Dame betritt den Raum.
-4733|adj|bedeutsam|Das ist eine bedeutsame Entscheidung.
-4734|adj|evangelisch|Er ist evangelisch getauft worden.
-4737|adj|nachdenklich|Er war nachdenklich nach dem Gespräch.
-4750|adj|pünktlich|Er kommt immer pünktlich zur Arbeit.
-4753|adj|diplomatisch|Der diplomatische Weg ist oft der beste.
-4762|adj|oberflächlich|Die Prüfung war oberflächlich.
-4763|adj|parlamentarisch|Er arbeitet parlamentarisch korrekt.
-4764|adj|semantisch|Das Wort ist semantisch komplex.
-4783|adj|ethisch|Ethisch korrektes Handeln ist wichtig.
-4788|adj|optimistisch|Er blickt optimistisch in die Zukunft.
-4794|adj|beweglich|Das Material ist sehr beweglich.
-4796|adj|fraglich|Seine Aussagen waren fraglich.
-4800|adj|nächtlich|Nächtliche Geräusche weckten mich.
-4814|adj|selbstbewusst|Er sprach selbstbewusst vor der Gruppe.
-4815|adj|souverän|Der König war ein souveräner Herrscher.
-4837|adj|höflich|Er ist immer höflich zu seinen Nachbarn.
-4851|adj|muslimisch|Die muslimische Gemeinde feiert Ramadan.
-4856|adj|visuell|Visuell war das Projekt ansprechend.
-4865|adj|nachträglich|Er bekam eine nachträgliche Einladung.
-4868|adj|spitz|Der Bleistift war spitz genug.
-4882|adj|monatlich|Die Rechnung ist monatlich fällig.
-4883|adj|sächsisch|Die sächsische Dialekt ist unverkennbar.
-4894|adj|frühzeitig|Er kommt immer frühzeitig zur Arbeit.
-4895|adj|fundamental|Das ist ein fundamentales Prinzip.
-4901|adj|unnötig|Das war ein unnötiger Kommentar.
-4908|adj|funktional|Das Design war funktional und effizient.
-4911|adj|legal|Das Geschäft ist völlig legal.
-4914|adj|silbern|Die silberne Kette glitzerte im Licht.
-4934|adj|ungleich|Die Kräfteverhältnisse waren ungleich.
-4935|adj|verlässlich|Er ist ein verlässlicher Kollege.
-4938|adj|brav|Das Kind war heute besonders brav.
-4958|adj|faul|Er bleibt den ganzen Tag faul im Bett.
-4973|adj|plausibel|Seine Erklärung klingt plausibel.
-4980|adj|beträchtlich|Die Summe ist beträchtlich gestiegen.
-4985|adj|östlich|Der Wind kommt aus östlicher Richtung.
-4991|adj|zulässig|Das Verhalten ist nicht zulässig.
-4993|adj|ausgezeichnet|Der Service war ausgezeichnet.
-4996|adj|führend|Sie ist eine führende Expertin.
-5004|adj|unschuldig|Der Angeklagte ist unschuldig.
-5008|adj|afghanisch|Die afghanische Küche ist sehr würzig.
-5012|adj|gläubig|Der gläubige Mann betet täglich.
-5024|adj|nominal|Nominal sind die Werte gleich.
-5033|adj|magisch|Die Atmosphäre war fast magisch.
-5047|adj|tragisch|Das war eine tragische Geschichte.
-5054|adj|simpel|Die Anleitung ist wirklich simpel.
-5057|adj|uralt|Das uralte Buch wurde neu entdeckt.
-5059|adj|anfänglich|Der anfängliche Plan war besser.
-5066|adj|fürchterlich|Das Unwetter war fürchterlich stark.
-5067|adj|norwegisch|Das norwegische Team war stark.
-5072|adj|Zürcher|Er genoss die Zürcher Küche sehr.
-5088|adj|vertikal|Das Bild hängt vertikal an der Wand.
-5099|adj|wörtlich|Das ist wörtlich zu verstehen.
-5103|adj|jugendlich|Er wirkt immer noch sehr jugendlich.
-5111|adj|zuversichtlich|Er bleibt zuversichtlich trotz allem.
+|word_de|sentence_de
+87|groß|Der Baum im Garten ist sehr groß.
+89|ganz|Ich habe den ganzen Tag gearbeitet.
++98|gut|Mir schmeckt das Essen sehr gut.
+109|neu|Ich habe ein neues Buch gekauft.
+121|erste (r, s)|Der erste Schnee ist gefallen.
+123|lang|Der lange Weg führt durch den Wald.
+130|wenig|Es bleibt nur wenig Zeit bis zur Abgabe.
+139|klein|Das Haus ist klein, aber gemütlich.
+148|hoch|Der Baum ist sehr hoch gewachsen.
+163|einfach|Die Lösung war einfach und klar.
+171|natürlich|Das war eine ganz natürliche Reaktion.
+173|alt|Das Buch ist sehr alt, aber interessant.
+176|gleich|Wir haben das gleiche Problem.
+179|wichtig|Pünktlichkeit ist im Job wichtig.
+187|eigentlich|Er ist der eigentliche Besitzer.
+190|letzte (r, s)|Die letzte Chance ist nun vorbei.
+197|gerade|Er hat die Linie gerade gezogen.
+205|eigen|Er brachte sein eigenes Essen mit.
++206|genau|Er erklärte die Aufgabe genau.
+208|spät|Es ist schon zu spät für eine Antwort.
++209|spät|Können wir das später besprechen?
+211|möglich|Bei uns ist fast alles möglich.
+218|kurz|Der Film war überraschend kurz.
+219|richtig|Dein Vorschlag war absolut richtig.
+220|stark|Der Wind wehte heute besonders stark.
+225|weitere (r, s)|Ein weiterer Vorschlag wurde gemacht.
+231|schön|Am See war es gestern sehr schön.
+232|wirklich|Das ist eine wirkliche Gefahr.
+244|jung|Der junge Mann geht zur Arbeit.
+246|besser|Heute fühle ich mich schon besser.
+248|schnell|Der schnelle Läufer gewann das Rennen.
+283|nächste (r, s)|Das nächste Treffen ist im März.
+285|klar|Das Wasser war klar und ruhig.
++289|recht|Es ist mir recht, wenn wir später gehen.
+303|verschieden|Er probierte verschiedene Methoden aus.
+306|schwer|Der Koffer war schwer zu tragen.
+330|bestimmt|Das ist bestimmt eine gute Idee.
++340|wert|Seine Mühe ist jede Anerkennung wert.
+346|gemeinsam|Wir haben ein gemeinsames Ziel.
+347|rund|Der Tisch hat eine runde Form.
+354|deutlich|Die Anweisungen waren deutlich.
+356|politisch|Er ist politisch sehr engagiert.
+363|leicht|Der Koffer war überraschend leicht.
+367|beste (r, s)|Er ist der beste Spieler im Team.
+372|bekannt|Er ist als guter Arzt bekannt.
+381|schlecht|Das Wetter war heute wirklich schlecht.
+389|europäisch|Das ist ein europäisches Projekt.
++394|tatsächlich|Es ist tatsächlich wahr, was er sagt.
+398|einzig|Er ist der einzige, der es kann.
+400|unterschiedlich|Die Meinungen gingen stark auseinander.
+408|direkt|Der direkte Weg führt durch den Wald.
+410|offen|Die Tür stand weit offen, als ich ankam.
+421|früh|Er steht jeden Tag sehr früh auf.
+433|meiste|Die meiste Zeit verbringt er draußen.
+448|allgemein|Allgemein gilt das als unhöflich.
+462|häufig|Er wiederholte seine Frage oft.
+486|sozial|Soziale Gerechtigkeit ist ihm wichtig.
+493|ähnlich|Die beiden sehen sich ähnlich.
+498|tief|Der Brunnen reicht tief in die Erde.
+499|halb|Der Weg ist noch halb geschafft.
+528|weiß|Der weiße Schnee bedeckt das ganze Tal.
+530|schwarz|Der schwarze Anzug steht ihm gut.
+533|rot|Das Auto ist knallrot lackiert.
+536|nah|Wir wohnen in einer nahen Stadt.
+552|öffentlich|Die öffentliche Meinung ist gespalten.
+562|gering|Der Schaden ist nur gering gewesen.
+570|besondere (r, s)|Er hat eine besondere Art zu sprechen.
+571|tot|Der Baum im Garten ist leider tot.
++573|völlig|Er war völlig erschöpft nach dem Lauf.
+574|positiv|Er gab eine positive Rückmeldung.
+582|falsch|Die Antwort war leider falsch.
+584|langsam|Er sprach langsam und deutlich.
+603|persönlich|Das ist meine persönliche Meinung.
+610|gewiss|Er ist sich gewiss, dass es klappt.
+615|gesamt|Das gesamte Team arbeitet hart.
+625|fest|Der Vertrag wurde fest unterschrieben.
+626|aktuell|Das Thema ist aktuell sehr wichtig.
+629|relativ|Diese Aufgabe war relativ leicht.
+638|schwierig|Die Prüfung war extrem schwierig.
+641|zusätzlich|Zusätzlich brachte er Getränke mit.
+651|eng|Die Gassen der Altstadt sind eng.
+689|okay|Wenn du okay bist, gehen wir weiter.
+698|gleichzeitig|Sie lachten gleichzeitig laut.
+703|normal|Nach dem Unfall ist alles wieder normal.
+718|technisch|Das Problem ist technischer Natur.
+723|wesentlich|Dieser Punkt ist wesentlich für uns.
+724|englisch|Der englische Text ist schwer.
+727|rein|Das Wasser aus der Quelle ist rein.
++732|selten|Solche Tiere sieht man sehr selten.
+734|innere (r, s)|Das innere Gleichgewicht ist wichtig.
+745|grün|Das grüne Gras leuchtete in der Sonne.
+748|echt|Er zeigte echten Enthusiasmus.
+769|dunkel|Es wurde plötzlich dunkel im Raum.
+791|hart|Der Stein ist hart wie Granit.
++792|offenbar|Offenbar ist er nicht gut informiert.
+798|erfolgreich|Das Projekt war sehr erfolgreich.
+800|wahr|Die Geschichte ist tatsächlich wahr.
++804|bloß|Das war bloß ein kleiner Unfall.
+806|notwendig|Eine Klärung der Sache ist notwendig.
+809|wirtschaftlich|Das Land wächst wirtschaftlich.
+810|privat|Das Gespräch bleibt streng privat.
+811|modern|Das Gebäude wirkt sehr modern.
+815|unabhängig|Sie ist finanziell unabhängig.
+825|chemisch|Die chemische Reaktion verläuft schnell.
+826|schlimm|Es war nicht so schlimm, wie gedacht.
+838|laut|Er sprach laut, damit ihn alle hören.
+843|niedrig|Der Preis war erstaunlich niedrig.
+844|ständig|Er ist ständig unterwegs und arbeitet.
+851|rechte (r, s)|Der rechte Schuh passt perfekt.
+855|aktiv|Er bleibt auch im Alter aktiv.
+876|interessant|Das Buch ist wirklich interessant.
+877|menschlich|Er zeigt sich sehr menschlich.
+882|französisch|Er liest gerne französische Literatur.
+884|negativ|Der Einfluss war eher negativ.
+885|zentral|Das Büro liegt in zentraler Lage.
+890|absolut|Das ist absolut kein Problem mehr.
+897|konkret|Hast du eine konkrete Idee dazu?
+898|russisch|Er studiert russische Geschichte.
+904|amerikanisch|Amerikanische Filme sind beliebt.
+908|praktisch|Diese Lösung ist praktisch und nützlich.
+911|weltweit|Das Produkt wird weltweit verkauft.
+915|breit|Der breite Fluss fließt ruhig dahin.
+927|fremd|Dieses Land ist mir völlig fremd.
+939|linke (r, s)|Der linke Schuh drückt ein wenig.
+942|leer|Die Straße war nachts völlig leer.
+950|klassisch|Klassische Musik erklingt im Saal.
+951|ehemalig|Mein ehemaliger Lehrer war sehr nett.
+955|kalt|Das Wasser fühlt sich kalt an.
+958|künftig|Künftige Projekte sind geplant.
+959|national|Dieses Fest hat nationale Bedeutung.
+965|lieb|Der Hund ist sehr lieb zu Kindern.
+969|historisch|Das Gebäude ist historisch bedeutsam.
+973|entscheidend|Das war entscheidend für den Erfolg.
+977|wissenschaftlich|Das ist wissenschaftlich belegt.
+984|bewusst|Er war sich der Gefahr bewusst.
+987|zahlreich|Es gab zahlreiche Beschwerden.
+988|medizinisch|Das ist medizinisch notwendig.
+989|übrig|Nichts bleibt mehr übrig für später.
+1016|blau|Das Meer leuchtet blau in der Sonne.
+1018|teuer|Der Schmuck war unglaublich teuer.
+1040|toll|Das war wirklich eine tolle Feier!
+1047|schwach|Er fühlt sich heute sehr schwach.
+1055|grundsätzlich|Er lehnt das grundsätzlich ab.
+1060|ruhig|Das Meer war heute besonders ruhig.
+1072|erneut|Er stellte erneut dieselbe Frage.
+1079|vorhanden|Alle notwendigen Mittel waren vorhanden.
+1091|total|Er war total erschöpft nach dem Lauf.
+1105|kulturell|Das Festival ist kulturell wichtig.
+1110|nötig|Deine Zustimmung ist unbedingt nötig.
+1114|verantwortlich|Er ist verantwortlich für das Projekt.
+1115|täglich|Er fährt täglich zur Arbeit mit dem Zug.
+1122|ernst|Er machte ein ernstes Gesicht.
+1127|jeweilig|Die jeweilige Lösung wurde diskutiert.
+1130|vollständig|Das Buch wurde vollständig übersetzt.
+1141|organisch|Organische Lebensmittel sind gesünder.
+1142|glücklich|Er ist glücklich über das Ergebnis.
+1146|dick|Er schnitt eine dicke Scheibe Brot ab.
+1147|riesig|Der Baum im Garten ist riesig.
+1148|heutig|Die heutige Sitzung ist wichtig.
+1154|regelmäßig|Er besucht regelmäßig das Fitnessstudio.
+1162|elektrisch|Das Auto ist elektrisch betrieben.
+1181|typisch|Solches Verhalten ist typisch für sie.
+1198|unmittelbar|Er reagierte unmittelbar nach dem Anruf.
+1200|extrem|Das Wetter ist heute extrem heiß.
+1202|theoretisch|Theoretisch könnte es funktionieren.
+1238|physikalisch|Physikalische Gesetze gelten überall.
+1240|leise|Der Wind weht leise durch die Bäume.
+1242|eindeutig|Die Antwort war eindeutig richtig.
+1253|obere (r, s)|Das obere Regal ist schwer erreichbar.
+1257|mittlere (r, s)|Die mittlere Größe passt am besten.
+1267|staatlich|Er besucht eine staatliche Schule.
+1269|heiß|Der Tee war zu heiß zum Trinken.
+1284|geboren|Sie ist eine geborene Musikerin.
+1289|komplett|Das Haus war komplett renoviert.
+1296|konstant|Die Geschwindigkeit blieb konstant.
+1303|böse|Er war wirklich böse auf mich.
+1308|ideal|Ein Spaziergang wäre jetzt ideal.
+1315|kritisch|Er stellte kritische Fragen zur Lage.
+1322|offensichtlich|Der Fehler war offensichtlich.
+1334|frisch|Das frische Brot duftet herrlich.
+1340|dicht|Der dichte Nebel erschwert die Sicht.
+1342|bereit|Er war bereit, alles zu geben.
+1348|Schweizer|Schweizer Schokolade ist berühmt.
+1349|gesund|Er ernährt sich gesund und treibt Sport.
+1355|warm|Das Wasser im See ist angenehm warm.
+1358|maximal|Das ist das maximal erlaubte Gewicht.
+1361|offiziell|Die Entscheidung ist nun offiziell.
+1362|außen|Die Farbe ist außen verblasst.
+1366|unbekannt|Der Täter blieb bisher unbekannt.
+1376|still|Der Raum war still und dunkel.
+1397|krank|Er fühlte sich krank und ging ins Bett.
+1399|finanziell|Er unterstützt uns finanziell.
+1408|ursprünglich|Ursprünglich war alles anders geplant.
+1419|individuell|Die Beratung war individuell angepasst.
+1420|intensiv|Das Training war intensiv und fordernd.
+1425|rasch|Er verließ den Raum rasch und wortlos.
+1426|real|Der Schmerz fühlt sich völlig real an.
+1430|sinnvoll|So ein Plan wäre wirklich sinnvoll.
+1448|stolz|Er ist stolz auf seinen Erfolg.
+1451|streng|Der Chef ist streng, aber gerecht.
+1455|berühmt|Der Sänger ist berühmt geworden.
+1463|langfristig|Er plant langfristig für die Zukunft.
+1464|herzlich|Er begrüßte uns sehr herzlich.
+1487|hell|Das Zimmer ist hell und freundlich.
+1495|britisch|Er liest gerne britische Literatur.
+1500|froh|Ich bin froh, dass du hier bist.
+1505|zuständig|Er ist zuständig für die Organisation.
+1518|scharf|Das scharfe Messer schneidet gut.
+1522|gelb|Die Blätter sind im Herbst oft gelb.
+1524|heftig|Der Sturm war heftig und zerstörerisch.
+1528|umgekehrt|Die Reihenfolge war genau umgekehrt.
+1531|abhängig|Er ist finanziell von ihnen abhängig.
+1534|ungefähr|Der Weg ist ungefähr zehn Kilometer.
+1536|üblich|Solche Regeln sind hier üblich.
+1539|global|Das Unternehmen ist global tätig.
+1551|arm|Der arme Junge verlor sein Spielzeug.
+1560|erheblich|Die Kosten stiegen erheblich an.
+1561|ausschließlich|Das ist ausschließlich für Mitglieder.
+1562|griechisch|Er studiert die griechische Mythologie.
+1576|spezifisch|Das ist eine sehr spezifische Frage.
+1577|stabil|Die Brücke ist stabil und sicher.
+1586|doppelt|Die Menge ist doppelt so groß.
+1588|österreichisch|Das österreichische Essen schmeckt gut.
+1595|zufrieden|Er ist zufrieden mit der Arbeit.
+1604|günstig|Die Tickets sind günstig erhältlich.
+1609|türkisch|Der türkische Basar ist sehr lebhaft.
+1616|sichtbar|Der Fortschritt war deutlich sichtbar.
+1631|sprachlich|Er zeigte sprachlich großes Talent.
+1632|bisherig|Die bisherige Lösung war unzureichend.
+1634|traditionell|Das Fest wird traditionell gefeiert.
+1639|grau|Der graue Himmel versprach Regen.
+1644|nett|Die Nachbarn sind immer sehr nett.
+1645|freundlich|Er begrüßte uns sehr freundlich.
+1646|perfekt|Das Timing war einfach perfekt.
+1647|reich|Er wurde durch harte Arbeit reich.
+1650|ausländisch|Er spricht viele ausländische Sprachen.
+1652|fern|Der Berg lag fern am Horizont.
+1662|schuld|Er fühlt sich schuld am Unfall.
+1668|ehrlich|Er ist immer ehrlich zu seinen Freunden.
+1673|italienisch|Das Essen schmeckt italienisch.
+1684|wunderbar|Der Abend war einfach wunderbar.
+1702|entfernt|Der entfernte Berg war kaum zu sehen.
+1723|vorsichtig|Er ging vorsichtig die Treppe hinunter.
+1725|wild|Der wilde Sturm tobt die ganze Nacht.
+1726|gesetzlich|Er handelt gesetzlich korrekt.
+1758|fein|Der feine Sand fühlt sich weich an.
+1764|unglaublich|Die Geschichte ist unglaublich.
+1774|untere (r, s)|Das Buch ist auf dem unteren Regal.
+1789|jährlich|Das Fest findet jährlich statt.
+1807|erforderlich|Die Genehmigung ist erforderlich.
+1811|zufällig|Der zufällige Fund war äußerst wertvoll.
+1812|enorm|Der Aufwand für das Projekt war enorm.
+1820|billig|Das Produkt war billig und nützlich.
+1821|dünn|Das dünne Papier reißt schnell.
+1833|weitgehend|Das Problem ist weitgehend gelöst.
+1834|traurig|Er war traurig über die Nachricht.
+1837|gegenseitig|Sie hatten gegenseitigen Respekt.
+1841|primär|Die primäre Aufgabe ist erledigt.
+1843|vollkommen|Die Arbeit war vollkommen fehlerfrei.
+1845|massiv|Das massive Tor öffnete sich langsam.
+1846|sämtlich|Sämtliche Tickets sind ausverkauft.
+1854|super|Das neue Restaurant ist wirklich super!
+1855|ökonomisch|Das Land hat ökonomische Probleme.
+1863|zeitlich|Die zeitliche Planung war äußerst knapp.
+1866|elektronisch|Die elektronische Musik füllte den Raum.
+1870|demokratisch|Das Land hat ein demokratisches System.
+1873|körperlich|Er arbeitet körperlich sehr hart.
+1881|endgültig|Der Vertrag wurde endgültig geschlossen.
+1882|ewig|Die Diskussion schien ewig zu dauern.
+1890|schmal|Die schmale Gasse führt zum Marktplatz.
+1892|spannend|Der Film gestern war wirklich spannend.
+1899|bunt|Das Fest war bunt und lebendig.
+1911|seltsam|Er fand die Situation seltsam.
+1916|mächtig|Der König ist mächtig und einflussreich.
+1921|-jährig|Er ist ein zwanzigjähriger Mann.
+1922|künstlich|Das Licht ist künstlich erzeugt.
+1950|kompliziert|Er erklärte die komplizierte Aufgabe.
+1955|beliebt|Das Buch ist bei vielen sehr beliebt.
+1957|komisch|Der Film war komisch und unterhaltsam.
+1958|westlich|Das westliche Gebiet war ruhig.
+1959|geistig|Die Arbeit ist geistig anspruchsvoll.
+1961|unmöglich|So eine Aufgabe ist fast unmöglich.
+1962|optimal|Das Ergebnis war optimal für uns.
+1976|empirisch|Die Ergebnisse sind empirisch belegt.
+1987|parallel|Die Straßen verlaufen parallel.
+1994|korrekt|Deine Antwort war völlig korrekt.
+1998|automatisch|Das Licht schaltet sich automatisch ein.
+2001|spanisch|Er hört gerne spanische Musik.
+2026|verrückt|Diese verrückte Idee gefällt mir!
+2031|weiblich|Der weibliche Vogel singt nicht.
+2048|durchschnittlich|Seine Leistungen waren durchschnittlich.
+2056|lustig|Er erzählte eine lustige Geschichte.
+2057|potenziell|Das ist ein potenzielles Risiko.
+2060|religiös|Er ist sehr religiös erzogen worden.
+2061|nackt|Er stand nackt vor der Dusche.
+2063|beruflich|Beruflich hat er große Erfolge erzielt.
+2086|Wiener|Die Wiener Oper ist weltbekannt.
+2087|blöd|Es war wirklich eine blöde Entscheidung.
+2107|golden|Die goldene Uhr gehört meinem Opa.
+2109|sauber|Das Zimmer war ordentlich und sauber.
+2114|relevant|Die Daten sind für die Studie relevant.
+2128|damalig|Die damalige Entscheidung war schwer.
+2130|mathematisch|Die mathematische Lösung ist korrekt.
+2142|medial|Die mediale Präsenz des Events war groß.
+2143|hauptsächlich|Er ist hauptsächlich beschäftigt.
+2149|mehrfach|Er wurde schon mehrfach ausgezeichnet.
+2164|unendlich|Die Möglichkeiten scheinen unendlich.
+2166|literarisch|Das Werk ist literarisch bedeutend.
+2171|ungewöhnlich|Das war ein ungewöhnlicher Fall.
+2174|männlich|Die männlichen Läufer waren schneller.
+2181|jüdisch|Die jüdische Gemeinde feiert heute.
+2187|optisch|Das Design ist optisch ansprechend.
+2207|heilig|Das Land ist den Menschen heilig.
+2242|arabisch|Das arabische Essen ist köstlich.
+2253|systematisch|Er ging das Problem systematisch an.
+2265|nachhaltig|Sie planen nachhaltig und handeln.
+2283|glatt|Die Straße war nach dem Regen glatt.
+2284|schrecklich|Der Unfall war wirklich schrecklich.
+2285|weich|Das Kissen ist angenehm weich.
+2287|bedeutend|Das war eine bedeutende Entdeckung.
+2294|kräftig|Er hat einen kräftigen Händedruck.
+2298|angenehm|Das Gespräch verlief angenehm.
+2303|winzig|In dem winzigen Raum steht nur ein Bett.
+2306|künstlerisch|Seine künstlerische Arbeit beeindruckt.
+2313|aufmerksam|Er hörte dem Vortrag aufmerksam zu.
+2316|analog|Das Gerät funktioniert rein analog.
+2320|äußere (r, s)|Das äußere Tor war verschlossen.
+2332|ordentlich|Das Zimmer war ordentlich aufgeräumt.
+2337|gewöhnlich|Er isst gewöhnlich sehr wenig.
+2343|beliebig|Wählen Sie eine beliebige Option aus.
+2353|stetig|Er arbeitet stetig an seinem Ziel.
+2354|dumm|Das war eine dumme Entscheidung.
+2380|vertraut|Er ist mit der Technik vertraut.
+2383|sportlich|Er ist sehr sportlich und aktiv.
+2390|intern|Das ist ein internes Dokument.
+2393|schriftlich|Das ist eine schriftliche Bestätigung.
+2394|genetisch|Das ist ein genetischer Defekt.
+2398|lebendig|Der Markt war lebendig und bunt.
+2404|braun|Das Haus ist braun gestrichen.
+2416|zukünftig|Zukünftige Projekte sind geplant.
+2447|trocken|Das Brot ist leider trocken geworden.
+2457|friedlich|Die Demonstration verlief friedlich.
+2459|vernünftig|Das war eine vernünftige Entscheidung.
+2462|gegenwärtig|Er ist gegenwärtig nicht erreichbar.
+2468|wahnsinnig|Der Lärm war einfach wahnsinnig laut.
+2469|erstaunlich|Er handelte erstaunlich schnell.
+2472|emotional|Das Gespräch wurde sehr emotional.
+2484|vergleichbar|Die Ergebnisse sind kaum vergleichbar.
+2495|wertvoll|Der Ring war klein, aber sehr wertvoll.
+2498|umstritten|Die Entscheidung war umstritten.
+2501|vielfältig|Die Auswahl im Laden war vielfältig.
+2502|wirksam|Das Medikament ist sehr wirksam.
+2510|indirekt|Er äußerte seine Kritik nur indirekt.
+2523|flach|Das flache Land erstreckt sich weit.
+2525|einheimisch|Er bevorzugt einheimische Produkte.
+2527|sauer|Der saure Apfel schmeckt mir nicht.
+2555|olympisch|Er trainiert für die olympischen Spiele.
+2559|illegal|Drogenhandel ist in jedem Land illegal.
+2567|einsam|Er fühlte sich einsam nach dem Umzug.
+2574|Frankfurter|Die Frankfurter Messe beginnt bald.
+2575|identisch|Die Zwillinge sehen fast identisch aus.
+2582|räumlich|Die räumliche Trennung fiel schwer.
+2583|jahrelang|Er arbeitete jahrelang an dem Projekt.
+2589|effektiv|Die neue Methode ist äußerst effektiv.
+2595|radikal|Er forderte radikale Veränderungen.
+2606|willkommen|Du bist hier immer willkommen.
+2608|gelegentlich|Gelegentlich treffe ich alte Freunde.
+2614|formal|Die Bewerbung war formal korrekt.
+2615|sanft|Der sanfte Wind streichelte ihr Gesicht.
+2619|klug|Er ist klug und vorausschauend.
+2625|scheinbar|Der Erfolg war scheinbar garantiert.
+2628|selbstständig|Er arbeitet seit Jahren selbstständig.
+2630|unklar|Der Text bleibt unklar formuliert.
+2631|verfügbar|Die Information ist verfügbar.
+2633|schlicht|Der Raum war schlicht eingerichtet.
+2634|angemessen|Das Gehalt ist angemessen hoch.
+2638|ernsthaft|Das ist eine ernsthafte Angelegenheit.
+2661|kontinuierlich|Der Druck nahm kontinuierlich zu.
+2663|Münchner|Die Münchner Biergärten sind bekannt.
+2673|wütend|Er wurde wütend, als er das erfuhr.
+2674|christlich|Christliche Werte prägen das Land.
+2675|Hamburger|Der Hamburger Hafen ist sehr bekannt.
+2684|hübsch|Das Kleid sieht wirklich hübsch aus.
+2686|spontan|Er entschied sich spontan für die Reise.
+2693|konservativ|Er hat konservative Ansichten.
+2695|psychisch|Die Belastung war psychisch schwer.
+2700|erkennbar|Der Fehler war sofort erkennbar.
+2711|derartig|Derartige Probleme gab es nie.
+2726|grob|Die groben Worte verletzten ihn tief.
+2738|sekundär|Das ist von sekundärer Bedeutung.
+2742|dankbar|Ich bin sehr dankbar für deine Hilfe.
+2746|inhaltlich|Inhaltlich war der Text stark.
+2752|kreativ|Ihre kreative Lösung überraschte alle.
+2763|ausführlich|Er beschrieb das Problem ausführlich.
+2767|blind|Er vertraut blind auf seinen Freund.
+2771|allmählich|Allmählich verstand er die Situation.
+2796|quer|Er legt die Bücher quer ins Regal.
+2803|übel|Mir wurde plötzlich übel nach dem Essen.
+2811|schwedisch|Das ist eine schwedische Firma.
+2813|sexuell|Er sprach offen über sexuelle Themen.
+2815|ironisch|Er antwortete ironisch auf die Frage.
+2818|experimentell|Das Ergebnis ist experimentell.
+2819|kühl|Der kühle Wind weht vom Meer her.
+2823|syrisch|Das syrische Essen ist lecker.
+2832|niederländisch|Wir haben niederländische Freunde.
+2839|steil|Der Weg führt steil nach oben.
+2841|heimisch|Sie sollten sich hier heimisch fühlen.
+2842|interkulturell|Er fördert interkulturellen Austausch.
+2858|alternativ|Es gibt eine alternative Lösung.
+2868|arbeitslos|Er ist seit zwei Monaten arbeitslos.
+2884|nervös|Vor der Prüfung war er sehr nervös.
+2887|süß|Das Baby lächelt süß im Schlaf.
+2889|weh|Mein Kopf tut schrecklich weh.
+2894|fair|Er spielt immer fair und ehrlich.
+2895|hervorragend|Er hat hervorragend gearbeitet.
+2896|umfangreich|Er las den umfangreichen Bericht.
+2903|betrieblich|Die betriebliche Leistung steigt.
+2917|denkbar|Das ist denkbar, aber unwahrscheinlich.
+2931|japanisch|Wir kochten ein japanisches Gericht.
+2936|ausdrücklich|Das ist ausdrücklich verboten.
+2955|dänisch|Die dänische Küche ist sehr beliebt.
+2963|subjektiv|Das ist eine subjektive Meinung.
+2964|unangenehm|Das unangenehme Wetter hält an.
+2967|charakteristisch|Das ist charakteristisch für ihn.
+2985|senkrecht|Die Linie verläuft senkrecht zur Achse.
+2995|mobil|Er bleibt mobil trotz seines Alters.
+3004|verständlich|Die Anweisungen waren verständlich.
+3006|flüssig|Das Wasser floss flüssig durch das Rohr.
+3011|konsequent|Er verfolgt seine Ziele konsequent.
+3027|katholisch|Sie ist katholisch aufgewachsen.
+3028|merkwürdig|Sein Verhalten war wirklich merkwürdig.
+3038|juristisch|Die juristische Lage ist unklar.
+3039|peinlich|Das war eine peinliche Situation.
+3045|kaputt|Der Stuhl ist kaputt gegangen.
+3056|divers|Das Team war divers zusammengesetzt.
+3060|ausgeprägt|Sie hat ein ausgeprägtes Talent gezeigt.
+3064|dementsprechend|Er verhielt sich dementsprechend.
+3080|zugehörig|Das ist der zugehörige Schlüssel.
+3081|analytisch|Analytisch betrachtet hat er recht.
+3083|locker|Das Gespräch war locker und entspannt.
+3084|sonstig|Er erledigte sonstige Aufgaben.
+3086|bitter|Die bittere Wahrheit kam ans Licht.
+3087|permanent|Er lebt in permanentem Stress.
+3091|nachfolgend|Die nachfolgende Erklärung ist wichtig.
+3102|professionell|Er geht die Aufgaben professionell an.
+3106|kinetisch|Die kinetische Energie ist groß.
+3109|zugänglich|Die Dokumente sind zugänglich.
+3115|langweilig|Dieses Buch ist sehr langweilig.
+3117|schief|Das Bild hängt schief an der Wand.
+3127|einig|Einige Leute kamen schon sehr früh.
+3133|stellvertretend|Er übernahm stellvertretend die Leitung.
+3135|mündlich|Er bestand die mündliche Prüfung.
+3136|neugierig|Er ist neugierig auf das neue Buch.
+3146|cool|Er findet die neue Jacke cool.
+3151|virtuell|Das Treffen fand virtuell statt.
+3164|unzählig|Unzählige Sterne leuchten am Himmel.
+3168|effizient|Das System arbeitet effizient.
+3172|verheiratet|Er ist seit zehn Jahren verheiratet.
+3173|vorübergehend|Er nahm eine vorübergehende Stelle an.
+3176|diskret|Er hat sich sehr diskret verhalten.
+3181|erwachsen|Er benimmt sich schon sehr erwachsen.
+3182|ökologisch|Das Produkt ist ökologisch unbedenklich.
+3183|problematisch|Problematisch war die Umsetzung.
+3190|schwanger|Sie ist im achten Monat schwanger.
+3194|wunderschön|Der Garten blühte wunderschön.
+3209|geheim|Das ist ein geheimes Dokument.
+3210|rechtzeitig|Er kam rechtzeitig zur Sitzung.
+3211|anwesend|Alle Mitglieder sind anwesend.
+3213|nass|Der Boden war nass nach dem Regen.
+3218|intelligent|Er ist ein intelligenter Mensch.
+3223|benachbart|Das benachbarte Dorf ist klein.
+3224|explizit|Die Anweisungen waren explizit.
+3226|hintere (r, s)|Der hintere Eingang ist verschlossen.
+3250|wach|Ich bin schon seit sechs Uhr wach.
+3260|neutral|Er blieb in der Diskussion neutral.
+3261|qualitativ|Das Produkt ist qualitativ hochwertig.
+3262|feucht|Das Handtuch war noch leicht feucht.
+3271|furchtbar|Das Wetter war furchtbar schlecht.
+3278|sensibel|Er reagiert sehr sensibel auf Kritik.
+3280|vordere|Der vordere Sitz ist bequemer.
+3289|herrlich|Das Wetter heute ist einfach herrlich.
+3297|radioaktiv|Das Material ist radioaktiv belastet.
+3298|unsicher|Er fühlt sich unsicher bei der Prüfung.
+3306|fröhlich|Sie hat ein fröhliches Lachen.
+3309|quantitativ|Quantitative Daten allein reichen nicht.
+3313|heimlich|Er traf sich heimlich mit ihr.
+3321|mechanisch|Die mechanische Arbeit war anstrengend.
+3324|symmetrisch|Das Muster war symmetrisch angeordnet.
+3332|anscheinend|Anscheinend ist das Wetter gut.
+3335|polnisch|Wir besuchen eine polnische Stadt.
+3357|klinisch|Er untersucht alles klinisch genau.
+3360|indisch|Er kochte indisch für seine Freunde.
+3375|objektiv|Er analysierte die Lage objektiv.
+3377|stumm|Er blieb stumm und sagte kein Wort.
+3382|maßgeblich|Er war maßgeblich am Erfolg beteiligt.
+3394|sorgfältig|Er arbeitet sehr sorgfältig am Projekt.
+3402|dynamisch|Er arbeitet dynamisch und erreicht viel.
+3406|fett|Das Essen war wirklich sehr reichlich.
+3418|harmonisch|Die Farben wirken harmonisch zusammen.
+3422|fix|Der Termin ist fix und steht fest.
+3435|abstrakt|Die abstrakte Kunst hängt im Museum.
+3436|ästhetisch|Das Gebäude ist ästhetisch ansprechend.
+3446|strukturell|Das Problem war strukturell bedingt.
+3451|realistisch|Seine Erwartungen sind realistisch.
+3452|tödlich|Das Gift ist für Menschen tödlich.
+3461|besorgt|Er ist besorgt um seine Gesundheit.
+3469|bequem|Das Sofa im Wohnzimmer ist sehr bequem.
+3481|nützlich|Das Werkzeug ist sehr nützlich.
+3489|physisch|Die Arbeit ist physisch anstrengend.
+3495|gespannt|Er ist gespannt auf die Nachricht.
+3497|stundenlang|Er wartet stundenlang im Regen.
+3503|kognitiv|Kognitive Fähigkeiten sind wichtig.
+3506|auffällig|Sein Verhalten war sehr auffällig.
+3511|psychologisch|Psychologische Beratung kann helfen.
+3512|treu|Er bleibt treu an ihrer Seite.
+3530|aggressiv|Der Hund verhielt sich aggressiv.
+3531|definitiv|Das ist definitiv die beste Wahl.
+3553|südlich|Südlich von hier liegt der See.
+3562|kostenlos|Er bietet die Hilfe kostenlos an.
+3567|einzigartig|Das Design ist wirklich einzigartig.
+3569|reell|Reell betrachtet ist die Lage schwierig.
+3583|industriell|Die Stadt ist industriell geprägt.
+3587|absurd|Diese Behauptung ist einfach absurd.
+3591|autonom|Das Fahrzeug fährt vollkommen autonom.
+3592|blond|Das blonde Kind spielt draußen.
+3593|anstrengend|Die Arbeit war körperlich anstrengend.
+3596|lateinisch|Die lateinische Sprache ist komplex.
+3598|mühsam|Er erledigt die Aufgabe mühsam.
+3599|präzise|Der Techniker arbeitet sehr präzise.
+3607|düster|Der düstere Wald wirkt unheimlich.
+3612|starr|Er blickte starr auf den Bildschirm.
+3623|langjährig|Sie haben eine langjährige Freundschaft.
+3636|deutschsprachig|Er liest deutschsprachige Bücher.
+3642|hässlich|Das Gebäude sieht hässlich aus.
+3644|unverändert|Die Situation blieb unverändert.
+3653|akademisch|Das Niveau ist akademisch hoch.
+3654|aufwendig|Das Kleid war aufwendig gestaltet.
+3664|liberal|Die Partei ist politisch liberal.
+3665|musikalisch|Musikalisch war er talentiert.
+3687|variabel|Die Bedingungen sind variabel.
+3694|proportional|Die Kosten sind proportional zum Nutzen.
+3698|operativ|Operativ konnte er alles regeln.
+3702|schräg|Die Straße verläuft leicht schräg.
+3703|verehrt|Der verehrte Lehrer hielt eine Rede.
+3707|gefangen|Das Tier wurde in der Falle gefangen.
+3711|restlich|Die restlichen Fragen bleiben offen.
+3718|einmalig|Er bietet das Erlebnis einmalig an.
+3724|unsichtbar|Das Gas war unsichtbar, aber gefährlich.
+3727|vorläufig|Das ist eine vorläufige Entscheidung.
+3729|akut|Das Problem trat ganz plötzlich auf.
+3731|chronisch|Er leidet an chronischen Schmerzen.
+3738|touristisch|Die Stadt ist touristisch attraktiv.
+3740|geographisch|Die Lage ist geographisch vorteilhaft.
+3751|gültig|Das Ticket ist bis morgen gültig.
+3758|israelisch|Er spricht fließend Hebräisch.
+3765|vergeblich|Er versuchte es vergeblich noch einmal.
+3774|schuldig|Er fühlte sich schuldig für den Fehler.
+3777|elementar|Elementare Kenntnisse sind erforderlich.
+3785|final (er, e, es)|Das ist die finale Entscheidung.
+3788|physiologisch|Das ist physiologisch bedingt.
+3793|endlos|Die Diskussion schien endlos zu sein.
+3799|städtisch|Das städtische Leben ist lebendig.
+3801|harmlos|Das Geräusch klang ganz harmlos.
+3802|reichlich|Es gab reichlich zu essen für alle.
+3804|spektakulär|Das Feuerwerk war spektakulär.
+3820|dauernd|Er redet dauernd über das Wetter.
+3821|eigenständig|Er arbeitet völlig eigenständig.
+3822|elegant|Die elegante Frau betrat den Raum.
+3824|mutmaßlich|Der mutmaßliche Täter wurde gefasst.
+3826|vermehrt|Vermehrt kamen neue Probleme auf.
+3833|asymmetrisch|Das Bild zeigt sich asymmetrisch.
+3834|bescheiden|Er lebt bescheiden, aber zufrieden.
+3854|prinzipiell|Er ist prinzipiell gegen Gewalt.
+3863|hessisch|Die hessische Küche ist bekannt.
+3865|passiv|Er blieb während der Diskussion passiv.
+3871|detailliert|Der Plan wurde detailliert beschrieben.
+3874|unglücklich|Er war unglücklich über den Verlust.
+3894|gründlich|Er reinigte den Raum gründlich.
+3913|jetzig|Die jetzige Situation ist schwierig.
+3917|lächerlich|Die Forderung war einfach lächerlich.
+3920|außerordentlich|Er war außerordentlich begabt.
+3922|minimal|Er zahlt minimal für die Reparatur.
+3926|unerwartet|Der Besuch war völlig unerwartet.
+3948|materiell|Materieller Besitz ist vergänglich.
+3954|mutig|Mutig stellte er sich der Gefahr.
+3956|sympathisch|Er wirkte sofort sympathisch auf alle.
+3965|hilfreich|Das Buch war sehr hilfreich für mich.
+3967|königlich|Er erhielt königlichen Besuch.
+3971|schmutzig|Die schmutzige Wäsche liegt dort.
+3974|gemütlich|Wir sitzen gemütlich beisammen.
+3978|blass|Nach dem Schock war er sehr blass.
+3996|romantisch|Er plante ein romantisches Abendessen.
+4003|zart|Er bereitete das zarte Gemüse zu.
+4008|seitlich|Das Auto wurde seitlich beschädigt.
+4013|satt|Ich bin satt und kann nicht mehr essen.
+4015|symbolisch|Das Geschenk war symbolisch wertvoll.
+4021|ländlich|Das Dorf ist sehr ländlich gelegen.
+4026|anspruchsvoll|Das Projekt war anspruchsvoll.
+4030|geometrisch|Geometrische Formen faszinieren ihn.
+4035|unwahrscheinlich|Das Szenario ist unwahrscheinlich.
+4044|partiell|Die Lösung war nur partiell erfolgreich.
+4063|schwul|Er hat sich als schwul geoutet.
+4065|bemerkenswert|Das Ergebnis ist wirklich bemerkenswert.
+4068|einseitig|Er entscheidet einseitig für alle.
+4076|bundesweit|Die Aktion fand bundesweit Beachtung.
+4084|aromatisch|Der Wein schmeckte aromatisch.
+4090|thermisch|Die thermische Belastung war hoch.
+4092|verwandt|Wir sind entfernt miteinander verwandt.
+4110|sachlich|Er erklärte den Sachverhalt sachlich.
+4117|außergewöhnlich|Das war eine außergewöhnliche Leistung.
+4121|Kölner|Der Kölner Dom ist weltbekannt.
+4129|bar|Ich bezahle die Rechnung lieber bar.
+4141|flüchtig|Er gibt ihr einen flüchtigen Kuss.
+4149|verdächtig|Sein Verhalten war verdächtig.
+4150|zuverlässig|Er ist ein zuverlässiger Partner.
+4152|alltäglich|Solche Probleme sind leider alltäglich.
+4161|drastisch|Die Maßnahmen waren drastisch.
+4162|gleichmäßig|Er atmete ruhig und gleichmäßig.
+4166|molekular|Er analysiert die Struktur molekular.
+4169|stationär|Er blieb stationär im Krankenhaus.
+4171|brutal|Der Film war brutal und erschreckend.
+4172|ehrenamtlich|Er arbeitet ehrenamtlich im Verein.
+4173|großzügig|Er ist ein sehr großzügiger Mensch.
+4177|strikt|Die Regeln wurden strikt befolgt.
+4181|fit|Er bleibt fit durch regelmäßigen Sport.
+4189|gelassen|Er bleibt in jeder Situation gelassen.
+4190|live|Das Konzert wurde live übertragen.
+4192|sozialistisch|Sozialistische Ideen waren umstritten.
+4209|regelrecht|Das war eine regelrechte Katastrophe.
+4216|regulär|Das Treffen fand regulär statt.
+4218|ukrainisch|Das ukrainische Essen ist sehr würzig.
+4229|elektromagnetisch|Elektromagnetische Felder umgeben uns.
+4236|örtlich|Die Hilfe war örtlich begrenzt.
+4241|prominent|Ein prominenter Gast besuchte das Event.
+4243|afrikanisch|Die afrikanische Musik begeistert.
+4248|philosophisch|Er stellte eine philosophische Frage.
+4255|einverstanden|Ich bin mit dem Plan einverstanden.
+4256|fachlich|Der Bericht ist fachlich fundiert.
+4274|einstig|Der einstige Ruhm verblasste schnell.
+4279|nördlich|Nördlich von Berlin liegt ein See.
+4280|obig|Das obige Beispiel zeigt den Fehler.
+4281|skeptisch|Er blickt skeptisch auf die Zahlen.
+4287|ärztlich|Die ärztliche Beratung ist kostenlos.
+4289|geschickt|Sie löste das Problem geschickt.
+4290|mittelalterlich|Die Stadt hat mittelalterliche Gebäude.
+4295|anorganisch|Anorganische Chemie ist faszinierend.
+4303|sinnlos|Die Diskussion war völlig sinnlos.
+4308|erreichbar|Der Gipfel war kaum erreichbar.
+4312|populär|Diese Band ist sehr populär in Europa.
+4326|intellektuell|Das Gespräch war intellektuell anregend.
+4327|legendär|Die legendäre Band tritt wieder auf.
+4329|motorisch|Die Bewegung fiel ihm motorisch schwer.
+4357|mild|Der milde Winter überraschte alle.
+4365|Thüringer|Die Thüringer Küche ist berühmt.
+4372|vorig|Im vorigen Jahr war es anders.
+4375|belgisch|Er probierte belgische Schokolade.
+4380|glänzend|Das Auto glänzt nach der Wäsche.
+4389|horizontal|Das Bild hing horizontal an der Wand.
+4391|kriminell|Er wollte nicht kriminell werden.
+4393|vorzeitig|Der Bericht ist vorzeitig fertig.
+4403|nachvollziehbar|Die Erklärung war gut nachvollziehbar.
+4404|spürbar|Die Kälte war spürbar im Raum.
+4410|schlank|Er bleibt schlank durch viel Bewegung.
+4416|quadratisch|Der Tisch hat eine quadratische Form.
+4418|solide|Der Plan ist solide und durchdacht.
+4419|unauffällig|Er kleidete sich sehr unauffällig.
+4426|homogen|Die Gruppe war homogen zusammengesetzt.
+4437|unerträglich|Der Lärm wurde unerträglich laut.
+4439|zwangsläufig|Die Entscheidung war zwangsläufig.
+4443|kommunal|Kommunale Wahlen stehen bevor.
+4452|behindert|Er hilft seinem behinderten Bruder.
+4464|signifikant|Die Unterschiede sind signifikant.
+4467|unbewusst|Er war sich unbewusst der Gefahr.
+4469|voraussichtlich|Der Zug kommt voraussichtlich später an.
+4479|überlegen|Er ist ihm überlegen im Schach.
+4492|humanitär|Sie leisteten humanitäre Hilfe.
+4494|naiv|Das naive Kind vertraute jedem.
+4503|gänzlich|Er hat das gänzlich vergessen.
+4510|asiatisch|Asiatische Küche ist sehr beliebt.
+4512|blutig|Nach dem Unfall war die Straße blutig.
+4516|römisch|Das römische Reich war mächtig.
+4521|auswärtig|Die auswärtigen Gäste reisten an.
+4522|elastisch|Das Band dehnte sich elastisch aus.
+4529|verbal|Er reagiert nur verbal auf Kritik.
+4537|gängig|Diese Methode ist sehr gängig.
+4539|kommunikativ|Er ist sehr kommunikativ und offen.
+4541|letzterer, letztere, letzteres|Von beiden ist letzteres besser.
+4545|zeitgenössisch|Die zeitgenössische Kunst ist beliebt.
+4552|innovativ|Innovative Ideen führten zum Erfolg.
+4553|kollektiv|Kollektiv beschlossen sie die Maßnahmen.
+4554|nüchtern|Er bleibt bei der Arbeit nüchtern.
+4555|ungeheuer|Die Aufgabe war ungeheuer schwierig.
+4561|derzeitig|Die derzeitige Lage ist kritisch.
+4565|gigantisch|Das Gebäude hatte gigantische Ausmaße.
+4567|überflüssig|Diese Information war überflüssig.
+4573|sowjetisch|Sowjetische Technik war robust.
+4575|verbindlich|Er gab verbindlich seine Zusage.
+4579|konventionell|Er bevorzugt konventionelle Methoden.
+4581|organisatorisch|Die organisatorische Struktur ist klar.
+4582|reif|Die reifen Äpfel fielen von den Bäumen.
+4587|empfindlich|Er reagiert empfindlich auf Kritik.
+4589|hilflos|Das hilflose Kind weinte bitterlich.
+4602|witzig|Sein Kommentar war witzig und spontan.
+4609|rational|Die Entscheidung war rational.
+4611|fließend|Er spricht fließend drei Sprachen.
+4613|naturwissenschaftlich|Er ist naturwissenschaftlich begabt.
+4633|pädagogisch|Das Programm ist pädagogisch wertvoll.
+4653|dominant|Der dominante Spieler setzte sich durch.
+4663|giftig|Die Pflanze ist giftig und gefährlich.
+4665|hinreichend|Die Beweise waren hinreichend.
+4676|gehörlos|Er unterrichtet gehörlose Kinder.
+4685|familiär|Das Restaurant wirkt familiär.
+4689|technologisch|Technologisch geht die Firma voran.
+4691|antik|Das antike Gebäude wurde restauriert.
+4694|gesundheitlich|Gesundheitlich geht es ihm besser.
+4695|konstruktiv|Das Meeting verlief sehr konstruktiv.
+4703|fähig|Er ist fähig, die Aufgabe zu lösen.
+4722|ausgesprochen|Das Essen war ausgesprochen lecker.
+4728|präsent|Er war bei der Sitzung präsent.
+4732|vornehm|Die vornehme Dame betritt den Raum.
+4733|bedeutsam|Das ist eine bedeutsame Entscheidung.
+4734|evangelisch|Er ist evangelisch getauft worden.
+4737|nachdenklich|Er war nachdenklich nach dem Gespräch.
+4750|pünktlich|Er kommt immer pünktlich zur Arbeit.
+4753|diplomatisch|Der diplomatische Weg ist oft der beste.
+4762|oberflächlich|Die Prüfung war oberflächlich.
+4763|parlamentarisch|Er arbeitet parlamentarisch korrekt.
+4764|semantisch|Das Wort ist semantisch komplex.
+4783|ethisch|Ethisch korrektes Handeln ist wichtig.
+4788|optimistisch|Er blickt optimistisch in die Zukunft.
+4794|beweglich|Das Material ist sehr beweglich.
+4796|fraglich|Seine Aussagen waren fraglich.
+4800|nächtlich|Nächtliche Geräusche weckten mich.
+4814|selbstbewusst|Er sprach selbstbewusst vor der Gruppe.
+4815|souverän|Der König war ein souveräner Herrscher.
+4837|höflich|Er ist immer höflich zu seinen Nachbarn.
+4851|muslimisch|Die muslimische Gemeinde feiert Ramadan.
+4856|visuell|Visuell war das Projekt ansprechend.
+4865|nachträglich|Er bekam eine nachträgliche Einladung.
+4868|spitz|Der Bleistift war spitz genug.
+4882|monatlich|Die Rechnung ist monatlich fällig.
+4883|sächsisch|Die sächsische Dialekt ist unverkennbar.
+4894|frühzeitig|Er kommt immer frühzeitig zur Arbeit.
+4895|fundamental|Das ist ein fundamentales Prinzip.
+4901|unnötig|Das war ein unnötiger Kommentar.
+4908|funktional|Das Design war funktional und effizient.
+4911|legal|Das Geschäft ist völlig legal.
+4914|silbern|Die silberne Kette glitzerte im Licht.
+4934|ungleich|Die Kräfteverhältnisse waren ungleich.
+4935|verlässlich|Er ist ein verlässlicher Kollege.
+4938|brav|Das Kind war heute besonders brav.
+4958|faul|Er bleibt den ganzen Tag faul im Bett.
+4973|plausibel|Seine Erklärung klingt plausibel.
+4980|beträchtlich|Die Summe ist beträchtlich gestiegen.
+4985|östlich|Der Wind kommt aus östlicher Richtung.
+4991|zulässig|Das Verhalten ist nicht zulässig.
+4993|ausgezeichnet|Der Service war ausgezeichnet.
+4996|führend|Sie ist eine führende Expertin.
+5004|unschuldig|Der Angeklagte ist unschuldig.
+5008|afghanisch|Die afghanische Küche ist sehr würzig.
+5012|gläubig|Der gläubige Mann betet täglich.
+5024|nominal|Nominal sind die Werte gleich.
+5033|magisch|Die Atmosphäre war fast magisch.
+5047|tragisch|Das war eine tragische Geschichte.
+5054|simpel|Die Anleitung ist wirklich simpel.
+5057|uralt|Das uralte Buch wurde neu entdeckt.
+5059|anfänglich|Der anfängliche Plan war besser.
+5066|fürchterlich|Das Unwetter war fürchterlich stark.
+5067|norwegisch|Das norwegische Team war stark.
+5072|Zürcher|Er genoss die Zürcher Küche sehr.
+5088|vertikal|Das Bild hängt vertikal an der Wand.
+5099|wörtlich|Das ist wörtlich zu verstehen.
+5103|jugendlich|Er wirkt immer noch sehr jugendlich.
+5111|zuversichtlich|Er bleibt zuversichtlich trotz allem.
