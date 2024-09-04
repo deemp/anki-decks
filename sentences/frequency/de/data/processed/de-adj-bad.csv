@@ -1,0 +1,837 @@
+87|adj|groß|Der Baum im Garten ist sehr groß.|big, large, great|The tree in the garden is very large.
+89|adj|ganz|Ich habe den ganzen Tag gearbeitet.|whole, all the|I worked the whole day.
+98|adj|gut|Mir schmeckt das Essen sehr gut.|good|The food tastes very good to me.
+109|adj|neu|Ich habe ein neues Buch gekauft.|new|I bought a new book.
+121|adj|erste (r, s)|Der erste Schnee ist gefallen.|first|The first snow has fallen.
+123|adj|lang|Der lange Weg führt durch den Wald.|long|The long path leads through the forest.
+130|adj|wenig|Es bleibt nur wenig Zeit bis zur Abgabe.|few|There is only a little time left until the deadline.
+139|adj|klein|Das Haus ist klein, aber gemütlich.|small, little|The house is small but cozy.
+141|adj|deutsch|Das deutsche Brot ist beliebt.|German|German bread is popular.
+148|adj|hoch|Der Baum ist sehr hoch gewachsen.|high, tall|The tree has grown very tall.
+163|adj|einfach|Die Lösung war einfach und klar.|simple, easy|The solution was simple and clear.
+171|adj|natürlich|Das war eine ganz natürliche Reaktion.|natural|That was a completely natural reaction.
+173|adj|alt|Das Buch ist sehr alt, aber interessant.|old|The book is very old but interesting.
+176|adj|gleich|Wir haben das gleiche Problem.|same, right away, just|We have the same problem.
+179|adj|wichtig|Pünktlichkeit ist im Job wichtig.|important|Punctuality is important in the job.
+187|adj|eigentlich|Er ist der eigentliche Besitzer.|actual, real|He is the actual owner.
+190|adj|letzte (r, s)|Die letzte Chance ist nun vorbei.|last|The last chance is now gone.
+197|adj|gerade|Er hat die Linie gerade gezogen.|straight|He drew the line straight.
+205|adj|eigen|Er brachte sein eigenes Essen mit.|own|He brought his own food.
+206|adj|genau|Er erklärte die Aufgabe genau.|exact|He explained the task in exact detail.
+208|adj|spät|Es ist schon zu spät für eine Antwort.|late|It is already too late for a response.
+209|adj|spät|Können wir das später besprechen?|later|Can we discuss this later?
+211|adj|möglich|Bei uns ist fast alles möglich.|possible|Almost anything is possible with us.
+218|adj|kurz|Der Film war überraschend kurz.|short|The film was surprisingly short.
+219|adj|richtig|Dein Vorschlag war absolut richtig.|correct, right|Your suggestion was absolutely correct.
+220|adj|stark|Der Wind wehte heute besonders stark.|strong|The wind blew particularly strong today.
+225|adj|weitere (r, s)|Ein weiterer Vorschlag wurde gemacht.|additional, further|A further suggestion was made.
+231|adj|schön|Am See war es gestern sehr schön.|beautiful, pleasant, good|It was very beautiful at the lake yesterday.
+232|adj|wirklich|Das ist eine wirkliche Gefahr.|real, actual|That is a real danger.
+244|adj|jung|Der junge Mann geht zur Arbeit.|young|The young man goes to work.
+246|adj|besser|Heute fühle ich mich schon besser.|better|Today I already feel better.
+248|adj|schnell|Der schnelle Läufer gewann das Rennen.|fast|The fast runner won the race.
+276|adj|weit|Der Weg ist noch weit zu gehen.|widely, far|The path is still far to go.
+283|adj|nächste (r, s)|Das nächste Treffen ist im März.|next|The next meeting is in March.
+285|adj|klar|Das Wasser war klar und ruhig.|clear|The water was clear and calm.
+289|adj|recht|Es ist mir recht, wenn wir später gehen.|all right|It's all right with me if we leave later.
+303|adj|verschieden|Er probierte verschiedene Methoden aus.|different, diverse|He tried different methods.
+306|adj|schwer|Der Koffer war schwer zu tragen.|difficult, heavy|The suitcase was heavy to carry.
+315|adj|sicher|Er ist sich seiner Sache sicher.|safe, secure, certain|He is certain of his case.
+330|adj|bestimmt|Das ist bestimmt eine gute Idee.|special, certain|That is certainly a good idea.
+339|adj|frei|Der Platz ist schon reserviert.|free|The seat is already reserved.
+340|adj|wert|Seine Mühe ist jede Anerkennung wert.|worth|His effort is worth every recognition.
+346|adj|gemeinsam|Wir haben ein gemeinsames Ziel.|common, mutual|We have a common goal.
+347|adj|rund|Der Tisch hat eine runde Form.|round|The table has a round shape.
+354|adj|deutlich|Die Anweisungen waren deutlich.|clear|The instructions were clear.
+356|adj|politisch|Er ist politisch sehr engagiert.|political|He is very politically engaged.
+360|adj|einzeln|Er betrachtet jeden Fall einzeln.|individual, single, separately|He considers each case individually.
+363|adj|leicht|Der Koffer war überraschend leicht.|light, easy|The suitcase was surprisingly light.
+367|adj|beste (r, s)|Er ist der beste Spieler im Team.|best|He is the best player on the team.
+372|adj|bekannt|Er ist als guter Arzt bekannt.|well-known, famous|He is known as a good doctor.
+381|adj|schlecht|Das Wetter war heute wirklich schlecht.|bad|The weather was really bad today.
+389|adj|europäisch|Das ist ein europäisches Projekt.|European|That is a European project.
+394|adj|tatsächlich|Es ist tatsächlich wahr, was er sagt.|real, actual|It is actually true what he says.
+398|adj|einzig|Er ist der einzige, der es kann.|only, single|He is the only one who can do it.
+400|adj|unterschiedlich|Die Meinungen gingen stark auseinander.|different|The opinions were very different.
+408|adj|direkt|Der direkte Weg führt durch den Wald.|direct, straight|The direct path leads through the forest.
+410|adj|offen|Die Tür stand weit offen, als ich ankam.|open|The door was wide open when I arrived.
+421|adj|früh|Er steht jeden Tag sehr früh auf.|early|He gets up very early every day.
+433|adj|meiste|Die meiste Zeit verbringt er draußen.|most|He spends most of his time outside.
+443|adj|voll|Das Glas ist bis zum Rand voll.|full|The glass is full to the brim.
+448|adj|allgemein|Allgemein gilt das als unhöflich.|general|Generally, that is considered rude.
+462|adj|häufig|Er wiederholte seine Frage oft.|frequent|He frequently repeated his question.
+482|adj|international|Das Treffen war international besetzt.|international|The meeting was internationally attended.
+486|adj|sozial|Soziale Gerechtigkeit ist ihm wichtig.|social|Social justice is important to him.
+493|adj|ähnlich|Die beiden sehen sich ähnlich.|similar|The two look similar.
+498|adj|tief|Der Brunnen reicht tief in die Erde.|deep|The well reaches deep into the earth.
+499|adj|halb|Der Weg ist noch halb geschafft.|half|The path is only half completed.
+528|adj|weiß|Der weiße Schnee bedeckt das ganze Tal.|white|The white snow covers the entire valley.
+530|adj|schwarz|Der schwarze Anzug steht ihm gut.|black|The black suit suits him well.
+533|adj|rot|Das Auto ist knallrot lackiert.|red|The car is painted bright red.
+536|adj|nah|Wir wohnen in einer nahen Stadt.|near(by), close|We live in a nearby town.
+550|adj|wahrscheinlich|Er wird wahrscheinlich morgen ankommen.|likely, probable|He will likely arrive tomorrow.
+552|adj|öffentlich|Die öffentliche Meinung ist gespalten.|public|Public opinion is divided.
+562|adj|gering|Der Schaden ist nur gering gewesen.|low, small|The damage has only been minor.
+570|adj|besondere (r, s)|Er hat eine besondere Art zu sprechen.|special|He has a special way of speaking.
+571|adj|tot|Der Baum im Garten ist leider tot.|dead|The tree in the garden is unfortunately dead.
+573|adj|völlig|Er war völlig erschöpft nach dem Lauf.|completely, absolutely|He was completely exhausted after the run.
+574|adj|positiv|Er gab eine positive Rückmeldung.|positive|He gave positive feedback.
+582|adj|falsch|Die Antwort war leider falsch.|false, wrong|Unfortunately, the answer was wrong.
+584|adj|langsam|Er sprach langsam und deutlich.|slow|He spoke slowly and clearly.
+603|adj|persönlich|Das ist meine persönliche Meinung.|personal|That is my personal opinion.
+607|adj|sogenannt|Der sogenannte Experte liegt falsch.|so-called|The so-called expert is wrong.
+610|adj|gewiss|Er ist sich gewiss, dass es klappt.|certain|He is certain that it will work.
+615|adj|gesamt|Das gesamte Team arbeitet hart.|whole, entire|The entire team is working hard.
+625|adj|fest|Der Vertrag wurde fest unterschrieben.|firm, solid|The contract was firmly signed.
+626|adj|aktuell|Das Thema ist aktuell sehr wichtig.|current|The topic is currently very important.
+629|adj|relativ|Diese Aufgabe war relativ leicht.|relative|This task was relatively easy.
+638|adj|schwierig|Die Prüfung war extrem schwierig.|difficult, hard, tough|The exam was extremely difficult.
+641|adj|zusätzlich|Zusätzlich brachte er Getränke mit.|additional|Additionally, he brought drinks.
+651|adj|eng|Die Gassen der Altstadt sind eng.|narrow, close|The alleys of the old town are narrow.
+689|adj|okay|Wenn du okay bist, gehen wir weiter.|okay|If you’re okay, we’ll move on.
+698|adj|gleichzeitig|Sie lachten gleichzeitig laut.|simultaneous, at the same time|They laughed loudly at the same time.
+699|adj|knapp|Das Essen reichte nur knapp für alle.|scarce, slim|The food was scarce for everyone.
+703|adj|normal|Nach dem Unfall ist alles wieder normal.|normal|After the accident, everything is normal again.
+718|adj|technisch|Das Problem ist technischer Natur.|technical|The problem is of a technical nature.
+723|adj|wesentlich|Dieser Punkt ist wesentlich für uns.|essential, fundamental|This point is essential for us.
+724|adj|englisch|Der englische Text ist schwer.|English|The English text is difficult.
+727|adj|rein|Das Wasser aus der Quelle ist rein.|pure, clear, clean|The water from the spring is pure.
+732|adj|selten|Solche Tiere sieht man sehr selten.|rare|Such animals are seen very rarely.
+734|adj|innere (r, s)|Das innere Gleichgewicht ist wichtig.|internal|The internal balance is important.
+745|adj|grün|Das grüne Gras leuchtete in der Sonne.|green|The green grass glowed in the sun.
+748|adj|echt|Er zeigte echten Enthusiasmus.|genuine, real|He showed genuine enthusiasm.
+769|adj|dunkel|Es wurde plötzlich dunkel im Raum.|dark|It suddenly became dark in the room.
+791|adj|hart|Der Stein ist hart wie Granit.|hard|The stone is hard like granite.
+792|adj|offenbar|Offenbar ist er nicht gut informiert.|apparent|Apparently, he is not well informed.
+798|adj|erfolgreich|Das Projekt war sehr erfolgreich.|successful|The project was very successful.
+800|adj|wahr|Die Geschichte ist tatsächlich wahr.|true|The story is actually true.
+804|adj|bloß|Das war bloß ein kleiner Unfall.|bare, mere|That was just a minor accident.
+806|adj|notwendig|Eine Klärung der Sache ist notwendig.|necessary|A clarification of the matter is necessary.
+809|adj|wirtschaftlich|Das Land wächst wirtschaftlich.|economic, financial|The country is growing economically.
+810|adj|privat|Das Gespräch bleibt streng privat.|private|The conversation remains strictly private.
+811|adj|modern|Das Gebäude wirkt sehr modern.|modern|The building looks very modern.
+815|adj|unabhängig|Sie ist finanziell unabhängig.|independent|She is financially independent.
+825|adj|chemisch|Die chemische Reaktion verläuft schnell.|chemical|The chemical reaction proceeds quickly.
+826|adj|schlimm|Es war nicht so schlimm, wie gedacht.|bad, serious|It wasn't as bad as expected.
+827|adj|schlimm|Das war ein schlimmer Fehler im Spiel.|worse|That was a worse mistake in the game.
+838|adj|laut|Er sprach laut, damit ihn alle hören.|loud|He spoke loudly so that everyone could hear him.
+843|adj|niedrig|Der Preis war erstaunlich niedrig.|low, base|The price was astonishingly low.
+844|adj|ständig|Er ist ständig unterwegs und arbeitet.|constant|He is constantly on the move and working.
+851|adj|rechte (r, s)|Der rechte Schuh passt perfekt.|right|The right shoe fits perfectly.
+855|adj|aktiv|Er bleibt auch im Alter aktiv.|active|He remains active even in old age.
+876|adj|interessant|Das Buch ist wirklich interessant.|interesting|The book is really interesting.
+877|adj|menschlich|Er zeigt sich sehr menschlich.|human|He shows himself to be very human.
+881|adj|speziell|Diese Regeln gelten speziell für Kinder.|special, specific|These rules apply specifically to children.
+882|adj|französisch|Er liest gerne französische Literatur.|French|He enjoys reading French literature.
+884|adj|negativ|Der Einfluss war eher negativ.|negative|The influence was rather negative.
+885|adj|zentral|Das Büro liegt in zentraler Lage.|central|The office is in a central location.
+890|adj|absolut|Das ist absolut kein Problem mehr.|absolute, complete|That is absolutely no longer a problem.
+897|adj|konkret|Hast du eine konkrete Idee dazu?|concrete|Do you have a concrete idea about that?
+898|adj|russisch|Er studiert russische Geschichte.|Russian|He studies Russian history.
+904|adj|amerikanisch|Amerikanische Filme sind beliebt.|American|American movies are popular.
+908|adj|praktisch|Diese Lösung ist praktisch und nützlich.|practical|This solution is practical and useful.
+911|adj|weltweit|Das Produkt wird weltweit verkauft.|worldwide|The product is sold worldwide.
+915|adj|breit|Der breite Fluss fließt ruhig dahin.|wide, broad|The wide river flows calmly.
+927|adj|fremd|Dieses Land ist mir völlig fremd.|foreign, strange|This country is completely foreign to me.
+939|adj|linke (r, s)|Der linke Schuh drückt ein wenig.|left|The left shoe pinches a little.
+942|adj|leer|Die Straße war nachts völlig leer.|empty|The street was completely empty at night.
+950|adj|klassisch|Klassische Musik erklingt im Saal.|classical|Classical music resounds in the hall.
+951|adj|ehemalig|Mein ehemaliger Lehrer war sehr nett.|former|My former teacher was very nice.
+955|adj|kalt|Das Wasser fühlt sich kalt an.|cold|The water feels cold.
+958|adj|künftig|Künftige Projekte sind geplant.|future|Future projects are planned.
+959|adj|national|Dieses Fest hat nationale Bedeutung.|national|This festival has national significance.
+965|adj|lieb|Der Hund ist sehr lieb zu Kindern.|dear, kind|The dog is very kind to children.
+969|adj|historisch|Das Gebäude ist historisch bedeutsam.|historical|The building is historically significant.
+973|adj|entscheidend|Das war entscheidend für den Erfolg.|decisive|That was decisive for success.
+977|adj|wissenschaftlich|Das ist wissenschaftlich belegt.|scientific, scholarly|That is scientifically proven.
+984|adj|bewusst|Er war sich der Gefahr bewusst.|conscious|He was aware of the danger.
+987|adj|zahlreich|Es gab zahlreiche Beschwerden.|numerous|There were numerous complaints.
+988|adj|medizinisch|Das ist medizinisch notwendig.|medical|That is medically necessary.
+989|adj|übrig|Nichts bleibt mehr übrig für später.|remaining, left, leftover|Nothing is left for later.
+1016|adj|blau|Das Meer leuchtet blau in der Sonne.|blue|The sea shines blue in the sun.
+1018|adj|teuer|Der Schmuck war unglaublich teuer.|expensive|The jewelry was incredibly expensive.
+1026|adj|komplex|Das Thema war komplex und schwierig.|complex|The topic was complex and difficult.
+1040|adj|toll|Das war wirklich eine tolle Feier!|great, terrific|That was really a great party!
+1047|adj|schwach|Er fühlt sich heute sehr schwach.|weak|He feels very weak today.
+1055|adj|grundsätzlich|Er lehnt das grundsätzlich ab.|fundamental|He fundamentally rejects that.
+1060|adj|ruhig|Das Meer war heute besonders ruhig.|quiet, calm|The sea was especially calm today.
+1072|adj|erneut|Er stellte erneut dieselbe Frage.|again, renewed|He asked the same question again.
+1079|adj|vorhanden|Alle notwendigen Mittel waren vorhanden.|available, existing|All necessary resources were available.
+1091|adj|total|Er war total erschöpft nach dem Lauf.|total, complete|He was completely exhausted after the run.
+1105|adj|kulturell|Das Festival ist kulturell wichtig.|cultural|The festival is culturally important.
+1110|adj|nötig|Deine Zustimmung ist unbedingt nötig.|necessary|Your approval is absolutely necessary.
+1114|adj|verantwortlich|Er ist verantwortlich für das Projekt.|responsible|He is responsible for the project.
+1115|adj|täglich|Er fährt täglich zur Arbeit mit dem Zug.|daily|He takes the train to work daily.
+1122|adj|ernst|Er machte ein ernstes Gesicht.|serious|He made a serious face.
+1127|adj|jeweilig|Die jeweilige Lösung wurde diskutiert.|particular, respective|The respective solution was discussed.
+1130|adj|vollständig|Das Buch wurde vollständig übersetzt.|complete|The book was completely translated.
+1141|adj|organisch|Organische Lebensmittel sind gesünder.|organic|Organic foods are healthier.
+1142|adj|glücklich|Er ist glücklich über das Ergebnis.|happy, fortunate|He is happy with the result.
+1146|adj|dick|Er schnitt eine dicke Scheibe Brot ab.|thick, fat|He cut off a thick slice of bread.
+1147|adj|riesig|Der Baum im Garten ist riesig.|huge, great, tremendous, giant, massive, humongous, enormous|The tree in the garden is enormous.
+1148|adj|heutig|Die heutige Sitzung ist wichtig.|present-day, today’s|Today's meeting is important.
+1154|adj|regelmäßig|Er besucht regelmäßig das Fitnessstudio.|regular|He regularly visits the gym.
+1157|verb|einstellen, stellt ein, stellte ein, hat eingestellt|Er stellte den Betrieb der Maschine ein.|to adjust, employ, stop, discontinue|He stopped the operation of the machine.
+1162|adj|elektrisch|Das Auto ist elektrisch betrieben.|electric|The car is electrically operated.
+1181|adj|typisch|Solches Verhalten ist typisch für sie.|typical|Such behavior is typical for her.
+1198|adj|unmittelbar|Er reagierte unmittelbar nach dem Anruf.|immediate, direct|He reacted immediately after the call.
+1200|adj|extrem|Das Wetter ist heute extrem heiß.|extreme|The weather is extremely hot today.
+1202|adj|theoretisch|Theoretisch könnte es funktionieren.|theoretical|Theoretically, it could work.
+1224|adj|gesellschaftlich|Das ist gesellschaftlich wichtig.|social|That is socially important.
+1227|adj|chinesisch|Das Essen ist chinesisch gewürzt.|Chinese|The food is seasoned Chinese-style.
+1238|adj|physikalisch|Physikalische Gesetze gelten überall.|physical|Physical laws apply everywhere.
+1240|adj|leise|Der Wind weht leise durch die Bäume.|quiet, soft|The wind blows softly through the trees.
+1242|adj|eindeutig|Die Antwort war eindeutig richtig.|clear|The answer was clearly correct.
+1253|adj|obere (r, s)|Das obere Regal ist schwer erreichbar.|upper|The upper shelf is hard to reach.
+1257|adj|mittlere (r, s)|Die mittlere Größe passt am besten.|middle, average|The medium size fits best.
+1264|adj|berliner|Berliner Spezialitäten sind lecker.|(of) Berlin|Berlin specialties are delicious.
+1267|adj|staatlich|Er besucht eine staatliche Schule.|state, government, national|He attends a state school.
+1269|adj|heiß|Der Tee war zu heiß zum Trinken.|hot|The tea was too hot to drink.
+1284|adj|geboren|Sie ist eine geborene Musikerin.|born|She is a born musician.
+1285|adj|gefährlich|Die Straße ist gefährlich glatt.|dangerous|The road is dangerously slippery.
+1289|adj|komplett|Das Haus war komplett renoviert.|complete|The house was completely renovated.
+1296|adj|konstant|Die Geschwindigkeit blieb konstant.|constant|The speed remained constant.
+1303|adj|böse|Er war wirklich böse auf mich.|bad, mad|He was really mad at me.
+1308|adj|ideal|Ein Spaziergang wäre jetzt ideal.|ideal|A walk would be ideal right now.
+1312|adj|linear|Der Fortschritt verläuft linear.|linear|The progress is linear.
+1315|adj|kritisch|Er stellte kritische Fragen zur Lage.|critical|He asked critical questions about the situation.
+1322|adj|offensichtlich|Der Fehler war offensichtlich.|obvious|The mistake was obvious.
+1334|adj|frisch|Das frische Brot duftet herrlich.|fresh|The fresh bread smells wonderful.
+1340|adj|dicht|Der dichte Nebel erschwert die Sicht.|thick, dense|The dense fog hinders visibility.
+1342|adj|bereit|Er war bereit, alles zu geben.|ready|He was ready to give everything.
+1348|adj|Schweizer|Schweizer Schokolade ist berühmt.|Swiss|Swiss chocolate is famous.
+1349|adj|gesund|Er ernährt sich gesund und treibt Sport.|healthy|He eats healthily and exercises.
+1355|adj|warm|Das Wasser im See ist angenehm warm.|warm|The water in the lake is pleasantly warm.
+1358|adj|maximal|Das ist das maximal erlaubte Gewicht.|maximum|That is the maximum allowed weight.
+1361|adj|offiziell|Die Entscheidung ist nun offiziell.|official|The decision is now official.
+1362|adj|außen|Die Farbe ist außen verblasst.|outside|The color has faded on the outside.
+1365|adj|digital|Digital arbeiten erleichtert vieles.|digital|Working digitally makes many things easier.
+1366|adj|unbekannt|Der Täter blieb bisher unbekannt.|unknown|The perpetrator remains unknown so far.
+1376|adj|still|Der Raum war still und dunkel.|still, quiet|The room was quiet and dark.
+1397|adj|krank|Er fühlte sich krank und ging ins Bett.|sick, ill|He felt sick and went to bed.
+1399|adj|finanziell|Er unterstützt uns finanziell.|financial|He supports us financially.
+1405|adj|selbstverständlich|Deine Hilfe ist selbstverständlich.|natural, self-evident, obvious|Your help is, of course, appreciated.
+1408|adj|ursprünglich|Ursprünglich war alles anders geplant.|original|Originally, everything was planned differently.
+1419|adj|individuell|Die Beratung war individuell angepasst.|individual|The consultation was individually tailored.
+1420|adj|intensiv|Das Training war intensiv und fordernd.|intensive|The training was intensive and demanding.
+1425|adj|rasch|Er verließ den Raum rasch und wortlos.|quick|He left the room quickly and without a word.
+1426|adj|real|Der Schmerz fühlt sich völlig real an.|real|The pain feels completely real.
+1430|adj|sinnvoll|So ein Plan wäre wirklich sinnvoll.|sensible, meaningful|Such a plan would really make sense.
+1448|adj|stolz|Er ist stolz auf seinen Erfolg.|proud|He is proud of his success.
+1451|adj|streng|Der Chef ist streng, aber gerecht.|strict|The boss is strict but fair.
+1455|adj|berühmt|Der Sänger ist berühmt geworden.|famous|The singer has become famous.
+1459|adj|bayrisch|Die bayrische Kultur ist reichhaltig.|Bavarian|Bavarian culture is rich.
+1463|adj|langfristig|Er plant langfristig für die Zukunft.|long-term|He plans long-term for the future.
+1464|adj|herzlich|Er begrüßte uns sehr herzlich.|cordial, warm|He greeted us very warmly.
+1487|adj|hell|Das Zimmer ist hell und freundlich.|light, bright|The room is bright and friendly.
+1495|adj|britisch|Er liest gerne britische Literatur.|British|He enjoys reading British literature.
+1500|adj|froh|Ich bin froh, dass du hier bist.|happy, glad|I am glad you are here.
+1505|adj|zuständig|Er ist zuständig für die Organisation.|appropriate, responsible|He is responsible for the organization.
+1518|adj|scharf|Das scharfe Messer schneidet gut.|sharp|The sharp knife cuts well.
+1522|adj|gelb|Die Blätter sind im Herbst oft gelb.|yellow|The leaves are often yellow in autumn.
+1524|adj|heftig|Der Sturm war heftig und zerstörerisch.|hard, heavy, violent|The storm was violent and destructive.
+1528|adj|umgekehrt|Die Reihenfolge war genau umgekehrt.|reversed, contrary, around|The order was exactly reversed.
+1531|adj|abhängig|Er ist finanziell von ihnen abhängig.|dependent|He is financially dependent on them.
+1534|adj|ungefähr|Der Weg ist ungefähr zehn Kilometer.|approximately|The path is approximately ten kilometers long.
+1536|adj|üblich|Solche Regeln sind hier üblich.|usual|Such rules are usual here.
+1539|adj|global|Das Unternehmen ist global tätig.|global|The company operates globally.
+1551|adj|arm|Der arme Junge verlor sein Spielzeug.|poor|The poor boy lost his toy.
+1560|adj|erheblich|Die Kosten stiegen erheblich an.|considerable|The costs increased considerably.
+1561|adj|ausschließlich|Das ist ausschließlich für Mitglieder.|exclusive|That is exclusively for members.
+1562|adj|griechisch|Er studiert die griechische Mythologie.|Greek|He studies Greek mythology.
+1576|adj|spezifisch|Das ist eine sehr spezifische Frage.|specific|That is a very specific question.
+1577|adj|stabil|Die Brücke ist stabil und sicher.|stable, sturdy|The bridge is stable and secure.
+1586|adj|doppelt|Die Menge ist doppelt so groß.|double|The quantity is twice as large.
+1588|adj|österreichisch|Das österreichische Essen schmeckt gut.|Austrian|Austrian food tastes good.
+1595|adj|zufrieden|Er ist zufrieden mit der Arbeit.|satisfied|He is satisfied with the work.
+1603|adj|angeblich|Er sei angeblich verreist, hieß es.|alleged|He was allegedly traveling, they said.
+1604|adj|günstig|Die Tickets sind günstig erhältlich.|cheap, favorable, good|The tickets are available at a good price.
+1609|adj|türkisch|Der türkische Basar ist sehr lebhaft.|Turkish|The Turkish bazaar is very lively.
+1616|adj|sichtbar|Der Fortschritt war deutlich sichtbar.|visible|The progress was clearly visible.
+1631|adj|sprachlich|Er zeigte sprachlich großes Talent.|linguistic|He showed great linguistic talent.
+1632|adj|bisherig|Die bisherige Lösung war unzureichend.|so far|The solution so far was inadequate.
+1634|adj|traditionell|Das Fest wird traditionell gefeiert.|traditional|The festival is celebrated traditionally.
+1639|adj|grau|Der graue Himmel versprach Regen.|gray|The gray sky promised rain.
+1644|adj|nett|Die Nachbarn sind immer sehr nett.|nice|The neighbors are always very nice.
+1645|adj|freundlich|Er begrüßte uns sehr freundlich.|kind, nice, friendly|He greeted us very kindly.
+1646|adj|perfekt|Das Timing war einfach perfekt.|perfect|The timing was simply perfect.
+1647|adj|reich|Er wurde durch harte Arbeit reich.|rich, abundant|He became rich through hard work.
+1650|adj|ausländisch|Er spricht viele ausländische Sprachen.|foreign|He speaks many foreign languages.
+1652|adj|fern|Der Berg lag fern am Horizont.|far, distant|The mountain lay far on the horizon.
+1662|adj|schuld|Er fühlt sich schuld am Unfall.|guilty|He feels guilty about the accident.
+1668|adj|ehrlich|Er ist immer ehrlich zu seinen Freunden.|honest|He is always honest with his friends.
+1670|adj|statistisch|Statistisch gesehen hat er recht.|statistical|Statistically, he is right.
+1673|adj|italienisch|Das Essen schmeckt italienisch.|Italian|The food tastes Italian.
+1684|adj|wunderbar|Der Abend war einfach wunderbar.|wonderful|The evening was simply wonderful.
+1702|adj|entfernt|Der entfernte Berg war kaum zu sehen.|distant, away|The distant mountain was barely visible.
+1723|adj|vorsichtig|Er ging vorsichtig die Treppe hinunter.|cautious, careful|He carefully walked down the stairs.
+1725|adj|wild|Der wilde Sturm tobt die ganze Nacht.|wild|The wild storm raged all night.
+1726|adj|gesetzlich|Er handelt gesetzlich korrekt.|legal|He acts legally.
+1734|adj|freiwillig|Freiwillig half er bei der Arbeit.|voluntary|He volunteered to help with the work.
+1758|adj|fein|Der feine Sand fühlt sich weich an.|fine|The fine sand feels soft.
+1764|adj|unglaublich|Die Geschichte ist unglaublich.|incredible|The story is incredible.
+1774|adj|untere (r, s)|Das Buch ist auf dem unteren Regal.|lower|The book is on the lower shelf.
+1789|adj|jährlich|Das Fest findet jährlich statt.|annual|The festival takes place annually.
+1807|adj|erforderlich|Die Genehmigung ist erforderlich.|required, necessary|The permit is required.
+1811|adj|zufällig|Der zufällige Fund war äußerst wertvoll.|accidental, by chance|The accidental discovery was extremely valuable.
+1812|adj|enorm|Der Aufwand für das Projekt war enorm.|enormous|The effort for the project was enormous.
+1820|adj|billig|Das Produkt war billig und nützlich.|cheap|The product was cheap and useful.
+1821|adj|dünn|Das dünne Papier reißt schnell.|thin|The thin paper tears easily.
+1833|adj|weitgehend|Das Problem ist weitgehend gelöst.|extensive|The problem is largely solved.
+1834|adj|traurig|Er war traurig über die Nachricht.|sad|He was sad about the news.
+1837|adj|gegenseitig|Sie hatten gegenseitigen Respekt.|mutual, each other|They had mutual respect for each other.
+1838|adj|kurzfristig|Der Termin wurde kurzfristig geändert.|at short notice|The appointment was changed at short notice.
+1841|adj|primär|Die primäre Aufgabe ist erledigt.|primary|The primary task is completed.
+1843|adj|vollkommen|Die Arbeit war vollkommen fehlerfrei.|complete, perfect|The work was completely flawless.
+1845|adj|massiv|Das massive Tor öffnete sich langsam.|solid, massive, severe|The massive gate opened slowly.
+1846|adj|sämtlich|Sämtliche Tickets sind ausverkauft.|all|All tickets are sold out.
+1848|adj|dringend|Ich muss dich dringend sprechen.|urgent|I urgently need to talk to you.
+1854|adj|super|Das neue Restaurant ist wirklich super!|super, great|The new restaurant is really great!
+1855|adj|ökonomisch|Das Land hat ökonomische Probleme.|economic|The country has economic problems.
+1863|adj|zeitlich|Die zeitliche Planung war äußerst knapp.|in time|The timing was extremely tight.
+1866|adj|elektronisch|Die elektronische Musik füllte den Raum.|electronic|The electronic music filled the room.
+1870|adj|demokratisch|Das Land hat ein demokratisches System.|democratic|The country has a democratic system.
+1873|adj|körperlich|Er arbeitet körperlich sehr hart.|physical|He works very hard physically.
+1881|adj|endgültig|Der Vertrag wurde endgültig geschlossen.|final|The contract was finalized.
+1882|adj|ewig|Die Diskussion schien ewig zu dauern.|eternal|The discussion seemed to last forever.
+1890|adj|schmal|Die schmale Gasse führt zum Marktplatz.|narrow, slender|The narrow alley leads to the market square.
+1892|adj|spannend|Der Film gestern war wirklich spannend.|exciting, thrilling|The movie yesterday was really thrilling.
+1899|adj|bunt|Das Fest war bunt und lebendig.|colorful|The festival was colorful and lively.
+1911|adj|seltsam|Er fand die Situation seltsam.|strange, peculiar|He found the situation strange.
+1916|adj|mächtig|Der König ist mächtig und einflussreich.|powerful|The king is powerful and influential.
+1921|adj|-jährig|Er ist ein zwanzigjähriger Mann.|years (old)|He is a twenty-year-old man.
+1922|adj|künstlich|Das Licht ist künstlich erzeugt.|artificial|The light is artificially generated.
+1950|adj|kompliziert|Er erklärte die komplizierte Aufgabe.|complicated|He explained the complicated task.
+1955|adj|beliebt|Das Buch ist bei vielen sehr beliebt.|popular|The book is very popular with many.
+1957|adj|komisch|Der Film war komisch und unterhaltsam.|funny|The film was funny and entertaining.
+1958|adj|westlich|Das westliche Gebiet war ruhig.|western, west|The western area was quiet.
+1959|adj|geistig|Die Arbeit ist geistig anspruchsvoll.|intellectual, mental|The work is intellectually demanding.
+1961|adj|unmöglich|So eine Aufgabe ist fast unmöglich.|impossible|Such a task is almost impossible.
+1962|adj|optimal|Das Ergebnis war optimal für uns.|best possible, optimum|The result was optimal for us.
+1976|adj|empirisch|Die Ergebnisse sind empirisch belegt.|empirical|The results are empirically proven.
+1987|adj|parallel|Die Straßen verlaufen parallel.|parallel|The streets run parallel.
+1994|adj|korrekt|Deine Antwort war völlig korrekt.|correct|Your answer was completely correct.
+1997|verb|anpassen, passt an, passte an, hat angepasst|Er passte das Design den Wünschen an.|to adjust, adapt|He adjusted the design to the wishes.
+1998|adj|automatisch|Das Licht schaltet sich automatisch ein.|automatic|The light turns on automatically.
+2001|adj|spanisch|Er hört gerne spanische Musik.|Spanish|He enjoys listening to Spanish music.
+2016|adj|generell|Generell ist diese Regel zu beachten.|general|In general, this rule should be observed.
+2026|adj|verrückt|Diese verrückte Idee gefällt mir!|crazy, insane|I like this crazy idea!
+2031|adj|weiblich|Der weibliche Vogel singt nicht.|feminine, female|The female bird does not sing.
+2048|adj|durchschnittlich|Seine Leistungen waren durchschnittlich.|average|His performances were average.
+2056|adj|lustig|Er erzählte eine lustige Geschichte.|funny, enjoyable|He told a funny story.
+2057|adj|potenziell|Das ist ein potenzielles Risiko.|potential|That is a potential risk.
+2060|adj|religiös|Er ist sehr religiös erzogen worden.|religious|He was raised to be very religious.
+2061|adj|nackt|Er stand nackt vor der Dusche.|naked, bare|He stood naked in front of the shower.
+2063|adj|beruflich|Beruflich hat er große Erfolge erzielt.|professional|Professionally, he has achieved great success.
+2064|adj|lokal|Lokal gibt es bessere Angebote.|local|Locally, there are better offers.
+2079|adj|rechtlich|Er ist rechtlich auf der sicheren Seite.|legal|Legally, he is on the safe side.
+2083|adj|müde|Er war müde und legte sich hin.|tired|He was tired and lay down.
+2086|adj|Wiener|Die Wiener Oper ist weltbekannt.|Viennese|The Viennese Opera is world-renowned.
+2087|adj|blöd|Es war wirklich eine blöde Entscheidung.|stupid, dumb|It was really a dumb decision.
+2089|adj|tätig|Er ist in der Forschung tätig.|active|He is active in research.
+2094|adj|regional|Regional ist die Küche einzigartig.|regional|Regionally, the cuisine is unique.
+2095|adj|strategisch|Die Entscheidung war strategisch klug.|strategic|The decision was strategically wise.
+2096|adj|exakt|Er gab eine exakt passende Antwort.|exact|He gave an exactly fitting answer.
+2107|adj|golden|Die goldene Uhr gehört meinem Opa.|gold, golden|The golden watch belongs to my grandpa.
+2109|adj|sauber|Das Zimmer war ordentlich und sauber.|clean|The room was tidy and clean.
+2113|adj|gewaltig|Das war ein gewaltiger Moment.|enormous, tremendous, powerful|That was a tremendous moment.
+2114|adj|relevant|Die Daten sind für die Studie relevant.|relevant|The data are relevant for the study.
+2128|adj|damalig|Die damalige Entscheidung war schwer.|at that time|The decision at that time was difficult.
+2130|adj|mathematisch|Die mathematische Lösung ist korrekt.|mathematical|The mathematical solution is correct.
+2142|adj|medial|Die mediale Präsenz des Events war groß.|media|The media presence at the event was significant.
+2143|adj|hauptsächlich|Er ist hauptsächlich beschäftigt.|mainly, mostly|He is mainly busy.
+2149|adj|mehrfach|Er wurde schon mehrfach ausgezeichnet.|multiple, several|He has been awarded multiple times.
+2163|adj|gerecht|Ein gerechter Richter fällt das Urteil.|just, fair|A just judge delivers the verdict.
+2164|adj|unendlich|Die Möglichkeiten scheinen unendlich.|endless, infinite|The possibilities seem endless.
+2166|adj|literarisch|Das Werk ist literarisch bedeutend.|literary|The work is of literary significance.
+2171|adj|ungewöhnlich|Das war ein ungewöhnlicher Fall.|unusual|That was an unusual case.
+2174|adj|männlich|Die männlichen Läufer waren schneller.|male|The male runners were faster.
+2181|adj|jüdisch|Die jüdische Gemeinde feiert heute.|Jewish|The Jewish community is celebrating today.
+2187|adj|optisch|Das Design ist optisch ansprechend.|optical, visual|The design is visually appealing.
+2188|adj|militärisch|Sie trainierte militärische Taktiken.|military|She trained in military tactics.
+2191|adj|grundlegend|Es gab grundlegend neue Infos.|basic, fundamental|There was fundamentally new information.
+2207|adj|heilig|Das Land ist den Menschen heilig.|holy|The land is holy to the people.
+2242|adj|arabisch|Das arabische Essen ist köstlich.|Arabian, Arabic|The Arabian food is delicious.
+2253|adj|systematisch|Er ging das Problem systematisch an.|systematic|He approached the problem systematically.
+2265|adj|nachhaltig|Sie planen nachhaltig und handeln.|lasting, sustainable|They plan sustainably and act accordingly.
+2283|adj|glatt|Die Straße war nach dem Regen glatt.|smooth, slippery|The street was slippery after the rain.
+2284|adj|schrecklich|Der Unfall war wirklich schrecklich.|terrible|The accident was truly terrible.
+2285|adj|weich|Das Kissen ist angenehm weich.|soft|The pillow is pleasantly soft.
+2287|adj|bedeutend|Das war eine bedeutende Entdeckung.|important, significant|That was a significant discovery.
+2294|adj|kräftig|Er hat einen kräftigen Händedruck.|strong|He has a strong handshake.
+2298|adj|angenehm|Das Gespräch verlief angenehm.|pleasant|The conversation was pleasant.
+2303|adj|winzig|In dem winzigen Raum steht nur ein Bett.|tiny|There is only a bed in the tiny room.
+2306|adj|künstlerisch|Seine künstlerische Arbeit beeindruckt.|artistic|His artistic work is impressive.
+2313|adj|aufmerksam|Er hörte dem Vortrag aufmerksam zu.|attentive|He listened attentively to the lecture.
+2316|adj|analog|Das Gerät funktioniert rein analog.|analog, analogous|The device works purely analog.
+2320|adj|äußere (r, s)|Das äußere Tor war verschlossen.|outer, external|The outer gate was locked.
+2332|adj|ordentlich|Das Zimmer war ordentlich aufgeräumt.|neat, proper, orderly|The room was neatly tidied up.
+2337|adj|gewöhnlich|Er isst gewöhnlich sehr wenig.|usual|He usually eats very little.
+2338|adj|großartig|Der Film war großartig inszeniert.|great, splendid, superb, terrific|The film was superbly staged.
+2343|adj|beliebig|Wählen Sie eine beliebige Option aus.|any, as you like|Select any option you like.
+2348|adj|gezielt|Die gezielte Aktion führte zum Erfolg.|targeted, purposeful, pointed, well-aimed|The targeted action led to success.
+2351|adj|extern|Die Daten wurden extern gesichert.|external|The data was backed up externally.
+2353|adj|stetig|Er arbeitet stetig an seinem Ziel.|constant|He works constantly towards his goal.
+2354|adj|dumm|Das war eine dumme Entscheidung.|stupid|That was a stupid decision.
+2363|adj|moralisch|Das war eine moralische Entscheidung.|moral|That was a moral decision.
+2380|adj|vertraut|Er ist mit der Technik vertraut.|familiar, close|He is familiar with the technology.
+2383|adj|sportlich|Er ist sehr sportlich und aktiv.|athletic|He is very athletic and active.
+2385|adj|eventuell|Eventuell kommt er später dazu.|possible|Possibly, he will join later.
+2390|adj|intern|Das ist ein internes Dokument.|internal|This is an internal document.
+2393|adj|schriftlich|Das ist eine schriftliche Bestätigung.|written|This is a written confirmation.
+2394|adj|genetisch|Das ist ein genetischer Defekt.|genetic|This is a genetic defect.
+2398|adj|lebendig|Der Markt war lebendig und bunt.|living, lively|The market was lively and colorful.
+2404|adj|braun|Das Haus ist braun gestrichen.|brown|The house is painted brown.
+2416|adj|zukünftig|Zukünftige Projekte sind geplant.|future|Future projects are planned.
+2447|adj|trocken|Das Brot ist leider trocken geworden.|dry|The bread has unfortunately become dry.
+2457|adj|friedlich|Die Demonstration verlief friedlich.|peaceful|The demonstration was peaceful.
+2459|adj|vernünftig|Das war eine vernünftige Entscheidung.|sensible, reasonable|That was a sensible decision.
+2462|adj|gegenwärtig|Er ist gegenwärtig nicht erreichbar.|present, current|He is currently not available.
+2468|adj|wahnsinnig|Der Lärm war einfach wahnsinnig laut.|insane|The noise was insanely loud.
+2469|adj|erstaunlich|Er handelte erstaunlich schnell.|astonishing|He acted astonishingly fast.
+2472|adj|emotional|Das Gespräch wurde sehr emotional.|emotional|The conversation became very emotional.
+2484|adj|vergleichbar|Die Ergebnisse sind kaum vergleichbar.|comparable|The results are hardly comparable.
+2495|adj|wertvoll|Der Ring war klein, aber sehr wertvoll.|valuable|The ring was small but very valuable.
+2498|adj|umstritten|Die Entscheidung war umstritten.|disputed|The decision was disputed.
+2500|adj|biologisch|Biologisch ist das Produkt einwandfrei.|biological|Biologically, the product is flawless.
+2501|adj|vielfältig|Die Auswahl im Laden war vielfältig.|diverse, varied|The selection in the store was diverse.
+2502|adj|wirksam|Das Medikament ist sehr wirksam.|effective|The medication is very effective.
+2510|adj|indirekt|Er äußerte seine Kritik nur indirekt.|indirect|He expressed his criticism only indirectly.
+2523|adj|flach|Das flache Land erstreckt sich weit.|flat, low, shallow|The flat land stretches far.
+2525|adj|einheimisch|Er bevorzugt einheimische Produkte.|native|He prefers native products.
+2527|adj|sauer|Der saure Apfel schmeckt mir nicht.|sour, angry|I don't like the taste of the sour apple.
+2530|adj|attraktiv|Er verkauft das Produkt attraktiv.|attractive|He sells the product attractively.
+2539|adj|dramatisch|Der Unfall verlief dramatisch.|dramatic|The accident was dramatic.
+2555|adj|olympisch|Er trainiert für die olympischen Spiele.|Olympic|He is training for the Olympic Games.
+2556|adj|verdammt|Das war ein verdammt guter Film!|damned|That was a damned good movie!
+2559|adj|illegal|Drogenhandel ist in jedem Land illegal.|illegal|Drug trafficking is illegal in every country.
+2567|adj|einsam|Er fühlte sich einsam nach dem Umzug.|lonely, isolated|He felt lonely after the move.
+2574|adj|Frankfurter|Die Frankfurter Messe beginnt bald.|Frankfurt|The Frankfurt fair starts soon.
+2575|adj|identisch|Die Zwillinge sehen fast identisch aus.|identical|The twins look almost identical.
+2579|adj|dauerhaft|Dauerhaft bleibt das bestehen.|lasting|This will last permanently.
+2582|adj|räumlich|Die räumliche Trennung fiel schwer.|three-dimensional, spatial|The spatial separation was difficult.
+2583|adj|jahrelang|Er arbeitete jahrelang an dem Projekt.|many years, for years|He worked on the project for years.
+2589|adj|effektiv|Die neue Methode ist äußerst effektiv.|effective|The new method is extremely effective.
+2593|adj|islamisch|Er lebt nach islamisch geprägten Regeln.|Islamic|He lives by Islamic rules.
+2595|adj|radikal|Er forderte radikale Veränderungen.|radical|He demanded radical changes.
+2606|adj|willkommen|Du bist hier immer willkommen.|welcome|You are always welcome here.
+2608|adj|gelegentlich|Gelegentlich treffe ich alte Freunde.|occasional|I occasionally meet old friends.
+2614|adj|formal|Die Bewerbung war formal korrekt.|formal, technical|The application was formally correct.
+2615|adj|sanft|Der sanfte Wind streichelte ihr Gesicht.|soft, gentle|The gentle wind caressed her face.
+2619|adj|klug|Er ist klug und vorausschauend.|clever|He is clever and forward-thinking.
+2625|adj|scheinbar|Der Erfolg war scheinbar garantiert.|seemingly|The success was seemingly guaranteed.
+2628|adj|selbstständig|Er arbeitet seit Jahren selbstständig.|independent, self-employed|He has been self-employed for years.
+2630|adj|unklar|Der Text bleibt unklar formuliert.|unclear|The text remains unclearly formulated.
+2631|adj|verfügbar|Die Information ist verfügbar.|available|The information is available.
+2633|adj|schlicht|Der Raum war schlicht eingerichtet.|simple, plain|The room was simply furnished.
+2634|adj|angemessen|Das Gehalt ist angemessen hoch.|appropriate|The salary is appropriately high.
+2638|adj|ernsthaft|Das ist eine ernsthafte Angelegenheit.|serious|This is a serious matter.
+2661|adj|kontinuierlich|Der Druck nahm kontinuierlich zu.|constant, continuous|The pressure increased continuously.
+2663|adj|Münchner|Die Münchner Biergärten sind bekannt.|Munich|The Munich beer gardens are famous.
+2673|adj|wütend|Er wurde wütend, als er das erfuhr.|furious|He became furious when he heard that.
+2674|adj|christlich|Christliche Werte prägen das Land.|Christian|Christian values shape the country.
+2675|adj|Hamburger|Der Hamburger Hafen ist sehr bekannt.|Hamburg|The Hamburg harbor is very well-known.
+2684|adj|hübsch|Das Kleid sieht wirklich hübsch aus.|pretty|The dress looks really pretty.
+2686|adj|spontan|Er entschied sich spontan für die Reise.|spontaneous|He decided spontaneously to take the trip.
+2693|adj|konservativ|Er hat konservative Ansichten.|conservative|He holds conservative views.
+2695|adj|psychisch|Die Belastung war psychisch schwer.|psychological|The burden was psychologically heavy.
+2700|adj|erkennbar|Der Fehler war sofort erkennbar.|recognizable, apparent, visible|The error was immediately recognizable.
+2711|adj|derartig|Derartige Probleme gab es nie.|such, like that|Such problems never existed.
+2713|adj|vielfach|Vielfach wurde das Problem diskutiert.|multiple|The problem was discussed multiple times.
+2726|adj|grob|Die groben Worte verletzten ihn tief.|coarse, rude, gross|The rude words hurt him deeply.
+2738|adj|sekundär|Das ist von sekundärer Bedeutung.|secondary|That is of secondary importance.
+2742|adj|dankbar|Ich bin sehr dankbar für deine Hilfe.|grateful|I am very grateful for your help.
+2746|adj|inhaltlich|Inhaltlich war der Text stark.|in terms of content|In terms of content, the text was strong.
+2752|adj|kreativ|Ihre kreative Lösung überraschte alle.|creative|Her creative solution surprised everyone.
+2763|adj|ausführlich|Er beschrieb das Problem ausführlich.|detailed|He described the problem in detail.
+2767|adj|blind|Er vertraut blind auf seinen Freund.|blind|He blindly trusts his friend.
+2771|adj|allmählich|Allmählich verstand er die Situation.|gradual|Gradually, he understood the situation.
+2790|adj|bürgerlich|Er lebt ein bürgerliches Leben.|civil, civic|He lives a bourgeois life.
+2796|adj|quer|Er legt die Bücher quer ins Regal.|diagonally, sideways, across|He places the books sideways on the shelf.
+2803|adj|übel|Mir wurde plötzlich übel nach dem Essen.|foul, bad|I suddenly felt bad after eating.
+2811|adj|schwedisch|Das ist eine schwedische Firma.|Swedish|That is a Swedish company.
+2813|adj|sexuell|Er sprach offen über sexuelle Themen.|sexual|He spoke openly about sexual topics.
+2815|adj|ironisch|Er antwortete ironisch auf die Frage.|ironic|He answered the question ironically.
+2818|adj|experimentell|Das Ergebnis ist experimentell.|experimental|The result is experimental.
+2819|adj|kühl|Der kühle Wind weht vom Meer her.|cool|The cool wind blows from the sea.
+2823|adj|syrisch|Das syrische Essen ist lecker.|Syrian|The Syrian food is delicious.
+2832|adj|niederländisch|Wir haben niederländische Freunde.|Dutch|We have Dutch friends.
+2836|adj|vermeintlich|Das war ein vermeintlicher Fehler.|supposed|That was a supposed mistake.
+2839|adj|steil|Der Weg führt steil nach oben.|steep|The path leads steeply upward.
+2841|adj|heimisch|Sie sollten sich hier heimisch fühlen.|indigenous, native, at home|You should feel at home here.
+2842|adj|interkulturell|Er fördert interkulturellen Austausch.|intercultural|He promotes intercultural exchange.
+2848|adj|unheimlich|Das alte Haus wirkt unheimlich.|eerie, scary, incredible, creepy|The old house feels eerie.
+2849|adj|magnetisch|Der Kompass funktioniert magnetisch.|magnetic|The compass works magnetically.
+2858|adj|alternativ|Es gibt eine alternative Lösung.|alternatively|There is an alternative solution.
+2868|adj|arbeitslos|Er ist seit zwei Monaten arbeitslos.|unemployed|He has been unemployed for two months.
+2871|adj|logisch|Der Aufbau war klar und logisch.|logical|The structure was clear and logical.
+2884|adj|nervös|Vor der Prüfung war er sehr nervös.|nervous|He was very nervous before the exam.
+2887|adj|süß|Das Baby lächelt süß im Schlaf.|sweet|The baby smiles sweetly in sleep.
+2889|adj|weh|Mein Kopf tut schrecklich weh.|sore, hurt|My head hurts terribly.
+2894|adj|fair|Er spielt immer fair und ehrlich.|fair|He always plays fair and honest.
+2895|adj|hervorragend|Er hat hervorragend gearbeitet.|outstanding|He has worked outstandingly.
+2896|adj|umfangreich|Er las den umfangreichen Bericht.|extensive|He read the extensive report.
+2903|adj|betrieblich|Die betriebliche Leistung steigt.|operational|The operational performance is increasing.
+2917|adj|denkbar|Das ist denkbar, aber unwahrscheinlich.|conceivable|That is conceivable but unlikely.
+2931|adj|japanisch|Wir kochten ein japanisches Gericht.|Japanese|We cooked a Japanese dish.
+2936|adj|ausdrücklich|Das ist ausdrücklich verboten.|explicit|That is explicitly forbidden.
+2938|adj|funktionell|Das Gerät ist sehr funktionell.|functional|The device is very functional.
+2950|adj|einheitlich|Die Regeln sind einheitlich festgelegt.|uniform, standardized|The rules are uniformly established.
+2955|adj|dänisch|Die dänische Küche ist sehr beliebt.|Danish|The Danish cuisine is very popular.
+2963|adj|subjektiv|Das ist eine subjektive Meinung.|subjective|That is a subjective opinion.
+2964|adj|unangenehm|Das unangenehme Wetter hält an.|unpleasant|The unpleasant weather persists.
+2967|adj|charakteristisch|Das ist charakteristisch für ihn.|characteristic|That is characteristic of him.
+2985|adj|senkrecht|Die Linie verläuft senkrecht zur Achse.|vertical|The line runs vertically to the axis.
+2993|adj|flexibel|Der Arbeitsplan ist flexibel gestaltbar.|flexible|The work schedule is flexibly designed.
+2995|adj|mobil|Er bleibt mobil trotz seines Alters.|mobile|He remains mobile despite his age.
+3004|adj|verständlich|Die Anweisungen waren verständlich.|comprehensible|The instructions were comprehensible.
+3006|adj|flüssig|Das Wasser floss flüssig durch das Rohr.|liquid|The water flowed liquidly through the pipe.
+3011|adj|konsequent|Er verfolgt seine Ziele konsequent.|consistent|He consistently pursues his goals.
+3027|adj|katholisch|Sie ist katholisch aufgewachsen.|Catholic|She grew up Catholic.
+3028|adj|merkwürdig|Sein Verhalten war wirklich merkwürdig.|strange|His behavior was really strange.
+3038|adj|juristisch|Die juristische Lage ist unklar.|legal, juridical|The legal situation is unclear.
+3039|adj|peinlich|Das war eine peinliche Situation.|embarrassing|That was an embarrassing situation.
+3045|adj|kaputt|Der Stuhl ist kaputt gegangen.|broken, ruined|The chair is broken.
+3056|adj|divers|Das Team war divers zusammengesetzt.|diverse, various|The team was composed of diverse members.
+3060|adj|ausgeprägt|Sie hat ein ausgeprägtes Talent gezeigt.|distinct, pronounced, remarkable|She showed a remarkable talent.
+3064|adj|dementsprechend|Er verhielt sich dementsprechend.|accordingly|He behaved accordingly.
+3080|adj|zugehörig|Das ist der zugehörige Schlüssel.|belonging, corresponding|This is the corresponding key.
+3081|adj|analytisch|Analytisch betrachtet hat er recht.|analytic|Analytically speaking, he is correct.
+3083|adj|locker|Das Gespräch war locker und entspannt.|loose, relaxed|The conversation was casual and relaxed.
+3084|adj|sonstig|Er erledigte sonstige Aufgaben.|other|He completed other tasks.
+3086|adj|bitter|Die bittere Wahrheit kam ans Licht.|bitter|The bitter truth came to light.
+3087|adj|permanent|Er lebt in permanentem Stress.|permanent|He lives in constant stress.
+3091|adj|nachfolgend|Die nachfolgende Erklärung ist wichtig.|following, subsequently|The following explanation is important.
+3102|adj|professionell|Er geht die Aufgaben professionell an.|professional|He approaches the tasks professionally.
+3106|adj|kinetisch|Die kinetische Energie ist groß.|kinetic|The kinetic energy is high.
+3109|adj|zugänglich|Die Dokumente sind zugänglich.|accessible|The documents are accessible.
+3115|adj|langweilig|Dieses Buch ist sehr langweilig.|boring|This book is very boring.
+3117|adj|schief|Das Bild hängt schief an der Wand.|crooked, not straight|The picture is hanging crooked on the wall.
+3127|adj|einig|Einige Leute kamen schon sehr früh.|agreed|Some people came very early.
+3133|adj|stellvertretend|Er übernahm stellvertretend die Leitung.|on behalf|He took over the leadership on behalf.
+3135|adj|mündlich|Er bestand die mündliche Prüfung.|oral|He passed the oral exam.
+3136|adj|neugierig|Er ist neugierig auf das neue Buch.|curious|He is curious about the new book.
+3146|adj|cool|Er findet die neue Jacke cool.|cool|He thinks the new jacket is cool.
+3151|adj|virtuell|Das Treffen fand virtuell statt.|virtual|The meeting took place virtually.
+3164|adj|unzählig|Unzählige Sterne leuchten am Himmel.|countless|Countless stars shine in the sky.
+3168|adj|effizient|Das System arbeitet effizient.|efficient|The system works efficiently.
+3172|adj|verheiratet|Er ist seit zehn Jahren verheiratet.|married|He has been married for ten years.
+3173|adj|vorübergehend|Er nahm eine vorübergehende Stelle an.|temporary|He took a temporary position.
+3176|adj|diskret|Er hat sich sehr diskret verhalten.|discreet, confidential|He behaved very discreetly.
+3181|adj|erwachsen|Er benimmt sich schon sehr erwachsen.|adult, grown-up|He behaves very grown-up already.
+3182|adj|ökologisch|Das Produkt ist ökologisch unbedenklich.|ecological, organic|The product is ecologically safe.
+3183|adj|problematisch|Problematisch war die Umsetzung.|problematic|The implementation was problematic.
+3190|adj|schwanger|Sie ist im achten Monat schwanger.|pregnant|She is eight months pregnant.
+3194|adj|wunderschön|Der Garten blühte wunderschön.|wonderful, lovely|The garden bloomed beautifully.
+3209|adj|geheim|Das ist ein geheimes Dokument.|secret|This is a secret document.
+3210|adj|rechtzeitig|Er kam rechtzeitig zur Sitzung.|punctual, in time|He arrived on time for the meeting.
+3211|adj|anwesend|Alle Mitglieder sind anwesend.|present|All members are present.
+3213|adj|nass|Der Boden war nass nach dem Regen.|wet|The ground was wet after the rain.
+3218|adj|intelligent|Er ist ein intelligenter Mensch.|intelligent|He is an intelligent person.
+3223|adj|benachbart|Das benachbarte Dorf ist klein.|neighboring, adjacent|The neighboring village is small.
+3224|adj|explizit|Die Anweisungen waren explizit.|explicit|The instructions were explicit.
+3226|adj|hintere (r, s)|Der hintere Eingang ist verschlossen.|rear|The rear entrance is locked.
+3250|adj|wach|Ich bin schon seit sechs Uhr wach.|awake|I’ve been awake since six o'clock.
+3260|adj|neutral|Er blieb in der Diskussion neutral.|neutral|He remained neutral in the discussion.
+3261|adj|qualitativ|Das Produkt ist qualitativ hochwertig.|qualitative|The product is of high quality.
+3262|adj|feucht|Das Handtuch war noch leicht feucht.|damp|The towel was still slightly damp.
+3271|adj|furchtbar|Das Wetter war furchtbar schlecht.|terrible|The weather was terribly bad.
+3278|adj|sensibel|Er reagiert sehr sensibel auf Kritik.|sensitive|He reacts very sensitively to criticism.
+3280|adj|vordere|Der vordere Sitz ist bequemer.|front|The front seat is more comfortable.
+3289|adj|herrlich|Das Wetter heute ist einfach herrlich.|marvelous|The weather today is simply marvelous.
+3297|adj|radioaktiv|Das Material ist radioaktiv belastet.|radioactive|The material is radioactively contaminated.
+3298|adj|unsicher|Er fühlt sich unsicher bei der Prüfung.|uncertain|He feels uncertain during the exam.
+3306|adj|fröhlich|Sie hat ein fröhliches Lachen.|cheerful|She has a cheerful laugh.
+3309|adj|quantitativ|Quantitative Daten allein reichen nicht.|quantitative|Quantitative data alone are not enough.
+3313|adj|heimlich|Er traf sich heimlich mit ihr.|secret|He met with her in secret.
+3321|adj|mechanisch|Die mechanische Arbeit war anstrengend.|mechanical|The mechanical work was exhausting.
+3324|adj|symmetrisch|Das Muster war symmetrisch angeordnet.|symmetrical|The pattern was arranged symmetrically.
+3332|adj|anscheinend|Anscheinend ist das Wetter gut.|apparent|Apparently, the weather is good.
+3335|adj|polnisch|Wir besuchen eine polnische Stadt.|Polish|We are visiting a Polish city.
+3357|adj|klinisch|Er untersucht alles klinisch genau.|clinical|He examines everything with clinical precision.
+3360|adj|indisch|Er kochte indisch für seine Freunde.|Indian|He cooked Indian food for his friends.
+3375|adj|objektiv|Er analysierte die Lage objektiv.|objective|He analyzed the situation objectively.
+3377|adj|stumm|Er blieb stumm und sagte kein Wort.|dumb, silent, mute|He remained silent and said not a word.
+3382|adj|maßgeblich|Er war maßgeblich am Erfolg beteiligt.|significant, decisive|He was significantly involved in the success.
+3394|adj|sorgfältig|Er arbeitet sehr sorgfältig am Projekt.|careful|He works very carefully on the project.
+3402|adj|dynamisch|Er arbeitet dynamisch und erreicht viel.|dynamic|He works dynamically and achieves a lot.
+3406|adj|fett|Das Essen war wirklich sehr reichlich.|fat, greasy, rich|The food was really very rich.
+3418|adj|harmonisch|Die Farben wirken harmonisch zusammen.|harmonious|The colors work harmoniously together.
+3422|adj|fix|Der Termin ist fix und steht fest.|quick, fixed|The date is fixed and set.
+3435|adj|abstrakt|Die abstrakte Kunst hängt im Museum.|abstract|The abstract art hangs in the museum.
+3436|adj|ästhetisch|Das Gebäude ist ästhetisch ansprechend.|aesthetic|The building is aesthetically pleasing.
+3446|adj|strukturell|Das Problem war strukturell bedingt.|structural|The problem was due to structural issues.
+3451|adj|realistisch|Seine Erwartungen sind realistisch.|realistic|His expectations are realistic.
+3452|adj|tödlich|Das Gift ist für Menschen tödlich.|fatal|The poison is fatal to humans.
+3461|adj|besorgt|Er ist besorgt um seine Gesundheit.|worried, anxious, afraid|He is worried about his health.
+3469|adj|bequem|Das Sofa im Wohnzimmer ist sehr bequem.|comfortable|The sofa in the living room is very comfortable.
+3481|adj|nützlich|Das Werkzeug ist sehr nützlich.|useful|The tool is very useful.
+3489|adj|physisch|Die Arbeit ist physisch anstrengend.|physical|The work is physically demanding.
+3495|adj|gespannt|Er ist gespannt auf die Nachricht.|eager, anxious, tense|He is eager to hear the news.
+3497|adj|stundenlang|Er wartet stundenlang im Regen.|(lasting) for hours|He waits for hours in the rain.
+3503|adj|kognitiv|Kognitive Fähigkeiten sind wichtig.|cognitive|Cognitive abilities are important.
+3506|adj|auffällig|Sein Verhalten war sehr auffällig.|conspicuous|His behavior was very conspicuous.
+3511|adj|psychologisch|Psychologische Beratung kann helfen.|psychological|Psychological counseling can help.
+3512|adj|treu|Er bleibt treu an ihrer Seite.|faithful|He remains faithful by her side.
+3530|adj|aggressiv|Der Hund verhielt sich aggressiv.|aggressive|The dog behaved aggressively.
+3531|adj|definitiv|Das ist definitiv die beste Wahl.|definite, definitive|That is definitely the best choice.
+3553|adj|südlich|Südlich von hier liegt der See.|southern|The lake lies south of here.
+3562|adj|kostenlos|Er bietet die Hilfe kostenlos an.|free (of charge)|He offers the help free of charge.
+3567|adj|einzigartig|Das Design ist wirklich einzigartig.|unique|The design is truly unique.
+3569|adj|reell|Reell betrachtet ist die Lage schwierig.|real|Realistically, the situation is difficult.
+3583|adj|industriell|Die Stadt ist industriell geprägt.|industrial|The city is industrially shaped.
+3587|adj|absurd|Diese Behauptung ist einfach absurd.|absurd|This claim is simply absurd.
+3591|adj|autonom|Das Fahrzeug fährt vollkommen autonom.|autonomous|The vehicle drives completely autonomously.
+3592|adj|blond|Das blonde Kind spielt draußen.|blond|The blond child is playing outside.
+3593|adj|anstrengend|Die Arbeit war körperlich anstrengend.|exhausting|The work was physically exhausting.
+3596|adj|lateinisch|Die lateinische Sprache ist komplex.|Latin|The Latin language is complex.
+3598|adj|mühsam|Er erledigt die Aufgabe mühsam.|strenuous, laborious|He completes the task laboriously.
+3599|adj|präzise|Der Techniker arbeitet sehr präzise.|precise|The technician works very precisely.
+3607|adj|düster|Der düstere Wald wirkt unheimlich.|gloomy|The gloomy forest feels eerie.
+3612|adj|starr|Er blickte starr auf den Bildschirm.|stiff, rigid, paralyzed|He stared rigidly at the screen.
+3623|adj|langjährig|Sie haben eine langjährige Freundschaft.|long-standing|They have a long-standing friendship.
+3636|adj|deutschsprachig|Er liest deutschsprachige Bücher.|German-speaking|He reads German-speaking books.
+3642|adj|hässlich|Das Gebäude sieht hässlich aus.|ugly|The building looks ugly.
+3644|adj|unverändert|Die Situation blieb unverändert.|unchanged|The situation remained unchanged.
+3653|adj|akademisch|Das Niveau ist akademisch hoch.|academic|The academic level is high.
+3654|adj|aufwendig|Das Kleid war aufwendig gestaltet.|extravagant, costly|The dress was extravagantly designed.
+3664|adj|liberal|Die Partei ist politisch liberal.|liberal|The party is politically liberal.
+3665|adj|musikalisch|Musikalisch war er talentiert.|musical|Musically, he was talented.
+3687|adj|variabel|Die Bedingungen sind variabel.|variable|The conditions are variable.
+3694|adj|proportional|Die Kosten sind proportional zum Nutzen.|proportional|The costs are proportional to the benefit.
+3698|adj|operativ|Operativ konnte er alles regeln.|operative|Operatively, he was able to manage everything.
+3702|adj|schräg|Die Straße verläuft leicht schräg.|diagonal, at an angle|The road runs slightly at an angle.
+3703|adj|verehrt|Der verehrte Lehrer hielt eine Rede.|venerated, honored|The venerated teacher gave a speech.
+3707|adj|gefangen|Das Tier wurde in der Falle gefangen.|captive, captured, caught|The animal was caught in the trap.
+3711|adj|restlich|Die restlichen Fragen bleiben offen.|remaining|The remaining questions remain unanswered.
+3718|adj|einmalig|Er bietet das Erlebnis einmalig an.|unique, fantastic|He offers the experience as unique.
+3724|adj|unsichtbar|Das Gas war unsichtbar, aber gefährlich.|invisible|The gas was invisible but dangerous.
+3727|adj|vorläufig|Das ist eine vorläufige Entscheidung.|temporary|This is a temporary decision.
+3729|adj|akut|Das Problem trat ganz plötzlich auf.|acute, urgent|The problem arose quite suddenly.
+3731|adj|chronisch|Er leidet an chronischen Schmerzen.|chronic|He suffers from chronic pain.
+3738|adj|touristisch|Die Stadt ist touristisch attraktiv.|touristic|The city is touristically attractive.
+3740|adj|geographisch|Die Lage ist geographisch vorteilhaft.|geographic|The location is geographically advantageous.
+3751|adj|gültig|Das Ticket ist bis morgen gültig.|valid|The ticket is valid until tomorrow.
+3758|adj|israelisch|Er spricht fließend Hebräisch.|Israeli|He speaks Hebrew fluently.
+3765|adj|vergeblich|Er versuchte es vergeblich noch einmal.|futile|He tried again in vain.
+3774|adj|schuldig|Er fühlte sich schuldig für den Fehler.|guilty|He felt guilty for the mistake.
+3777|adj|elementar|Elementare Kenntnisse sind erforderlich.|elementary, basic|Basic knowledge is required.
+3782|das|das Adjektiv|Das Adjektiv beschreibt das Nomen.|adjective|The adjective describes the noun.
+3785|adj|final (er, e, es)|Das ist die finale Entscheidung.|final|This is the final decision.
+3788|adj|physiologisch|Das ist physiologisch bedingt.|physiological|This is physiologically conditioned.
+3793|adj|endlos|Die Diskussion schien endlos zu sein.|endless, infinite|The discussion seemed endless.
+3799|adj|städtisch|Das städtische Leben ist lebendig.|municipal, urban|Urban life is vibrant.
+3801|adj|harmlos|Das Geräusch klang ganz harmlos.|harmless|The sound seemed harmless.
+3802|adj|reichlich|Es gab reichlich zu essen für alle.|plenty, generous|There was plenty of food for everyone.
+3804|adj|spektakulär|Das Feuerwerk war spektakulär.|spectacular|The fireworks were spectacular.
+3820|adj|dauernd|Er redet dauernd über das Wetter.|constant, lasting|He constantly talks about the weather.
+3821|adj|eigenständig|Er arbeitet völlig eigenständig.|independent|He works completely independently.
+3822|adj|elegant|Die elegante Frau betrat den Raum.|elegant|The elegant woman entered the room.
+3824|adj|mutmaßlich|Der mutmaßliche Täter wurde gefasst.|presumed, suspected|The suspected perpetrator was caught.
+3826|adj|vermehrt|Vermehrt kamen neue Probleme auf.|increased|Increased problems arose.
+3833|adj|asymmetrisch|Das Bild zeigt sich asymmetrisch.|asymmetric|The picture appears asymmetric.
+3834|adj|bescheiden|Er lebt bescheiden, aber zufrieden.|modest|He lives modestly but contentedly.
+3850|das|das Attribut|Das wichtigste Attribut war die Farbe.|adjunct, attribute|The most important attribute was the color.
+3854|adj|prinzipiell|Er ist prinzipiell gegen Gewalt.|in principle|He is in principle against violence.
+3863|adj|hessisch|Die hessische Küche ist bekannt.|Hessian|The Hessian cuisine is well-known.
+3865|adj|passiv|Er blieb während der Diskussion passiv.|passive|He remained passive during the discussion.
+3871|adj|detailliert|Der Plan wurde detailliert beschrieben.|detailed|The plan was described in detail.
+3874|adj|unglücklich|Er war unglücklich über den Verlust.|unhappy, unfortunate|He was unhappy about the loss.
+3894|adj|gründlich|Er reinigte den Raum gründlich.|thorough|He cleaned the room thoroughly.
+3913|adj|jetzig|Die jetzige Situation ist schwierig.|current|The current situation is difficult.
+3917|adj|lächerlich|Die Forderung war einfach lächerlich.|ridiculous|The demand was simply ridiculous.
+3920|adj|außerordentlich|Er war außerordentlich begabt.|extraordinary|He was extraordinarily gifted.
+3922|adj|minimal|Er zahlt minimal für die Reparatur.|minimal|He pays minimal for the repair.
+3926|adj|unerwartet|Der Besuch war völlig unerwartet.|unexpected|The visit was completely unexpected.
+3948|adj|materiell|Materieller Besitz ist vergänglich.|financial, material|Material possessions are fleeting.
+3954|adj|mutig|Mutig stellte er sich der Gefahr.|courageous|Courageously, he faced the danger.
+3956|adj|sympathisch|Er wirkte sofort sympathisch auf alle.|sympathetic|He immediately seemed sympathetic to everyone.
+3965|adj|hilfreich|Das Buch war sehr hilfreich für mich.|helpful|The book was very helpful to me.
+3967|adj|königlich|Er erhielt königlichen Besuch.|royal|He received a royal visit.
+3971|adj|schmutzig|Die schmutzige Wäsche liegt dort.|dirty|The dirty laundry is lying there.
+3974|adj|gemütlich|Wir sitzen gemütlich beisammen.|comfortable, cozy|We are sitting together comfortably.
+3978|adj|blass|Nach dem Schock war er sehr blass.|pale|He was very pale after the shock.
+3996|adj|romantisch|Er plante ein romantisches Abendessen.|romantic|He planned a romantic dinner.
+4003|adj|zart|Er bereitete das zarte Gemüse zu.|tender|He prepared the tender vegetables.
+4008|adj|seitlich|Das Auto wurde seitlich beschädigt.|laterally, at/to the side|The car was damaged on the side.
+4013|adj|satt|Ich bin satt und kann nicht mehr essen.|full, fed up|I am full and can't eat anymore.
+4015|adj|symbolisch|Das Geschenk war symbolisch wertvoll.|symbolic|The gift was symbolically valuable.
+4021|adj|ländlich|Das Dorf ist sehr ländlich gelegen.|rural|The village is very rural.
+4026|adj|anspruchsvoll|Das Projekt war anspruchsvoll.|sophisticated|The project was sophisticated.
+4030|adj|geometrisch|Geometrische Formen faszinieren ihn.|geometric|Geometric shapes fascinate him.
+4035|adj|unwahrscheinlich|Das Szenario ist unwahrscheinlich.|improbable, unlikely|The scenario is improbable.
+4044|adj|partiell|Die Lösung war nur partiell erfolgreich.|partial|The solution was only partially successful.
+4063|adj|schwul|Er hat sich als schwul geoutet.|gay|He came out as gay.
+4065|adj|bemerkenswert|Das Ergebnis ist wirklich bemerkenswert.|remarkable|The result is truly remarkable.
+4068|adj|einseitig|Er entscheidet einseitig für alle.|one-sided|He decides one-sidedly for everyone.
+4076|adj|bundesweit|Die Aktion fand bundesweit Beachtung.|nationwide|The action gained nationwide attention.
+4084|adj|aromatisch|Der Wein schmeckte aromatisch.|aromatic|The wine tasted aromatic.
+4090|adj|thermisch|Die thermische Belastung war hoch.|thermal|The thermal load was high.
+4092|adj|verwandt|Wir sind entfernt miteinander verwandt.|related|We are distantly related.
+4110|adj|sachlich|Er erklärte den Sachverhalt sachlich.|objective, matter-of-fact|He explained the matter in an objective way.
+4117|adj|außergewöhnlich|Das war eine außergewöhnliche Leistung.|unusual, extraordinary|That was an extraordinary achievement.
+4121|adj|Kölner|Der Kölner Dom ist weltbekannt.|Cologne|The Cologne Cathedral is world-famous.
+4129|adj|bar|Ich bezahle die Rechnung lieber bar.|cash|I prefer to pay the bill in cash.
+4141|adj|flüchtig|Er gibt ihr einen flüchtigen Kuss.|fugitive, cursory, fleeting|He gives her a fleeting kiss.
+4149|adj|verdächtig|Sein Verhalten war verdächtig.|suspicious|His behavior was suspicious.
+4150|adj|zuverlässig|Er ist ein zuverlässiger Partner.|reliable|He is a reliable partner.
+4152|adj|alltäglich|Solche Probleme sind leider alltäglich.|daily, usual, ordinary|Such problems are unfortunately commonplace.
+4161|adj|drastisch|Die Maßnahmen waren drastisch.|drastic|The measures were drastic.
+4162|adj|gleichmäßig|Er atmete ruhig und gleichmäßig.|regular, even|He breathed calmly and evenly.
+4166|adj|molekular|Er analysiert die Struktur molekular.|molecular|He analyzes the structure on a molecular level.
+4169|adj|stationär|Er blieb stationär im Krankenhaus.|inpatient, fixed, stationary|He remained as an inpatient in the hospital.
+4171|adj|brutal|Der Film war brutal und erschreckend.|brutal|The film was brutal and terrifying.
+4172|adj|ehrenamtlich|Er arbeitet ehrenamtlich im Verein.|honorary, voluntary|He works voluntarily in the club.
+4173|adj|großzügig|Er ist ein sehr großzügiger Mensch.|generous|He is a very generous person.
+4177|adj|strikt|Die Regeln wurden strikt befolgt.|strict|The rules were strictly followed.
+4181|adj|fit|Er bleibt fit durch regelmäßigen Sport.|fit|He stays fit through regular exercise.
+4189|adj|gelassen|Er bleibt in jeder Situation gelassen.|calm, composed|He remains calm in every situation.
+4190|adj|live|Das Konzert wurde live übertragen.|live|The concert was broadcast live.
+4192|adj|sozialistisch|Sozialistische Ideen waren umstritten.|socialist|Socialist ideas were controversial.
+4209|adj|regelrecht|Das war eine regelrechte Katastrophe.|proper, real|That was a real catastrophe.
+4216|adj|regulär|Das Treffen fand regulär statt.|regular, normal|The meeting took place as usual.
+4218|adj|ukrainisch|Das ukrainische Essen ist sehr würzig.|Ukrainian|Ukrainian food is very spicy.
+4229|adj|elektromagnetisch|Elektromagnetische Felder umgeben uns.|electromagnetic|Electromagnetic fields surround us.
+4236|adj|örtlich|Die Hilfe war örtlich begrenzt.|local|The assistance was locally limited.
+4241|adj|prominent|Ein prominenter Gast besuchte das Event.|prominent|A prominent guest visited the event.
+4243|adj|afrikanisch|Die afrikanische Musik begeistert.|African|African music is captivating.
+4248|adj|philosophisch|Er stellte eine philosophische Frage.|philosophical|He asked a philosophical question.
+4255|adj|einverstanden|Ich bin mit dem Plan einverstanden.|(to be) in agreement|I agree with the plan.
+4256|adj|fachlich|Der Bericht ist fachlich fundiert.|specialist, technical, professional|The report is technically sound.
+4274|adj|einstig|Der einstige Ruhm verblasste schnell.|former|The former glory faded quickly.
+4279|adj|nördlich|Nördlich von Berlin liegt ein See.|north|A lake lies north of Berlin.
+4280|adj|obig|Das obige Beispiel zeigt den Fehler.|above|The above example shows the error.
+4281|adj|skeptisch|Er blickt skeptisch auf die Zahlen.|skeptical|He looks skeptically at the numbers.
+4287|adj|ärztlich|Die ärztliche Beratung ist kostenlos.|medical|The medical consultation is free of charge.
+4289|adj|geschickt|Sie löste das Problem geschickt.|skilled|She solved the problem skillfully.
+4290|adj|mittelalterlich|Die Stadt hat mittelalterliche Gebäude.|medieval|The city has medieval buildings.
+4295|adj|anorganisch|Anorganische Chemie ist faszinierend.|inorganic|Inorganic chemistry is fascinating.
+4303|adj|sinnlos|Die Diskussion war völlig sinnlos.|meaningless|The discussion was completely meaningless.
+4308|adj|erreichbar|Der Gipfel war kaum erreichbar.|within reach, reachable|The summit was barely within reach.
+4312|adj|populär|Diese Band ist sehr populär in Europa.|popular|This band is very popular in Europe.
+4326|adj|intellektuell|Das Gespräch war intellektuell anregend.|intellectual|The conversation was intellectually stimulating.
+4327|adj|legendär|Die legendäre Band tritt wieder auf.|legendary|The legendary band is performing again.
+4329|adj|motorisch|Die Bewegung fiel ihm motorisch schwer.|motor|The movement was difficult for him motorically.
+4357|adj|mild|Der milde Winter überraschte alle.|mild, gentle|The mild winter surprised everyone.
+4365|adj|Thüringer|Die Thüringer Küche ist berühmt.|Thuringian|Thuringian cuisine is famous.
+4372|adj|vorig|Im vorigen Jahr war es anders.|previous|It was different in the previous year.
+4375|adj|belgisch|Er probierte belgische Schokolade.|Belgian|He tried Belgian chocolate.
+4380|adj|glänzend|Das Auto glänzt nach der Wäsche.|shiny, shining, brilliant|The car shines after the wash.
+4389|adj|horizontal|Das Bild hing horizontal an der Wand.|horizontal|The picture hung horizontally on the wall.
+4391|adj|kriminell|Er wollte nicht kriminell werden.|criminal|He didn't want to become a criminal.
+4393|adj|vorzeitig|Der Bericht ist vorzeitig fertig.|early, premature|The report is finished early.
+4403|adj|nachvollziehbar|Die Erklärung war gut nachvollziehbar.|plausible, transparent|The explanation was very plausible.
+4404|adj|spürbar|Die Kälte war spürbar im Raum.|noticeable, perceptible|The cold was noticeable in the room.
+4410|adj|schlank|Er bleibt schlank durch viel Bewegung.|slim|He stays slim with a lot of exercise.
+4416|adj|quadratisch|Der Tisch hat eine quadratische Form.|square|The table has a square shape.
+4418|adj|solide|Der Plan ist solide und durchdacht.|solid, sound|The plan is solid and well thought out.
+4419|adj|unauffällig|Er kleidete sich sehr unauffällig.|inconspicuous|He dressed very inconspicuously.
+4426|adj|homogen|Die Gruppe war homogen zusammengesetzt.|homogeneous|The group was homogeneously composed.
+4437|adj|unerträglich|Der Lärm wurde unerträglich laut.|unbearable, intolerable|The noise became unbearably loud.
+4439|adj|zwangsläufig|Die Entscheidung war zwangsläufig.|inevitable|The decision was inevitable.
+4443|adj|kommunal|Kommunale Wahlen stehen bevor.|municipal|Municipal elections are upcoming.
+4452|adj|behindert|Er hilft seinem behinderten Bruder.|handicapped|He helps his handicapped brother.
+4464|adj|signifikant|Die Unterschiede sind signifikant.|significant|The differences are significant.
+4467|adj|unbewusst|Er war sich unbewusst der Gefahr.|unconscious|He was unconscious of the danger.
+4469|adj|voraussichtlich|Der Zug kommt voraussichtlich später an.|probable, presumable|The train will probably arrive later.
+4479|adj|überlegen|Er ist ihm überlegen im Schach.|superior|He is superior to him in chess.
+4492|adj|humanitär|Sie leisteten humanitäre Hilfe.|humanitarian|They provided humanitarian aid.
+4494|adj|naiv|Das naive Kind vertraute jedem.|naive|The naive child trusted everyone.
+4503|adj|gänzlich|Er hat das gänzlich vergessen.|entirely|He has entirely forgotten that.
+4510|adj|asiatisch|Asiatische Küche ist sehr beliebt.|Asian|Asian cuisine is very popular.
+4512|adj|blutig|Nach dem Unfall war die Straße blutig.|bloody|After the accident, the street was bloody.
+4516|adj|römisch|Das römische Reich war mächtig.|Roman|The Roman Empire was powerful.
+4521|adj|auswärtig|Die auswärtigen Gäste reisten an.|external|The external guests arrived.
+4522|adj|elastisch|Das Band dehnte sich elastisch aus.|elastic|The band stretched elastically.
+4529|adj|verbal|Er reagiert nur verbal auf Kritik.|verbal|He responds to criticism only verbally.
+4537|adj|gängig|Diese Methode ist sehr gängig.|common|This method is very common.
+4539|adj|kommunikativ|Er ist sehr kommunikativ und offen.|communicative|He is very communicative and open.
+4541|adj|letzterer, letztere, letzteres|Von beiden ist letzteres besser.|latter|Of the two, the latter is better.
+4545|adj|zeitgenössisch|Die zeitgenössische Kunst ist beliebt.|contemporary|Contemporary art is popular.
+4552|adj|innovativ|Innovative Ideen führten zum Erfolg.|innovative|Innovative ideas led to success.
+4553|adj|kollektiv|Kollektiv beschlossen sie die Maßnahmen.|collective|Collectively, they decided on the measures.
+4554|adj|nüchtern|Er bleibt bei der Arbeit nüchtern.|sober, with empty stomach|He stays sober at work.
+4555|adj|ungeheuer|Die Aufgabe war ungeheuer schwierig.|tremendous|The task was tremendously difficult.
+4561|adj|derzeitig|Die derzeitige Lage ist kritisch.|current|The current situation is critical.
+4565|adj|gigantisch|Das Gebäude hatte gigantische Ausmaße.|gigantic|The building had gigantic proportions.
+4567|adj|überflüssig|Diese Information war überflüssig.|superfluous, unnecessary|This information was unnecessary.
+4573|adj|sowjetisch|Sowjetische Technik war robust.|Soviet|Soviet technology was robust.
+4575|adj|verbindlich|Er gab verbindlich seine Zusage.|binding, authoritative|He gave his binding commitment.
+4579|adj|konventionell|Er bevorzugt konventionelle Methoden.|conventional|He prefers conventional methods.
+4581|adj|organisatorisch|Die organisatorische Struktur ist klar.|organizational|The organizational structure is clear.
+4582|adj|reif|Die reifen Äpfel fielen von den Bäumen.|ripe|The ripe apples fell from the trees.
+4587|adj|empfindlich|Er reagiert empfindlich auf Kritik.|sensitive|He is sensitive to criticism.
+4589|adj|hilflos|Das hilflose Kind weinte bitterlich.|helpless|The helpless child cried bitterly.
+4602|adj|witzig|Sein Kommentar war witzig und spontan.|funny|His comment was funny and spontaneous.
+4609|adj|rational|Die Entscheidung war rational.|rational|The decision was rational.
+4611|adj|fließend|Er spricht fließend drei Sprachen.|fluent, fluid, flowing|He speaks three languages fluently.
+4613|adj|naturwissenschaftlich|Er ist naturwissenschaftlich begabt.|scientific|He is gifted in the sciences.
+4633|adj|pädagogisch|Das Programm ist pädagogisch wertvoll.|pedagogical|The program is pedagogically valuable.
+4653|adj|dominant|Der dominante Spieler setzte sich durch.|dominant|The dominant player prevailed.
+4663|adj|giftig|Die Pflanze ist giftig und gefährlich.|poisonous|The plant is poisonous and dangerous.
+4665|adj|hinreichend|Die Beweise waren hinreichend.|sufficient|The evidence was sufficient.
+4676|adj|gehörlos|Er unterrichtet gehörlose Kinder.|deaf|He teaches deaf children.
+4685|adj|familiär|Das Restaurant wirkt familiär.|family, familial, close|The restaurant feels familial.
+4689|adj|technologisch|Technologisch geht die Firma voran.|technological|The company is advancing technologically.
+4691|adj|antik|Das antike Gebäude wurde restauriert.|antique|The antique building was restored.
+4694|adj|gesundheitlich|Gesundheitlich geht es ihm besser.|sanitary|He is doing better health-wise.
+4695|adj|konstruktiv|Das Meeting verlief sehr konstruktiv.|constructive|The meeting was very constructive.
+4703|adj|fähig|Er ist fähig, die Aufgabe zu lösen.|able|He is able to solve the task.
+4722|adj|ausgesprochen|Das Essen war ausgesprochen lecker.|pronounced, expressed, exceptional|The food was exceptionally delicious.
+4728|adj|präsent|Er war bei der Sitzung präsent.|present|He was present at the meeting.
+4732|adj|vornehm|Die vornehme Dame betritt den Raum.|noble, fine|The noble lady enters the room.
+4733|adj|bedeutsam|Das ist eine bedeutsame Entscheidung.|important, significant, meaningful|This is a significant decision.
+4734|adj|evangelisch|Er ist evangelisch getauft worden.|Protestant|He was baptized as a Protestant.
+4737|adj|nachdenklich|Er war nachdenklich nach dem Gespräch.|thoughtful|He was thoughtful after the conversation.
+4750|adj|pünktlich|Er kommt immer pünktlich zur Arbeit.|punctual, on time|He always arrives at work on time.
+4753|adj|diplomatisch|Der diplomatische Weg ist oft der beste.|diplomatic|The diplomatic route is often the best.
+4762|adj|oberflächlich|Die Prüfung war oberflächlich.|superficial|The exam was superficial.
+4763|adj|parlamentarisch|Er arbeitet parlamentarisch korrekt.|parliamentary|He works in a parliamentary manner.
+4764|adj|semantisch|Das Wort ist semantisch komplex.|semantic|The word is semantically complex.
+4783|adj|ethisch|Ethisch korrektes Handeln ist wichtig.|ethical|Ethically correct behavior is important.
+4788|adj|optimistisch|Er blickt optimistisch in die Zukunft.|optimistic|He looks optimistically into the future.
+4794|adj|beweglich|Das Material ist sehr beweglich.|mobile, flexible|The material is very flexible.
+4796|adj|fraglich|Seine Aussagen waren fraglich.|questionable|His statements were questionable.
+4800|adj|nächtlich|Nächtliche Geräusche weckten mich.|nocturnal|Nocturnal noises woke me up.
+4814|adj|selbstbewusst|Er sprach selbstbewusst vor der Gruppe.|self-confident|He spoke confidently in front of the group.
+4815|adj|souverän|Der König war ein souveräner Herrscher.|sovereign|The king was a sovereign ruler.
+4837|adj|höflich|Er ist immer höflich zu seinen Nachbarn.|polite|He is always polite to his neighbors.
+4851|adj|muslimisch|Die muslimische Gemeinde feiert Ramadan.|Muslim|The Muslim community celebrates Ramadan.
+4856|adj|visuell|Visuell war das Projekt ansprechend.|visual|Visually, the project was appealing.
+4865|adj|nachträglich|Er bekam eine nachträgliche Einladung.|subsequent, retrospective, belated|He received a belated invitation.
+4868|adj|spitz|Der Bleistift war spitz genug.|sharp|The pencil was sharp enough.
+4881|die|die Korrektur|Die Korrektur dauerte mehrere Stunden.|correction, adjustment|The correction took several hours.
+4882|adj|monatlich|Die Rechnung ist monatlich fällig.|monthly|The bill is due monthly.
+4883|adj|sächsisch|Die sächsische Dialekt ist unverkennbar.|Saxon|The Saxon dialect is unmistakable.
+4894|adj|frühzeitig|Er kommt immer frühzeitig zur Arbeit.|premature, early|He always arrives early to work.
+4895|adj|fundamental|Das ist ein fundamentales Prinzip.|fundamental|That is a fundamental principle.
+4901|adj|unnötig|Das war ein unnötiger Kommentar.|unnecessary|That was an unnecessary comment.
+4908|adj|funktional|Das Design war funktional und effizient.|functional|The design was functional and efficient.
+4911|adj|legal|Das Geschäft ist völlig legal.|legal|The business is completely legal.
+4914|adj|silbern|Die silberne Kette glitzerte im Licht.|silver|The silver chain glittered in the light.
+4934|adj|ungleich|Die Kräfteverhältnisse waren ungleich.|unequal|The power relations were unequal.
+4935|adj|verlässlich|Er ist ein verlässlicher Kollege.|reliable|He is a reliable colleague.
+4938|adj|brav|Das Kind war heute besonders brav.|well-behaved|The child was especially well-behaved today.
+4958|adj|faul|Er bleibt den ganzen Tag faul im Bett.|lazy|He stays lazy in bed all day.
+4973|adj|plausibel|Seine Erklärung klingt plausibel.|plausible|His explanation sounds plausible.
+4980|adj|beträchtlich|Die Summe ist beträchtlich gestiegen.|considerable|The sum has risen considerably.
+4985|adj|östlich|Der Wind kommt aus östlicher Richtung.|eastern|The wind is coming from the eastern direction.
+4991|adj|zulässig|Das Verhalten ist nicht zulässig.|permissible|The behavior is not permissible.
+4993|adj|ausgezeichnet|Der Service war ausgezeichnet.|excellent|The service was excellent.
+4996|adj|führend|Sie ist eine führende Expertin.|leading|She is a leading expert.
+5004|adj|unschuldig|Der Angeklagte ist unschuldig.|innocent|The defendant is innocent.
+5008|adj|afghanisch|Die afghanische Küche ist sehr würzig.|Afghan|The Afghan cuisine is very spicy.
+5012|adj|gläubig|Der gläubige Mann betet täglich.|religious, devout|The devout man prays daily.
+5024|adj|nominal|Nominal sind die Werte gleich.|nominal|Nominally, the values are the same.
+5033|adj|magisch|Die Atmosphäre war fast magisch.|magical|The atmosphere was almost magical.
+5047|adj|tragisch|Das war eine tragische Geschichte.|tragic|That was a tragic story.
+5054|adj|simpel|Die Anleitung ist wirklich simpel.|simple|The instruction is really simple.
+5057|adj|uralt|Das uralte Buch wurde neu entdeckt.|ancient|The ancient book was newly discovered.
+5059|adj|anfänglich|Der anfängliche Plan war besser.|initial|The initial plan was better.
+5066|adj|fürchterlich|Das Unwetter war fürchterlich stark.|terrible|The storm was terribly strong.
+5067|adj|norwegisch|Das norwegische Team war stark.|Norwegian|The Norwegian team was strong.
+5072|adj|Zürcher|Er genoss die Zürcher Küche sehr.|Zurich|He greatly enjoyed the Zurich cuisine.
+5088|adj|vertikal|Das Bild hängt vertikal an der Wand.|vertical|The picture hangs vertically on the wall.
+5099|adj|wörtlich|Das ist wörtlich zu verstehen.|literal|That is to be understood literally.
+5103|adj|jugendlich|Er wirkt immer noch sehr jugendlich.|youthful|He still appears very youthful.
+5111|adj|zuversichtlich|Er bleibt zuversichtlich trotz allem.|confident, hopeful|He remains confident despite everything.
