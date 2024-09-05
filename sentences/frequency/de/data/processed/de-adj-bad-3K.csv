@@ -1,27 +1,27 @@
 |word_de|sentence_de|word_en
 98|gut|Das Wetter ist heute wirklich gut.|good|The weather is really good today.
 141|deutsch|Er liest gerne deutsche Literatur.|German|He enjoys reading German literature.
-163|einfach|Das einfache Konzept machte alles klar.|simple, easy|The simple concept made everything clear.
+163|einfach|Das einfache Problem war schnell gelöst.|simple, easy|The simple problem was quickly solved.
 171|natürlich|Der Fluss folgt seinem natürlichen Lauf.|natural|The river follows its natural course.
-206|genau|Er erklärt den genauen Ablauf des Plans.|exact|He explains the exact process of the plan.
+206|genau|Der genaue Termin steht noch aus.|exact|The exact date is yet to be set.
 209|spät|Die späte Ankunft sorgte für Unruhe.|later|The later arrival caused unrest.
 232|wirklich|Die wirkliche Lösung überrascht alle.|real, actual|The real solution surprised everyone.
-276|weit|Der Weg zur Schule ist sehr weit.|widely, far|The way to school is very far.
-285|klar|Die klare Antwort erleichtert vieles.|clear|The clear answer made many things easier.
+276|weit|Der weite Weg führte zum Strand.|widely, far|The far road led to the beach.
+285|klar|Die klare Anweisung verhinderte Fehler.|clear|The clear instruction prevented mistakes.
 289|recht|Die rechte Wahl brachte neue Chancen.|all right|The all right choice brought new opportunities.
-315|sicher|Die sichere Wahl schützt vor Fehlern.|safe, secure, certain|The safe choice protects from mistakes.
-330|bestimmt|Der bestimmte Plan führte zum Ziel.|special, certain|The certain plan led to the goal.
+315|sicher|Der sichere Plan brachte Erfolg.|safe, secure, certain|The secure plan brought success.
+330|bestimmt|Ein bestimmter Termin wurde gewählt.|special, certain|A specific date was chosen.
 339|frei|In diesem Land sind die Bürger frei.|free|In this country, citizens are free.
 340|wert|Das Auto ist nicht mehr viel wert.|worth|The car is no longer worth much.
-356|politisch|Die politische Lage spitzt sich zu.|political|The political situation is intensifying.
+356|politisch|Die politische Lage spitzt sich zu.|political|The political situation is getting worse.
 360|einzeln|Jedes einzelne Problem fordert Zeit.|individual, single, separately|Every single problem requires time.
 389|europäisch|Der europäische Markt ist stabil.|European|The European market is stable.
 394|tatsächlich|Die tatsächliche Ursache erklärt alles.|real, actual|The actual cause explains everything.
 400|unterschiedlich|Die Meinungen dazu sind unterschiedlich.|different|Opinions on this matter are different.
 410|offen|Die offene Tür lädt zum Hereinkommen.|open|The open door invites people to come in.
 421|früh|Der frühe Vogel fand den Wurm.|early|The early bird found the worm.
-448|allgemein|Die allgemeine Meinung wurde akzeptiert.|general|The general opinion was accepted.
-462|häufig|Die häufige Frage nervte die Teilnehmer.|frequent|The frequent question annoyed the participants.
+448|allgemein|Die allgemeine Regel gilt für alle.|general|The general rule applies to everyone.
+462|häufig|Häufige Fehler stoppten den Fortschritt.|frequent|Frequent mistakes halted the progress.
 482|international|Das internationale Treffen beginnt bald.|international|The international meeting starts soon.
 493|ähnlich|Die ähnliche Idee wurde schon genutzt.|similar|The similar idea had already been used.
 498|tief|Der Brunnen im Dorf ist sehr tief.|deep|The well in the village is very deep.
@@ -37,18 +37,18 @@
 625|fest|Der feste Plan bringt Sicherheit mit.|firm, solid|The firm plan brings security.
 626|aktuell|Die aktuelle Situation erfordert Geduld.|current|The current situation requires patience.
 699|knapp|Der Vorrat an Lebensmitteln ist knapp.|scarce, slim|The food supply is scarce.
-732|selten|Die seltene Gelegenheit wurde ergriffen.|rare|The rare opportunity was seized.
+732|selten|Ein seltener Vogel wurde gesichtet.|rare|A rare bird was spotted.
 792|offenbar|Das Geheimnis war offenbar bekannt.|apparent|The secret was apparently known.
 804|bloß|Das bloße Versprechen reichte nicht aus.|bare, mere|The mere promise was not enough.
 809|wirtschaftlich|Die wirtschaftliche Lage ist angespannt.|economic, financial|The economic situation is tense.
-827|schlimm|Der schlimme Fehler wurde korrigiert.|worse|The worse mistake was corrected.
+827|schlimm|Mit jedem Tag wurde es schlimmer.|worse|It got worse with each day.
 838|laut|Das Geräusch in der Stadt war laut.|loud|The noise in the city was loud.
 844|ständig|Die ständige Ablenkung stört die Arbeit.|constant|The constant distraction disturbs the work.
 881|speziell|Die spezielle Regel erleichtert vieles.|special, specific|The specific rule made many things easier.
 890|absolut|Der absolute Sieger strahlte vor Freude.|absolute, complete|The absolute winner beamed with joy.
 908|praktisch|Der praktische Koffer ist beliebt.|practical|The practical suitcase is popular.
 911|weltweit|Die weltweite Nachfrage wächst schnell.|worldwide|The worldwide demand is growing fast.
-965|lieb|Das kleine Kätzchen ist wirklich lieb.|dear, kind|The little kitten is really dear.
+965|lieb|Ein liebes Geschenk überraschte uns.|dear, kind|A kind gift surprised us.
 969|historisch|Die Stadt hat historische Gebäude.|historical|The city has historical buildings.
 973|entscheidend|Das Tor war entscheidend für den Sieg.|decisive|The goal was decisive for the victory.
 977|wissenschaftlich|Der wissenschaftliche Ansatz half uns.|scientific, scholarly|The scientific approach helped us.
@@ -57,6 +57,7 @@
 1040|toll|Der Ausflug zum See war wirklich toll.|great, terrific|The trip to the lake was really great.
 1055|grundsätzlich|Ein grundsätzlicher Fehler war sichtbar.|fundamental|A fundamental error was visible.
 1072|erneut|Die erneute Prüfung lief fehlerfrei.|again, renewed|The renewed test ran flawlessly.
+1091|total|Der totale Stillstand war unerwartet.|total, complete|The total standstill was unexpected.
 1105|kulturell|Die Stadt hat kulturelle Vielfalt.|cultural|The city has cultural diversity.
 1110|nötig|Für den Job ist ein Abschluss nötig.|necessary|A degree is necessary for the job.
 1114|verantwortlich|Er ist verantwortlich für das Projekt.|responsible|He is responsible for the project.
@@ -68,13 +69,14 @@
 1198|unmittelbar|Es gab unmittelbare Auswirkungen.|immediate, direct|There were immediate effects.
 1200|extrem|Die extreme Hitze macht uns müde.|extreme|The extreme heat makes us tired.
 1202|theoretisch|Der theoretische Plan scheint machbar.|theoretical|The theoretical plan seems feasible.
+1224|gesellschaftlich|Gesellschaftliche Normen ändern sich.|social|Social norms change.
 1227|chinesisch|Ich bestelle oft chinesisches Essen.|Chinese|I often order Chinese food.
 1240|leise|Die Musik im Café ist angenehm leise.|quiet, soft|The music in the café is pleasantly quiet.
 1242|eindeutig|Das eindeutige Ergebnis stand fest.|clear|The clear result was set.
 1264|berliner|Die Berliner Mauer wurde 1989 geöffnet.|(of) Berlin|The Berlin Wall was opened in 1989.
 1285|gefährlich|Der Weg durch den Wald war gefährlich.|dangerous|The path through the forest was dangerous.
 1289|komplett|Das komplette Programm wurde abgespielt.|complete|The complete program was played.
-1312|linear|Die lineare Entwicklung verläuft ruhig.|linear|The linear development proceeds calmly.
+1312|linear|Seine Argumentation war streng linear.|linear|His reasoning was strictly linear.
 1349|gesund|Frisches Obst ist sehr gesund.|healthy|Fresh fruit is very healthy.
 1358|maximal|Die maximale Kapazität wurde erreicht.|maximum|The maximum capacity was reached.
 1362|außen|Die äußere Schicht schützt das Innere.|outside|The outer layer protects the inside.
@@ -95,6 +97,7 @@
 1534|ungefähr|Das ungefähre Ergebnis war ausreichend.|approximately|The approximate result was sufficient.
 1539|global|Der globale Handel wächst schnell.|global|The global trade is growing fast.
 1560|erheblich|Die erhebliche Änderung fiel auf.|considerable|The considerable change was noticeable.
+1561|ausschließlich|Es war ein ausschließliches Treffen.|exclusive|It was an exclusive meeting.
 1576|spezifisch|Die Anforderungen waren sehr spezifisch.|specific|The requirements were very specific.
 1577|stabil|Das stabile Fundament trägt das Gebäude.|stable, sturdy|The stable foundation supports the building.
 1603|angeblich|Das angebliche Angebot wurde abgelehnt.|alleged|The alleged offer was rejected.
@@ -102,6 +105,7 @@
 1634|traditionell|Das traditionelle Fest bringt Freude.|traditional|The traditional festival brings joy.
 1645|freundlich|Das Personal war sehr freundlich zu uns.|kind, nice, friendly|The staff was very friendly to us.
 1652|fern|Das ferne Land lockt Abenteurer an.|far, distant|The distant land attracts adventurers.
+1670|statistisch|Die statistische Analyse ergab Trends.|statistical|The statistical analysis revealed trends.
 1723|vorsichtig|Der vorsichtige Fahrer hielt an.|cautious, careful|The cautious driver stopped.
 1726|gesetzlich|Die gesetzliche Regelung wurde geändert.|legal|The legal regulation was changed.
 1734|freiwillig|Freiwillige Helfer arbeiteten hart.|voluntary|Voluntary helpers worked hard.
@@ -110,6 +114,7 @@
 1820|billig|Das Material war zwar billig, aber gut.|cheap|The material was cheap, but good.
 1833|weitgehend|Die weitgehende Ruhe war angenehm.|extensive|The extensive calm was pleasant.
 1838|kurzfristig|Die kurzfristige Planung bringt Stress.|at short notice|The short-notice planning brings stress.
+1843|vollkommen|Es war ein vollkommener Erfolg.|complete, perfect|It was a complete success.
 1848|dringend|Ein dringender Appell wurde gemacht.|urgent|An urgent appeal was made.
 1881|endgültig|Die endgültige Antwort brachte Klarheit.|final|The final answer brought clarity.
 1882|ewig|Die ewige Freundschaft übersteht alles.|eternal|The eternal friendship withstands everything.
@@ -117,7 +122,8 @@
 1916|mächtig|Der Fluss ist nach dem Regen mächtig.|powerful|The river is powerful after the rain.
 1922|künstlich|Die Blumen in der Vase sind künstlich.|artificial|The flowers in the vase are artificial.
 1957|komisch|Das Verhalten war etwas komisch.|funny|The behavior was a bit funny.
-1959|geistig|Sein geistiger Zustand blieb klar.|intellectual, mental|His mental state remained clear.
+1959|geistig|Sein geistiger Ansatz war erfolgreich.|intellectual, mental|His intellectual approach was successful.
+1976|empirisch|Empirische Daten stützen die Theorie.|empirical|Empirical data supports the theory.
 1987|parallel|Die parallelen Prozesse liefen gut.|parallel|The parallel processes went well.
 1998|automatisch|Der automatische Prozess lief perfekt.|automatic|The automatic process ran perfectly.
 2016|generell|Die generelle Zustimmung bringt Erfolg.|general|The general approval brings success.
@@ -135,9 +141,10 @@
 2163|gerecht|Eine gerechte Lösung wurde gefunden.|just, fair|A fair solution was found.
 2166|literarisch|Sein Werk hat hohen literarischen Wert.|literary|His work has high literary value.
 2171|ungewöhnlich|Die Architektur ist sehr ungewöhnlich.|unusual|The architecture is very unusual.
-2187|optisch|Die optische Täuschung irritierte alle.|optical, visual|The optical illusion irritated everyone.
+2187|optisch|Die optische Illusion verwirrte viele.|optical, visual|The optical illusion confused many.
 2188|militärisch|Die militärische Strategie war brillant.|military|The military strategy was brilliant.
-2191|grundlegend|Die grundlegende Idee überzeugt sofort.|basic, fundamental|The fundamental idea convinced immediately.
+2191|grundlegend|Grundlegende Ideen waren entscheidend.|basic, fundamental|Basic ideas were crucial.
+2253|systematisch|Das systematische Vorgehen half sehr.|systematic|The systematic approach helped a lot.
 2265|nachhaltig|Nachhaltige Lösungen wurden gesucht.|lasting, sustainable|Sustainable solutions were sought.
 2287|bedeutend|Das war eine bedeutende Entdeckung.|important, significant|That was a significant discovery.
 2298|angenehm|Das angenehme Gespräch endet positiv.|pleasant|The pleasant conversation ended positively.
@@ -146,41 +153,49 @@
 2332|ordentlich|Das Büro ist immer ordentlich.|neat, proper, orderly|The office is always neat.
 2337|gewöhnlich|Er führt ein ganz gewöhnliches Leben.|usual|He leads a very usual life.
 2338|großartig|Das Konzert war einfach großartig.|great, splendid, superb, terrific|The concert was simply great.
-2348|gezielt|Gezielte Maßnahmen führten weiter.|targeted, purposeful, pointed, well-aimed|Targeted measures moved things forward.
+2348|gezielt|Gezielte Maßnahmen führten zum Erfolg.|targeted, purposeful, pointed, well-aimed|Targeted actions led to success.
 2351|extern|Das externe Problem löst sich schnell.|external|The external problem is resolved quickly.
 2353|stetig|Die stetige Verbesserung fiel auf.|constant|The constant improvement was noticeable.
 2354|dumm|Das war wirklich eine sehr dumme Idee.|stupid|That was really a very stupid idea.
 2363|moralisch|Moralische Fragen wurden besprochen.|moral|Moral questions were discussed.
 2383|sportlich|Seine sportliche Leistung war top.|athletic|His athletic performance was top.
 2385|eventuell|Das eventuelle Problem löst sich auf.|possible|The possible problem resolves itself.
-2390|intern|Das interne Gespräch bringt Klarheit.|internal|The internal conversation brings clarity.
-2394|genetisch|Der genetische Test brachte Klarheit.|genetic|The genetic test brought clarity.
+2390|intern|Die internen Daten wurden ausgewertet.|internal|The internal data was analyzed.
+2393|schriftlich|Die schriftliche Aussage war eindeutig.|written|The written statement was clear.
+2394|genetisch|Genetische Merkmale beeinflussen vieles.|genetic|Genetic traits influence many things.
 2398|lebendig|Die Stadt ist nachts besonders lebendig.|living, lively|The city is especially lively at night.
 2404|braun|Die Blätter sind braun geworden.|brown|The leaves have turned brown.
 2457|friedlich|Ein friedlicher Protest fand statt.|peaceful|A peaceful protest took place.
 2459|vernünftig|Das war eine vernünftige Entscheidung.|sensible, reasonable|That was a sensible decision.
 2462|gegenwärtig|Die gegenwärtige Lage ist schwierig.|present, current|The current situation is difficult.
 2468|wahnsinnig|Der Verkehr in der Stadt ist wahnsinnig.|insane|The traffic in the city is insane.
+2469|erstaunlich|Ihre erstaunliche Idee wurde umgesetzt.|astonishing|Her astonishing idea was implemented.
 2500|biologisch|Sie kaufen nur biologische Lebensmittel.|biological|They only buy biological food.
 2510|indirekt|Er gab nur indirekte Hinweise.|indirect|He only gave indirect hints.
-2530|attraktiv|Das attraktive Angebot zog viele an.|attractive|The attractive offer drew many.
+2530|attraktiv|Das attraktive Angebot lockte Käufer an.|attractive|The attractive offer drew in buyers.
 2539|dramatisch|Der Unfall hatte dramatische Folgen.|dramatic|The accident had dramatic consequences.
-2579|dauerhaft|Die dauerhafte Lösung bringt Stabilität.|lasting|The lasting solution brings stability.
+2556|verdammt|Der verdammte Lärm störte mich.|damned|The damned noise bothered me.
+2579|dauerhaft|Eine dauerhafte Lösung wurde gefunden.|lasting|A lasting solution was found.
 2583|jahrelang|Die jahrelange Arbeit zahlte sich aus.|many years, for years|The many years of work paid off.
 2593|islamisch|Er besuchte die islamische Gemeinde.|Islamic|He visited the Islamic community.
 2608|gelegentlich|Gelegentliche Pausen steigern Leistung.|occasional|Occasional breaks improve performance.
 2614|formal|Der formale Antrag wurde angenommen.|formal, technical|The formal application was accepted.
-2619|klug|Es war eine kluge Entscheidung von ihm.|clever|It was a clever decision of his.
-2625|scheinbar|Die scheinbare Ruhe täuschte uns.|seemingly|The seemingly calm fooled us.
+2619|klug|Eine kluge Wahl führte zum Sieg.|clever|A clever choice led to victory.
+2625|scheinbar|Die scheinbare Ruhe täuschte alle.|seeming|The seeming calm deceived everyone.
+2628|selbstständig|Er führt ein selbstständiges Geschäft.|independent, self-employed|He runs an independent business.
 2633|schlicht|Das Design des Hauses ist sehr schlicht.|simple, plain|The design of the house is very simple.
 2634|angemessen|Die angemessene Strafe wurde verhängt.|appropriate|The appropriate punishment was imposed.
 2638|ernsthaft|Er hatte ernsthafte Zweifel an dem Plan.|serious|He had serious doubts about the plan.
+2661|kontinuierlich|Der kontinuierliche Regen störte uns.|constant, continuous|The continuous rain disturbed us.
 2684|hübsch|Das hübsche Kleid beeindruckt die Gäste.|pretty|The pretty dress impressed the guests.
-2686|spontan|Ein spontaner Ausflug brachte Freude.|spontaneous|A spontaneous trip brought joy.
+2686|spontan|Ein spontaner Einfall rettete den Tag.|spontaneous|A spontaneous idea saved the day.
 2695|psychisch|Die psychische Belastung war enorm.|psychological|The psychological burden was enormous.
-2746|inhaltlich|Inhaltliche Fragen wurden diskutiert.|in terms of content|Questions about the content were discussed.
+2713|vielfach|Das Problem hat vielfache Ursachen.|multiple|The problem has multiple causes.
+2738|sekundär|Die sekundäre Quelle war unzuverlässig.|secondary|The secondary source was unreliable.
+2746|inhaltlich|Die inhaltliche Prüfung war nötig.|in terms of content|The content review was necessary.
 2763|ausführlich|Er gab eine ausführliche Erklärung ab.|detailed|He gave a detailed explanation.
 2767|blind|Das blinde Vertrauen war riskant.|blind|The blind trust was risky.
+2771|allmählich|Der allmähliche Anstieg war bemerkbar.|gradual|The gradual rise was noticeable.
 2790|bürgerlich|Er lebt ein ruhiges, bürgerliches Leben.|civil, civic|He leads a quiet, civic life.
 2811|schwedisch|Die schwedische Küche ist lecker.|Swedish|The Swedish cuisine is delicious.
 2815|ironisch|Seine ironische Bemerkung war scharf.|ironic|His ironic remark was sharp.
@@ -193,28 +208,12 @@
 2887|süß|Das süße Dessert verführt die Gäste.|sweet|The sweet dessert tempts the guests.
 2894|fair|Das faire Urteil wurde respektiert.|fair|The fair judgment was respected.
 2895|hervorragend|Das hervorragende Essen wurde gelobt.|outstanding|The outstanding food was praised.
+2896|umfangreich|Die umfangreiche Liste schien endlos.|extensive|The extensive list seemed endless.
 2917|denkbar|Es ist denkbar, dass es morgen regnet.|conceivable|It is conceivable that it will rain tomorrow.
+2936|ausdrücklich|Sie gab eine ausdrückliche Anweisung.|explicit|She gave an explicit instruction.
 2938|funktionell|Das funktionelle Design war einfach.|functional|The functional design was simple.
 2950|einheitlich|Die einheitliche Regelung gilt überall.|uniform, standardized|The standardized regulation applies everywhere.
-2963|subjektiv|Die subjektive Meinung entscheidet oft.|subjective|The subjective opinion often decides.
-2985|senkrecht|Die senkrechte Linie trennt Bereiche.|vertical|The vertical line separates areas.
-1224|gesellschaftlich|Er übernahm eine gesellschaftliche Rolle.|social|He took on a social role.
-1561|ausschließlich|Es war ein ausschließliches Treffen.|exclusive|It was an exclusive meeting.
-1670|statistisch|Die statistische Analyse ergab Trends.|statistical|The statistical analysis revealed trends.
-1976|empirisch|Empirische Daten stützen die Theorie.|empirical|Empirical data supports the theory.
-2253|systematisch|Das systematische Vorgehen half sehr.|systematic|The systematic approach helped a lot.
-2393|schriftlich|Die schriftliche Aussage war eindeutig.|written|The written statement was clear.
-2469|erstaunlich|Ihre erstaunliche Idee wurde umgesetzt.|astonishing|Her astonishing idea was implemented.
-2628|selbstständig|Er führt ein selbstständiges Geschäft.|independent, self-employed|He runs an independent business.
-2661|kontinuierlich|Der kontinuierliche Regen störte uns.|constant, continuous|The continuous rain disturbed us.
-2738|sekundär|Die sekundäre Quelle war unzuverlässig.|secondary|The secondary source was unreliable.
-2771|allmählich|Der allmähliche Anstieg war bemerkbar.|gradual|The gradual rise was noticeable.
-2936|ausdrücklich|Sie gab eine ausdrückliche Anweisung.|explicit|She gave an explicit instruction.
+2963|subjektiv|Subjektive Ansichten führten zu Streit.|subjective|Subjective opinions led to arguments.
 2967|charakteristisch|Das ist ein charakteristisches Merkmal.|characteristic|That is a characteristic feature.
+2985|senkrecht|Die senkrechte Linie trennt Bereiche.|vertical|The vertical line separates areas.
 2993|flexibel|Eine flexible Strategie hilft in Krisen.|flexible|A flexible strategy helps in crises.
-1091|total|Der totale Stillstand war unerwartet.|total, complete|The total standstill was unexpected.
-2896|umfangreich|Die umfangreiche Liste schien endlos.|extensive|The extensive list seemed endless.
-1843|vollkommen|Ein vollkommenes Schweigen füllte den Raum.|complete, perfect|A complete silence filled the room.
-2713|vielfach|Der vielfache Nutzen war sofort ersichtlich.|multiple|The multiple benefits were immediately apparent.
-2556|verdammt|Der verdammte Lärm störte mich.|damned|The damned noise bothered me.
-
