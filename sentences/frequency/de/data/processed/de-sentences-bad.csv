@@ -1,53 +1,53 @@
-57|part_of_speech|word_de|word_en
-108|verb|lassen, lässt, ließ, hat gelassen|to let, allow, have done
-181|part|vielleicht|
-192|der|der Herr|Mr.
-241|part|eben, ebend|
-481|part|nämlich|you see, namely
-495|prep|gegenüber|opposite
-576|pron|darum|around it, therefore
-696|pron|derselbe, dieselbe, dasselbe|the same (one, ones)
-946|verb|beziehen, bezieht, bezog, hat bezogen|to refer, put, get
-976|verb|stammen, stammt, stammte, hat gestammt|to come (from), descend
-1061|part|ruhig|really
-1099|pron|derjenige, diejenige, dasjenige|the one (who, that)
-1140|adv|lediglich|merely
-1313|verb|ausmachen, macht aus, machte aus, hat ausgemacht|to put out, agree
-1427|der, die|die Abgeordnete|member of parliament, congress
-1754|verb|erfassen, erfasst, erfasste, hat erfasst|to determine, grasp, acquire
-1763|die|die Schicht|layer, class
-1798|verb|bedingen, bedingt, bedingte, hat bedingt|to cause
-1800|verb|zukommen, kommt zu, kam zu, ist zugekommen|to come toward, be in store
-1885|verb|wandern, wandert, wanderte, ist gewandert|to (go on a) walk or hike, migrate
-1896|verb|regeln, regelt, regelte, hat geregelt|to control, regulate, direct
-2005|verb|vorhaben, hat vor, hatte vor, hat vorgehabt|to have in mind, be planning, intend
-2027|verb|versorgen, versorgt, versorgte, hat versorgt|to supply, provide, look after
-2150|der|der Rang|standing, status
-2176|verb|vorgehen, geht vor, ging vor, ist vorgegangen|to go on, go ahead, be fast, have priority
-2233|verb|ausrichten, richtet aus, richtete aus, hat ausgerichtet|to tell, align, line up, send
-2499|verb|aufsteigen, steigt auf, stieg auf, ist aufgestiegen|to rise (up), move up
-2536|die|die Bilanz|balance (sheet), result
-2557|verb|anerkennen, erkennt an, erkannte an, hat anerkannt|to recognize, accept
-2572|verb|anstehen, steht an, stand an, hat angestanden|to line up, be in line
-2883|verb|dastehen, steht da, stand da, hat dagestanden|to stand there, be in a position
-3154|verb|absetzen, setzt ab, setzte ab, hat abgesetzt|to drop off, dismiss
-3198|adv|hinweg|(be) over, for (many years)
-3395|adv|untereinander|among (our)selves, with each other
-3496|verb|sicherstellen, stellt sicher, stellte sicher, hat sichergestellt|to confiscate, guarantee, ensure
-3504|adv|seinerseits|on his part, for its/his part
-3576|verb|nachfragen, fragt nach, fragte nach, hat nachgefragt|to ask (sb), inquire
-3650|verb|einschlagen, schlägt ein, schlug ein, hat eingeschlagen|to hammer in, smash, take
-3899|der|der Befund|result, finding(s)
-4038|verb|beauftragen, beauftragt, beauftragte, hat beauftragt|to give sb the task of doing sth, hire (a firm)
-4058|verb|auskennen, kennt aus, kannte aus, hat ausgekannt|to know one’s way around, be well informed
-4195|verb|aufspringen, springt auf, sprang auf, ist aufgesprungen|to jump up/on, burst open
-4271|verb|ausbleiben, bleibt aus, blieb aus, ist ausgeblieben|to be missing, fail to appear, stay out
-4438|verb|zerreißen, zerreißt, zerriss, hat zerrissen|to tear (up, to pieces)
-4886|verb|thematisieren, thematisiert, thematisierte, hat thematisiert|to broach the issue, make a subject of discussion
-4960|verb|mitspielen, spielt mit, spielte mit, hat mitgespielt|to play, join in
-4978|verb|zuschlagen, schlägt zu, schlug zu, hat zugeschlagen|to strike, slam
-4979|verb|behindern, behindert, behinderte, hat behindert|to obstruct, impede
-4982|die|die Größenordnung|scale, size, magnitude
-4989|verb|verkehren, verkehrt, verkehrte, hat verkehrt|to socialize, consort
-4991|adj|zulässig|permitted, permissible, acceptable
-4940|verb|ergehen, ergeht, erging, hat ergangen|to fare, be enacted
+57|part_of_speech|word_de|word_en|sentence_en|sentence_de
+108|verb|lassen, lässt, ließ, hat gelassen|to let, allow, have done|I let my brother do the homework.|Ich lasse meinen Bruder die Hausaufgaben machen.
+181|part|vielleicht||Maybe I'll go to the cinema tomorrow.|Vielleicht gehe ich morgen ins Kino.
+192|der|der Herr|Mr.|Mr. Müller is not in the office today.|Der Herr Müller ist heute nicht im Büro.
+241|part|eben, ebend||That's exactly the problem we need to solve.|Das ist eben das Problem, das wir lösen müssen.
+481|part|nämlich|you see, namely|You see, he already mentioned it yesterday.|Er hat es nämlich schon gestern gesagt.
+495|prep|gegenüber|opposite|The café is directly opposite the bank.|Das Café liegt direkt gegenüber der Bank.
+576|pron|darum|around it, therefore|I'm sick, therefore I'll stay home today.|Ich bin krank, darum bleibe ich heute zu Hause.
+696|pron|derselbe, dieselbe, dasselbe|the same (one, ones)|That's the same problem as yesterday.|Das ist dasselbe Problem wie gestern.
+946|verb|beziehen, bezieht, bezog, hat bezogen|to refer, put, get|He refers to the article in the magazine.|Er bezieht sich auf den Artikel im Magazin.
+976|verb|stammen, stammt, stammte, hat gestammt|to come (from), descend|The family originally comes from France.|Die Familie stammt ursprünglich aus Frankreich.
+1061|part|ruhig|really|You can really wait here.|Du kannst ruhig hier warten.
+1099|pron|derjenige, diejenige, dasjenige|the one (who, that)|The one who won is my friend.|Derjenige, der gewonnen hat, ist mein Freund.
+1140|adv|lediglich|merely|He merely asked a question.|Er hat lediglich eine Frage gestellt.
+1313|verb|ausmachen, macht aus, machte aus, hat ausgemacht|to put out, agree|We agreed on an appointment for tomorrow.|Wir haben einen Termin für morgen ausgemacht.
+1427|der, die|die Abgeordnete|member of parliament, congress|The member of parliament discussed the new legislation.|Die Abgeordnete diskutierte die neue Gesetzgebung.
+1754|verb|erfassen, erfasst, erfasste, hat erfasst|to determine, grasp, acquire|He could quickly grasp the situation.|Er konnte die Situation schnell erfassen.
+1763|die|die Schicht|layer, class|The top layer of the soil is very fertile.|Die oberste Schicht des Bodens ist sehr fruchtbar.
+1798|verb|bedingen, bedingt, bedingte, hat bedingt|to cause|The bad weather caused the delay.|Das schlechte Wetter hat die Verspätung bedingt.
+1800|verb|zukommen, kommt zu, kam zu, ist zugekommen|to come toward, be in store|A lot of work will come toward us.|Es wird noch viel Arbeit auf uns zukommen.
+1885|verb|wandern, wandert, wanderte, ist gewandert|to (go on a) walk or hike, migrate|We enjoy hiking in the mountains.|Wir wandern gern in den Bergen.
+1896|verb|regeln, regelt, regelte, hat geregelt|to control, regulate, direct|The traffic light system controls the traffic.|Das Ampelsystem regelt den Verkehr.
+2005|verb|vorhaben, hat vor, hatte vor, hat vorgehabt|to have in mind, be planning, intend|I plan to travel to Spain next year.|Ich habe vor, nächstes Jahr nach Spanien zu reisen.
+2027|verb|versorgen, versorgt, versorgte, hat versorgt|to supply, provide, look after|She provides her family with fresh vegetables.|Sie versorgt ihre Familie mit frischem Gemüse.
+2150|der|der Rang|standing, status|He has a high status in the company.|Er hat einen hohen Rang in der Firma.
+2176|verb|vorgehen, geht vor, ging vor, ist vorgegangen|to go on, go ahead, be fast, have priority|Please go ahead, I'll follow you.|Bitte gehen Sie vor, ich folge Ihnen.
+2233|verb|ausrichten, richtet aus, richtete aus, hat ausgerichtet|to tell, align, line up, send|Can you pass the message to him?|Kannst du ihm die Nachricht ausrichten?
+2499|verb|aufsteigen, steigt auf, stieg auf, ist aufgestiegen|to rise (up), move up|The balloon rose into the sky.|Der Ballon ist in den Himmel aufgestiegen.
+2536|die|die Bilanz|balance (sheet), result|The balance sheet shows a profit.|Die Bilanz zeigt einen Gewinn.
+2557|verb|anerkennen, erkennt an, erkannte an, hat anerkannt|to recognize, accept|His work was recognized by everyone.|Seine Arbeit wurde von allen anerkannt.
+2572|verb|anstehen, steht an, stand an, hat angestanden|to line up, be in line|We had to stand in line for a long time to get the tickets.|Wir mussten lange anstehen, um die Tickets zu bekommen.
+2883|verb|dastehen, steht da, stand da, hat dagestanden|to stand there, be in a position|He just stands there and does nothing.|Er steht einfach nur da und macht nichts.
+3154|verb|absetzen, setzt ab, setzte ab, hat abgesetzt|to drop off, dismiss|He was dismissed from his position.|Er wurde von seiner Position abgesetzt.
+3198|adv|hinweg|(be) over, for (many years)|The bridge goes over the river.|Die Brücke führt über den Fluss hinweg.
+3395|adv|untereinander|among (our)selves, with each other|We helped each other.|Wir haben uns untereinander geholfen.
+3496|verb|sicherstellen, stellt sicher, stellte sicher, hat sichergestellt|to confiscate, guarantee, ensure|The police confiscated the evidence.|Die Polizei hat die Beweise sichergestellt.
+3504|adv|seinerseits|on his part, for its/his part|He did everything he could on his part.|Er hat seinerseits alles getan, was er konnte.
+3576|verb|nachfragen, fragt nach, fragte nach, hat nachgefragt|to ask (sb), inquire|I will ask again tomorrow.|Ich werde morgen nochmal nachfragen.
+3650|verb|einschlagen, schlägt ein, schlug ein, hat eingeschlagen|to hammer in, smash, take|He took a new path.|Er hat einen neuen Weg eingeschlagen.
+3899|der|der Befund|result, finding(s)|The doctor shared the findings.|Der Arzt hat den Befund mitgeteilt.
+4038|verb|beauftragen, beauftragt, beauftragte, hat beauftragt|to give sb the task of doing sth, hire (a firm)|We hired a company to do the renovation.|Wir haben eine Firma mit der Renovierung beauftragt.
+4058|verb|auskennen, kennt aus, kannte aus, hat ausgekannt|to know one’s way around, be well informed|He knows his way around this city well.|Er kennt sich gut in dieser Stadt aus.
+4195|verb|aufspringen, springt auf, sprang auf, ist aufgesprungen|to jump up/on, burst open|The door burst open suddenly.|Die Tür sprang plötzlich auf.
+4271|verb|ausbleiben, bleibt aus, blieb aus, ist ausgeblieben|to be missing, fail to appear, stay out|The expected call didn't come.|Der erwartete Anruf blieb aus.
+4438|verb|zerreißen, zerreißt, zerriss, hat zerrissen|to tear (up, to pieces)|She tore the letter in anger.|Sie hat den Brief vor Wut zerrissen.
+4886|verb|thematisieren, thematisiert, thematisierte, hat thematisiert|to broach the issue, make a subject of discussion|We should address this problem.|Wir sollten dieses Problem thematisieren.
+4960|verb|mitspielen, spielt mit, spielte mit, hat mitgespielt|to play, join in|Do you want to join in?|Möchtest du mitspielen?
+4978|verb|zuschlagen, schlägt zu, schlug zu, hat zugeschlagen|to strike, slam|He slammed the door loudly.|Er hat die Tür laut zugeschlagen.
+4979|verb|behindern, behindert, behinderte, hat behindert|to obstruct, impede|The accident obstructed the traffic.|Der Unfall hat den Verkehr behindert.
+4982|die|die Größenordnung|scale, size, magnitude|The costs are very high in this scale.|Die Kosten sind in dieser Größenordnung sehr hoch.
+4989|verb|verkehren, verkehrt, verkehrte, hat verkehrt|to socialize, consort|He often socializes in this café.|Er verkehrt oft in diesem Café.
+4991|adj|zulässig|permitted, permissible, acceptable|This behavior is not permitted here.|Dieses Verhalten ist hier nicht zulässig.
+4940|verb|ergehen, ergeht, erging, hat ergangen|to fare, be enacted|He fared well in the new city.|Es erging ihm gut in der neuen Stadt.
