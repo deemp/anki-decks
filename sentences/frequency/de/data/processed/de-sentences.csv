@@ -107,7 +107,7 @@
 105|conj|mal||Tausend mal tausend ist eine Million.|times|A thousand times a thousand is a million.
 106|das|das Mal||Das erste Mal ist immer besonders.|time|The first time is always special.
 107|part|mal||Komm mal her und sieh dir das an.||Come here and take a look at this.
-108|verb|lassen, lässt, ließ, hat gelassen||Er ließ das Buch auf dem Tisch.|to leave|He left the book on the table.
+108|verb|lassen, lässt, ließ, hat gelassen||Er ließ mich die Arbeit machen.|to let|He let me do the work.
 109|adj|neu||Ich habe ein neues Buch gekauft.|new|I bought a new book.
 110|verb|stehen, steht, stand, hat gestanden||Er steht früh auf und geht joggen.|to stand|He gets up early and goes jogging.
 111|pron|unser||Unser Hund ist sehr freundlich.|our|Our dog is very friendly.
@@ -191,7 +191,7 @@
 189|part|eigentlich||Er sollte eigentlich schon hier sein.||He should actually be here already.
 190|adj|letzte (r, s)||Die letzte Chance ist nun vorbei.|last|The last chance is now gone.
 191|verb|fragen, fragt, fragte, hat gefragt||Er fragte nach dem Weg zum Bahnhof.|to ask|He asked for the way to the train station.
-192|der|der Herr||Der Herr am Eingang grüßte freundlich.|Mr.|The gentleman at the entrance greeted kindly.
+192|der|der Herr||Der Herr Müller ist heute nicht im Büro.|Mr.|Mr. Müller is not in the office today.
 193|verb|halten, hält, hielt, hat gehalten||Er hält das Seil fest in der Hand.|to hold|He holds the rope firmly in his hand.
 194|verb|glauben, glaubt, glaubte, hat geglaubt||Er glaubt an das Gute im Menschen.|to believe|He believes in the good in people.
 195|die|die Frage||Die Frage blieb unbeantwortet.|question|The question remained unanswered.
@@ -240,7 +240,7 @@
 238|das|das Wort||Das Wort hat viele Bedeutungen.|word|The word has many meanings.
 239|pron|darauf, drauf||Er wartet darauf, dass es beginnt.|to it|He is waiting for it to begin.
 240|adv|eben, ebend||Ich habe eben erst davon gehört.|just|I just heard about it now.
-241|part|eben, ebend||Das ist eben das Problem hier.||That is exactly the problem here.
+241|part|eben, ebend||Ich habe ihn eben an der Tür gesehen.|just|I just saw him at the door.
 242|die|die Seite||Der Fluss ist auf der rechten Seite.|side|The river is on the right side.
 243|der, das|das Teil||Das Teil des Motors ist defekt.|part|The part of the engine is defective.
 244|adj|jung||Der junge Mann geht zur Arbeit.|young|The young man goes to work.
@@ -480,7 +480,7 @@
 478|das|das Produkt||Das neue Produkt ist erfolgreich.|product|The new product is successful.
 479|die|die Situation||Die Situation entspannt sich langsam.|situation|The situation is slowly relaxing.
 480|adv|außerdem||Außerdem wollte er noch etwas sagen.|besides|Besides, he wanted to say something else.
-481|part|nämlich||Er kam zu spät, nämlich um zehn Minuten.|namely|He was late, namely by ten minutes.
+481|part|nämlich||Er hat es nämlich schon gestern gesagt.|you see|You see, he already mentioned it yesterday.
 482|adj|international||Das internationale Treffen beginnt bald.|international|The international meeting starts soon.
 483|der|der Anfang||Der Anfang war schwer für uns alle.|beginning|The beginning was difficult for all of us.
 484|num|sechs||Sechs Minuten blieben noch auf der Uhr.|six|Six minutes remained on the clock.
@@ -494,7 +494,7 @@
 492|das|das Licht||Das Licht erhellt den Raum sofort.|light|The light immediately brightens the room.
 493|adj|ähnlich||Die ähnliche Idee wurde schon genutzt.|similar|The similar idea had already been used.
 494|die|die Regel||Die Regel ist einfach zu verstehen.|rule|The rule is easy to understand.
-495|prep|gegenüber||Das Haus liegt gegenüber der Bank.|opposite|The house is opposite the bank.
+495|prep|gegenüber||Sein Haus liegt gegenüber dem Park.|opposite|His house is opposite the park.
 496|der|der Kollege||Der Kollege half mir bei der Aufgabe.|colleague|The colleague helped me with the task.
 497|adv|bisher||Bisher hat er alle Prüfungen bestanden.|until now|Up until now, he has passed all exams.
 498|adj|tief||Der Brunnen im Dorf ist sehr tief.|deep|The well in the village is very deep.
@@ -575,7 +575,7 @@
 573|adj|völlig||Der völlige Plan war endlich fertig.|completely|The complete plan was finally finished.
 574|adj|positiv||Er gab eine positive Rückmeldung.|positive|He gave positive feedback.
 575|das|das Gespräch||Das Gespräch verlief freundlich.|conversation|The conversation was friendly.
-576|pron|darum||Darum geht es in der Geschichte.|around it|That's what the story is about.
+576|pron|darum||Ein Zaun wurde darum errichtet.|around it|A fence was placed around it.
 577|der|der Kunde||Der Kunde war zufrieden mit dem Service.|customer|The customer was satisfied with the service.
 578|die|die Menge||Die Menge an Arbeit war zu hoch.|amount|The amount of work was too high.
 579|die|die Regierung||Die Regierung plant neue Maßnahmen.|government|The government is planning new measures.
@@ -695,7 +695,7 @@
 693|der|der Unterschied||Der Unterschied zeigt sich deutlich.|difference|The difference is clearly visible.
 694|das|das Foto||Er nahm das Foto und zeigte es allen.|photograph|He took the photograph and showed it to everyone.
 695|verb|trinken, trinkt, trank, hat getrunken||Ich trinke jeden Morgen Wasser.|to drink|I drink water every morning.
-696|pron|derselbe, dieselbe, dasselbe||Er machte wieder denselben Fehler.|the same (one, ones)|He made the same mistake again.
+696|pron|derselbe, dieselbe, dasselbe||Das ist dasselbe Problem wie gestern.|the same (one, ones)|That's the same problem as yesterday.
 697|verb|wählen, wählt, wählte, hat gewählt||Er wählt immer denselben Kandidaten.|to vote|He always votes for the same candidate.
 698|adj|gleichzeitig||Sie lachten gleichzeitig laut.|simultaneous|They laughed loudly at the same time.
 699|adj|knapp||Der Vorrat an Lebensmitteln ist knapp.|scarce|The food supply is scarce.
@@ -945,7 +945,7 @@
 943|verb|mitteilen, teilt mit, teilte mit, hat mitgeteilt||Er teilte die Neuigkeit sofort mit.|to inform|He informed others of the news immediately.
 944|das|das Verfahren||Das Verfahren ist sehr effizient.|method|The process is very efficient.
 945|adv|danke||Danke für deine große Hilfe heute.|thanks|Thank you for your great help today.
-946|verb|beziehen, bezieht, bezog, hat bezogen||Sie beziehen das neue Haus im Herbst.|to move|They move into the new house in the fall.
+946|verb|beziehen, bezieht, bezog, hat bezogen||Sie bezog sich auf das letzte Kapitel.|to refer|She referred to the previous chapter.
 947|verb|verlangen, verlangt, verlangte, hat verlangt||Er verlangte sein Geld zurück.|to request|He demanded his money back.
 948|adv|zuerst||Zuerst machen wir die Hausaufgaben.|first|First, we do the homework.
 949|die|die Analyse||Die Analyse ergab neue Ergebnisse.|analysis|The analysis produced new results.
@@ -975,7 +975,7 @@
 973|adj|entscheidend||Das Tor war entscheidend für den Sieg.|decisive|The goal was decisive for the victory.
 974|verb|teilen, teilt, teilte, hat geteilt||Kannst du den Kuchen mit mir teilen?|to share|Can you share the cake with me?
 975|der|der Typ||Der Typ an der Bar war seltsam.|type|The guy at the bar was strange.
-976|verb|stammen, stammt, stammte, hat gestammt||Das Buch stammt aus Deutschland.|to come from|The book originates from Germany.
+976|verb|stammen, stammt, stammte, hat gestammt||Die Idee stammt von meinem Vater.|to come (from)|The idea comes from my father.
 977|adj|wissenschaftlich||Der wissenschaftliche Ansatz half uns.|scientific|The scientific approach helped us.
 978|pron|wieso||Wieso hast du das nicht früher gesagt?|why|Why didn't you say that earlier?
 979|der|der Faktor||Der Faktor Zeit spielt eine große Rolle.|factor|The factor of time plays an important role.
@@ -1060,7 +1060,7 @@
 1058|die|die Ruhe||Die Ruhe im Raum war angenehm.|silence|The silence in the room was pleasant.
 1059|die|die Darstellung||Die Darstellung der Fakten war korrekt.|depiction|The depiction of the facts was accurate.
 1060|adj|ruhig||Das Meer war heute besonders ruhig.|calm|The sea was especially calm today.
-1061|part|ruhig||Du kannst ruhig nach Hause gehen.|really|You can freely go home.
+1061|part|ruhig||Du kannst dir ruhig Zeit lassen.|really|You can really take your time.
 1062|der|der Traum||Ein schöner Traum ging vorbei.|dream|A beautiful dream passed by.
 1063|verb|behandeln, behandelt, behandelte, hat behandelt||Der Arzt behandelt den Patienten.|to treat|The doctor treats the patient.
 1064|adv|stets||Er blieb stets freundlich zu allen.|always|He was always friendly to everyone.
@@ -1098,7 +1098,7 @@
 1096|der|der Band||Der dritte Band erscheint nächstes Jahr.|volume|The third volume will be released next year.
 1097|die|die Band||Die Band spielte bis spät in die Nacht.|band (musical)|The band played late into the night.
 1098|pron|darunter||Darunter lagen wichtige Dokumente.|underneath|Important documents were underneath.
-1099|pron|derjenige, diejenige, dasjenige||Derjenige, der das Buch liest, ist klug.|the one (who, that)|The one who reads the book is smart.
+1099|pron|derjenige, diejenige, dasjenige||Sie ist diejenige, die mir half.|the one (who, that)|She is the one who helped me.
 1100|der|der Wald||Der Wald war im Herbst besonders schön.|forest|The forest was especially beautiful in the fall.
 1101|die|die Insel||Die Insel ist nur per Boot erreichbar.|island|The island is accessible only by boat.
 1102|der|der Schluss||Der Schluss des Films war überraschend.|end|The ending of the movie was surprising.
@@ -1139,7 +1139,7 @@
 1137|der|der Inhalt||Der Inhalt passt in die Tasche.|content|The content fits in the bag.
 1138|verb|scheitern, scheitert, scheiterte, ist gescheitert||Der Plan scheiterte an der Umsetzung.|to fail|The plan failed in execution.
 1139|das|das Ereignis||Das Ereignis zog viele Zuschauer an.|event|The event attracted many spectators.
-1140|adv|lediglich||Es ist lediglich eine Formalität.|merely|It is simply a formality.
+1140|adv|lediglich||Er hat lediglich eine Frage gestellt.|merely|He merely asked a question.
 1141|adj|organisch||Organische Lebensmittel sind gesünder.|organic|Organic foods are healthier.
 1142|adj|glücklich||Er ist glücklich über das Ergebnis.|happy|He is happy with the result.
 1143|der|der Rest||Der Rest des Kuchens blieb übrig.|rest|The rest of the cake was left over.
@@ -1312,7 +1312,7 @@
 1310|verb|reduzieren, reduziert, reduzierte, hat reduziert||Wir müssen die Kosten reduzieren.|to reduce|We need to reduce the costs.
 1311|die|die Maschine||Die Maschine lief ohne Probleme.|machine|The machine ran without problems.
 1312|adj|linear||Seine Argumentation war streng linear.|linear|His reasoning was strictly linear.
-1313|verb|ausmachen, macht aus, machte aus, hat ausgemacht||Er macht das Licht vor dem Schlafen aus.|to turn off|He turns off the light before sleeping.
+1313|verb|ausmachen, macht aus, machte aus, hat ausgemacht||Wir haben einen neuen Plan ausgemacht.|agree|We agreed on a new plan.
 1314|verb|eintreten, tritt ein, trat ein, hat eingetreten||Er trat leise in das Zimmer ein.|to enter|He quietly entered the room.
 1315|adj|kritisch||Er stellte kritische Fragen zur Lage.|critical|He asked critical questions about the situation.
 1316|part|äh||Äh, ich habe den Faden verloren.|um|Um, I lost my train of thought.
@@ -1426,7 +1426,7 @@
 1424|die|die DDR (Deutsche Demokratische Republik)||Die DDR existiert seit 1990 nicht mehr.||The DDR no longer exists since 1990.
 1425|adj|rasch||Der rasche Fortschritt überraschte uns.|quick|The quick progress surprised us.
 1426|adj|real||Der Schmerz fühlt sich völlig real an.|real|The pain feels completely real.
-1427|der, die|die Abgeordnete||Die Abgeordnete spricht im Parlament.|parliamentarian|The parliamentarian speaks in parliament.
+1427|der, die|die Abgeordnete||Die Abgeordnete kam zu spät an.|member of parliament|The member of parliament arrived late.
 1428|verb|verstärken, verstärkt, verstärkte, hat verstärkt||Sie verstärkte die Tür mit Stahl.|to strengthen|She reinforced the door with steel.
 1429|verb|ausschließen, schließt aus, schloss aus, hat ausgeschlossen||Er wurde aus dem Verein ausgeschlossen.|to exclude|He was excluded from the club.
 1430|adj|sinnvoll||So ein Plan wäre wirklich sinnvoll.|meaningful|Such a plan would really make sense.
@@ -1753,7 +1753,7 @@
 1751|die|die Landschaft||Die Landschaft ist atemberaubend.|landscape|The landscape is breathtaking.
 1752|verb|verweisen, verweist, verwies, hat verwiesen||Er verwies auf die Regeln im Vertrag.|to refer|He referred to the rules in the contract.
 1753|der|der Arbeitsplatz||Der Arbeitsplatz wird modernisiert.|workplace|The workplace is being modernized.
-1754|verb|erfassen, erfasst, erfasste, hat erfasst||Er erfasst die Daten in das System.|to enter|He enters the data into the system.
+1754|verb|erfassen, erfasst, erfasste, hat erfasst||Er konnte das Konzept nicht erfassen.|to grasp|He couldn't grasp the concept.
 1755|die|die Komponente||Die Komponente war fehlerhaft.|component|The component was defective.
 1756|das|das Ion||Das Ion trägt eine elektrische Ladung.|ion|The ion carries an electric charge.
 1757|der|der Laden||Der Laden schließt um acht Uhr abends.|shop|The shop closes at eight o'clock in the evening.
@@ -1762,7 +1762,7 @@
 1760|der|der Schuh||Der Schuh drückt an der Ferse.|shoe|The shoe pinches at the heel.
 1761|das|das Knie||Das Knie schmerzt nach dem Sturz.|knee|The knee hurts after the fall.
 1762|num|||Die Temperatur fiel auf null Grad.|zero|The temperature dropped to zero degrees.
-1763|die|die Schicht||Die Schicht endet um Mitternacht.|shift|The shift ends at midnight.
+1763|die|die Schicht||Eine dünne Schicht Staub bedeckte es.|layer|A thin layer of dust covered it.
 1764|adj|unglaublich||Die Geschichte ist unglaublich.|incredible|The story is incredible.
 1765|adv|zurück||Ich komme morgen zurück nach Hause.|back|I'll be back home tomorrow.
 1766|die|die Realität||Die Realität übertraf die Erwartungen.|reality|The reality exceeded the expectations.
@@ -1797,9 +1797,9 @@
 1795|die|die Regelung||Die Regelung wurde pünktlich umgesetzt.|regulation|The regulation was implemented on time.
 1796|verb|teilnehmen, nimmt teil, nahm teil, hat teilgenommen||Er nahm am Wettbewerb erfolgreich teil.|to take part|He participated successfully in the competition.
 1797|verb|überwiegen, überwiegt, überwog, hat überwogen||Die Vorteile überwiegen die Nachteile.|to outweigh|The advantages outweigh the disadvantages.
-1798|verb|bedingen, bedingt, bedingte, hat bedingt||Das Problem bedingt eine rasche Lösung.|to cause|The problem requires a quick solution.
+1798|verb|bedingen, bedingt, bedingte, hat bedingt||Die Verzögerung hat das Problem bedingt.|to cause|The delay caused the problem.
 1799|die|die Gestalt||Die Gestalt verschwand im Nebel.|figure|The figure disappeared in the fog.
-1800|verb|zukommen, kommt zu, kam zu, ist zugekommen||Er kam spät zur Besprechung zu.|to arrive|He arrived late for the meeting.
+1800|verb|zukommen, kommt zu, kam zu, ist zugekommen||Das Auto kam schnell auf uns zu.|to come toward|The car came quickly towards us.
 1801|verb|ablaufen, läuft ab, lief ab, hat abgelaufen||Der Vertrag läuft Ende des Jahres ab.|expire|The contract will expire at the end of the year.
 1802|der|der Minister||Der Minister spricht im Parlament.|minister|The minister is speaking in parliament.
 1803|das|das Fahrzeug||Das Fahrzeug parkt direkt vor dem Haus.|vehicle|The vehicle is parked directly in front of the house.
@@ -1884,7 +1884,7 @@
 1882|adj|ewig||Die ewige Freundschaft übersteht alles.|eternal|The eternal friendship withstands everything.
 1883|die|die Perspektive||Die Perspektive änderte sich schnell.|perspective|The perspective changed quickly.
 1884|das|das Restaurant||Das Restaurant bot köstliche Speisen an.|restaurant|The restaurant offered delicious dishes.
-1885|verb|wandern, wandert, wanderte, ist gewandert||Er wandert gerne in den Bergen.|hike|He likes to hike in the mountains.
+1885|verb|wandern, wandert, wanderte, ist gewandert||Wir wandern gern in den Bergen.|to (go on a) walk or hike|We enjoy hiking in the mountains.
 1886|die|die Tasche||Sie packte die Tasche für die Reise.|bag|She packed the bag for the trip.
 1887|verb|vornehmen (sich), nimmt vor, nahm vor, hat vorgenommen||Er nahm sich vor, mehr zu lesen.|to plan|He planned to read more.
 1888|der, die|die Beamte||Der Beamte kontrollierte die Papiere.|official|The official checked the papers.
@@ -1895,7 +1895,7 @@
 1893|pron|wohin||Wohin gehst du jetzt so schnell?|where|Where are you going so quickly now?
 1894|das|das Dach||Das Dach des Hauses wurde repariert.|roof|The roof of the house was repaired.
 1895|die|die Karriere||Seine Karriere verlief steil nach oben.|career|His career took a steep upward path.
-1896|verb|regeln, regelt, regelte, hat geregelt||Er regelt seine Angelegenheiten selbst.|to manage|He manages his affairs himself.
+1896|verb|regeln, regelt, regelte, hat geregelt||Das Ampelsystem regelt den Verkehr.|to control|The traffic light system controls the traffic.
 1897|adv|insofern||Insofern ist der Plan gelungen.|insofar|Insofar, the plan was successful.
 1898|die|die Zigarette||Die Zigarette liegt auf dem Tisch.|cigarette|The cigarette is lying on the table.
 1899|adj|bunt||Der Garten ist voller bunter Blumen.|colorful|The garden is full of colorful flowers.
@@ -2004,7 +2004,7 @@
 2002|das|das Spanisch||Spanisch ist schwer zu lernen.|Spanish|Spanish is difficult to learn.
 2003|der|der Teilnehmer||Der Teilnehmer stellte eine Frage.|participant|The participant asked a question.
 2004|die|die Veranstaltung||Die Veranstaltung war gut besucht.|event|The event was well attended.
-2005|verb|vorhaben, hat vor, hatte vor, hat vorgehabt||Wir haben viel für das Wochenende vor.|to plan|We have a lot planned for the weekend.
+2005|verb|vorhaben, hat vor, hatte vor, hat vorgehabt||Sie hat ein großes Ereignis vor.|to intend|She is planning a big event.
 2006|verb|verbergen, verbirgt, verbarg, hat verborgen||Er verbirgt seine Gefühle geschickt.|to hide|He skillfully hides his feelings.
 2007|part|aha||Aha, jetzt verstehe ich endlich!|aha|Aha, now I finally understand!
 2008|verb|malen, malt, malte, hat gemalt||Sie malt ein Bild vom Sonnenuntergang.|to paint|She is painting a picture of the sunset.
@@ -2026,7 +2026,7 @@
 2024|verb|beruhigen, beruhigt, beruhigte, hat beruhigt||Er beruhigt das weinende Kind.|to calm|He calms the crying child.
 2025|adv|ansonsten||Ansonsten habe ich nichts mehr zu sagen.|otherwise|Otherwise, I have nothing more to say.
 2026|adj|verrückt||Diese verrückte Idee gefällt mir!|crazy|I like this crazy idea!
-2027|verb|versorgen, versorgt, versorgte, hat versorgt||Er versorgte die Wunde fachgerecht.|to treat|He properly treated the wound.
+2027|verb|versorgen, versorgt, versorgte, hat versorgt||Sie versorgten die Kinder mit Essen.|to provide|They provided the children with food.
 2028|verb|laden, lädt, lud, hat geladen||Er lädt die Kisten in den LKW.|to load|He loads the boxes into the truck.
 2029|der|der Start||Der Start verlief ohne Probleme.|launch|The launch went smoothly.
 2030|verb|wagen, wagt, wagte, hat gewagt||Er hat es gewagt, nachzufragen.|to dare|He dared to ask.
@@ -2149,7 +2149,7 @@
 2147|die|die Auswahl||Die Auswahl im Supermarkt ist groß.|selection|The selection at the supermarket is large.
 2148|verb|markieren, markiert, markierte, hat markiert||Er hat die Stelle im Buch markiert.|to mark|He marked the spot in the book.
 2149|adj|mehrfach||Er wurde schon mehrfach ausgezeichnet.|multiple|He has been awarded multiple times.
-2150|der|der Rang||Sein Rang in der Armee ist hoch.|rank|His rank in the army is high.
+2150|der|der Rang||Er hat einen hohen Rang in der Firma.|status|He has a high status in the company.
 2151|verb|rennen, rennt, rannte, ist gerannt||Die Kinder rennen durch den Park.|to run|The children are running through the park.
 2152|verb|herausfinden, findet heraus, fand heraus, hat herausgefunden||Er findet die Wahrheit heraus.|to find out|He finds out the truth.
 2153|adv|nahezu||Die Aufgabe ist nahezu fertig.|nearly|The task is nearly finished.
@@ -2175,7 +2175,7 @@
 2173|die|die Anforderung||Die Anforderung stellt hohe Ansprüche.|requirement|The requirement sets high standards.
 2174|adj|männlich||Die männlichen Läufer waren schneller.|male|The male runners were faster.
 2175|das|das Training||Das Training beginnt um acht Uhr.|training|The training starts at eight o'clock.
-2176|verb|vorgehen, geht vor, ging vor, ist vorgegangen||Die Polizei ging mit Vorsicht vor.|to proceed|The police proceeded with caution.
+2176|verb|vorgehen, geht vor, ging vor, ist vorgegangen||Bitte gehen Sie vor, ich folge Ihnen.|to go ahead|Please go ahead, I'll follow you.
 2177|die|die Arbeitslosigkeit||Die Arbeitslosigkeit nahm drastisch zu.|unemployment|Unemployment increased drastically.
 2178|das|das Brot||Das Brot ist frisch und knusprig.|bread|The bread is fresh and crispy.
 2179|die|die Geburt||Die Geburt verlief ohne Probleme.|birth|The birth went smoothly.
@@ -2232,7 +2232,7 @@
 2230|der|der Bauch||Mein Bauch fühlt sich komisch an.|belly|My belly feels strange.
 2231|der|der Verkauf||Der Verkauf lief besser als erwartet.|sale|The sale went better than expected.
 2232|die|die Vorbereitung||Die Vorbereitung kostet viel Zeit.|preparation|The preparation takes a lot of time.
-2233|verb|ausrichten, richtet aus, richtete aus, hat ausgerichtet||Er richtet die Feier im Garten aus.|to organize|He is organizing the party in the garden.
+2233|verb|ausrichten, richtet aus, richtete aus, hat ausgerichtet||Kannst du ihm die Nachricht ausrichten?|to tell|Can you pass the message to him?
 2234|verb|rühren, rührt, rührte, hat gerührt||Er rührt den Kaffee mit dem Löffel um.|to stir|He stirs the coffee with the spoon.
 2235|der|der Trend||Der Trend geht zu nachhaltiger Mode.|trend|The trend is towards sustainable fashion.
 2236|verb|aktivieren, aktiviert, aktivierte, hat aktiviert||Er aktiviert das neue Konto online.|to activate|He activates the new account online.
@@ -2498,7 +2498,7 @@
 2496|der|der Erzähler||Der Erzähler fesselte das Publikum.|narrator|The narrator captivated the audience.
 2497|das|das Gold||Das Gold glänzt im Sonnenlicht.|gold|The gold shines in the sunlight.
 2498|adj|umstritten||Die Entscheidung war umstritten.|disputed|The decision was disputed.
-2499|verb|aufsteigen, steigt auf, stieg auf, ist aufgestiegen||Der Ballon steigt in den Himmel auf.|to rise (up)|The balloon rises into the sky.
+2499|verb|aufsteigen, steigt auf, stieg auf, ist aufgestiegen||Der Ballon steigt in den Himmel auf.|to rise (up)|The balloon rises up in the sky.
 2500|adj|biologisch||Sie kaufen nur biologische Lebensmittel.|biological|They only buy biological food.
 2501|adj|vielfältig||Die Auswahl im Laden war vielfältig.|diverse|The selection in the store was diverse.
 2502|adj|wirksam||Das Medikament ist sehr wirksam.|effective|The medication is very effective.
@@ -2535,7 +2535,7 @@
 2533|der|der Held||Der Held besiegte den Drachen.|hero|The hero defeated the dragon.
 2534|num|sechzig||Sechzig Gäste wurden eingeladen.|sixty|Sixty guests were invited.
 2535|die|die Base||Die Base reagierte mit der Säure.|base|The base reacted with the acid.
-2536|die|die Bilanz||Die Bilanz des Unternehmens ist positiv.|balance sheet|The company's balance sheet is positive.
+2536|die|die Bilanz||Die Bilanz zeigt einen Gewinn.|balance (sheet)|The balance sheet shows a profit.
 2537|das|das Geheimnis||Das Geheimnis wurde endlich gelüftet.|secret|The secret was finally revealed.
 2538|adv|spätestens||Spätestens um zehn Uhr müssen wir los.|at the latest|We must leave at the latest by ten o'clock.
 2539|adj|dramatisch||Der Unfall hatte dramatische Folgen.|dramatic|The accident had dramatic consequences.
@@ -2556,7 +2556,7 @@
 2554|verb|interpretieren, interpretiert, interpretierte, hat interpretiert||Er interpretierte das Gedicht anders.|to interpret|He interpreted the poem differently.
 2555|adj|olympisch||Er trainiert für die olympischen Spiele.|Olympic|He is training for the Olympic Games.
 2556|adj|verdammt||Der verdammte Lärm störte mich.|damned|The damned noise bothered me.
-2557|verb|anerkennen, erkennt an, erkannte an, hat anerkannt||Er erkannte ihren Mut öffentlich an.|to acknowledge|He publicly acknowledged her courage.
+2557|verb|anerkennen, erkennt an, erkannte an, hat anerkannt||Seine Arbeit wurde von allen anerkannt.|to recognize|His work was recognized by everyone.
 2558|verb|bewahren, bewahrt, bewahrte, hat bewahrt||Er bewahrt Ruhe in jeder Situation.|to keep|He keeps calm in every situation.
 2559|adj|illegal||Drogenhandel ist in jedem Land illegal.|illegal|Drug trafficking is illegal in every country.
 2560|der|der Sand||Der Sand war warm unter den Füßen.|sand|The sand was warm underfoot.
@@ -2571,7 +2571,7 @@
 2569|die|die Landwirtschaft||Die Landwirtschaft ist grundlegend.|agriculture|Agriculture is fundamental.
 2570|die|die Therapie||Die Therapie dauerte sechs Monate.|therapy|The therapy lasted six months.
 2571|der|der Ablauf||Der Ablauf des Prozesses ist festgelegt.|expiry|The process flow is defined.
-2572|verb|anstehen, steht an, stand an, hat angestanden||Die Menschen standen geduldig an.|to stand|The people stood patiently in line.
+2572|verb|anstehen, steht an, stand an, hat angestanden||Wir mussten anstehen, um reinzukommen.|to line up|We had to line up to get inside.
 2573|die|die Bemerkung||Die Bemerkung führte zur Diskussion.|remark|The remark led to a discussion.
 2574|adj|Frankfurter||Die Frankfurter Messe beginnt bald.|Frankfurt|The Frankfurt fair starts soon.
 2575|adj|identisch||Die Zwillinge sehen fast identisch aus.|identical|The twins look almost identical.
@@ -2882,7 +2882,7 @@
 2880|die|die Scheibe||Die Scheibe des Fensters war zerbrochen.|(glass) pane|The window pane was broken.
 2881|verb|verbleiben, verbleibt, verblieb, ist verblieben||Wir verbleiben bis morgen hier.|to remain|We will remain here until tomorrow.
 2882|der|der Widerspruch||Sein Widerspruch war klar formuliert.|dissent|His dissent was clearly expressed.
-2883|verb|dastehen, steht da, stand da, hat dagestanden||Er steht alleine da und wartet.|to stand there|He stands there alone and waits.
+2883|verb|dastehen, steht da, stand da, hat dagestanden||Er stand den ganzen Tag still da.|to stand there|He stood there silently all day.
 2884|adj|nervös||Vor der Prüfung war er sehr nervös.|nervous|He was very nervous before the exam.
 2885|verb|regieren, regiert, regierte, hat regiert||Der Präsident regiert das Land.|to govern|The president governs the country.
 2886|der|der Regisseur||Der Regisseur inszeniert den Film.|director|The director is staging the film.
@@ -3153,7 +3153,7 @@
 3151|adj|virtuell||Virtuelle Realität wird immer beliebter.|virtual|Virtual reality is becoming more popular.
 3152|der|der Vorname||Sein Vorname ist ungewöhnlich selten.|first name|His first name is unusually rare.
 3153|die|die Zeitschrift||Die Zeitschrift erschien monatlich.|magazine|The magazine was published monthly.
-3154|verb|absetzen, setzt ab, setzte ab, hat abgesetzt||Er setzt die Brille vorsichtig ab.|to take off|He carefully takes off his glasses.
+3154|verb|absetzen, setzt ab, setzte ab, hat abgesetzt||Er wurde von seiner Position abgesetzt.|to dismiss|He was dismissed from his position.
 3155|verb|anführen, führt an, führte an, hat angeführt||Der General führt die Truppe an.|to command|The general commands the troops.
 3156|verb|bestreiten, bestreitet, bestritt, hat bestritten||Er bestritt die Vorwürfe vehement.|to dispute|He vehemently disputed the accusations.
 3157|die|die These||Die These wurde ausführlich diskutiert.|thesis|The thesis was discussed in detail.
@@ -3197,7 +3197,7 @@
 3195|verb|grüßen, grüßt, grüßte, hat gegrüßt||Er grüßt freundlich die Nachbarn.|to greet|He greets the neighbors kindly.
 3196|der|der Weltmeister||Der Weltmeister trainierte hart.|world champion|The world champion trained hard.
 3197|der|der Duft||Der Duft der Blumen erfüllte den Raum.|fragrance|The fragrance of the flowers filled the room.
-3198|adv|hinweg||Er sprang über den Graben hinweg.|over|He jumped over the ditch.
+3198|adv|hinweg||Sie schwieg viele Jahre hinweg.|for (many years)|She stayed quiet for many years.
 3199|verb|aufzeigen, zeigt auf, zeigte auf, hat aufgezeigt||Der Lehrer zeigt den Fehler auf.|to point out|The teacher points out the mistake.
 3200|verb|ausstatten, stattet aus, stattete aus, hat ausgestattet||Das Haus ist gut ausgestattet.|to furnish|The house is well furnished.
 3201|die|die Großmutter||Meine Großmutter backt Kuchen.|grandmother|My grandmother bakes cakes.
@@ -3394,7 +3394,7 @@
 3392|verb|einhalten, hält ein, hielt ein, hat eingehalten||Er hält den Termin pünktlich ein.|to observe|He observes the appointment punctually.
 3393|der|der Sachverhalt||Der Sachverhalt ist kompliziert.|facts|The facts are complicated.
 3394|adj|sorgfältig||Die sorgfältige Planung zahlte sich aus.|careful|The careful planning paid off.
-3395|adv|untereinander||Sie teilten die Beute untereinander.|among themselves|They divided the loot among themselves.
+3395|adv|untereinander||Wir besprachen den Plan untereinander.|among (our)selves|We discussed the plan among ourselves.
 3396|prep|unterhalb||Der Hund ist unterhalb des Tisches.|underneath|The dog is underneath the table.
 3397|verb|verdeutlichen, verdeutlicht, verdeutlichte, hat verdeutlicht||Er verdeutlichte seine Ansichten klar.|to clarify|He clearly clarified his views.
 3398|der|der Ertrag||Der Ertrag war zufriedenstellend.|yield|The yield was satisfactory.
@@ -3495,7 +3495,7 @@
 3493|verb|abweichen, weicht ab, wich ab, ist abgewichen||Der Plan weicht vom Original ab.|to deviate|The plan deviates from the original.
 3494|die|die Empfehlung||Seine Empfehlung hat viel Gewicht.|recommendation|His recommendation carries a lot of weight.
 3495|adj|gespannt||Er ist gespannt auf die Nachricht.|eager|He is eager to hear the news.
-3496|verb|sicherstellen, stellt sicher, stellte sicher, hat sichergestellt||Die Polizei stellt Beweise sicher.|to secure|The police secure evidence.
+3496|verb|sicherstellen, stellt sicher, stellte sicher, hat sichergestellt||Die Polizei stellte die Waren sicher.|to confiscate|The police confiscated the goods.
 3497|adj|stundenlang||Das stundenlange Warten nervte alle.|(lasting) for hours|The waiting that lasted for hours annoyed everyone.
 3498|verb|verfassen, verfasst, verfasste, hat verfasst||Er verfasste einen langen Brief.|write|He wrote a long letter.
 3499|die|die Vermittlung||Die Vermittlung verlief erfolgreich.|mediation|The mediation was successful.
@@ -3503,7 +3503,7 @@
 3501|der|der Felsen||Der Felsen ragt hoch aus dem Wasser.|rock|The rock juts high out of the water.
 3502|prep|inklusive||Inklusive Getränk kostet es zehn Euro.|including|Including a drink, it costs ten euros.
 3503|adj|kognitiv||Die kognitiven Fähigkeiten nehmen ab.|cognitive|Cognitive abilities are declining.
-3504|adv|seinerseits||Er hat seinerseits geantwortet.|for his part|He, for his part, responded.
+3504|adv|seinerseits||Er hat seinerseits zugestimmt.|for his part|He, for his part, agreed.
 3505|verb|zustehen, steht zu, stand zu, hat zugestanden||Das Recht auf Bildung steht dir zu.|to be entitled|You are entitled to the right to education.
 3506|adj|auffällig||Ihr auffälliges Kleid zog Blicke an.|conspicuous|Her conspicuous dress attracted attention.
 3507|verb|ausbrechen, bricht aus, brach aus, hat ausgebrochen||Das Feuer brach plötzlich aus.|to break out|The fire suddenly broke out.
@@ -3575,7 +3575,7 @@
 3573|die|die Kälte||Die Kälte dringt durch die Kleidung.|cold|The cold penetrates through the clothing.
 3574|das|das Kloster||Das Kloster liegt auf einem Hügel.|monastery|The monastery is situated on a hill.
 3575|die|die Laune||Heute hat sie wirklich gute Laune.|mood|She is in a really good mood today.
-3576|verb|nachfragen, fragt nach, fragte nach, hat nachgefragt||Er hat nach dem Weg nachgefragt.|inquire|He inquired about the way.
+3576|verb|nachfragen, fragt nach, fragte nach, hat nachgefragt||Ich werde morgen nochmal nachfragen.|to ask (sb)|I will ask again tomorrow.
 3577|die|die Toilette||Die Toilette war frisch geputzt.|toilet|The toilet was freshly cleaned.
 3578|das|das Unglück||Das Unglück ereignete sich plötzlich.|disaster|The disaster occurred suddenly.
 3579|verb|verlegen, verlegt, verlegte, hat verlegt||Er verlegte den Termin um eine Woche.|to postpone|He postponed the appointment by a week.
@@ -3649,7 +3649,7 @@
 3647|verb|heulen, heult, heulte, hat geheult||Der Wind heult laut um das Haus.|to howl|The wind howls loudly around the house.
 3648|verb|zurücktreten, tritt zurück, trat zurück, ist zurückgetreten||Der Präsident trat unerwartet zurück.|to resign|The president unexpectedly resigned.
 3649|adv|demnächst||Demnächst startet die neue Serie.|shortly|The new series starts shortly.
-3650|verb|einschlagen, schlägt ein, schlug ein, hat eingeschlagen||Er schlug den Nagel in die Wand ein.|to hammer|He hammered the nail into the wall.
+3650|verb|einschlagen, schlägt ein, schlug ein, hat eingeschlagen||Er hat einen neuen Weg eingeschlagen.|to take|He took a new path.
 3651|der|der Rock||Der Rock ist aus leichtem Stoff.|skirt|The skirt is made of light fabric.
 3652|die|die Übernahme||Die Übernahme verlief ohne Probleme.|takeover|The takeover went smoothly.
 3653|adj|akademisch||Er verfolgt eine akademische Laufbahn.|academic|He is pursuing an academic career.
@@ -3898,7 +3898,7 @@
 3896|verb|umsehen, sieht um, sah um, hat umgesehen||Sie hat sich neugierig umgesehen.|to look (around)|She looked around curiously.
 3897|prep|via||Wir senden die Nachricht via E-Mail.|via|We send the message via email.
 3898|verb|abziehen, zieht ab, zog ab, hat abgezogen||Er zieht die Folie vorsichtig ab.|subtract|He carefully removes the film.
-3899|der|der Befund||Der Befund war leider positiv.|finding|The finding was unfortunately positive.
+3899|der|der Befund||Der Arzt hat den Befund mitgeteilt.|finding(s)|The doctor shared the findings.
 3900|die|die Niederlande||Die Niederlande sind flach und grün.|the Netherlands|The Netherlands are flat and green.
 3901|verb|schwanken, schwankt, schwankte, ist geschwankt||Die Lebensmittelpreise schwanken stark.|to vary|The food prices vary significantly.
 3902|der|der Stoß||Er spürte einen Stoß im Rücken.|push|He felt a push on his back.
@@ -4037,7 +4037,7 @@
 4035|adj|unwahrscheinlich||Das Szenario ist unwahrscheinlich.|improbable|The scenario is improbable.
 4036|interj|au||Au, das hat wirklich wehgetan!|ouch|Ouch, that really hurt!
 4037|verb|aufgreifen, greift auf, griff auf, hat aufgegriffen||Er greift das Thema erneut auf.|to take up|He takes up the topic again.
-4038|verb|beauftragen, beauftragt, beauftragte, hat beauftragt||Er beauftragte die Firma sofort.|to hire|He hired the firm immediately.
+4038|verb|beauftragen, beauftragt, beauftragte, hat beauftragt||Wir haben eine Firma damit beauftragt.|to hire (a firm)|We hired a firm to do the job.
 4039|der|der Brand||Der Brand zerstörte das gesamte Gebäude.|fire|The fire destroyed the entire building.
 4040|verb|eindringen, dringt ein, drang ein, ist eingedrungen||Das Wasser drang in den Keller ein.|to penetrate|The water penetrated the basement.
 4041|die|die Erfüllung||Die Erfüllung des Traums war schwer.|fulfillment|The fulfillment of the dream was difficult.
@@ -4057,7 +4057,7 @@
 4055|die|die Ablehnung||Die Ablehnung kam überraschend.|rejection|The rejection was unexpected.
 4056|die|die Abwehr||Die Abwehr hielt dem Angriff stand.|defense|The defense withstood the attack.
 4057|der|der Arsch||Er fällt auf den Arsch und lacht.|ass|He falls on his ass and laughs.
-4058|verb|auskennen, kennt aus, kannte aus, hat ausgekannt||Er kennt sich gut in der Stadt aus.|to know one's way around|He knows his way around the city well.
+4058|verb|auskennen, kennt aus, kannte aus, hat ausgekannt||Er kennt sich gut in dieser Stadt aus.|to know one’s way around|He knows his way around this city well.
 4059|die|die Globalisierung||Die Globalisierung schreitet voran.|globalization|Globalization is progressing.
 4060|die|die Kampagne||Die Kampagne lief besser als erwartet.|campaign|The campaign went better than expected.
 4061|verb|klauen, klaut, klaute, hat geklaut||Er klaute den Apfel vom Marktstand.|to steal|He shoplifted the apple from the market stand.
@@ -4194,7 +4194,7 @@
 4192|adj|sozialistisch||Sozialistische Ideen waren umstritten.|socialist|Socialist ideas were controversial.
 4193|verb|überstehen, übersteht, überstand, hat überstanden||Er hat die Krankheit überstanden.|to survive|He survived the illness.
 4194|die|die Vermutung||Die Vermutung hat sich bestätigt.|assumption|The assumption was confirmed.
-4195|verb|aufspringen, springt auf, sprang auf, ist aufgesprungen||Er sprang schnell vom Stuhl auf.|to jump up/on|He quickly jumped up from the chair.
+4195|verb|aufspringen, springt auf, sprang auf, ist aufgesprungen||Sie sprang plötzlich auf und ging.|to jump up/on|She jumped up suddenly and left.
 4196|der|der Käse||Der Käse riecht sehr intensiv.|cheese|The cheese smells very strong.
 4197|verb|losgehen, geht los, ging los, ist losgegangen||Das Konzert ging pünktlich los.|to start|The concert started on time.
 4198|das|das Maul||Der Hund öffnet sein Maul und bellt.|mouth|The dog opens its mouth and barks.
@@ -4270,7 +4270,7 @@
 4268|adv|zustande||Das Projekt kam endlich zustande.|(come/bring) about|The project finally came about.
 4269|verb|ablösen, löst ab, löste ab, hat abgelöst||Der neue Chef löste den alten ab.|to take over|The new boss replaced the old one.
 4270|adv|allenfalls||Es gibt allenfalls eine Chance.|at most|There is at most one chance.
-4271|verb|ausbleiben, bleibt aus, blieb aus, ist ausgeblieben||Die erwartete Antwort blieb aus.|to fail to appear|The expected answer did not appear.
+4271|verb|ausbleiben, bleibt aus, blieb aus, ist ausgeblieben||Der erwartete Anruf blieb aus.|to fail to appear|The expected call didn't come.
 4272|verb|besorgen, besorgt, besorgte, hat besorgt||Er besorgt die Tickets für das Konzert.|to get|He gets the tickets for the concert.
 4273|adv|binnen||Binnen einer Woche war alles erledigt.|within|Within a week, everything was done.
 4274|adj|einstig||Der einstige Ruhm verblasste schnell.|former|The former glory faded quickly.
@@ -4437,7 +4437,7 @@
 4435|interj|mmh||Mmh, das schmeckt richtig gut!|mmh|Mmh, that tastes really good!
 4436|die|die Präsentation||Die Präsentation verlief reibungslos.|presentation|The presentation went smoothly.
 4437|adj|unerträglich||Die unerträgliche Hitze raubte den Atem.|unbearable|The unbearable heat took our breath away.
-4438|verb|zerreißen, zerreißt, zerriss, hat zerrissen||Der Hund zerreißt das alte Spielzeug.|to tear (up, to pieces)|The dog tears the old toy to pieces.
+4438|verb|zerreißen, zerreißt, zerriss, hat zerrissen||Sie hat den Brief vor Wut zerrissen.|to tear (up, to pieces)|She tore the letter in anger.
 4439|adj|zwangsläufig||Die Entscheidung war zwangsläufig.|inevitable|The decision was inevitable.
 4440|verb|betrinken (sich), betrinkt, betrank, hat betrunken||Er hat sich gestern betrunken.|to get drunk|He got drunk yesterday.
 4441|die|die Furcht||Die Furcht vor dem Unbekannten ist groß.|fear|The fear of the unknown is great.
@@ -4885,7 +4885,7 @@
 4883|adj|sächsisch||Die sächsische Dialekt ist unverkennbar.|Saxon|The Saxon dialect is unmistakable.
 4884|verb|schreiten, schreitet, schritt, ist geschritten||Die Soldaten schreiten im Gleichschritt.|step|The soldiers march in step.
 4885|das|das Silber||Das Silber glänzte im Sonnenlicht.|silver|The silver gleamed in the sunlight.
-4886|verb|thematisieren, thematisiert, thematisierte, hat thematisiert||Wir müssen das Problem thematisieren.|to broach|We need to address the issue.
+4886|verb|thematisieren, thematisiert, thematisierte, hat thematisiert||Wir sollten das Problem thematisieren.|to discuss|We should discuss the problem.
 4887|der|der Urgroßvater||Der Urgroßvater erzählt Geschichten.|great-grandfather|The great-grandfather tells stories.
 4888|der|die Verletzte||Der Verletzte wurde behandelt.|injured|The injured person was treated.
 4889|verb|abdecken, deckt ab, deckte ab, hat abgedeckt||Er deckt den Tisch mit einer Decke ab.|to cover|He covers the table with a cloth.
@@ -4939,7 +4939,7 @@
 4937|verb|blättern, blättert, blätterte, hat geblättert||Er blättert durch das Magazin.|to flip|He flips through the magazine.
 4938|adj|brav||Das Kind war heute besonders brav.|well-behaved|The child was especially well-behaved today.
 4939|der|der Cousin||Der Cousin besucht uns im Sommer.|cousin|The cousin visits us in the summer.
-4940|verb|ergehen, ergeht, erging, hat ergangen||Der Befehl erging an alle Soldaten.|to enact|The command was enacted to all soldiers.
+4940|verb|ergehen, ergeht, erging, hat ergangen||Es erging ihm gut in der neuen Stadt.|to fare|He fared well in the new city.
 4941|der|der Gesang||Der Gesang des Chores war beeindruckend.|singing|The singing of the choir was impressive.
 4942|das|das Hilfsmittel||Das ist ein nützliches Hilfsmittel.|tool|This is a useful tool.
 4943|verb|verstoßen, verstößt, verstieß, hat verstoßen||Er hat gegen das Gesetz verstoßen.|break (the law)|He broke the law.
@@ -4959,7 +4959,7 @@
 4957|verb|einreichen, reicht ein, reichte ein, hat eingereicht||Er reichte die Dokumente pünktlich ein.|to submit|He submitted the documents on time.
 4958|adj|faul||Er bleibt den ganzen Tag faul im Bett.|lazy|He stays lazy in bed all day.
 4959|das|das Fell||Der Hund hat ein weiches Fell.|fur|The dog has soft fur.
-4960|verb|mitspielen, spielt mit, spielte mit, hat mitgespielt||Er spielt gerne in der Band mit.|join in|He likes to join in with the band.
+4960|verb|mitspielen, spielt mit, spielte mit, hat mitgespielt||Die Kinder spielen gern mit im Spiel.|to join in|The children like to join in the game.
 4961|verb|schwören, schwört, schwor, hat geschworen||Er schwört, die Wahrheit zu sagen.|to swear|He swears to tell the truth.
 4962|der|der Syrer||Der Syrer erzählte von seiner Reise.|Syrian|The Syrian told of his journey.
 4963|verb|verzeihen, verzeiht, verzieh, hat verziehen||Er verzieh ihm die bösen Worte.|to forgive|He forgave him for the harsh words.
@@ -4977,20 +4977,20 @@
 4975|der|der Spielraum||Der Spielraum ist sehr begrenzt.|leeway|The leeway is very limited.
 4976|der|der Stickstoff||Der Stickstoff wurde sicher gelagert.|nitrogen|The nitrogen was stored safely.
 4977|der|der Trost||Der Trost kam zu spät für ihn.|solace|The solace came too late for him.
-4978|verb|zuschlagen, schlägt zu, schlug zu, hat zugeschlagen||Er schlägt beim Angebot sofort zu.|to strike|He strikes immediately at the offer.
-4979|verb|behindern, behindert, behinderte, hat behindert||Der Verkehrsunfall behindert den Fluss.|to obstruct|The traffic accident obstructs the flow.
+4978|verb|zuschlagen, schlägt zu, schlug zu, hat zugeschlagen||Er hat die Tür laut zugeschlagen.|to slam|He slammed the door loudly.
+4979|verb|behindern, behindert, behinderte, hat behindert||Der Unfall hat den Verkehr behindert.|to obstruct|The accident obstructed the traffic.
 4980|adj|beträchtlich||Beträchtliche Fortschritte wurden erzielt.|considerable|Considerable progress was made.
 4981|die|die Ewigkeit||Die Ewigkeit ist unvorstellbar lang.|eternity|Eternity is unimaginably long.
-4982|die|die Größenordnung||Die Größenordnung beeindruckte alle.|scale|The scale impressed everyone.
+4982|die|die Größenordnung||Das Problem hat große Größenordnung.|magnitude|The problem is of great magnitude.
 4983|verb|hinfahren, fährt hin, fuhr hin, ist hingefahren||Er fährt morgen nach Berlin hin.|to go|He is going to Berlin tomorrow.
 4984|die|die Metropole||Die Metropole zieht viele Touristen an.|metropolis|The metropolis attracts many tourists.
 4985|adj|östlich||Der Wind kommt aus östlicher Richtung.|eastern|The wind is coming from the eastern direction.
 4986|der|der Reiter||Der Reiter galoppierte über das Feld.|rider|The rider galloped across the field.
 4987|verb|spinnen, spinnt, spann, hat gesponnen||Die Spinne spinnt ihr Netz sorgfältig.|to spin|The spider spins its web carefully.
 4988|das|das Trinken||Das Trinken von Wasser ist wichtig.|drinking|Drinking water is important.
-4989|verb|verkehren, verkehrt, verkehrte, hat verkehrt||Der Bus verkehrt alle 30 Minuten.|to consort|The bus runs every 30 minutes.
+4989|verb|verkehren, verkehrt, verkehrte, hat verkehrt||Er verkehrt oft in diesem Café.|to socialize|He often socializes in this café.
 4990|verb|verwundern, verwundert, verwunderte, hat verwundert||Es verwunderte ihn, sie dort zu sehen.|to surprise|It surprised him to see her there.
-4991|adj|zulässig||Nur zulässige Methoden wurden verwendet.|permissible|Only permissible methods were used.
+4991|adj|zulässig||Rauchen ist hier nicht zulässig.|permitted|Smoking is not permitted here.
 4992|der|der Abstieg||Der Abstieg dauerte mehrere Stunden.|descent|The descent took several hours.
 4993|adj|ausgezeichnet||Ihre Leistung war ausgezeichnet.|excellent|Her performance was excellent.
 4994|die|die Deutung||Die Deutung des Traums fiel schwer.|interpretation|The interpretation of the dream was difficult.
