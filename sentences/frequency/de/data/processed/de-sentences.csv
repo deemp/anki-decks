@@ -239,8 +239,8 @@
 237|verb|ziehen, zieht, zog, hat gezogen||ziehen|Er zog die Tür leise hinter sich zu.|to pull, move|to pull|He quietly pulled the door shut behind him.
 238|das|das Wort|||Das Wort hat viele Bedeutungen.|word|word|The word has many meanings.
 239|pron|darauf, drauf|||Die Katze sprang plötzlich darauf.|on it, to it|on it|The cat jumped on it suddenly.
-240|adv|eben, ebend|||Ich habe eben erst davon gehört.|just, now|just|I just heard about it now.
-241|part|eben, ebend|||Ich habe ihn eben an der Tür gesehen.||just|I just saw him at the door.
+240|adv|eben, ebend|||Ich habe ihn eben an der Tür gesehen.|just, now|just|I just saw him at the door.
+241|part|eben, ebend|||So ist das eben manchmal im Leben.|just|just|That's just how life is sometimes.
 242|die|die Seite|||Der Fluss ist auf der rechten Seite.|side, page|side|The river is on the right side.
 243|der, das|das Teil|||Das Teil des Motors ist defekt.|part|part|The part of the engine is defective.
 244|adj|jung|||Der junge Mann geht zur Arbeit.|young|young|The young man goes to work.
@@ -828,7 +828,7 @@
 826|adj|schlimm|||Es war nicht so schlimm, wie gedacht.|bad, serious|bad|It wasn't as bad as expected.
 827|adj|schlimm|||Mit jedem Tag wurde es schlimmer.|worse|worse|It got worse with each day.
 828|die|die Schweiz|||Die Schweiz ist bekannt für Käse.|Switzerland|Switzerland|Switzerland is known for cheese.
-829|adv|irgendwann|||Irgendwann wird er es verstehen.|sometime, some day|someday|Someday, he will understand it.
+829|adv|irgendwann|||Irgendwann wird er es verstehen.|sometime, some day|sometime|Sometime, he will understand it.
 830|das|das Geschäft|||Das Geschäft schließt um 18 Uhr.|business, shop|shop|The shop closes at 6 PM.
 831|conj|weder|||Er trank weder Kaffee noch Tee.|neither . . . nor|neither . . . nor|He drank neither coffee nor tea.
 832|der|der Anteil|||Der Anteil am Gewinn ist hoch.|share, portion|share|The share of the profit is high.
@@ -2577,7 +2577,7 @@
 2575|adj|identisch|||Die Zwillinge sehen fast identisch aus.|identical|identical|The twins look almost identical.
 2576|verb|rollen, rollt, rollte, hat gerollt||rollen|Der Ball rollt den Hügel hinunter.|to roll|to roll|The ball rolls down the hill.
 2577|der, die|die Angehörige|||Die Angehörigen wurden informiert.|member, relative|relative|The relatives were informed.
-2578|das|das Café|||Wir treffen uns heute im neuen Café.|coffeehouse, coffee shop|café|We are meeting today in the new café.
+2578|das|das Café|||Wir treffen uns heute im neuen Café.|coffeehouse, coffee shop, café|café|We are meeting today in the new café.
 2579|adj|dauerhaft|||Eine dauerhafte Lösung wurde gefunden.|lasting|lasting|A lasting solution was found.
 2580|verb|garantieren, garantiert, garantierte, hat garantiert||garantieren|Das Unternehmen garantiert Qualität.|to guarantee|to guarantee|The company guarantees quality.
 2581|die|die Not|||Die Not war groß, aber er blieb stark.|need, trouble|need|The need was great, but he stayed strong.
@@ -2697,7 +2697,7 @@
 2695|adj|psychisch|||Die psychische Belastung war enorm.|psychological|psychological|The psychological burden was enormous.
 2696|das|das Salz|||Das Salz ist fast aufgebraucht.|salt|salt|The salt is almost used up.
 2697|num|siebzig|||Es sind siebzig Leute gekommen.|seventy|seventy|Seventy people have come.
-2698|verb|versichern, versichert, versicherte, hat versichert||versichern|Er versicherte mir, dass es sicher sei.|to insure, assert|to assure|He assured me that it was safe.
+2698|verb|versichern, versichert, versicherte, hat versichert||versichern|Er versichert sein Haus gegen Feuer.|to insure, assert|to insure|He insures his house against fire.
 2699|der|der Brite|||Der Brite trank Tee am Nachmittag.|Brit|Brit|The Brit drank tea in the afternoon.
 2700|adj|erkennbar|||Der Fehler war sofort erkennbar.|recognizable, apparent, visible|recognizable|The error was immediately recognizable.
 2701|adv|namens|||Eine Frau namens Anna rief an.|by the name of, called|called|A woman named Anna called.
@@ -2800,7 +2800,7 @@
 2798|verb|zusammenhängen, hängt zusammen, hing zusammen, hat zusammengehangen||zusammenhängen|Die Ereignisse hängen eng zusammen.|to be connected|to be connected|The events are closely connected.
 2799|der|der Ausländer|||Der Ausländer wohnt in Deutschland.|foreigner|foreigner|The foreigner lives in Germany.
 2800|der, die|die Beschäftigte|||Die Beschäftigten arbeiten hart.|employee|employee|The employees work hard.
-2801|die|die Bundesliga|||Die Bundesliga ist hier sehr beliebt.|(sport) national division|national division|The Bundesliga is very popular here.
+2801|die|die Bundesliga|||Die Bundesliga ist hier sehr beliebt.|(sport) national division|(sport) national division|The Bundesliga is very popular here.
 2802|verb|nähern (sich), nähert, näherte, hat genähert||nähern (sich)|Der Zug nähert sich dem Bahnhof.|to approach|to approach|The train is approaching the station.
 2803|adj|übel|||Mir wurde plötzlich übel nach dem Essen.|foul, bad|bad|I suddenly felt bad after eating.
 2804|das|das Ufer|||Das Ufer des Sees ist steinig.|shore, bank|shore|The shore of the lake is rocky.
@@ -2878,7 +2878,7 @@
 2876|die|die Armut|||Armut ist ein globales Problem.|poverty|poverty|Poverty is a global problem.
 2877|das|Australien|||Australien ist bekannt für Kängurus.|Australia|Australia|Australia is known for kangaroos.
 2878|verb|klagen, klagt, klagte, hat geklagt||klagen|Er klagt über Rückenschmerzen.|to complain|to complain|He complains about back pain.
-2879|adv|schade|||Schade, dass wir es verpasst haben.|(it’s a) pity|pity|It's a pity we missed it.
+2879|adv|schade|||Schade, dass wir es verpasst haben.|(it’s a) pity|it’s a pity|It's a pity we missed it.
 2880|die|die Scheibe|||Er legte die Scheibe in den Player ein.|disk, slice, (glass) pane|disk|He inserted the disk into the player.
 2881|verb|verbleiben, verbleibt, verblieb, ist verblieben||verbleiben|Wir verbleiben bis morgen hier.|to remain, stay, agree|to remain|We will remain here until tomorrow.
 2882|der|der Widerspruch|||Sein Widerspruch war klar formuliert.|contradiction, dissent|dissent|His dissent was clearly expressed.
@@ -3360,7 +3360,7 @@
 3358|verb|wiegen, wiegt, wog, hat gewogen||wiegen|Er wiegt das Obst vor dem Kauf.|to weigh|to weigh|He weighs the fruit before buying it.
 3359|der|der Eingriff|||Der Eingriff verlief ohne Probleme.|intervention, interference|intervention|The intervention went smoothly.
 3360|adj|indisch|||Das indische Essen war sehr scharf.|Indian|Indian|The Indian food was very spicy.
-3361|das|das Hindi|||Viele Menschen in Indien sprechen Hindi.|Indian|Hindi|Many people in India speak Hindi.
+3361|das|das Hindi|||Viele Menschen in Indien sprechen Hindi.|Hindi|Hindi|Many people in India speak Hindi.
 3362|die|die Psychologie|||Die Psychologie untersucht Verhalten.|psychology|psychology|Psychology studies behavior.
 3363|die|die Digitalisierung|||Die Digitalisierung schreitet voran.|digitalization|digitalization|Digitalization is progressing.
 3364|die|die Einsicht|||Das ist meine Einsicht in die Situation.|view, insight|insight|That is my insight into the situation.
@@ -3491,7 +3491,7 @@
 3489|adj|physisch|||Der physische Schaden war gering.|physical|physical|The physical damage was minimal.
 3490|das|das Verbot|||Das Verbot trat sofort in Kraft.|ban, prohibition|ban|The ban took effect immediately.
 3491|die|die Verschiebung|||Die Verschiebung des Termins war nötig.|shift, postponement|postponement|The postponement of the appointment was necessary.
-3492|adv|zugrunde|||Die Fakten liegen der Theorie zugrunde.|(form) the basis, (go) to ruin|the basis|The facts form the basis of the theory.
+3492|adv|zugrunde|||Die Fakten liegen der Theorie zugrunde.|(form) the basis, (go) to ruin|form the basis|The facts form the basis of the theory.
 3493|verb|abweichen, weicht ab, wich ab, ist abgewichen||abweichen|Der Plan weicht vom Original ab.|to deviate, differ|to deviate|The plan deviates from the original.
 3494|die|die Empfehlung|||Seine Empfehlung hat viel Gewicht.|recommendation|recommendation|His recommendation carries a lot of weight.
 3495|adj|gespannt|||Er ist gespannt auf die Nachricht.|eager, anxious, tense|eager|He is eager to hear the news.
@@ -3786,7 +3786,7 @@
 3784|verb|einbauen, baut ein, baute ein, hat eingebaut||einbauen|Sie haben ein neues System eingebaut.|to install, build in, fit|to install|They installed a new system.
 3785|adj|final (er, e, es)|||Die finale Runde entschied das Spiel.|final|final|The final round decided the game.
 3786|das|das Getränk|||Das Getränk schmeckte erfrischend.|drink, beverage|drink|The drink tasted refreshing.
-3787|adv|hierzulande|||Hierzulande ist das Leben anders.|in these parts, in this country, round here|here|Here, life is different.
+3787|adv|hierzulande|||Hierzulande ist das Leben anders.|in these parts, in this country, round here|in these parts|In these parts, life is different.
 3788|adj|physiologisch|||Die physiologische Reaktion war normal.|physiological|physiological|The physiological reaction was normal.
 3789|die|die Unternehmung|||Die Unternehmung war ein voller Erfolg.|company, venture, enterprise|venture|The venture was a complete success.
 3790|verb|vorlesen, liest vor, las vor, hat vorgelesen||vorlesen|Er las den Kindern eine Geschichte vor.|to read sth to sb|to read sth to sb|He read a story to the children.
@@ -3830,7 +3830,7 @@
 3828|verb|begeben (sich), begibt, begab, hat begeben||begeben (sich)|Sie begaben sich in den nächsten Raum.|to proceed|to proceed|They proceeded to the next room.
 3829|verb|durchgehen, geht durch, ging durch, ist durchgegangen||durchgehen|Wir sind die Dokumente durchgegangen.|to go through, pass, bolt|to go through|We went through the documents.
 3830|verb|vorschreiben, schreibt vor, schrieb vor, hat vorgeschrieben||vorschreiben|Das Gesetz schreibt strenge Regeln vor.|to dictate|to dictate|The law dictates strict rules.
-3831|verb|zutrauen, traut zu, traute zu, hat zugetraut||zutrauen|Er hat sich getraut, es zu versuchen.|to dare to do sth|to dare|He dared to try it.
+3831|verb|zutrauen, traut zu, traute zu, hat zugetraut||zutrauen|Er hat sich getraut, es zu versuchen.|to dare to do sth|to dare to do sth|He dared to try it.
 3832|adv|abseits|||Er war ständig abseits im Spiel.|offside, off the beaten track|offside|He was always offside during the game.
 3833|adj|asymmetrisch|||Ihr Gesicht war leicht asymmetrisch.|asymmetric|asymmetric|Her face was slightly asymmetric.
 3834|adj|bescheiden|||Der bescheidene Mann lehnte das Lob ab.|modest|modest|The modest man declined the praise.
@@ -4134,7 +4134,7 @@
 4132|verb|erfreuen, erfreut, erfreute, hat erfreut||erfreuen|Das Geschenk erfreute ihn sehr.|to please, delight|to delight|The gift delighted him greatly.
 4133|verb|erschließen, erschließt, erschloss, hat erschlossen||erschließen|Die Stadt erschließt neue Gebiete.|to develop, tap, make out|to develop|The city is developing new areas.
 4134|das|das Gewehr|||Das Gewehr wurde sorgfältig gereinigt.|rifle, shotgun|rifle|The rifle was carefully cleaned.
-4135|das|das Mittelmeer|||Wir sind um das Mittelmeer gereist.|Mediterranean See|Mediterranean|We traveled around the Mediterranean.
+4135|das|das Mittelmeer|||Wir sind um das Mittelmeer gereist.|Mediterranean Sea|Mediterranean Sea|We traveled around the Mediterranean Sea.
 4136|das|das Tuch|||Er wischte den Tisch mit einem Tuch ab.|cloth, scarf|cloth|He wiped the table with a cloth.
 4137|verb|vereinfachen, vereinfacht, vereinfachte, hat vereinfacht||vereinfachen|Er vereinfachte den Text deutlich.|to simplify|to simplify|He simplified the text significantly.
 4138|die|die Wende|||Die Wende brachte viele Veränderungen.|change (esp. the 1989–90 political change in the GDR)|change (esp. the 1989–90 political change in the GDR)|The reunification brought many changes.
@@ -4186,7 +4186,7 @@
 4184|die|die Infektion|||Die Infektion breitete sich aus.|infection|infection|The infection spread.
 4185|der|der Keks|||Der Keks schmeckte nach Zimt und Zucker.|cookie|cookie|The cookie tasted like cinnamon and sugar.
 4186|die|die Sorte|||Diese Sorte Tee schmeckt besonders gut.|kind, variety|variety|This variety of tea tastes especially good.
-4187|adv|zueinander|||Sie sind freundlich zueinander.|(to) one another|one another|They are kind to one another.
+4187|adv|zueinander|||Sie sind freundlich zueinander.|(to) one another|to one another|They are kind to one another.
 4188|der|der Container|||Der Container wurde verschifft.|container|container|The container was shipped.
 4189|adj|gelassen|||Er bleibt in jeder Situation gelassen.|calm, composed|calm|He remains calm in every situation.
 4190|adj|live|||Das live Konzert war beeindruckend!|live|live|The live concert was impressive!
@@ -4254,7 +4254,7 @@
 4252|verb|andauern, dauert an, dauerte an, hat angedauert||andauern|Die Besprechung dauerte stundenlang an.|to continue, last|to continue|The meeting continued for hours.
 4253|verb|aufrichten (sich), richtet auf, richtete auf, hat aufgerichtet||aufrichten (sich)|Er richtete sich langsam wieder auf.|to put up (right), straighten up|to straighten up|He slowly straightened up again.
 4254|verb|auslaufen, läuft aus, lief aus, ist ausgelaufen||auslaufen|Das Öl ist aus dem Motor ausgelaufen.|to run out, leak|to leak|The oil leaked from the car engine.
-4255|adj|einverstanden|||Sie war mit dem Plan einverstanden.|(to be) in agreement|in agreement|She was in agreement with the plan.
+4255|adj|einverstanden|||Sie war mit dem Plan einverstanden.|(to be) in agreement|to be in agreement|She was in agreement with the plan.
 4256|adj|fachlich|||Die fachliche Schulung war intensiv.|specialist, technical, professional|professional|The professional training was intense.
 4257|das|das Märchen|||Das Märchen erzählt von mutigen Helden.|fairy tale|fairy tale|The fairy tale tells of brave heroes.
 4258|das|das Regime|||Das Regime kontrollierte das Land.|regime|regime|The regime controlled the country.
@@ -4437,7 +4437,7 @@
 4435|interj|mmh|||Mmh, das schmeckt richtig gut!|mmh|mmh|Mmh, that tastes really good!
 4436|die|die Präsentation|||Die Präsentation verlief reibungslos.|presentation|presentation|The presentation went smoothly.
 4437|adj|unerträglich|||Die unerträgliche Hitze raubte den Atem.|unbearable, intolerable|unbearable|The unbearable heat took our breath away.
-4438|verb|zerreißen, zerreißt, zerriss, hat zerrissen||zerreißen|Sie hat den Brief vor Wut zerrissen.|to tear (up, to pieces)|to tear (up, to pieces)|She tore the letter in anger.
+4438|verb|zerreißen, zerreißt, zerriss, hat zerrissen||zerreißen|Sie hat den Brief vor Wut zerrissen.|to tear (up, to pieces)|to tear to pieces|She tore the letter to pieces in anger.
 4439|adj|zwangsläufig|||Die Entscheidung war zwangsläufig.|inevitable|inevitable|The decision was inevitable.
 4440|verb|betrinken (sich), betrinkt, betrank, hat betrunken||betrinken (sich)|Er hat sich gestern betrunken.|to get drunk|to get drunk|He got drunk yesterday.
 4441|die|die Furcht|||Die Furcht vor dem Unbekannten ist groß.|fear|fear|The fear of the unknown is great.
