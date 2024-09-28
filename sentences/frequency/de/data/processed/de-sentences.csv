@@ -317,7 +317,7 @@
 315|adj|sicher||Der sichere Plan brachte Erfolg.|safe, secure, certain|secure|The secure plan brought success.
 316|prep|neben||Das Auto steht neben dem Haus.|next to, beside|next to|The car is parked next to the house.
 317|adv|allein|allein, alleine|Er lebt allein in einer Wohnung.|alone|alone|He lives alone in an apartment.
-318|die|die Abbildung|die Abbildungen (Abb.)|Die Abbildung zeigt das Ergebnis.|illustration|illustration|The illustration shows the result.
+318|die|die Abbildung (Abb.)|die Abbildungen|Die Abbildung zeigt das Ergebnis.|illustration|illustration|The illustration shows the result.
 319|prep|hinter||Der Garten liegt hinter dem Haus.|behind, in back of|behind|The garden is behind the house.
 320|adv|besonders||Er hat sich besonders viel Mühe gegeben.|particularly|particularly|He put in particularly a lot of effort.
 321|verb|tragen|tragen, trägt, trug, hat getragen|Er trägt die schwere Tasche zum Auto.|to carry, wear|to carry|He carries the heavy bag to the car.
@@ -631,7 +631,7 @@
 629|adj|relativ||Das Ergebnis war ein relativer Erfolg.|relative|relative|The result was a relative success.
 630|prep|laut||Laut der Nachrichten regnet es morgen.|according to|according to|According to the news, it will rain tomorrow.
 631|der|der Fuß|die Füße|Er tritt mit dem Fuß gegen den Ball.|foot|foot|He kicks the ball with his foot.
-632|die (pl)||die Daten|Die Daten wurden erfolgreich gesichert.|data|data|The data was successfully secured.
+632|die (pl)||die Daten|Wir haben leider alle Daten gelöscht.|data|data|Unfortunately, we deleted all the data.
 633|der|der Krieg|die Kriege|Der Krieg forderte viele Opfer.|war|war|The war claimed many victims.
 634|der|der Gast|die Gäste|Der Gast verließ das Haus schweigend.|guest|guest|The guest left the house silently.
 635|die|die Aussage|die Aussagen|Die Aussage des Zeugen war klar.|statement|statement|The witness's statement was clear.
@@ -674,7 +674,7 @@
 672|verb|schlagen|schlagen, schlägt, schlug, hat geschlagen|Er schlug den Ball über das Netz.|to hit, beat|to hit|He hit the ball over the net.
 673|das|das Tier|die Tiere|Im Wald lebt ein seltenes Tier.|animal|animal|A rare animal lives in the forest.
 674|adv|jedenfalls||Jedenfalls werde ich den Zug nehmen.|in any case|in any case|In any case, I will take the train.
-675|part|am||Er war am besten im ganzen Team.|the (+superlative)|the (+superlative)|He was the best in the whole team.
+675|part|am||Er war am besten im ganzen Team.|the (superlative)|the (superlative)|He was the best in the whole team.
 676|verb|erhöhen|erhöhen, erhöht, erhöhte, hat erhöht|Er erhöht den Preis um 10 Prozent.|to raise, increase|to raise|He raises the price by 10 percent.
 677|verb|sorgen|sorgen, sorgt, sorgte, hat gesorgt|Er sorgt gut für seine Familie.|to worry, take care|to take care|He takes good care of his family.
 678|die|die Erfahrung|die Erfahrungen|Er sammelte viel Erfahrung im Beruf.|experience|experience|He gained a lot of experience in his job.
@@ -1034,7 +1034,7 @@
 1032|verb|treiben|treiben, treibt, trieb, hat getrieben|Der Wind treibt die Wolken vor sich her.|to drive, pursue|to drive|The wind drives the clouds ahead.
 1033|adv|weg||Der Hund war plötzlich einfach weg.|gone, vanished|gone|The dog was suddenly just gone.
 1034|verb|aufstehen|aufstehen, steht auf, stand auf, ist aufgestanden|Er steht jeden Morgen früh auf.|to stand up, get up|get up|He gets up early every morning.
-1035|der|der Absatz|die Absätze (Abs.)|Der Absatz des Schuhs war hoch.|section, sales, paragraph, heel|heel|The heel of the shoe was high.
+1035|der|der Absatz (Abs.)|die Absätze|Der Absatz des Schuhs war hoch.|section, sales, paragraph, heel|heel|The heel of the shoe was high.
 1036|adv|unterwegs||Er ist gerade unterwegs zur Arbeit.|on the way|on the way|He is on the way to work.
 1037|der|der Vertrag|die Verträge|Der Vertrag wurde gestern unterzeichnet.|contract|contract|The contract was signed yesterday.
 1038|der|der Ausdruck|die Ausdrücke|Der Ausdruck passt perfekt zum Text.|term, expression|expression|The expression fits the text perfectly.
@@ -1421,7 +1421,7 @@
 1419|adj|individuell||Jeder hat eine individuelle Meinung.|individual|individual|Everyone has an individual opinion.
 1420|adj|intensiv||Das intensive Training forderte Kraft.|intensive|intensive|The intensive training required strength.
 1421|die|die Bundesregierung|die Bundesregierungen|Die Bundesregierung tagt heute.|federal government|federal government|The federal government is meeting today.
-1422|verb|begreifen|begreifen, begreift, begriff, hat begriffen|Sie begriff diese neue Idee sofort.|to understand, grasp|to grasp|She grasped the idea.
+1422|verb|begreifen|begreifen, begreift, begriff, hat begriffen|Sie begriff diese neue Idee sofort.|to understand, grasp|to grasp|She grasped the idea immediately.
 1423|die|die Szene|die Szenen|Die Szene war sehr dramatisch.|scene|scene|The scene was very dramatic.
 1424|die|die DDR (Deutsche Demokratische Republik)||Die DDR existiert seit 1990 nicht mehr.|||The DDR no longer exists since 1990.
 1425|adj|rasch||Der rasche Fortschritt überraschte uns.|quick|quick|The quick progress surprised us.
@@ -2347,7 +2347,7 @@
 2345|verb|versetzen|versetzen, versetzt, versetzte, hat versetzt|Er wurde nach Berlin versetzt.|to move, transfer|to transfer|He was transferred to Berlin.
 2346|verb|verurteilen|verurteilen, verurteilt, verurteilte, hat verurteilt|Der Richter verurteilt den Dieb.|to condemn|to condemn|The judge condemns the thief.
 2347|das|das Vorjahr|die Vorjahre|Das Vorjahr brachte gute Ergebnisse.|previous year|previous year|The previous year brought good results.
-2348|adj|gezielt||Gezielte Maßnahmen führten zum Erfolg.|targeted, purposeful, pointed, well- aimed|targeted|Targeted actions led to success.
+2348|adj|gezielt||Gezielte Maßnahmen führten zum Erfolg.|targeted, purposeful, pointed, well-aimed|targeted|Targeted actions led to success.
 2349|die|die Kommune|die Kommunen|Die Kommune plant neue Wohnprojekte.|municipality, local authority|municipality|The municipality plans new housing projects.
 2350|der|der Mord|die Morde|Der Mord wurde schnell aufgeklärt.|murder|murder|The murder was quickly solved.
 2351|adj|extern||Das externe Problem löst sich schnell.|external|external|The external problem is resolved quickly.
@@ -2739,7 +2739,7 @@
 2737|der|der Schatz|die Schätze|Der Schatz wurde tief vergraben.|treasure, sweetheart|treasure|The treasure was buried deep.
 2738|adj|sekundär||Die sekundäre Quelle war unzuverlässig.|secondary|secondary|The secondary source was unreliable.
 2739|die|die Zentralbank|die Zentralbanken|Die Zentralbank senkte die Zinsen.|central bank|central bank|The central bank lowered the interest rates.
-2740|der, die, das|die Alte||Die Alte erzählte spannende Geschichten.|old person/thing|old person/thing|The old lady told exciting stories.
+2740|der, die, das|die Alte|die Alten|Die Alte erzählte spannende Geschichten.|old person/thing|old person/thing|The old lady told exciting stories.
 2741|der, die|die Angestellte||Der Angestellte arbeitete fleißig.|employee|employee|The employee worked diligently.
 2742|adj|dankbar||Ich bin sehr dankbar für deine Hilfe.|grateful|grateful|I am very grateful for your help.
 2743|verb|faszinieren|faszinieren, fasziniert, faszinierte, hat fasziniert|Das Schauspiel hat mich sehr fasziniert.|to fascinate|to fascinate|The play fascinated me greatly.
@@ -3343,7 +3343,7 @@
 3341|die|die Öffnung|die Öffnungen|Die Öffnung der Tür war schwierig.|opening, hole|opening|The opening of the door was difficult.
 3342|verb|senden|senden, sendet, sendete, hat gesendet|Der Sender sendet Nachrichten.|to send, broadcast|to broadcast|The station broadcasts news.
 3343|verb|gleiten|gleiten, gleitet, glitt, ist geglitten|Der Vogel gleitet durch die Luft.|to glide|to glide|The bird glides through the air.
-3344|das|Norwegen||Norwegen hat beeindruckende Fjorde.|Norway|Norway|Norway has impressive fjords.
+3344|das|Norwegen||Norwegen hat wundershöne Fjorde.|Norway|Norway|Norway has beautiful fjords.
 3345|verb|schildern|schildern, schildert, schilderte, hat geschildert|Er schildert den Vorfall genau.|to describe|to describe|He describes the incident in detail.
 3346|der|der Schrank|die Schränke|Der Schrank ist voller Kleidung.|cabinet, wardrobe|wardrobe|The wardrobe is full of clothes.
 3347|der|der Terrorismus||Der Terrorismus bedroht den Frieden.|terrorism|terrorism|Terrorism threatens peace.
@@ -4229,7 +4229,7 @@
 4227|die|die Bitte|die Bitten|Die Bitte um Hilfe wurde sofort erfüllt.|request|request|The request for help was immediately fulfilled.
 4228|die|die Blüte|die Blüten|Der Baum steht in voller Blüte.|blossom|blossom|The tree is in full blossom.
 4229|adj|elektromagnetisch||Elektromagnetische Felder umgeben uns.|electromagnetic|electromagnetic|Electromagnetic fields surround us.
-4230|adv|inmitten||Inmitten des Trubels fand er Ruhe.|in the middle/midst of|in the middle/midst of|In the midst of the turmoil, he found peace.
+4230|adv|inmitten||Inmitten des Trubels fand er Ruhe.|in the middle/midst of|in the midst of|In the midst of the turmoil, he found peace.
 4231|adv|abschließend||Dies ist die abschließende Entscheidung.|concluding, final|final|This is the final decision.
 4232|verb|aufschlagen|aufschlagen, schlägt auf, schlug auf, hat aufgeschlagen|Er schlug das Buch auf Seite zehn auf.|to open, serve, pitch|to open|He opened the book to page ten.
 4233|die|die Glocke|die Glocken|Die Glocke läutet zur vollen Stunde.|bell|bell|The bell rings on the hour.
