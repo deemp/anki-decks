@@ -268,7 +268,7 @@
 266|221|adv|weiter||Er ging weiter, ohne sich umzusehen.|further|further|He walked further without looking back.|adverb
 267|222|das|das Auge|die Augen|Sie hat ein blaues Auge nach dem Sturz.|eye|eye|She got a black eye after the fall.|noun
 268|223|adv|oft||Er besucht sie oft am Wochenende.|often|often|He often visits her on the weekend.|adverb
-269|224|die (pl)||die Leute|Die Leute gingen schweigend fort.|people|people|The people left in silence.|noun
+269|224|die (pl)|die Leute (pl)|die Leute (pl)|Die Leute gingen schweigend fort.|people|people|The people left in silence.|noun
 270|225|adv|allerdings||Allerdings war die Entscheidung richtig.|though, indeed, certainly|indeed|Indeed, the decision was correct.|adverb
 271|226|adv|sogar||Sogar der Hund versteht das Signal.|even, in fact|even|Even the dog understands the signal.|adverb
 272|227|adv|jedoch||Er kam, jedoch war er zu spät.|however|however|He came, however, he was too late.|adverb
@@ -458,7 +458,7 @@
 456|401|verb|wirken|wirken, wirkt, wirkte, hat gewirkt|Das Medikament wirkt sehr schnell.|to have an effect, take effect, work|to take effect|The medication takes effect very quickly.|verb
 457|402|verb|darstellen|darstellen, stellt dar, stellte dar, hat dargestellt|Der Film stellt die Geschichte dar.|to depict, portray, show|to portray|The film portrays the story.|verb
 458|403|der|der Raum|die Räume|Der Raum ist voll mit Menschen.|room, space|room|The room is full of people.|noun
-459|404|die (pl)||die Eltern|Die Eltern holen die Kinder ab.|parents|parents|The parents pick up the children.|noun
+459|404|die (pl)|die Eltern (pl)|die Eltern (pl)|Die Eltern holen die Kinder ab.|parents|parents|The parents pick up the children.|noun
 460|405|verb|bezeichnen|bezeichnen, bezeichnet, bezeichnete, hat bezeichnet|Sie bezeichnen ihn als Freund.|to call, name|to call|They call him a friend.|verb
 461|406|die|die Funktion|die Funktionen|Die Funktion erleichtert die Arbeit.|function|function|The function makes the work easier.|noun
 462|407|adj|häufig||Häufige Fehler stoppten den Fortschritt.|frequent|frequent|Frequent mistakes halted the progress.|adjective
@@ -621,7 +621,7 @@
 619|561|verb|bewegen|bewegen, bewegt, bewegte, hat bewegt|Er bewegt den Tisch in die Ecke.|to move|to move|He moves the table into the corner.|verb
 620|562|verb|enthalten|enthalten, enthält, enthielt, hat enthalten|Die Box enthält alle Werkzeuge.|to contain|to contain|The box contains all the tools.|verb
 621|563|verb|aufnehmen|aufnehmen, nimmt auf, nahm auf, hat aufgenommen|Er nahm das Gespräch mit dem Handy auf.|to take in, record, include|to record|He recorded the conversation with the phone.|verb
-622|564|die (pl)||die Kosten|Die Kosten stiegen letztes Jahr.|costs, expenses|costs|The costs increased last year.|noun
+622|564|die (pl)|die Kosten (pl)|die Kosten (pl)|Die Kosten stiegen letztes Jahr.|costs, expenses|costs|The costs increased last year.|noun
 623|565|das|das Wintersemester|die Wintersemester|Das Wintersemester beginnt im Oktober.|winter semester|winter semester|The winter semester begins in October.|noun
 624|566|verb|merken|merken, merkt, merkte, hat gemerkt|Er merkte, dass etwas nicht stimmte.|to notice, remember|to notice|He noticed that something was wrong.|verb
 625|567|adj|fest||Der feste Plan bringt Sicherheit mit.|firm, solid|firm|The firm plan brings security.|adjective
@@ -631,7 +631,7 @@
 629|571|adj|relativ||Die relative Kosten sind hoch.|relative|relative|The relative cost is high.|adjective
 630|572|prep|laut||Laut der Nachrichten regnet es morgen.|according to|according to|According to the news, it will rain tomorrow.|preposition
 631|573|der|der Fuß|die Füße|Er tritt mit dem Fuß gegen den Ball.|foot|foot|He kicks the ball with his foot.|noun
-632|574|die (pl)||die Daten|Wir haben leider alle Daten gelöscht.|data|data|Unfortunately, we deleted all the data.|noun
+632|574|die (pl)|die Daten (pl)|die Daten (pl)|Wir haben leider alle Daten gelöscht.|data|data|Unfortunately, we deleted all the data.|noun
 633|575|der|der Krieg|die Kriege|Der Krieg forderte viele Opfer.|war|war|The war claimed many victims.|noun
 634|576|der|der Gast|die Gäste|Der Gast verließ das Haus schweigend.|guest|guest|The guest left the house silently.|noun
 635|577|die|die Aussage|die Aussagen|Die Aussage des Zeugen war klar.|statement|statement|The witness's statement was clear.|noun
@@ -1018,7 +1018,7 @@
 1016|948|adj|blau||Das Meer leuchtet blau in der Sonne.|blue|blue|The sea shines blue in the sun.|adjective
 1017|949|verb|anschauen|anschauen, schaut an, schaute an, hat angeschaut|Er schaute sich das Bild genau an.|to look at, watch|to look at|He looked closely at the picture.|verb
 1018|950|adj|teuer||Der Schmuck war unglaublich teuer.|expensive|expensive|The jewelry was incredibly expensive.|adjective
-1019|951|die (pl)||die Medien|Die Medien berichten live vom Ort.|media|media|The media reports live from the scene.|noun
+1019|951|die (pl)|die Medien (pl)|die Medien (pl)|Die Medien berichten live vom Ort.|media|media|The media reports live from the scene.|noun
 1020|952|verb|richten|richten, richtet, richtete, hat gerichtet|Er richtet den Blick nach vorn.|to direct, repair, follow|to direct|He directs his gaze forward.|verb
 1021|953|das|das Institut|die Institute|Das Institut forscht intensiv.|institute|institute|The institute conducts intensive research.|noun
 1022|954|der|der Plan|die Pläne|Der Plan wurde sorgfältig ausgearbeitet.|plan|plan|The plan was carefully crafted.|noun
@@ -2944,7 +2944,7 @@
 2942|2850|die|die Anordnung|die Anordnungen|Die Anordnung wurde streng befolgt.|order|order|The order was followed strictly.|noun
 2943|2851|verb|aufwachen|aufwachen, wacht auf, wachte auf, ist aufgewacht|Ich bin heute früh aufgewacht.|to wake up|to wake up|I woke up early today.|verb
 2944|2852|die|die Kasse|die Kassen|Die Kasse schließt um acht Uhr.|cash register, checkout|checkout|The checkout closes at eight o'clock.|noun
-2945|2853|die (pl)||die Schulden|Die Schulden drückten ihn schwer.|debt|debt|The debt weighed heavily on him.|noun
+2945|2853|die (pl)|die Schulden (pl)|die Schulden (pl)|Die Schulden drückten ihn schwer.|debt|debt|The debt weighed heavily on him.|noun
 2946|2854|der|der Hinblick||Im Hinblick darauf ändert sich nichts.|view|view|In view of that, nothing changes.|noun
 2947|2855|die|die Last|die Lasten|Die Last drückt schwer auf den Rücken.|load, burden|load|The load presses heavily on the back.|noun
 2948|2856|adv|zuhause||Ich bleibe heute lieber zuhause.|at home|at home|I prefer to stay at home today.|adverb
@@ -3547,7 +3547,7 @@
 3545|3445|der|der Bezirk|die Bezirke|Der Bezirk wurde modernisiert.|district|district|The district was modernized.|noun
 3546|3446|der|der Bogen|die Bogen|Der Bogen des Regenbogens war prächtig.|bow, arc, sheet|arc|The arc of the rainbow was magnificent.|noun
 3547|3447|die|die Entdeckung|die Entdeckungen|Die Entdeckung veränderte alles.|discovery|discovery|The discovery changed everything.|noun
-3548|3448|die (pl)||die Ferien|Die Ferien enden in zwei Wochen.|school break, vacation|school break|The school break ends in two weeks.|noun
+3548|3448|die (pl)|die Ferien (pl)|die Ferien (pl)|Die Ferien enden in zwei Wochen.|school break, vacation|school break|The school break ends in two weeks.|noun
 3549|3449|der|der General|die Generale|Der General führte die Truppen an.|general|general|The general led the troops.|noun
 3550|3450|die|die Messe|die Messen|Die Messe zog viele Besucher an.|(trade) fair, mass|(trade) fair|The trade fair attracted many visitors.|noun
 3551|3451|verb|scheiden|scheiden, scheidet, schied, hat geschieden|Sie beschlossen schließlich zu scheiden.|to separate, divorce|to divorce|They decided to divorce finally.|verb
@@ -4030,7 +4030,7 @@
 4028|3926|der|der Cent|die Cent|Er fand einen Cent auf dem Gehweg.|cent|cent|He found a cent on the sidewalk.|noun
 4029|3927|verb|ermorden|ermorden, ermordet, ermordete, hat ermordet|Der König wurde heimtückisch ermordet.|to murder, kill|to murder|The king was treacherously murdered.|verb
 4030|3928|adj|geometrisch||Geometrische Formen faszinieren ihn.|geometric|geometric|Geometric shapes fascinate him.|adjective
-4031|3929|die (pl)||die Geschwister|Die Geschwister spielten im Garten.|siblings|siblings|The siblings played in the garden.|noun
+4031|3929|die (pl)|die Geschwister (pl)|die Geschwister (pl)|Die Geschwister spielten im Garten.|siblings|siblings|The siblings played in the garden.|noun
 4032|3930|verb|kleiden|kleiden, kleidet, kleidete, hat gekleidet|Er kleidet sich immer sehr elegant.|to dress|to dress|He always dresses very elegantly.|verb
 4033|3931|verb|ragen|ragen, ragt, ragte, hat geragt|Der Turm ragt hoch in den Himmel.|to protrude|to protrude|The tower protrudes high into the sky.|verb
 4034|3932|der|der Staub|die Stäube|Der Staub bedeckt das alte Buch.|dust|dust|The dust covers the old book.|noun
@@ -4169,7 +4169,7 @@
 4167|4065|die|die Nachbarschaft|die Nachbarschaften|Die Nachbarschaft half sich gegenseitig.|neighborhood|neighborhood|The neighborhood helped each other.|noun
 4168|4066|der|der Siedepunkt|die Siedepunkte|Das Wasser erreicht den Siedepunkt.|boiling point|boiling point|The water reaches its boiling point.|noun
 4169|4067|adj|stationär||Die stationäre Behandlung dauerte lange.|inpatient, fixed, stationary|inpatient|The inpatient treatment took a long time.|adjective
-4170|4068|die (pl)||die Taliban|Die Taliban eroberten die Stadt zurück.|Taliban|Taliban|The Taliban recaptured the city.|noun
+4170|4068|die (pl)|die Taliban (pl)|die Taliban (pl)|Die Taliban eroberten die Stadt zurück.|Taliban|Taliban|The Taliban recaptured the city.|noun
 4171|4069|adj|brutal||Der brutale Angriff schockierte alle.|brutal|brutal|The brutal attack shocked everyone.|adjective
 4172|4070|adj|ehrenamtlich||Ehrenamtliche Arbeit bringt viel Freude.|honorary, voluntary|voluntary|Voluntary work brings a lot of joy.|adjective
 4173|4071|adj|großzügig||Er machte eine großzügige Spende.|generous|generous|He made a generous donation.|adjective
@@ -4200,7 +4200,7 @@
 4198|4096|das|das Maul|die Mäuler|Der Hund öffnet sein Maul und bellt.|mouth, jaws|mouth|The dog opens its mouth and barks.|noun
 4199|4097|verb|protestieren|protestieren, protestiert, protestierte, hat protestiert|Sie protestieren gegen die Pläne.|to protest|to protest|They are protesting against the plans.|verb
 4200|4098|verb|schämen (sich)|schämen (sich), schämt, schämte, hat geschämt|Er schämte sich für sein Verhalten.|to be ashamed|to be ashamed|He was ashamed of his behavior.|verb
-4201|4099|die (pl)||die Alpen|Die Alpen ziehen viele Wanderer an.|Alps|Alps|The Alps attract many hikers.|noun
+4201|4099|die (pl)|die Alpen (pl)|die Alpen (pl)|Die Alpen ziehen viele Wanderer an.|Alps|Alps|The Alps attract many hikers.|noun
 4202|4100|die|die Berufung|die Berufungen|Die Berufung war für ihn eine Ehre.|appeal, vocation, appointment|appointment|The appointment was an honor for him.|noun
 4203|4101|die|die Einteilung|die Einteilungen|Die Einteilung der Gruppen war einfach.|classification, division|classification|The classification of the groups was simple.|noun
 4204|4102|der|der Eintritt|die Eintritte|Der Eintritt kostet fünf Euro.|entry, admission|admission|Admission costs five euros.|noun
