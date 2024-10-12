@@ -1761,7 +1761,7 @@
 1759|1677|der|der Stern|die Sterne|Der Stern leuchtet am klaren Himmel.|star|star|The star shines in the clear sky.|noun
 1760|1678|der|der Schuh|die Schuhe|Der Schuh drückt an der Ferse.|shoe|shoe|The shoe pinches at the heel.|noun
 1761|1679|das|das Knie|die Knie|Das Knie schmerzt nach dem Sturz.|knee|knee|The knee hurts after the fall.|noun
-1762|1680|num|||Die Temperatur fiel auf null Grad.|zero|zero|The temperature dropped to zero degrees.|number
+1762|1680|num|null|zero|Die Temperatur fiel auf null Grad.|zero|zero|The temperature dropped to zero degrees.|number
 1763|1681|die|die Schicht|die Schichten|Eine dünne Schicht Staub bedeckte es.|layer, class|layer|A thin layer of dust covered it.|noun
 1764|1682|adj|unglaublich||Die Geschichte ist unglaublich.|incredible|incredible|The story is incredible.|adjective
 1765|1683|adv|zurück||Ich komme morgen zurück nach Hause.|back|back|I'll be back home tomorrow.|adverb
