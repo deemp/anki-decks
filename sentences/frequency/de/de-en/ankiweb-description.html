@@ -1,0 +1,427 @@
+<h2>About this deck</h2>
+
+<p>This deck is based on:</p>
+
+<ul>
+  <li>
+    <code
+      >A Frequency Dictionary of German: Core Vocabulary for Learners (Routledge
+      Frequency Dictionaries), 2nd Edition, 2019, by Erwin Tschirner (Author),
+      Jupp Möhring (Author)</code
+    >
+    <a
+      href="https://www.routledge.com/A-Frequency-Dictionary-of-German-Core-Vocabulary-for-Learners/Tschirner-Mohring/p/book/9781138659780"
+      >(link)</a
+    >
+  </li>
+  <li>
+    The deck
+    <a href="https://ankiweb.net/shared/info/1431033948"
+      >English-Deutsch (Sorted by Frequency)</a
+    >
+  </li>
+</ul>
+
+<p>
+  This deck provides cards for approximately 5000 German words that occured most
+  often in the corpus studied by the book authors. More frequent words appear at
+  the beginning of the deck.
+</p>
+
+<p>
+  Cards contain word forms, AI-generated German sentences, AI-generated English
+  translations, and AI-generated audio.
+</p>
+
+<h2>Related work</h2>
+
+<ol>
+  <li>
+    Search <code>"frequency"</code> (<a
+      href="https://ankiweb.net/shared/decks?search=frequency"
+      >https://ankiweb.net/shared/decks?search=frequency</a
+    >) to find other decks based on frequency.
+  </li>
+  <li>
+    Search <code>"German"</code> and <code>"Deutsch"</code> on the results page
+    to find decks for German.
+  </li>
+</ol>
+
+<h2>Fields</h2>
+
+<ul>
+  <li>
+    <b><code>index</code></b> - The number of the card in the deck. These
+    numbers start with 0. Cards are sorted by this field.
+  </li>
+  <li>
+    <b><code>frequency_rank</code></b> - Frequency rank (<i>Rank frequency</i>
+    in the book). The more frequent is a word in the corpus studied by the book
+    authors, the higher is the rank and the smaller is the number
+    <code>frequency_rank</code>. Cards with the same
+    <code>frequency_rank</code> have consequent increasing
+    <code>index</code> values.
+  </li>
+  <li>
+    <b><code>part_of_speech_short</code></b> - One of these:
+    <ul>
+      <li>A part of speech or its abbreviation.</li>
+      <li>Possible articles of a noun.</li>
+    </ul>
+  </li>
+  <li>
+    <b><code>word_de</code></b> - A German word.
+  </li>
+  <li>
+    <b><code>word_forms_de</code></b> - Forms of the word:
+    <ul>
+      <li>
+        For a noun - its
+        <a href="https://en.wiktionary.org/wiki/Appendix:German_plurals"
+          >plural form</a
+        >.
+      </li>
+      <li>
+        For a verb - its
+        <a href="https://en.wikipedia.org/wiki/Principal_parts"
+          >principal parts</a
+        >.
+      </li>
+      <li>
+        For a pronoun (not any) - its
+        <a href="https://en.wikipedia.org/wiki/German_declension">declensions</a
+        >.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <b><code>sentence_de</code></b> - A German sentence that includes the German
+    word. The sentence is complete and short (30 to 40 characters long).
+  </li>
+  <li>
+    <b><code>word_translations_en</code></b> - Translation(s) of the word in
+    English.
+  </li>
+  <li>
+    <b><code>word_en</code></b> - One of the translations in
+    <code>word_translations_en</code>.
+  </li>
+  <li>
+    <b><code>sentence_en</code></b> - A translation of the German sentence to
+    English. The translation includes <code>word_en</code>.
+  </li>
+  <li>
+    <b><code>part_of_speech</code></b> - Part of speech.
+  </li>
+  <li>
+    <b><code>sentence_original_de</code></b> - The German sentence from the
+    book.
+  </li>
+  <li>
+    <b><code>sentence_original_en</code></b> - The English sentence from the
+    book.
+  </li>
+  <li>
+    <b><code>word_sound_de</code></b> - Audio of <code>word_de</code>.
+  </li>
+  <li>
+    <b><code>word_forms_sound_de</code></b> - Audio of
+    <code>word_forms_de</code>.
+  </li>
+  <li>
+    <b><code>sentence_sound_de</code></b> - Audio of <code>sentence_de</code>.
+  </li>
+  <li>
+    <b><code>word_translations_sound_en</code></b> - Audio of
+    <code>word_translations_en</code>.
+  </li>
+  <li>
+    <b><code>word_sound_en</code></b> - Audio of <code>word_en</code>.
+  </li>
+  <li>
+    <b><code>sentence_sound_en</code></b> - Audio of <code>sentence_en</code>.
+  </li>
+  <li>
+    <b><code>sentence_original_sound_de</code></b> - Audio of
+    <code>sentence_original_de</code>.
+  </li>
+  <li>
+    <b><code>sentence_original_sound_en</code></b> - Audio of
+    <code>sentence_original_en</code>.
+  </li>
+</ul>
+
+<h2>AI-generated sentences</h2>
+
+<p>
+  Sentences for the <code>sentence_de</code> and <code>sentence_en</code> fields
+  were generated using ChatGPT 4o (August - October, 2024). I selected sentences
+  that seemed to be correct and useful for learning.
+</p>
+
+<p>Sentences are short because:</p>
+<ul>
+  <li>I wanted to learn them instead of separate words.</li>
+  <li>I wanted to learn them in a reasonable time.</li>
+</ul>
+
+<p>
+  I'm not a native German or English speaker, so there may be problematic
+  sentences.
+</p>
+
+<h2>Contribute</h2>
+
+The data for this deck is stored in
+<a
+  href="https://github.com/deemp/anki-decks/blob/main/sentences/frequency/de/data/processed/de-en-cards.csv"
+  >this file</a
+>
+in the <a href="https://github.com/deemp/anki-decks">repository</a>.
+
+<p>
+  If you find an error or have an idea for improvement, please report it in an
+  <a href="https://github.com/deemp/anki-decks/issues">Issue</a> or create a
+  <a href="https://github.com/deemp/anki-decks/pulls">Pull Request</a> with a
+  fix.
+</p>
+
+<h2>Don't extend this deck</h2>
+
+<p>Do not add new words into this deck. Here's why:</p>
+
+<ul>
+  <li>
+    Since you don't know frequency ranks of these words, you can't insert cards
+    for these words onto right positions.
+  </li>
+  <li>
+    If you add a new card, you'll need to update <code>index</code> values of
+    all subsequent cards. This may be a tedious and error-prone process.
+  </li>
+</ul>
+
+<p>Instead, create a new deck where you can insert or append new cards.</p>
+
+<h2>Custom deck</h2>
+
+<p>Creating data for a custom deck is quite easy:</p>
+
+<ol>
+  <li>
+    Create a list of German words as a one-column
+    <a href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV</a>.
+    Example:
+    <textarea
+      style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
+    >
+Sonne
+paukt
+meinung
+starke
+</textarea
+    >
+  </li>
+  <li>
+    Ask ChatGPT to write words in their lemmatized form.
+    <br />
+    <textarea
+      style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
+    >
+## Task
+
+Write the input German words in a lemmatized form.
+
+## Lemmatized form
+
+- Nouns should have articles.
+- Adjectives must be masculine singular.
+- Verbs should be in the infinitive form.
+
+## Output
+
+- Output only the lemmatized forms.
+
+- Use "|" as a separator.
+- Don't output the header.
+- Output as a CSV Markdown code block.
+
+- Columns:
+  1. Index of the row.
+  2. Part of speech.
+  3. Lemmatized form of the German word.
+
+## Input
+
+Sonne
+paukt
+meinung
+starkes
+</textarea
+    >
+  </li>
+
+  <li>
+    The output should be:
+    <br />
+    <textarea
+      style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
+    >
+1|noun|die Sonne
+2|verb|pauken
+3|noun|die Meinung
+4|adjective|stark      
+</textarea
+    >
+  </li>
+  <li>
+    Ask ChatGPT to extend the rows:
+    <br />
+    <textarea
+      style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
+    >
+## Task
+
+Extend rows by creating new columns.
+
+## Columns
+
+1. Index of the row.
+2. Part of speech of the German word (don't capitalize).
+3. The German word.
+4. Forms of the German word:
+  - For a verb - principal parts.
+  - For a noun - a plural form with articles if exists.
+  - For an adjective - degrees (positive, comparative, superlative) if exist.
+5. The sentence in German that includes the German word
+   used as the specified part of speech.
+   The sentence must be 30 to 40 characters long.
+6. The translation of the German word to English:
+  - For a noun - don't include the article.
+  - For a verb - include only the infinitive form.
+7. The translation of the German sentence to English
+   that includes the translation of the German word to English.
+8. The same sentence in German as in the column 5.
+
+## Output
+
+- Use "|" as a separator.
+- Don't output the header.
+- Output as a CSV Markdown code block.
+
+## Input
+
+1|noun|die Sonne
+2|verb|pauken
+3|noun|die Meinung
+4|adjective|stark
+</textarea
+    >
+  </li>
+  <li>
+    The output should be:
+    <br />
+    <textarea
+      style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
+    >
+1|noun|die Sonne|die Sonnen|Die Sonne scheint heute sehr hell.|sun|The sun is shining very brightly today.|Die Sonne scheint heute sehr hell.
+2|verb|pauken|pauken, paukte, hat gepaukt|Ich muss für die Prüfung pauken.|to cram|I have to cram for the exam.|Ich muss für die Prüfung pauken.
+3|noun|die Meinung|die Meinungen|Meine Meinung ist anders als deine.|opinion|My opinion is different from yours.|Meine Meinung ist anders als deine.
+4|adjective|stark|stärker, am stärksten|Der Wind weht heute sehr stark.|strong|The wind is blowing very strongly today.|Der Wind weht heute sehr stark.
+</textarea
+    >
+  </li>
+  <li>
+    Identify and mark problematic rows. Possible problems:
+    <ul>
+      <li><code>sentence_de</code> isn't between 30 and 40 characters long.</li>
+      <li><code>sentence_de</code> isn't a complete sentence.</li>
+      <li>
+        <code>sentence_de</code> sets "uninteresting" context for
+        <code>word_de</code>.
+      </li>
+      <li>
+        <code>word_de</code> is an adjective, but is used not as an adjective in
+        <code>sentence_de</code>.
+      </li>
+      <li><code>sentence_de</code> doesn't contain <code>word_de</code>.</li>
+      <li><code>sentence_en</code> doesn't contain <code>word_en</code>.</li>
+    </ul>
+  </li>
+  <li>
+    Partition rows into good and problematic.
+    <ul>
+      <li>Use Excel/Google Sheets/LibreOffice Calc/etc.</li>
+      <li>
+        Use <a href="https://code.visualstudio.com/">VS Code</a>:
+        <ol>
+          <li>Copy the output to a CSV file.</li>
+          <li>
+            Open the file in VS Code, align columns using the
+            <a
+              href="https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv"
+              >mechatroner.rainbow-csv</a
+            >
+            extension.
+          </li>
+          <li>
+            Sort rows by length using the
+            <a
+              href="https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines"
+              >tyriar.sort-lines</a
+            >
+            extension.
+          </li>
+          <li>Move the problematic rows to the end of file.</li>
+        </ol>
+      </li>
+      <li>
+        Use
+        <a href="https://pandas.pydata.org/">pandas</a>.
+      </li>
+    </ul>
+  </li>
+  <li>
+    Ask ChatGPT to extract from problematic rows only the index, the part of
+    speech, and the German word. Example:
+    <br />
+    <textarea
+      style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
+    >
+## Task
+
+Leave only the first 3 columns (index, the part of speech, and the German word).
+
+## Output
+
+- Use "|" as a separator.
+- Don't output a header.
+- Output as a CSV Markdown code block.
+
+## Input
+
+1|noun|die Sonne|die Sonnen|Die Sonne scheint heute sehr hell.|sun|The sun is shining very brightly today.|Die Sonne scheint heute sehr hell.
+2|verb|pauken|pauken, paukte, hat gepaukt|Ich muss für die Prüfung pauken.|to cram|I have to cram for the exam.|Ich muss für die Prüfung pauken.
+3|noun|die Meinung|die Meinungen|Meine Meinung ist anders als deine.|opinion|My opinion is different from yours.|Meine Meinung ist anders als deine.
+4|adjective|stark|stärker, am stärksten|Der Wind weht heute sehr stark.|strong|The wind is blowing very strongly today.|Der Wind weht heute sehr stark.
+</textarea
+    >
+  </li>
+  <li>
+    The output should be:
+    <br />
+    <textarea
+      style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
+    >
+1|noun|die Sonne
+2|verb|pauken
+3|noun|die Meinung
+4|adjective|stark
+</textarea
+    >
+  <li>Ask ChatGPT to generate rows again.</li>
+  </li>
+  <li>Repeat generation and filtering until all rows are good.</li>
+  <li>Sort rows by index (the first column).</li>
+</ol>
