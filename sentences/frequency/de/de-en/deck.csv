@@ -1,6 +1,6 @@
 |frequency_rank|part_of_speech_short|word_de|word_forms_de|sentence_de|word_translations_en|word_en|sentence_en|part_of_speech|sentence_original_de|sentence_original_en
 0|1|art|die|der, die, das|Das ist die einzige Lösung für uns.|the|the|This is the only solution for us.|article|Der Mann und die Frau kochen, das Kind spielt.|The man and the woman are cooking; the child is playing.
-1|1|pron|der|der, die, das|Das ist der, der es getan hat.|that, those|that|That is the one who did it.|pronoun|Das ist der Mann, den ich liebe.|That’s the man I love.
+1|1|pron|der|der, die, das|Das ist der, der es getan hat.|the one, that, those|the one|That is the one who did it.|pronoun|Das ist der Mann, den ich liebe.|That’s the man I love.
 2|1|pron|der|der, die, das|Das ist der Mann, den ich meinte.|who, that|who|That is the man who I meant.|pronoun|Dort steht das Mädchen, das mit mir zur Schule geht.|There’s the girl who goes to school with me.
 3|2|conj|und||Kaffee und Kuchen passen zusammen.|and|and|Coffee and cake go well together.|conjunction|Die Eltern und Kinder essen und sprechen über ihren Tag.|The parents and children eat and talk about their day.
 4|3|prep|in||In dem Haus wohnen viele Familien.|in|in|Many families live in the house.|preposition|Günter geht in den Keller.|Günter goes into the basement.
@@ -9,7 +9,7 @@
 7|5|art|ein|eine, einer, eines|Er hat ein Buch in der Tasche gefunden.|a, an|a|He found a book in the bag.|article|Er wohnt in einem Hotel.|He’s staying at a hotel.
 8|5|pron|einer|eine, einer, eines|Einer muss jetzt den ersten Schritt tun.|one (of)|one (of)|One of us must take the first step now.|pronoun|Eines der Kinder hat sich beim Spielen verletzt.|One of the children was injured while playing.
 9|6|aux|haben (Vergangenheitsform)|haben, hat, hatte, hat gehabt|Wir haben eine gute Zeit gehabt.|(past tense)|(past tense)|We had a good time.|auxiliary verb|Sie hat sich gestern einen Film angesehen.|She was watching a movie yesterday.
-10|6|verb|haben|haben, hat, hatte, hat gehabt|Er hat keine Wahl mehr gehabt.|to have|to have|He had no choice left.|verb|Ich habe ein Buch in der Hand.|I have a book in my hand.
+10|6|verb|haben|haben, hat, hatte, hat gehabt|Hast du eine Ahnung, wo sie ist?|to have|to have|Do you have any idea where she is?|verb|Ich habe ein Buch in der Hand.|I have a book in my hand.
 11|7|pron|sie||Sie hat das Buch gestern fertig gelesen.|she, her|she|She finished reading the book yesterday.|pronoun|Paul besucht Anna, sie ist Pauls Tante.|Paul visits Anna; she’s Paul’s aunt.
 12|7|pron|sie||Sie haben die Aufgabe zusammen gemacht.|they, them|they|They did the task together.|pronoun|Petra und Klaus kochen, sie bekommen Besuch.|Petra and Klaus are cooking; they have a visitor.
 13|7|pron|Sie||Sie haben das richtig erkannt.|you|you|You recognized that correctly.|pronoun|Ich bitte Sie um Ihr Verständnis.|I ask you for your understanding.
@@ -19,7 +19,7 @@
 17|9|prep|von||Ich habe einen Brief von dir erhalten.|from, of|from|I received a letter from you.|preposition|Benjamin ist der Bruder von Anna.|Benjamin is the brother of Anna.
 18|10|pron|ich||Ich komme heute später nach Hause.|I|I|I will come home later today.|pronoun|Ich arbeite und du bleibst zu Hause.|I work and you stay home.
 19|11|part|nicht||Nicht jetzt, vielleicht später.|not|not|Not now, maybe later.|particle|Im Restaurant darf man nicht rauchen.|You can’t smoke in the restaurant.
-20|12|pron|es||Es regnet schon den ganzen Tag.|it|it|It has been raining all day.|pronoun|Das Kind geht ins Bett, es ist müde.|The child goes to bed; she is tired.
+20|12|pron|es||Kannst du es mir bitte morgen bringen?|it|it|Can you please bring it to me tomorrow?|pronoun|Das Kind geht ins Bett, es ist müde.|The child goes to bed; she is tired.
 21|13|prep|mit||Er kam mit seinem Hund ins Haus.|with|with|He came into the house with his dog.|preposition|Mein Bruder spielt mit Janosch Fußball im Garten.|My brother plays soccer in the garden with Janosch.
 22|14|pron|sich||Sie hat sich im Spiegel angesehen.|-self|-self|She looked at herself in the mirror.|pronoun|Das Kind sieht sich im Spiegel.|The child sees itself in the mirror.
 23|15|pron|er||Er kommt gleich zurück, sagte sie.|he|he|He will be right back, she said.|pronoun|Jan hat gute Noten in der Schule, er ist ein kluges Kind.|Jan has good grades in school; he’s a smart child.
