@@ -96,8 +96,8 @@
     </ul>
   </li>
   <li>
-    <b><code>sentence_de</code></b> - A German sentence that includes the German
-    word. The sentence is complete and short (30 to 40 characters long).
+    <b><code>sentence_de</code></b> - A complete and short (30 to 40 characters
+    long) German sentence that includes the German word.
   </li>
   <li>
     <b><code>word_translations_en</code></b> - Translation(s) of the word in
@@ -105,7 +105,8 @@
   </li>
   <li>
     <b><code>word_en</code></b> - One of the translations in
-    <code>word_translations_en</code>.
+    <code>word_translations_en</code>. May be empty if
+    <code>word_translations_en</code> is empty.
   </li>
   <li>
     <b><code>sentence_en</code></b> - A translation of the German sentence to
@@ -157,19 +158,110 @@
 <p>
   Sentences for the <code>sentence_de</code> and <code>sentence_en</code> fields
   were generated using ChatGPT 4o (August - October, 2024). I selected sentences
-  that seemed to be correct and useful for learning.
+  that sounded natural and seemed to be useful for learning.
 </p>
 
-<p>Sentences are short because:</p>
-<ul>
-  <li>I wanted to learn them instead of separate words.</li>
-  <li>I wanted to learn them in a reasonable time.</li>
-</ul>
+<p>
+  I decided to generate sentences because I wanted full control over sentence
+  content and length. I needed control over content because I thought original
+  sentences provided more context than it was necessary to understand a word. I
+  needed control over sentence length because I wanted to learn sentences in a
+  reasonable time.
+</p>
 
 <p>
   I'm not a native German or English speaker, so there may be problematic
   sentences.
 </p>
+
+<h2>AI-generated audio</h2>
+
+<p>
+  The audio was generated using the
+  <a href="https://ankiweb.net/shared/info/111623432">HyperTTS</a> plugin for a
+  desktop Anki version. I used free Google Translate voices.
+</p>
+
+<h2>Create a version without media</h2>
+
+<p>
+  If you don't want to download media files, you can create a no-media version
+  of this deck.
+</p>
+<ol>
+  <li>
+    Copy the data from
+    <a
+      href="https://github.com/deemp/anki-decks/blob/main/sentences/frequency/de/de-en/deck.csv"
+      >this file</a
+    >
+    into a local file.
+  </li>
+  <li>
+    Create a new note type (see
+    <a href="https://docs.ankiweb.net/editing.html#adding-a-note-type"
+      >Adding a Note Type</a
+    >), e.g., from the
+    <a href="Basic (and reversed card)">Basic (and reversed card)</a> (see
+    <a href="https://docs.ankiweb.net/templates/generation.html"
+      >Card Generation</a
+    >).
+  </li>
+  <li>Create a deck.</li>
+  <li>Import the local file into the deck using the new note type.</li>
+</ol>
+
+<h2>Modify card templates</h2>
+
+<p>
+  Original card templates are
+  <a
+    href="https://github.com/deemp/anki-decks/blob/main/sentences/frequency/de/de-en/card-templates"
+    >here</a
+  >.
+</p>
+
+<p>
+  See
+  <a href="https://docs.ankiweb.net/templates/intro.html">Card Templates</a>.
+</p>
+
+<h2>Update the deck</h2>
+
+You can update the deck without downloading a new version of the deck from
+AnkiWeb.
+
+<ol>
+  <li>
+    Copy the data from
+    <a
+      href="https://github.com/deemp/anki-decks/blob/main/sentences/frequency/de/de-en/deck.csv"
+      >this file</a
+    >
+    into a local file.
+  </li>
+  <li>
+    Import the local file into the deck using the appropriate note type. In
+    Import options, set:
+    <ul>
+      <li>Existing notes: Update</li>
+      <li>Match scope: Notetype and deck</li>
+    </ul>
+  </li>
+  <li>
+    Update sound using the
+    <a href="https://ankiweb.net/shared/info/111623432">HyperTTS</a> plugin for
+    a desktop Anki version. Recommended:
+    <ul>
+      <li>Use free Google Translate voices.</li>
+      <li>Create presets to simplify future updates.</li>
+      <li>
+        Select all notes and update audio. HyperTTS will generate audio only for
+        changed notes.
+      </li>
+    </ul>
+  </li>
+</ol>
 
 <h2>Contribute</h2>
 
@@ -177,14 +269,17 @@ The data for this deck is stored in
 <a
   href="https://github.com/deemp/anki-decks/blob/main/sentences/frequency/de/de-en/deck.csv"
   >this file</a
->
-in the <a href="https://github.com/deemp/anki-decks">repository</a>.
+>.
 
 <p>
   If you find an error or have an idea for improvement, please report it in an
-  <a href="https://github.com/deemp/anki-decks/issues">Issue</a> or create a
-  <a href="https://github.com/deemp/anki-decks/pulls">Pull Request</a> with a
-  fix.
+  <a href="https://github.com/deemp/anki-decks/issues">Issue</a>.
+</p>
+
+<p>
+  If you want to change the deck, update the file containing the deck data and
+  create a
+  <a href="https://github.com/deemp/anki-decks/pulls">Pull Request</a>
 </p>
 
 <h2>Don't extend this deck</h2>
@@ -213,6 +308,7 @@ in the <a href="https://github.com/deemp/anki-decks">repository</a>.
     Create a list of German words as a one-column
     <a href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV</a>.
     Example:
+    <br />
     <textarea
       style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
     >
@@ -420,8 +516,9 @@ Leave only the first 3 columns (index, the part of speech, and the German word).
 4|adjective|stark
 </textarea
     >
-  <li>Ask ChatGPT to generate rows again.</li>
   </li>
+
+  <li>Ask ChatGPT to generate rows again.</li>
   <li>Repeat generation and filtering until all rows are good.</li>
   <li>Sort rows by index (the first column).</li>
 </ol>
