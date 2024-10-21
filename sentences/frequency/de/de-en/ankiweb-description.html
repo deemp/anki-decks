@@ -4,11 +4,11 @@
 
 <ul>
   <li>
-    <code
-      >A Frequency Dictionary of German: Core Vocabulary for Learners (Routledge
-      Frequency Dictionaries), 2nd Edition, 2019, by Erwin Tschirner (Author),
-      Jupp Möhring (Author)</code
-    >
+    <code>
+      A Frequency Dictionary of German: Core Vocabulary for Learners (Routledge
+      Frequency Dictionaries), 2nd Edition, 2019, by Erwin Tschirner and Jupp
+      Möhring
+    </code>
     <a
       href="https://www.routledge.com/A-Frequency-Dictionary-of-German-Core-Vocabulary-for-Learners/Tschirner-Mohring/p/book/9781138659780"
       >(link)</a
@@ -21,50 +21,43 @@
     >
   </li>
 </ul>
-
 <p>
-  This deck provides cards for approximately 5000 German words that occured most
-  often in the corpus studied by the book authors. More frequent words appear at
-  the beginning of the deck.
+  This deck contains approximately 5,000 German words that occurred most
+  frequently in the corpus studied by the authors. The most frequent words
+  appear at the beginning of the deck.
 </p>
-
 <p>
-  Cards contain word forms, AI-generated German sentences, AI-generated English
-  translations, and AI-generated audio.
+  The cards include word forms, AI-generated German sentences, AI-generated
+  English translations, and AI-generated audio.
 </p>
-
-<h2>Related work</h2>
-
+<h2>Related Work</h2>
 <ol>
   <li>
-    Search <code>"frequency"</code> (<a
+    Search for <code>"frequency"</code> (<a
       href="https://ankiweb.net/shared/decks?search=frequency"
       >https://ankiweb.net/shared/decks?search=frequency</a
-    >) to find other decks based on frequency.
+    >) to find other frequency-based decks.
   </li>
   <li>
-    Search <code>"German"</code> and <code>"Deutsch"</code> on the results page
-    to find decks for German.
+    Search for <code>"German"</code> and <code>"Deutsch"</code> on the results
+    page to find decks for learning German.
   </li>
 </ol>
-
 <h2>Fields</h2>
-
 <ul>
   <li>
-    <b><code>index</code></b> - The number of the card in the deck. These
-    numbers start with 0. Cards are sorted by this field.
+    <b><code>index</code></b> - The card number in the deck. These numbers start
+    from 0. Cards are sorted by this field.
   </li>
   <li>
-    <b><code>frequency_rank</code></b> - Frequency rank (<i>Rank frequency</i>
-    in the book). The more frequent is a word in the corpus studied by the book
-    authors, the higher is the rank and the smaller is the number
-    <code>frequency_rank</code>. Cards with the same
-    <code>frequency_rank</code> have consequent increasing
+    <b><code>frequency_rank</code></b> - Frequency rank (as per the book's "Rank
+    frequency"). The more frequent a word is in the studied corpus, the higher
+    the rank and the lower the <code>frequency_rank</code> number. Cards with
+    the same <code>frequency_rank</code> have consecutively increasing
     <code>index</code> values.
   </li>
   <li>
-    <b><code>part_of_speech_short</code></b> - One of these:
+    <b><code>part_of_speech_short</code></b> - One of the following:
     <ul>
       <li>A part of speech or its abbreviation.</li>
       <li>Possible articles of a noun.</li>
@@ -89,39 +82,39 @@
         >.
       </li>
       <li>
-        For a pronoun (not any) - its
+        For a pronoun (if applicable) - its
         <a href="https://en.wikipedia.org/wiki/German_declension">declensions</a
         >.
       </li>
     </ul>
   </li>
   <li>
-    <b><code>sentence_de</code></b> - A complete and short (30 to 40 characters
-    long) German sentence that includes the German word.
+    <b><code>sentence_de</code></b> - A short (30 to 40 characters long) German
+    sentence that includes the word.
   </li>
   <li>
-    <b><code>word_translations_en</code></b> - Translation(s) of the German word
-    to English.
+    <b><code>word_translations_en</code></b> - English translations of the
+    German word.
   </li>
   <li>
-    <b><code>word_en</code></b> - One of the translations in
-    <code>word_translations_en</code>. May be empty if
+    <b><code>word_en</code></b> - One of the translations from
+    <code>word_translations_en</code>. This field may be empty if
     <code>word_translations_en</code> is empty.
   </li>
   <li>
-    <b><code>sentence_en</code></b> - A translation of the German sentence to
-    English. The translation includes <code>word_en</code>.
+    <b><code>sentence_en</code></b> - An English translation of the German
+    sentence. This translation includes <code>word_en</code>.
   </li>
   <li>
     <b><code>part_of_speech</code></b> - Part of speech.
   </li>
   <li>
-    <b><code>sentence_original_de</code></b> - The German sentence from the
-    book.
+    <b><code>sentence_original_de</code></b> - The original German sentence from
+    the book.
   </li>
   <li>
-    <b><code>sentence_original_en</code></b> - The English sentence from the
-    book.
+    <b><code>sentence_original_en</code></b> - The original English sentence
+    from the book.
   </li>
   <li>
     <b><code>word_sound_de</code></b> - Audio of <code>word_de</code>.
@@ -152,39 +145,32 @@
     <code>sentence_original_en</code>.
   </li>
 </ul>
-
 <h2>AI-generated sentences</h2>
-
 <p>
-  Sentences for the <code>sentence_de</code> and <code>sentence_en</code> fields
-  were generated using ChatGPT 4o (August - October, 2024). I selected sentences
-  that sounded natural and seemed to be useful for learning.
+  The sentences in the <code>sentence_de</code> and
+  <code>sentence_en</code> fields were generated using ChatGPT 4.0 in August -
+  October 2024. I selected sentences that sounded natural and seemed useful for
+  learning.
 </p>
-
 <p>
-  I decided to generate sentences because I wanted full control over sentence
-  content and length. I needed control over content because I thought original
-  sentences provided more context than it was necessary to understand a word. I
-  needed control over sentence length because I wanted to learn sentences in a
-  reasonable time.
+  I decided to generate sentences because I wanted full control over their
+  content and length. I needed control over the content because I felt the
+  original sentences provided more context than necessary to understand a word.
+  I also needed control over the sentence length to ensure they could be learned
+  in a reasonable amount of time.
 </p>
-
 <p>
-  I'm not a native German or English speaker, so there may be problematic
-  sentences.
+  Since I am not a native German or English speaker, some sentences may contain
+  errors.
 </p>
-
 <h2>AI-generated audio</h2>
-
 <p>
   The audio was generated using the
-  <a href="https://ankiweb.net/shared/info/111623432">HyperTTS</a> plugin for a
-  desktop Anki version. I used free Google Translate voices.
+  <a href="https://ankiweb.net/shared/info/111623432">HyperTTS</a> plugin for
+  the desktop version of Anki. I used free Google Translate voices.
 </p>
-
 <h2>Create a version without audio files</h2>
-
-<p>You can create a version of this deck with TTS instead of audio files.</p>
+<p>You can create a version of this deck using TTS instead of audio files.</p>
 <ol>
   <li>
     Copy the data from
@@ -198,7 +184,7 @@
     Create a
     <a href="https://docs.ankiweb.net/editing.html#adding-a-note-type"
       >new note type</a
-    >, e.g., from the
+    >, e.g., based on the
     <a href="https://docs.ankiweb.net/getting-started.html#note-types"
       >Basic (and reversed card)</a
     >
@@ -206,7 +192,7 @@
   </li>
   <li>Create a deck.</li>
   <li>
-    Import cards from the local file into the deck using the new note type.
+    Import the cards from the local file into the deck using the new note type.
   </li>
   <li>
     In the
