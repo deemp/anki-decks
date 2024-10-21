@@ -74,7 +74,7 @@
     <b><code>word_de</code></b> - A German word.
   </li>
   <li>
-    <b><code>word_forms_de</code></b> - Forms of the word:
+    <b><code>word_forms_de</code></b> - Forms of the German word:
     <ul>
       <li>
         For a noun - its
@@ -100,8 +100,8 @@
     long) German sentence that includes the German word.
   </li>
   <li>
-    <b><code>word_translations_en</code></b> - Translation(s) of the word in
-    English.
+    <b><code>word_translations_en</code></b> - Translation(s) of the German word
+    to English.
   </li>
   <li>
     <b><code>word_en</code></b> - One of the translations in
@@ -182,12 +182,9 @@
   desktop Anki version. I used free Google Translate voices.
 </p>
 
-<h2>Create a version without media</h2>
+<h2>Create a version without audio files</h2>
 
-<p>
-  If you don't want to download media files, you can create a no-media version
-  of this deck.
-</p>
+<p>You can create a version of this deck with TTS instead of audio files.</p>
 <ol>
   <li>
     Copy the data from
@@ -198,17 +195,29 @@
     into a local file.
   </li>
   <li>
-    Create a new note type (see
+    Create a
     <a href="https://docs.ankiweb.net/editing.html#adding-a-note-type"
-      >Adding a Note Type</a
-    >), e.g., from the
-    <a href="Basic (and reversed card)">Basic (and reversed card)</a> (see
-    <a href="https://docs.ankiweb.net/templates/generation.html"
-      >Card Generation</a
-    >).
+      >new note type</a
+    >, e.g., from the
+    <a href="https://docs.ankiweb.net/getting-started.html#note-types"
+      >Basic (and reversed card)</a
+    >
+    note type.
   </li>
   <li>Create a deck.</li>
-  <li>Import the local file into the deck using the new note type.</li>
+  <li>
+    Import cards from the local file into the deck using the new note type.
+  </li>
+  <li>
+    In the
+    <a href="https://docs.ankiweb.net/templates/intro.html">card template</a> of
+    a card in the new deck,
+    <a href="https://youtu.be/5QFDrY7PDUk">specify</a> which fields should be
+    <a
+      href="https://docs.ankiweb.net/templates/fields.html#text-to-speech-for-individual-fields"
+      >voiced by TTS</a
+    >.
+  </li>
 </ol>
 
 <h2>Modify card templates</h2>
@@ -251,9 +260,11 @@ AnkiWeb.
   <li>
     Update sound using the
     <a href="https://ankiweb.net/shared/info/111623432">HyperTTS</a> plugin for
-    a desktop Anki version. Recommended:
+    a desktop Anki version (see <a href="https://youtu.be/m0IKMZxC3cE">1</a>,
+    <a href="https://youtu.be/9ywLrzrfpPg">2</a>,
+    <a href="https://youtu.be/QYK2GPxksq4">3</a>). Recommended:
     <ul>
-      <li>Use free Google Translate voices.</li>
+      <li>Use free Google Translate voices to avoid generating audio again.</li>
       <li>Create presets to simplify future updates.</li>
       <li>
         Select all cards and update audio. HyperTTS will generate audio only for
