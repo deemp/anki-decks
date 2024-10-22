@@ -1,8 +1,8 @@
-# Create a deck
+# Create a Deck
 
-If you need to study a set of words, you probably want to create a [deck](https://docs.ankiweb.net/getting-started.html#decks) for them.
+If you need to study a set of words, you may want to create a [deck](https://docs.ankiweb.net/getting-started.html#decks) for them.
 
-In this article, I describe an algorithm for producing data for a German-English deck given a list of German words.
+In this article, I describe an algorithm for generating data for a German-English deck, given a list of German words.
 
 ## Given
 
@@ -17,23 +17,23 @@ A list of German words in a one-column [CSV](https://en.wikipedia.org/wiki/Comma
 
 ## Goal
 
-Get a CSV file with data suitable for [importing](https://docs.ankiweb.net/importing/text-files.html) into Anki.
+Generate a CSV file with data suitable for [importing](https://docs.ankiweb.net/importing/text-files.html) into Anki.
 
-CSV file columns:
+The CSV file should contain the following columns:
 
 1. `index` - Index of the row.
-2. `part_of_speech` - Part of speech of the German word (lowercase).
-3. `word_de` - The German word.
-4. `word_forms_de` - Forms of the German word:
+1. `part_of_speech` - Part of speech of the German word (lowercase).
+1. `word_de` - The German word.
+1. `word_forms_de` - Forms of the German word:
     - For nouns: the plural form with articles, if applicable.
     - For verbs: principal parts.
     - For adjectives: degrees (positive, comparative, superlative), if applicable.
-5. `sentence_de` - A sentence in German using the word in the specified part of speech.
+1. `sentence_de` - A sentence in German using the word in the specified part of speech.
     - The sentence should be 30 to 40 characters long.
-6. `sentence_en` - The English translation of the German word:
+1. `sentence_en` - The English translation of the German word:
     - For nouns: a word without an article.
-    - For verbs: an infinitive form.
-7. `word_en` - The translation of the German sentence into English.
+    - For verbs: the infinitive form.
+1. `word_en` - The translation of the German sentence into English.
 
 ## Algorithm
 
@@ -51,18 +51,18 @@ CSV file columns:
     ```text
     ## Task
 
-    Write the input German words in a lemmatized form.
+    Write the input German words in their lemmatized form.
 
     ## Lemmatized Form
 
     - Nouns should include articles.
-    - Adjectives must be masculine singular.
+    - Adjectives must be in the masculine singular form.
     - Verbs should be in the infinitive form.
 
     ## Output
 
     - Use "|" as a separator.
-    - Output a header.
+    - Include a header.
     - Output as a CSV Markdown code block.
 
     ## Columns
@@ -94,7 +94,7 @@ CSV file columns:
     ```text
     ## Task
 
-    Extend rows by creating additional columns.
+    Extend the rows by creating additional columns.
 
     ## Columns
 
@@ -109,14 +109,14 @@ CSV file columns:
         - The sentence should be 30 to 40 characters long.
     6. `sentence_en` - The English translation of the German word:
         - For nouns: a word without an article.
-        - For verbs: an infinitive form.
+        - For verbs: the infinitive form.
     7. `word_en` - The translation of the German sentence into English.
-    8. `sentence_repeated_de` - The same sentence as in `sentence_de`. Needed for sorting by length of the German sentence.
+    8. `sentence_repeated_de` - The same sentence as in `sentence_de`, used for sorting by the length of the German sentence.
 
     ## Output
 
     - Use "|" as a separator.
-    - Do output a header.
+    - Include a header.
     - Output as a CSV Markdown code block.
 
     ## Input
@@ -142,7 +142,7 @@ CSV file columns:
     - `sentence_de` is not between 30 and 40 characters long.
     - `sentence_de` is not a complete sentence.
     - `sentence_de` provides an "uninteresting" context for `word_de`.
-    - `word_de` is an adjective, but is not used as one in `sentence_de`.
+    - `word_de` is an adjective but is not used as one in `sentence_de`.
     - `sentence_de` does not contain `word_de`.
     - `sentence_en` does not contain `word_en`.
 
@@ -150,9 +150,9 @@ CSV file columns:
     - Use Excel, Google Sheets, LibreOffice Calc, etc.
     - Use [VS Code](https://code.visualstudio.com/):
         1. Copy the output into a CSV file.
-        1. Open the file in VS Code and align columns using the [rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) extension.
-        1. Sort rows by length using the [sort-lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) extension.
-        1. Move the problematic rows to the end of the file.
+        2. Open the file in VS Code and align columns using the [rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) extension.
+        3. Sort rows by length using the [sort-lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) extension.
+        4. Move the problematic rows to the end of the file.
     - Use [pandas](https://pandas.pydata.org/) if you prefer scripting tools.
 
 1. Ask ChatGPT to extract only the index, part of speech, and German word from problematic rows. Example:
@@ -165,7 +165,7 @@ CSV file columns:
     ## Output
 
     - Use "|" as a separator.
-    - Do output a header.
+    - Include a header.
     - Output as a CSV Markdown code block.
 
     ## Input
@@ -189,5 +189,5 @@ CSV file columns:
 
 1. Ask ChatGPT to regenerate the rows if necessary.
 1. Repeat the generation and filtering process until all rows are acceptable.
-1. Sort rows by `index`.
+1. Sort the rows by `index`.
 1. Save all acceptable rows into a CSV file.
