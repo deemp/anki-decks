@@ -148,9 +148,9 @@
 <h2>AI-generated sentences</h2>
 <p>
   The sentences in the <code>sentence_de</code> and
-  <code>sentence_en</code> fields were generated using ChatGPT 4.0 in August -
-  October 2024. I selected sentences that sounded natural and seemed useful for
-  learning.
+  <code>sentence_en</code> fields were generated using ChatGPT 4.0 mostly in
+  August - October 2024. I selected sentences that sounded natural and seemed
+  useful for learning.
 </p>
 <p>
   I decided to generate sentences because I wanted full control over their
@@ -169,42 +169,9 @@
   <a href="https://ankiweb.net/shared/info/111623432">HyperTTS</a> plugin for
   the desktop version of Anki. I used free Google Translate voices.
 </p>
-<h2>Create a version without audio files</h2>
-<p>You can create a version of this deck using TTS instead of audio files.</p>
-<ol>
-  <li>
-    Copy the data from
-    <a
-      href="https://github.com/deemp/anki-decks/blob/main/sentences/frequency/de/de-en/deck.csv"
-      >this file</a
-    >
-    into a local file.
-  </li>
-  <li>
-    Create a
-    <a href="https://docs.ankiweb.net/editing.html#adding-a-note-type"
-      >new note type</a
-    >, e.g., based on the
-    <a href="https://docs.ankiweb.net/getting-started.html#note-types"
-      >Basic (and reversed card)</a
-    >
-    note type.
-  </li>
-  <li>Create a deck.</li>
-  <li>
-    Import the cards from the local file into the deck using the new note type.
-  </li>
-  <li>
-    In the
-    <a href="https://docs.ankiweb.net/templates/intro.html">card template</a> of
-    a card in the new deck,
-    <a href="https://youtu.be/5QFDrY7PDUk">specify</a> which fields should be
-    <a
-      href="https://docs.ankiweb.net/templates/fields.html#text-to-speech-for-individual-fields"
-      >voiced by TTS</a
-    >.
-  </li>
-</ol>
+<h2>A text-to-speech version</h2>
+
+<p>The text-to-speech version of this deck is available <a href="">here</a>.</p>
 
 <h2>Modify card templates</h2>
 
@@ -289,236 +256,10 @@ The data for this deck is stored in
   </li>
 </ul>
 
-<p>Instead, create a new deck where you can insert or append new cards.</p>
-
-<h2>Custom Deck</h2>
-
-<p>Creating data for a custom deck is quite easy:</p>
-
-<ol>
-  <li>
-    Create a list of German words in a one-column
-    <a href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV</a> file.
-    Example:
-    <br />
-    <textarea
-      style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
-    >
-Sonne
-paukt
-meinung
-starke
-</textarea
-    >
-  </li>
-
-  <li>
-    Ask ChatGPT to write the words in their lemmatized form.
-    <br />
-    <textarea
-      style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
-    >
-## Task
-
-Write the input German words in a lemmatized form.
-
-## Lemmatized Form
-
-- Nouns should include articles.
-- Adjectives must be masculine singular.
-- Verbs should be in the infinitive form.
-
-## Output
-
-- Use "|" as a separator.
-- Don't output a header.
-- Output as a CSV Markdown code block.
-
-## Columns:
-
-1. Index of the row.
-2. Part of speech.
-3. Lemmatized form of the German word.
-
-## Input
-
-Sonne
-paukt
-meinung
-starkes
-</textarea
-    >
-  </li>
-
-  <li>
-    The output should be:
-    <br />
-    <textarea
-      style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
-    >
-1|noun|die Sonne
-2|verb|pauken
-3|noun|die Meinung
-4|adjective|stark
-</textarea
-    >
-  </li>
-
-  <li>
-    Ask ChatGPT to extend the rows:
-    <br />
-    <textarea
-      style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
-    >
-## Task
-
-Extend rows by creating additional columns.
-
-## Columns
-
-1. Index of the row.
-2. Part of speech of the German word (lowercase).
-3. The German word.
-4. Forms of the German word:
-   - For nouns: the plural form with articles, if applicable.
-   - For verbs: principal parts.
-   - For adjectives: degrees (positive, comparative, superlative), if applicable.
-5. A sentence in German using the word in the specified part of speech.
-   The sentence should be 30 to 40 characters long.
-6. The English translation of the German word:
-   - For nouns: exclude the article.
-   - For verbs: use only the infinitive form.
-7. The translation of the German sentence into English.
-8. Repeat the same sentence in German (as in column 5).
-
-## Output
-
-- Use "|" as a separator.
-- Don't output a header.
-- Output as a CSV Markdown code block.
-
-## Input
-
-1|noun|die Sonne
-2|verb|pauken
-3|noun|die Meinung
-4|adjective|stark
-</textarea
-    >
-  </li>
-
-  <li>
-    The output should be:
-    <br />
-    <textarea
-      style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
-    >
-1|noun|die Sonne|die Sonnen|Die Sonne scheint heute sehr hell.|sun|The sun is shining very brightly today.|Die Sonne scheint heute sehr hell.
-2|verb|pauken|pauken, paukte, hat gepaukt|Ich muss für die Prüfung pauken.|to cram|I have to cram for the exam.|Ich muss für die Prüfung pauken.
-3|noun|die Meinung|die Meinungen|Meine Meinung ist anders als deine.|opinion|My opinion is different from yours.|Meine Meinung ist anders als deine.
-4|adjective|stark|stärker, am stärksten|Der Wind weht heute sehr stark.|strong|The wind is blowing very strongly today.|Der Wind weht heute sehr stark.
-</textarea
-    >
-  </li>
-
-  <li>
-    Identify and mark problematic rows. Possible issues include:
-    <ul>
-      <li>
-        <code>sentence_de</code> is not between 30 and 40 characters long.
-      </li>
-      <li><code>sentence_de</code> is not a complete sentence.</li>
-      <li>
-        <code>sentence_de</code> provides an "uninteresting" context for
-        <code>word_de</code>.
-      </li>
-      <li>
-        <code>word_de</code> is an adjective, but is not used as one in
-        <code>sentence_de</code>.
-      </li>
-      <li><code>sentence_de</code> does not contain <code>word_de</code>.</li>
-      <li><code>sentence_en</code> does not contain <code>word_en</code>.</li>
-    </ul>
-  </li>
-
-  <li>
-    Partition the rows into "good" and "problematic."
-    <ul>
-      <li>Use Excel, Google Sheets, LibreOffice Calc, etc.</li>
-      <li>
-        Use <a href="https://code.visualstudio.com/">VS Code</a>:
-        <ol>
-          <li>Copy the output into a CSV file.</li>
-          <li>
-            Open the file in VS Code and align columns using the
-            <a
-              href="https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv"
-              >rainbow-csv</a
-            >
-            extension.
-          </li>
-          <li>
-            Sort rows by length using the
-            <a
-              href="https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines"
-              >sort-lines</a
-            >
-            extension.
-          </li>
-          <li>Move the problematic rows to the end of the file.</li>
-        </ol>
-      </li>
-      <li>
-        Use <a href="https://pandas.pydata.org/">pandas</a> if you prefer
-        scripting tools.
-      </li>
-    </ul>
-  </li>
-
-  <li>
-    Ask ChatGPT to extract only the index, part of speech, and German word from
-    problematic rows. Example:
-    <br />
-    <textarea
-      style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
-    >
-## Task
-
-Extract only the first 3 columns (index, part of speech, and the German word).
-
-## Output
-
-- Use "|" as a separator.
-- Don't output a header.
-- Output as a CSV Markdown code block.
-
-## Input
-
-1|noun|die Sonne|die Sonnen|Die Sonne scheint heute sehr hell.|sun|The sun is shining very brightly today.|Die Sonne scheint heute sehr hell.
-2|verb|pauken|pauken, paukte, hat gepaukt|Ich muss für die Prüfung pauken.|to cram|I have to cram for the exam.|Ich muss für die Prüfung pauken.
-3|noun|die Meinung|die Meinungen|Meine Meinung ist anders als deine.|opinion|My opinion is different from yours.|Meine Meinung ist anders als deine.
-4|adjective|stark|stärker, am stärksten|Der Wind weht heute sehr stark.|strong|The wind is blowing very strongly today.|Der Wind weht heute sehr stark.
-</textarea
-    >
-  </li>
-
-  <li>
-    The output should be:
-    <br />
-    <textarea
-      style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
-    >
-1|noun|die Sonne
-2|verb|pauken
-3|noun|die Meinung
-4|adjective|stark
-</textarea
-    >
-  </li>
-
-  <li>Ask ChatGPT to regenerate the rows if necessary.</li>
-  <li>
-    Repeat the generation and filtering process until all rows are acceptable.
-  </li>
-  <li>Sort rows by index (the first column).</li>
-</ol>
+<p>
+  Instead,
+  <a href="https://github.com/deemp/anki-decks/blob/main/blog/create-a-deck.md"
+    >create a new deck</a
+  >
+  where you can insert or append new cards.
+</p>
