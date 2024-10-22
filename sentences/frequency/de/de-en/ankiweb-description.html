@@ -209,23 +209,20 @@
 <h2>Modify card templates</h2>
 
 <p>
-  Original card templates are
+  The original card templates can be found
   <a
     href="https://github.com/deemp/anki-decks/blob/main/sentences/frequency/de/de-en/card-templates"
     >here</a
   >.
 </p>
-
 <p>
-  See
+  For more information, see
   <a href="https://docs.ankiweb.net/templates/intro.html">Card Templates</a>.
 </p>
 
 <h2>Update the deck</h2>
 
-You can update the deck without downloading a new version of the deck from
-AnkiWeb.
-
+You can update the deck without downloading a new version from AnkiWeb.
 <ol>
   <li>
     Copy the data from
@@ -236,7 +233,7 @@ AnkiWeb.
     into a local file.
   </li>
   <li>
-    Import the local file into the deck using the appropriate note type. In
+    Import the local file into the deck using the appropriate note type. In the
     Import options, set:
     <ul>
       <li>Existing notes: Update</li>
@@ -244,17 +241,18 @@ AnkiWeb.
     </ul>
   </li>
   <li>
-    Update sound using the
+    Update the audio using the
     <a href="https://ankiweb.net/shared/info/111623432">HyperTTS</a> plugin for
-    a desktop Anki version (see <a href="https://youtu.be/m0IKMZxC3cE">1</a>,
+    the desktop version of Anki (see
+    <a href="https://youtu.be/m0IKMZxC3cE">1</a>,
     <a href="https://youtu.be/9ywLrzrfpPg">2</a>,
-    <a href="https://youtu.be/QYK2GPxksq4">3</a>). Recommended:
+    <a href="https://youtu.be/QYK2GPxksq4">3</a>). Tips:
     <ul>
-      <li>Use free Google Translate voices to avoid generating audio again.</li>
+      <li>Use free Google Translate voices to avoid regenerating the audio.</li>
       <li>Create presets to simplify future updates.</li>
       <li>
-        Select all cards and update audio. HyperTTS will generate audio only for
-        changed field values.
+        Select all cards and update the audio. HyperTTS will generate audio only
+        for fields that have changed.
       </li>
     </ul>
   </li>
@@ -269,41 +267,38 @@ The data for this deck is stored in
 >.
 
 <p>
-  If you find an error or have an idea for improvement, please report it in an
-  <a href="https://github.com/deemp/anki-decks/issues">Issue</a>.
+  If you find an error or have an idea for improvement, please report it by
+  creating an <a href="https://github.com/deemp/anki-decks/issues">Issue</a>.
 </p>
 
 <p>
-  If you want to change the deck, update the file containing the deck data and
-  create a
-  <a href="https://github.com/deemp/anki-decks/pulls">Pull Request</a>
+  If you want to contribute by updating the deck, modify the file containing the
+  deck data and submit a
+  <a href="https://github.com/deemp/anki-decks/pulls">Pull Request</a>.
 </p>
-
-<h2>Don't extend this deck</h2>
-
-<p>Do not add new words into this deck. Here's why:</p>
-
+<h2>Do not extend this deck</h2>
+<p>Here’s why you shouldn’t add new words to this deck:</p>
 <ul>
   <li>
-    Since you don't know frequency ranks of these words, you can't insert cards
-    for these words onto right positions.
+    Since you don't know the frequency ranks of new words, you won’t be able to
+    insert them into the correct positions.
   </li>
   <li>
-    If you add a new card, you'll need to update <code>index</code> values of
-    all subsequent cards. This may be a tedious and error-prone process.
+    Adding new cards would require updating the <code>index</code> values of all
+    subsequent cards, which could be a tedious and error-prone process.
   </li>
 </ul>
 
 <p>Instead, create a new deck where you can insert or append new cards.</p>
 
-<h2>Custom deck</h2>
+<h2>Custom Deck</h2>
 
 <p>Creating data for a custom deck is quite easy:</p>
 
 <ol>
   <li>
-    Create a list of German words as a one-column
-    <a href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV</a>.
+    Create a list of German words in a one-column
+    <a href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV</a> file.
     Example:
     <br />
     <textarea
@@ -316,8 +311,9 @@ starke
 </textarea
     >
   </li>
+
   <li>
-    Ask ChatGPT to write words in their lemmatized form.
+    Ask ChatGPT to write the words in their lemmatized form.
     <br />
     <textarea
       style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
@@ -326,24 +322,23 @@ starke
 
 Write the input German words in a lemmatized form.
 
-## Lemmatized form
+## Lemmatized Form
 
-- Nouns should have articles.
+- Nouns should include articles.
 - Adjectives must be masculine singular.
 - Verbs should be in the infinitive form.
 
 ## Output
 
-- Output only the lemmatized forms.
-
 - Use "|" as a separator.
-- Don't output the header.
+- Don't output a header.
 - Output as a CSV Markdown code block.
 
-- Columns:
-  1. Index of the row.
-  2. Part of speech.
-  3. Lemmatized form of the German word.
+## Columns:
+
+1. Index of the row.
+2. Part of speech.
+3. Lemmatized form of the German word.
 
 ## Input
 
@@ -364,10 +359,11 @@ starkes
 1|noun|die Sonne
 2|verb|pauken
 3|noun|die Meinung
-4|adjective|stark      
+4|adjective|stark
 </textarea
     >
   </li>
+
   <li>
     Ask ChatGPT to extend the rows:
     <br />
@@ -376,31 +372,29 @@ starkes
     >
 ## Task
 
-Extend rows by creating new columns.
+Extend rows by creating additional columns.
 
 ## Columns
 
 1. Index of the row.
-2. Part of speech of the German word (don't capitalize).
+2. Part of speech of the German word (lowercase).
 3. The German word.
 4. Forms of the German word:
-  - For a verb - principal parts.
-  - For a noun - a plural form with articles if exists.
-  - For an adjective - degrees (positive, comparative, superlative) if exist.
-5. The sentence in German that includes the German word
-   used as the specified part of speech.
-   The sentence must be 30 to 40 characters long.
-6. The translation of the German word to English:
-  - For a noun - don't include the article.
-  - For a verb - include only the infinitive form.
-7. The translation of the German sentence to English
-   that includes the translation of the German word to English.
-8. The same sentence in German as in the column 5.
+   - For nouns: the plural form with articles, if applicable.
+   - For verbs: principal parts.
+   - For adjectives: degrees (positive, comparative, superlative), if applicable.
+5. A sentence in German using the word in the specified part of speech.
+   The sentence should be 30 to 40 characters long.
+6. The English translation of the German word:
+   - For nouns: exclude the article.
+   - For verbs: use only the infinitive form.
+7. The translation of the German sentence into English.
+8. Repeat the same sentence in German (as in column 5).
 
 ## Output
 
 - Use "|" as a separator.
-- Don't output the header.
+- Don't output a header.
 - Output as a CSV Markdown code block.
 
 ## Input
@@ -412,6 +406,7 @@ Extend rows by creating new columns.
 </textarea
     >
   </li>
+
   <li>
     The output should be:
     <br />
@@ -425,36 +420,40 @@ Extend rows by creating new columns.
 </textarea
     >
   </li>
+
   <li>
-    Identify and mark problematic rows. Possible problems:
+    Identify and mark problematic rows. Possible issues include:
     <ul>
-      <li><code>sentence_de</code> isn't between 30 and 40 characters long.</li>
-      <li><code>sentence_de</code> isn't a complete sentence.</li>
       <li>
-        <code>sentence_de</code> sets "uninteresting" context for
+        <code>sentence_de</code> is not between 30 and 40 characters long.
+      </li>
+      <li><code>sentence_de</code> is not a complete sentence.</li>
+      <li>
+        <code>sentence_de</code> provides an "uninteresting" context for
         <code>word_de</code>.
       </li>
       <li>
-        <code>word_de</code> is an adjective, but is used not as an adjective in
+        <code>word_de</code> is an adjective, but is not used as one in
         <code>sentence_de</code>.
       </li>
-      <li><code>sentence_de</code> doesn't contain <code>word_de</code>.</li>
-      <li><code>sentence_en</code> doesn't contain <code>word_en</code>.</li>
+      <li><code>sentence_de</code> does not contain <code>word_de</code>.</li>
+      <li><code>sentence_en</code> does not contain <code>word_en</code>.</li>
     </ul>
   </li>
+
   <li>
-    Partition rows into good and problematic.
+    Partition the rows into "good" and "problematic."
     <ul>
-      <li>Use Excel/Google Sheets/LibreOffice Calc/etc.</li>
+      <li>Use Excel, Google Sheets, LibreOffice Calc, etc.</li>
       <li>
         Use <a href="https://code.visualstudio.com/">VS Code</a>:
         <ol>
-          <li>Copy the output to a CSV file.</li>
+          <li>Copy the output into a CSV file.</li>
           <li>
-            Open the file in VS Code, align columns using the
+            Open the file in VS Code and align columns using the
             <a
               href="https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv"
-              >mechatroner.rainbow-csv</a
+              >rainbow-csv</a
             >
             extension.
           </li>
@@ -462,29 +461,30 @@ Extend rows by creating new columns.
             Sort rows by length using the
             <a
               href="https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines"
-              >tyriar.sort-lines</a
+              >sort-lines</a
             >
             extension.
           </li>
-          <li>Move the problematic rows to the end of file.</li>
+          <li>Move the problematic rows to the end of the file.</li>
         </ol>
       </li>
       <li>
-        Use
-        <a href="https://pandas.pydata.org/">pandas</a>.
+        Use <a href="https://pandas.pydata.org/">pandas</a> if you prefer
+        scripting tools.
       </li>
     </ul>
   </li>
+
   <li>
-    Ask ChatGPT to extract from problematic rows only the index, the part of
-    speech, and the German word. Example:
+    Ask ChatGPT to extract only the index, part of speech, and German word from
+    problematic rows. Example:
     <br />
     <textarea
       style="width: 80vh; height: 15vh; overflow-x: scroll; white-space: nowrap"
     >
 ## Task
 
-Leave only the first 3 columns (index, the part of speech, and the German word).
+Extract only the first 3 columns (index, part of speech, and the German word).
 
 ## Output
 
@@ -501,6 +501,7 @@ Leave only the first 3 columns (index, the part of speech, and the German word).
 </textarea
     >
   </li>
+
   <li>
     The output should be:
     <br />
@@ -515,7 +516,9 @@ Leave only the first 3 columns (index, the part of speech, and the German word).
     >
   </li>
 
-  <li>Ask ChatGPT to generate rows again.</li>
-  <li>Repeat generation and filtering until all rows are good.</li>
+  <li>Ask ChatGPT to regenerate the rows if necessary.</li>
+  <li>
+    Repeat the generation and filtering process until all rows are acceptable.
+  </li>
   <li>Sort rows by index (the first column).</li>
 </ol>
