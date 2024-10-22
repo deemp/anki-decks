@@ -15,6 +15,8 @@ A list of German words in a one-column [CSV](https://en.wikipedia.org/wiki/Comma
   starke
   ```
 
+A list of words can be extracted from a text using ChatGPT.
+
 ## Goal
 
 Generate a CSV file with data suitable for [importing](https://docs.ankiweb.net/importing/text-files.html) into Anki.
