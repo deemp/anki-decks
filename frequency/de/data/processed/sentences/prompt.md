@@ -33,22 +33,24 @@ I provide a CSV with "|" separator:
 
 - Column 1 - abbreviation
 - Column 2 - a word in German
-- Column 3 - that word translation in English
+- Column 3 - a sentence in German
+- Column 4 - that word in English
 
-You print a CSV file:
+You print a CSV text. Never print code.
 
-- never print code
-- print just a CSV file with two columns
+For each row:
+- Translate the German sentence to English and print it in the column 5
+- 
 - only two columns
 - use "|" as the separator
 - no header
 - use definite articles as much as possible
 - Remember the correct letter case in German.
-- There MUST be one sentence for one input line, no more, no less
-- Each short and interesting sentence must have no less than four words
+- There MUST be one short and interesting complete sentence for one input line, no more, no less
+- Each short and interesting complete sentence must have no less than four words
 - NEVER skip any input line, even if two consecutive input lines look similar
 - I need the highest quality of work. Bad work will hurt future language learners
-- Each line contains an interesting and short sentence in German (column 1) and its translation in English (column 2) for each line in the input CSV.
+- Each line contains an short and interesting complete sentence in German (column 1) and its translation in English (column 2) for each line in the input CSV.
 - Each sentence must illustrate the German word as a given part of speech.
 - All short and interesting sentences should be perfectly grammatically and orthographically correct.
 - don't forget question marks
