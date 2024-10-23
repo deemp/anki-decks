@@ -1,0 +1,238 @@
+<h2>About this deck</h2>
+
+<p>This deck is based on:</p>
+
+<ul>
+  <li>
+    <code>
+      A Frequency Dictionary of German: Core Vocabulary for Learners (Routledge
+      Frequency Dictionaries), 2nd Edition, 2019, by Erwin Tschirner and Jupp
+      Möhring
+    </code>
+    <a
+      href="https://www.routledge.com/A-Frequency-Dictionary-of-German-Core-Vocabulary-for-Learners/Tschirner-Mohring/p/book/9781138659780"
+      >(link)</a
+    >
+  </li>
+  <li>
+    The deck
+    <a href="https://ankiweb.net/shared/info/1431033948"
+      >English-Deutsch (Sorted by Frequency)</a
+    >
+  </li>
+</ul>
+
+<p>
+  This deck contains approximately 5,000 German words that occurred most
+  frequently in the corpus studied by the authors. The most frequent words
+  appear at the beginning of the deck.
+</p>
+
+<p>
+  The cards include word forms, AI-generated German sentences, and AI-generated
+  English translations.
+</p>
+
+<p>
+  The cards will be
+  <a
+    href="https://docs.ankiweb.net/templates/fields.html#text-to-speech-for-individual-fields"
+    >voiced</a
+  >
+  using a text-to-speech engine installed on the device running the Anki app
+  with this deck.
+</p>
+
+<p>
+  If you use Anki on Linux, install
+  <a href="https://ankiweb.net/shared/info/391644525">this extension</a>.
+</p>
+
+<p>
+  The version of this deck with audio files is available <a href="">here</a>.
+</p>
+
+<h2>Related Work</h2>
+
+<ol>
+  <li>
+    Search for <code>"frequency"</code> (<a
+      href="https://ankiweb.net/shared/decks?search=frequency"
+      >https://ankiweb.net/shared/decks?search=frequency</a
+    >) to find other frequency-based decks.
+  </li>
+  <li>
+    Search for <code>"German"</code> or <code>"Deutsch"</code> on the results
+    page to find decks for learning German.
+  </li>
+</ol>
+
+<h2>Fields</h2>
+
+<ul>
+  <li>
+    <b><code>index</code></b> - The card number in the deck. These numbers start
+    from 0. Cards are sorted by this field.
+  </li>
+  <li>
+    <b><code>frequency_rank</code></b> - Frequency rank (as per the book's "Rank
+    frequency"). The more frequent a word is in the studied corpus, the higher
+    the rank and the lower the <code>frequency_rank</code> number. Cards with
+    the same <code>frequency_rank</code> have consecutively increasing
+    <code>index</code> values.
+  </li>
+  <li>
+    <b><code>part_of_speech_short</code></b> - One of the following:
+    <ul>
+      <li>A part of speech or its abbreviation.</li>
+      <li>Possible articles of a noun.</li>
+    </ul>
+  </li>
+  <li>
+    <b><code>word_de</code></b> - A German word.
+  </li>
+  <li>
+    <b><code>word_forms_de</code></b> - Forms of the German word:
+    <ul>
+      <li>
+        For a noun - its
+        <a href="https://en.wiktionary.org/wiki/Appendix:German_plurals"
+          >plural form</a
+        >.
+      </li>
+      <li>
+        For a verb - its
+        <a href="https://en.wikipedia.org/wiki/Principal_parts#German"
+          >principal parts</a
+        >.
+      </li>
+      <li>
+        For a pronoun (if applicable) - its
+        <a href="https://en.wikipedia.org/wiki/German_declension">declensions</a
+        >.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <b><code>sentence_de</code></b> - A short (30 to 40 characters long) German
+    sentence that includes the word.
+  </li>
+  <li>
+    <b><code>word_translations_en</code></b> - English translations of the
+    German word.
+  </li>
+  <li>
+    <b><code>word_en</code></b> - One of the translations from
+    <code>word_translations_en</code>. This field may be empty if
+    <code>word_translations_en</code> is empty.
+  </li>
+  <li>
+    <b><code>sentence_en</code></b> - An English translation of the German
+    sentence. This translation includes <code>word_en</code>.
+  </li>
+  <li>
+    <b><code>part_of_speech</code></b> - Part of speech.
+  </li>
+  <li>
+    <b><code>sentence_original_de</code></b> - The original German sentence from
+    the book.
+  </li>
+  <li>
+    <b><code>sentence_original_en</code></b> - The original English sentence
+    from the book.
+  </li>
+</ul>
+
+<h2>AI-generated sentences</h2>
+
+<p>
+  The sentences in the <code>sentence_de</code> and
+  <code>sentence_en</code> fields were generated using ChatGPT 4.0 mostly in
+  August - October 2024. I selected sentences that sounded natural and seemed
+  useful for learning.
+</p>
+
+<p>
+  I decided to generate sentences because I wanted full control over their
+  content and length. I needed control over the content because I felt the
+  original sentences provided more context than necessary to understand a word.
+  I also needed control over the sentence length to ensure sentences could be
+  learned in a reasonable amount of time.
+</p>
+
+<p>
+  Since I am not a native German or English speaker, some sentences may contain
+  errors.
+</p>
+
+<h2>Modify card templates</h2>
+
+<p>
+  The original card templates can be found
+  <a
+    href="https://github.com/deemp/anki-decks/blob/main/sentences/frequency/de/de-en/versions/text-to-speech/card-templates"
+    >here</a
+  >.
+</p>
+
+<p>
+  For more information, see
+  <a href="https://docs.ankiweb.net/templates/intro.html">Card Templates</a>.
+</p>
+
+<h2>Update the deck</h2>
+
+<p>You can update the deck without downloading a new version from AnkiWeb.</p>
+
+<ol>
+  <li>
+    Copy the data from
+    <a
+      href="https://github.com/deemp/anki-decks/blob/main/sentences/frequency/de/de-en/deck.csv"
+      >this file</a
+    >
+    into a local file.
+  </li>
+  <li>
+    Import the local file into the deck using the appropriate note type. In the
+    Import options, set:
+    <ul>
+      <li>Existing notes: Update</li>
+      <li>Match scope: Notetype and deck</li>
+    </ul>
+  </li>
+</ol>
+
+<h2>Do not add new words to this deck</h2>
+
+<p>
+  Since you don't know the frequency ranks of new words, you won’t be able to
+  insert them into the correct positions.
+</p>
+
+<p>
+  Instead,
+  <a href="https://github.com/deemp/anki-decks/blob/main/blog/create-a-deck.md"
+    >create a new deck</a
+  >
+  where you can insert or append new cards.
+</p>
+
+<h2>Contribute</h2>
+
+The data for this deck is stored in
+<a
+  href="https://github.com/deemp/anki-decks/blob/main/sentences/frequency/de/de-en/deck.csv"
+  >this file</a
+>.
+
+<p>
+  If you find an error or have an idea for improvement, please report it by
+  creating an <a href="https://github.com/deemp/anki-decks/issues">Issue</a>.
+</p>
+
+<p>
+  If you want to contribute by updating the deck, modify the file containing the
+  deck data and submit a
+  <a href="https://github.com/deemp/anki-decks/pulls">Pull Request</a>.
+</p>
