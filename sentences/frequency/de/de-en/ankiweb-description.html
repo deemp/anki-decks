@@ -21,16 +21,22 @@
     >
   </li>
 </ul>
+
 <p>
   This deck contains approximately 5,000 German words that occurred most
   frequently in the corpus studied by the authors. The most frequent words
   appear at the beginning of the deck.
 </p>
+
 <p>
   The cards include word forms, AI-generated German sentences, AI-generated
   English translations, and AI-generated audio.
 </p>
+
+<p>The text-to-speech version of this deck is available <a href="">here</a>.</p>
+
 <h2>Related Work</h2>
+
 <ol>
   <li>
     Search for <code>"frequency"</code> (<a
@@ -39,11 +45,13 @@
     >) to find other frequency-based decks.
   </li>
   <li>
-    Search for <code>"German"</code> and <code>"Deutsch"</code> on the results
+    Search for <code>"German"</code> or <code>"Deutsch"</code> on the results
     page to find decks for learning German.
   </li>
 </ol>
+
 <h2>Fields</h2>
+
 <ul>
   <li>
     <b><code>index</code></b> - The card number in the deck. These numbers start
@@ -145,43 +153,47 @@
     <code>sentence_original_en</code>.
   </li>
 </ul>
+
 <h2>AI-generated sentences</h2>
+
 <p>
   The sentences in the <code>sentence_de</code> and
   <code>sentence_en</code> fields were generated using ChatGPT 4.0 mostly in
   August - October 2024. I selected sentences that sounded natural and seemed
   useful for learning.
 </p>
+
 <p>
   I decided to generate sentences because I wanted full control over their
   content and length. I needed control over the content because I felt the
   original sentences provided more context than necessary to understand a word.
-  I also needed control over the sentence length to ensure they could be learned
-  in a reasonable amount of time.
+  I also needed control over the sentence length to ensure sentences could be
+  learned in a reasonable amount of time.
 </p>
+
 <p>
   Since I am not a native German or English speaker, some sentences may contain
   errors.
 </p>
+
 <h2>AI-generated audio</h2>
+
 <p>
   The audio was generated using the
   <a href="https://ankiweb.net/shared/info/111623432">HyperTTS</a> plugin for
   the desktop version of Anki. I used free Google Translate voices.
 </p>
-<h2>A text-to-speech version</h2>
-
-<p>The text-to-speech version of this deck is available <a href="">here</a>.</p>
 
 <h2>Modify card templates</h2>
 
 <p>
   The original card templates can be found
   <a
-    href="https://github.com/deemp/anki-decks/blob/main/sentences/frequency/de/de-en/card-templates"
+    href="https://github.com/deemp/anki-decks/blob/main/sentences/frequency/de/de-en/versions/audio-files/card-templates"
     >here</a
   >.
 </p>
+
 <p>
   For more information, see
   <a href="https://docs.ankiweb.net/templates/intro.html">Card Templates</a>.
@@ -189,7 +201,8 @@
 
 <h2>Update the deck</h2>
 
-You can update the deck without downloading a new version from AnkiWeb.
+<p>You can update the deck without downloading a new version from AnkiWeb.</p>
+
 <ol>
   <li>
     Copy the data from
@@ -225,6 +238,21 @@ You can update the deck without downloading a new version from AnkiWeb.
   </li>
 </ol>
 
+<h2>Do not add new words to this deck</h2>
+
+<p>
+  Since you don't know the frequency ranks of new words, you won’t be able to
+  insert them into the correct positions.
+</p>
+
+<p>
+  Instead,
+  <a href="https://github.com/deemp/anki-decks/blob/main/blog/create-a-deck.md"
+    >create a new deck</a
+  >
+  where you can insert or append new cards.
+</p>
+
 <h2>Contribute</h2>
 
 The data for this deck is stored in
@@ -242,24 +270,4 @@ The data for this deck is stored in
   If you want to contribute by updating the deck, modify the file containing the
   deck data and submit a
   <a href="https://github.com/deemp/anki-decks/pulls">Pull Request</a>.
-</p>
-<h2>Do not extend this deck</h2>
-<p>Here’s why you shouldn’t add new words to this deck:</p>
-<ul>
-  <li>
-    Since you don't know the frequency ranks of new words, you won’t be able to
-    insert them into the correct positions.
-  </li>
-  <li>
-    Adding new cards would require updating the <code>index</code> values of all
-    subsequent cards, which could be a tedious and error-prone process.
-  </li>
-</ul>
-
-<p>
-  Instead,
-  <a href="https://github.com/deemp/anki-decks/blob/main/blog/create-a-deck.md"
-    >create a new deck</a
-  >
-  where you can insert or append new cards.
 </p>
