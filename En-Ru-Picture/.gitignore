@@ -1,0 +1,6 @@
+words/out/topic_without_words_urls.csv
+words/out/topic_with_words_urls.csv
+words/out/remaining_topic_urls.csv
+words/out/problematic_topic_urls.csv
+words/cookies.json
+words/headers.json
