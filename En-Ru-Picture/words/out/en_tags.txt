@@ -9,6 +9,8 @@ Birthdays
 Bugs and insects
 Chores 1
 Chores 2
+Christmas 1
+Christmas 2
 Circus jobs
 Classroom actions 1
 Classroom actions 2
@@ -21,6 +23,7 @@ Describing 1
 Describing 2
 Dinosaurs
 Directions
+Drinks
 Easter
 Emotions and feelings 1
 Emotions and feelings 2
@@ -30,10 +33,14 @@ Everyday objects 2
 Everyday objects 3
 Fairy stories
 Family
+Farm animals
+Flags
 Food 1
 Food 2
 Free time 1
 Free time 2
+Fruit 1
+Fruit 2
 Furniture
 Halloween 1
 Halloween 2
@@ -45,6 +52,10 @@ Jobs 2
 Kitchen objects
 Landmarks 1
 Landmarks 2
+Money
+Money in the UK
+Musical instruments 1
+Musical instruments 2
 Mythical creatures
 Numbers 1-10
 Numbers 10-100
@@ -63,6 +74,8 @@ Places in town 1
 Places in town 2
 Places in town 3
 Places to live
+Plants
+Playground
 Prepositions of place
 Reptiles and amphibians
 Rooms
