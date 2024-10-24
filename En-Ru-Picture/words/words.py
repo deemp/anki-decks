@@ -26,9 +26,9 @@ mkPath = lambda f: f"{out}/{f}.csv"
 f_word_data_en = mkPath("word_data_en")
 f_topic_without_words_urls = mkPath("topic_without_words_urls")
 f_all_topic_urls = mkPath("all_topic_urls")
-f_remaining_urls = mkPath("remaining_urls")
+f_remaining_topic_urls = mkPath("remaining_topic_urls")
 f_topic_with_words_urls = mkPath("topic_with_words_urls")
-f_problematic_urls = mkPath("problematic_urls")
+f_problematic_topic_urls = mkPath("problematic_topic_urls")
 
 htmlParser = "html.parser"
 
@@ -114,7 +114,7 @@ def get_topic_urls():
 
 def get_remaining_topic_words():
     no_problems = True
-    with open(file=f_remaining_urls, mode="r", encoding=encoding) as f:
+    with open(file=f_remaining_topic_urls, mode="r", encoding=encoding) as f:
         urls = f.readlines()
         for url in urls:
             print(f"Fetching {url}")
@@ -122,7 +122,9 @@ def get_remaining_topic_words():
                 get_topic_words(url)
             except Exception as e:
                 print(e)
-                with open(file=f_problematic_urls, mode="a", encoding=encoding) as f:
+                with open(
+                    file=f_problematic_topic_urls, mode="a", encoding=encoding
+                ) as f:
                     f.write(url)
                 no_problems = False
             else:
@@ -137,24 +139,30 @@ def get_remaining_topic_words():
 def init_remaining_topic_urls():
     """copy the list of all topic urls into the list of remaining topic urls"""
     with open(file=f_all_topic_urls, mode="r", encoding=encoding) as all_urls:
-        with open(file=f_remaining_urls, mode="w", encoding=encoding) as remaining_urls:
+        with open(
+            file=f_remaining_topic_urls, mode="w", encoding=encoding
+        ) as remaining_urls:
             remaining_urls.write(all_urls.read())
 
 
 def exist_remaining_topic_urls():
     if get_remaining_topic_words():
-        with open(file=f_remaining_urls, mode="w", encoding=encoding) as remaining_urls:
+        with open(
+            file=f_remaining_topic_urls, mode="w", encoding=encoding
+        ) as remaining_urls:
             remaining_urls.write("")
         with open(
-            file=f_problematic_urls, mode="w", encoding=encoding
+            file=f_problematic_topic_urls, mode="w", encoding=encoding
         ) as remaining_urls:
             remaining_urls.write("")
         return False
 
-    with open(file=f_problematic_urls, mode="r", encoding=encoding) as problems:
-        with open(file=f_remaining_urls, mode="w", encoding=encoding) as remaining_urls:
+    with open(file=f_problematic_topic_urls, mode="r", encoding=encoding) as problems:
+        with open(
+            file=f_remaining_topic_urls, mode="w", encoding=encoding
+        ) as remaining_urls:
             remaining_urls.write(problems.read())
-    with open(file=f_problematic_urls, mode="w", encoding=encoding) as problems:
+    with open(file=f_problematic_topic_urls, mode="w", encoding=encoding) as problems:
         problems.write("")
 
     return True
