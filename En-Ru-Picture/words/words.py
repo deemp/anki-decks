@@ -1,7 +1,8 @@
-#%%
-from types import NoneType
+# %%
+
+# Download list of English words together with topics and image URLs
+
 from bs4 import BeautifulSoup
-from numpy import spacing
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from bs4.element import Tag
@@ -9,180 +10,162 @@ from os.path import basename
 import os
 from selenium.webdriver.chrome.webdriver import WebDriver
 import pandas as pd
+from selenium.webdriver.common.by import By
+
+os.chdir(f'{os.environ["ROOT_DIR"]}/En-Ru-Picture/words')
 
 options = Options()
 options.headless = True
-options.add_argument(f'--blink-settings=imagesEnabled=false')
+options.add_argument(f"--blink-settings=imagesEnabled=false")
 
+encoding = "UTF-8"
 
 out = "./out"
 mkPath = lambda f: f"{out}/{f}.csv"
 
-f_words = mkPath("words")
-f_all_urls = mkPath("all_urls")
+f_word_data_en = mkPath("word_data_en")
+f_topic_without_words_urls = mkPath("topic_without_words_urls")
+f_all_topic_urls = mkPath("all_topic_urls")
 f_remaining_urls = mkPath("remaining_urls")
-f_problems = mkPath("problems")
-f_no_words = mkPath("no_words")
-f_has_words = mkPath("has_words")
+f_topic_with_words_urls = mkPath("topic_with_words_urls")
+f_problematic_urls = mkPath("problematic_urls")
 
 htmlParser = "html.parser"
 
 
-class NoWordsException(Exception):
-    pass
+def get_topic_words(url):
+    """get words for a topic"""
 
-"""get vocabulary for a topic
-"""
-def get(url):
-
-    chromedriver = webdriver.Chrome(options=options,keep_alive=False)
+    chromedriver = webdriver.Chrome(options=options, keep_alive=False)
     with chromedriver as driver:
-        driver : WebDriver
+        driver: WebDriver
 
         driver.get(url)
         soup = BeautifulSoup(driver.page_source, htmlParser)
-        
+
         topic = soup.find("h1", attrs={"class": "page-header"}).text.strip()
 
         # check contains words
-        content = driver.find_element_by_class_name("content")
+        content = driver.find_element(by=By.CLASS_NAME, value="content")
         try:
-            context = content.find_element_by_xpath("./div[contains(@class, 'contextual-region')]")
+            context = content.find_element(
+                by=By.XPATH, value="./div[contains(@class, 'contextual-region')]"
+            )
 
-        except Exception as e:
-            with open(f_no_words, "a") as f:
-                print(f"No words detected!")
+        except Exception as ex:
+            print("No words detected!")
+            with open(f_topic_without_words_urls, "a", encoding=encoding) as f:
                 f.write(url)
-            raise NoWordsException
         else:
             # take the words
 
-            iframe = context.find_element_by_tag_name("iframe")
+            iframe = context.find_element(by=By.TAG_NAME, value="iframe")
 
             driver.switch_to.frame(iframe)
 
-            iframe1 = driver.\
-                find_element_by_tag_name("iframe")
+            iframe1 = driver.find_element(by=By.TAG_NAME, value="iframe")
 
             driver.switch_to.frame(iframe1)
 
             soup = BeautifulSoup(driver.page_source, htmlParser)
 
-            qs = soup.find('div', attrs={"id": "questions"})
-            qlist = qs('div', attrs={"class": "question"},recursive=True)
+            qs = soup.find("div", attrs={"id": "questions"})
+            qlist = qs("div", attrs={"class": "question"}, recursive=True)
 
-            with open(f_words, "a") as f:
+            with open(f_word_data_en, "a", encoding=encoding) as f:
                 for q in qlist:
                     q: Tag
-                    
+
                     src = f"https:{str(q.find('img')['src'])}"
-                    ans = q.find('li')(text=True, recursive=False)[0]
-                    f.write(f'{topic}, {ans}, <img src="{src}">\n')
-    
-"""specialized version for `rooms` topic
-"""
-def get_rooms(url="https://learnenglishkids.britishcouncil.org/word-games/rooms"):
+                    ans = q.find("li")(text=True, recursive=False)[0]
+                    f.write(f"{topic}|{ans}|{src}\n")
 
-    chromedriver = webdriver.Chrome(options=options,keep_alive=False)
+
+def get_topic_urls():
+    """fetch a list of topic URLs"""
+    chromedriver = webdriver.Chrome(options=options, keep_alive=False)
     with chromedriver as driver:
-        driver.get(url)
-
-        iframe = driver.\
-            find_element_by_class_name("contextual-region").\
-            find_element_by_tag_name("iframe")
-
-        driver.switch_to.frame(iframe)
-
-        iframe1 = driver.\
-            find_element_by_tag_name("iframe")
-
-        driver.switch_to.frame(iframe1)
-
-        soup = BeautifulSoup(driver.page_source, htmlParser)
-
-        topic = soup.find("h2", attrs={"id": "gameTitleText"}).text.strip()
-
-        qs = soup.find('div', attrs={"id": "questions"})
-        qlist = qs('div', attrs={"class": "question"},recursive=True)
-
-        with open(f_words, "a") as f:
-            for q in qlist:
-                q: Tag = q
-                
-                src = f"https:{str(q.find('img')['src'])}"
-                ans = q.find('li')(text=True, recursive=False)[0]
-                f.write(f"{topic}, {ans}, {src}\n")
-    
-
-"""fetch a list of topics
-"""
-def get_all_urls():
-    chromedriver = webdriver.Chrome(options=options,keep_alive=False)
-    with chromedriver as driver:
-        top_url = "https://learnenglishkids.britishcouncil.org/word-games"
+        top_url = (
+            "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/word-games"
+        )
         print(f"Fetching all urls from {top_url}")
         driver.get(top_url)
-        body = driver.find_element_by_tag_name('body').get_attribute('innerHTML')
-        sec = BeautifulSoup(body, htmlParser).\
-            find('section', attrs={"id":"block-views-block-magazine-glossary-block-magazine-glossary"})
+        body = driver.find_element(by=By.TAG_NAME, value="body").get_attribute(
+            "innerHTML"
+        )
+        sec = BeautifulSoup(body, htmlParser).find(
+            "section",
+            attrs={"id": "block-views-block-magazine-glossary-block-magazine-glossary"},
+        )
 
-        div = sec('div', attrs={"class": "view-content"}, recursive=True)[1]
-        divs = div('div', attrs={"class": "views-row"})
+        div = sec("div", attrs={"class": "view-content"}, recursive=True)[1]
+        divs = div("div", attrs={"class": "views-row"})
 
-        with open(f_all_urls, "a") as f:
+        with open(file=f_all_topic_urls, mode="a", encoding=encoding) as f:
             for d in divs:
                 d: Tag = d
-                ref = basename(d.find('a', attrs={"rel": "bookmark"}, recursive=True)['href'])
+                ref = basename(
+                    d.find("a", attrs={"rel": "bookmark"}, recursive=True)["href"]
+                )
                 src = f"{top_url}/{ref}"
                 f.write(f"{src}\n")
             f.write("\n")
-    
-    
-url_rooms = "https://learnenglishkids.britishcouncil.org/word-games/rooms"
-def get_all():
+
+
+def get_remaining_topic_words():
     no_problems = True
-    with open(f_remaining_urls, "r") as f:
+    with open(file=f_remaining_urls, mode="r", encoding=encoding) as f:
         urls = f.readlines()
         for url in urls:
             print(f"Fetching {url}")
             try:
-                if url == url_rooms:
-                    get_rooms()
-                else:
-                    get(url)
-            except NoWordsException:
-                pass
+                get_topic_words(url)
             except Exception as e:
                 print(e)
-                with open(f_problems, "a") as f:
+                with open(file=f_problematic_urls, mode="a", encoding=encoding) as f:
                     f.write(url)
                 no_problems = False
             else:
                 print("Ok")
-                with open(f_has_words, "a") as f:
+                with open(
+                    file=f_topic_with_words_urls, mode="a", encoding=encoding
+                ) as f:
                     f.write(url)
     return no_problems
 
-def put_remaining():
-    with open(f_all_urls, "r") as a:
-        with open(f_remaining_urls, "w") as r:
-            r.write(a.read())
 
-def is_remain_url():
-    if get_all():
-        with open(f_remaining_urls, "w") as r:
-            r.write("")
-        with open(f_problems, "w") as r:
-            r.write("")
+def init_remaining_topic_urls():
+    """copy the list of all topic urls into the list of remaining topic urls"""
+    with open(file=f_all_topic_urls, mode="r", encoding=encoding) as all_urls:
+        with open(file=f_remaining_urls, mode="w", encoding=encoding) as remaining_urls:
+            remaining_urls.write(all_urls.read())
+
+
+def exist_remaining_topic_urls():
+    if get_remaining_topic_words():
+        with open(file=f_remaining_urls, mode="w", encoding=encoding) as remaining_urls:
+            remaining_urls.write("")
+        with open(
+            file=f_problematic_urls, mode="w", encoding=encoding
+        ) as remaining_urls:
+            remaining_urls.write("")
         return False
-    
-    with open(f_problems, "r") as p:
-        with open(f_remaining_urls, "w") as r:
-            r.write(p.read())
-    with open(f_problems, "w") as p:
-        p.write("")
-    
+
+    with open(file=f_problematic_urls, mode="r", encoding=encoding) as problems:
+        with open(file=f_remaining_urls, mode="w", encoding=encoding) as remaining_urls:
+            remaining_urls.write(problems.read())
+    with open(file=f_problematic_urls, mode="w", encoding=encoding) as problems:
+        problems.write("")
+
     return True
+
+
+get_topic_urls()
+init_remaining_topic_urls()
+
+while True:
+    if not exist_remaining_topic_urls():
+        break
 
 # if __name__ == "__main__":
 #     print("\n\n")
@@ -196,16 +179,8 @@ def is_remain_url():
 
 #     os.makedirs(out,exist_ok=True)
 
-    # get_all_urls()
-    # put_remaining()
-    
-    # while True:
-    #     if not is_remain_url():
-    #         break
 
-    # df = pd.read_csv("")
-
-#%%
+# %%
 
 mkText = lambda f: f"{out}/{f}.txt"
 
