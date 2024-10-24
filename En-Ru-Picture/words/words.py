@@ -1,6 +1,6 @@
 # %%
 
-# Download list of English words together with topics and image URLs
+# Download list of English words together with topics and image URLs.
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -11,26 +11,53 @@ import os
 from selenium.webdriver.chrome.webdriver import WebDriver
 import pandas as pd
 from selenium.webdriver.common.by import By
+from IPython.display import display
+import requests
+from concurrent.futures import ThreadPoolExecutor
+import json
+
 
 os.chdir(f'{os.environ["ROOT_DIR"]}/En-Ru-Picture/words')
-
-options = Options()
-options.headless = True
-options.add_argument(f"--blink-settings=imagesEnabled=false")
 
 encoding = "UTF-8"
 
 out = "./out"
-mkPath = lambda f: f"{out}/{f}.csv"
+mk_path = lambda f: f"{out}/{f}.csv"
 
-f_word_data_en = mkPath("word_data_en")
-f_topic_without_words_urls = mkPath("topic_without_words_urls")
-f_all_topic_urls = mkPath("all_topic_urls")
-f_remaining_topic_urls = mkPath("remaining_topic_urls")
-f_topic_with_words_urls = mkPath("topic_with_words_urls")
-f_problematic_topic_urls = mkPath("problematic_topic_urls")
+f_word_data_en = mk_path("word_data_en")
+f_topic_without_words_urls = mk_path("topic_without_words_urls")
+f_all_topic_urls = mk_path("all_topic_urls")
+f_remaining_topic_urls = mk_path("remaining_topic_urls")
+f_topic_with_words_urls = mk_path("topic_with_words_urls")
+f_problematic_topic_urls = mk_path("problematic_topic_urls")
 
 htmlParser = "html.parser"
+
+f_topics_en = mk_path("topics_en")
+f_words_en = mk_path("words_en")
+
+f_topics_ru = mk_path("topics_ru")
+f_words_ru = mk_path("words_ru")
+
+column_topic_en = "topic_en"
+column_word_en = "word_en"
+
+column_topic_ru = "topic_ru"
+column_word_ru = "word_ru"
+
+column_image_url = "image_url"
+
+
+column_image_file = "image_file"
+images_dir = f"{out}/images"
+
+f_deck = mk_path("deck")
+
+# %%
+
+options = Options()
+options.headless = True
+options.add_argument(f"--blink-settings=imagesEnabled=false")
 
 
 def get_topic_words(url):
@@ -168,174 +195,165 @@ def exist_remaining_topic_urls():
     return True
 
 
-get_topic_urls()
-init_remaining_topic_urls()
+def get_data():
+    get_topic_urls()
+    init_remaining_topic_urls()
 
-while True:
-    if not exist_remaining_topic_urls():
-        break
+    while True:
+        if not exist_remaining_topic_urls():
+            break
 
-# if __name__ == "__main__":
-#     print("\n\n")
-#     print (f"Words: {f_words}")
-#     print (f"All URLs: {f_all_urls}")
-#     print (f"Remaining URLs (to be fetched): {f_remaining_urls}")
-#     print (f"Problematic URLs: {f_problems}")
-#     print (f"URLs without words: {f_no_words}")
-#     print (f"URLs with words: {f_has_words}")
-#     print("\n\n")
 
-#     os.makedirs(out,exist_ok=True)
+# Uncomment to get English word data
 
+# get_data()
 
 # %%
 
-mkText = lambda f: f"{out}/{f}.txt"
+# Extract English words.
 
-en_tag = "en_tag"
-en_word = "en_word"
-img_link = "img_link"
-img_file = "img_file"
-d_images = f'{out}/images'
-f_deck = mkText("deck")
-img_html = "img_html"
-f_en_words = mkText("en_words")
-f_en_tags = mkText("en_tags")
-ru_tag = "ru_tag"
-f_ru_tags = mkText("ru_tags")
-f_ru_words = mkText("ru_words")
-ru_word = "ru_word"
-f_anki = mkText("anki_deck")
-f_deck_edited = mkText("deck_edited")
 
-#%%
+def process_data():
+    word_data_en = pd.read_csv(f_word_data_en, sep="|", header=None)
+    word_data_en.columns = [column_topic_en, column_word_en, column_image_url]
+
+    word_data_en["word_en"].map(lambda x: x.strip()).to_csv(
+        f_words_en, header=False, sep="|"
+    )
+
+    topics_en = word_data_en["topic_en"].map(lambda x: x.strip()).unique()
+    pd.DataFrame(topics_en).to_csv(f_topics_en, header=False, sep="|")
+
+
+process_data()
+
+# %%
+
 
 def produce_file_names():
-    df = pd.read_csv(f_words, header=None)
-    df.columns = [en_tag, en_word, img_link]
+    df = pd.read_csv(f_word_data_en, header=None, sep="|")
+    df.columns = [column_topic_en, column_word_en, column_image_url]
     for i in df.columns:
-        df[i]=df[i].str.strip()
+        df[i] = df[i].str.strip()
     # adjust file names
-    df[img_file] = df[en_word]
-    df[img_file] = (df[img_file].str.replace('-','_').str.strip().str.replace(' ', '_') + ".jpg").str.strip()
+    df[column_image_file] = df[[column_topic_en, column_word_en]].apply(
+        lambda x: f"{x[column_topic_en]}___{x[column_word_en]}".lower(), axis=1
+    )
+    df[column_image_file] = (
+        df[column_image_file].str.strip().str.replace(" ", "-") + ".jpg"
+    ).str.strip()
+    df[column_image_file] = df[column_image_file].map(lambda x: f"en-ru-pictures___{x}")
 
     return df
 
-df1 = produce_file_names()
-df1.head(5)
+
+df_with_image_file_names = produce_file_names()
+df_with_image_file_names.head()
+
 # %%
 
-# download images
-import requests
-from concurrent.futures import ThreadPoolExecutor
+# Download images.
+
+# 1. Open an image by URL.
+# 2. Check Network in Dev tools.
+# 3. Copy cookies and write as JSON.
+# 4. Copy the "User-Agent" header and write as JSON.
+
+
+with open("cookies.json", "r") as file:
+    cookies = json.load(file)
+
+with open("headers.json", "r") as file:
+    headers = json.load(file)
 
 
 def save_img(url, file):
-    print(file)
-    response = requests.get(url).content
-    with open(f'{d_images}/{file}', 'wb') as handle:
+    response = requests.get(
+        url=url, timeout=30, cookies=cookies, headers=headers
+    ).content
+    with open(f"{images_dir}/{file}", "wb") as handle:
         handle.write(response)
+    print(f"Downloaded {url} and wrote to {file}")
 
-def load_images(df):
-    os.makedirs(d_images, exist_ok=True)
+
+def download_images(df: pd.DataFrame):
+    os.makedirs(images_dir, exist_ok=True)
     with ThreadPoolExecutor(max_workers=100) as executor:
         # TODO check
-        executor.map(save_img, df[img_link], df.iloc[img_file])
+        executor.map(save_img, df[column_image_url], df[column_image_file])
 
 
-load_images(df1)
+download_images(df_with_image_file_names)
 
 # %%
 
-def create_links(df):
-    df[img_html] = df[img_file]
-    for i in range(df.shape[0]):
-        df[img_html].iloc[i] = f'<img src="{df[img_file].iloc[i]}">'
+column_image_html = "image_html"
+
+
+def add_image_html(df: pd.DataFrame):
+    df[column_image_html] = df[column_image_file].map(lambda x: f'<img src="{x}">')
+    df.drop(labels=[column_image_file, column_image_url], axis=1, inplace=True)
     return df
 
-df2 = create_links(df1)
-df2.head()
-#%%
+
+df_with_image_html = add_image_html(df_with_image_file_names)
+df_with_image_html.head()
 
 
-#%%
-
-def write_english_words(df):
-    df[en_word].to_csv(f_en_words, index=False, header=False)
-
-write_english_words(df2)
 # %%
-
-# export tags
-import numpy as np
+# Add Russian tags.
 
 
-def write_en_tags(df):
-    np.savetxt(f_en_tags, df[en_tag].str.strip().unique(), fmt="%s")
+def add_russian_tags(df: pd.DataFrame):
+    df_ru = pd.read_csv(f_topics_ru, header=None, index_col=0, sep="|")
+    df_en = pd.read_csv(f_topics_en, header=None, index_col=0, sep="|")
 
-write_en_tags(df2)
-
-# next, translate the tags and paste them into `ru_tags`
-
-#%%
-# add russian tags
-
-def add_russian_tags(df):
-    df_en = pd.read_csv(f_en_tags, header=None)
-    df_en.columns = [en_tag]
-    
-    df_ru = pd.read_csv(f_ru_tags, header=None)
-    df_ru.columns = [ru_tag]
+    df_en.columns = [column_topic_en]
+    df_ru.columns = [column_topic_ru]
     df_en_ru = pd.concat([df_en, df_ru], axis=1)
 
-    return pd.merge(df, df_en_ru, how='left', on=en_tag)
+    return pd.merge(df, df_en_ru, how="left", on=column_topic_en)
 
-df3 = add_russian_tags(df2)
-df3
+
+df_with_topics_ru = add_russian_tags(df_with_image_html)
+df_with_topics_ru.head()
 # %%
 
-# now, copy the english words into Deepl
-# paste the translations into a file `ru_words``
-# create the final file
-
-def combine(df):
-    ru_df = pd.read_csv(f_ru_words, header=None)
-    ru_df.columns = [ru_word]
-    comb = pd.concat([df[en_word], ru_df, df[[img_html, en_tag, ru_tag]]], axis=1)
-    return comb
-
-df4 = combine(df3)
-df4
-
-# %%
-
-# export the final deck
-
-df4.to_csv(f_deck, sep=";", index=False, header=False, quoting=3)
-# %%
-
-# edit in anki, merge changes from `anki_deck`
+# Add Russian words.
 
 
-anki_export_columns = [en_word, ru_word]
-deck_columns = [en_word, ru_word, img_html, en_tag, ru_tag]
+def add_russian_words(df: pd.DataFrame):
+    df_ru = pd.read_csv(f_words_ru, header=None, index_col=0, sep="|")
+    df_ru.columns = [column_word_ru]
+    return pd.concat([df, df_ru], axis=1)
 
-def edit_via_anki():
-    df_deck = pd.read_csv(f_deck, header=None, sep=";")
-    df_deck.columns = deck_columns
-    df_anki = pd.read_csv(f_anki, header=None, sep=";")
-    df_anki.columns = anki_export_columns
-    df_deck.merge(df_anki, on=en_word)    
-    return df_deck
 
-df5 = edit_via_anki()
-df5
-# %%
-
-# save edited deck
-
-df5.to_csv(f_deck_edited, sep="|", index=False, header=False, quoting=3)
+df_with_words_ru = add_russian_words(df_with_topics_ru)
+df_with_words_ru.head()
 
 # %%
 
-# now, we can load the edited deck into anki!
+# Reorder columns
+
+
+def reorder_columns(df: pd.DataFrame):
+    df = df[
+        [
+            column_word_en,
+            column_word_ru,
+            column_topic_en,
+            column_topic_ru,
+            column_image_html,
+        ]
+    ]
+    return df
+
+
+df_reordered = reorder_columns(df_with_words_ru)
+df_reordered.head()
+
+# %%
+
+# Export the deck
+
+df_reordered.to_csv(f_deck, sep="|", quoting=3)
