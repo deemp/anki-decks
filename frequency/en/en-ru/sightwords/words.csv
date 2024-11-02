@@ -1,5 +1,6 @@
 |word_en
 0|article|the|(определенный артикль)|The cat is small.|Кот маленький.|I saw the cat.|Я видел кота.
+1|preposition|of|(родительный падеж), (предложный падеж)|I have a picture of a cat.|У меня есть картинка кошки.|She thought of a plan.|Она подумала о плане.
 2|conjunction|and|и|You and I play.|Ты и я играем.|She sang and danced.|Она пела и танцевала.
 3|article|a|(неопределенный артикль)|A dog barks.|Собака лает.|I found a toy.|Я нашел игрушку.
 4|preposition|to|к|I go to school.|Я иду в школу.|She walked to him.|Она подошла к нему.
@@ -13,6 +14,7 @@
 12|preposition|for|для|This is for you.|Это для тебя.|She cooked for me.|Она готовила для меня.
 13|preposition|on|на|The cat sits on the mat.|Кот сидит на коврике.|He slept on the couch.|Он спал на диване.
 14|verb|are|есть|You are happy.|Ты счастлив.|They were friends.|Они были друзьями.
+15|preposition|as|как|He is as tall as his dad.|Он такой же высокий, как его папа.|She jumped as high as she could.|Она прыгнула так высоко, как могла.
 16|preposition|with|с|I play with toys.|Я играю с игрушками.|He walked with her.|Он шел с ней.
 17|pronoun|his|его|His cat sleeps.|Его кот спит.|He lost his hat.|Он потерял свою шляпу.
 18|pronoun|they|они|They eat apples.|Они едят яблоки.|They went home.|Они ушли домой.
@@ -22,7 +24,9 @@
 22|pronoun|this|это|This is a toy.|Это игрушка.|I liked this book.|Мне понравилась эта книга.
 23|verb|have|иметь|I have a pen.|У меня есть ручка.|He had a plan.|У него был план.
 24|preposition|from|из|This is from mom.|Это от мамы.|She came from school.|Она пришла из школы.
+25|conjunction|or|или|You can eat an apple or a banana.|Ты можешь съесть яблоко или банан.|She wanted ice cream or cake.|Она хотела мороженое или торт.
 26|noun|one|один|I have one book.|У меня одна книга.|She found one toy.|Она нашла одну игрушку.
+27|verb|had|имел|He had a blue ball.|Он имел синий мяч.|She had a big cake.|Она имела большой торт.
 28|preposition|by|у|The book is by the lamp.|Книга у лампы.|She sat by the fire.|Она сидела у огня.
 29|noun|words|слова|She knows many words.|Она знает много слов.|He wrote new words.|Он написал новые слова.
 30|conjunction|but|но|I like cats, but not dogs.|Я люблю кошек, но не собак.|He was tired, but happy.|Он был уставшим, но счастливым.
@@ -34,6 +38,7 @@
 36|adverb|when|когда|Tell me when you go.|Скажи мне, когда пойдешь.|He left when it rained.|Он ушел, когда пошел дождь.
 37|pronoun|your|твой|Your book is red.|Твоя книга красная.|He found your hat.|Он нашел твою шляпу.
 38|verb|can|мочь|I can jump.|Я могу прыгать.|She could sing.|Она могла петь.
+39|verb|said|сказал|He said it’s sunny.|Он сказал, что солнечно.|She said goodbye to him.|Она сказала ему “пока”.
 40|pronoun|there|там|There is a dog.|Там собака.|There was a noise.|Там был шум.
 41|verb|use|использовать|I use a pen.|Я использую ручку.|She used a map.|Она использовала карту.
 42|article|an|неопределенный артикль|An apple is red.|Яблоко красное.|I ate an apple.|Я съел яблоко.
@@ -43,12 +48,16 @@
 46|verb|do|делать|I do my homework.|Я делаю домашнюю работу.|She did her best.|Она сделала все возможное.
 47|adverb|how|как|How are you?|Как ты?|He learned how to run.|Он научился бегать.
 48|pronoun|their|их|Their dog is cute.|Их собака милая.|They lost their ball.|Они потеряли свой мяч.
+49|conjunction|if|если|I will play if it is sunny.|Я буду играть, если будет солнечно.|He cried if he fell down.|Он плакал, если падал.
 50|verb|will|будет|I will play.|Я буду играть.|He said he will come.|Он сказал, что придет.
+51|preposition|up|вверх|She climbs up the stairs.|Она поднимается вверх по лестнице.|He looked up at the sky.|Он посмотрел вверх на небо.
 52|adjective|other|другой|The other boy is here.|Другой мальчик здесь.|She met other friends.|Она встретила других друзей.
 53|preposition|about|о|I talk about toys.|Я говорю об игрушках.|She read about it.|Она читала об этом.
 54|adverb|out|наружу|The cat went out.|Кот пошел наружу.|The kids ran out.|Дети выбежали наружу.
 55|adjective|many|много|Many people are here.|Много людей здесь.|She saw many animals.|Она видела много животных.
+56|adverb|then|потом|I eat breakfast, then go to school.|Я завтракаю, потом иду в школу.|He played, then rested.|Он играл, потом отдохнул.
 57|pronoun|them|их|I see them.|Я вижу их.|She called them.|Она позвала их.
+58|pronoun|these|эти|These are my toys.|Это мои игрушки.|These were her books.|Это были её книги.
 59|adverb|so|так|I am so happy.|Я так счастлив.|He was so late.|Он пришел так поздно.
 60|pronoun|some|некоторые|Some people like cats.|Некоторые люди любят кошек.|Some of them were tired.|Некоторые из них были уставшими.
 61|pronoun|her|ее|Her dog barks.|Её собака лает.|I saw her hat.|Я видел её шляпу.
@@ -66,7 +75,7 @@
 73|verb|go|идти|I go to school.|Я иду в школу.|She went to bed.|Она пошла спать.
 74|verb|see|видеть|I see a bird.|Я вижу птицу.|She saw a cat.|Она увидела кота.
 75|noun|number|число|I call a number.|Я называю число.|The teacher chose numbers.|Учитель выбрал числа.
-76|adverb|no|нет|No, I can't.|Нет, я не могу.|She said no.|Она сказала нет.
+76|adverb|no|нет|No, I can’t.|Нет, я не могу.|She said no.|Она сказала нет.
 77|noun|way|путь|This is the way home.|Это путь домой.|He found a way.|Он нашел путь.
 78|verb|could|мог|He could run fast.|Он мог быстро бегать.|I could sing well.|Я мог хорошо петь.
 79|noun|people|люди|People laugh.|Люди смеются.|He met new people.|Он встретил новых людей.
@@ -84,9 +93,12 @@
 91|adjective|long|длинный|The rope is long.|Веревка длинная.|He had a long walk.|У него была длинная прогулка.
 92|adverb|down|вниз|He went down.|Он пошел вниз.|She looked down.|Она посмотрела вниз.
 93|noun|day|день|The day is sunny.|День солнечный.|She had a fun day.|У неё был веселый день.
+94|verb|did|делал|He did his work well.|Он делал свою работу хорошо.|She did her best.|Она делала всё, что могла.
 95|verb|get|получить|I get a gift.|Я получаю подарок.|She got a toy.|Она получила игрушку.
 96|verb|come|приходить|I come here.|Я прихожу сюда.|She came home.|Она пришла домой.
 97|verb|made|сделал|She made a cake.|Она сделала торт.|He made a drawing.|Он нарисовал рисунок.
+98|verb|may|может|He may go to the park.|Он может пойти в парк.|She may have missed the bus.|Она может пропустила автобус.
+99|noun|part|часть|One part is broken.|Одна часть сломана.|She fixed the broken part.|Она починила сломанную часть.
 100|preposition|over|над|The bird flies over the lake.|Птица летает над озером.|The rainbow was over the field.|Радуга была над полем.
 
 101|adjective|new|новый|This is a new toy.|Это новая игрушка.|He got a new bike.|Он получил новый велосипед.
