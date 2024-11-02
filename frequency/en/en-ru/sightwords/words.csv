@@ -1,4 +1,4 @@
-|word_en
+|pronoun|word_en|word_ru|sentence_present_en|sentence_present_ru|sentence_past_en|sentence_past_ru
 0|article|the|(определенный артикль)|The cat is small.|Кот маленький.|I saw the cat.|Я видел кота.
 1|preposition|of|(родительный падеж), (предложный падеж)|I have a picture of a cat.|У меня есть картинка кошки.|She thought of a plan.|Она подумала о плане.
 2|conjunction|and|и|You and I play.|Ты и я играем.|She sang and danced.|Она пела и танцевала.
