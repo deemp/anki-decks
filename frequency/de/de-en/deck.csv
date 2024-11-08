@@ -7,7 +7,7 @@
 5|4|aux|sein (Vergangenheitsform)|sein, ist, war, ist gewesen|Er war der Beste auf seinem Gebiet.|(past tense)|(past tense)|He was the best in his field.|auxiliary verb|Janosch ist heute Morgen in die Schule gefahren.|Janosch went to school this morning.
 6|4|verb|sein|sein, ist, war, ist gewesen|Er ist heute sehr beschäftigt.|to be|to be|He is very busy today.|verb|Ich bin Lehrer und du bist Polizist und damit sind wir glücklich.|I’m a teacher, and you’re a police officer, and we’re happy with that.
 7|5|art|ein|eine, einer, eines|Er hat ein Buch in der Tasche gefunden.|a, an|a|He found a book in the bag.|article|Er wohnt in einem Hotel.|He’s staying at a hotel.
-8|5|pron|einer|eine, einer, eines|Einer muss jetzt den ersten Schritt tun.|one (of)|one (of)|One of us must take the first step now.|pronoun|Eines der Kinder hat sich beim Spielen verletzt.|One of the children was injured while playing.
+8|5|pron|einer|eine, einer, eines|Einer der Gäste brachte ein Geschenk.|one (of)|one of|One of the guests brought a gift.|pronoun|Eines der Kinder hat sich beim Spielen verletzt.|One of the children was injured while playing.
 9|6|aux|haben (Vergangenheitsform)|haben, hat, hatte, hat gehabt|Wir haben eine gute Zeit gehabt.|(past tense)|(past tense)|We had a good time.|auxiliary verb|Sie hat sich gestern einen Film angesehen.|She was watching a movie yesterday.
 10|6|verb|haben|haben, hat, hatte, hat gehabt|Hast du eine Ahnung, wo sie ist?|to have|to have|Do you have any idea where she is?|verb|Ich habe ein Buch in der Hand.|I have a book in my hand.
 11|7|pron|sie||Sie hat das Buch gestern fertig gelesen.|she, her|she|She finished reading the book yesterday.|pronoun|Paul besucht Anna, sie ist Pauls Tante.|Paul visits Anna; she’s Paul’s aunt.
@@ -18,7 +18,7 @@
 16|8|verb|werden|werden, wird, wurde, ist geworden|Er wird bald der Direktor des Instituts.|to become, get|to become|He will soon become the director of the institute.|verb|Der Junge wird zum Mann.|The boy becomes a man.
 17|9|prep|von||Ich habe einen Brief von dir erhalten.|from, of|from|I received a letter from you.|preposition|Benjamin ist der Bruder von Anna.|Benjamin is the brother of Anna.
 18|10|pron|ich||Ich komme heute später nach Hause.|I|I|I will come home later today.|pronoun|Ich arbeite und du bleibst zu Hause.|I work and you stay home.
-19|11|part|nicht||Ich habe heute leider nicht viel Zeit.|not|not|I unfortunately don’t have much time today.|particle|Im Restaurant darf man nicht rauchen.|You can’t smoke in the restaurant.
+19|11|part|nicht||Ich habe heute leider nicht viel Zeit.|not|not|Unfortunately, I do not have much time today.|particle|Im Restaurant darf man nicht rauchen.|You can’t smoke in the restaurant.
 20|12|pron|es||Kannst du es mir bitte morgen bringen?|it|it|Can you please bring it to me tomorrow?|pronoun|Das Kind geht ins Bett, es ist müde.|The child goes to bed; she is tired.
 21|13|prep|mit||Er kam mit seinem Hund ins Haus.|with|with|He came into the house with his dog.|preposition|Mein Bruder spielt mit Janosch Fußball im Garten.|My brother plays soccer in the garden with Janosch.
 22|14|pron|sich||Sie hat sich im Spiegel angesehen.|-self|-self|She looked at herself in the mirror.|pronoun|Das Kind sieht sich im Spiegel.|The child sees itself in the mirror.
@@ -43,10 +43,10 @@
 41|27|pron|Ihr||Ist das wirklich Ihr letzter Entschluss?|your|your|Is that really your final decision?|pronoun|Bitte geben Sie Ihr Blatt am Ende der Stunde ab.|Please hand in your paper at the end of the lesson.
 42|28|adv|so||Er machte es so, wie gesagt wurde.|so, thus, the way, such|the way|He did it the way it was said.|adverb|Ich beobachte Klaus und mache alles so wie er.|I watch Klaus and do everything the way he does.
 43|28|part|so||Es war so erstaunlich zu sehen.|so|so|It was so amazing to see.|particle|Das Wetter ist heute so schön.|The weather is so nice today.
-44|29|prep|bei||Ich bleibe bei meiner Meinung.|by, with, at|with|I stick with my opinion.|preposition|Jan ist bei einem neuen Arzt.|Jan’s with a new doctor.
+44|29|prep|bei||Ich arbeite bei einer großen Firma.|by, with, at|at|I work at a large company.|preposition|Jan ist bei einem neuen Arzt.|Jan’s with a new doctor.
 45|30|pron|sein|seine, seiner, seines|Das ist sein Fahrrad, nicht deins.|his, its|his|That is his bike, not yours.|pronoun|Der Junge ärgert seine Schwester.|The boy annoys his sister.
 46|31|conj|aber||Er wollte kommen, aber er konnte nicht.|but|but|He wanted to come, but he couldn’t.|conjunction|Die Sonne scheint, aber es ist trotzdem kalt.|The sun is shining, but it’s still cold.
-47|31|part|aber||Aber sicher kommt er heute noch.|||But surely he is still coming today.|particle|Das ist aber nicht nett von Tim.|That’s not nice of Tim.
+47|31|part|aber||Du siehst aber ziemlich müde aus heute.|||You look quite tired today.|particle|Das ist aber nicht nett von Tim.|That’s not nice of Tim.
 48|32|pron|man||Man sollte immer ehrlich sein.|one, you, they|one|One should always be honest.|pronoun|Hier erzählt man sich Geschichten.|They tell stories here.
 49|33|adv|noch||Er hat noch nicht entschieden.|still, yet|yet|He hasn’t decided yet.|adverb|Habt ihr sonst noch Fragen?|Do you still have any questions?
 50|34|prep|nach||Nach der Schule gehe ich nach Hause.|after, toward|after|After school, I go home.|preposition|Nach dem Mittagessen gehen wir spazieren.|After lunch we go for a walk.
@@ -79,10 +79,10 @@
 77|59|pron|andere|andere, anderer, anderes|Der andere blieb im Auto sitzen.|other|other|The other stayed in the car.|pronoun|Es gibt noch einen anderen Weg zum Bahnhof.|There’s another way to the station.
 78|60|verb|sollen|sollen, soll, sollte, hat gesollt|Du sollst deine Hausaufgaben machen.|should, ought to|should|You should do your homework.|verb|Ihr sollt in der Bibliothek leise sein.|You should be quiet in the library.
 79|61|adv|schon||Er hat schon angefangen zu essen.|already|already|He has already started eating.|adverb|Günter arbeitet schon seit 30 Jahren hier.|Günter has been working here for 30 years now.
-80|61|part|schon||Das ist schon eine gute Idee, oder?|||That’s really a good idea, isn’t it?|particle|Die Karten für das Theater sind schon sehr teuer.|The tickets for the theater are really expensive.
-81|62|verb|kommen|kommen, kommt, kam, ist gekommen|Er kam gestern aus dem Urlaub zurück.|to come|to come|He came back from vacation yesterday.|verb|Wir kommen morgen Abend zu dir.|We’ll come to your place tomorrow night.
+80|61|part|schon||Das ist schon eine gute Idee, oder?|||That’s a good idea, isn’t it?|particle|Die Karten für das Theater sind schon sehr teuer.|The tickets for the theater are really expensive.
+81|62|verb|kommen|kommen, kommt, kam, ist gekommen|Wann kommst du heute nach Hause?|to come|to come|When are you coming home today?|verb|Wir kommen morgen Abend zu dir.|We’ll come to your place tomorrow night.
 82|63|pron|mir||Er hat mir die Wahrheit gesagt.|me|me|He told me the truth.|pronoun|Gibst du mir dein Fahrrad?|Are you giving me your bike?
-83|64|adv|immer||Er kommt immer zu spät nach Hause.|always|always|He always comes home late.|adverb|Zum Frühstück esse ich immer eine Scheibe Brot.|I always have a slice of bread for breakfast.
+83|64|adv|immer||Ich trinke immer Kaffee am Morgen.|always|always|I always drink coffee in the morning.|adverb|Zum Frühstück esse ich immer eine Scheibe Brot.|I always have a slice of bread for breakfast.
 84|65|pron (relexive, in accusative case)|mich||Ich habe mich für den Job beworben.|||I applied for the job.|pronoun|Nach der Schule lege ich mich immer kurz ins Bett.|After school I always lie down in bed for a while.
 85|65|pron|mich||Er hat mich einfach ignoriert.|me|me|He simply ignored me.|pronoun|Timo setzt sich neben mich an den Tisch.|Timo sits down next to me at the table.
 86|66|verb|gehen|gehen, geht, ging, ist gegangen|Wir müssen jetzt wirklich gehen.|to go|to go|We really need to go now.|verb|Wir gehen heute ins Theater.|We’re going to the theater today.
@@ -95,7 +95,7 @@
 93|72|adv|jetzt||Jetzt ist der perfekte Moment.|now|now|Now is the perfect moment.|adverb|Wir müssen jetzt ins Bett.|We have to go to bed now.
 94|73|adv|doch||Er wollte kommen, doch wurde krank.|however, but|but|He wanted to come, but he got sick.|adverb|Heute scheint die Sonne, doch ich bleibe zu Hause.|Today the sun is shining, but I’m staying at home.
 95|73|part|doch||Komm doch schnell, es regnet bald!|||Come quickly, it will rain soon!|particle|Er kommt doch nicht zum Spiel.|He’s not coming to the game after all.
-96|74|adv|wieder||Wir treffen uns wieder am Freitag.|again|again|We will meet again on Friday.|adverb|Lea kommt wieder zu spät.|Lea’s late again.
+96|74|adv|wieder||Er hat wieder das Gleiche gesagt.|again|again|He said the same thing again.|adverb|Lea kommt wieder zu spät.|Lea’s late again.
 97|75|pron|uns||Wir treffen uns morgen um acht Uhr.|us, we|we|We are meeting tomorrow at eight o’clock.|pronoun|Katharina besucht Max und mich, wir freuen uns darauf.|Katharina is visiting Max and me, we are looking forward to it.
 98|76|adj|gut||Das Wetter ist heute wirklich gut.|good|good|The weather is really good today.|adjective|Die Blumen riechen gut.|The flowers smell good.
 99|77|conj|bis||Warte hier, bis ich zurück bin.|until|until|Wait here until I get back.|conjunction|Ich warte hier, bis er kommt.|I’ll wait here until he comes.
