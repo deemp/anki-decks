@@ -51,7 +51,7 @@ column_image_url = "image_url"
 column_image_file = "image_file"
 images_dir = f"{out}/images"
 
-f_deck = mk_path("deck")
+f_deck = mk_path("../deck")
 
 # %%
 
@@ -354,6 +354,6 @@ df_reordered.head()
 
 # %%
 
-# Export the deck
+# Compose the deck
 
 df_reordered.to_csv(f_deck, sep="|", quoting=3)
