@@ -1,0 +1,17 @@
+.context {
+  font-family: arial;
+  font-size: 20px;
+  text-align: center;
+  opacity: 0.4;
+}
+
+.main {
+  font-family: arial;
+  font-size: 30px;
+  text-align: center;
+}
+
+.card {
+  color: black;
+  background-color: white;
+}
