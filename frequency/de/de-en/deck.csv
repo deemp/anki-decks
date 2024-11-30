@@ -62,7 +62,7 @@
 60|44|conj|um||Er arbeitet, um Geld zu verdienen.|in order to|in order to|He works in order to earn money.|conjunction|Ich arbeite auch am Wochenende, um meinen Urlaub bezahlen zu können.|I also work on weekends in order to pay for my vacation.
 61|44|prep|um||Er läuft jeden Morgen um den See.|around, at|around|He runs around the lake every morning.|preposition|Die Kinder laufen um den Baum.|The children run around the tree.
 62|45|part|ja||Ja, ich komme sofort nach Hause.|yes, of course|yes|Yes, I am coming home right away.|particle|Ja, ich verstehe das.|Yes, I understand that.
-63|46|pron|keine|keine, keiner, keines|Keiner hat heute die Aufgabe erledigt.|no|no|No one completed the task today.|pronoun|Sie haben keine Chance, das Spiel zu gewinnen.|They have no chance of winning the game.
+63|46|pron|keine|keine, keiner, keines|Keiner hat heute die Aufgabe erledigt.|no (one)|no (one)|No one completed the task today.|pronoun|Sie haben keine Chance, das Spiel zu gewinnen.|They have no chance of winning the game.
 64|47|prep|über||Er sprang über den Zaun schnell.|above, over, about|over|He quickly jumped over the fence.|preposition|Über mir fliegt ein Flugzeug.|There’s a plane flying above me.
 65|48|adv|da||Da liegt das Buch auf dem Tisch.|there|there|There lies the book on the table.|adverb|Da hinten steht mein Auto.|There’s my car over there.
 66|48|conj|da||Er geht nach Hause, da es spät ist.|because|because|He is going home because it is late.|conjunction|Da ich eine neue Arbeit habe, ziehe ich in eine andere Stadt.|Because I have a new job, I’m moving to another city.
@@ -116,10 +116,10 @@
 114|89|prep|unter||Der Hund schläft unter dem Tisch.|under|under|The dog is sleeping under the table.|preposition|Unter der Brücke fließt ein Fluss.|Under the bridge a river flows.
 115|90|der|der Mensch|die Menschen|Der Mensch ist ein soziales Wesen.|human being|human being|The human being is a social creature.|noun|Es gibt über sieben Milliarden Menschen auf der Welt.|There are over seven billion human beings in the world.
 116|91|pron|ihm||Ich habe ihm das Buch gegeben.|him|him|I gave him the book.|pronoun|Tom zieht zu Anna und sie gibt ihm die Schlüssel zu ihrer Wohnung.|Tom moves in with Anna and she gives him the keys to her apartment.
-117|92|pron|ihn||Er sah ihn gestern in der Stadt.|him|him|He saw him in the city yesterday.|pronoun|Ich treffe ihn immer am Donnerstag in der Universität.|I always meet him on Thursday at the university.
+117|92|pron|ihn||Sie sah ihn gestern in der Stadt.|him|him|She saw him in the city yesterday.|pronoun|Ich treffe ihn immer am Donnerstag in der Universität.|I always meet him on Thursday at the university.
 118|93|conj|denn||Er ging nicht, denn es regnete.|because|because|He didn’t go because it was raining.|conjunction|Heute sind alle Geschäfte geschlossen, denn es ist Sonntag.|Today all shops are closed because it is Sunday.
 119|93|part|denn||Was machst du denn am Wochenende?|anyway|anyway|What are you doing on the weekend, anyway?|particle|Was sagt denn deine Mutter dazu?|What does your mother say about that anyway?
-120|94|das|das Beispiel|die Beispiele|Das Beispiel zeigt es deutlich.|example|example|The example shows it clearly.|noun|Das Beispiel passt nicht gut zu diesem Argument.|The example does not fit this argument well.
+120|94|das|das Beispiel|die Beispiele|Kannst du ein weiteres Beispiel geben?|example|example|Can you give another example?|noun|Das Beispiel passt nicht gut zu diesem Argument.|The example does not fit this argument well.
 121|95|adj|erste|erste, erster, erstes|Der erste Schnee ist gefallen.|first|first|The first snow has fallen.|adjective|Jonah feiert heute seinen ersten Geburtstag.|Jonah celebrates his first birthday today.
 122|96|die|die Zeit|die Zeiten|Die Zeit verging sehr schnell.|time|time|Time passed very quickly.|noun|Jannik braucht viel Zeit für seine Aufgabe.|Jannik needs a lot of time for his task.
 123|97|adj|lang||Der lange Weg führt durch den Wald.|long|long|The long path leads through the forest.|adjective|Mit ihren langen Beinen rennt sie schneller als Max.|With her long legs she runs faster than Max.
@@ -136,7 +136,7 @@
 134|105|prep|zwischen||Zwischen den Bäumen war es dunkel.|between|between|It was dark between the trees.|preposition|Mein Fahrrad steht zwischen den Bäumen.|My bicycle is standing between the trees.
 135|106|num|drei||Drei Freunde gingen zusammen ins Kino.|three|three|Three friends went to the cinema together.|number|Im Deutschen gibt es drei Artikel, der, die und das.|In German there are three articles, “der”, “die”, and “das”.
 136|107|verb|liegen|liegen, liegt, lag, hat gelegen|Das Buch liegt auf dem Schreibtisch.|to lie|to lie|The book is lying on the desk.|verb|Der Hund liegt unter dem Stuhl.|The dog is lying under the chair.
-137|108|pron|wo||Wo liegt der Schlüssel, den du suchst?|where|where|Where is the key that you are looking for?|pronoun|Wo bist du geboren?|Where were you born?
+137|108|pron|wo||Ich weiß nicht, wo meine Tasche ist.|where|where|I don’t know where my bag is.|pronoun|Wo bist du geboren?|Where were you born?
 138|109|pron|nichts|nichts, nix|Nichts ist für immer verloren.|nothing|nothing|Nothing is lost forever.|pronoun|Wenn es dunkel ist, kann man nichts sehen.|When it’s dark, you can see nothing.
 139|110|adj|klein||Das Haus ist klein, aber gemütlich.|small, little|small|The house is small but cozy.|adjective|Martin hat eine kleine Schwester.|Martin has a little sister.
 140|111|der|der Tag|die Tage|Der Tag begann mit Sonnenschein.|day|day|The day began with sunshine.|noun|Eine Woche hat sieben Tage.|A week has seven days.
@@ -145,7 +145,7 @@
 143|113|verb|bleiben|bleiben, bleibt, blieb, ist geblieben|Er blieb die ganze Nacht wach.|to stay, remain|to stay|He stayed awake all night.|verb|Anna möchte für ein Jahr im Ausland bleiben.|Anna wants to stay abroad for a year.
 144|114|adv|nun|nun, nu|Nun beginnen wir mit der Arbeit.|now|now|Now we start with the work.|adverb|Nun habt ihr euch euren Urlaub verdient.|Now you’ve earned your vacation.
 145|115|conj|sondern||Er ist nicht faul, sondern fleißig.|but (on the contrary)|but (on the contrary)|He is not lazy but diligent.|conjunction|Nicht er mag Fußball, sondern seine Schwester.|He doesn’t like soccer, but his sister does.
-146|116|adv|heute||Heute müssen wir viel erledigen.|today|today|Today we have a lot to do.|adverb|Heute ist mein Geburtstag.|Today is my birthday.
+146|116|adv|heute||Heute müssen wir viel erledigen.|today|today|Today we have a lot to get done.|adverb|Heute ist mein Geburtstag.|Today is my birthday.
 147|117|pron|beide||Beide trafen sich gestern wieder.|both|both|Both met again yesterday.|pronoun|Er hat zwei Kinder und liebt sie beide.|He has two children and loves them both.
 148|118|adj|hoch||Der Baum ist sehr hoch gewachsen.|high, tall|tall|The tree has grown very tall.|adjective|Diese Berge sind sehr hoch.|These mountains are very high.
 149|119|pron|damit||Er ist endlich zufrieden damit.|with it|with it|He is finally content with it.|pronoun|Ich nehme den Wagen und fahre damit zur Arbeit.|I take the car and drive to work with it.
@@ -164,10 +164,10 @@
 162|130|prep|seit||Ich wohne hier seit drei Jahren.|since, for|for|I have lived here for three years.|preposition|Ihre Schwester ist seit drei Monaten im Ausland.|Her sister has been abroad for three months.
 163|131|adj|einfach||Das einfache Problem war schnell gelöst.|simple, easy|simple|The simple problem was quickly solved.|adjective|Die Prüfung war sehr einfach.|The exam was very simple.
 164|131|part|einfach||Das war einfach nicht das Richtige.|simply|simply|That simply wasn’t the right thing.|particle|Du musst einfach nur geradeaus gehen.|You must simply walk straight ahead.
-165|132|adv|erst||Sie kam erst um Mitternacht nach Hause.|first, only, not until|not until|She didn’t come home until midnight.|adverb|Erst solltest du deine Eltern fragen.|First you should ask your parents.
+165|132|adv|erst||Sie kam erst um Mitternacht nach Hause.|first, only, not until|only|She came home only at midnight.|adverb|Erst solltest du deine Eltern fragen.|First you should ask your parents.
 166|132|part|erst||Ich habe es erst gestern erfahren.|||I only found out about it yesterday.|particle|Jetzt geht es erst richtig los!|It’s just beginning!
 167|133|das|das Kind|die Kinder|Das Kind spielt im Sandkasten.|child|child|The child is playing in the sandbox.|noun|Das Kind geht gern zur Schule.|The child likes going to school.
-168|134|das|das Land|die Länder|Das Land ist sehr weit und grün.|land, country, state|land|The land is very wide and green.|noun|Welches Land würdest du gern besuchen?|Which country would you like to visit?
+168|134|das|das Land|die Länder|Im Land herrscht eine ernste Krise|land, country, state|land|There is a serious crisis in the country.|noun|Welches Land würdest du gern besuchen?|Which country would you like to visit?
 169|135|verb|stellen|stellen, stellt, stellte, hat gestellt|Ich stelle die Vase auf den Tisch.|to place, set, put|to place|I place the vase on the table.|verb|Er stellt sein Fahrrad in den Garten.|He puts his bike in the garden.
 170|136|verb|zeigen|zeigen, zeigt, zeigte, hat gezeigt|Er zeigt mir den Weg zur Stadt.|to show|to show|He shows me the way to the city.|verb|Können Sie mir den Weg zeigen?|Could you show me the way?
 171|137|adj|natürlich||Der Fluss folgt seinem natürlichen Lauf.|natural|natural|The river follows its natural course.|adjective|Ich beobachte wilde Tiere in ihrer natürlichen Umgebung.|I observe wild animals in their natural environment.
@@ -181,37 +181,37 @@
 179|144|adj|wichtig||Pünktlichkeit ist im Job wichtig.|important|important|Punctuality is important in the job.|adjective|Er hat eine wichtige Frage.|He has an important question.
 180|145|adv|vielleicht||Vielleicht sehen wir uns nächste Woche.|perhaps, maybe|perhaps|Perhaps we’ll see each other next week.|adverb|Vielleicht gibt es noch einen anderen Weg.|Maybe there’s another way.
 181|145|part|vielleicht||Das war vielleicht ein Abenteuer!|||That was quite an adventure!|particle|Du kannst vielleicht laut sein!|You can be quite loud!
-182|146|verb|hören|hören, hört, hörte, hat gehört|Ich höre oft Musik beim Arbeiten.|to hear|to hear|I often hear music while working.|verb|Kannst du mich hören?|Can you hear me?
+182|146|verb|hören|hören, hört, hörte, hat gehört|Ich habe einen Vogel singen gehört.|to hear, to listen (to)|to hear|I heard a bird sing.|verb|Kannst du mich hören?|Can you hear me?
 183|147|das|das Haus|die Häuser|Das Haus steht leer seit Monaten.|house|house|The house has been empty for months.|noun|Meine Eltern wohnen in einem kleinen Haus.|My parents live in a small house.
 184|148|part|nein|nein, nee, nö|Nein, das kann nicht wahr sein!|no|no|No, that can’t be true!|particle|Nein, ich habe das nicht verstanden.|No, I didn’t understand that.
 185|149|pron|wer||Wer hat den Schlüssel genommen?|who, whoever|who|Who took the key?|pronoun|Wer ist da?|Who is there?
-186|150|pron|dazu||Er hat nichts weiter dazu gesagt.|in addition, furthermore, to that, for that|to that|He didn’t say anything more about that.|pronoun|Ich koche heute und brauche dazu Eier.|I’m cooking tonight and I need eggs for that.
+186|150|pron|dazu||Sie kochte und deckte dazu den Tisch.|in addition, furthermore, to that, for that|in addition|She cooked and, in addition, set the table.|pronoun|Ich koche heute und brauche dazu Eier.|I’m cooking tonight and I need eggs for that.
 187|151|adj|eigentlich||Er ist der eigentliche Besitzer.|actual, real|actual|He is the actual owner.|adjective|Steffen ist der eigentliche Chef der Firma, aber er ist selten da.|Steffen is the real boss of the company, but he’s rarely there.
 188|151|adv|eigentlich||Eigentlich wollte ich früher kommen.|actually|actually|Actually, I wanted to come earlier.|adverb|Eigentlich mag ich kein Eis, aber ich esse es trotzdem.|Actually, I don’t like ice cream, but I eat it anyway.
 189|151|part|eigentlich||Er sollte eigentlich schon hier sein.|||He should actually be here already.|particle|Was studiert deine Schwester eigentlich genau?|What exactly is your sister studying?
 190|152|adj|letzte|letzte, letzter, letztes|Die letzte Chance ist nun vorbei.|last|last|The last chance is now gone.|adjective|Das ist das letzte Auto, das ich für meinen Sohn kaufe, das nächste bezahlt er selbst.|This is the last car I’m buying for my son; the next one he’ll be paying for himself.
 191|153|verb|fragen|fragen, fragt, fragte, hat gefragt|Er fragte nach dem Weg zum Bahnhof.|to ask|to ask|He asked for the way to the train station.|verb|Die Touristen fragen nach dem Weg.|The tourists ask for directions.
-192|154|der|der Herr|die Herren|Der Herr Müller ist heute nicht im Büro.|Mr.|Mr.|Mr. Müller is not in the office today.|noun|Unser neuer Lehrer heißt Herr Schmidt.|Our new teacher is called Mr. Schmidt.
+192|154|der|der Herr|die Herren|Herr Müller ist heute nicht im Büro.|Mr.|Mr.|Mr. Müller is not in the office today.|noun|Unser neuer Lehrer heißt Herr Schmidt.|Our new teacher is called Mr. Schmidt.
 193|155|verb|halten|halten, hält, hielt, hat gehalten|Er hält das Seil fest in der Hand.|to stop, hold|to hold|He holds the rope firmly in his hand.|verb|Er hält ein Buch in seinen Händen.|He’s holding a book in his hands.
 194|156|verb|glauben|glauben, glaubt, glaubte, hat geglaubt|Er glaubt an das Gute im Menschen.|to believe|to believe|He believes in the good in people.|verb|Sie glaubt ihm nicht.|She doesn’t believe him.
 195|157|die|die Frage|die Fragen|Die Frage blieb unbeantwortet.|question|question|The question remained unanswered.|noun|Die Studierenden stellen zu dem neu eingeführten Thema viele Fragen.|The students ask many questions about the newly introduced topic.
-196|158|verb|gelten|gelten, gilt, galt, hat gegolten|Das Angebot gilt nur für heute.|to be valid|to be valid|The offer is only valid for today.|verb|Die Karte für den Zug gilt nur heute.|The ticket for the train is only valid today.
+196|158|verb|gelten|gelten, gilt, galt, hat gegolten|Das Angebot gilt nur für heute.|to be valid|to be valid|The offer is valid only for today.|verb|Die Karte für den Zug gilt nur heute.|The ticket for the train is only valid today.
 197|159|adj|gerade||Er hat die Linie gerade gezogen.|straight|straight|He drew the line straight.|adjective|Ich überhole nur auf einer geraden Strecke.|I only pass other cars on a straight stretch.
-198|159|adv|gerade||Er kam gerade noch rechtzeitig.|just, just now, right now|just|He arrived just in time.|adverb|Das Geschäft schließt gerade.|The store is closing right now.
+198|159|adv|gerade||Wir haben gerade den Film gesehen.|just, just now, right now|just|We just watched the movie.|adverb|Das Geschäft schließt gerade.|The store is closing right now.
 199|160|verb|folgen|folgen, folgt, folgte, ist gefolgt|Der Hund folgte seinem Besitzer.|to follow|to follow|The dog followed its owner.|verb|Der Hund folgt meinem Vater.|The dog follows my father.
 200|161|verb|sprechen|sprechen, spricht, sprach, hat gesprochen|Wir haben lange miteinander gesprochen.|to speak|to speak|We spoke with each other for a long time.|verb|Der Student möchte mit dem Professor sprechen.|The student would like to speak to the professor.
 201|162|verb|führen|führen, führt, führte, hat geführt|Er führt die Gruppe durch den Wald.|to lead|to lead|He leads the group through the forest.|verb|Jakob führt uns durch das Museum.|Jakob leads us through the museum.
 202|163|verb|bringen|bringen, bringt, brachte, hat gebracht|Er brachte das Paket zur Post.|to bring, take|to take|He took the package to the post office.|verb|Der Mann bringt mir einen Kaffee an meinen Tisch.|The man brings me a coffee at my table.
-203|164|die|die Welt|die Welten|Die Welt dreht sich immer weiter.|world|world|The world keeps on turning.|noun|Ich möchte gerne um die Welt reisen.|I would like to travel around the world.
+203|164|die|die Welt|die Welten|Die Welt dreht sich immer weiter.|world|world|The world keeps turning.|noun|Ich möchte gerne um die Welt reisen.|I would like to travel around the world.
 204|165|adv|gar||Er war gar nicht so überrascht.|at all|at all|He wasn’t surprised at all.|adverb|Das ist gar kein Problem.|That’s no problem at all.
 205|166|adj|eigen||Er brachte sein eigenes Essen mit.|own|own|He brought his own food.|adjective|Jeder Mensch hat ihren eigenen Charakter.|Everyone has their own character.
-206|167|adj|genau||Der genaue Termin steht noch aus.|exact|exact|The exact date is yet to be set.|adjective|Die genaue Zeit ist 10:43 Uhr.|The exact time is 10:43.
+206|167|adj|genau||Ich habe den genauen Termin vergessen.|exact|exact|I forgot the exact date.|adjective|Die genaue Zeit ist 10:43 Uhr.|The exact time is 10:43.
 207|168|verb|mögen|mögen, mag, mochte, hat gemocht|Er mochte den Kuchen sehr gern.|to like|to like|He really liked the cake.|verb|Mein Bruder mag meinen Freund nicht.|My brother doesn’t like my boyfriend.
-208|169|adj|spät||Es ist schon zu spät für eine Antwort.|late|late|It is already too late for a response.|adjective|Es ist schon spät.|It’s getting late.
-209|169|adj|spät||Die späte Ankunft sorgte für Unruhe.|later|later|The later arrival caused unrest.|adjective|Ich komme später zu dir.|I’ll be coming over later.
+208|169|adv|spät||Es tut mir leid, dass ich so spät bin.|late|late|I'm sorry that I'm so late.|adverb|Es ist schon spät.|It’s getting late.
+209|169|adj|spät||Wir haben einen späten Flug gebucht.|late|late|We booked a late flight.|adjective|Ich komme später zu dir.|I’ll be coming over later.
 210|170|adv|bereits||Er ist bereits auf dem Weg hierher.|already|already|He is already on his way here.|adverb|Du musst nicht noch einkaufen gehen, ich habe es bereits erledigt.|You don’t have to go shopping; I have already done it.
-211|171|adj|möglich||Bei uns ist fast alles möglich.|possible|possible|Almost anything is possible with us.|adjective|Ich besuche meine Eltern so oft wie möglich.|I visit my parents as often as possible.
-212|171|adv|möglich||Wir machen es so schnell wie möglich.|as . . . as possible, if possible|as . . . as possible|We will do it as quickly as possible.|adverb|Die Aufgabe soll möglichst schnell erledigt werden.|The task should be completed as quickly as possible.
+211|171|adj|möglich||Es gibt keine möglichen Ausreden mehr.|possible|possible|There are no possible excuses left.|adjective|Ich besuche meine Eltern so oft wie möglich.|I visit my parents as often as possible.
+212|171|adv|so . . . wie möglich||Wir machen es so schnell wie möglich.|as . . . as possible, if possible|as . . . as possible|We will do it as quickly as possible.|adverb|Die Aufgabe soll möglichst schnell erledigt werden.|The task should be completed as quickly as possible.
 213|172|das|das Prozent|die Prozente|Das Produkt ist zehn Prozent teurer.|percent|percent|The product is ten percent more expensive.|noun|Für Studenten kostet das Gericht 20 Prozent weniger.|For students, the meal costs 20 percent less.
 214|173|conj|während||Während ich lese, höre ich Musik.|while, whereas|while|While I read, I listen to music.|conjunction|Luisa arbeitet, während er das Essen vorbereitet.|Luisa is working while he is preparing the food.
 215|173|prep|während||Während des Tages arbeite ich.|during, while|during|During the day, I work.|preposition|Während man isst, soll man nicht reden.|You shouldn’t talk while you’re eating.
@@ -223,9 +223,9 @@
 221|179|verb|brauchen|brauchen, braucht, brauchte, hat gebraucht|Wir brauchen mehr Informationen.|to need|to need|We need more information.|verb|Brauchst du Hilfe?|Do you need any help?
 222|180|die|die Hand|die Hände|Er hält die Hand seiner Mutter.|hand|hand|He holds his mother’s hand.|noun|Ich schreibe mit meiner rechten Hand.|I write with my right hand.
 223|181|adv|etwa||Etwa zehn Leute kamen zur Party.|about, approximately|about|About ten people came to the party.|adverb|Die Führung dauert etwa eine Stunde.|The tour lasts about one hour.
-224|181|part|etwa||Das ist eben nicht so einfach.|after all|after all|That is not so simple after all.|particle|Hat er etwa noch nicht angerufen?|He hasn’t called yet after all?
+224|181|part|etwa||Warum hast du etwa das gemacht?|(expressing surprise)|(expressing surprise)|Why (on earth) did you do that?|particle|Hat er etwa noch nicht angerufen?|He hasn’t called yet after all?
 225|182|adj|weitere|weitere, weiterer, weiteres|Ein weiterer Vorschlag wurde gemacht.|additional, further|further|A further suggestion was made.|adjective|Weitere Informationen finden Sie im Internet.|Further information can be found on the internet.
-226|183|das|das Ende|die Enden|Das Ende des Films war überraschend.|end|end|The end of the film was surprising.|noun|Das Ende des Romans ist wirklich spannend.|The end of the novel is really exciting.
+226|183|das|das Ende|die Enden|Am Ende des Tages sind wir alle müde.|end|end|At the end of the day, we are all tired.|noun|Das Ende des Romans ist wirklich spannend.|The end of the novel is really exciting.
 227|184|verb|schreiben|schreiben, schreibt, schrieb, hat geschrieben|Er schreibt einen Brief an seine Mutter.|to write|to write|He is writing a letter to his mother.|verb|Er schreibt einen Brief an seine Freundin.|He’s writing a letter to his girlfriend.
 228|185|pron|solch||Solch ein Verhalten ist unakzeptabel.|such|such|Such behavior is unacceptable.|pronoun|Unter solchen Bedingungen kann ich nicht arbeiten.|I can’t work in such conditions.
 229|186|adv|nie||Er hat nie wieder daran gedacht.|never|never|He never thought about it again.|adverb|Das hast du mir nie erzählt.|You never told me that.
@@ -233,10 +233,10 @@
 231|188|adj|schön||Am See war es gestern sehr schön.|beautiful, pleasant, good|beautiful|It was very beautiful at the lake yesterday.|adjective|Von hier aus hat man einen schönen Blick auf die Stadt.|From here you have a beautiful view of the city.
 232|189|adj|wirklich||Das wirkliche Problem liegt woanders.|real, actual|real|The real problem lies elsewhere.|adjective|Sein Besuch ist eine wirkliche Überraschung.|His visit is a real surprise.
 233|189|adv|wirklich||Das war wirklich eine Überraschung.|really, actually|really|That was really a surprise.|adverb|Ich mag dich wirklich gern.|I really like you.
-234|190|pron|denen||Er hilft denen, die ihn brauchen.|whom, that|whom|He helps those whom need him.|pronoun|Das sind Klara und Lisa, mit denen ich zusammen in einer Wohnung lebe.|This is Klara and Lisa, with whom I live in an apartment.
+234|190|pron|denen||Er hilft denen, die ihn brauchen.|whom, who, that|whom|He helps those who need him.|pronoun|Das sind Klara und Lisa, mit denen ich zusammen in einer Wohnung lebe.|This is Klara and Lisa, with whom I live in an apartment.
 235|191|verb|nennen|nennen, nennt, nannte, hat genannt|Sie nannten ihre Tochter Maria.|to name, call|to name|They named their daughter Maria.|verb|Mein Freund heißt Alexander, aber alle nennen ihn Alex.|My friend’s name ist Alexander, but everybody calls him Alex.
 236|192|adv|warum||Warum fragst du immer wieder dasselbe?|why|why|Why do you keep asking the same thing?|adverb|Warum hast du mich angerufen?|Why did you call me?
-237|193|verb|ziehen|ziehen, zieht, zog, hat gezogen|Er zog die Tür leise hinter sich zu.|to pull, move|to pull|He quietly pulled the door shut behind him.|verb|Man muss an der Tür ziehen, um sie zu öffnen.|You have to pull on the door to open it.
+237|193|verb|ziehen|ziehen, zieht, zog, hat gezogen|Ich ziehe nächste Woche nach Berlin.|to pull, move|to move|I’m moving to Berlin next week.|verb|Man muss an der Tür ziehen, um sie zu öffnen.|You have to pull on the door to open it.
 238|194|das|das Wort|die Wörter|Das Wort hat viele Bedeutungen.|word|word|The word has many meanings.|noun|Ich verstehe kein Wort.|I can’t understand a word.
 239|195|pron|darauf|darauf, drauf|Die Katze sprang plötzlich darauf.|on it, to it|on it|The cat jumped on it suddenly.|pronoun|Das Geschenk ist offensichtlich für Marlene, ihr Name steht darauf.|This gift’s clearly for Marlene; it has her name on it.
 240|196|adv|eben|eben, ebend|Ich habe ihn eben an der Tür gesehen.|just, now|just|I just saw him at the door.|adverb|Ich versuche, ihn eben auf dem Handy zu erreichen.|I am just trying to reach him on his mobile phone.
@@ -250,7 +250,7 @@
 248|203|adj|schnell||Der schnelle Läufer gewann das Rennen.|fast|fast|The fast runner won the race.|adjective|Mario kann sehr schnell rennen.|Mario can run very fast.
 249|204|die|die Stadt|die Städte|Die Stadt leuchtet in der Nacht hell.|city, town|city|The city lights up brightly at night.|noun|London, Paris und Berlin sind große Städte.|London, Paris, and Berlin are big cities.
 250|205|verb|spielen|spielen, spielt, spielte, hat gespielt|Die Kinder spielen fröhlich im Park.|to play|to play|The children play happily in the park.|verb|Die Kinder spielen im Garten.|The children are playing in the garden.
-251|206|adv|zwar||Er kommt zwar spät, aber er kommt.|admittedly, to be precise|admittedly|He comes late, admittedly, but he does come.|adverb|Wir kommen am Nachmittag an, und zwar um 14:37 Uhr.|We’ll arrive in the afternoon, at 2:37 pm to be precise.
+251|206|adv|zwar . . . aber||Das Angebot ist zwar gut, aber teuer.|although, admittedly, to be precise|although|Although the offer is good, it's expensive.|adverb|Wir kommen am Nachmittag an, und zwar um 14:37 Uhr.|We’ll arrive in the afternoon, at 2:37 pm to be precise.
 252|207|der|der Euro|die Euros|Der Euro ist eine stabile Währung.|euro (unit of currency)|euro (unit of currency)|The euro is a stable currency.|noun|In fast allen Ländern der EU kann man mit Euro bezahlen.|In almost all EU countries you can pay in euros.
 253|208|die|die Arbeit|die Arbeiten|Die Arbeit begann um acht Uhr.|work|work|The work began at eight o’clock.|noun|Es liegt noch viel Arbeit vor uns.|We still have a lot of work ahead of us.
 254|209|die|die Million (Mio.)|die Millionen|Der Gewinn beträgt eine Million Euro.|million|million|The profit amounts to one million euros.|noun|Die Stadt Tokio hat ca. 35 Millionen Einwohner.|The city of Tokyo has about 35 million inhabitants.
@@ -265,13 +265,13 @@
 263|218|die|die Mutter|die Mütter|Die Mutter umarmte ihr Kind liebevoll.|mother|mother|The mother lovingly embraced her child.|noun|Meine Mutter ist eine starke Frau.|My mother is a strong woman.
 264|219|die|die Woche|die Wochen|Die Woche ging sehr schnell vorbei.|week|week|The week passed very quickly.|noun|Eine Woche hat sieben Tage.|A week has seven days.
 265|220|der|der Weg|die Wege|Der Weg führte direkt zum Ziel.|path, way|path|The path led directly to the goal.|noun|Der Weg entlang des Flusses ist sehr schön.|The path along the river is very beautiful.
-266|221|adv|weiter||Er ging weiter, ohne sich umzusehen.|further|further|He walked further without looking back.|adverb|Weitere Informationen zu diesem Thema stehen im Internet.|Further information on this topic is available on the internet.
+266|221|adv|weiter||Der Artikel enthält weitere Details.|further|further|The article contains further details.|adverb|Weitere Informationen zu diesem Thema stehen im Internet.|Further information on this topic is available on the internet.
 267|222|das|das Auge|die Augen|Sie hat ein blaues Auge nach dem Sturz.|eye|eye|She got a black eye after the fall.|noun|Er hat schöne blaue Augen.|He has beautiful blue eyes.
 268|223|adv|oft||Er besucht sie oft am Wochenende.|often|often|He often visits her on the weekend.|adverb|Sie besucht ihre Oma oft.|She visits her grandma often.
 269|224|die (pl)|die Leute (pl)|die Leute (pl)|Die Leute gingen schweigend fort.|people|people|The people left in silence.|noun|Ich treffe auf der Party viele nette Leute.|I meet a lot of nice people at the party.
-270|225|adv|allerdings||Allerdings war die Entscheidung richtig.|though, indeed, certainly|indeed|Indeed, the decision was correct.|adverb|Das ist allerdings eine interessante Frage.|That is certainly an interesting question.
+270|225|adv|allerdings||Es regnet, allerdings nicht stark.|though, indeed, certainly|though|It’s raining, though not heavily.|adverb|Das ist allerdings eine interessante Frage.|That is certainly an interesting question.
 271|226|adv|sogar||Sogar der Hund versteht das Signal.|even, in fact|even|Even the dog understands the signal.|adverb|Sogar du kannst die Welt ein bisschen verbessern!|Even you can make the world a little better!
-272|227|adv|jedoch||Er kam, jedoch war er zu spät.|however|however|He came, however, he was too late.|adverb|Mütter haben viel Kraft, können jedoch nicht alles allein schaffen.|Mothers have a lot of strength; however, they can’t do everything on their own.
+272|227|adv|jedoch||Er kam, jedoch war er zu spät.|however|however|He came; however, he was too late.|adverb|Mütter haben viel Kraft, können jedoch nicht alles allein schaffen.|Mothers have a lot of strength; however, they can’t do everything on their own.
 273|228|verb|setzen|setzen, setzt, setzte, hat gesetzt|Er setzt das Glas auf den Tisch.|to set, place, put|to place|He places the glass on the table.|verb|Er setzt das Kind auf den Stuhl.|He puts the child in the chair.
 274|228|verb|setzen|setzen, setzt, setzte, hat gesetzt|Er setzte sich leise auf den Stuhl.|to sit down|to sit down|He sat down quietly on the chair.|verb|Bitte setzen Sie sich.|Please sit down.
 275|229|adv|deshalb||Deshalb nahm er nicht am Treffen teil.|therefore|therefore|Therefore, he didn’t attend the meeting.|adverb|Es gibt bald Regen, deshalb sollten wir ins Haus gehen.|It’s going to rain; therefore, we should go into the house.
