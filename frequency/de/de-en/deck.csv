@@ -180,7 +180,7 @@
 178|143|verb|dürfen|dürfen, darf, durfte, hat gedurft|Er durfte nicht ohne Erlaubnis gehen.|to be allowed to may|to be allowed to|He was not allowed to leave without permission.|verb|Darf ich heute Abend mit Lisa ins Kino?|May I go to the movies with Lisa tonight?
 179|144|adj|wichtig||Pünktlichkeit ist im Job wichtig.|important|important|Punctuality is important in the job.|adjective|Er hat eine wichtige Frage.|He has an important question.
 180|145|adv|vielleicht||Vielleicht sehen wir uns nächste Woche.|perhaps, maybe|perhaps|Perhaps we’ll see each other next week.|adverb|Vielleicht gibt es noch einen anderen Weg.|Maybe there’s another way.
-181|145|part|vielleicht||Das war vielleicht ein Abenteuer!|||That was quite an adventure!|particle|Du kannst vielleicht laut sein!|You can be quite loud!
+181|145|part|vielleicht||Das war vielleicht ein Abenteuer!|quite|quite|That was quite an adventure!|particle|Du kannst vielleicht laut sein!|You can be quite loud!
 182|146|verb|hören|hören, hört, hörte, hat gehört|Ich habe einen Vogel singen gehört.|to hear, to listen (to)|to hear|I heard a bird sing.|verb|Kannst du mich hören?|Can you hear me?
 183|147|das|das Haus|die Häuser|Das Haus steht leer seit Monaten.|house|house|The house has been empty for months.|noun|Meine Eltern wohnen in einem kleinen Haus.|My parents live in a small house.
 184|148|part|nein|nein, nee, nö|Nein, das kann nicht wahr sein!|no|no|No, that can’t be true!|particle|Nein, ich habe das nicht verstanden.|No, I didn’t understand that.
@@ -233,7 +233,7 @@
 231|188|adj|schön||Am See war es gestern sehr schön.|beautiful, pleasant, good|beautiful|It was very beautiful at the lake yesterday.|adjective|Von hier aus hat man einen schönen Blick auf die Stadt.|From here you have a beautiful view of the city.
 232|189|adj|wirklich||Das wirkliche Problem liegt woanders.|real, actual|real|The real problem lies elsewhere.|adjective|Sein Besuch ist eine wirkliche Überraschung.|His visit is a real surprise.
 233|189|adv|wirklich||Das war wirklich eine Überraschung.|really, actually|really|That was really a surprise.|adverb|Ich mag dich wirklich gern.|I really like you.
-234|190|pron|denen||Er hilft denen, die ihn brauchen.|whom, who, that|whom|He helps those who need him.|pronoun|Das sind Klara und Lisa, mit denen ich zusammen in einer Wohnung lebe.|This is Klara and Lisa, with whom I live in an apartment.
+234|190|pron|denen (pl, Dativ)||Er hilft denen, die ihn brauchen.|whom, who, that, those|those|He helps those who need him.|pronoun|Das sind Klara und Lisa, mit denen ich zusammen in einer Wohnung lebe.|This is Klara and Lisa, with whom I live in an apartment.
 235|191|verb|nennen|nennen, nennt, nannte, hat genannt|Sie nannten ihre Tochter Maria.|to name, call|to name|They named their daughter Maria.|verb|Mein Freund heißt Alexander, aber alle nennen ihn Alex.|My friend’s name ist Alexander, but everybody calls him Alex.
 236|192|adv|warum||Warum fragst du immer wieder dasselbe?|why|why|Why do you keep asking the same thing?|adverb|Warum hast du mich angerufen?|Why did you call me?
 237|193|verb|ziehen|ziehen, zieht, zog, hat gezogen|Ich ziehe nächste Woche nach Berlin.|to pull, move|to move|I’m moving to Berlin next week.|verb|Man muss an der Tür ziehen, um sie zu öffnen.|You have to pull on the door to open it.
@@ -274,10 +274,10 @@
 272|227|adv|jedoch||Er kam, jedoch war er zu spät.|however|however|He came; however, he was too late.|adverb|Mütter haben viel Kraft, können jedoch nicht alles allein schaffen.|Mothers have a lot of strength; however, they can’t do everything on their own.
 273|228|verb|setzen|setzen, setzt, setzte, hat gesetzt|Er setzt das Glas auf den Tisch.|to set, place, put|to place|He places the glass on the table.|verb|Er setzt das Kind auf den Stuhl.|He puts the child in the chair.
 274|228|verb|setzen|setzen, setzt, setzte, hat gesetzt|Er setzte sich leise auf den Stuhl.|to sit down|to sit down|He sat down quietly on the chair.|verb|Bitte setzen Sie sich.|Please sit down.
-275|229|adv|deshalb||Deshalb nahm er nicht am Treffen teil.|therefore|therefore|Therefore, he didn’t attend the meeting.|adverb|Es gibt bald Regen, deshalb sollten wir ins Haus gehen.|It’s going to rain; therefore, we should go into the house.
-276|230|adj|weit||Der weite Weg führte zum Strand.|widely, far|far|The far road led to the beach.|adjective|Ich möchte später weit weg ziehen.|Someday I want to move somewhere far away.
+275|229|adv|deshalb||Es regnete, deshalb blieb ich im Hotel.|therefore|therefore|It was raining; therefore, I stayed in the hotel.|adverb|Es gibt bald Regen, deshalb sollten wir ins Haus gehen.|It’s going to rain; therefore, we should go into the house.
+276|230|adv|weit||Er blickte weit in die Zukunft.|widely, far|far|He looked far into the future.|adverb|Ich möchte später weit weg ziehen.|Someday I want to move somewhere far away.
 277|231|verb|sitzen|sitzen, sitzt, saß, hat gesessen|Er hat stundenlang am Fenster gesessen.|to sit|to sit|He sat at the window for hours.|verb|Auf dem Boden sitzt ein schwarzer Hund.|There’s a black dog sitting on the floor.
-278|232|der|der Vater|die Väter|Der Vater holte seine Tochter ab.|father|father|The father picked up his daughter.|noun|Weil seine Freundin ein Baby bekommt, wird Timo endlich Vater.|Because his girlfriend is having a baby, Timo is finally becoming a father.
+278|232|der|der Vater|die Väter|Der Vater brachte die Kinder zur Schule.|father|father|The father took the children to school.|noun|Weil seine Freundin ein Baby bekommt, wird Timo endlich Vater.|Because his girlfriend is having a baby, Timo is finally becoming a father.
 279|233|pron|dein||Dein Buch liegt noch im Wohnzimmer.|your|your|Your book is still in the living room.|pronoun|Dein Handy klingelt.|Your cell’s ringing.
 280|234|verb|arbeiten|arbeiten, arbeitet, arbeitete, hat gearbeitet|Er arbeitet seit Jahren in dieser Firma.|to work|to work|He has been working at this company for years.|verb|Marlene arbeitet in einem Krankenhaus.|Marlene works in a hospital.
 281|235|das|das Geld|die Gelder|Ich habe mein ganzes Geld ausgegeben.|money|money|I spent all my money.|noun|Du gibst viel Geld aus.|You spend a lot of money.
