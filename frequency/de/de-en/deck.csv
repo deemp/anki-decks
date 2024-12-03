@@ -274,7 +274,7 @@
 272|227|adv|jedoch||Er kam, jedoch war er zu spät.|however|however|He came; however, he was too late.|adverb|Mütter haben viel Kraft, können jedoch nicht alles allein schaffen.|Mothers have a lot of strength; however, they can’t do everything on their own.
 273|228|verb|setzen|setzen, setzt, setzte, hat gesetzt|Er setzt das Glas auf den Tisch.|to set, place, put|to place|He places the glass on the table.|verb|Er setzt das Kind auf den Stuhl.|He puts the child in the chair.
 274|228|verb|setzen|setzen, setzt, setzte, hat gesetzt|Er setzte sich leise auf den Stuhl.|to sit down|to sit down|He sat down quietly on the chair.|verb|Bitte setzen Sie sich.|Please sit down.
-275|229|adv|deshalb||Es regnete, deshalb blieb ich im Hotel.|therefore|therefore|It was raining; therefore, I stayed in the hotel.|adverb|Es gibt bald Regen, deshalb sollten wir ins Haus gehen.|It’s going to rain; therefore, we should go into the house.
+275|229|adv|deshalb||Es regnete, deshalb blieb ich im Hotel.|so, therefore|so|It was raining, so I stayed in the hotel.|adverb|Es gibt bald Regen, deshalb sollten wir ins Haus gehen.|It’s going to rain; therefore, we should go into the house.
 276|230|adv|weit||Er blickte weit in die Zukunft.|widely, far|far|He looked far into the future.|adverb|Ich möchte später weit weg ziehen.|Someday I want to move somewhere far away.
 277|231|verb|sitzen|sitzen, sitzt, saß, hat gesessen|Er hat stundenlang am Fenster gesessen.|to sit|to sit|He sat at the window for hours.|verb|Auf dem Boden sitzt ein schwarzer Hund.|There’s a black dog sitting on the floor.
 278|232|der|der Vater|die Väter|Der Vater brachte die Kinder zur Schule.|father|father|The father took the children to school.|noun|Weil seine Freundin ein Baby bekommt, wird Timo endlich Vater.|Because his girlfriend is having a baby, Timo is finally becoming a father.
@@ -287,8 +287,8 @@
 285|239|adj|klar||Die klare Anweisung verhinderte Fehler.|clear|clear|The clear instruction prevented mistakes.|adjective|Das Wasser ist sehr klar.|The water is very clear.
 286|240|der|der Doktor|die Doktoren|Der Doktor verschrieb ein Medikament.|doctor|doctor|The doctor prescribed a medication.|noun|Wenn ich Schmerzen habe, gehe ich zu einem Doktor.|Whenever I’m in pain, I go to a doctor.
 287|241|das|das Paar|die Paare|Das Paar ging zusammen durch den Park.|pair, couple|couple|The couple walked together through the park.|noun|Zwei Schuhe machen ein Paar.|Two shoes make a pair.
-288|241|pron|ein paar||Ein paar Leute haben abgesagt.|a few|a few|A few people canceled.|pronoun|Wir brauchen dafür nur ein paar Minuten.|We only need a few minutes for that.
-289|242|adj|recht||Die rechte Wahl brachte neue Chancen.|all right|all right|The all right choice brought new opportunities.|adjective|Deine Idee ist mir recht.|I’m fine with your idea.
+288|241|pron|ein paar||Ein paar Leute haben den Fehler bemerkt.|a few|a few|A few people noticed the mistake.|pronoun|Wir brauchen dafür nur ein paar Minuten.|We only need a few minutes for that.
+289|242|adj|recht||Die rechte Wahl brachte neue Chancen.|(all) right, be fine with|right|The right choice brought new opportunities.|adjective|Deine Idee ist mir recht.|I’m fine with your idea.
 290|242|das|das Recht|die Rechte|Das Recht schützt die Schwachen.|right, law|law|The law protects the weak.|noun|Menschen haben Rechte.|People have rights.
 291|242|part|recht||Das ist recht kompliziert, aber machbar.|rather, quite|rather|That is rather complicated, but doable.|particle|Das Zimmer ist recht klein.|The room is quite small.
 292|243|prep|wegen||Wegen des Regens blieb er zu Hause.|because of|because of|Because of the rain, he stayed home.|preposition|Ich mag dich wegen deiner Augen.|I like you because of your eyes.
@@ -296,7 +296,7 @@
 294|245|das|das Wasser|die Wasser|Das Wasser kocht auf dem Herd.|water|water|The water is boiling on the stove.|noun|Ich trinke nur Wasser.|I only drink water.
 295|246|verb|bestehen|bestehen, besteht, bestand, hat bestanden|Er hat die schwierige Prüfung bestanden.|to exist, insist, pass (an exam)|pass (an exam)|He passed the difficult exam.|verb|Hoffentlich besteht Anja die Prüfung.|Hopefully Anja passes the exam.
 296|247|verb|versuchen|versuchen, versucht, versuchte, hat versucht|Er versucht, das Problem zu lösen.|to try, attempt|to try|He is trying to solve the problem.|verb|Ich versuche, die Prüfung zu bestehen.|I’m trying to pass the exam.
-297|248|der|der Punkt|die Punkte|Der Punkt ist klar formuliert.|dot, point, period|point|The point is clearly articulated.|noun|Am Ende eines Satzes ist ein Punkt.|At the end of a sentence is a period.
+297|248|der|der Punkt|die Punkte|Der Punkt ist klar formuliert.|dot, point, period|point|The point is clearly formulated.|noun|Am Ende eines Satzes ist ein Punkt.|At the end of a sentence is a period.
 298|249|der|der Grund|die Gründe|Der Grund bleibt ihm ein Rätsel.|reason, basis|reason|The reason remains a mystery to him.|noun|Es gibt mehrere Gründe für einen Streit.|There are several reasons for a dispute.
 299|250|der|der Kopf|die Köpfe|Er hielt den Kopf gesenkt und schwieg.|head|head|He kept his head down and remained silent.|noun|Auf dem Hals befindet sich der Kopf.|On the neck is the head.
 300|251|verb|beginnen|beginnen, beginnt, begann, hat begonnen|Er beginnt jeden Tag mit einem Lächeln.|to begin|to begin|He begins every day with a smile.|verb|Mit der Arbeit beginne ich erst morgen.|I won’t start work until tomorrow.
@@ -310,7 +310,7 @@
 308|259|verb|treffen|treffen, trifft, traf, hat getroffen|Wir treffen uns heute Abend im Café.|to meet|to meet|We are meeting this evening at the café.|verb|Morgen treffe ich mich mit einigen Freunden.|Tomorrow I’m meeting some friends.
 309|260|die|die Art|die Arten|Welche Art von Musik magst du?|type, kind|kind|What kind of music do you like?|noun|Es gibt verschiedene Arten von Tieren.|There are different kinds of animals.
 310|261|adv|wohl||Wohl vorbereitet, ging er zur Prüfung.|well|well|Well prepared, he went to the exam.|adverb|Er fühlt sich wohl.|He feels well.
-311|261|part|wohl||Das wird wohl nicht leicht werden.|probably|probably|That probably won’t be easy.|particle|Es ist wohl besser, wenn er geht.|It’s probably better if he leaves.
+311|261|part|wohl||Das wird wohl nicht so einfach.|probably|probably|That probably won’t be so easy.|particle|Es ist wohl besser, wenn er geht.|It’s probably better if he leaves.
 312|262|die|die Geschichte|die Geschichten|Die Geschichte ist spannend erzählt.|history, story|story|The story is told excitingly.|noun|Ich lese und schreibe gerne Geschichten.|I like to read and write stories.
 313|263|verb|erzählen|erzählen, erzählt, erzählte, hat erzählt|Sie erzählt ihm eine Geschichte.|to tell|to tell|She tells him a story.|verb|Susanne erzählt mir gerne Geschichten.|Susanne likes to tell me stories.
 314|264|verb|entstehen|entstehen, entsteht, entstand, ist entstanden|Neue Ideen entstehen oft spontan.|to originate, develop|develop|New ideas often develop spontaneously.|verb|Neben unserem Haus entsteht ein neues Gebäude.|Next to our house a new building is being built.
@@ -327,7 +327,7 @@
 325|275|verb|scheinen|scheinen, scheint, schien, hat geschienen|Die Sonne scheint hell durch die Wolken.|to shine, seem, appear|to shine|The sun shines brightly through the clouds.|verb|Die Sonne scheint auf die Erde.|The sun shines on the earth.
 326|276|die|die Stunde|die Stunden|Die Stunde verging viel zu schnell.|hour|hour|The hour passed far too quickly.|noun|Eine Stunde hat 60 Minuten.|An hour has 60 minutes.
 327|277|verb|aussehen|aussehen, sieht aus, sah aus, hat ausgesehen|Sie sieht heute besonders müde aus.|to appear, look|to look|She looks particularly tired today.|verb|In meinem Kleid sehe ich schön aus.|I look beautiful in my dress.
-328|278|adv|gern|gern, gerne|Ich lese sehr gern gute Bücher.|(with a verb) love to|love to|I love to read good books.|adverb|Tom tanzt sehr gern.|Tom loves to dance.
+328|278|adv|gern|gern, gerne|Ich lese sehr gern gute Bücher.|(with a verb) love to|(with a verb) love to|I love to read good books.|adverb|Tom tanzt sehr gern.|Tom loves to dance.
 329|279|adv|überhaupt||Ich verstehe überhaupt nichts.|at all, generally|at all|I don’t understand anything at all.|adverb|Anja mag Hunde überhaupt nicht.|Anja doesn’t like dogs at all.
 330|280|adj|bestimmt||Er hat ein bestimmtes Talent für Musik.|special, certain|certain|He has a certain talent for music.|adjective|Ich bin mir sicher, das Bild wird bestimmt gut.|I’m sure that picture will certainly be good.
 331|281|conj|sowie||Er bringt Obst sowie Gemüse mit.|as well as, as soon as, plus|as well as|He is bringing fruit as well as vegetables.|conjunction|Christina mag Männer sowie Frauen.|Christina likes men as well as women.
@@ -373,7 +373,7 @@
 371|318|die|die Sache|die Sachen|Die Sache ist ziemlich kompliziert.|thing|thing|The thing is quite complicated.|noun|Über solche Sachen wie Armut spricht hier niemand.|Nobody here talks about things like poverty.
 372|319|adj|bekannt||Sie ist eine bekannte Sängerin.|well-known, famous|famous|She is a famous singer.|adjective|Leipzig ist eine bekannte Stadt in Deutschland.|Leipzig is a well-known city in Germany.
 373|320|das|das Ziel|die Ziele|Das Ziel war endlich erreicht.|destination, goal|goal|The goal was finally achieved.|noun|Berlin ist das Ziel unserer Reise.|Berlin is the destination of our journey.
-374|321|verb|steigen|steigen, steigt, stieg, ist gestiegen|Er stieg vorsichtig die Treppe hinauf.|to climb, increase|to climb|He climbed the stairs carefully.|verb|Ich steige auf den Berg.|I’m climbing the mountain.
+374|321|verb|steigen|steigen, steigt, stieg, ist gestiegen|Er stieg vorsichtig die Treppe.|to climb, increase|to climb|He climbed the stairs carefully.|verb|Ich steige auf den Berg.|I’m climbing the mountain.
 375|322|adv|eher||Ich würde eher zu Hause bleiben.|sooner, earlier, more likely, rather|rather|I would rather stay at home.|adverb|Eher ziehe ich wieder zu meinen Eltern, als einen Tag länger bei dir zu wohnen.|I’d rather move back in with my parents than stay with you one day longer.
 376|323|verb|essen|essen, isst, aß, hat gegessen|Ich habe gestern zu viel gegessen.|to eat|to eat|I ate too much yesterday.|verb|Morgen Abend essen wir Brot.|Tomorrow evening, we will eat bread.
 377|324|die|die Minute|die Minuten|Er kam nur fünf Minuten zu spät.|minute|minute|He was only five minutes late.|noun|Eine Stunde hat 60 Minuten.|An hour has 60 minutes.
@@ -408,7 +408,7 @@
 406|351|adv|schließlich||Schließlich hat er zugestimmt.|finally, eventually|eventually|Eventually, he agreed.|adverb|Wir haben uns total verlaufen, aber schließlich sind wir doch noch ans Ziel gekommen.|We got completely lost, but eventually we reached our destination.
 407|352|verb|legen|legen, legt, legte, hat gelegt|Er legt das Buch auf den Tisch.|to lay, put|to put|He puts the book on the table.|verb|Mia legt das Buch auf den Tisch.|Mia puts the book on the table.
 408|353|adj|direkt||Der direkte Weg führt durch den Wald.|direct, straight|direct|The direct path leads through the forest.|adjective|Weil es keine direkte Verbindung gibt, muss ich nachher in einen anderen Zug steigen.|Because there’s no direct connection, I’ll have to get on another train later.
-409|354|pron|daher||Daher habe ich es doch gemacht.|from, there, therefore|therefore|Therefore, I went ahead and did it.|pronoun|Ich bin krank, daher kann ich nicht zur Party kommen.|I’m sick, therefore I can’t come to the party.
+409|354|pron|daher||Er lernte viel, daher bestand er.|from, there, therefore|therefore|He studied a lot, therefore he passed.|pronoun|Ich bin krank, daher kann ich nicht zur Party kommen.|I’m sick, therefore I can’t come to the party.
 410|355|adj|offen||Die offene Tür lädt zum Hereinkommen.|open|open|The open door invites people to come in.|adjective|Die Tür ist offen.|The door ist open.
 411|356|verb|erkennen|erkennen, erkennt, erkannte, hat erkannt|Er erkannte den Fehler sofort.|to recognize, admit|to recognize|He recognized the mistake immediately.|verb|Babys erkennen ihre Mütter an ihren Stimmen.|Babies recognize their mothers by their voices.
 412|357|die|die Person|die Personen|Die Person am Telefon war sehr höflich.|person|person|The person on the phone was very polite.|noun|In den Saal passen zehn Personen.|The hall can accommodate ten people.
@@ -1058,7 +1058,7 @@
 1056|987|der|der März|die Märze|Der März bringt oft kaltes Wetter.|March|March|March often brings cold weather.|noun|Anika hat im März Geburtstag.|Anika’s birthday is in March.
 1057|988|verb|wiederholen|wiederholen, wiederholt, wiederholte, hat wiederholt|Er wiederholt die Übung täglich.|to repeat|to repeat|He repeats the exercise daily.|verb|Können Sie das bitte noch einmal wiederholen?|Can you repeat that, please?
 1058|989|die|die Ruhe||Die Ruhe im Raum war angenehm.|silence, peace|silence|The silence in the room was pleasant.|noun|In der Bibliothek herrscht Ruhe.|In the library there is silence.
-1059|990|die|die Darstellung|die Darstellungen|Die Darstellung der Fakten war korrekt.|presentation, description, depiction|depiction|The depiction of the facts was accurate.|noun|Seine Darstellung der Ereignisse stimmt mit der Zeugenaussage überein.|His depiction of the events is consistent with the testimony of the witness.
+1059|990|die|die Darstellung|die Darstellungen|Die Darstellung der Fakten war korrekt.|presentation, description, depiction|depiction|The presentation of the facts was correct.|noun|Seine Darstellung der Ereignisse stimmt mit der Zeugenaussage überein.|His depiction of the events is consistent with the testimony of the witness.
 1060|991|adj|ruhig||Das Meer war heute besonders ruhig.|quiet, calm|calm|The sea was especially calm today.|adjective|In einer Großstadt gibt es nur wenige ruhige Orte.|In a big city there are only a few quiet places.
 1061|991|part|ruhig||Du kannst dir ruhig Zeit lassen.|really|really|You can really take your time.|particle|Du kannst ruhig gehen, wir kommen ohne dich klar.|You can go, we’ll be fine without you.
 1062|992|der|der Traum|die Träume|Ein schöner Traum ging vorbei.|dream|dream|A beautiful dream passed by.|noun|Letzte Nacht hatte ich einen komischen Traum.|Last night I had a strange dream.
