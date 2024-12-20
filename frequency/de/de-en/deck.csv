@@ -171,7 +171,7 @@
 165|132|adv|erst||Sie kam erst um Mitternacht nach Hause.|first, only, not until|only|She came home only at midnight.|adverb|Erst solltest du deine Eltern fragen.|First you should ask your parents.
 166|132|part|erst||Ich habe es erst gestern erfahren.|||I only found out about it yesterday.|particle|Jetzt geht es erst richtig los!|It’s just beginning!
 167|133|das|das Kind|die Kinder|Das Kind spielt im Sandkasten.|child|child|The child is playing in the sandbox.|noun|Das Kind geht gern zur Schule.|The child likes going to school.
-168|134|das|das Land|die Länder|Im Land herrscht eine ernste Krise.|land, country, state|land|There is a serious crisis in the country.|noun|Welches Land würdest du gern besuchen?|Which country would you like to visit?
+168|134|das|das Land|die Länder|Im Land herrscht eine ernste Krise.|land, country, state|country|There is a serious crisis in the country.|noun|Welches Land würdest du gern besuchen?|Which country would you like to visit?
 169|135|verb|stellen|stellen, stellt, stellte, hat gestellt|Ich stelle die Vase auf den Tisch.|to place, set, put|to place|I place the vase on the table.|verb|Er stellt sein Fahrrad in den Garten.|He puts his bike in the garden.
 170|136|verb|zeigen|zeigen, zeigt, zeigte, hat gezeigt|Er zeigt mir den Weg zur Stadt.|to show|to show|He shows me the way to the city.|verb|Können Sie mir den Weg zeigen?|Could you show me the way?
 171|137|adj|natürlich||Der Fluss folgt seinem natürlichen Lauf.|natural|natural|The river follows its natural course.|adjective|Ich beobachte wilde Tiere in ihrer natürlichen Umgebung.|I observe wild animals in their natural environment.
@@ -208,7 +208,7 @@
 201|162|verb|führen|führen, führt, führte, hat geführt|Er führt die Gruppe durch den Wald.|to lead|to lead|He leads the group through the forest.|verb|Jakob führt uns durch das Museum.|Jakob leads us through the museum.
 202|163|verb|bringen|bringen, bringt, brachte, hat gebracht|Er brachte das Paket zur Post.|to bring, take|to take|He took the package to the post office.|verb|Der Mann bringt mir einen Kaffee an meinen Tisch.|The man brings me a coffee at my table.
 203|164|die|die Welt|die Welten|Die Welt dreht sich immer weiter.|world|world|The world keeps turning.|noun|Ich möchte gerne um die Welt reisen.|I would like to travel around the world.
-204|165|adv|gar||Er war gar nicht so überrascht.|at all|at all|He wasn’t surprised at all.|adverb|Das ist gar kein Problem.|That’s no problem at all.
+204|165|adv|gar||Gar nichts passiert, keine Sorge!|at all|at all|Nothing at all happened, don't worry!|adverb|Das ist gar kein Problem.|That’s no problem at all.
 205|166|adj|eigen||Er brachte sein eigenes Essen mit.|own|own|He brought his own food.|adjective|Jeder Mensch hat ihren eigenen Charakter.|Everyone has their own character.
 206|167|adj|genau||Ich habe den genauen Termin vergessen.|exact|exact|I forgot the exact date.|adjective|Die genaue Zeit ist 10:43 Uhr.|The exact time is 10:43.
 207|168|verb|mögen|mögen, mag, mochte, hat gemocht|Er mochte den Kuchen sehr gern.|to like|to like|He really liked the cake.|verb|Mein Bruder mag meinen Freund nicht.|My brother doesn’t like my boyfriend.
@@ -251,7 +251,7 @@
 244|199|adj|jung||Der junge Mann geht zur Arbeit.|young|young|The young man goes to work.|adjective|Sie war noch jung, als sie Kinder bekam.|She was still young when she had children.
 245|200|num|vier||Vier Freunde kamen zusammen zum Essen.|four|four|Four friends came together for a meal.|number|Oma hat vier Hunde.|Grandma has four dogs.
 246|201|adj|besser||Heute fühle ich mich schon besser.|better|better|Today I already feel better.|adjective|Kevin kann besser schwimmen als sein Bruder.|Kevin swims better than his brother.
-247|202|adv|fast||Er war fast zu spät zur Besprechung.|almost|almost|He was almost too late for the meeting.|adverb|Ich hätte fast den Bus verpasst.|I almost missed the bus.
+247|202|adv|fast||Er war fast zu spät zum Meeting.|almost|almost|He was almost too late for the meeting.|adverb|Ich hätte fast den Bus verpasst.|I almost missed the bus.
 248|203|adj|schnell||Wir brauchen eine schnelle Antwort.|quick, fast|quick|We need a quick answer.|adjective|Mario kann sehr schnell rennen.|Mario can run very fast.
 249|204|die|die Stadt|die Städte|Die Stadt leuchtet in der Nacht hell.|city, town|city|The city lights up brightly at night.|noun|London, Paris und Berlin sind große Städte.|London, Paris, and Berlin are big cities.
 250|205|verb|spielen|spielen, spielt, spielte, hat gespielt|Die Kinder spielen fröhlich im Park.|to play|to play|The children play happily in the park.|verb|Die Kinder spielen im Garten.|The children are playing in the garden.
@@ -291,7 +291,7 @@
 282|236|das|das Unternehmen|die Unternehmen|Das Unternehmen expandiert weiter.|enterprise, company|company|The company is expanding further.|noun|Ich gründe mein eigenes Unternehmen.|I am starting my own company.
 283|237|adj|nächste|nächste, nächster, nächstes|Das nächste Treffen ist im März.|next|next|The next meeting is in March.|adjective|Nächste Woche gehen wir schwimmen.|Next week we’re going swimming.
 284|238|verb|erklären|erklären, erklärt, erklärte, hat erklärt|Der Lehrer erklärt die Aufgabe.|to explain|to explain|The teacher explains the task.|verb|Max erklärt mir komplizierte Dinge.|Max explains complicated things to me.
-285|239|adj|klar||Die klare Anweisung verhinderte Fehler.|clear|clear|The clear instruction prevented mistakes.|adjective|Das Wasser ist sehr klar.|The water is very clear.
+285|239|adj|klar||Klare Anweisungen verhinderten Fehler.|clear|clear|Clear instructions prevented mistakes.|adjective|Das Wasser ist sehr klar.|The water is very clear.
 286|240|der|der Doktor|die Doktoren|Der Doktor verschrieb ein Medikament.|doctor|doctor|The doctor prescribed a medication.|noun|Wenn ich Schmerzen habe, gehe ich zu einem Doktor.|Whenever I’m in pain, I go to a doctor.
 287|241|das|das Paar|die Paare|Das Paar ging zusammen durch den Park.|pair, couple|couple|The couple walked together through the park.|noun|Zwei Schuhe machen ein Paar.|Two shoes make a pair.
 288|241|pron|ein paar||Ein paar Leute haben den Fehler bemerkt.|a few|a few|A few people noticed the mistake.|pronoun|Wir brauchen dafür nur ein paar Minuten.|We only need a few minutes for that.
@@ -396,12 +396,12 @@
 377|324|die|die Minute|die Minuten|Er kam nur fünf Minuten zu spät.|minute|minute|He was only five minutes late.|noun|Eine Stunde hat 60 Minuten.|An hour has 60 minutes.
 378|325|adv|nachts||Nachts ist es hier besonders still.|at night, nights|at night|It is especially quiet here at night.|adverb|Ich arbeite immer nur nachts.|I only work nights.
 379|325|die|die Nacht|die Nächte|Die Nacht war klar und voller Sterne.|night|night|The night was clear and full of stars.|noun|Die Nacht ist dunkel und grau.|The night is dark and gray.
-380|326|der|der Platz|die Plätze|Dieser Platz ist ideal für ein Picknick.|place, room, square|place|This place is perfect for a picnic.|noun|Mein Haus hat genug Platz für acht Personen.|My house has enough room for eight people.
+380|326|der|der Platz|die Plätze|Dieser Platz ist ideal für ein Picknick.|place, room, square|place|This place is ideal for a picnic.|noun|Mein Haus hat genug Platz für acht Personen.|My house has enough room for eight people.
 380.001|326|der|der Platz|die Plätze|Er hat den ersten Platz gewonnen.|place, room, square|place|He won the first place.|noun|Mein Haus hat genug Platz für acht Personen.|My house has enough room for eight people.
 380.002|326|der|der Platz|die Plätze|Der Platz ist im Zentrum der Stadt.|place, room, square|square|The square is in the city center.|noun|Mein Haus hat genug Platz für acht Personen.|My house has enough room for eight people.
 381|327|adj|schlecht||Das Wetter war heute wirklich schlecht.|bad|bad|The weather was really bad today.|adjective|Dein Atem riecht schlecht.|Your breath smells bad.
 382|328|das|das Spiel|die Spiele|Das Spiel beginnt um acht Uhr.|game, match|game|The game begins at eight o’clock.|noun|Wir sehen uns das Spiel im Fernsehen an.|We’ll watch the game on TV.
-383|329|die|die Familie|die Familien|Die Familie traf sich zum Essen.|family|family|The family met for dinner.|noun|Ich feiere meinen Geburtstag mit meiner Familie.|I’m celebrating my birthday with my family.
+383|329|die|die Familie|die Familien|Die Familie traf sich zum Essen.|family|family|The family met for a meal.|noun|Ich feiere meinen Geburtstag mit meiner Familie.|I’m celebrating my birthday with my family.
 384|330|pron|jemand||Jemand hat an der Tür geklopft.|someone, somebody|someone|Someone knocked on the door.|pronoun|Jemand wie du ist mein Freund.|Someone like you is my friend.
 385|331|pron|dessen||Das ist der Mann, dessen Buch du liest.|whose|whose|That’s the man whose book you’re reading.|pronoun|Der Mann, dessen Frau Geburtstag hat, hat ein Geschenk.|The man whose wife’s birthday it is has a present.
 386|332|verb|fallen|fallen, fällt, fiel, ist gefallen|Das Blatt ist leise zu Boden gefallen.|to fall|to fall|The leaf quietly fell to the ground.|verb|Max fällt tief von einer Mauer.|Max falls deep from a wall.
@@ -412,7 +412,7 @@
 391|337|der|der Staat|die Staaten|Der Staat investiert in Bildung.|state|state|The state invests in education.|noun|Der Staat entscheidet über Gesetze und Steuern.|The state decides on laws and taxes.
 392|338|verb|helfen|helfen, hilft, half, hat geholfen|Er hilft ihr bei den Hausaufgaben.|to help|to help|He helps her with the homework.|verb|Oliver hilft Tim jeden Sonntag bei seinen Aufgaben für die Schule.|Oliver helps Tim with his assignments for school every Sunday.
 393|339|der|der Bereich|die Bereiche|Der Bereich ist für Kinder gesperrt.|area, region|area|The area is closed off for children.|noun|Diesen Bereich darf niemand betreten.|Nobody is allowed to enter this area.
-394|340|adj|tatsächlich||Die tatsächliche Ursache erklärt alles.|real, actual|actual|The actual cause explains everything.|adjective|Ich habe tatsächlich den Job bekommen.|I actually got the job.
+394|340|adj|tatsächlich||Die tatsächlichen Kosten sind höher.|real, actual|actual|The actual costs are higher.|adjective|Ich habe tatsächlich den Job bekommen.|I actually got the job.
 395|341|der|der Ort|die Orte|Der Ort des Treffens ist der Park.|place, town, location|place|The place of the meeting is the park.|noun|Die Kirche ist ein friedlicher Ort.|The church is a peaceful place.
 396|342|adv|abends||Wir treffen uns abends im Park.|in the evening|in the evening|We meet in the park in the evening.|adverb|Abends lese ich meinem Kind immer eine Geschichte vor.|I always read my child a story in the evening.
 397|342|der|der Abend|die Abende|Es war ein sehr entspannter Abend.|evening|evening|It was a very relaxing evening.|noun|Wir gehen morgen Abend ins Kino.|We’re going to the movies tomorrow evening.
@@ -426,9 +426,9 @@
 405|350|verb|schließen|schließen, schließt, schloss, hat geschlossen|Er schloss die Tür leise hinter sich.|to close|to close|He quietly closed the door behind him.|verb|Das Geschäft schließt heute schon um fünf Uhr.|The store closes at five o’clock today.
 406|351|adv|schließlich||Schließlich hat er zugestimmt.|finally, eventually|eventually|Eventually, he agreed.|adverb|Wir haben uns total verlaufen, aber schließlich sind wir doch noch ans Ziel gekommen.|We got completely lost, but eventually we reached our destination.
 407|352|verb|legen|legen, legt, legte, hat gelegt|Er legt das Buch auf den Tisch.|to lay, put|to put|He puts the book on the table.|verb|Mia legt das Buch auf den Tisch.|Mia puts the book on the table.
-408|353|adj|direkt||Der direkte Weg führt durch den Wald.|direct, straight|direct|The direct path leads through the forest.|adjective|Weil es keine direkte Verbindung gibt, muss ich nachher in einen anderen Zug steigen.|Because there’s no direct connection, I’ll have to get on another train later.
+408|353|adj|direkt||Ich bevorzuge direkte Kommunikation.|direct, straight|direct|I prefer direct communication.|adjective|Weil es keine direkte Verbindung gibt, muss ich nachher in einen anderen Zug steigen.|Because there’s no direct connection, I’ll have to get on another train later.
 409|354|pron|daher||Er lernte viel, daher bestand er.|from, there, therefore|therefore|He studied a lot, therefore he passed.|pronoun|Ich bin krank, daher kann ich nicht zur Party kommen.|I’m sick, therefore I can’t come to the party.
-410|355|adj|offen||Die offene Tür lädt zum Hereinkommen.|open|open|The open door invites people to come in.|adjective|Die Tür ist offen.|The door ist open.
+410|355|adj|offen||Die offene Tür lädt zum Hereinkommen.|open|open|The open door invites to come in.|adjective|Die Tür ist offen.|The door ist open.
 411|356|verb|erkennen|erkennen, erkennt, erkannte, hat erkannt|Er erkannte den Fehler sofort.|to recognize, admit|to recognize|He recognized the mistake immediately.|verb|Babys erkennen ihre Mütter an ihren Stimmen.|Babies recognize their mothers by their voices.
 412|357|die|die Person|die Personen|Die Person am Telefon war sehr höflich.|person|person|The person on the phone was very polite.|noun|In den Saal passen zehn Personen.|The hall can accommodate ten people.
 413|358|der|der Moment|die Momente|Der Moment ist perfekt für ein Foto.|moment|moment|The moment is perfect for a photo.|noun|Man muss den Moment genießen können.|You have to be able to enjoy the moment.
@@ -439,12 +439,12 @@
 418|363|die|die Gesellschaft|die Gesellschaften|Die Gesellschaft wächst stetig.|society, company|society|Society is growing steadily.|noun|Jeder ist ein Teil der Gesellschaft.|Everybody is a part of society.
 419|364|verb|warten|warten, wartet, wartete, hat gewartet|Er wartet ungeduldig auf den Bus.|to wait|to wait|He is waiting impatiently for the bus.|verb|Ich warte am Bahnhof auf dich.|I’ll wait for you at the station.
 420|365|verb|vorstellen|vorstellen, stellt vor, stellte vor, hat vorgestellt|Er stellt seine Idee der Gruppe vor.|to introduce, imagine|to introduce|He introduces his idea to the group.|verb|Darf ich Ihnen meine Frau Stefanie vorstellen?|May I introduce you to my wife, Stefanie?
-421|366|adj|früh||Der frühe Vogel fand den Wurm.|early|early|The early bird found the worm.|adjective|Ich muss früh aufstehen.|I have to get up early.
+421|366|adj|früh||Der frühe Vogel fängt den Wurm.|early|early|The early bird catches the worm.|adjective|Ich muss früh aufstehen.|I have to get up early.
 422|367|verb|treten|treten, tritt, trat, hat getreten|Er trat vorsichtig über die Schwelle.|to step|to step|He carefully stepped over the threshold.|verb|Natascha öffnet die Tür und tritt nach draußen.|Natascha opens the door and steps outside.
 423|368|verb|reden|reden, redet, redete, hat geredet|Sie redeten lange über den Vorfall.|to talk|to talk|They talked for a long time about the incident.|verb|Er hat jetzt keine Lust, darüber zu reden.|He doesn’t want to talk about it now.
 424|369|die|die Gruppe|die Gruppen|Die Gruppe arbeitet gut zusammen.|group|group|The group works well together.|noun|Sie müssen in einer Gruppe zusammenarbeiten.|You have to work together in a group.
 425|370|das|das Ding|die Dinge|Das Ding auf dem Tisch gehört mir.|thing|thing|The thing on the table belongs to me.|noun|Was ist das für ein Ding dort?|What’s that thing over there?
-426|371|part|na||Na, wie war dein Wochenende so?|well|well|Well, how was your weekend?|particle|Na, was soll ich dazu sagen?|Well, what shall I say to this?
+426|371|part|na||Na, wie war dein Wochenende so?|well, so|so|So, how was your weekend?|particle|Na, was soll ich dazu sagen?|Well, what shall I say to this?
 427|372|verb|gewinnen|gewinnen, gewinnt, gewann, hat gewonnen|Er gewann das Spiel im letzten Moment.|to win, gain|to win|He won the game in the last moment.|verb|Er gewinnt den ersten Preis im Wettbewerb.|He wins the first prize in the competition.
 428|373|adv|zunächst||Zunächst erklärt er die Regeln.|first, at first, for now|first|First, he explains the rules.|adverb|Ich sah den Mann zunächst nicht, bis er winkte.|At first I didn’t see the man, until he waved.
 429|374|conj|damit||Er ging früh, damit er pünktlich war.|so that|so that|He left early so that he would be on time.|conjunction|Kannst du bitte kommen, damit wir schnell gehen können?|Can you please come so that we can leave quickly?
@@ -452,7 +452,7 @@
 431|376|der|der Schritt|die Schritte|Er macht einen großen Schritt nach vorn.|step|step|He takes a big step forward.|noun|Wir müssen unseren Gegnern immer einen Schritt voraus sein.|We need to always be one step ahead of our competitors.
 432|377|verb|entwickeln|entwickeln, entwickelt, entwickelte, hat entwickelt|Das Team entwickelt eine neue Software.|to develop|to develop|The team is developing new software.|verb|Die Forscher entwickeln ein neues Medikament.|The researchers are developing a new drug.
 433|378|adj|meiste||Die meiste Zeit verbringt er draußen.|most|most|He spends most of his time outside.|adjective|Am meisten gefällt mir das rote Kleid.|I like the red dress the most.
-434|379|die|die Möglichkeit|die Möglichkeiten|Die Möglichkeit besteht, zu gewinnen.|possibility, chance|possibility|There is a possibility to win.|noun|Es besteht die Möglichkeit, dass ich krank bin.|There’s a chance I’m sick.
+434|379|die|die Möglichkeit|die Möglichkeiten|Wir haben die Möglichkeit zu verhandeln.|possibility, chance|possibility|We have the possibility to negotiate.|noun|Es besteht die Möglichkeit, dass ich krank bin.|There’s a chance I’m sick.
 435|380|der|der Sinn|die Sinne|Der Sinn des Lebens bleibt ein Rätsel.|sense, meaning|meaning|The meaning of life remains a mystery.|noun|Dein Argument macht keinen Sinn.|Your argument doesn’t make sense.
 436|381|verb|passieren|passieren, passiert, passierte, hat passiert|Der Unfall ist an der Kreuzung passiert.|to take place, happen|to happen|The accident happened at the intersection.|verb|Ich warte darauf, dass mein Handy klingelt, aber nichts passiert.|I’m waiting for my phone to ring, but nothing is happening.
 437|382|adv|manchmal||Manchmal gehe ich früh schlafen.|sometimes|sometimes|Sometimes I go to sleep early.|adverb|Das Wetter hier ist nur manchmal schlecht, meistens scheint die Sonne.|The weather here is only sometimes bad, mostly the sun shines.
@@ -1219,7 +1219,7 @@
 1151|1079|die|die Farbe|die Farben|Die Farbe an der Wand ist verblasst.|color|color|The color on the wall has faded.|noun|Die Kinder malen gern mit bunten Farben.|The children like to paint with bright colors.
 1152|1080|num|zwölf||Zwölf Schüler bestanden die Prüfung.|twelve|twelve|Twelve students passed the exam.|number|Das Jahr hat zwölf Monate.|The year has twelve months.
 1153|1081|prep|per||Die Kosten betragen 10 Euro per Meter.|by, per|per|The costs amount to 10 euros per meter.|preposition|Ich reise per Schiff.|I’m traveling by ship.
-1154|1082|adj|regelmäßig||Ein regelmäßiger Besuch war nötig.|regular|regular|A regular visit was necessary.|adjective|Ich brauche regelmäßige Updates über den Fortschritt des Projekts.|I need regular updates on the project’s progress.
+1154|1082|adj|regelmäßig||Regelmäßige Pausen sind notwendig.|regular|regular|Regular breaks are necessary.|adjective|Ich brauche regelmäßige Updates über den Fortschritt des Projekts.|I need regular updates on the project’s progress.
 1155|1083|adv|her||Vor einem Jahr kam ich nach Deutschland.|from sth, ago, as far as ... is concerned|ago|A year ago, I came to Germany.|adverb|Das ist lange her.|This happened long ago.
 1156|1084|verb|wechseln|wechseln, wechselt, wechselte, hat gewechselt|Er wechselt den Reifen selbst.|to change|to change|He changes the tire himself.|verb|Ich muss noch Euro in Dollar wechseln.|I still have to change euros into dollars.
 1157|1085|verb|einstellen|einstellen, stellt ein, stellte ein, hat eingestellt|Sie hat das Gerät korrekt eingestellt.|to adjust, employ, stop, discontinue|to adjust|She has adjusted the device correctly.|verb|Herr Weber stellt die Programme für das TV ein.|Mr. Weber discontinues the TV programs.
