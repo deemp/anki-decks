@@ -34,12 +34,24 @@ def render_ankiweb_descriptions():
 
     template = read_template()
 
-    def write_template(template_path_suff: str, replacement: str):
+    def write_template(
+        template: str, template_path_suff: str, replacement: dict[str, str]
+    ):
+        for k, v in replacement.items():
+            template = template.replace(f"{{{{{k}}}}}", v)
         with open(mk_template_path(template_path_suff), "w", encoding="UTF-8") as t:
-            t.write(template.replace("{{n_words}}", replacement))
+            t.write(template)
 
-    write_template("-1", "the 1st to the 3000th")
-    write_template("-2", "the 3001st to the last")
+    write_template(
+        str(template),
+        "-1",
+        {"n_words": "the 1st to the 3000th", "deck_id": "1946034909"},
+    )
+    write_template(
+        str(template),
+        "-2",
+        {"n_words": "the 3001st to the 5000th", "deck_id": "763225563"},
+    )
 
 
 render_ankiweb_descriptions()
