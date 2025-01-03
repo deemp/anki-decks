@@ -62,7 +62,7 @@ def render_ankiweb_descriptions():
     n_words = [
         f"the 1st to the {FREQUENCY_CUTOFF_1}th",
         f"the {FREQUENCY_CUTOFF_1 + 1}st to the {FREQUENCY_CUTOFF_2}th",
-        f"the {FREQUENCY_CUTOFF_1 + 1}st to the {max_frequency}th",
+        f"the {FREQUENCY_CUTOFF_2 + 1}st to the {max_frequency}th",
     ]
 
     for i, n_words_cur in enumerate(n_words):
