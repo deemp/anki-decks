@@ -268,6 +268,21 @@
   side and the deck user's side.
 </p>
 
+<h2>Note indices</h2>
+
+<p>
+  I added several notes with a floating-point <b><code>index</code></b> to the
+  deck. The fractional part of each <b><code>index</code></b> is greater than
+  0.0 and less than 0.01.
+</p>
+
+<p>
+  Therefore, if you want to add your own notes, use an <b><code>index</code></b>
+  with a fractional part that is greater than or equal to 0.01 and less than 1.
+  This ensures that the ranges of fractional parts we use do not overlap, and
+  the notes I add won't conflict with your notes when you import deck updates.
+</p>
+
 <h2>Update the deck</h2>
 
 <h3>Transfer progress from another deck</h3>
