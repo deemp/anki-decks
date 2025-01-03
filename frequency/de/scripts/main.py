@@ -2,6 +2,7 @@
 
 import os
 import pandas as pd
+from IPython.display import display
 
 os.chdir(f'{os.environ["ROOT_DIR"]}/frequency/de')
 
@@ -11,10 +12,29 @@ FREQUENCY_CUTOFF_2 = 3400
 # %%
 
 
-def partition_deck_data():
-    os.chdir(f'{os.environ["ROOT_DIR"]}/frequency/de')
+def check(deck: pd.DataFrame):
+    duplicates = deck[deck.index.duplicated()]
 
+    if not duplicates.empty:
+        display(duplicates)
+        raise (Exception("Duplicates!"))
+
+    FRACTIONAL_PART_MAX = 0.01
+
+    indices_fractional = deck[
+        (deck.index % 1 != 0) & (deck.index % 1 >= FRACTIONAL_PART_MAX)
+    ]
+
+    if not indices_fractional.empty:
+        display(indices_fractional)
+        raise (Exception(f"Fractional parts not less than {FRACTIONAL_PART_MAX}!"))
+
+
+def partition_deck_data():
     deck_full = pd.read_csv("de-en/deck.csv", sep="|", index_col=0)
+
+    check(deck=deck_full)
+
     deck_full.index = deck_full.index.map(lambda x: x if x % 1 != 0 else f"{int(x)}")
 
     frequency_rank = deck_full["frequency_rank"]
