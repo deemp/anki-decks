@@ -57,7 +57,7 @@ def render_ankiweb_descriptions():
     deck_full = pd.read_csv("de-en/deck.csv", sep="|", index_col=0)
     max_frequency = max(deck_full["frequency_rank"])
 
-    ids = ["1946034909", "763225563", "???"]
+    ids = ["1848185140", "186639246", "1082248180"]
 
     n_words = [
         f"the 1st to the {FREQUENCY_CUTOFF_1}th",
