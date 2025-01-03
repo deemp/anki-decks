@@ -88,12 +88,14 @@ def render_ankiweb_descriptions():
     for i, n_words_cur in enumerate(n_words):
         ids_cur = [k for j, k in enumerate(ids) if j != i]
 
-        replacement = {"n_words": n_words_cur} | {
+        deck_index = i + 1
+
+        replacement = {"n_words": n_words_cur, "deck_index": str(deck_index)} | {
             f"another_part_id_{j + 1}": id_cur for j, id_cur in enumerate(ids_cur)
         }
 
         write_template(
-            template_path_suff=f"-{i + 1}",
+            template_path_suff=f"-{deck_index}",
             replacement=replacement,
         )
 
