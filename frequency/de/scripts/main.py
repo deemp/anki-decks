@@ -1,6 +1,7 @@
 # %%
 
 import os
+import re
 import pandas as pd
 from IPython.display import display
 
@@ -12,7 +13,7 @@ FREQUENCY_CUTOFF_2 = 3400
 # %%
 
 
-def check(deck: pd.DataFrame):
+def check_deck_data(deck: pd.DataFrame):
     duplicates = deck[deck.index.duplicated()]
 
     if not duplicates.empty:
@@ -33,7 +34,7 @@ def check(deck: pd.DataFrame):
 def partition_deck_data():
     deck_full = pd.read_csv("de-en/deck.csv", sep="|", index_col=0)
 
-    check(deck=deck_full)
+    check_deck_data(deck=deck_full)
 
     deck_full.index = deck_full.index.map(lambda x: x if x % 1 != 0 else f"{int(x)}")
 
@@ -71,6 +72,10 @@ def render_ankiweb_descriptions():
     ):
         for k, v in replacement.items():
             template = template.replace(f"{{{{{k}}}}}", v)
+
+        if patterns := re.findall(pattern=r"\{\{[^}]*\}\}", string=template):
+            raise Exception(f"These template patterns weren't replaced: {patterns}")
+
         with open(mk_template_path(template_path_suff), "w", encoding="UTF-8") as t:
             t.write(template)
 
