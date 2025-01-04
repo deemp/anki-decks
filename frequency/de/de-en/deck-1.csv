@@ -348,11 +348,13 @@
 335|285|verb|schaffen|schaffen, schafft, schuf, hat geschaffen|Es ist schwer, aber wir schaffen es.|to manage, create|to manage|It’s difficult, but we can manage it.|verb|Magdalena schafft ihre Prüfung nicht.|Magdalena won’t manage to pass the exam.
 335.001|285|verb|schaffen|schaffen, schafft, schuf, hat geschaffen|Er hat ein Meisterwerk geschaffen.|to manage, create|to create|He created a masterpiece.|verb|Magdalena schafft ihre Prüfung nicht.|Magdalena won’t manage to pass the exam.
 336|286|pron|damals||Sie war damals meine beste Freundin.|back then|back then|She was my best friend back then.|pronoun|Damals verdiente ich mehr Geld.|Back then I was making more money.
-337|287|verb|erhalten|erhalten, erhält, erhielt, hat erhalten|Ich habe deinen Brief erhalten.|to receive|to receive|I received your letter.|verb|Du erhältst morgen ein Geschenk.|You’ll receive a present tomorrow.
+337|287|verb|erhalten|erhalten, erhält, erhielt, hat erhalten|Ich habe deinen Brief erhalten.|to receive|to receive|I have received your letter.|verb|Du erhältst morgen ein Geschenk.|You’ll receive a present tomorrow.
 338|288|verb|lernen|lernen, lernt, lernte, hat gelernt|Er lernt gerade das Klavierspielen.|to learn|to learn|He is currently learning to play the piano.|verb|Wir lernen Deutsch.|We’re learning German.
 339|289|adj|frei||In diesem Land sind die Bürger frei.|free|free|In this country, citizens are free.|adjective|Jeder Mensch sollte frei sein.|Everybody should be free.
+339.001|289|adj|frei||Ich habe morgen Nachmittag frei.|free|free|I am free tomorrow afternoon.|adjective|Jeder Mensch sollte frei sein.|Everybody should be free.
+339.002|289|adj|frei||Der Eintritt ins Museum ist heute frei.|free|free|Entrance to the museum is free today.|adjective|Jeder Mensch sollte frei sein.|Everybody should be free.
 340|290|adj|wert||Das Auto ist nicht mehr viel wert.|worth|worth|The car is no longer worth much.|adjective|Eine gute Arbeit ist viel wert.|A good job is worth a lot.
-341|290|der|der Wert|die Werte|Der Wert des Hauses ist gestiegen.|value|value|The value of the house has increased.|noun|Du musst den Wert des Geldes kennen.|You must know the value of money.
+341|290|der|der Wert|die Werte|Ehrlichkeit hat für mich einen hohen Wert.|value|value|Honesty has a high value for me.|noun|Du musst den Wert des Geldes kennen.|You must know the value of money.
 342|291|conj|beziehungsweise (bzw.)|beziehungsweise, bzw.|Das Konzert ist heute, bzw. um acht.|or rather, respectively|or rather|The concert is today, or rather, at eight.|conjunction|Es ist ihr Traum, beziehungsweise Wunsch, Polizistin zu werden.|It is her dream or desire to become a policewoman.
 343|292|pron|daran|daran, dran|Wir arbeiten schon seit Stunden daran.|on it|on it|We have been working on it for hours.|pronoun|Daran denke ich jeden Tag.|I think about it every day.
 344|293|verb|suchen|suchen, sucht, suchte, hat gesucht|Er suchte den Schlüssel überall.|to search, look for|to search|He searched for the key everywhere.|verb|Lisett sucht einen guten Job.|Lisett’s looking for a good job.
@@ -414,7 +416,7 @@
 393|339|der|der Bereich|die Bereiche|Der Bereich ist für Kinder gesperrt.|area, region|area|The area is closed off for children.|noun|Diesen Bereich darf niemand betreten.|Nobody is allowed to enter this area.
 394|340|adj|tatsächlich||Die tatsächlichen Kosten sind höher.|real, actual|actual|The actual costs are higher.|adjective|Ich habe tatsächlich den Job bekommen.|I actually got the job.
 395|341|der|der Ort|die Orte|Der Ort des Treffens ist der Park.|place, town, location|place|The place of the meeting is the park.|noun|Die Kirche ist ein friedlicher Ort.|The church is a peaceful place.
-396|342|adv|abends||Wir treffen uns abends im Park.|in the evening|in the evening|We meet in the park in the evening.|adverb|Abends lese ich meinem Kind immer eine Geschichte vor.|I always read my child a story in the evening.
+396|342|adv|abends||Wir treffen uns abends im Park.|in the evening|in the evening|We meet in the park in the evenings.|adverb|Abends lese ich meinem Kind immer eine Geschichte vor.|I always read my child a story in the evening.
 397|342|der|der Abend|die Abende|Es war ein sehr entspannter Abend.|evening|evening|It was a very relaxing evening.|noun|Wir gehen morgen Abend ins Kino.|We’re going to the movies tomorrow evening.
 398|343|adj|einzig||Er ist der einzige, der es kann.|only, single|only|He is the only one who can do it.|adjective|Ich bin das einzige Mädchen beim Fußball.|I’m the only girl at soccer.
 399|344|die|die Stelle|die Stellen|An dieser Stelle hatte ich einen Unfall.|place|place|At this place, I had an accident.|noun|Sein Name steht an erster Stelle.|His name is in the first place.
@@ -427,7 +429,7 @@
 406|351|adv|schließlich||Schließlich hat er zugestimmt.|finally, eventually|eventually|Eventually, he agreed.|adverb|Wir haben uns total verlaufen, aber schließlich sind wir doch noch ans Ziel gekommen.|We got completely lost, but eventually we reached our destination.
 407|352|verb|legen|legen, legt, legte, hat gelegt|Er legt das Buch auf den Tisch.|to lay, put|to put|He puts the book on the table.|verb|Mia legt das Buch auf den Tisch.|Mia puts the book on the table.
 408|353|adj|direkt||Ich bevorzuge direkte Kommunikation.|direct, straight|direct|I prefer direct communication.|adjective|Weil es keine direkte Verbindung gibt, muss ich nachher in einen anderen Zug steigen.|Because there’s no direct connection, I’ll have to get on another train later.
-409|354|pron|daher||Er lernte viel, daher bestand er.|from, there, therefore|therefore|He studied a lot, therefore he passed.|pronoun|Ich bin krank, daher kann ich nicht zur Party kommen.|I’m sick, therefore I can’t come to the party.
+409|354|pron|daher||Sie war müde, daher ging sie früh ins Bett.|from, there, therefore, hence|therefore|She was tired; hence, she went to bed early.|pronoun|Ich bin krank, daher kann ich nicht zur Party kommen.|I’m sick, therefore I can’t come to the party.
 410|355|adj|offen||Die offene Tür lädt zum Hereinkommen.|open|open|The open door invites to come in.|adjective|Die Tür ist offen.|The door ist open.
 411|356|verb|erkennen|erkennen, erkennt, erkannte, hat erkannt|Er erkannte den Fehler sofort.|to recognize, admit|to recognize|He recognized the mistake immediately.|verb|Babys erkennen ihre Mütter an ihren Stimmen.|Babies recognize their mothers by their voices.
 412|357|die|die Person|die Personen|Die Person am Telefon war sehr höflich.|person|person|The person on the phone was very polite.|noun|In den Saal passen zehn Personen.|The hall can accommodate ten people.
@@ -436,7 +438,8 @@
 415|360|pron|darin|darin, drin, drinnen|Darin steckt das Geheimnis ihrer Kraft.|in it, in there, inside|in it|In it lies the secret of her strength.|pronoun|Ich suche meinen Koffer, darin sind meine Sachen.|I’m looking for my suitcase, in there are my things.
 416|361|das|das Auto|die Autos|Das Auto parkte direkt vor dem Haus.|automobile, car|car|The car parked directly in front of the house.|noun|Auf der Straße fahren viele Autos.|There are a lot of cars on the road.
 417|362|pron|niemand||Niemand wusste, was zu tun war.|no one, nobody|nobody|Nobody knew what to do.|pronoun|Niemand kennt die Antwort.|Nobody knows the answer.
-418|363|die|die Gesellschaft|die Gesellschaften|Die Gesellschaft wächst stetig.|society, company|society|Society is growing steadily.|noun|Jeder ist ein Teil der Gesellschaft.|Everybody is a part of society.
+418|363|die|die Gesellschaft|die Gesellschaften|Die Gesellschaft entwickelt sich stetig.|society, company|society|Society is continuously developing.|noun|Jeder ist ein Teil der Gesellschaft.|Everybody is a part of society.
+418.001|363|die|die Gesellschaft|die Gesellschaften|Ich genieße die Gesellschaft meiner Freunde.|society, company|company|I enjoy the company of my friends.|noun|Jeder ist ein Teil der Gesellschaft.|Everybody is a part of society.
 419|364|verb|warten|warten, wartet, wartete, hat gewartet|Er wartet ungeduldig auf den Bus.|to wait|to wait|He is waiting impatiently for the bus.|verb|Ich warte am Bahnhof auf dich.|I’ll wait for you at the station.
 420|365|verb|vorstellen|vorstellen, stellt vor, stellte vor, hat vorgestellt|Er stellt seine Idee der Gruppe vor.|to introduce, imagine|to introduce|He introduces his idea to the group.|verb|Darf ich Ihnen meine Frau Stefanie vorstellen?|May I introduce you to my wife, Stefanie?
 421|366|adj|früh||Der frühe Vogel fängt den Wurm.|early|early|The early bird catches the worm.|adjective|Ich muss früh aufstehen.|I have to get up early.
@@ -444,6 +447,7 @@
 423|368|verb|reden|reden, redet, redete, hat geredet|Sie redeten lange über den Vorfall.|to talk|to talk|They talked for a long time about the incident.|verb|Er hat jetzt keine Lust, darüber zu reden.|He doesn’t want to talk about it now.
 424|369|die|die Gruppe|die Gruppen|Die Gruppe arbeitet gut zusammen.|group|group|The group works well together.|noun|Sie müssen in einer Gruppe zusammenarbeiten.|You have to work together in a group.
 425|370|das|das Ding|die Dinge|Das Ding auf dem Tisch gehört mir.|thing|thing|The thing on the table belongs to me.|noun|Was ist das für ein Ding dort?|What’s that thing over there?
+425.001|370|das|das Ding|die Dinge|Sie hat mir so viele tolle Dinge erzählt.|thing|thing|She told me so many amazing things.|noun|Was ist das für ein Ding dort?|What’s that thing over there?
 426|371|part|na||Na, wie war dein Wochenende so?|well, so|so|So, how was your weekend?|particle|Na, was soll ich dazu sagen?|Well, what shall I say to this?
 427|372|verb|gewinnen|gewinnen, gewinnt, gewann, hat gewonnen|Er gewann das Spiel im letzten Moment.|to win, gain|to win|He won the game in the last moment.|verb|Er gewinnt den ersten Preis im Wettbewerb.|He wins the first prize in the competition.
 428|373|adv|zunächst||Zunächst erklärt er die Regeln.|first, at first, for now|first|First, he explains the rules.|adverb|Ich sah den Mann zunächst nicht, bis er winkte.|At first I didn’t see the man, until he waved.
@@ -456,7 +460,7 @@
 435|380|der|der Sinn|die Sinne|Der Sinn des Lebens bleibt ein Rätsel.|sense, meaning|meaning|The meaning of life remains a mystery.|noun|Dein Argument macht keinen Sinn.|Your argument doesn’t make sense.
 436|381|verb|passieren|passieren, passiert, passierte, hat passiert|Der Unfall ist an der Kreuzung passiert.|to take place, happen|to happen|The accident happened at the intersection.|verb|Ich warte darauf, dass mein Handy klingelt, aber nichts passiert.|I’m waiting for my phone to ring, but nothing is happening.
 437|382|adv|manchmal||Manchmal gehe ich früh schlafen.|sometimes|sometimes|Sometimes I go to sleep early.|adverb|Das Wetter hier ist nur manchmal schlecht, meistens scheint die Sonne.|The weather here is only sometimes bad, mostly the sun shines.
-438|383|der|der Vergleich|die Vergleiche|Ein Vergleich ist oft hilfreich.|comparison|comparison|A comparison is often helpful.|noun|Die Schüler sprechen über den Vergleich von Männern und Frauen.|The students talk about the comparison of men and women.
+438|383|der|der Vergleich|die Vergleiche|Im Vergleich zu dir bin ich langsamer.|comparison|comparison|In comparison to you, I am slower.|noun|Die Schüler sprechen über den Vergleich von Männern und Frauen.|The students talk about the comparison of men and women.
 439|384|das|das System|die Systeme|Das System funktioniert reibungslos.|system|system|The system functions smoothly.|noun|Béatrice benutzt ein System, um ihren Koffer zu packen.|Béatrice uses a system to pack her suitcase.
 440|385|die|die Rolle|die Rollen|Sie spielte eine wichtige Rolle.|role, roll|role|She played an important role.|noun|Die Schauspielerin spielt für das Stück die Rolle einer Mutter.|The actress plays the role of a mother for the play.
 441|386|das|das Ergebnis|die Ergebnisse|Das Ergebnis wurde heute veröffentlicht.|result|result|The result was published today.|noun|Die Suche bleibt ohne Ergebnis.|The search remains without result.
