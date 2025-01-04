@@ -1,3 +1,18 @@
+<h2 id="other_deck_parts">Other deck parts</h2>
+
+<ul>
+  <li>
+    <a href="https://ankiweb.net/shared/info/{{another_part_ankiweb_id_1}}"
+      >{{another_part_number_1}}/3</a
+    >
+  </li>
+  <li>
+    <a href="https://ankiweb.net/shared/info/{{another_part_ankiweb_id_2}}"
+      >{{another_part_number_2}}/3</a
+    >
+  </li>
+</ul>
+
 <h2>About this deck</h2>
 
 <p>This deck is based on:</p>
@@ -24,13 +39,6 @@
   This deck contains <b>{{n_words}}</b> German words that occurred most
   frequently in the corpus studied by the book authors. The more frequent a word
   is, the closer it is to the beginning of the deck.
-</p>
-
-<p id="other_decks">
-  Other words are available in
-  <a href="https://ankiweb.net/shared/info/{{another_part_id_1}}">this</a> and
-  <a href="https://ankiweb.net/shared/info/{{another_part_id_2}}">that</a>
-  decks.
 </p>
 
 <p>Each card includes:</p>
@@ -398,14 +406,21 @@
 <h3>On GitHub</h3>
 
 <p>
-  The textual data for this and <a href="#other_decks">other decks</a> is stored
-  in the
+  The textual data for this and
+  <a href="#other_deck_parts">other deck parts</a> is stored in the
   <a
     href="https://github.com/deemp/anki-decks/blob/main/frequency/de/de-en/deck.csv"
     >deck data file</a
-  >. If you want to improve some notes, modify this file and submit a
+  >. Every line (except for the first one) corresponds to a
+  <a href="https://docs.ankiweb.net/getting-started.html#note-types">note</a> in
+  a deck.
+</p>
+
+<p>
+  If you want to improve some notes, modify relevant lines in this file and
+  submit a
   <a href="https://github.com/deemp/anki-decks/pulls">Pull Request</a> (PR).
-  After I merge your PR, I'll upload a new version of the deck to AnkiWeb.
+  After I merge your PR, I'll update decks and share them on AnkiWeb.
 </p>
 
 <p>
@@ -432,8 +447,8 @@
 </p>
 
 <p>
-  Create or encourage others to create similar German-* decks, where * is a
-  language other than English.
+  Create or encourage others to create similar decks, e.g., for other German-*
+  pairs where * is a language other than English.
 </p>
 
 <h2>Changelog</h2>

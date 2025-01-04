@@ -77,7 +77,7 @@ def render_ankiweb_descriptions():
     deck_full = pd.read_csv("de-en/deck.csv", sep="|", index_col=0)
     max_frequency = max(deck_full["frequency_rank"])
 
-    ids = ["1848185140", "186639246", "1082248180"]
+    ids = [1848185140, 186639246, 1082248180]
 
     n_words = [
         f"the 1st to the {FREQUENCY_CUTOFF_1}th",
@@ -86,16 +86,25 @@ def render_ankiweb_descriptions():
     ]
 
     for i, n_words_cur in enumerate(n_words):
-        ids_cur = [k for j, k in enumerate(ids) if j != i]
+        another_part_ankiweb_ids = [k for j, k in enumerate(ids) if j != i]
 
-        deck_index = i + 1
+        this_part_number = i + 1
+        another_part_numbers = [k for k in [1, 2, 3] if k != this_part_number]
 
-        replacement = {"n_words": n_words_cur, "deck_index": str(deck_index)} | {
-            f"another_part_id_{j + 1}": id_cur for j, id_cur in enumerate(ids_cur)
-        }
+        replacement = (
+            {"n_words": n_words_cur, "deck_index": str(this_part_number)}
+            | {
+                f"another_part_ankiweb_id_{i + 1}": str(another_part_ankiweb_id)
+                for i, another_part_ankiweb_id in enumerate(another_part_ankiweb_ids)
+            }
+            | {
+                f"another_part_number_{i + 1}": str(another_part_number)
+                for i, another_part_number in enumerate(another_part_numbers)
+            }
+        )
 
         write_template(
-            template_path_suff=f"-{deck_index}",
+            template_path_suff=f"-{this_part_number}",
             replacement=replacement,
         )
 
