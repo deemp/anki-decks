@@ -3,401 +3,353 @@
 1.002|pronoun|der|those|Das sind die, die gestern angekommen sind.|Those are the ones who arrived yesterday.
 2.001|pronoun|der|that|Ich kenne den Mann, der gestern hier war.|I know the man who was here yesterday.
 7.001|article|ein|an|Das ist ein Apfel, der auf dem Tisch liegt.|That is an apple lying on the table.
-11.001|pronoun|sie|her|Ich habe sie gesehen, als sie hier war.|I saw her when she was here.
 12.001|pronoun|sie|them|Sie haben ihnen das Buch gestern gegeben.|They gave them the book yesterday.
 16.001|verb|werden|get|Wir werden bald die Ergebnisse erhalten.|We will receive the results soon.
-17.001|preposition|von|of|Das Buch ist von einem berühmten Autor.|The book is by a famous author.
 24.001|preposition|auf|at|Er legte das Buch auf den großen Tisch.|He placed the book on the big table.
-24.002|preposition|auf|to|Sie gingen auf die Straße und schauten.|They went to the street and looked.
-26.001|adverb|auch|too|Sie möchte auch an dem Wettbewerb teilnehmen.|She wants to participate in the competition too.
-27.001|preposition|an|at|Er arbeitet an einem neuen spannenden Projekt.|He is working on a new exciting project.
-32.001|conjunction|als|as|Er arbeitet als Lehrer an dieser Schule.|He works as a teacher at this school.
-34.001|verb|können|to be able to|Wir können die Aufgabe morgen gemeinsam machen.|We can do the task together tomorrow.
-35.001|pronoun|dies|that|Dies ist das Buch, das ich dir empfohlen habe.|This is the book I recommended to you.
-39.001|pronoun|ihr|their|Ihr Haus steht am Ende der langen Straße.|Their house is at the end of the long street.
 39.002|pronoun|ihr|hers|Das ist ihr Hund, der oft im Park spielt.|That is her dog who often plays in the park.
-39.003|pronoun|ihr|theirs|Das Auto dort ist ihres, nicht unseres.|The car there is theirs, not ours.
-40.001|pronoun|ihr|her|Sie gab ihr die Tasche, die sie verloren hatte.|She gave her the bag she had lost.
-42.001|adverb|so|so|Das war so schön, dass ich es nicht vergaß.|It was so beautiful that I didn’t forget it.
-42.002|adverb|so|thus|Er erklärte es so, dass es alle verstehen konnten.|He explained it thus that everyone could understand.
-42.003|adverb|so|such|Das ist so ein Problem, das oft auftritt.|That is such a problem that often occurs.
-44.001|preposition|bei|by|Wir treffen uns bei dem großen Bahnhof morgen.|We will meet by the big station tomorrow.
-44.002|preposition|bei|with|Er wohnt bei seinen Eltern auf dem Land.|He lives with his parents in the countryside.
-45.001|pronoun|sein|its|Der Baum verlor sein Laub im kalten Winter.|The tree lost its leaves in the cold winter.
-48.001|pronoun|man|you|Man sollte immer höflich zu allen sein.|You should always be polite to everyone.
 48.002|pronoun|man|they|Man sagt, dass sie bald wiederkommen werden.|They say that they will return soon.
-49.001|adverb|noch|still|Er ist noch immer nicht von der Arbeit zurück.|He is still not back from work.
 50.001|preposition|nach|toward|Wir fuhren nach Süden, wo die Sonne schien.|We drove toward the south where the sun was shining.
-53.001|preposition|aus|out of|Er kommt aus dem Haus und sieht den Regen.|He comes out of the house and sees the rain.
-53.002|preposition|aus|from|Die Produkte stammen aus der Region Bayern.|The products come from the Bavaria region.
-56.001|verb|sagen|to say|Sie wollte etwas Wichtiges zu uns sagen.|She wanted to say something important to us.
-58.001|conjunction|wenn|when|Wenn du fertig bist, können wir losgehen.|When you’re ready, we can go.
-59.001|verb|müssen|to have to|Wir müssen jetzt gehen, bevor es dunkel wird.|We have to go now before it gets dark.
-61.003|preposition|um|about|Es geht um das Problem, das wir besprechen müssen.|It is about the problem we need to discuss.
-62.001|particle|ja|of course|Du weißt ja, dass er immer pünktlich ist.|You know, of course, that he is always on time.
-64.001|preposition|über|above|Die Lampe hängt über dem großen Esstisch.|The lamp hangs above the large dining table.
-64.002|preposition|über|about|Wir sprechen über das Thema morgen in der Sitzung.|We will talk about the topic tomorrow in the meeting.
-69.001|pronoun|mein|mine|Das Buch ist mein, das ich gestern gekauft habe.|The book is mine, which I bought yesterday.
-74.001|pronoun|viel|a lot|Es gibt viel zu tun, bevor wir fertig sind.|There is a lot to do before we are finished.
-74.002|pronoun|viel|many|Viele Menschen kamen zur Feier in die Stadt.|Many people came to the celebration in the city.
-76.001|verb|machen|to do|Er wollte etwas Besonderes für sie machen.|He wanted to do something special for her.
-76.002|verb|machen|make|Wir können eine Liste machen, um es zu planen.|We can make a list to plan it.
-78.001|verb|sollen|ought to|Du solltest früher ins Bett gehen, um fit zu sein.|You ought to go to bed earlier to stay fit.
-87.001|adjective|groß|big|Das ist ein großer Hund, der viel Platz braucht.|That is a big dog that needs a lot of space.
-87.002|adjective|groß|great|Es war ein großartiges Konzert mit vielen Zuschauern.|It was a great concert with many spectators.
-89.001|adjective|ganz|all the|Das war die ganze Geschichte, die ich erzählen wollte.|That was the whole story I wanted to tell.
-94.001|adverb|doch|however|Es war kalt, doch wir gingen trotzdem spazieren.|It was cold; however, we went for a walk.
-97.001|pronoun|uns|us|Er hat uns die Situation sehr gut erklärt.|He explained the situation to us very well.
-100.001|preposition|bis|till|Wir bleiben hier, bis der Regen aufhört.|We’ll stay here till the rain stops.
-106.001|noun|das Mal|mark|Das war das erste Mal, dass ich ihn gesehen habe.|That was the first time I saw him.
-108.001|verb|lassen|allow|Er ließ uns die Arbeit selbstständig erledigen.|He allowed us to do the work independently.
-108.002|verb|lassen|have done|Sie ließ ihre Haare von einem Profi schneiden.|She had her hair cut by a professional.
-126.001|noun|die Frau|wife|Die Frau, die an der Tür stand, war seine Frau.|The woman standing at the door was his wife.
-126.002|noun|die Frau|Mrs.|Frau Müller war die Lehrerin meiner Kinder.|Mrs. Müller was my children’s teacher.
-127.001|pronoun|etwas|some|Ich habe etwas Interessantes im Fernsehen gesehen.|I saw something interesting on television.
-127.002|pronoun|etwas|a little|Möchtest du etwas Zucker in deinen Kaffee geben?|Do you want to add a little sugar to your coffee?
-131.001|pronoun|wenige|little|Nur wenige Menschen kamen zur Ausstellung gestern.|Only a few people came to the exhibition yesterday.
-139.001|adjective|klein|little|Das kleine Kind spielte fröhlich im Garten.|The little child played happily in the garden.
-143.001|verb|bleiben|remain|Wir werden so lange bleiben, wie es nötig ist.|We will remain as long as necessary.
-148.001|adjective|hoch|high|Das ist ein hoher Berg, den wir besteigen wollen.|That is a high mountain we want to climb.
-159.001|conjunction|ob|if|Ich weiß nicht, ob er morgen zur Arbeit kommt.|I don’t know if he is coming to work tomorrow.
-161.001|pronoun|dabei|with it|Er hatte sein Buch dabei, als er kam.|He had his book with him when he came.
-162.001|preposition|seit|since|Er lebt hier, seit er aus dem Ausland zurückkam.|He has lived here since he returned from abroad.
-163.001|adjective|einfach|easy|Das ist eine einfache Aufgabe, die du schnell lösen kannst.|This is an easy task that you can solve quickly.
-165.001|adverb|erst|first|Wir sollten erst frühstücken, bevor wir starten.|We should first have breakfast before we start.
-165.002|adverb|erst|not until|Der Film beginnt erst, wenn alle da sind.|The movie doesn’t start until everyone is here.
-168.001|noun|das Land|land|Das Land hier ist fruchtbar und wird gut genutzt.|The land here is fertile and well-used.
-168.002|noun|das Land|state|Das ist ein wichtiger Teil der Geschichte unseres Landes.|That is an important part of our state’s history.
-169.001|verb|stellen|set|Wir müssen die Tische für das Fest richtig stellen.|We need to set the tables correctly for the party.
-169.002|verb|stellen|put|Er hat die Vase auf das Regal gestellt, wo sie sicher ist.|He put the vase on the shelf where it is safe.
-172.001|adverb|natürlich|naturally|Natürlich verstehen wir, warum das wichtig ist.|Naturally, we understand why this is important.
-176.001|adjective|gleich|right away|Ich komme gleich zu dir, wenn ich fertig bin.|I’ll come to you right away when I’m done.
-176.002|adjective|gleich|just|Das ist genau gleich wie das, was ich gemacht habe.|That is just the same as what I did.
-180.001|adverb|vielleicht|maybe|Vielleicht kommt er später, wenn er Zeit hat.|Maybe he’ll come later if he has time.
-182.001|verb|hören|to listen (to)|Ich höre gerne Musik, wenn ich mich entspannen möchte.|I like to listen to music when I want to relax.
-185.001|pronoun|wer|whoever|Wer zu spät kommt, verpasst die besten Plätze.|Whoever comes late misses the best seats.
-186.001|pronoun|dazu|furthermore|Er brachte Bücher mit und dazu auch einige Spiele.|He brought books and furthermore some games.
-186.002|pronoun|dazu|to that|Es gibt eine Lösung, aber dazu müssen wir reden.|There is a solution, but we need to talk to that.
-186.003|pronoun|dazu|for that|Er hatte keine Zeit, aber ein Grund dafür war klar.|He had no time, but a reason for that was clear.
-187.001|adjective|eigentlich|real|Eigentlich wollte ich heute gar nicht rausgehen.|I didn’t really want to go out today.
-193.001|verb|halten|to stop|Er hielt das Auto an der Ampel an, als sie rot wurde.|He stopped the car at the light when it turned red.
-193.002|verb|halten|hold|Sie hielt das Buch fest in ihren Händen, während sie las.|She held the book tightly in her hands while reading.
-198.001|adverb|gerade|just now|Ich habe gerade erfahren, dass das Treffen abgesagt wurde.|I just now learned that the meeting was canceled.
-198.002|adverb|gerade|right now|Er arbeitet gerade an einem neuen Projekt für die Firma.|He is working on a new project for the company right now.
-202.001|verb|bringen|to bring|Er brachte uns Geschenke, als er aus dem Urlaub zurückkam.|He brought us gifts when he returned from vacation.
-202.002|verb|bringen|take|Wir müssen ihn zum Arzt bringen, da er sich verletzt hat.|We need to take him to the doctor as he got injured.
-212.001|adverb|so ... wie möglich|if possible|Bitte kommen Sie so früh wie möglich zur Besprechung.|Please come as early as possible to the meeting.
-214.001|conjunction|während|whereas|Er mag Kaffee, während ich Tee bevorzuge.|He likes coffee, whereas I prefer tea.
-215.001|preposition|während|while|Während des Sturms blieben wir sicher im Haus.|During the storm, we stayed safe inside the house.
-216.001|pronoun|einige|a few|Einige Freunde kommen heute Abend zum Abendessen.|A few friends are coming for dinner tonight.
 217.001|pronoun|dafür|for that|Er hatte keine Zeit, aber einen Grund dafür.|He had no time but a reason for that.
-219.001|adjective|richtig|right|Das ist die richtige Antwort auf die Frage.|That is the right answer to the question.
-223.001|adverb|etwa|approximately|Die Reise dauert etwa drei Stunden mit dem Zug.|The journey takes approximately three hours by train.
-225.001|adjective|weitere|additional|Wir benötigen weitere Informationen zu diesem Thema.|We need additional information on this topic.
-230.001|noun|der Fall|fall|Im Fall eines Notfalls rufen Sie bitte die Polizei.|In case of an emergency, please call the police.
-231.001|adjective|schön|pleasant|Es war ein schöner Tag, perfekt für einen Spaziergang.|It was a pleasant day, perfect for a walk.
-231.002|adjective|schön|good|Das ist eine schöne Idee, die jeder mögen wird.|That is a good idea that everyone will like.
-232.001|adjective|wirklich|actual|Das ist das wirkliche Problem, das wir lösen müssen.|That is the actual problem we need to solve.
-233.001|adverb|wirklich|actually|Ich habe wirklich keine Ahnung, wie das passiert ist.|I actually have no idea how that happened.
-234.001|pronoun|denen (pl, Dativ)|whom|Die Menschen, denen ich geholfen habe, sind dankbar.|The people whom I helped are grateful.
-234.002|pronoun|denen (pl, Dativ)|who|Das sind die Kollegen, denen du das Projekt erklärt hast.|Those are the colleagues who you explained the project to.
-234.003|pronoun|denen (pl, Dativ)|that|Das sind die Regeln, an denen wir uns orientieren.|These are the rules that we follow.
-235.001|verb|nennen|call|Sie nennen ihn immer noch beim alten Spitznamen.|They still call him by his old nickname.
-237.001|verb|ziehen|to pull|Er zieht die Tür langsam zu, damit es nicht knallt.|He pulls the door slowly shut to avoid noise.
-237.002|verb|ziehen|move|Wir ziehen nächsten Monat in eine größere Wohnung.|We are moving to a bigger apartment next month.
-239.001|pronoun|darauf|to it|Er zeigte auf den Tisch und sagte: „Stell es darauf!“|He pointed to the table and said, “Put it on it!”
-240.001|adverb|eben|now|Ich habe es eben erst erfahren und muss es prüfen.|I just now learned about it and need to check.
-242.001|noun|die Seite|page|Auf der nächsten Seite finden Sie weitere Details.|On the next page, you will find more details.
-248.001|adjective|schnell|fast|Der schnelle Zug brachte uns in nur zwei Stunden ans Ziel.|The fast train brought us to the destination in just two hours.
-249.001|noun|die Stadt|town|Die Stadt, in der ich wohne, ist klein, aber charmant.|The town I live in is small but charming.
-251.002|adverb|zwar ..., aber|admittedly|Er hat zwar recht, aber ich bin nicht einverstanden.|He is admittedly right, but I disagree.
-251.003|adverb|zwar ..., aber|to be precise|Es ist zwar teuer, aber auch von hoher Qualität.|It is, to be precise, expensive but also of high quality.
-257.002|verb|bekommen|receive|Wir haben gestern die Nachricht bekommen, dass er ankommt.|We received the news yesterday that he is arriving.
-258.001|verb|meinen|have an opinion|Er meinte, wir sollten die Diskussion vertagen.|He had the opinion that we should postpone the discussion.
-259.001|pronoun|davon|from it|Ich habe noch nichts davon gehört, was sie vorhaben.|I haven’t heard anything from it about their plans.
-259.002|pronoun|davon|thereof|Der Erfolg hängt davon ab, wie gut wir arbeiten.|The success depends on how well we work.
-260.001|verb|fahren|ride|Ich fahre jeden Morgen mit dem Fahrrad zur Arbeit.|I ride my bike to work every morning.
-260.002|verb|fahren|go|Wir fahren morgen früh in die Berge zum Wandern.|We go to the mountains for hiking early tomorrow.
-262.001|pronoun|dich|yourself|Hast du dich schon entschieden, was du machen willst?|Have you decided yet what you want to do?
-265.001|noun|der Weg|way|Der Weg zum Ziel ist oft schwieriger als erwartet.|The way to the goal is often harder than expected.
-270.001|adverb|allerdings|indeed|Es war allerdings eine gute Idee, die wir umgesetzt haben.|It was indeed a good idea that we implemented.
-270.002|adverb|allerdings|certainly|Allerdings brauchen wir noch mehr Informationen.|We certainly need more information.
-271.001|adverb|sogar|in fact|Er hat das Problem gelöst und uns sogar geholfen.|He solved the problem and, in fact, helped us.
-273.001|verb|setzen|to set|Wir setzen uns ein Ziel, das wir erreichen wollen.|We set ourselves a goal we want to achieve.
 273.002|verb|setzen|place|Er setzte das Glas vorsichtig auf den Tisch.|He placed the glass carefully on the table.
-273.003|verb|setzen|put|Ich habe das Buch ins Regal gesetzt, wo es hingehört.|I put the book on the shelf where it belongs.
-275.001|adverb|deshalb|therefore|Es regnet stark, deshalb bleiben wir lieber zu Hause.|It’s raining heavily, therefore we prefer to stay home.
-276.001|adverb|weit|widely|Die Theorie wurde weit in der Wissenschaft akzeptiert.|The theory was widely accepted in science.
-282.001|noun|das Unternehmen|enterprise|Das Unternehmen expandiert schnell in neue Märkte.|The enterprise is expanding rapidly into new markets.
-287.001|noun|das Paar|pair|Das Paar, das dort tanzt, ist frisch verheiratet.|The pair dancing there is newly married.
-289.001|adjective|recht|(all) right|Die Lösung ist recht gut, aber noch verbesserbar.|The solution is all right but still improvable.
-289.002|adjective|recht|be fine (with)|Ich bin recht zufrieden mit dem, was wir erreicht haben.|I am fine with what we have achieved.
-290.001|noun|das Recht|law|Jeder Bürger hat das Recht auf freie Meinungsäußerung.|Every citizen has the right to free speech.
-291.001|particle|recht|quite|Das ist recht schwierig, aber machbar, denke ich.|That is quite difficult, but doable, I think.
-295.001|verb|bestehen|to exist|Das Problem besteht seit mehreren Jahren unverändert.|The problem has existed unchanged for several years.
-295.002|verb|bestehen|insist|Er besteht darauf, dass wir die Regeln einhalten.|He insists that we follow the rules.
-296.001|verb|versuchen|attempt|Ich werde versuchen, die Aufgabe bis morgen zu erledigen.|I will attempt to finish the task by tomorrow.
-298.001|noun|der Grund|basis|Der Grund für seinen Erfolg liegt in harter Arbeit.|The basis of his success lies in hard work.
-303.001|adjective|verschieden|diverse|Die Meinungen in der Gruppe sind sehr verschieden.|The opinions in the group are very diverse.
-305.001|noun|die Aufgabe|assignment|Die Aufgabe, die wir bekommen haben, war sehr anspruchsvoll.|The assignment we received was very demanding.
-305.002|noun|die Aufgabe|job|Seine Aufgabe ist es, die Daten sorgfältig zu prüfen.|His job is to carefully review the data.
-306.001|adjective|schwer|difficult|Das war eine schwere Entscheidung, die wir treffen mussten.|That was a difficult decision we had to make.
-309.001|noun|die Art|type|Diese Art von Fehler tritt häufig bei Anfängern auf.|This type of error often occurs with beginners.
-312.001|noun|die Geschichte|history|Die Geschichte der Stadt reicht bis ins Mittelalter zurück.|The history of the city dates back to the Middle Ages.
-314.001|verb|entstehen|to originate|Das Problem entstand durch einen Fehler im System.|The problem originated due to an error in the system.
-314.002|verb|entstehen|develop|Aus der Idee entstand ein erfolgreiches Projekt.|From the idea, a successful project developed.
-315.001|adjective|sicher|safe|Das System ist sicher und schützt vor Angriffen.|The system is safe and protects against attacks.
-315.002|adjective|sicher|certain|Ich bin mir sicher, dass wir die Lösung finden werden.|I am certain that we will find the solution.
-316.001|preposition|neben|beside|Er saß neben mir und erklärte mir die Aufgabe.|He sat beside me and explained the task.
-319.001|preposition|hinter|in back of|Das Auto steht hinter dem großen Haus.|The car is in back of the large house.
-321.001|verb|tragen|wear|Er trägt einen Mantel, weil es draußen kalt ist.|He wears a coat because it is cold outside.
-325.001|verb|scheinen|seem|Es scheint, als würde es bald anfangen zu regnen.|It seems like it will start raining soon.
-325.002|verb|scheinen|appear|Der Mond schien hell über den dunklen Wäldern.|The moon appeared bright over the dark woods.
-327.001|verb|aussehen|to appear|Er sieht aus, als hätte er schlecht geschlafen.|He appears as though he slept poorly.
-327.002|verb|aussehen|look|Das neue Kleid sieht wirklich wunderschön aus.|The new dress looks really beautiful.
-329.001|adverb|überhaupt|generally|Das war überhaupt nicht das, was ich erwartet habe.|That was generally not what I expected.
-331.001|conjunction|sowie|as soon as|Ich werde anrufen, sowie ich die Nachricht bekomme.|I’ll call as soon as I get the message.
-331.002|conjunction|sowie|plus|Er liebt Literatur sowie Kunst und Philosophie.|He loves literature plus art and philosophy.
 333.001|pronoun|darüber|above it|Das Bild hängt über dem Kamin, genau darüber.|The picture hangs above the fireplace, right above it.
-335.002|verb|schaffen|create|Er schuf ein Kunstwerk, das viele Menschen beeindruckte.|He created a masterpiece that impressed many.
-342.001|conjunction|beziehungsweise (bzw.)|respectively|Er hat zwei Autos, einen BMW beziehungsweise einen Audi.|He owns two cars, a BMW and an Audi respectively.
-344.001|verb|suchen|look for|Ich suche das Buch, das ich letzte Woche gekauft habe.|I am looking for the book I bought last week.
-346.001|adjective|gemeinsam|mutual|Wir haben ein gemeinsames Ziel, das wir erreichen wollen.|We have a mutual goal that we want to achieve.
-350.001|noun|das Thema|subject|Das Thema des Vortrags war sehr interessant gestaltet.|The subject of the lecture was very interesting.
-350.002|noun|das Thema|theme|Der Film behandelt ein wichtiges Thema aus der Geschichte.|The film addresses an important theme from history.
-351.001|verb|handeln|trade|Die Händler handeln auf dem Markt mit frischen Waren.|The merchants trade fresh goods at the market.
-355.001|adverb|anders|different|Das war ganz anders, als ich es mir vorgestellt hatte.|That was entirely different from what I imagined.
-358.001|noun|der Blick|look|Ein kurzer Blick genügte, um die Situation zu verstehen.|A quick look was enough to understand the situation.
-358.002|noun|der Blick|glance|Er warf einen Blick auf die Uhr und ging schnell weiter.|He glanced at the clock and moved on quickly.
-360.003|adjective|einzeln|individual|Jedes einzelne Detail des Plans wurde überprüft.|Every individual detail of the plan was reviewed.
-361.003|verb|erreichen|to achieve|Er möchte sein Ziel in den nächsten Jahren erreichen.|He wants to achieve his goal in the next few years.
-363.001|adjective|leicht|easy|Die Aufgabe war leicht, wenn man sie gut durchdachte.|The task was easy if you thought it through well.
-364.001|adverb|je|ever|Je mehr du lernst, desto besser wirst du verstehen.|The more you learn, the better you will understand.
-365.001|conjunction|je ..., desto|the more ...|Je länger wir warten, desto schwieriger wird es.|The longer we wait, the more difficult it becomes.
-365.002|conjunction|je ..., desto|the|Je genauer man plant, desto besser das Ergebnis.|The better you plan, the better the result.
-368.001|verb|bilden|educate|Die Schule bildet Kinder, die später erfolgreich werden.|The school educates children who later become successful.
-372.001|adjective|bekannt|well-known|Er ist ein bekannter Autor, dessen Bücher sehr beliebt sind.|He is a well-known author whose books are very popular.
-373.001|noun|das Ziel|destination|Unser Ziel ist ein kleines Dorf in den Bergen.|Our destination is a small village in the mountains.
-374.001|verb|steigen|increase|Die Preise steigen, weil die Nachfrage so hoch ist.|Prices increase because the demand is so high.
-375.001|adverb|eher|sooner|Ich würde eher ein Taxi nehmen als zu Fuß gehen.|I would sooner take a taxi than walk.
-375.002|adverb|eher|earlier|Früher oder später müssen wir die Entscheidung treffen.|Sooner or later, we have to make the decision.
-375.003|adverb|eher|more likely|Es ist eher wahrscheinlich, dass er heute anruft.|It is more likely that he will call today.
-378.001|adverb|nachts|nights|Nachts sieht man die Sterne besonders klar am Himmel.|At nights, the stars are especially clear in the sky.
-380.003|noun|der Platz|room|Es gibt nicht genug Platz, um alle Gäste zu empfangen.|There is not enough room to accommodate all the guests.
-382.001|noun|das Spiel|match|Das Spiel gestern Abend war spannend bis zur letzten Minute.|The match last night was exciting until the last minute.
-384.001|pronoun|jemand|somebody|Jemand hat die Tür offen gelassen, bevor er ging.|Somebody left the door open before leaving.
-388.001|noun|der Preis|prize|Der erste Preis ging an die talentierte junge Künstlerin.|The first prize went to the talented young artist.
-393.001|noun|der Bereich|region|Der Bereich um das Flussufer ist ein Naturschutzgebiet.|The region around the riverbank is a nature reserve.
-394.001|adjective|tatsächlich|real|Das ist tatsächlich das Ergebnis harter Arbeit und Ausdauer.|That is the real result of hard work and perseverance.
-395.001|noun|der Ort|town|Der Ort, den wir besuchten, war klein, aber malerisch.|The town we visited was small but picturesque.
-395.002|noun|der Ort|location|Die genaue Lage des Ortes wurde auf der Karte markiert.|The exact location of the place was marked on the map.
-398.001|adjective|einzig|single|Das war die einzig logische Entscheidung in dieser Situation.|That was the single logical decision in this situation.
-403.001|noun|die Uhr|watch|Meine neue Uhr zeigt die Zeit und auch das Datum an.|My new watch shows the time and also the date.
-403.002|noun|die Uhr|o’clock|Um genau zwölf Uhr begann die Besprechung im Büro.|At exactly twelve o’clock, the meeting started at the office.
-404.001|pronoun|mehrere|multiple|Mehrere Personen meldeten sich freiwillig für die Aufgabe.|Multiple people volunteered for the task.
-404.002|pronoun|mehrere|various|Wir diskutierten mehrere Optionen, bevor wir uns entschieden.|We discussed various options before deciding.
-406.001|adverb|schließlich|finally|Schließlich fand er die Lösung für das schwierige Problem.|He finally found the solution to the difficult problem.
-407.001|verb|legen|to lay|Sie legte die Dokumente sorgfältig auf den Schreibtisch.|She laid the documents carefully on the desk.
-407.002|verb|legen|put|Er legte den Brief in den Umschlag und schloss ihn sofort.|He put the letter in the envelope and sealed it immediately.
-408.001|adjective|direkt|straight|Der Weg zum Ziel war direkt und einfach zu finden.|The path to the goal was straight and easy to find.
-409.001|pronoun|daher|from|Das ist das Geschenk, daher kommt es direkt aus Italien.|This is the gift, it comes directly from Italy.
-409.002|pronoun|daher|there|Er war nicht da, daher konnte ich ihn nicht fragen.|He wasn’t there, so I couldn’t ask him.
-409.003|pronoun|daher|hence|Es regnete stark, daher blieben wir lieber zu Hause.|It was raining heavily, hence we stayed home.
-411.001|verb|erkennen|admit|Er musste erkennen, dass er einen Fehler gemacht hatte.|He had to admit that he had made a mistake.
-415.001|pronoun|darin|in there|In der Tasche ist nichts Besonderes darin zu finden.|There is nothing special in there to find.
-415.002|pronoun|darin|inside|Darin lag ein Brief, der seine Rückkehr ankündigte.|Inside was a letter announcing his return.
-416.001|noun|das Auto|automobile|Das Auto stand auf dem Parkplatz direkt vor dem Gebäude.|The automobile was parked right in front of the building.
-417.001|pronoun|niemand|no one|Niemand wusste, was genau geschehen war, bevor wir kamen.|No one knew exactly what had happened before we arrived.
-420.001|verb|vorstellen|imagine|Ich kann mir nicht vorstellen, wie er das geschafft hat.|I can’t imagine how he managed to do that.
-426.001|particle|na|well|Na, was denkst du über die Situation, die entstanden ist?|Well, what do you think about the situation that arose?
-427.001|verb|gewinnen|gain|Er konnte das Vertrauen seiner Kollegen schnell gewinnen.|He was able to gain the trust of his colleagues quickly.
-428.001|adverb|zunächst|at first|Zunächst dachten wir, es sei ein einfacher Fehler.|At first, we thought it was a simple mistake.
-428.002|adverb|zunächst|for now|Wir lassen es zunächst so und sehen, was passiert.|We’ll leave it like this for now and see what happens.
-434.001|noun|die Möglichkeit|chance|Er hatte die Möglichkeit, an dem Projekt teilzunehmen.|He had the chance to participate in the project.
-435.001|noun|der Sinn|sense|Der Sinn dieser Regel ist es, Ordnung zu schaffen.|The sense of this rule is to create order.
-436.001|verb|passieren|to take place|Das Konzert wird nächste Woche in der Stadt passieren.|The concert will take place in the city next week.
-436.002|verb|passieren|happen|Es kann jederzeit passieren, wenn wir nicht vorbereitet sind.|It can happen anytime if we are not prepared.
-440.001|noun|die Rolle|roll|Die Rolle, die er spielte, war sehr überzeugend dargestellt.|The role he played was portrayed very convincingly.
-447.001|noun|die Angst|anxiety|Die Angst vor dem Unbekannten hielt ihn von Entscheidungen ab.|The anxiety about the unknown kept him from making decisions.
-450.001|pronoun|jene|those|Jene Tage im Sommer waren die schönsten meines Lebens.|Those days in the summer were the best of my life.
-452.001|particle|oh|aw|Oh, ich habe völlig vergessen, dir die Nachricht zu schicken.|Aw, I completely forgot to send you the message.
-454.001|noun|die Stimme|vote|Er erhielt die meisten Stimmen und gewann die Wahl.|He received the most votes and won the election.
-456.001|verb|wirken|to have an effect|Das Medikament begann schnell zu wirken und linderte den Schmerz.|The medicine began to have an effect and relieved the pain.
-456.002|verb|wirken|take effect|Die Regelungen werden erst ab nächster Woche wirken.|The regulations will only take effect next week.
-456.003|verb|wirken|work|Das Team wirkte zusammen, um die Aufgabe erfolgreich abzuschließen.|The team worked together to complete the task successfully.
-457.001|verb|darstellen|to depict|Das Gemälde stellt eine Szene aus dem alten Rom dar.|The painting depicts a scene from ancient Rome.
-457.002|verb|darstellen|portray|Er konnte die Rolle des Helden überzeugend darstellen.|He was able to portray the hero's role convincingly.
-457.003|verb|darstellen|show|Das Diagramm stellt die Umsatzentwicklung der letzten Jahre dar.|The chart shows the sales development of recent years.
-458.001|noun|der Raum|space|Der Raum war groß genug, um alle Teilnehmer unterzubringen.|The space was large enough to accommodate all participants.
-460.001|verb|bezeichnen|name|Er wurde als Experte auf diesem Gebiet bezeichnet.|He was named as an expert in this field.
-464.001|noun|die USA (Vereinigte Staaten von Amerika)|United States of America|Die USA spielen eine zentrale Rolle in der Weltpolitik.|The United States of America play a central role in world politics.
-466.001|adverb|früher|in former times|Früher war alles einfacher, als die Technik noch nicht da war.|In former times, everything was simpler without the technology.
-469.001|verb|ergeben|to result in|Die Analyse ergab interessante Erkenntnisse über das Verhalten.|The analysis resulted in interesting insights into the behavior.
-469.002|verb|ergeben|produce|Die Arbeit wird gute Ergebnisse für die Firma ergeben.|The work will produce good results for the company.
-472.001|verb|betreffen|to affect|Die neuen Maßnahmen betreffen alle Abteilungen des Unternehmens.|The new measures affect all departments of the company.
-472.002|verb|betreffen|concern|Das Problem betrifft uns alle und erfordert eine Lösung.|The problem concerns us all and requires a solution.
-473.001|adverb|oben|up there|Oben auf dem Berg hat man eine großartige Aussicht.|Up there on the mountain, you have a great view.
-475.001|verb|bestimmen|to decide|Das Team hat bestimmt, welche Strategie verfolgt wird.|The team has decided which strategy will be pursued.
-475.002|verb|bestimmen|determine|Die Analyse wird bestimmen, ob die Daten korrekt sind.|The analysis will determine whether the data is correct.
-476.001|verb|fehlen|to lack|Ihm fehlt das Selbstvertrauen, um die Aufgabe zu lösen.|He lacks the confidence to solve the task.
-476.002|verb|fehlen|be absent|Ein wichtiger Mitarbeiter fehlte heute wegen Krankheit.|An important employee was absent today due to illness.
-480.001|adverb|außerdem|in addition|Das Buch ist spannend und außerdem sehr lehrreich.|The book is exciting and, in addition, very educational.
-481.001|particle|nämlich|namely|Es war klar, dass er gewinnt, nämlich von Anfang an.|It was clear that he would win, namely from the beginning.
-487.001|noun|die Folge|result|Die Folge des Fehlers war ein großer finanzieller Verlust.|The result of the mistake was a significant financial loss.
-489.001|pronoun|manche|many a|Manche glauben, dass Veränderungen unmöglich sind.|Many a person believes that change is impossible.
-490.001|noun|die Verbindung|link|Die Verbindung zwischen den beiden Orten ist sehr gut.|The link between the two places is very good.
-497.001|adverb|bisher|up to now|Bisher haben wir keine Lösung für das Problem gefunden.|Up to now, we have not found a solution to the problem.
-497.002|adverb|bisher|yet|Bisher hat sich noch niemand für die Stelle beworben.|Yet, no one has applied for the position.
-501.001|adverb|ebenfalls|likewise|Er hat mir geholfen, und ich werde ihm ebenfalls helfen.|He helped me, and I will likewise help him.
-501.002|adverb|ebenfalls|as well|Er wird ebenfalls an der Diskussion teilnehmen.|He will take part in the discussion as well.
 503.001|noun|die Grenze|frontier|Die Grenze zwischen den Ländern ist offen.|The frontier between the countries is open.
-508.001|verb|verbinden|link|Die Brücke verbindet die beiden Städte miteinander.|The bridge links the two cities together.
-508.002|verb|verbinden|unite|Das Ziel ist, die Gruppen zu verbinden.|The goal is to unite the groups.
-510.001|adverb|endlich|at last|Endlich können wir die Ergebnisse sehen.|At last, we can see the results.
-513.001|pronoun|danach|after it|Wir haben gegessen, und danach gingen wir spazieren.|We ate and after it, we went for a walk.
-514.001|noun|die Kraft|power|Er hat nicht die Kraft, um weiterzugehen.|He doesn’t have the power to continue.
-517.001|verb|einsetzen|to put in|Er setzte die Pflanzen vorsichtig in den Boden.|He put in the plants carefully into the soil.
-517.002|verb|einsetzen|insert|Er musste die Karte in das Lesegerät einsetzen.|He had to insert the card into the reader.
-522.001|pronoun|dadurch|through it|Dadurch konnten wir das Problem schnell lösen.|Through it, we could solve the problem quickly.
-522.002|pronoun|dadurch|as a consequence|Es regnete stark, dadurch wurde das Spiel verschoben.|It rained heavily, as a consequence, the game was postponed.
-523.001|pronoun|dagegen|on the other hand|Er war dafür, ich war dagegen und lehnte ab.|He was for it; I was against it and refused.
-524.001|noun|die Weise|manner|Auf diese Weise können wir die Arbeit erledigen.|In this manner, we can complete the work.
-534.001|particle|halt|simply|Das ist halt die Wahrheit, die man akzeptieren muss.|That’s simply the truth one has to accept.
-536.001|adjective|nah|close|Die Schule liegt sehr nah an unserem Haus.|The school is very close to our house.
-537.001|preposition|nahe|near|Der Park befindet sich nahe dem Stadtzentrum.|The park is near the city center.
-540.001|verb|ausgehen|assume|Ich gehe davon aus, dass alles gut laufen wird.|I assume everything will go well.
-541.001|noun|die Bedeutung|significance|Die Bedeutung dieser Entdeckung ist enorm.|The significance of this discovery is enormous.
-542.001|verb|betrachten|consider|Er betrachtet die Sache aus einem anderen Blickwinkel.|He considers the matter from a different perspective.
 547.001|verb|stimmen|vote|Wir müssen über die neuen Regeln abstimmen.|We need to vote on the new rules.
-547.002|verb|stimmen|tune|Er stimmt die Gitarre, bevor er spielt.|He tunes the guitar before he plays.
-548.001|verb|bitten|to request|Sie bitten die Gäste, sich an die Regeln zu halten.|They request the guests to follow the rules.
-548.002|verb|bitten|ask|Ich möchte dich um einen kleinen Gefallen bitten.|I want to ask you for a small favor.
-550.001|adjective|wahrscheinlich|likely|Es ist wahrscheinlich, dass das Wetter morgen besser wird.|It is likely that the weather will improve tomorrow.
-551.001|adverb|wahrscheinlich|likely|Er wird wahrscheinlich später ankommen als geplant.|He will likely arrive later than planned.
-553.001|pronoun|euch|yourselves|Habt ihr euch gut auf die Prüfung vorbereitet?|Did you prepare yourselves well for the exam?
-554.001|adverb|insgesamt|altogether|Insgesamt waren mehr als fünfzig Leute anwesend.|Altogether, more than fifty people were present.
-554.002|adverb|insgesamt|in total|Die Reise dauerte insgesamt drei Stunden mit dem Auto.|The trip took a total of three hours by car.
-555.001|verb|anfangen|to begin|Wir fangen morgen früh mit der Arbeit an.|We will begin with the work tomorrow morning.
-555.002|verb|anfangen|start|Das Konzert wird in wenigen Minuten anfangen.|The concert will start in a few minutes.
-559.001|noun|die Wohnung|flat|Die Wohnung hat drei Zimmer und einen Balkon.|The flat has three rooms and a balcony.
-562.001|adjective|gering|low|Die Gefahr ist gering, dass etwas schiefgeht.|The risk is low that something will go wrong.
-562.002|adjective|gering|minor|Es gab nur einen geringen Unterschied zwischen den Versionen.|There was only a minor difference between the versions.
-563.001|noun|der Film|film|Der Film war spannend und hatte ein überraschendes Ende.|The film was exciting and had a surprising ending.
-565.001|verb|ansehen|to look at|Wir sehen uns die neuen Pläne heute Abend an.|We will look at the new plans tonight.
-565.002|verb|ansehen|watch|Sie möchte den neuen Film im Kino ansehen.|She wants to watch the new film in the cinema.
-573.001|adjective|völlig|absolutely|Ich bin völlig überzeugt, dass er die Wahrheit sagt.|I am absolutely convinced that he is telling the truth.
-576.001|pronoun|darum|around it|Darum stehen viele Menschen, die neugierig sind.|Around it, there are many curious people.
-576.002|pronoun|darum|therefore|Ich bin müde, darum gehe ich jetzt ins Bett.|I am tired, therefore I am going to bed now.
-577.001|noun|der Kunde|client|Der Kunde ist mit dem Service der Firma zufrieden.|The client is satisfied with the company's service.
-578.001|noun|die Menge|quantity|Eine große Menge Wasser wurde für die Bewässerung genutzt.|A large quantity of water was used for irrigation.
-579.001|noun|die Regierung|rule|Die neue Regierung plant wichtige Reformen im Land.|The new rule plans important reforms in the country.
-580.001|noun|die Antwort|reply|Ihre Antwort war klar und hat uns sehr geholfen.|Her reply was clear and helped us a lot.
-581.001|verb|annehmen|assume|Wir können annehmen, dass das Problem bald gelöst wird.|We can assume that the problem will be solved soon.
-582.001|adjective|falsch|false|Die Informationen, die er gab, waren völlig falsch.|The information he provided was completely false.
-583.001|noun|der Zusammenhang|connection|Der Zusammenhang zwischen den beiden Themen war klar.|The connection between the two topics was clear.
-593.001|adverb|ebenso|as much as|Er arbeitet ebenso hart wie alle anderen im Team.|He works as much as everyone else on the team.
-593.002|adverb|ebenso|as well|Ich habe ebenso wie du nichts von der Sache gewusst.|I knew nothing about the matter as well.
 594.001|noun|der Boden|floor|Er legte die Tasche vorsichtig auf den Boden.|He carefully placed the bag on the floor.
 594.002|noun|der Boden|bottom|Am Boden des Glases war noch etwas Wasser.|At the bottom of the glass, there was some water.
-600.001|adverb|zudem|furthermore|Er ist pünktlich, zudem arbeitet er sehr effizient.|He is punctual; furthermore, he works very efficiently.
-600.002|adverb|zudem|besides|Das Hotel ist teuer, zudem ist das Essen nicht gut.|The hotel is expensive; besides, the food is not good.
-601.001|noun|die Bank|bench|Wir saßen auf der Bank und genossen die Aussicht.|We sat on the bench and enjoyed the view.
-602.001|preposition|ab|as of|Ab morgen gelten die neuen Regelungen im Büro.|As of tomorrow, the new regulations apply in the office.
 605.001|verb|holen|fetch|Er ging hinaus, um frische Luft zu holen.|He went out to fetch some fresh air.
-613.001|noun|die Lage|location|Die Lage des Hauses ist ideal für Familien mit Kindern.|The location of the house is ideal for families with children.
-614.001|noun|der Schüler|pupil|Der Schüler stellte eine interessante Frage im Unterricht.|The pupil asked an interesting question in class.
-615.001|adjective|gesamt|whole|Die gesamte Klasse nahm an der Exkursion teil.|The whole class participated in the excursion.
-616.001|noun|der Druck|printing|Der Druck der Zeitung erfolgt jeden Morgen früh.|The printing of the newspaper takes place early every morning.
 621.001|verb|aufnehmen|to take in|Das Hotel kann bis zu 200 Gäste aufnehmen.|The hotel can take in up to 200 guests.
 621.002|verb|aufnehmen|record|Die Band will ihr neues Album bald aufnehmen.|The band will record their new album soon.
-621.003|verb|aufnehmen|include|Wir müssen mehr Details in den Bericht aufnehmen.|We need to include more details in the report.
-622.001|noun|die Kosten (pl)|expenses|Die Kosten für das Projekt wurden korrekt berechnet.|The expenses for the project were calculated correctly.
-624.001|verb|merken|remember|Bitte merke dir die wichtigsten Punkte der Besprechung.|Please remember the key points of the meeting.
-625.004|adjective|fest|solid|Der Tisch steht fest auf dem Boden und wackelt nicht.|The table is solid on the floor and does not wobble.
-625.005|adjective|fest|strong|Er hat einen festen Händedruck, der Vertrauen schafft.|He has a strong handshake that builds trust.
-627.001|noun|der Begriff|concept|Der Begriff der Freiheit ist schwer zu definieren.|The concept of freedom is hard to define.
-627.002|noun|der Begriff|idea|Ich habe eine genaue Vorstellung von diesem Begriff.|I have a clear idea about this concept.
-638.001|adjective|schwierig|hard|Die Prüfung war schwierig, aber trotzdem machbar.|The exam was hard but still manageable.
-638.002|adjective|schwierig|tough|Er hatte eine schwierige Entscheidung zu treffen.|He had a tough decision to make.
-639.001|noun|das Gut|estate|Das Gut wurde vor vielen Jahren von der Familie gekauft.|The estate was purchased by the family many years ago.
-644.001|verb|besitzen|have|Sie besitzen ein großes Haus mit einem schönen Garten.|They have a large house with a beautiful garden.
-651.001|adjective|eng|close|Die beiden Länder haben enge wirtschaftliche Beziehungen.|The two countries have close economic ties.
-653.001|noun|der Prozess|process|Der Prozess der Datenauswertung dauert einige Tage.|The process of data analysis takes a few days.
-657.001|verb|fordern|claim|Die Mitarbeiter fordern bessere Arbeitsbedingungen.|The employees claim better working conditions.
-662.001|verb|verhalten|act|Er verhielt sich ruhig und wartete auf weitere Anweisungen.|He acted calmly and waited for further instructions.
-664.001|adverb|ziemlich|fairly|Das Buch war ziemlich interessant und gut geschrieben.|The book was fairly interesting and well-written.
-664.002|adverb|ziemlich|pretty|Es war ziemlich kalt draußen, aber wir gingen spazieren.|It was pretty cold outside, but we went for a walk.
-667.002|adverb|wobei|whereby|Es gibt eine Regel, wobei Ausnahmen möglich sind.|There is a rule whereby exceptions are possible.
-667.003|adverb|wobei|at what|Wobei kann ich Ihnen helfen, falls Sie Fragen haben?|At what can I help you if you have questions?
-667.004|adverb|wobei|whereat|Das ist der Punkt, wobei die Diskussion begann.|That’s the point whereat the discussion began.
-667.005|adverb|wobei|what ... by|Das ist die Methode, wobei gute Ergebnisse erzielt werden.|This is the method by what good results are achieved.
-668.001|adverb|jeweils|each|Die Pausen dauern jeweils zehn Minuten zwischen den Vorträgen.|The breaks last ten minutes each between the lectures.
-669.001|verb|reichen|to reach|Das Geld reicht aus, um die Rechnung zu bezahlen.|The money is enough to pay the bill.
-672.001|verb|schlagen|beat|Er schlug die Trommel mit viel Energie und Leidenschaft.|He beat the drum with a lot of energy and passion.
-676.001|verb|erhöhen|increase|Die Firma plant, die Preise für ihre Produkte zu erhöhen.|The company plans to increase the prices for its products.
-677.001|verb|sorgen|to worry|Er sorgte sich um die Gesundheit seiner Familie.|He worried about the health of his family.
-677.002|verb|sorgen|take care|Sie sorgen dafür, dass alles rechtzeitig fertig wird.|They take care that everything is finished on time.
-682.001|noun|der Arzt|physician|Der Arzt verschrieb ihm ein Medikament gegen die Schmerzen.|The physician prescribed him medication for the pain.
-683.001|verb|geschehen|occur|Ein Fehler geschah während der Bearbeitung der Daten.|An error occurred during the data processing.
-685.001|verb|lösen|loosen|Er löste den Knoten im Seil, um es besser zu verwenden.|He loosened the knot in the rope to use it better.
-688.001|verb|vorkommen|occur|Ein solcher Fehler kann gelegentlich vorkommen.|Such an error can occasionally occur.
-688.002|verb|vorkommen|seem|Es kommt mir vor, als wäre etwas nicht in Ordnung.|It seems to me that something is not right.
-691.001|verb|wünschen|to want|Ich wünsche mir ein ruhiges Wochenende ohne Stress.|I want a quiet weekend without stress.
 691.002|verb|wünschen|wish|Er wünschte ihr viel Glück für ihre Prüfung.|He wished her good luck for her exam.
 696.001|pronoun|dasselbe|the same (one|Er trug dasselbe Hemd wie gestern zur Arbeit.|He wore the same shirt to work as yesterday.
-696.002|pronoun|dasselbe|ones)|Wir hatten genau dasselbe Problem beim letzten Mal.|We had exactly the same problem the last time.
-697.001|verb|wählen|to choose|Er wählte die günstigste Option aus der Liste aus.|He chose the cheapest option from the list.
-697.002|verb|wählen|elect|Das Volk wählte einen neuen Präsidenten bei der Wahl.|The people elected a new president in the election.
-697.003|verb|wählen|vote|Die Bürger wählen heute ihren neuen Bürgermeister.|The citizens vote for their new mayor today.
-698.001|adverb|gleichzeitig|at the same time|Wir können gleichzeitig arbeiten und Musik hören.|We can work and listen to music at the same time.
-699.001|adjective|knapp|slim|Das Team hatte einen knappen Vorsprung beim Sieg.|The team had a slim lead in the victory.
-700.001|noun|der Mitarbeiter|co-worker|Ein neuer Mitarbeiter wurde im Team herzlich begrüßt.|A new co-worker was warmly welcomed to the team.
-702.001|noun|das Glück|fortune|Er hatte das Glück, einen guten Job zu finden.|He had the fortune to find a good job.
-708.001|verb|vorliegen|exist|Es liegt keine ausreichende Begründung für die Verzögerung vor.|There exists no sufficient reason for the delay.
 709.001|verb|erfolgen|occur|Die Änderung erfolgt ab dem nächsten Monat.|The change occurs starting next month.
-710.001|noun|die Beziehung|relation|Die Beziehung zwischen den Ländern ist stabil.|The relation between the countries is stable.
-713.001|verb|stattfinden|occur|Die Konferenz wird morgen in der Haupthalle stattfinden.|The conference will occur tomorrow in the main hall.
-715.002|noun|das Auftreten|conduct|Sein höfliches Auftreten beeindruckte alle Gäste.|His polite conduct impressed all the guests.
 715.003|noun|das Auftreten|occurrence|Ein solches Auftreten von Fehlern ist selten.|Such an occurrence of errors is rare.
-716.001|verb|auftreten|to appear|Der Künstler wird auf der Bühne bald auftreten.|The artist will appear on stage soon.
-716.002|verb|auftreten|occur|Probleme treten oft während der Testphase auf.|Problems often occur during the testing phase.
-720.001|adverb|los|rid of|Er wollte das alte Möbelstück schnell loswerden.|He wanted to get rid of the old piece of furniture quickly.
-722.001|noun|die Höhe|altitude|Das Flugzeug erreichte eine Höhe von 10.000 Metern.|The airplane reached an altitude of 10,000 meters.
-723.001|adjective|wesentlich|fundamental|Eine wesentliche Änderung des Plans ist notwendig.|A fundamental change to the plan is necessary.
 726.002|adverb|zuletzt|most recently|Er wurde zuletzt in der Bibliothek gesehen.|He was most recently seen in the library.
-727.001|adjective|rein|clear|Das Wasser im Gebirgssee war rein und erfrischend.|The water in the mountain lake was clear and refreshing.
-727.002|adjective|rein|clean|Die rein weißen Wände gaben dem Raum eine klare Optik.|The clean white walls gave the room a crisp appearance.
-729.001|conjunction|indem|while|Er verbessert sein Deutsch, indem er täglich liest.|He improves his German while reading daily.
-735.001|adverb|beispielsweise|such as|Viele Städte, beispielsweise Berlin, bieten kulturelle Vielfalt.|Many cities, such as Berlin, offer cultural diversity.
-736.001|noun|die Bedingung|stipulation|Die Bedingung für die Teilnahme ist die pünktliche Anmeldung.|The stipulation for participation is timely registration.
-740.001|verb|funktionieren|to function|Das neue System funktioniert schneller als erwartet.|The new system functions faster than expected.
-740.002|verb|funktionieren|work|Das Gerät funktioniert einwandfrei seit der Reparatur.|The device works perfectly since the repair.
-748.001|adjective|echt|real|Das war eine echt beeindruckende Leistung im Spiel.|That was a real impressive performance in the game.
-749.001|noun|die Firma|firm|Die Firma expandiert in mehrere internationale Märkte.|The firm is expanding into multiple international markets.
-750.001|noun|die Wirtschaft|commerce|Die Wirtschaft des Landes wächst trotz der Herausforderungen.|The commerce of the country is growing despite challenges.
-751.001|verb|stecken|be located|Das Geld steckt in der Tasche, die auf dem Tisch liegt.|The money is located in the bag on the table.
-753.001|verb|erfahren|to experience|Er konnte viel Neues während seiner Reise erfahren.|He was able to experience many new things during his journey.
-753.002|verb|erfahren|find out|Ich habe gerade erfahren, dass die Veranstaltung abgesagt wurde.|I just found out that the event was canceled.
-755.001|noun|die Folie|foil|Die Folie wurde genutzt, um das Essen frisch zu halten.|The foil was used to keep the food fresh.
-756.001|verb|leisten|achieve|Er hat in kurzer Zeit beachtliche Fortschritte geleistet.|He has achieved remarkable progress in a short time.
-756.002|verb|leisten|do|Sie leistete alles, um das Team zu unterstützen.|She did everything to support the team.
-760.001|verb|beobachten|watch|Sie beobachtete die Vögel, die am Seeufer landeten.|She watched the birds landing on the lake shore.
-768.001|adverb|meist|mostly|Das Team arbeitet meist unabhängig an den Projekten.|The team mostly works independently on the projects.
-772.001|noun|die Bewegung|motion|Die Bewegung des Schiffes war sanft auf den Wellen.|The motion of the ship was gentle on the waves.
-776.001|preposition|aufgrund|on the basis of|Aufgrund der Beweise wurde der Fall schnell geklärt.|On the basis of the evidence, the case was resolved quickly.
-777.001|verb|beschäftigen|to employ|Die Firma beschäftigt derzeit über 500 Mitarbeiter.|The company employs over 500 workers at present.
-777.002|verb|beschäftigen|be busy|Er war die ganze Woche mit der Planung beschäftigt.|He was busy with the planning all week.
-777.003|verb|beschäftigen|deal with|Das Buch beschäftigt sich mit aktuellen gesellschaftlichen Themen.|The book deals with current social issues.
 778.001|adverb|zuvor|previously|Er hatte das Problem zuvor nicht bemerkt.|He had not noticed the problem previously.
 780.001|adverb|dennoch|nevertheless|Es regnete, dennoch gingen sie spazieren.|It rained, nevertheless, they went for a walk.
-782.001|noun|das Angebot|supply|Das Angebot an frischem Obst war auf dem Markt reichlich.|The supply of fresh fruit was plentiful at the market.
-787.001|verb|kriegen|receive|Sie kriegen die Ware innerhalb weniger Tage geliefert.|They receive the goods within a few days.
-790.001|noun|die Größe|height|Die Größe des Gebäudes war beeindruckend anzusehen.|The height of the building was impressive to see.
 794.001|verb|beteiligen|contribute|Er wollte sich aktiv am Projekt beteiligen.|He wanted to contribute actively to the project.
+27.001|preposition|an|at|Wir trafen uns an der Ecke beim Café.|We met at the corner near the café.
+34.001|verb|können|to be able to|Ich kann das Problem ohne Hilfe lösen.|I am able to solve the problem without help.
+49.001|adverb|noch|still|Er ist noch nicht fertig mit der Arbeit.|He is still not done with the work.
+64.002|preposition|über|about|Das Buch handelt über die Geschichte Europas.|The book is about the history of Europe.
+76.002|verb|machen|make|Er will aus Holz ein neues Regal machen.|He wants to make a new shelf out of wood.
+78.001|verb|sollen|ought to|Du sollst pünktlich zum Termin erscheinen.|You ought to arrive on time for the appointment.
+87.002|adjective|groß|great|Das war eine großartige Idee für das Projekt.|That was a great idea for the project.
+108.001|verb|lassen|allow|Sie ließ mich das neue Buch zuerst lesen.|She allowed me to read the new book first.
+108.002|verb|lassen|have done|Ich lasse meine Haare jeden Monat schneiden.|I have my hair done every month.
+127.002|pronoun|etwas|a little|Möchtest du etwas Zucker in deinen Tee geben?|Would you like a little sugar in your tea?
+159.001|conjunction|ob|if|Ich frage mich, ob er heute zur Party kommt.|I wonder if he is coming to the party today.
+182.001|verb|hören|to listen (to)|Ich höre gerne Musik, wenn ich arbeite.|I like to listen to music when I work.
+202.001|verb|bringen|to bring|Bitte bring die Briefe morgen zur Post.|Please bring the letters to the post office tomorrow.
+212.001|adverb|so ... wie möglich|if possible|Komm so früh wie möglich zur Besprechung.|Come as early as possible to the meeting.
+215.001|preposition|während|while|Während des Films blieb es still im Kino.|While the movie played, it was quiet in the cinema.
+216.001|pronoun|einige|a few|Einige Leute kamen später zur Veranstaltung.|A few people arrived later to the event.
+235.001|verb|nennen|call|Sie nennen das Projekt einen großen Erfolg.|They call the project a big success.
+242.001|noun|die Seite|page|Die Seite des Buches war bereits abgenutzt.|The page of the book was already worn out.
+249.001|noun|die Stadt|town|Die Stadt war bekannt für ihre alten Gebäude.|The town was known for its old buildings.
+265.001|noun|der Weg|way|Der Weg zum Gipfel war lang und steil.|The way to the summit was long and steep.
+287.001|noun|das Paar|pair|Das Paar tanzte elegant auf der Hochzeit.|The pair danced elegantly at the wedding.
+291.001|particle|recht|quite|Es war recht spät, als wir nach Hause kamen.|It was quite late when we got home.
+315.001|adjective|sicher|safe|Der Park ist sicher, auch bei Dunkelheit.|The park is safe, even at night.
+321.001|verb|tragen|wear|Sie trägt ein schönes Kleid zu der Party.|She wears a beautiful dress to the party.
+327.001|verb|aussehen|to appear|Er sieht aus wie ein berühmter Schauspieler.|He appears to be like a famous actor.
+327.002|verb|aussehen|look|Das Haus sieht von außen sehr modern aus.|The house looks very modern from the outside.
+364.001|adverb|je|ever|Je mehr du übst, desto besser wirst du.|The more you practice, the better you will become.
+375.001|adverb|eher|sooner|Ich würde eher einen Zug nehmen als ein Auto.|I would sooner take a train than a car.
+375.002|adverb|eher|earlier|Er kam eher an, als wir es erwartet hatten.|He arrived earlier than we expected.
+403.002|noun|die Uhr|o’clock|Um genau zwölf Uhr begann die Präsentation.|At exactly twelve o’clock, the presentation started.
+409.001|pronoun|daher|from|Das Geschenk kommt direkt daher aus Italien.|The gift comes directly from Italy.
+409.002|pronoun|daher|there|Es regnete, daher blieben wir zu Hause.|It rained; therefore, we stayed home.
+409.003|pronoun|daher|hence|Er war krank, daher konnte er nicht kommen.|He was sick; hence, he could not come.
+417.001|pronoun|niemand|no one|Niemand wusste, wie das Problem zu lösen war.|No one knew how to solve the problem.
+450.001|pronoun|jene|those|Jene Bücher auf dem Regal gehören mir.|Those books on the shelf belong to me.
+452.001|particle|oh|aw|Oh, ich habe den Termin komplett vergessen.|Aw, I completely forgot the appointment.
+456.001|verb|wirken|to have an effect|Das neue Medikament begann schnell zu wirken.|The new medication began to have an effect quickly.
+458.001|noun|der Raum|space|Der Raum war groß genug für alle Teilnehmer.|The space was large enough for all participants.
+548.001|verb|bitten|to request|Wir bitten Sie, die Regeln einzuhalten.|We request you to follow the rules.
+548.002|verb|bitten|ask|Ich möchte dich um einen Gefallen bitten.|I want to ask you for a favor.
+35.001|pronoun|dies|that|Dies ist das Problem, das wir lösen müssen.|That is the problem that we need to solve.
+44.001|preposition|bei|by|Wir treffen uns bei der Brücke um 10 Uhr.|We meet by the bridge at 10 o’clock.
+185.001|pronoun|wer|whoever|Wer das Rätsel löst, gewinnt den Hauptpreis.|Whoever solves the puzzle wins the grand prize.
+202.002|verb|bringen|take|Ich bringe die Kinder jeden Tag zur Schule.|I take the children to school every day.
+223.001|adverb|etwa|approximately|Das Treffen dauerte etwa zwei Stunden.|The meeting lasted approximately two hours.
+232.001|adjective|wirklich|actual|Das war die wirkliche Ursache des Problems.|That was the actual cause of the problem.
+262.001|pronoun|dich|yourself|Hast du dich auf die Prüfung gut vorbereitet?|Have you prepared yourself well for the exam?
+273.001|verb|setzen|to set|Er setzte die Vase vorsichtig auf den Tisch.|He set the vase carefully on the table.
+289.001|adjective|recht|(all) right|Das ist recht gut für einen Anfänger gemacht.|That is all right for a beginner to have done.
+316.001|preposition|neben|beside|Er sitzt neben mir während der Besprechung.|He sits beside me during the meeting.
+325.001|verb|scheinen|seem|Es scheint, dass das Problem komplexer ist.|It seems that the problem is more complex.
+344.001|verb|suchen|look for|Ich suche ein Hotel in der Nähe des Bahnhofs.|I am looking for a hotel near the train station.
+395.001|noun|der Ort|town|Der Ort liegt malerisch am Ufer eines Sees.|The town is picturesquely located by a lake.
+40.001|pronoun|ihr|her|Ich gab ihr das Buch, das sie gesucht hatte.|I gave her the book that she was looking for.
+42.002|adverb|so|thus|Er erklärte es so, dass jeder es verstehen konnte.|He explained it thus that everyone could understand.
+61.003|preposition|um|about|Wir sprechen um die Details des Projekts.|We are talking about the details of the project.
+69.001|pronoun|mein|mine|Das Auto in der Garage ist mein und gehört mir.|The car in the garage is mine and belongs to me.
+87.001|adjective|groß|big|Das große Haus steht am Ende der Straße.|The big house is at the end of the street.
+89.001|adjective|ganz|all the|Ich habe den ganzen Tag an meiner Arbeit gesessen.|I spent all the day working on my task.
+94.001|adverb|doch|however|Es regnete stark, doch wir gingen trotzdem spazieren.|It rained heavily; however, we still went for a walk.
+106.001|noun|das Mal|mark|Das war das erste Mal, dass wir uns getroffen haben.|That was the first mark of us meeting.
+126.001|noun|die Frau|wife|Die Frau neben ihm ist seine langjährige Ehefrau.|The woman beside him is his longtime wife.
+127.001|pronoun|etwas|some|Ich habe etwas Interessantes im Laden gefunden.|I found something interesting in the shop.
+131.001|pronoun|wenige|little|Nur wenige Menschen wussten von dem geheimen Treffen.|Only a little few people knew about the secret meeting.
+143.001|verb|bleiben|remain|Wir bleiben zu Hause, bis der Regen aufhört.|We remain at home until the rain stops.
+148.001|adjective|hoch|high|Die hohen Gebäude sind ein Wahrzeichen der Stadt.|The high buildings are a landmark of the city.
+162.001|preposition|seit|since|Er arbeitet seit zehn Jahren in dieser Position.|He has worked in this position since ten years.
+163.001|adjective|einfach|easy|Das war eine einfache Frage, die leicht zu beantworten war.|That was an easy question to answer.
+165.001|adverb|erst|first|Ich werde erst die Aufgaben erledigen, bevor ich ausgehe.|I will first finish the tasks before going out.
+168.001|noun|das Land|land|Das Land jenseits des Flusses gehört meiner Familie.|The land beyond the river belongs to my family.
+168.002|noun|das Land|state|Der Staat investiert in Bildung und soziale Projekte.|The state invests in education and social projects.
+169.001|verb|stellen|set|Er stellte die Uhr auf sieben Uhr für morgen früh.|He set the clock to seven o’clock for tomorrow morning.
+169.002|verb|stellen|put|Ich habe die Schlüssel zurück auf den Tisch gestellt.|I put the keys back on the table.
+172.001|adverb|natürlich|naturally|Die Antwort war natürlich einfacher als erwartet.|The answer was naturally simpler than expected.
+176.002|adjective|gleich|just|Das ist genau das gleiche Problem wie letzte Woche.|That is just the same problem as last week.
+186.001|pronoun|dazu|furthermore|Er brachte Bücher mit und dazu noch einige Spiele.|He brought books and furthermore some games.
+186.002|pronoun|dazu|to that|Wir müssen eine Lösung zu diesem Problem dazu finden.|We need to find a solution to that problem.
+186.003|pronoun|dazu|for that|Ich habe keine Erklärung für das, was passiert ist.|I have no explanation for that, what happened.
+187.001|adjective|eigentlich|real|Das ist eigentlich nicht das Hauptproblem, das wir haben.|That is not the real main problem that we have.
+193.001|verb|halten|to stop|Ich halte immer an roten Ampeln im Straßenverkehr.|I always stop at red lights in traffic.
+193.002|verb|halten|hold|Sie hält das Baby sanft in ihren Armen.|She holds the baby gently in her arms.
+198.001|adverb|gerade|just now|Ich habe gerade die Nachricht über den Unfall erhalten.|I just now received the news about the accident.
+198.002|adverb|gerade|right now|Er arbeitet gerade an einem wichtigen Projekt.|He is working on an important project right now.
+225.001|adjective|weitere|additional|Wir benötigen weitere Informationen für den Bericht.|We need additional information for the report.
+230.001|noun|der Fall|fall|Im Fall eines Notfalls kontaktieren Sie bitte die Rezeption.|In the case of a fall, please contact the reception.
+231.001|adjective|schön|pleasant|Der Abend war schön und voller interessanter Gespräche.|The evening was pleasant and full of interesting talks.
+231.002|adjective|schön|good|Das war ein schön gestalteter Garten mit vielen Blumen.|That was a good garden beautifully designed with flowers.
+233.001|adverb|wirklich|actually|Ich habe das wirklich nicht erwartet, aber es ist großartig.|I actually didn’t expect this, but it’s great.
+234.001|pronoun|denen (pl, Dativ)|whom|Die Menschen, denen wir geholfen haben, waren dankbar.|The people whom we helped were grateful.
+234.002|pronoun|denen (pl, Dativ)|who|Das sind die Freunde, denen wir viel zu verdanken haben.|Those are the friends who we owe a lot to.
+234.003|pronoun|denen (pl, Dativ)|that|Die Bücher, mit denen ich arbeite, sind sehr hilfreich.|The books that I work with are very helpful.
+237.001|verb|ziehen|to pull|Er zog die Tür auf, um frische Luft hereinzulassen.|He pulled the door open to let in fresh air.
+237.002|verb|ziehen|move|Wir ziehen nächste Woche in eine größere Wohnung.|We move to a bigger apartment next week.
+239.001|pronoun|darauf|to it|Ich freue mich darauf, das neue Buch zu lesen.|I look forward to it, reading the new book.
+240.001|adverb|eben|now|Ich habe das eben erst erfahren und bin überrascht.|I just found out about it now and am surprised.
+248.001|adjective|schnell|fast|Der schnelle Läufer gewann das Rennen mühelos.|The fast runner won the race effortlessly.
+251.002|adverb|zwar ..., aber|admittedly|Er ist zwar fleißig, aber nicht besonders kreativ.|He is admittedly hardworking, but not very creative.
+251.003|adverb|zwar ..., aber|to be precise|Es war zwar anstrengend, aber die Mühe hat sich gelohnt.|It was tiring, to be precise, but it was worth it.
+257.002|verb|bekommen|receive|Ich habe die Einladung zur Feier per Post bekommen.|I received the invitation to the party by mail.
+258.001|verb|meinen|have an opinion|Ich meine, dass wir mehr Zeit für die Vorbereitung brauchen.|I have the opinion that we need more time for preparation.
+259.001|pronoun|davon|from it|Er erzählte mir von der Reise und was er davon gelernt hat.|He told me about the trip and what he learned from it.
+259.002|pronoun|davon|thereof|Ich habe nichts davon gehört, bis du es erwähnt hast.|I heard nothing thereof until you mentioned it.
+260.001|verb|fahren|ride|Wir fahren mit dem Fahrrad zur Arbeit, um fit zu bleiben.|We ride our bikes to work to stay fit.
+260.002|verb|fahren|go|Wir fahren morgen nach Hamburg, um Freunde zu besuchen.|We go to Hamburg tomorrow to visit friends.
+270.001|adverb|allerdings|indeed|Es war ein schwieriges Projekt, allerdings sehr erfolgreich.|It was a difficult project, indeed, but very successful.
+270.002|adverb|allerdings|certainly|Die Präsentation war gelungen, allerdings fehlten einige Details.|The presentation was successful, certainly, but some details were missing.
+271.001|adverb|sogar|in fact|Er hat das schwierige Rätsel sogar in kurzer Zeit gelöst.|He solved the difficult puzzle in fact in a short time.
+273.003|verb|setzen|put|Ich setzte den Schlüssel zurück an seinen Platz.|I put the key back in its place.
+275.001|adverb|deshalb|therefore|Es regnete stark, deshalb blieben wir zu Hause.|It rained heavily, therefore, we stayed home.
+276.001|adverb|weit|widely|Die Nachricht verbreitete sich schnell und weit.|The news spread quickly and widely.
+282.001|noun|das Unternehmen|enterprise|Das Unternehmen expandiert und eröffnet neue Standorte.|The enterprise is expanding and opening new locations.
+289.002|adjective|recht|be fine (with)|Er ist recht zufrieden mit dem Ergebnis der Diskussion.|He is fine with the outcome of the discussion.
+290.001|noun|das Recht|law|Das Recht auf Bildung ist in der Verfassung verankert.|The right to education is enshrined in the law.
+295.001|verb|bestehen|to exist|Es besteht keine Gefahr für die Teilnehmer des Experiments.|There exists no danger for the participants of the experiment.
+295.002|verb|bestehen|insist|Er bestand darauf, dass wir die Regeln einhalten.|He insisted that we follow the rules.
+296.001|verb|versuchen|attempt|Ich werde versuchen, das Problem heute noch zu lösen.|I will attempt to solve the problem today.
+298.001|noun|der Grund|basis|Der Grund für seine Entscheidung wurde klar erklärt.|The basis for his decision was clearly explained.
+303.001|adjective|verschieden|diverse|Die Gruppe brachte verschiedene Perspektiven ein.|The group brought in diverse perspectives.
+305.001|noun|die Aufgabe|assignment|Die Aufgabe war es, die Daten bis Freitag zu analysieren.|The assignment was to analyze the data by Friday.
+305.002|noun|die Aufgabe|job|Sein Job war es, die Kunden zufrieden zu stellen.|His job was to keep the customers satisfied.
+306.001|adjective|schwer|difficult|Das war eine schwer zu treffende Entscheidung.|That was a difficult decision to make.
+309.001|noun|die Art|type|Diese Art von Produkt ist auf dem Markt sehr beliebt.|This type of product is very popular in the market.
+312.001|noun|die Geschichte|history|Die Geschichte der Stadt ist voller interessanter Ereignisse.|The history of the city is full of interesting events.
+314.001|verb|entstehen|to originate|Neue Probleme entstehen oft durch Fehler.|New problems often originate from errors.
+314.002|verb|entstehen|develop|Ideen entstehen manchmal aus Langeweile.|Ideas sometimes develop from boredom.
+315.002|adjective|sicher|certain|Ich bin sicher, dass alles klappt.|I am certain everything will work.
+325.002|verb|scheinen|appear|Es scheint, dass es bald regnet.|It appears it will rain soon.
+329.001|adverb|überhaupt|generally|Das war überhaupt nicht schwer.|That was generally not hard.
+331.001|conjunction|sowie|as soon as|Wir starten, sowie er kommt.|We start as soon as he arrives.
+331.002|conjunction|sowie|plus|Sie hat Schuhe sowie eine Tasche gekauft.|She bought shoes plus a bag.
+335.002|verb|schaffen|create|Wir schaffen Platz für die neuen Gäste.|We create space for the new guests.
+342.001|conjunction|beziehungsweise (bzw.)|respectively|Die Tische sind rund, beziehungsweise oval.|The tables are round, respectively oval.
+346.001|adjective|gemeinsam|mutual|Wir haben ein gemeinsames Ziel erreicht.|We reached a mutual goal.
+350.001|noun|das Thema|subject|Das Thema der Diskussion war interessant.|The subject of the discussion was interesting.
+350.002|noun|das Thema|theme|Das Thema des Buches ist Liebe.|The theme of the book is love.
+351.001|verb|handeln|trade|Die Firma handelt mit frischem Gemüse.|The company trades in fresh vegetables.
+355.001|adverb|anders|different|Die Situation ist anders als erwartet.|The situation is different than expected.
+358.001|noun|der Blick|look|Sein Blick war ernst und aufmerksam.|His look was serious and attentive.
+358.002|noun|der Blick|glance|Ein Blick reichte, um alles zu verstehen.|A glance was enough to understand everything.
+360.003|adjective|einzeln|individual|Jedes einzelne Problem wurde besprochen.|Each individual problem was discussed.
+361.003|verb|erreichen|to achieve|Er wollte das Ziel schnell erreichen.|He wanted to achieve the goal quickly.
+363.001|adjective|leicht|easy|Die Prüfung war leichter als erwartet.|The test was easier than expected.
+365.001|conjunction|je ..., desto|the more ...|Je mehr du übst, desto besser wirst du.|The more you practice, the better you get.
+365.002|conjunction|je ..., desto|the|Je länger wir warten, desto schwieriger wird es.|The longer we wait, the harder it gets.
+368.001|verb|bilden|educate|Die Schule bildet Schüler für die Zukunft.|The school educates students for the future.
+372.001|adjective|bekannt|well-known|Er ist als guter Sänger bekannt.|He is well-known as a good singer.
+373.001|noun|das Ziel|destination|Unser Ziel ist ein kleines Dorf.|Our destination is a small village.
+374.001|verb|steigen|increase|Die Preise steigen in letzter Zeit stark.|The prices increase sharply lately.
+375.003|adverb|eher|more likely|Es ist eher wahrscheinlich, dass er kommt.|It is more likely that he will come.
+378.001|adverb|nachts|nights|Nachts ist die Stadt besonders still.|Nights in the city are particularly quiet.
+380.003|noun|der Platz|room|Es gibt keinen Platz mehr im Zug.|There is no room left in the train.
+382.001|noun|das Spiel|match|Das Spiel war spannend bis zum Ende.|The match was exciting until the end.
+384.001|pronoun|jemand|somebody|Jemand hat das Fenster offengelassen.|Somebody left the window open.
+388.001|noun|der Preis|prize|Der Preis für den Gewinner war großartig.|The prize for the winner was amazing.
+393.001|noun|der Bereich|region|Der Bereich ist bekannt für guten Wein.|The region is known for good wine.
+394.001|adjective|tatsächlich|real|Die Lösung war tatsächlich sehr einfach.|The solution was actually very simple.
+395.002|noun|der Ort|location|Der Ort war ruhig und wunderschön.|The location was quiet and beautiful.
+398.001|adjective|einzig|single|Das war die einzig mögliche Lösung.|That was the single possible solution.
+403.001|noun|die Uhr|watch|Die Uhr zeigt die genaue Zeit an.|The watch shows the exact time.
+404.001|pronoun|mehrere|multiple|Mehrere Menschen warteten auf den Bus.|Multiple people waited for the bus.
+404.002|pronoun|mehrere|various|Es gibt mehrere Wege zum Ziel.|There are various ways to reach the goal.
+406.001|adverb|schließlich|finally|Schließlich fanden wir die richtige Antwort.|Finally, we found the correct answer.
+407.001|verb|legen|to lay|Er legte das Buch auf den Tisch.|He laid the book on the table.
+407.002|verb|legen|put|Ich legte die Schlüssel auf das Regal.|I put the keys on the shelf.
+408.001|adjective|direkt|straight|Der direkte Weg führt durch den Wald.|The straight path leads through the forest.
+411.001|verb|erkennen|admit|Er musste erkennen, dass er falsch lag.|He had to admit that he was wrong.
+415.001|pronoun|darin|in there|Darin lag das Buch, das ich suchte.|In there was the book I was looking for.
+415.002|pronoun|darin|inside|Darin war eine alte Notiz versteckt.|Inside was an old note hidden.
+416.001|noun|das Auto|automobile|Das Auto steht vor dem Haus geparkt.|The automobile is parked in front of the house.
+420.001|verb|vorstellen|imagine|Kannst du dir das Ergebnis vorstellen?|Can you imagine the result?
+426.001|particle|na|well|Na, was denkst du über die Idee?|Well, what do you think about the idea?
+427.001|verb|gewinnen|gain|Er konnte viel Vertrauen gewinnen.|He could gain a lot of trust.
+428.001|adverb|zunächst|at first|Zunächst dachten wir, es sei einfach.|At first, we thought it was easy.
+428.002|adverb|zunächst|for now|Zunächst lassen wir die Sache so, wie sie ist.|For now, we will leave things as they are.
+434.001|noun|die Möglichkeit|chance|Die Möglichkeit besteht, dass wir gewinnen.|The chance exists that we might win.
+435.001|noun|der Sinn|sense|Der Sinn dieser Regel ist leicht zu verstehen.|The sense of this rule is easy to understand.
+436.001|verb|passieren|to take place|Das Treffen wird morgen im Büro passieren.|The meeting will take place in the office tomorrow.
+436.002|verb|passieren|happen|Ein Fehler kann jederzeit passieren.|A mistake can happen at any time.
+440.001|noun|die Rolle|roll|Er spielt die Rolle des Helden im Theater.|He plays the role of the hero in the theater.
+447.001|noun|die Angst|anxiety|Die Angst vor dem Examen war groß.|The anxiety before the exam was great.
+454.001|noun|die Stimme|vote|Er gab seine Stimme für den neuen Präsidenten ab.|He cast his vote for the new president.
+456.002|verb|wirken|take effect|Die neue Regel wird ab morgen wirken.|The new rule will take effect starting tomorrow.
+456.003|verb|wirken|work|Das Team wirkte gut zusammen am Projekt.|The team worked well together on the project.
+457.001|verb|darstellen|to depict|Das Bild stellt eine Szene aus der Natur dar.|The picture depicts a scene from nature.
+457.002|verb|darstellen|portray|Der Film porträtiert die Geschichte eines Künstlers.|The film portrays the story of an artist.
+457.003|verb|darstellen|show|Das Diagramm stellt die Verkaufszahlen dar.|The chart shows the sales figures.
+460.001|verb|bezeichnen|name|Er bezeichnete ihn als einen talentierten Musiker.|He named him a talented musician.
+464.001|noun|die USA (Vereinigte Staaten von Amerika)|United States of America|Die USA haben eine große wirtschaftliche Macht.|The United States of America have great economic power.
+466.001|adverb|früher|in former times|Früher war alles einfacher und ruhiger.|In former times, everything was simpler and calmer.
+469.001|verb|ergeben|to result in|Die Analyse ergab interessante Ergebnisse.|The analysis resulted in interesting findings.
+469.002|verb|ergeben|produce|Das Projekt wird wertvolle Daten ergeben.|The project will produce valuable data.
+472.001|verb|betreffen|to affect|Die Entscheidung betrifft alle Mitarbeiter.|The decision affects all employees.
+472.002|verb|betreffen|concern|Das Problem betrifft uns alle in der Firma.|The problem concerns all of us in the company.
+473.001|adverb|oben|up there|Oben auf dem Berg liegt noch Schnee.|Up there on the mountain, there is still snow.
+475.001|verb|bestimmen|to decide|Das Team wird über das nächste Ziel bestimmen.|The team will decide on the next goal.
+475.002|verb|bestimmen|determine|Die Analyse wird den Erfolg bestimmen.|The analysis will determine the success.
+476.001|verb|fehlen|to lack|Es fehlt uns an guten Ideen für das Projekt.|We lack good ideas for the project.
+476.002|verb|fehlen|be absent|Er fehlte gestern wegen Krankheit bei der Arbeit.|He was absent from work yesterday due to illness.
+480.001|adverb|außerdem|in addition|Das Buch ist spannend und außerdem informativ.|The book is exciting and in addition informative.
+481.001|particle|nämlich|namely|Ich habe das Problem gefunden, nämlich im Code.|I found the issue, namely in the code.
+487.001|noun|die Folge|result|Die Folge seines Handelns war überraschend positiv.|The result of his actions was surprisingly positive.
+489.001|pronoun|manche|many a|Manche Menschen haben Angst vor Veränderung.|Many a person fears change.
+490.001|noun|die Verbindung|link|Die Verbindung zwischen den Städten ist gut.|The link between the cities is good.
+497.001|adverb|bisher|up to now|Bisher hat noch niemand eine Lösung gefunden.|Up to now, no one has found a solution.
+497.002|adverb|bisher|yet|Bisher wurde das Problem noch nicht gelöst.|Yet, the problem has not been solved.
+501.001|adverb|ebenfalls|likewise|Er unterstützte uns, und wir halfen ihm ebenfalls.|He supported us, and we helped him likewise.
+501.002|adverb|ebenfalls|as well|Ich habe ebenfalls an dem Workshop teilgenommen.|I took part in the workshop as well.
+508.001|verb|verbinden|link|Die Brücke verbindet die Insel mit dem Festland.|The bridge links the island with the mainland.
+513.001|pronoun|danach|after it|Wir aßen zu Abend und gingen danach spazieren.|We had dinner and went for a walk after it.
+517.001|verb|einsetzen|to put in|Er setzte das Buch zurück ins Regal.|He put the book back in the shelf.
+517.002|verb|einsetzen|insert|Sie musste die Münze in den Automaten einsetzen.|She had to insert the coin into the machine.
+522.001|pronoun|dadurch|through it|Dadurch konnten wir das Ziel schneller erreichen.|Through it, we could reach the goal faster.
+522.002|pronoun|dadurch|as a consequence|Es regnete stark, dadurch kamen wir später an.|It rained heavily; as a consequence, we arrived later.
+524.001|noun|die Weise|manner|Auf diese Weise können wir schneller arbeiten.|In this manner, we can work faster.
+534.001|particle|halt|simply|Das ist halt die beste Lösung für das Problem.|That is simply the best solution to the problem.
+540.001|verb|ausgehen|assume|Ich gehe davon aus, dass wir pünktlich ankommen.|I assume that we will arrive on time.
+542.001|verb|betrachten|consider|Er betrachtete die Lage und entschied sich schnell.|He considered the situation and decided quickly.
+550.001|adjective|wahrscheinlich|likely|Es ist wahrscheinlich, dass der Plan funktioniert.|It is likely that the plan will work.
+551.001|adverb|wahrscheinlich|likely|Er wird wahrscheinlich später ankommen.|He will likely arrive later.
+553.001|pronoun|euch|yourselves|Habt ihr euch auf die Prüfung vorbereitet?|Did you prepare yourselves for the exam?
+554.001|adverb|insgesamt|altogether|Insgesamt waren zwanzig Leute im Raum.|Altogether, twenty people were in the room.
+554.002|adverb|insgesamt|in total|Insgesamt dauerte das Meeting drei Stunden.|In total, the meeting lasted three hours.
+562.002|adjective|gering|minor|Es gab nur einen geringen Unterschied im Design.|There was only a minor difference in the design.
+563.001|noun|der Film|film|Der Film gestern war spannend und gut gemacht.|The film yesterday was exciting and well-made.
+573.001|adjective|völlig|absolutely|Er war völlig überzeugt von seiner Idee.|He was absolutely convinced of his idea.
+576.001|pronoun|darum|around it|Darum stehen viele Menschen und diskutieren.|Around it, many people are standing and discussing.
+577.001|noun|der Kunde|client|Der Kunde war zufrieden mit dem Service.|The client was satisfied with the service.
+578.001|noun|die Menge|quantity|Die Menge an Müll war schockierend hoch.|The quantity of trash was shockingly high.
+579.001|noun|die Regierung|rule|Die Regierung hat neue Maßnahmen beschlossen.|The rule introduced new measures.
+580.001|noun|die Antwort|reply|Ihre Antwort auf die Frage war klar und direkt.|Her reply to the question was clear and direct.
+581.001|verb|annehmen|assume|Wir können annehmen, dass er rechtzeitig kommt.|We can assume that he will arrive on time.
+582.001|adjective|falsch|false|Die Behauptung war offensichtlich falsch.|The statement was obviously false.
+583.001|noun|der Zusammenhang|connection|Es gibt einen Zusammenhang zwischen den Ereignissen.|There is a connection between the events.
+593.001|adverb|ebenso|as much as|Ich mag ihn ebenso wie du es tust.|I like him as much as you do.
+593.002|adverb|ebenso|as well|Ich habe ihn ebenso eingeladen wie die anderen.|I invited him as well as the others.
+600.001|adverb|zudem|furthermore|Das Wetter war kalt, zudem regnete es stark.|The weather was cold; furthermore, it rained heavily.
+600.002|adverb|zudem|besides|Zudem war das Hotel sehr teuer für eine Nacht.|Besides, the hotel was very expensive for one night.
+601.001|noun|die Bank|bench|Wir saßen auf der Bank und genossen die Aussicht.|We sat on the bench and enjoyed the view.
+602.001|preposition|ab|as of|Ab morgen gelten die neuen Regeln im Büro.|As of tomorrow, the new rules apply in the office.
+613.001|noun|die Lage|location|Die Lage des Hauses ist ideal für Familien.|The location of the house is ideal for families.
+614.001|noun|der Schüler|pupil|Der Schüler stellte eine kluge Frage im Unterricht.|The pupil asked a smart question in class.
+615.001|adjective|gesamt|whole|Die gesamte Klasse nahm an der Exkursion teil.|The whole class participated in the excursion.
+616.001|noun|der Druck|printing|Der Druck der Zeitung erfolgt täglich frühmorgens.|The printing of the newspaper takes place early every morning.
+621.003|verb|aufnehmen|include|Bitte nehmen Sie diese Daten in den Bericht auf.|Please include this data in the report.
+622.001|noun|die Kosten (pl)|expenses|Die Kosten für das Projekt wurden korrekt berechnet.|The expenses for the project were calculated correctly.
+624.001|verb|merken|remember|Bitte merken Sie sich das Datum für das Meeting.|Please remember the date for the meeting.
+625.004|adjective|fest|solid|Der Tisch steht fest auf dem Boden und wackelt nicht.|The table is solid on the floor and does not wobble.
+625.005|adjective|fest|strong|Er hat einen festen Griff beim Händeschütteln.|He has a strong grip when shaking hands.
+627.001|noun|der Begriff|concept|Der Begriff "Nachhaltigkeit" wird oft diskutiert.|The concept of "sustainability" is often discussed.
+627.002|noun|der Begriff|idea|Die Begriffe im Text sind schwer zu verstehen.|The ideas in the text are difficult to understand.
+638.001|adjective|schwierig|hard|Die Prüfung war schwierig, aber machbar.|The exam was hard but manageable.
+638.002|adjective|schwierig|tough|Das war eine schwierige Aufgabe für das Team.|That was a tough task for the team.
+639.001|noun|das Gut|estate|Das Gut wurde seit Generationen in der Familie gehalten.|The estate has been held in the family for generations.
+644.001|verb|besitzen|have|Sie besitzen ein schönes Haus mit einem großen Garten.|They have a beautiful house with a large garden.
+651.001|adjective|eng|close|Die Straße ist hier sehr eng und schwer befahrbar.|The road here is very close and difficult to navigate.
+653.001|noun|der Prozess|process|Der Prozess dauert länger als erwartet.|The process takes longer than expected.
+657.001|verb|fordern|claim|Die Mitarbeiter fordern bessere Arbeitsbedingungen.|The employees claim better working conditions.
+662.001|verb|verhalten|act|Er verhielt sich ruhig und wartete geduldig.|He acted calmly and waited patiently.
+664.001|adverb|ziemlich|fairly|Das Buch war ziemlich spannend bis zum Ende.|The book was fairly exciting until the end.
+664.002|adverb|ziemlich|pretty|Die Aufgabe war ziemlich einfach zu lösen.|The task was pretty easy to solve.
+667.002|adverb|wobei|whereby|Es gibt eine Regel, wobei Ausnahmen erlaubt sind.|There is a rule whereby exceptions are allowed.
+667.003|adverb|wobei|at what|Wobei kann ich Ihnen helfen, falls Sie Fragen haben?|At what can I help you if you have questions?
+667.004|adverb|wobei|whereat|Das ist der Punkt, wobei die Diskussion begann.|That is the point whereat the discussion began.
+667.005|adverb|wobei|what ... by|Das ist die Methode, wobei gute Ergebnisse erzielt werden.|This is the method by what good results are achieved.
+668.001|adverb|jeweils|each|Die Pausen dauern jeweils zehn Minuten.|The breaks last ten minutes each.
+669.001|verb|reichen|to reach|Das Seil reicht nicht bis zur anderen Seite.|The rope does not reach to the other side.
+672.001|verb|schlagen|beat|Er schlug die Trommel mit viel Energie.|He beat the drum with a lot of energy.
+676.001|verb|erhöhen|increase|Die Firma plant, die Preise für Produkte zu erhöhen.|The company plans to increase the prices for products.
+677.001|verb|sorgen|to worry|Er sorgt sich um die Gesundheit seiner Familie.|He worries about the health of his family.
+677.002|verb|sorgen|take care|Ich werde dafür sorgen, dass alles rechtzeitig fertig wird.|I will take care that everything is finished on time.
+682.001|noun|der Arzt|physician|Der Arzt verschrieb ein Medikament gegen die Schmerzen.|The physician prescribed medication for the pain.
+683.001|verb|geschehen|occur|Ein Fehler kann in jeder Phase geschehen.|An error can occur at any stage.
+685.001|verb|lösen|loosen|Er löste den Knoten im Seil vorsichtig.|He loosened the knot in the rope carefully.
+688.001|verb|vorkommen|occur|Ein Fehler kann in jeder Situation vorkommen.|An error can occur in any situation.
+688.002|verb|vorkommen|seem|Das kommt mir sehr seltsam vor.|That seems very strange to me.
+691.001|verb|wünschen|to want|Ich wünsche mir ein ruhiges Wochenende.|I want a quiet weekend.
+696.002|pronoun|dasselbe|ones)|Ich habe dasselbe Buch wie du gelesen.|I read the same one as you did.
+697.001|verb|wählen|to choose|Sie können zwischen mehreren Optionen wählen.|You can choose between several options.
+697.002|verb|wählen|elect|Wir wählen jedes Jahr einen neuen Vorsitzenden.|We elect a new chairman every year.
+697.003|verb|wählen|vote|Die Bürger wählen den Präsidenten alle vier Jahre.|The citizens vote for the president every four years.
+698.001|adverb|gleichzeitig|at the same time|Er kann gleichzeitig lesen und Musik hören.|He can read and listen to music at the same time.
+699.001|adjective|knapp|slim|Die Ergebnisse waren knapp, aber eindeutig.|The results were slim but clear.
+700.001|noun|der Mitarbeiter|co-worker|Der neue Mitarbeiter wurde herzlich begrüßt.|The new co-worker was warmly welcomed.
+702.001|noun|das Glück|fortune|Er hatte das Glück, einen tollen Job zu finden.|He had the fortune to find a great job.
+708.001|verb|vorliegen|exist|Die nötigen Unterlagen liegen bereits vor.|The required documents already exist.
+710.001|noun|die Beziehung|relation|Die Beziehung zwischen den Firmen ist stark.|The relation between the companies is strong.
+713.001|verb|stattfinden|occur|Das Treffen wird morgen im Konferenzraum stattfinden.|The meeting will occur in the conference room tomorrow.
+715.002|noun|das Auftreten|conduct|Sein Auftreten war höflich und professionell.|His conduct was polite and professional.
+716.001|verb|auftreten|to appear|Die Sängerin wird auf der Bühne um 20 Uhr auftreten.|The singer will appear on stage at 8 PM.
+716.002|verb|auftreten|occur|Das Problem kann bei jeder Installation auftreten.|The issue can occur during any installation.
+720.001|adverb|los|rid of|Ich möchte endlich den alten Kram loswerden.|I finally want to get rid of the old stuff.
+722.001|noun|die Höhe|altitude|Das Flugzeug erreichte eine Höhe von 10.000 Metern.|The airplane reached an altitude of 10,000 meters.
+723.001|adjective|wesentlich|fundamental|Die Änderungen sind für den Erfolg wesentlich.|The changes are fundamental to success.
+727.001|adjective|rein|clear|Das Wasser im Gebirgssee ist kristallrein.|The water in the mountain lake is crystal clear.
+727.002|adjective|rein|clean|Die Küche war nach der Reinigung wieder rein.|The kitchen was clean again after the cleaning.
+729.001|conjunction|indem|while|Er verbessert sein Deutsch, indem er jeden Tag übt.|He improves his German while practicing every day.
+735.001|adverb|beispielsweise|such as|Viele Städte, beispielsweise Berlin, bieten Kultur.|Many cities, such as Berlin, offer culture.
+736.001|noun|die Bedingung|stipulation|Die Bedingung für die Teilnahme ist die Anmeldung.|The stipulation for participation is registration.
+740.001|verb|funktionieren|to function|Das neue System funktioniert reibungslos.|The new system functions smoothly.
+740.002|verb|funktionieren|work|Das alte Telefon funktioniert immer noch.|The old phone still works.
+748.001|adjective|echt|real|Das war eine echt gute Entscheidung für uns.|That was a real good decision for us.
+749.001|noun|die Firma|firm|Die Firma expandiert auf internationale Märkte.|The firm is expanding into international markets.
+750.001|noun|die Wirtschaft|commerce|Die Wirtschaft des Landes wächst stetig.|The commerce of the country is steadily growing.
+751.001|verb|stecken|be located|Die Schlüssel stecken in der Jackentasche.|The keys are located in the jacket pocket.
+753.001|verb|erfahren|to experience|Ich möchte neue Kulturen und Menschen erfahren.|I want to experience new cultures and people.
+753.002|verb|erfahren|find out|Ich habe gerade erfahren, dass die Party abgesagt wurde.|I just found out that the party was canceled.
+755.001|noun|die Folie|foil|Die Folie schützt das Essen vor dem Austrocknen.|The foil protects the food from drying out.
+756.001|verb|leisten|achieve|Das Team leistete in kurzer Zeit erstaunliche Arbeit.|The team achieved remarkable work in a short time.
+756.002|verb|leisten|do|Wir sollten alles leisten, um das Ziel zu erreichen.|We should do everything to achieve the goal.
+760.001|verb|beobachten|watch|Ich beobachte die Vögel im Park jeden Morgen.|I watch the birds in the park every morning.
+768.001|adverb|meist|mostly|Er arbeitet meist allein an seinen Projekten.|He mostly works alone on his projects.
+772.001|noun|die Bewegung|motion|Die Bewegung der Wellen war beruhigend.|The motion of the waves was calming.
+776.001|preposition|aufgrund|on the basis of|Aufgrund der Beweise wurde der Fall gelöst.|On the basis of the evidence, the case was solved.
+777.001|verb|beschäftigen|to employ|Die Firma beschäftigt mehr als 500 Mitarbeiter.|The company employs more than 500 workers.
+777.002|verb|beschäftigen|be busy|Er war die ganze Woche mit der Planung beschäftigt.|He was busy with planning all week.
+777.003|verb|beschäftigen|deal with|Das Buch beschäftigt sich mit sozialen Themen.|The book deals with social topics.
+782.001|noun|das Angebot|supply|Das Angebot an frischem Obst war beeindruckend.|The supply of fresh fruit was impressive.
+787.001|verb|kriegen|receive|Er kriegt die Briefe immer pünktlich geliefert.|He always receives the letters on time.
+790.001|noun|die Größe|height|Die Größe des Gebäudes beeindruckte alle Besucher.|The height of the building impressed all visitors.
 796.001|verb|angeben|to claim|Er gab an, die Lösung für das Problem zu kennen.|He claimed to know the solution to the problem.
-796.002|verb|angeben|declare|Sie gab ihren Wohnsitz im Formular offiziell an.|She declared her residence officially in the form
-796.003|verb|angeben|show off
-797.001|noun|die Reise|journey
+796.002|verb|angeben|declare|Sie gab in der Anmeldung ihren neuen Wohnsitz an.|She declared her new residence in the registration.
+796.003|verb|angeben|show off|Er gab mit seinem neuen Auto vor Freunden an.|He showed off his new car to friends.
+797.001|noun|die Reise|journey|Die Reise nach Italien war voller Abenteuer.|The journey to Italy was full of adventures.
 799.001|noun|der Zustand|state
 801.002|noun|die Reihe|line
 803.002|verb|rechnen|compute
