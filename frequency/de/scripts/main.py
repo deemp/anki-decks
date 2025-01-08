@@ -115,3 +115,72 @@ def render_ankiweb_descriptions():
 
 
 render_ankiweb_descriptions()
+
+# %%
+
+
+def find_not_all_meanings():
+    path = "de-en/deck.csv"
+
+    deck_full = pd.read_csv(path, sep="|", index_col=0)
+
+    for i in deck_full.index:
+        real_index = deck_full.index.get_loc(i)
+        if int(i) == i:
+            row = deck_full[deck_full.index == i]
+            word_translations_en = row["word_translations_en"].values[0]
+            if type(word_translations_en) == str and "," in word_translations_en:
+                word_de = row["word_de"].values[0]
+                translations = list(
+                    map(lambda x: x.strip(), word_translations_en.split(","))
+                )
+                block = deck_full[(deck_full.index >= i) & (deck_full.index < i + 1)]
+
+                last_index = block.index.max()
+
+                for translation in translations:
+                    row_translation = block[block["word_en"] == translation]
+                    if row_translation.empty:
+                        last_index += 0.001
+
+                        if last_index % 1 >= 0.01:
+                            raise Exception(f"Bad {last_index=}")
+
+                        print(
+                            f"{last_index:.3f}|{row["part_of_speech"].values[0]}|{word_de}|{translation}"
+                        )
+
+
+find_not_all_meanings()
+
+# %%
+
+
+def reorder_not_all_meanings():
+    mk_path = lambda x: f"de-en/data/translations-without-example{x}.csv"
+    path1 = mk_path("")
+    path2 = mk_path("-reordered")
+
+    deck = pd.read_csv(path1, sep="|", index_col=0)
+
+    cond = deck["sentence_de"].apply(lambda x: 30 <= len(str(x)) <= 45)
+
+    deck_1 = pd.DataFrame(deck[cond]).sort_index()
+
+    deck_2 = pd.DataFrame(deck[~cond]).sort_index()
+    deck_2 = deck_2.drop(columns=["sentence_de", "sentence_en"])
+
+    deck_new = pd.concat([deck_1, deck_2])
+
+    deck_new.to_csv(path2, sep="|")
+
+    with open(path2, "r", encoding="UTF-8") as p2:
+        lines = p2.readlines()
+    for i, line in enumerate(lines):
+        if line[-3:] == "||\n":
+            lines[i] = line[:-3] + "\n"
+    with open(path2, "w", encoding="UTF-8") as p2:
+        p2.writelines(lines)
+
+
+reorder_not_all_meanings()
