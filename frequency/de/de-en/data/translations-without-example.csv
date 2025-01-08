@@ -1,50 +1,4 @@
 |part_of_speech|word_de|word_en|sentence_de|sentence_en
-1.001|pronoun|der|that|Der Mann, der dort steht, ist mein Nachbar.|The man that is standing there is my neighbor.
-1.002|pronoun|der|those|Die Bücher, die der Tisch hielt, waren alt.|Those books that the table held were old.
-2.001|pronoun|der|that|Der Baum, der gefällt wurde, war sehr alt.|The tree that was cut down was very old.
-7.001|article|ein|an|Er fand ein Buch, das er lange gesucht hatte.|He found an old book he had been looking for.
-12.001|pronoun|sie|them|Ich habe sie gestern in der Stadt getroffen.|I met them yesterday in the city.
-16.001|verb|werden|get|Wir werden bald eine Nachricht bekommen.|We will get a message soon.
-24.001|preposition|auf|at|Wir treffen uns auf dem Platz vor dem Kino.|We will meet at the square in front of the cinema.
-27.001|preposition|an|at|Wir trafen uns an der Ecke beim Café.|We met at the corner near the café.
-34.001|verb|können|to be able to|Ich kann das Problem ohne Hilfe lösen.|I am able to solve the problem without help.
-35.001|pronoun|dies|that|Dies ist das Problem, das wir lösen müssen.|That is the problem that we need to solve.
-39.002|pronoun|ihr|hers|Das Fahrrad ist nicht meins, sondern ihrs.|The bike is not mine but hers.
-40.001|pronoun|ihr|her|Ich gab ihr das Buch, das sie gesucht hatte.|I gave her the book that she was looking for.
-42.002|adverb|so|thus|Er erklärte es so, dass alle es verstanden.|He explained it thus, so everyone understood.
-44.001|preposition|bei|by|Wir treffen uns bei der Brücke um 10 Uhr.|We meet by the bridge at 10 o’clock.
-48.002|pronoun|man|they|Man sagt, dass sie bald ankommen werden.|They say that they will arrive soon.
-49.001|adverb|noch|still|Er ist noch nicht fertig mit der Arbeit.|He is still not done with the work.
-50.001|preposition|nach|toward|Wir fahren nach Süden, um das Meer zu sehen.|We are heading toward the south to see the sea.
-61.003|preposition|um|about|Wir sprechen um die Details des Projekts.|We are talking about the details of the project.
-64.002|preposition|über|about|Das Buch handelt über die Geschichte Europas.|The book is about the history of Europe.
-69.001|pronoun|mein|mine|Das ist nicht dein Buch, sondern es ist mein.|That is not your book; it is mine.
-76.002|verb|machen|make|Er will aus Holz ein neues Regal machen.|He wants to make a new shelf out of wood.
-78.001|verb|sollen|ought to|Du sollst pünktlich zum Termin erscheinen.|You ought to arrive on time for the appointment.
-87.001|adjective|groß|big|Das große Haus steht am Ende der Straße.|The big house is at the end of the street.
-87.002|adjective|groß|great|Das war eine großartige Idee für das Projekt.|That was a great idea for the project.
-89.001|adjective|ganz|all the|Er hat den ganzen Kuchen alleine gegessen.|He ate all the cake by himself.
-94.001|adverb|doch|however|Es war spät, doch wir gingen noch ins Kino.|It was late; however, we still went to the cinema.
-106.001|noun|das Mal|mark|Das war das erste Mal, dass ich ihn traf.|That was the first mark of when I met him.
-108.001|verb|lassen|allow|Sie ließ mich das neue Buch zuerst lesen.|She allowed me to read the new book first.
-108.002|verb|lassen|have done|Ich lasse meine Haare jeden Monat schneiden.|I have my hair done every month.
-126.001|noun|die Frau|wife|Die Frau trug ein elegantes Kleid zur Feier.|The wife wore an elegant dress to the party.
-127.001|pronoun|etwas|some|Ich brauche etwas Ruhe nach einem langen Tag.|I need some rest after a long day.
-127.002|pronoun|etwas|a little|Möchtest du etwas Zucker in deinen Tee geben?|Would you like a little sugar in your tea?
-131.001|pronoun|wenige|little|Nur wenige Leute kamen zur Veranstaltung.|Only a little few people came to the event.
-143.001|verb|bleiben|remain|Wir bleiben zu Hause, bis der Regen aufhört.|We remain at home until the rain stops.
-148.001|adjective|hoch|high|Die hohen Berge sind mit Schnee bedeckt.|The high mountains are covered with snow.
-159.001|conjunction|ob|if|Ich frage mich, ob er heute zur Party kommt.|I wonder if he is coming to the party today.
-162.001|preposition|seit|since|Er arbeitet seit fünf Jahren in dieser Firma.|He has worked in this company since five years.
-163.001|adjective|einfach|easy|Die Lösung war einfach zu finden.|The solution was easy to find.
-165.001|adverb|erst|first|Erst machen wir Pause, dann arbeiten wir.|First, we take a break, then we work.
-168.001|noun|das Land|land|Das Land hinter dem Wald ist unbewohnt.|The land beyond the forest is uninhabited.
-168.002|noun|das Land|state|Das Land hat neue Gesetze verabschiedet.|The state has passed new laws.
-169.001|verb|stellen|set|Bitte stellen Sie den Wecker für sieben Uhr.|Please set the alarm for seven o'clock.
-169.002|verb|stellen|put|Er stellte die Kiste in die Ecke des Raumes.|He put the box in the corner of the room.
-172.001|adverb|natürlich|naturally|Sie akzeptierte das Angebot natürlich sofort.|She naturally accepted the offer immediately.
-176.002|adjective|gleich|just|Das ist genau das gleiche Problem wie zuvor.|That is just the same problem as before.
-182.001|verb|hören|to listen (to)|Ich höre gerne Musik, wenn ich arbeite.|I like to listen to music when I work.
 185.001|pronoun|wer|whoever|Wer das Rätsel löst, gewinnt den Hauptpreis.|Whoever solves the puzzle wins the grand prize.
 186.001|pronoun|dazu|furthermore|Er brachte Bücher mit und dazu auch Snacks.|He brought books and furthermore some snacks.
 186.002|pronoun|dazu|to that|Ich habe nichts mehr dazu zu sagen.|I have nothing more to add to that.
@@ -894,6 +848,20 @@
 2006.001|verb|verbergen|conceal|Er verbarg die Briefe in der Schublade.|He concealed the letters in the drawer.
 2007.001|particle|aha|I see|Aha, das macht jetzt endlich Sinn!|I see, that makes sense now!
 2009.001|noun|die Post|post office|Ich gehe zur Post, um das Paket abzuholen.|I am going to the post office to pick up the package.
+1.002|pronoun|der|those
+7.001|article|ein|an
+42.002|adverb|so|thus
+44.001|preposition|bei|by
+48.002|pronoun|man|they
+87.002|adjective|groß|great
+106.001|noun|das Mal|mark
+108.001|verb|lassen|allow
+108.002|verb|lassen|have done
+131.001|pronoun|wenige|little
+162.001|preposition|seit|since
+163.001|adjective|einfach|easy
+172.001|adverb|natürlich|naturally
+176.002|adjective|gleich|just
 1822.001|verb|achten|to respect
 1832.001|verb|umdrehen|turn around
 1964.001|verb|ergänzen|complete
