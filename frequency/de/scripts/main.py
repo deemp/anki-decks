@@ -252,8 +252,52 @@ def copy_good_examples():
     deck = pd.read_csv(path, sep="|", index_col=0)
 
     deck_good_sentences = deck_good_sentences.drop(columns=["part_of_speech"])
+
+    skipped_indices = [
+        174,
+        251,
+        667,
+        702,
+        720,
+        727,
+    ]
+
+    mismatches = pd.Index(
+        [
+            idx
+            for idx in deck_good_sentences.index
+            if int(idx) not in skipped_indices
+            and deck_good_sentences.loc[idx, "word_de"] != deck.loc[int(idx), "word_de"]
+        ]
+    )
+
+    if not mismatches.empty:
+        deck_mismatches = pd.DataFrame(deck_good_sentences.loc[mismatches])
+
+        word_de_actual = deck.loc[deck_mismatches.index.map(int), "word_de"].values
+
+        display(word_de_actual)
+
+        deck_mismatches.insert(
+            0,
+            column="actual_word",
+            value=word_de_actual,
+        )
+
+        display(
+            deck_mismatches.loc[
+                :,
+                [
+                    "word_de",
+                    "actual_word",
+                ],
+            ]
+        )
+
+        raise Exception(f"Mismatched rows!")
+
     deck_matching_good_sentences = pd.DataFrame(
-        deck.iloc[deck_good_sentences.index.map(int)]
+        deck.loc[deck_good_sentences.index.map(int)]
     )
 
     deck_matching_good_sentences.index = deck_good_sentences.index
@@ -274,4 +318,48 @@ def copy_good_examples():
 
 
 copy_good_examples()
-# deck_good_sentences.loc["part_of_speech"]
+
+# %%
+
+
+def check_meanings_have_the_same_word_de():
+    skipped_indices = [
+        174,
+        251,
+        667,
+        702,
+        720,
+        727,
+        986,
+        1069,
+        1220,
+        1295,
+        1300,
+        1314,
+        1363,
+    ]
+
+    path = "de-en/deck.csv"
+    deck = pd.read_csv(path, sep="|", index_col=0)
+
+    mismatches = pd.Index(
+        [
+            idx
+            for idx in deck.index
+            if int(idx) not in skipped_indices
+            and deck.loc[idx, "word_de"] != deck.loc[int(idx), "word_de"]
+        ]
+    )
+
+    deck_root = deck.loc[mismatches.map(int)]
+    deck_mismatched = deck.loc[mismatches]
+
+    if not deck_mismatched.empty:
+        deck_res = pd.concat([deck_root, deck_mismatched])
+
+        display(deck_res.sort_index().drop_duplicates())
+
+        raise Exception("Mismatches in word_de found!")
+
+
+check_meanings_have_the_same_word_de()
