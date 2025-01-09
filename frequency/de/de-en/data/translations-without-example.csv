@@ -1,760 +1,196 @@
 |part_of_speech|word_de|word_en|sentence_de|sentence_en
-185.001|pronoun|wer|whoever|Wer das Rätsel löst, gewinnt den Hauptpreis.|Whoever solves the puzzle wins the grand prize.
-186.001|pronoun|dazu|furthermore|Er brachte Bücher mit und dazu auch Snacks.|He brought books and furthermore some snacks.
-186.002|pronoun|dazu|to that|Ich habe nichts mehr dazu zu sagen.|I have nothing more to add to that.
-186.003|pronoun|dazu|for that|Hast du einen Plan dazu gemacht?|Did you make a plan for that?
-187.001|adjective|eigentlich|real|Das ist eigentlich ein großes Problem.|That is a real problem.
-193.001|verb|halten|to stop|Er hielt kurz an, um eine Pause zu machen.|He stopped briefly to take a break.
-193.002|verb|halten|hold|Sie hält das Baby sanft in ihren Armen.|She holds the baby gently in her arms.
-198.001|adverb|gerade|just now|Ich habe gerade eine E-Mail von ihm erhalten.|I just now received an email from him.
-198.002|adverb|gerade|right now|Er arbeitet gerade an einem neuen Projekt.|He is working on a new project right now.
-202.001|verb|bringen|to bring|Bitte bring die Briefe morgen zur Post.|Please bring the letters to the post office tomorrow.
-202.002|verb|bringen|take|Ich bringe die Kinder jeden Tag zur Schule.|I take the children to school every day.
-212.001|adverb|so ... wie möglich|if possible|Komm so früh wie möglich zur Besprechung.|Come as early as possible to the meeting.
-215.001|preposition|während|while|Während des Films blieb es still im Kino.|While the movie played, it was quiet in the cinema.
-216.001|pronoun|einige|a few|Einige Leute kamen später zur Veranstaltung.|A few people arrived later to the event.
-217.001|pronoun|dafür|for that|Danke dafür, dass du mir geholfen hast.|Thank you for that, for helping me.
-223.001|adverb|etwa|approximately|Das Treffen dauerte etwa zwei Stunden.|The meeting lasted approximately two hours.
-225.001|adjective|weitere|additional|Wir brauchen weitere Informationen dazu.|We need additional information about it.
-230.001|noun|der Fall|fall|Im Fall eines Problems melden Sie sich bitte.|In the fall of a problem, please report it.
-231.001|adjective|schön|pleasant|Der Spaziergang war schön und erholsam.|The walk was pleasant and relaxing.
-231.002|adjective|schön|good|Das Essen schmeckte schön und lecker.|The food tasted good and delicious.
-232.001|adjective|wirklich|actual|Das war die wirkliche Ursache des Problems.|That was the actual cause of the problem.
-233.001|adverb|wirklich|actually|Ich habe das wirklich nicht erwartet.|I actually did not expect that.
-234.001|pronoun|denen (pl, Dativ)|whom|Die Personen, denen wir halfen, waren nett.|The people whom we helped were nice.
-234.002|pronoun|denen (pl, Dativ)|who|Das sind die Kinder, denen wir Bücher gaben.|Those are the children who we gave books.
-234.003|pronoun|denen (pl, Dativ)|that|Das sind die Dinge, mit denen wir arbeiteten.|Those are the things that we worked with.
-235.001|verb|nennen|call|Sie nennen das Projekt einen großen Erfolg.|They call the project a big success.
-237.001|verb|ziehen|to pull|Er zog die Tür, um den Raum zu verlassen.|He pulled the door to leave the room.
-237.002|verb|ziehen|move|Wir ziehen bald in eine größere Wohnung um.|We will move to a bigger apartment soon.
-239.001|pronoun|darauf|to it|Ich freue mich darauf, dich bald zu sehen.|I look forward to it, seeing you soon.
-240.001|adverb|eben|now|Ich habe das eben erst erfahren.|I just now learned about it.
-242.001|noun|die Seite|page|Die Seite des Buches war bereits abgenutzt.|The page of the book was already worn out.
-248.001|adjective|schnell|fast|Der schnelle Zug brachte uns ans Ziel.|The fast train brought us to our destination.
-249.001|noun|die Stadt|town|Die Stadt war bekannt für ihre alten Gebäude.|The town was known for its old buildings.
-251.002|adverb|zwar ..., aber|admittedly|Er ist zwar jung, aber sehr erfahren.|He is admittedly young, but very experienced.
-251.003|adverb|zwar ..., aber|to be precise|Es war zwar spät, aber die Arbeit war fertig.|It was late, to be precise, but the work was done.
-257.002|verb|bekommen|receive|Ich habe die Einladung per Post bekommen.|I received the invitation by mail.
-258.001|verb|meinen|have an opinion|Ich meine, dass wir früher beginnen sollten.|I have the opinion that we should start earlier.
-259.001|pronoun|davon|from it|Er hat viel gelernt und profitiert davon.|He learned a lot and benefited from it.
-259.002|pronoun|davon|thereof|Ich habe nichts Neues davon gehört.|I have heard nothing new thereof.
-260.001|verb|fahren|ride|Wir fahren mit dem Fahrrad zum See.|We ride our bikes to the lake.
-260.002|verb|fahren|go|Wir fahren morgen früh nach Berlin.|We go to Berlin early tomorrow morning.
-262.001|pronoun|dich|yourself|Hast du dich auf die Prüfung gut vorbereitet?|Have you prepared yourself well for the exam?
-265.001|noun|der Weg|way|Der Weg zum Gipfel war lang und steil.|The way to the summit was long and steep.
-270.001|adverb|allerdings|indeed|Das war teuer, allerdings war es notwendig.|That was expensive, indeed, but necessary.
-270.002|adverb|allerdings|certainly|Der Film war spannend, allerdings auch lang.|The movie was exciting, certainly, but long.
-271.001|adverb|sogar|in fact|Er hat sogar das schwierigste Rätsel gelöst.|He in fact solved the hardest riddle.
-273.001|verb|setzen|to set|Er setzte die Vase vorsichtig auf den Tisch.|He set the vase carefully on the table.
-273.002|verb|setzen|place|Er setzte das Glas vorsichtig auf den Tisch.|He carefully placed the glass on the table.
-273.003|verb|setzen|put|Ich setzte das Glas zurück auf den Tisch.|I put the glass back on the table.
-275.001|adverb|deshalb|therefore|Es regnete, deshalb blieben wir zu Hause.|It rained; therefore, we stayed at home.
-276.001|adverb|weit|widely|Die Nachricht wurde weit verbreitet.|The news was widely spread.
-282.001|noun|das Unternehmen|enterprise|Das Unternehmen expandiert in neue Märkte.|The enterprise is expanding into new markets.
-287.001|noun|das Paar|pair|Das Paar tanzte elegant auf der Hochzeit.|The pair danced elegantly at the wedding.
-289.001|adjective|recht|(all) right|Das ist recht gut für einen Anfänger gemacht.|That is all right for a beginner to have done.
-289.002|adjective|recht|be fine (with)|Er ist recht zufrieden mit dem Ergebnis.|He is fine with the result.
-290.001|noun|das Recht|law|Jeder Mensch hat das Recht auf Freiheit.|Every person has the right to freedom.
-291.001|particle|recht|quite|Es war recht spät, als wir nach Hause kamen.|It was quite late when we got home.
-295.001|verb|bestehen|to exist|Ein Problem besteht, das wir lösen müssen.|A problem exists that we need to solve.
-295.002|verb|bestehen|insist|Er besteht darauf, das jetzt zu klären.|He insists on resolving that now.
-296.001|verb|versuchen|attempt|Wir versuchen, das Problem zu lösen.|We attempt to solve the problem.
-298.001|noun|der Grund|basis|Der Grund für die Verzögerung war ein Fehler.|The basis for the delay was a mistake.
-303.001|adjective|verschieden|diverse|Wir haben verschiedene Optionen zur Auswahl.|We have diverse options to choose from.
-305.001|noun|die Aufgabe|assignment|Die Aufgabe war es, die Daten zu analysieren.|The assignment was to analyze the data.
-305.002|noun|die Aufgabe|job|Ihre Aufgabe ist es, die Daten zu sammeln.|Her job is to collect the data.
-306.001|adjective|schwer|difficult|Die Prüfung war schwer, aber schaffbar.|The exam was difficult but manageable.
-309.001|noun|die Art|type|Diese Art von Fehler ist leicht zu beheben.|This type of error is easy to fix.
-312.001|noun|die Geschichte|history|Die Geschichte der Stadt ist interessant.|The history of the city is interesting.
-314.001|verb|entstehen|to originate|Neue Probleme entstehen oft durch Fehler.|New problems often originate from errors.
-314.002|verb|entstehen|develop|Ideen entstehen manchmal aus Langeweile.|Ideas sometimes develop from boredom.
-315.001|adjective|sicher|safe|Der Park ist sicher, auch bei Dunkelheit.|The park is safe, even at night.
-315.002|adjective|sicher|certain|Ich bin sicher, dass alles klappt.|I am certain everything will work.
-316.001|preposition|neben|beside|Er sitzt neben mir während der Besprechung.|He sits beside me during the meeting.
-321.001|verb|tragen|wear|Sie trägt ein schönes Kleid zu der Party.|She wears a beautiful dress to the party.
-325.001|verb|scheinen|seem|Es scheint, dass das Problem komplexer ist.|It seems that the problem is more complex.
-325.002|verb|scheinen|appear|Es scheint, dass es bald regnet.|It appears it will rain soon.
-327.001|verb|aussehen|to appear|Er sieht aus wie ein berühmter Schauspieler.|He appears to be like a famous actor.
-327.002|verb|aussehen|look|Das Haus sieht von außen sehr modern aus.|The house looks very modern from the outside.
-329.001|adverb|überhaupt|generally|Das war überhaupt nicht schwer.|That was generally not hard.
-331.001|conjunction|sowie|as soon as|Sowie er ankam, begann die Besprechung.|As soon as he arrived, the meeting started.
-331.002|conjunction|sowie|plus|Sie hat Schuhe sowie eine Tasche gekauft.|She bought shoes plus a bag.
-333.001|pronoun|darüber|above it|Ich habe den Vogel gesehen, der darüber flog.|I saw the bird that flew above it.
-335.002|verb|schaffen|create|Wir schaffen Platz für die neuen Gäste.|We create space for the new guests.
-342.001|conjunction|beziehungsweise (bzw.)|respectively|Die Tische sind rund, beziehungsweise oval.|The tables are round, respectively oval.
-344.001|verb|suchen|look for|Ich suche ein Hotel in der Nähe des Bahnhofs.|I am looking for a hotel near the train station.
-346.001|adjective|gemeinsam|mutual|Wir haben ein gemeinsames Ziel erreicht.|We reached a mutual goal.
-350.001|noun|das Thema|subject|Das Thema der Diskussion war interessant.|The subject of the discussion was interesting.
-350.002|noun|das Thema|theme|Das Thema des Buches ist Liebe.|The theme of the book is love.
-351.001|verb|handeln|trade|Die Firma handelt mit frischem Gemüse.|The company trades in fresh vegetables.
-355.001|adverb|anders|different|Die Situation ist anders als erwartet.|The situation is different than expected.
-358.001|noun|der Blick|look|Sein Blick war ernst und aufmerksam.|His look was serious and attentive.
-358.002|noun|der Blick|glance|Ein Blick reichte, um alles zu verstehen.|A glance was enough to understand everything.
-360.003|adjective|einzeln|individual|Jedes einzelne Problem wurde besprochen.|Each individual problem was discussed.
-361.003|verb|erreichen|to achieve|Er wollte das Ziel schnell erreichen.|He wanted to achieve the goal quickly.
-363.001|adjective|leicht|easy|Die Prüfung war leichter als erwartet.|The test was easier than expected.
-364.001|adverb|je|ever|Je mehr du übst, desto besser wirst du.|The more you practice, the better you will become.
-365.001|conjunction|je ..., desto|the more ...|Je mehr du übst, desto besser wirst du.|The more you practice, the better you get.
-365.002|conjunction|je ..., desto|the|Je mehr du übst, desto besser wirst du.|The more you practice, the better you will become.
-368.001|verb|bilden|educate|Die Schule bildet Schüler für die Zukunft.|The school educates students for the future.
-372.001|adjective|bekannt|well-known|Er ist als guter Sänger bekannt.|He is well-known as a good singer.
-373.001|noun|das Ziel|destination|Unser Ziel ist ein kleines Dorf.|Our destination is a small village.
-374.001|verb|steigen|increase|Die Preise steigen in letzter Zeit stark.|The prices increase sharply lately.
-375.001|adverb|eher|sooner|Ich würde eher einen Zug nehmen als ein Auto.|I would sooner take a train than a car.
-375.002|adverb|eher|earlier|Er kam eher an, als wir es erwartet hatten.|He arrived earlier than we expected.
-375.003|adverb|eher|more likely|Es ist eher wahrscheinlich, dass er kommt.|It is more likely that he will come.
-378.001|adverb|nachts|nights|Nachts ist die Stadt besonders still.|Nights in the city are particularly quiet.
-380.003|noun|der Platz|room|Es gibt keinen Platz mehr im Zug.|There is no room left in the train.
-382.001|noun|das Spiel|match|Das Spiel war spannend bis zum Ende.|The match was exciting until the end.
-384.001|pronoun|jemand|somebody|Jemand hat das Fenster offengelassen.|Somebody left the window open.
-388.001|noun|der Preis|prize|Der Preis für den Gewinner war großartig.|The prize for the winner was amazing.
-393.001|noun|der Bereich|region|Der Bereich ist bekannt für guten Wein.|The region is known for good wine.
-394.001|adjective|tatsächlich|real|Die Lösung war tatsächlich sehr einfach.|The solution was actually very simple.
-395.001|noun|der Ort|town|Der Ort liegt malerisch am Ufer eines Sees.|The town is picturesquely located by a lake.
-395.002|noun|der Ort|location|Der Ort war ruhig und wunderschön.|The location was quiet and beautiful.
-398.001|adjective|einzig|single|Das war die einzig mögliche Lösung.|That was the single possible solution.
-403.001|noun|die Uhr|watch|Die Uhr zeigt die genaue Zeit an.|The watch shows the exact time.
-403.002|noun|die Uhr|o’clock|Um genau zwölf Uhr begann die Präsentation.|At exactly twelve o’clock, the presentation started.
-404.001|pronoun|mehrere|multiple|Mehrere Menschen warteten auf den Bus.|Multiple people waited for the bus.
-404.002|pronoun|mehrere|various|Es gibt mehrere Wege zum Ziel.|There are various ways to reach the goal.
-406.001|adverb|schließlich|finally|Schließlich fanden wir die richtige Antwort.|Finally, we found the correct answer.
-407.001|verb|legen|to lay|Er legte das Buch auf den Tisch.|He laid the book on the table.
-407.002|verb|legen|put|Ich legte die Schlüssel auf das Regal.|I put the keys on the shelf.
-408.001|adjective|direkt|straight|Der direkte Weg führt durch den Wald.|The straight path leads through the forest.
-409.001|pronoun|daher|from|Das Geschenk kommt direkt daher aus Italien.|The gift comes directly from Italy.
-409.002|pronoun|daher|there|Es regnete, daher blieben wir zu Hause.|It rained; therefore, we stayed home.
-409.003|pronoun|daher|hence|Er war krank, daher konnte er nicht kommen.|He was sick; hence, he could not come.
-411.001|verb|erkennen|admit|Er musste erkennen, dass er falsch lag.|He had to admit that he was wrong.
-415.001|pronoun|darin|in there|Darin lag das Buch, das ich suchte.|In there was the book I was looking for.
-415.002|pronoun|darin|inside|Darin war eine alte Notiz versteckt.|Inside was an old note hidden.
-416.001|noun|das Auto|automobile|Das Auto steht vor dem Haus geparkt.|The automobile is parked in front of the house.
-417.001|pronoun|niemand|no one|Niemand wusste, wie das Problem zu lösen war.|No one knew how to solve the problem.
-420.001|verb|vorstellen|imagine|Kannst du dir das Ergebnis vorstellen?|Can you imagine the result?
-426.001|particle|na|well|Na, was denkst du über die Idee?|Well, what do you think about the idea?
-427.001|verb|gewinnen|gain|Er konnte viel Vertrauen gewinnen.|He could gain a lot of trust.
-428.001|adverb|zunächst|at first|Zunächst dachten wir, es sei einfach.|At first, we thought it was easy.
-428.002|adverb|zunächst|for now|Wir belassen es zunächst so und sehen weiter.|We will leave it as it is for now and see further.
-434.001|noun|die Möglichkeit|chance|Die Möglichkeit besteht, dass wir gewinnen.|The chance exists that we might win.
-435.001|noun|der Sinn|sense|Der Sinn dieser Regelung ist nicht klar.|The sense of this regulation is unclear.
-436.001|verb|passieren|to take place|Das Treffen wird morgen im Büro passieren.|The meeting will take place in the office tomorrow.
-436.002|verb|passieren|happen|Ein Fehler kann jederzeit passieren.|A mistake can happen at any time.
-440.001|noun|die Rolle|roll|Er spielt die Rolle des Helden im Theater.|He plays the role of the hero in the theater.
-447.001|noun|die Angst|anxiety|Die Angst vor dem Examen war groß.|The anxiety before the exam was great.
-450.001|pronoun|jene|those|Jene Bücher auf dem Regal gehören mir.|Those books on the shelf belong to me.
-452.001|particle|oh|aw|Oh, ich habe den Termin komplett vergessen.|Aw, I completely forgot the appointment.
-454.001|noun|die Stimme|vote|Jeder Bürger hat eine Stimme bei der Wahl.|Every citizen has one vote in the election.
-456.001|verb|wirken|to have an effect|Das neue Medikament begann schnell zu wirken.|The new medication began to have an effect quickly.
-456.002|verb|wirken|take effect|Die neue Regel wird ab morgen wirken.|The new rule will take effect starting tomorrow.
-456.003|verb|wirken|work|Das Team wirkte gut zusammen am Projekt.|The team worked well together on the project.
-457.001|verb|darstellen|to depict|Das Bild stellt eine Szene aus der Natur dar.|The picture depicts a scene from nature.
-457.002|verb|darstellen|portray|Der Film stellt das Leben des Künstlers dar.|The film portrays the life of the artist.
-457.003|verb|darstellen|show|Das Diagramm stellt die Verkaufszahlen dar.|The chart shows the sales figures.
-458.001|noun|der Raum|space|Der Raum war groß genug für alle Teilnehmer.|The space was large enough for all participants.
-460.001|verb|bezeichnen|name|Er bezeichnete sie als beste Kandidatin.|He named her as the best candidate.
-464.001|noun|die USA (Vereinigte Staaten von Amerika)|United States of America|Die USA sind ein bedeutender Handelspartner.|The United States of America are a major trade partner.
-466.001|adverb|früher|in former times|Früher war alles einfacher und ruhiger.|In former times, everything was simpler and calmer.
-469.001|verb|ergeben|to result in|Die Analyse ergab interessante Ergebnisse.|The analysis resulted in interesting findings.
-469.002|verb|ergeben|produce|Das Projekt wird wertvolle Daten ergeben.|The project will produce valuable data.
-472.001|verb|betreffen|to affect|Die Entscheidung betrifft alle Mitarbeiter.|The decision affects all employees.
-472.002|verb|betreffen|concern|Das Problem betrifft uns alle in der Firma.|The problem concerns all of us in the company.
-473.001|adverb|oben|up there|Oben auf dem Berg liegt noch Schnee.|Up there on the mountain, there is still snow.
-475.001|verb|bestimmen|to decide|Das Team wird die Strategie bestimmen.|The team will decide the strategy.
-475.002|verb|bestimmen|determine|Die Analyse wird den Erfolg bestimmen.|The analysis will determine the success.
-476.001|verb|fehlen|to lack|Es fehlt uns an guten Ideen für das Projekt.|We lack good ideas for the project.
-476.002|verb|fehlen|be absent|Ein wichtiges Detail fehlt in dem Bericht.|An important detail is absent in the report.
-480.001|adverb|außerdem|in addition|Außerdem brauchen wir mehr Ressourcen.|In addition, we need more resources.
-481.001|particle|nämlich|namely|Er kam nicht, weil er nämlich krank war.|He did not come because he was sick, namely.
-487.001|noun|die Folge|result|Die Folge war ein deutlicher Gewinn.|The result was a significant gain.
-489.001|pronoun|manche|many a|Manche Menschen haben Angst vor Veränderung.|Many a person fears change.
-490.001|noun|die Verbindung|link|Die Verbindung zwischen den Städten ist gut.|The link between the cities is good.
-497.001|adverb|bisher|up to now|Bisher hat noch niemand eine Lösung gefunden.|Up to now, no one has found a solution.
-497.002|adverb|bisher|yet|Bisher wurde das Problem noch nicht gelöst.|Yet, the problem has not been solved.
-501.001|adverb|ebenfalls|likewise|Er stimmte zu, und ich tat es ebenfalls.|He agreed, and I did likewise.
-501.002|adverb|ebenfalls|as well|Ich möchte ebenfalls am Projekt teilnehmen.|I want to participate in the project as well.
-503.001|noun|die Grenze|frontier|Die Grenze zwischen den Ländern ist offen.|The frontier between the countries is open.
-508.001|verb|verbinden|link|Die Straße verbindet zwei kleine Dörfer.|The road links two small villages.
-513.001|pronoun|danach|after it|Wir aßen und gingen danach spazieren.|We ate and went for a walk after it.
-517.001|verb|einsetzen|to put in|Er setzte das Buch zurück ins Regal.|He put the book back in the shelf.
-517.002|verb|einsetzen|insert|Bitte setzen Sie die Karte in das Gerät ein.|Please insert the card into the device.
-522.001|pronoun|dadurch|through it|Wir haben das Problem dadurch schnell gelöst.|We solved the problem quickly through it.
-522.002|pronoun|dadurch|as a consequence|Es regnete, dadurch verspätete sich alles.|It rained, as a consequence, everything was delayed.
-524.001|noun|die Weise|manner|Auf diese Weise können wir das Problem lösen.|In this manner, we can solve the problem.
-534.001|particle|halt|simply|Das ist halt so, man kann es nicht ändern.|That is simply how it is; you can't change it.
-540.001|verb|ausgehen|assume|Ich gehe davon aus, dass er pünktlich kommt.|I assume that he will arrive on time.
-542.001|verb|betrachten|consider|Wir sollten alle Optionen genau betrachten.|We should consider all options carefully.
-547.001|verb|stimmen|vote|Die Bürger stimmen für den neuen Präsidenten.|The citizens vote for the new president.
-548.001|verb|bitten|to request|Wir bitten Sie, die Regeln einzuhalten.|We request you to follow the rules.
-548.002|verb|bitten|ask|Ich möchte dich um einen Gefallen bitten.|I want to ask you for a favor.
-550.001|adjective|wahrscheinlich|likely|Es ist wahrscheinlich, dass er bald kommt.|It is likely that he will come soon.
-551.001|adverb|wahrscheinlich|likely|Er wird wahrscheinlich später ankommen.|He will likely arrive later.
-553.001|pronoun|euch|yourselves|Habt ihr euch auf die Prüfung vorbereitet?|Did you prepare yourselves for the exam?
-554.001|adverb|insgesamt|altogether|Insgesamt waren zwanzig Leute im Raum.|Altogether, twenty people were in the room.
-554.002|adverb|insgesamt|in total|Insgesamt dauerte das Meeting drei Stunden.|In total, the meeting lasted three hours.
-562.002|adjective|gering|minor|Der Unterschied war gering, aber bemerkbar.|The difference was minor but noticeable.
-563.001|noun|der Film|film|Der neue Film lief gestern im Kino an.|The new film premiered in the cinema yesterday.
-573.001|adjective|völlig|absolutely|Er war völlig überzeugt von seiner Idee.|He was absolutely convinced of his idea.
-576.001|pronoun|darum|around it|Darum stehen viele Menschen und diskutieren.|Around it, many people are standing and discussing.
-577.001|noun|der Kunde|client|Der Kunde war zufrieden mit dem Service.|The client was satisfied with the service.
-578.001|noun|die Menge|quantity|Die Menge an Müll war schockierend hoch.|The quantity of trash was shockingly high.
-579.001|noun|die Regierung|rule|Die Regierung hat neue Maßnahmen beschlossen.|The rule introduced new measures.
-580.001|noun|die Antwort|reply|Seine Antwort war klar und überzeugend.|His reply was clear and convincing.
-581.001|verb|annehmen|assume|Ich nehme an, dass das Problem gelöst ist.|I assume that the problem is solved.
-582.001|adjective|falsch|false|Die Behauptung war offensichtlich falsch.|The statement was obviously false.
-583.001|noun|der Zusammenhang|connection|Der Zusammenhang war sofort erkennbar.|The connection was immediately visible.
-593.001|adverb|ebenso|as much as|Ich mag ihn ebenso wie du es tust.|I like him as much as you do.
-593.002|adverb|ebenso|as well|Er mag Kaffee, und ich ebenso.|He likes coffee, and I as well.
-594.001|noun|der Boden|floor|Er legte die Tasche vorsichtig auf den Boden.|He carefully placed the bag on the floor.
-594.002|noun|der Boden|bottom|Am Boden des Glases war noch etwas Wasser.|At the bottom of the glass, there was some water.
-600.001|adverb|zudem|furthermore|Das Wetter war kalt, zudem regnete es stark.|The weather was cold; furthermore, it rained heavily.
-600.002|adverb|zudem|besides|Das Wetter war schlecht, zudem war es kalt.|The weather was bad; besides, it was cold.
-601.001|noun|die Bank|bench|Die Bank im Park war frisch gestrichen.|The bench in the park was freshly painted.
-602.001|preposition|ab|as of|Ab morgen gelten die neuen Regeln im Büro.|As of tomorrow, the new rules apply in the office.
-605.001|verb|holen|fetch|Er ging hinaus, um frische Luft zu holen.|He went out to fetch some fresh air.
-613.001|noun|die Lage|location|Die Lage des Hauses ist ideal für Familien.|The location of the house is ideal for families.
-614.001|noun|der Schüler|pupil|Der Schüler stellte eine interessante Frage.|The pupil asked an interesting question.
-615.001|adjective|gesamt|whole|Das gesamte Team war an der Lösung beteiligt.|The whole team was involved in the solution.
-616.001|noun|der Druck|printing|Der Druck der Zeitung erfolgt täglich früh.|The printing of the newspaper occurs early daily.
-621.001|verb|aufnehmen|to take in|Das Hotel kann bis zu 200 Gäste aufnehmen.|The hotel can take in up to 200 guests.
-621.002|verb|aufnehmen|record|Die Band will ihr neues Album bald aufnehmen.|The band will record their new album soon.
-621.003|verb|aufnehmen|include|Das Programm wird neue Funktionen aufnehmen.|The program will include new features.
-622.001|noun|die Kosten (pl)|expenses|Die Kosten für das Projekt sind gestiegen.|The expenses for the project have increased.
-624.001|verb|merken|remember|Ich muss mir die Adresse unbedingt merken.|I must remember the address.
-625.004|adjective|fest|solid|Der Tisch steht fest auf dem Boden.|The table is solid on the floor.
-625.005|adjective|fest|strong|Der Tisch steht fest auf dem Boden.|The table stands strong on the floor.
-627.001|noun|der Begriff|concept|Der Begriff wird oft in Diskussionen genutzt.|The concept is often used in discussions.
-627.002|noun|der Begriff|idea|Die Idee hinter dem Projekt war innovativ.|The idea behind the project was innovative.
-638.001|adjective|schwierig|hard|Die Prüfung war schwierig, aber machbar.|The exam was hard but manageable.
-638.002|adjective|schwierig|tough|Das war eine schwierige Aufgabe für das Team.|That was a tough task for the team.
-639.001|noun|das Gut|estate|Das Gut wurde vor vielen Jahren verkauft.|The estate was sold many years ago.
-644.001|verb|besitzen|have|Sie besitzt ein Haus mit einem großen Garten.|She has a house with a big garden.
-651.001|adjective|eng|close|Die beiden Länder haben enge Beziehungen.|The two countries have close relations.
-653.001|noun|der Prozess|process|Der Prozess dauert länger als erwartet.|The process takes longer than expected.
-657.001|verb|fordern|claim|Die Mitarbeiter fordern bessere Bedingungen.|The employees claim better conditions.
-662.001|verb|verhalten|act|Er verhielt sich ruhig und wartete geduldig.|He acted calmly and waited patiently.
-664.001|adverb|ziemlich|fairly|Das Buch war ziemlich spannend bis zum Ende.|The book was fairly exciting until the end.
-664.002|adverb|ziemlich|pretty|Die Aufgabe war ziemlich einfach zu lösen.|The task was pretty easy to solve.
-667.002|adverb|wobei|whereby|Es gibt eine Regel, wobei Ausnahmen gelten.|There is a rule whereby exceptions apply.
-667.003|adverb|wobei|at what|Wobei können wir Ihnen helfen?|At what can we help you?
-667.004|adverb|wobei|whereat|Das ist der Punkt, wobei sie stritten.|That is the point whereat they argued.
-667.005|adverb|wobei|what ... by|Das ist die Methode, wobei wir Erfolg haben.|This is the method by what we succeed.
-668.001|adverb|jeweils|each|Die Pausen dauern jeweils zehn Minuten.|The breaks last ten minutes each.
-669.001|verb|reichen|to reach|Das Seil reicht nicht bis zur anderen Seite.|The rope does not reach to the other side.
-672.001|verb|schlagen|beat|Er schlug die Trommel mit viel Energie.|He beat the drum with a lot of energy.
-676.001|verb|erhöhen|increase|Die Firma plant, die Preise zu erhöhen.|The company plans to increase the prices.
-677.001|verb|sorgen|to worry|Er sorgte sich um seine Familie.|He worried about his family.
-677.002|verb|sorgen|take care|Sie sorgen für die Sicherheit der Gäste.|They take care of the guests' safety.
-682.001|noun|der Arzt|physician|Der Arzt verschrieb ihm ein Medikament.|The physician prescribed him medication.
-683.001|verb|geschehen|occur|Ein Fehler kann in jeder Phase geschehen.|An error can occur at any stage.
-685.001|verb|lösen|loosen|Er löste den Knoten im Seil vorsichtig.|He loosened the knot in the rope carefully.
-688.001|verb|vorkommen|occur|Ein Fehler kann in jeder Situation vorkommen.|An error can occur in any situation.
-688.002|verb|vorkommen|seem|Das kommt mir sehr seltsam vor.|That seems very strange to me.
-691.001|verb|wünschen|to want|Ich wünsche mir ein ruhiges Wochenende.|I want a quiet weekend.
-691.002|verb|wünschen|wish|Er wünschte ihr viel Glück für ihre Prüfung.|He wished her good luck for her exam.
-696.001|pronoun|dasselbe|the same (one|Er trug dasselbe Hemd wie gestern zur Arbeit.|He wore the same shirt to work as yesterday.
-696.002|pronoun|dasselbe|ones)|Ich habe dasselbe Buch wie du gelesen.|I read the same one as you did.
-697.001|verb|wählen|to choose|Sie können zwischen mehreren Optionen wählen.|You can choose between several options.
-697.002|verb|wählen|elect|Die Bürger wählen einen neuen Bürgermeister.|The citizens elect a new mayor.
-697.003|verb|wählen|vote|Ich werde für den besten Kandidaten wählen.|I will vote for the best candidate.
-698.001|adverb|gleichzeitig|at the same time|Er kann gleichzeitig lesen und Musik hören.|He can read and listen to music at the same time.
-699.001|adjective|knapp|slim|Die Ergebnisse waren knapp, aber eindeutig.|The results were slim but clear.
-700.001|noun|der Mitarbeiter|co-worker|Der neue Mitarbeiter wurde herzlich begrüßt.|The new co-worker was warmly welcomed.
-702.001|noun|das Glück|fortune|Er hatte Glück und gewann die Lotterie.|He had fortune and won the lottery.
-708.001|verb|vorliegen|exist|Die nötigen Unterlagen liegen bereits vor.|The required documents already exist.
-709.001|verb|erfolgen|occur|Die Änderung erfolgt ab dem nächsten Monat.|The change occurs starting next month.
-710.001|noun|die Beziehung|relation|Die Beziehung zwischen den Firmen ist stark.|The relation between the companies is strong.
-713.001|verb|stattfinden|occur|Das Konzert wird morgen Abend stattfinden.|The concert will occur tomorrow evening.
-715.002|noun|das Auftreten|conduct|Sein Auftreten war höflich und professionell.|His conduct was polite and professional.
-715.003|noun|das Auftreten|occurrence|Ein solches Auftreten von Fehlern ist selten.|Such an occurrence of errors is rare.
-716.001|verb|auftreten|to appear|Der Fehler trat plötzlich auf.|The error appeared suddenly.
-716.002|verb|auftreten|occur|Fehler treten selten in diesem System auf.|Errors occur rarely in this system.
-720.001|adverb|los|rid of|Ich möchte endlich den alten Kram loswerden.|I finally want to get rid of the old stuff.
-722.001|noun|die Höhe|altitude|Die Höhe des Berges machte das Atmen schwer.|The altitude of the mountain made breathing difficult.
-723.001|adjective|wesentlich|fundamental|Das war eine wesentliche Änderung im Prozess.|That was a fundamental change in the process.
-726.002|adverb|zuletzt|most recently|Er wurde zuletzt in der Bibliothek gesehen.|He was most recently seen in the library.
-727.001|adjective|rein|clear|Das Wasser im Gebirgssee ist kristallrein.|The water in the mountain lake is crystal clear.
-727.002|adjective|rein|clean|Die Küche war nach der Reinigung wieder rein.|The kitchen was clean again after the cleaning.
-729.001|conjunction|indem|while|Er lernte, indem er täglich Bücher las.|He learned while reading books daily.
-735.001|adverb|beispielsweise|such as|Beispielsweise gibt es viele Katzen hier.|Such as, there are many cats here.
-736.001|noun|die Bedingung|stipulation|Die Bedingungen für die Teilnahme sind klar.|The stipulations for participation are clear.
-740.001|verb|funktionieren|to function|Das neue System funktioniert reibungslos.|The new system functions smoothly.
-740.002|verb|funktionieren|work|Das alte Telefon funktioniert immer noch.|The old phone still works.
-748.001|adjective|echt|real|Das war eine echt gute Entscheidung für uns.|That was a real good decision for us.
-749.001|noun|die Firma|firm|Die Firma hat eine neue Filiale eröffnet.|The firm has opened a new branch.
-750.001|noun|die Wirtschaft|commerce|Die Wirtschaft des Landes wächst stetig.|The commerce of the country is steadily growing.
-751.001|verb|stecken|be located|Die Schlüssel stecken in der Jackentasche.|The keys are located in the jacket pocket.
-753.001|verb|erfahren|to experience|Er hat viel über die Kultur erfahren.|He has experienced a lot about the culture.
-753.002|verb|erfahren|find out|Ich möchte mehr über die Situation erfahren.|I want to find out more about the situation.
-755.001|noun|die Folie|foil|Die Präsentation wurde auf Folien gezeigt.|The presentation was shown on foil slides.
-756.001|verb|leisten|achieve|Das Team hat viel in kurzer Zeit geleistet.|The team achieved a lot in a short time.
-756.002|verb|leisten|do|Er wollte etwas Gutes leisten.|He wanted to do something good.
-760.001|verb|beobachten|watch|Ich beobachte die Vögel im Park jeden Morgen.|I watch the birds in the park every morning.
-768.001|adverb|meist|mostly|Er arbeitet meist allein an seinen Projekten.|He mostly works alone on his projects.
-772.001|noun|die Bewegung|motion|Die Bewegung der Wellen war beruhigend.|The motion of the waves was calming.
-776.001|preposition|aufgrund|on the basis of|Aufgrund der Beweise wurde der Fall gelöst.|On the basis of the evidence, the case was solved.
-777.001|verb|beschäftigen|to employ|Die Firma beschäftigt neue Mitarbeiter.|The company employs new staff.
-777.002|verb|beschäftigen|be busy|Er war mit der Arbeit beschäftigt.|He was busy with work.
-777.003|verb|beschäftigen|deal with|Das Buch beschäftigt sich mit Politik.|The book deals with politics.
-778.001|adverb|zuvor|previously|Er hatte das Problem zuvor nicht bemerkt.|He had not noticed the problem previously.
-780.001|adverb|dennoch|nevertheless|Es regnete, dennoch gingen sie spazieren.|It rained, nevertheless, they went for a walk.
-782.001|noun|das Angebot|supply|Das Angebot an frischen Waren ist hier groß.|The supply of fresh goods is large here.
-787.001|verb|kriegen|receive|Wir kriegen die Lieferung morgen früh.|We will receive the delivery tomorrow morning.
-790.001|noun|die Größe|height|Die Größe des Gebäudes ist beeindruckend.|The height of the building is impressive.
-794.001|verb|beteiligen|contribute|Er wollte sich aktiv am Projekt beteiligen.|He wanted to contribute actively to the project.
-796.001|verb|angeben|to claim|Er gab an, die beste Lösung zu kennen.|He claimed to know the best solution.
-796.002|verb|angeben|declare|Sie gab offiziell ihre Kandidatur an.|She declared her candidacy officially.
-796.003|verb|angeben|show off|Er gab mit seinem neuen Auto vor Freunden an.|He showed off his new car to friends.
-797.001|noun|die Reise|journey|Die Reise nach Italien war voller Abenteuer.|The journey to Italy was full of adventures.
-799.001|noun|der Zustand|state|Der Zustand des Autos ist ziemlich gut.|The state of the car is quite good.
-801.002|noun|die Reihe|line|Die Reihe vor dem Kino war überraschend lang.|The line in front of the cinema was surprisingly long.
-803.002|verb|rechnen|compute|Er konnte die Kosten schnell im Kopf rechnen.|He could compute the costs quickly in his head.
-804.001|adjective|bloß|bare|Er lief mit bloßen Füßen durch den Sand.|He walked with bare feet through the sand.
-805.001|adverb|bloß|only|Es war bloß ein Missverständnis, mehr nicht.|It was only a misunderstanding, nothing more.
-805.002|adverb|bloß|simply|Das ist bloß ein kleines Missverständnis.|That is simply a small misunderstanding.
-808.001|verb|dauern|to last|Die Besprechung dauerte länger als geplant.|The meeting lasted longer than expected.
-809.001|adjective|wirtschaftlich|financial|Die wirtschaftliche Lage hat sich verbessert.|The financial situation has improved.
-813.001|adverb|deswegen|therefore|Es regnete, deswegen blieben wir zu Hause.|It rained; therefore, we stayed at home.
-814.001|verb|spüren|to sense|Man konnte die Spannung im Raum spüren.|You could sense the tension in the room.
-814.002|verb|spüren|notice|Er spürte, dass etwas nicht in Ordnung war.|He noticed that something was not right.
-814.003|verb|spüren|feel|Ich spüre den kalten Wind auf meiner Haut.|I feel the cold wind on my skin.
-817.003|noun|der Rahmen|framework|Der Rahmen des Projekts wurde klar definiert.|The framework of the project was clearly defined.
-819.001|noun|die Einheit|unit|Eine Einheit misst genau 100 Milliliter.|One unit measures exactly 100 milliliters.
-819.002|noun|die Einheit|entity|Die Einheit wurde neu gegründet.|The entity was newly founded.
-821.001|verb|feststellen|to establish|Die Polizei stellte die Ursache fest.|The police established the cause.
-821.002|verb|feststellen|detect|Der Test stellte einen Fehler fest.|The test detected an error.
-822.001|noun|der Stoff|material|Der Stoff für die Kleidung ist sehr weich.|The material for the clothing is very soft.
-822.002|noun|der Stoff|substance|Der Stoff wurde als gefährlich eingestuft.|The substance was classified as dangerous.
-823.001|noun|die Rede|talk|Die Rede war sehr inspirierend.|The talk was very inspiring.
-826.001|adjective|schlimm|serious|Das war ein schlimmer Fehler in der Planung.|That was a serious mistake in the planning.
-829.001|adverb|irgendwann|some day|Irgendwann werde ich mein eigenes Haus bauen.|Some day I will build my own house.
-830.001|noun|das Geschäft|business|Das Geschäft expandiert in neue Regionen.|The business is expanding into new regions.
-832.001|noun|der Anteil|portion|Ein Anteil wurde bereits verkauft.|A portion was already sold.
-833.001|noun|die Angabe|statement|Die Angaben im Formular müssen korrekt sein.|The statements in the form must be correct.
-835.001|preposition|außer|apart from|Außer dem Regen war das Wetter angenehm.|Apart from the rain, the weather was pleasant.
-841.001|noun|die Sicherheit|security|Die Sicherheit war gewährleistet.|The security was ensured.
-843.001|adjective|niedrig|base|Die Kosten waren sehr niedrig.|The costs were very low.
-845.001|noun|der Einsatz|insert|Der Einsatz erleichtert die Arbeit erheblich.|The insert makes the work significantly easier.
-845.002|noun|der Einsatz|application|Der Einsatz der Technologie war erfolgreich.|The application of the technology was successful.
-845.003|noun|der Einsatz|assignment|Der Einsatz wurde pünktlich beendet.|The assignment was completed on time.
-846.001|verb|liefern|supply|Das Unternehmen liefert Produkte weltweit.|The company supplies products worldwide.
-848.001|noun|die Erde|ground|Der Boden war nach dem Regen sehr nass.|The ground was very wet after the rain.
-848.002|noun|die Erde|soil|Die Erde im Garten ist sehr fruchtbar.|The soil in the garden is very fertile.
-857.001|adverb|somit|consequently|Er übte viel, somit gewann er.|He practiced a lot; consequently, he won.
-857.002|adverb|somit|therefore|Er war krank, somit blieb er zu Hause.|He was sick; therefore, he stayed home.
-860.001|adverb|längst|a long time ago|Das Problem wurde längst gelöst.|The problem was solved a long time ago.
-862.001|noun|die Ordnung|tidiness|Die Ordnung im Büro erleichtert die Arbeit.|The tidiness in the office makes work easier.
-864.002|noun|die Wahl|election|Die nächste Wahl findet in zwei Jahren statt.|The next election will take place in two years.
-866.001|verb|erfüllen|to grant|Sein Wunsch nach Ruhe wurde endlich erfüllt.|His wish for peace was finally granted.
-866.002|verb|erfüllen|fulfill|Die Bedingungen wurden erfüllt.|The conditions were fulfilled.
-881.001|adjective|speziell|specific|Das ist eine spezielle Aufgabe.|This is a specific task.
-886.001|noun|die Ebene|level|Die nächste Ebene des Spiels ist schwieriger.|The next level of the game is harder.
-890.001|adjective|absolut|absolute(ly)|Das ist absolut notwendig für den Erfolg.|That is absolutely necessary for success.
-890.002|adjective|absolut|complete(ly)|Er war mit dem Ergebnis absolut zufrieden.|He was completely satisfied with the result.
-894.001|adverb|weiterhin|furthermore|Die Arbeit wird weiterhin verbessert.|The work will be improved furthermore.
-901.001|adverb|zugleich|at the same time|Er arbeitet und hört zugleich Musik.|He works and listens to music at the same time.
-903.001|verb|verdienen|deserve|Du hast den Erfolg wirklich verdient.|You truly deserve the success.
-909.001|noun|die Gefahr|risk|Die Gefahr eines Unfalls war offensichtlich.|The risk of an accident was obvious.
-910.001|verb|binden|bind|Sie bindet das Geschenk mit einem roten Band.|She binds the gift with a red ribbon.
-915.002|adjective|breit|broad|Die Straße war breit genug für zwei Autos.|The road was broad enough for two cars.
-920.001|noun|das Meer|ocean|Das Meer ist heute ruhig und klar.|The ocean is calm and clear today.
-923.002|adverb|durchaus|absolutely|Das war durchaus eine gute Entscheidung.|That was absolutely a good decision.
-925.001|verb|berechnen|charge|Die Bank berechnet eine geringe Gebühr.|The bank charges a small fee.
-927.001|adjective|fremd|strange|Die fremde Umgebung fühlte sich ungewohnt an.|The strange environment felt unfamiliar.
-929.001|noun|der Fehler|mistake|Der Fehler wurde schnell behoben.|The mistake was quickly fixed.
-930.001|adverb|mittlerweile|since then|Er hat sich mittlerweile verbessert.|He has improved since then.
-934.001|adverb|vorher|earlier|Ich hätte dich vorher informieren sollen.|I should have informed you earlier.
-935.001|noun|der Kampf|struggle|Der Kampf um Gerechtigkeit ist nie einfach.|The struggle for justice is never easy.
-943.002|verb|mitteilen|share|Bitte teilen Sie uns Ihre Meinung mit.|Please share your opinion with us.
-944.002|noun|das Verfahren|method|Das neue Verfahren spart Zeit und Ressourcen.|The new method saves time and resources.
-946.001|verb|beziehen|put|Sie beziehen die Möbel direkt aus Italien.|They put the furniture directly from Italy.
-946.002|verb|beziehen|get|Wir beziehen Ware direkt vom Hersteller.|We get goods directly from the manufacturer.
-947.001|verb|verlangen|to request|Die Kunden verlangen bessere Preise.|The customers request better prices.
-947.002|verb|verlangen|demand|Die Arbeiter verlangen höhere Löhne.|The workers demand higher wages.
-957.001|noun|der Himmel|heaven|Der Himmel ist wolkenlos und strahlend blau.|The heaven is cloudless and bright blue.
-965.001|adjective|lieb|dear|Liebe Freunde, danke für eure Hilfe.|Dear friends, thank you for your help.
-967.001|noun|der Verein|association|Der Verein organisiert ein Treffen.|The association organizes a meeting.
-974.001|verb|teilen|to divide|Wir teilen den Kuchen in gleich große Stücke.|We divide the cake into equal pieces.
-974.002|verb|teilen|share|Er teilt seine Erfahrungen gerne mit anderen.|He shares his experiences gladly with others.
-976.001|verb|stammen|descend|Das Haus stammt aus dem 19. Jahrhundert.|The house descends from the 19th century.
-977.001|adjective|wissenschaftlich|scholarly|Der Artikel ist wissenschaftlich.|The article is scholarly.
-980.001|noun|die Bindung|attachment|Die Bindung zwischen ihnen war stark.|The attachment between them was strong.
-983.001|verb|bestätigen|endorse|Die Ergebnisse wurden von Experten bestätigt.|The results were endorsed by experts.
-985.002|noun|der Abschnitt|paragraph|Lesen Sie den ersten Abschnitt.|Read the first paragraph.
-985.003|noun|der Abschnitt|passage|Dieser Abschnitt ist besonders wichtig.|This passage is particularly important.
-986.002|noun|die Nähe|vicinity|Die Schule liegt in der Nähe unseres Hauses.|The school is in the vicinity of our house.
-989.001|adjective|übrig|remaining|Es sind nur wenige Minuten übrig.|Only a few minutes are remaining.
-989.002|adjective|übrig|leftover|Nach dem Fest blieb viel Essen übrig.|A lot of food was leftover after the party.
-992.001|verb|drücken|push|Drücken Sie den roten Knopf, um zu starten.|Push the red button to start.
-992.001|verb|drücken|push|Drücken Sie den Knopf, um die Tür zu öffnen.|Push the button to open the door.
-1000.001|adverb|es ist egal|(it’s all) the same|Es ist egal, welchen Weg wir nehmen.|It’s all the same which way we take.
-1000.002|adverb|es ist egal|indifferent|Er ist es egal, ob er gewinnt oder verliert.|He is indifferent whether he wins or loses.
-1000.003|adverb|es ist egal|doesn't matter|Es ist egal, ob wir heute oder morgen gehen.|It doesn't matter whether we go today or tomorrow.
-1002.001|noun|der Berg|hill|Wir wanderten den ganzen Tag auf dem Berg.|We hiked on the hill all day.
-1008.001|noun|die Sicht|view|Die Sicht vom Balkon aus war spektakulär.|The view from the balcony was spectacular.
-1017.001|verb|anschauen|watch|Ich schaue mir heute Abend den neuen Film an.|I will watch the new movie tonight.
-1020.001|verb|richten|repair|Der Techniker richtet die kaputte Maschine.|The technician repairs the broken machine.
-1020.002|verb|richten|follow|Er richtete seinen Blick nach vorne.|He followed his gaze forward.
-1024.001|noun|das Tor|gate|Das Tor zur Burg ist beeindruckend groß.|The gate to the castle is impressively large.
-1025.001|noun|der Betrieb|business|Der Betrieb stellt hochwertige Produkte her.|The business produces high-quality products.
-1029.001|noun|die Klasse|classroom|Die Klasse war hell und modern eingerichtet.|The classroom was bright and modernly furnished.
-1029.002|noun|die Klasse|grade|In der Klasse sind 20 Schüler.|There are 20 students in the grade.
-1030.001|verb|eingehen|to mention|Der Artikel geht auf wichtige Themen ein.|The article mentions important topics.
-1030.002|verb|eingehen|discuss|Wir müssen die Details genauer eingehen.|We need to discuss the details more closely.
-1030.003|verb|eingehen|react to|Er ging nicht auf die Kritik ein.|He did not react to the criticism.
-1030.004|verb|eingehen|cater|Die Firma geht auf Kundenwünsche ein.|The company caters to customer needs.
-1031.001|verb|erlauben|permit|Die Regeln erlauben keine Ausnahmen.|The rules do not permit exceptions.
-1032.001|verb|treiben|pursue|Er treibt den Plan energisch voran.|He pursues the plan energetically.
-1033.001|adverb|weg|vanished|Das Problem ist jetzt vollständig weg.|The problem has completely vanished now.
-1034.001|verb|aufstehen|to stand up|Bitte stehen Sie für die Nationalhymne auf.|Please stand up for the national anthem.
-1035.002|noun|der Absatz (Abs.)|section|Lesen Sie den nächsten Absatz im Buch.|Read the next section in the book.
-1035.003|noun|der Absatz (Abs.)|sales|Die monatlichen Absätze steigen stetig an.|The monthly sales are steadily increasing.
-1035.004|noun|der Absatz (Abs.)|paragraph|Lies den ersten Absatz im Text genau durch.|Read the first paragraph in the text carefully.
-1038.001|noun|der Ausdruck|term|Dieser Ausdruck ist weit verbreitet.|This term is widely used.
-1040.001|adjective|toll|terrific|Das Konzert gestern Abend war wirklich toll.|The concert last night was truly terrific.
-1044.001|noun|der Chef|head|Der Chef leitete das Team persönlich.|The head personally led the team.
-1044.002|noun|der Chef|leader|Der Chef des Teams führt alle Aufgaben aus.|The leader of the team handles all tasks.
-1045.001|verb|greifen|to take hold of|Er griff nach dem Seil, um sich zu retten.|He took hold of the rope to save himself.
-1048.001|noun|die Tabelle|chart|Die Tabelle zeigt die Ergebnisse der Umfrage.|The chart shows the results of the survey.
-1049.001|verb|ermöglichen|allow|Das Update ermöglicht neue Funktionen.|The update allows new features.
-1051.001|noun|der Hinweis|instruction|Die Hinweise sind deutlich geschrieben.|The instructions are clearly written.
-1058.001|noun|die Ruhe|peace|Die Ruhe am See war einfach erholsam.|The peace by the lake was simply relaxing.
-1059.001|noun|die Darstellung|description|Die Darstellung war gut strukturiert.|The description was well-structured.
-1059.002|noun|die Darstellung|depiction|Die Darstellung im Film war beeindruckend.|The depiction in the movie was impressive.
-1060.001|adjective|ruhig|quiet|Der Park war ruhig und friedlich.|The park was quiet and peaceful.
-1069.002|noun|der Sprecher|speaker|Der Sprecher erklärte die neuen Regeln.|The speaker explained the new rules.
-1071.001|noun|die Kritik|review|Die Kritik des Films war überwiegend positiv.|The review of the movie was mostly positive.
-1076.002|adverb|wiederum|in turn|Er dankte ihr, und sie wiederum lächelte.|He thanked her, and she in turn smiled.
-1078.001|adverb|hinaus|beyond|Der Fluss fließt hinaus ins weite Meer.|The river flows beyond into the vast ocean.
-1085.001|noun|die Diskussion|debate|Die Diskussion über das Thema war intensiv.|The debate about the topic was intense.
-1088.001|noun|die Bevölkerung|people|Die Bevölkerung der Stadt wächst stetig.|The population of the city is steadily growing.
-1091.001|adjective|total|complete|Das Ergebnis war ein totaler Erfolg.|The result was a complete success.
-1095.001|noun|das Band|tape|Das Band hält die Verpackung sicher zusammen.|The tape keeps the package securely closed.
-1096.001|noun|der Band|tome|Der Band enthält viele alte Geschichten.|The tome contains many old stories.
-1098.001|pronoun|darunter|under it|Es gibt einen Keller darunter im Haus.|There is a cellar under it in the house.
-1099.001|pronoun|diejenige|the one (who)|Diejenige, die gewinnt, bekommt einen Preis.|The one who wins gets a prize.
-1099.002|pronoun|diejenige|that|Diejenige, die wir sahen, war sehr alt.|That one that we saw was very old.
-1100.001|noun|der Wald|woods|Der Wald ist dicht und voller Wildtiere.|The woods are dense and full of wildlife.
-1102.001|noun|der Schluss|conclusion|Der Schluss der Diskussion war eindeutig.|The conclusion of the discussion was clear.
-1103.001|adverb|anschließend|subsequent|Anschließend gingen sie alle nach Hause.|Subsequent to that, they all went home.
-1108.001|noun|der Beruf|occupation|Er hat einen Beruf gewählt, der ihn erfüllt.|He chose an occupation that fulfills him.
-1108.002|noun|der Beruf|job|Der Beruf des Lehrers erfordert viel Geduld.|The job of a teacher requires a lot of patience.
-1109.001|noun|der Ansatz|attempt|Sein Ansatz, das Problem zu lösen, war klug.|His attempt to solve the problem was clever.
-1113.001|noun|die Küche|cuisine|Die italienische Küche ist weltweit beliebt.|The Italian cuisine is popular worldwide.
-1119.001|verb|überlegen|think about|Ich muss mir die Idee noch einmal überlegen.|I need to think about the idea again.
-1119.002|verb|überlegen|think of|Hast du schon überlegt, was wir tun könnten?|Have you thought of what we could do?
-1121.002|verb|umfassen|surround|Die Wände umfassen den Innenhof vollständig.|The walls surround the courtyard completely.
-1131.001|verb|heben|raise|Er hob die Hand, um eine Frage zu stellen.|He raised his hand to ask a question.
-1138.002|verb|scheitern|break down|Das Projekt scheiterte an fehlenden Mitteln.|The project broke down due to missing funds.
-1143.002|noun|der Rest|remainder|Der Rest des Kuchens wurde später gegessen.|The remainder of the cake was eaten later.
-1143.003|noun|der Rest|balance|Der Rest der Arbeit wird morgen erledigt.|The balance of the work will be done tomorrow.
-1146.001|adjective|dick|fat|Das Buch ist sehr dick und schwer zu tragen.|The book is very fat and heavy to carry.
-1147.001|adjective|riesig|huge|Das Haus ist riesig und hat viele Zimmer.|The house is huge and has many rooms.
-1147.002|adjective|riesig|great|Die Party war ein riesiger Erfolg.|The party was a great success.
-1147.003|adjective|riesig|tremendous|Der Erfolg des Films war einfach riesig.|The success of the movie was simply tremendous.
-1147.004|adjective|riesig|giant|Das Gebäude in der Stadt ist riesig.|The building in the city is giant.
-1147.005|adjective|riesig|massive|Das Projekt hatte riesigen Einfluss.|The project had massive impact.
-1147.006|adjective|riesig|humongous|Das Tier im Zoo war riesig und faszinierend.|The animal at the zoo was humongous and fascinating.
-1148.001|adjective|heutig|present-day|Die heutige Technologie ist beeindruckend.|Present-day technology is impressive.
-1153.001|preposition|per|by|Die Bestellung wird per E-Mail bestätigt.|The order will be confirmed by email.
-1155.001|adverb|her|from sth|Die Lieferung kommt direkt her aus Italien.|The delivery comes directly from Italy.
-1155.002|adverb|her|as far as ... is concerned|Her gesehen gibt es keinen Grund zur Sorge.|As far as this is concerned, there is no reason to worry.
-1157.002|verb|einstellen|employ|Die Firma stellt neue Leute ein.|The company employs new people.
-1157.003|verb|einstellen|discontinue|Die Produktion wurde eingestellt.|The production was discontinued.
-1161.001|verb|fördern|to promote|Das Programm fördert Kreativität.|The program promotes creativity.
-1161.002|verb|fördern|support|Die Stiftung fördert junge Talente.|The foundation supports young talents.
-1163.001|noun|der Aufbau|structure|Der Aufbau des Systems ist kompliziert.|The structure of the system is complex.
-1166.001|verb|durchführen|to carry out|Das Team führte die Tests erfolgreich durch.|The team successfully carried out the tests.
-1166.002|verb|durchführen|hold|Die Schule führt Workshops durch.|The school holds workshops.
-1166.003|verb|durchführen|conduct|Wir müssen die Tests genau durchführen.|We must conduct the tests carefully.
-1166.004|verb|durchführen|run|Die Firma wird neue Tests durchführen.|The company will run new tests.
-1167.001|verb|einfallen|remind|Das Licht im Zimmer fiel ihr sofort ein.|The light in the room reminded her immediately.
-1167.002|verb|einfallen|remember|Mir fällt der Titel nicht ein.|I can’t remember the title.
-1167.003|verb|einfallen|collapse|Das alte Gebäude droht einzufallen.|The old building is about to collapse.
-1170.001|noun|die Macht|strength|Die Macht der Gruppe war groß.|The strength of the group was great.
-1176.001|verb|schreien|to cry out|Das Baby begann plötzlich laut zu schreien.|The baby suddenly started to cry out loudly.
-1176.002|verb|schreien|scream|Das Kind schrie laut vor Freude.|The child screamed loudly with joy.
-1180.001|noun|die Quelle|spring|Die Quelle im Wald liefert klares Wasser.|The spring in the forest provides clear water.
-1182.001|noun|das Gebiet|region|Das Gebiet ist bekannt für seinen Weinbau.|The region is known for its vineyards.
-1182.002|noun|das Gebiet|territory|Das Gebiet wird von der Regierung geschützt.|The territory is protected by the government.
-1183.001|noun|die Behörde|department|Die Behörde arbeitet an neuen Regeln.|The department works on new regulations.
-1190.001|pronoun|irgendein|any|Hast du irgendein Buch, das ich lesen könnte?|Do you have any book I could read?
-1192.001|pronoun|irgendetwas|anything|Hast du irgendetwas Spannendes gefunden?|Did you find anything exciting?
-1194.002|noun|das Vertrauen|faith|Das Vertrauen ist entscheidend.|Faith is essential.
-1198.001|adjective|unmittelbar|direct|Die Wirkung des Medikaments war unmittelbar.|The effect of the medication was direct.
-1199.001|noun|der Bund|association|Der Bund wurde 1990 gegründet.|The association was founded in 1990.
-1199.002|noun|der Bund|bunch|Ein Bund Karotten liegt auf dem Küchentisch.|A bunch of carrots is on the kitchen table.
-1203.001|verb|ermitteln|to find out|Die Polizei ermittelte die Ursache.|The police found out the cause.
-1203.002|verb|ermitteln|investigate|Die Behörden ermitteln derzeit den Vorfall.|The authorities are currently investigating the incident.
-1205.001|noun|die Krankheit|illness|Die Krankheit verbreitet sich schnell.|The illness spreads quickly.
-1210.001|noun|der Zeitpunkt|(point in) time|Der Zeitpunkt ist entscheidend.|The point in time is crucial.
-1212.001|noun|der Gang|aisle|Der Gang zwischen den Regalen ist sehr eng.|The aisle between the shelves is very narrow.
-1212.002|noun|der Gang|course|Das Abendessen bestand aus drei Gängen.|The dinner consisted of three courses.
-1217.001|verb|fassen|to grab|Er fasste die Tasche und rannte zur Tür.|He grabbed the bag and ran to the door.
-1217.002|verb|fassen|grasp|Sie konnte den Gedanken nicht ganz fassen.|She couldn't fully grasp the idea.
-1217.003|verb|fassen|hold|Er fasste das Glas mit beiden Händen.|He held the glass with both hands.
-1220.002|verb|entfernen|leave|Sie entfernte sich aus der Gruppe.|She left the group.
-1223.001|verb|verfolgen|chase|Der Hund verfolgt die Katze durch den Garten.|The dog chases the cat through the garden.
-1231.001|noun|der Haushalt|budget|Der Haushalt wurde knapp berechnet.|The budget was calculated tightly.
-1234.001|verb|auffallen|notice|Es fiel mir auf, dass er still geblieben war.|I did notice that he remained quiet.
-1235.001|noun|der Gegensatz|opposite|Im Gegensatz zu ihr war er sehr optimistisch.|In opposite to her, he was very optimistic.
-1240.001|adjective|leise|soft|Die leise Musik beruhigte die Gäste im Raum.|The soft music calmed the guests in the room.
-1243.001|adverb|heraus|out|Er rannte schnell aus dem Haus heraus.|He quickly ran out of the house.
-1244.001|conjunction|falls|in case|Falls du Hilfe brauchst, ruf mich einfach an.|Call me in case you need help.
-1247.001|verb|nachdenken|to think about|Ich musste über die Antwort nachdenken.|I had to think about the answer.
-1247.002|verb|nachdenken|reflect|Er reflektierte über seine Entscheidungen.|He reflected on his decisions.
-1248.001|noun|die Ausbildung|development|Die Ausbildung dauert drei Jahre.|The development takes three years.
-1249.001|noun|der Wagen|carriage|Der Wagen war wunderschön dekoriert.|The carriage was beautifully decorated.
-1252.001|noun|die Tat|action|Die Tat des Helden wurde von allen bewundert.|The action of the hero was admired by everyone.
-1255.001|noun|der Stein|rock|Der Stein am Strand war glatt und glänzend.|The rock on the beach was smooth and shiny.
-1256.001|verb|kümmern (sich)|be concerned|Er kümmert sich um die Kinder.|He is concerned about the children.
-1257.001|adjective|mittlere|average|Die mittlere Größe passt am besten.|The average size fits best.
-1260.001|noun|das Konzept|idea|Das Konzept für die Ausstellung ist kreativ.|The idea for the exhibit is creative.
-1260.002|noun|das Konzept|plan|Der Plan wurde schnell umgesetzt.|The plan was implemented quickly.
-1262.001|verb|stören|bother|Bitte störe mich nicht, während ich arbeite.|Please don’t bother me while I’m working.
-1263.001|noun|die Spur|lane|Eine Spur auf der Autobahn wurde gesperrt.|One lane on the highway was closed.
-1267.001|adjective|staatlich|government|Die staatlichen Regeln sind streng.|The government rules are strict.
-1267.002|adjective|staatlich|national|Die nationalen Feiertage werden gefeiert.|The national holidays are celebrated.
-1268.001|verb|verbessern|correct|Ich werde die Fehler im Bericht verbessern.|I will correct the errors in the report.
-1274.001|verb|abgeben|to give|Bitte geben Sie das Dokument ab.|Please give the document.
-1274.002|verb|abgeben|hand in|Bitte geben Sie das Formular bis Freitag ab.|Please hand in the form by Friday.
-1274.003|verb|abgeben|submit|Die Bewerbung kann online abgeben werden.|The application can be submitted online.
-1279.001|noun|der Kern|seed|Der Kern der Frucht ist essbar.|The seed of the fruit is edible.
-1279.002|noun|der Kern|nucleus|Der Kern der Diskussion war die Finanzierung.|The nucleus of the discussion was the funding.
-1288.001|verb|ansprechen|speak|Er sprach das Thema direkt und ehrlich an.|He spoke about the topic directly and honestly.
-1290.001|noun|die Forderung|claim|Die Forderung wurde abgelehnt.|The claim was rejected.
-1292.001|noun|die Nachricht|message|Die Nachricht über den Erfolg war erfreulich.|The message about the success was delightful.
-1293.001|verb|sammeln|gather|Die Kinder sammeln Kastanien im Wald.|The children gather chestnuts in the forest.
-1294.001|verb|ablehnen|to refuse|Er lehnte das Angebot höflich ab.|He politely refused the offer.
-1294.002|verb|ablehnen|reject|Der Vorschlag wurde abgelehnt.|The proposal was rejected.
-1294.003|verb|ablehnen|turn down|Sie hat die Einladung abgelehnt.|She turned down the invitation.
-1295.003|verb|stoßen|push|Bitte stoßen Sie die Tür nicht zu fest auf.|Please do not push the door too hard open.
-1298.002|verb|umgehen|handle|Ich kann das Problem nicht umgehen.|I cannot handle the problem.
-1299.002|verb|angehen|to concern|Das Thema geht alle Bürger an.|The topic concerns all citizens.
-1299.003|verb|angehen|go on|Das Licht geht automatisch an.|The light goes on automatically.
-1300.002|verb|verlaufen|get lost|Wir verliefen uns im großen Wald ohne Karte.|We got lost in the big forest without a map.
-1302.001|verb|auftauchen|to surface|Das Problem tauchte plötzlich auf.|The problem surfaced suddenly.
-1302.002|verb|auftauchen|appear|Plötzlich erschien ein Regenbogen am Himmel.|Suddenly, a rainbow appeared in the sky.
-1304.002|verb|auslösen|provoke|Die Bemerkung löste Ärger aus.|The remark provoked anger.
-1305.001|verb|weitergehen|to go on|Das Gespräch kann jetzt weitergehen.|The discussion can go on now.
-1305.002|verb|weitergehen|continue|Der Film wird nach der Werbung weitergehen.|The movie will continue after the commercial break.
-1310.001|verb|reduzieren|decrease|Wir sollten die Kosten schnell reduzieren.|We should decrease the costs quickly.
-1314.002|verb|eintreten|join|Er tritt dem Sportverein in seiner Stadt bei.|He joins the sports club in his city.
-1314.003|verb|eintreten|occur|Ein Problem trat während der Testphase auf.|A problem occurred during the testing phase.
-1321.001|verb|gründen|to establish|Die Firma wurde 1990 gegründet.|The company was established in 1990.
-1321.002|verb|gründen|found|Sie gründeten ein neues Unternehmen.|They founded a new company.
-1328.002|verb|abnehmen|to lose weight|Er hat erfolgreich fünf Kilogramm abgenommen.|He successfully managed to lose weight.
-1328.003|verb|abnehmen|decrease|Die Zahlen haben zuletzt stark abgenommen.|The numbers have decreased significantly.
-1328.004|verb|abnehmen|reduce|Wir müssen die Ausgaben abnehmen.|We need to reduce the expenses.
-1332.001|noun|die Anwendung|use|Die Anwendung der Technik ist schwierig.|The use of the technique is difficult.
-1339.001|verb|vertreten|advocate|Er vertritt die Interessen der Gruppe.|He advocates for the group's interests.
-1339.002|verb|vertreten|substitute|Sie vertritt den Lehrer im Unterricht.|She substitutes for the teacher in class.
-1340.001|adjective|dicht|thick|Der Nebel war so dicht, dass man nichts sah.|The fog was so thick that you couldn’t see anything.
-1343.001|noun|die Technik|technique|Diese Technik spart Zeit und Energie.|This technique saves time and energy.
-1344.001|noun|das Blatt|sheet|Ein Blatt Papier liegt auf dem Schreibtisch.|A sheet of paper lies on the desk.
-1345.001|verb|prägen|mint|Die Münzen wurden neu geprägt.|The coins were freshly minted.
-1351.001|noun|der Fußball|soccer ball|Der Fußball liegt auf dem Rasen bereit.|The soccer ball is ready on the grass.
-1353.001|verb|einladen|load|Bitte laden Sie die Kisten ins Auto.|Please load the boxes into the car.
-1367.001|noun|das Gericht|dish|Das Gericht war einfach, aber lecker.|The dish was simple but tasty.
-1367.001|noun|das Gericht|dish|Das Gericht schmeckte allen Gästen gut.|The dish tasted good to all the guests.
-1368.001|verb|schätzen|to estimate|Er schätzte die Kosten für das Projekt.|He estimated the costs for the project.
-1368.001|verb|schätzen|to estimate|Wir schätzen die Baukosten auf 500.000 Euro.|We estimate the construction costs at 500,000 euros.
-1368.002|verb|schätzen|value|Wir schätzen seine Hilfe immer sehr.|We value his help very much.
-1368.002|verb|schätzen|value|Er schätzt die Unterstützung seiner Kollegen.|He values the support of his colleagues.
-1371.001|verb|verzichten|to do without|Er verzichtet auf Zucker in seinem Kaffee.|He does without sugar in his coffee.
-1371.001|verb|verzichten|to do without|Ich verzichte auf Zucker in meinem Tee.|I do without sugar in my tea.
-1375.001|noun|das Leid|grief|Das Leid der Familie war unermesslich.|The grief of the family was immeasurable.
-1375.001|noun|das Leid|grief|Das Leid der Familie war unermesslich.|The grief of the family was immeasurable.
-1376.001|adjective|still|quiet|Der Raum war still und angenehm.|The room was quiet and pleasant.
-1376.001|adjective|still|quiet|Der Raum war still, als er sprach.|The room was quiet when he spoke.
-1380.001|noun|die Heimat|home|Er kehrte nach Jahren in seine Heimat zurück.|He returned to his home after years away.
-1380.001|noun|die Heimat|home|Er vermisst seine Heimat sehr.|He misses his home very much.
-1385.002|verb|umsetzen|move|Die Ideen müssen schnell umgesetzt werden.|The ideas must be moved into action quickly.
-1385.002|verb|umsetzen|move|Wir setzen die Möbel ins neue Zimmer um.|We move the furniture to the new room.
-1385.003|verb|umsetzen|put (into practice)|Er setzt seine Pläne entschlossen um.|He puts his plans into practice decisively.
-1385.003|verb|umsetzen|put (into practice)|Er setzt seine Ideen erfolgreich um.|He puts his ideas into practice successfully.
-1386.003|verb|betreiben|operate|Die Firma betreibt mehrere Fabriken weltweit.|The company operates several factories worldwide.
-1386.003|verb|betreiben|operate|Sie betreibt ein kleines Geschäft.|She operates a small shop.
-1386.003|verb|betreiben|operate|Er betreibt eine kleine Werkstatt allein.|He operates a small workshop alone.
-1386.004|verb|betreiben|run|Die Firma betreibt mehrere Büros weltweit.|The company runs several offices worldwide.
-1386.004|verb|betreiben|run|Die Firma betreibt drei Fabriken.|The company runs three factories.
-1396.001|verb|verbieten|prohibit|Das Gesetz verbietet Rauchen im Zug.|The law prohibits smoking on the train.
-1396.001|verb|verbieten|prohibit|Das Gesetz verbietet das Rauchen in Zügen.|The law prohibits smoking on trains.
-1397.001|adjective|krank|ill|Er bleibt heute im Bett, weil er krank ist.|He stays in bed today because he is ill.
-1397.001|adjective|krank|ill|Sie blieb im Bett, da sie krank war.|She stayed in bed because she was ill.
-1398.001|noun|die Fähigkeit|capability|Die Fähigkeit zu lernen ist entscheidend.|The capability to learn is crucial.
-1398.001|noun|die Fähigkeit|capability|Die Fähigkeit zu helfen ist wichtig.|The capability to help is important.
-1402.001|noun|die Änderung|modification|Die Änderung des Plans war notwendig.|The modification of the plan was necessary.
-1402.001|noun|die Änderung|modification|Die Änderung des Plans ist notwendig.|The modification to the plan is necessary.
-1402.002|noun|die Änderung|alteration|Die Änderungen im Vertrag wurden genehmigt.|The alterations in the contract were approved.
-1402.002|noun|die Änderung|alteration|Die Änderungen im Text sind minimal.|The alterations in the text are minimal.
-1403.001|verb|abschließen|conclude|Sie schloss ihre Arbeit erfolgreich ab.|She concluded her work successfully.
-1403.001|verb|abschließen|conclude|Sie schloss die Verhandlungen erfolgreich ab.|She concluded the negotiations successfully.
-1405.002|adjective|selbstverständlich|self-evident|Es ist selbstverständlich, dass wir helfen.|It is self-evident that we help.
-1405.002|adjective|selbstverständlich|self-evident|Es ist selbstverständlich, dass wir helfen.|It is self-evident that we help.
-1405.003|adjective|selbstverständlich|obvious|Es ist selbstverständlich, höflich zu sein.|It is obvious to be polite.
-1405.003|adjective|selbstverständlich|obvious|Es ist selbstverständlich, anderen zu helfen.|It is obvious to help others.
-1406.001|verb|erzeugen|generate|Die Maschine erzeugt Strom für das Haus.|The machine generates power for the house.
-1406.001|verb|erzeugen|generate|Die Anlage erzeugt Strom für die ganze Stadt.|The plant generates electricity for the whole city.
-1410.001|verb|erzielen|reach|Er erzielte ein hervorragendes Ergebnis.|He reached an excellent result.
-1410.001|verb|erzielen|reach|Wir wollen das beste Ergebnis erzielen.|We want to reach the best result.
-1414.001|noun|der Zentimeter (cm)|cm|Die Länge des Tisches beträgt 120 cm.|The length of the table is 120 cm.
-1414.001|noun|der Zentimeter (cm)|cm|Der Tisch ist genau 120 cm lang.|The table is exactly 120 cm long.
-1415.001|verb|eröffnen|start|Sie eröffnete die Diskussion mit einer Frage.|She started the discussion with a question.
-1415.001|verb|eröffnen|start|Die Bank eröffnete eine neue Filiale.|The bank started a new branch.
-1416.001|noun|die Ahnung|suspicion|Ich hatte keine Ahnung, was er plante.|I had no suspicion of what he planned.
-1416.001|noun|die Ahnung|suspicion|Ich hatte keine Ahnung von seinen Plänen.|I had no suspicion of his plans.
-1422.002|verb|begreifen|grasp|Er braucht Zeit, um alles zu begreifen.|He needs time to grasp everything.
-1422.002|verb|begreifen|grasp|Er konnte die Situation schnell begreifen.|He could quickly grasp the situation.
-1427.001|noun|die Abgeordnete|congress|Die Abgeordneten stimmten über das Gesetz ab.|The congress voted on the law.
-1427.001|noun|die Abgeordnete|congress|Die Abgeordnete debattierten lange.|The congress debated for a long time.
-1428.002|verb|verstärken|reinforce|Wir müssen die Maßnahmen sofort verstärken.|We must reinforce the measures immediately.
-1428.002|verb|verstärken|reinforce|Die Brücke wurde mit Stahl verstärkt.|The bridge was reinforced with steel.
-1429.002|verb|ausschließen|rule out|Ein Fehler wurde in den Tests ausgeschlossen.|An error was ruled out during the tests.
-1429.002|verb|ausschließen|rule out|Technische Fehler wurden ausgeschlossen.|Technical errors were ruled out.
-1434.001|verb|retten|to save|Er rettete den Hund aus dem brennenden Haus.|He saved the dog from the burning house.
-1434.001|verb|retten|to save|Er rettete die Katze aus dem Baum.|He saved the cat from the tree.
-1434.002|verb|retten|rescue|Die Feuerwehrleute retteten mehrere Menschen.|The firefighters rescued several people.
-1434.002|verb|retten|rescue|Die Feuerwehrleute retteten mehrere Menschen.|The firefighters rescued several people.
-1437.001|noun|die Gewalt|force|Die Gewalt der Natur ist beeindruckend.|The force of nature is impressive.
-1437.001|noun|die Gewalt|force|Die Gewalt des Sturms war überwältigend.|The force of the storm was overwhelming.
-1444.001|noun|das Publikum|public|Das Publikum applaudierte laut.|The public applauded loudly.
-1444.001|noun|das Publikum|public|Das Publikum applaudierte laut nach der Rede.|The public applauded loudly after the speech.
-1456.002|verb|ersetzen|reimburse|Die Firma wird die Schäden ersetzen.|The company will reimburse the damages.
-1456.002|verb|ersetzen|reimburse|Die Firma wird die Kosten ersetzen.|The company will reimburse the costs.
-1464.001|adjective|herzlich|cordial|Wir bedanken uns herzlich für die Einladung.|We offer our cordial thanks for the invitation.
-1464.001|adjective|herzlich|cordial|Sie erhielt eine herzliche Einladung.|She received a cordial invitation.
-1465.002|verb|sichern|safeguard|Die Daten wurden sicher gesichert.|The data were safely safeguarded.
-1465.002|verb|sichern|safeguard|Die Polizei sichert den Tatort.|The police safeguard the crime scene.
-1469.001|noun|das Amt|department|Das Amt bearbeitet die Anträge zügig.|The department processes the applications promptly.
-1469.001|noun|das Amt|department|Das Amt bearbeitet die Anträge schnell.|The department processes the applications quickly.
-1469.002|noun|das Amt|function|Seine Funktion im Amt ist sehr bedeutend.|His function in the department is very important.
-1469.002|noun|das Amt|function|Er übernahm ein wichtiges Amt im Unternehmen.|He took on an important function in the company.
-1471.001|verb|vermitteln|mediate|Er vermittelte im Streit erfolgreich.|He mediated successfully in the dispute.
-1471.001|verb|vermitteln|mediate|Sie vermittelte zwischen den Parteien.|She mediated between the parties.
-1471.002|verb|vermitteln|find|Sie vermittelt Jobs für arbeitslose Menschen.|She finds jobs for unemployed people.
-1471.002|verb|vermitteln|find|Sie vermittelt Wohnungen für Studenten.|She finds apartments for students.
-1471.003|verb|vermitteln|procure|Das Büro vermittelt Wohnungen für Studenten.|The office procures apartments for students.
-1471.003|verb|vermitteln|procure|Das Büro vermittelt Wohnungen für Studenten.|The office procures apartments for students.
-1474.001|noun|das Studium|study|Das Studium in Medizin dauert mehrere Jahre.|The study of medicine takes several years.
-1474.001|noun|das Studium|study|Das Studium der Medizin dauert viele Jahre.|The study of medicine takes many years.
-1475.001|verb|festhalten|detain|Die Polizei hielt den Verdächtigen fest.|The police detained the suspect.
-1475.001|verb|festhalten|detain|Die Polizei hielt den Verdächtigen fest.|The police detained the suspect.
-1476.003|verb|präsentieren|show|Die Schüler präsentieren ihre Projekte.|The students show their projects.
-1476.003|verb|präsentieren|show|Die Schüler präsentieren ihre Ideen.|The students show their ideas.
-1479.002|noun|die Aufnahme|snapshot|Die Aufnahme zeigt die Schönheit der Berge.|The snapshot shows the beauty of the mountains.
-1479.002|noun|die Aufnahme|snapshot|Die Aufnahme zeigt eine schöne Landschaft.|The snapshot shows a beautiful landscape.
-1484.001|verb|prüfen|check|Bitte prüfen Sie die Angaben im Formular.|Please check the information on the form.
-1484.001|verb|prüfen|check|Er musste die Liste gründlich prüfen.|He had to check the list thoroughly.
-1485.001|verb|anlegen|to put on|Er legte den Helm vor der Fahrt an.|He put on the helmet before the ride.
-1485.001|verb|anlegen|to put on|Er legte die Sicherheitsausrüstung an.|He put on the safety equipment.
-1485.002|verb|anlegen|invest|Er will sein Geld in Aktien anlegen.|He wants to invest his money in stocks.
-1485.002|verb|anlegen|invest|Sie wollen ihr Geld in Immobilien anlegen.|They want to invest their money in real estate.
-1487.001|adjective|hell|light|Das Zimmer ist sehr hell und freundlich.|The room is very light and friendly.
-1487.001|adjective|hell|light|Das Zimmer war hell und freundlich gestaltet.|The room was designed to be light and welcoming.
-1491.001|noun|die Bahn|railway|Die Bahn führt direkt in die Innenstadt.|The railway leads directly to the city center.
-1491.001|noun|die Bahn|railway|Die Bahn fährt jede Stunde nach Berlin.|The railway goes to Berlin every hour.
-1491.002|noun|die Bahn|way|Er fand eine Bahn durch den dichten Wald.|He found a way through the dense forest.
-1491.002|noun|die Bahn|way|Der Weg zur Schule führt durch den Park.|The way to school leads through the park.
-1619.001|verb|vorsehen|to look around|Er sah sich im neuen Büro vorsichtig vor.|He looked around the new office cautiously.
-1619.002|verb|vorsehen|plan|Das Gesetz sieht neue Regeln vor.|The law plans new rules.
-1619.003|verb|vorsehen|provide for|Die Regel sieht Sonderfälle ausdrücklich vor.|The rule explicitly provides for exceptions.
-1621.001|verb|wahrnehmen|detect|Sie konnte die Gefahr rechtzeitig wahrnehmen.|She could detect the danger in time.
-1622.001|verb|hinweisen|refer to|Der Bericht weist auf mögliche Fehler hin.|The report refers to possible errors.
-1625.001|verb|kontrollieren|to check|Bitte kontrollieren Sie die Liste auf Fehler.|Please check the list for errors.
-1628.001|noun|der Kurs|exchange rate|Der aktuelle Kurs des Euros ist sehr stabil.|The current exchange rate of the euro is very stable.
-1629.001|adverb|einst|at one time|Einst war das Schloss bewohnt.|At one time, the castle was inhabited.
-1629.002|adverb|einst|one day|Einst werde ich meine Träume verwirklichen.|One day, I will realize my dreams.
-1635.001|verb|weinen|weep|Das Kind begann leise zu weinen, als es fiel.|The child began to weep quietly when it fell.
-1636.001|verb|genießen|relish|Sie genießt die Ruhe nach einem langen Tag.|She relishes the calm after a long day.
-1637.001|noun|der Dienst|duty|Er hatte heute Nacht Dienst im Krankenhaus.|He was on duty at the hospital last night.
-1638.001|noun|das Lager|storeroom|Das Lager ist voll mit neuen Waren.|The storeroom is full of new goods.
-1640.001|preposition|anhand|with the aid of|Die Aufgabe wurde anhand der Daten gelöst.|The task was solved with the aid of data.
-1645.001|adjective|freundlich|kind|Er ist immer freundlich zu seinen Kollegen.|He is always kind to his colleagues.
-1645.002|adjective|freundlich|nice|Das Wetter war freundlich und angenehm warm.|The weather was nice and pleasantly warm.
-1647.001|adjective|reich|abundant|Die Gegend ist reich an Kultur.|The area is abundant in culture.
-1648.001|noun|die Fahrt|trip|Die Fahrt zum Strand dauerte nur eine Stunde.|The trip to the beach took just an hour.
-1652.001|adjective|fern|far|Das Ziel war fern, aber erreichbar.|The goal was far but reachable.
-1653.001|noun|die Gegend|area|Die Gegend ist voller schöner Felder.|The area is full of beautiful fields.
-1658.001|noun|die AfD (Alternative für Deutschland)|Alternative für Deutschland|Die AfD ist eine politische Partei.|The Alternative für Deutschland is a political party.
-1660.001|verb|tauchen|to dive|Er taucht gerne in der Karibik.|He loves to dive in the Caribbean.
-1660.002|verb|tauchen|dip|Er tauchte die Hände in kaltes Wasser.|He dipped his hands in cold water.
-1665.001|verb|anhaben|damage|Das Projekt könnte der Umwelt anhaben.|The project could damage the environment.
-1666.001|noun|die Bestimmung|purpose|Die Bestimmung der Regeln ist klar.|The purpose of the rules is clear.
-1666.002|noun|die Bestimmung|fate|Die Bestimmung führte ihn an diesen Ort.|Fate brought him to this place.
-1669.001|verb|beachten|observe|Bitte beachten Sie die Sicherheitsregeln.|Please observe the safety rules.
-1671.001|noun|der Hals|neck|Der Schal hält den Hals im Winter warm.|The scarf keeps the neck warm in winter.
-1672.001|verb|durchsetzen|to carry through|Er konnte seine Idee erfolgreich durchsetzen.|He was able to successfully carry through his idea.
-1672.002|verb|durchsetzen|enforce|Die Polizei setzte das Gesetz durch.|The police enforced the law.
-1672.003|verb|durchsetzen|implement|Die neuen Regeln wurden schnell durchgesetzt.|The new rules were implemented quickly.
-1675.001|noun|die Scheiße|crap|Diese alte Maschine ist völlige Scheiße.|This old machine is complete crap.
-1679.001|noun|der Bau|building|Der Bau des neuen Hauses ist fast fertig.|The building of the new house is almost done.
-1689.001|noun|die Fläche|surface|Die Fläche des Tisches ist glatt und groß.|The surface of the table is smooth and large.
-1690.001|verb|streichen|cancel|Der Flug wurde wegen des Wetters gestrichen.|The flight was canceled due to the weather.
-1692.001|verb|senken|to sink|Die Sonne sank langsam hinter den Horizont.|The sun began to sink behind the horizon.
-1692.002|verb|senken|lower|Bitte senken Sie die Lautstärke des Radios.|Please lower the volume of the radio.
-1692.003|verb|senken|decrease|Die Firma plant, die Preise bald zu senken.|The company plans to decrease the prices soon.
-1694.001|verb|gestalten|to shape|Der Künstler gestaltet die Skulptur aus Ton.|The artist shapes the sculpture out of clay.
-1694.002|verb|gestalten|design|Das Haus wurde modern und schlicht gestaltet.|The house was designed in a modern and simple way.
-1696.001|noun|der Umgang|contact|Der Umgang mit Kunden ist wichtig.|Contact with customers is important.
-1698.001|noun|der Lehrstuhl|chair|Der Lehrstuhl wird neu besetzt.|The chair is being reassigned.
-1700.001|noun|der Vorschlag|proposal|Der Vorschlag war sehr interessant.|The proposal was very interesting.
-1701.001|verb|anhalten|last|Das Gespräch hielt nur ein paar Minuten an.|The discussion lasted just a few minutes.
-1702.001|adjective|entfernt|away|Das Dorf liegt weit entfernt von der Stadt.|The village is far away from the city.
-1706.001|verb|stürzen|stumble|Er stürzte auf dem Weg zur Tür.|He stumbled on the way to the door.
-1712.001|verb|ausfallen|to drop out|Der Strom fällt plötzlich aus.|The power drops out suddenly.
-1714.001|verb|drängen|insist|Sie drängte auf eine schnelle Entscheidung.|She insisted on a quick decision.
-1716.001|noun|die Spannung|tension|Die Spannung war deutlich spürbar.|The tension was clearly noticeable.
-1719.001|noun|das Bad|bath|Nach dem Sport nahm er ein Bad.|After exercising, he took a bath.
-1719.002|noun|das Bad|spa|Das Bad bietet viele Spa-Optionen.|The spa offers many options.
-1721.001|verb|packen|grab|Er packte schnell seine Sachen.|He quickly grabbed his things.
-1723.001|adjective|vorsichtig|careful|Sei vorsichtig mit der zerbrechlichen Vase.|Be careful with the fragile vase.
-1724.001|verb|anwenden|employ|Die Methode wurde erfolgreich angewendet.|The method was successfully employed.
-1727.001|noun|die Spitze|point|Die Spitze des Messers war extrem scharf.|The point of the knife was extremely sharp.
-1727.002|noun|die Spitze|top|Die Spitze des Berges war mit Schnee bedeckt.|The top of the mountain was covered in snow.
-1728.001|noun|das Gerät|tool|Das Gerät wird für die Arbeit genutzt.|The tool is used for work.
-1728.002|noun|das Gerät|piece of equipment|Das Gerät ist neu und effizient.|The piece of equipment is new and efficient.
-1737.001|noun|das Reich|kingdom|Das Reich war groß und mächtig.|The kingdom was large and powerful.
-1739.001|verb|bestellen|reserve|Ich bestellte einen Tisch im Restaurant.|I reserved a table at the restaurant.
-1744.001|noun|der Ton|sound|Der Ton der Glocke war klar und melodisch.|The sound of the bell was clear and melodic.
-1744.002|noun|der Ton|clay|Der Ton ist perfekt für Töpferarbeiten.|The clay is perfect for pottery.
-1750.001|noun|die Tätigkeit|work|Die Tätigkeit macht ihm viel Spaß.|The work is very enjoyable for him.
-1751.001|noun|die Landschaft|countryside|Die Landschaft ist wunderschön und grün.|The countryside is beautiful and green.
-1752.001|verb|verweisen|expel|Er wurde aus der Klasse verwiesen.|He was expelled from the class.
-1753.001|noun|der Arbeitsplatz|job|Der Arbeitsplatz ist in der Nähe.|The job is nearby.
-1754.001|verb|erfassen|to determine|Die Daten wurden präzise erfasst.|The data was precisely determined.
-1754.002|verb|erfassen|grasp|Er erfasste die Situation sofort.|He grasped the situation immediately.
-1754.003|verb|erfassen|acquire|Neue Kunden wurden schnell erfasst.|New customers were quickly acquired.
-1763.001|noun|die Schicht|class|Die Schicht beginnt um sechs Uhr.|The class begins at six o'clock.
-1768.001|verb|belegen|to occupy|Die Wohnung wird ab Juli belegt.|The apartment will be occupied in July.
-1768.002|verb|belegen|prove|Die Ergebnisse belegen die Theorie.|The results prove the theory.
-1768.003|verb|belegen|verify|Die Angaben wurden sorgfältig belegt.|The information was carefully verified.
-1768.004|verb|belegen|take|Ich möchte einen Kurs in Geschichte belegen.|I want to take a course in history.
-1771.001|verb|verpflichten|oblige|Die Regel verpflichtet zur Teilnahme.|The rule obliges participation.
-1771.002|verb|verpflichten|commit|Er verpflichtete sich zu dem Projekt.|He committed to the project.
-1773.001|noun|die Führung|management|Die Führung des Teams war ausgezeichnet.|The management of the team was excellent.
-1773.002|noun|die Führung|command|Die Führung des Teams war klar.|The command of the team was clear.
-1782.001|noun|der Ministerpräsident|governor|Der Ministerpräsident sprach über die Krise.|The governor spoke about the crisis.
-1785.001|noun|die Branche|line of business|Die Branche wächst schnell durch Innovation.|The line of business grows quickly through innovation.
-1788.001|adverb|beinahe|nearly|Ich hätte beinahe den Zug verpasst.|I nearly missed the train.
+186.001|pronoun|dazu|furthermore
+187.001|adjective|eigentlich|real
+215.001|preposition|während|while
+217.001|pronoun|dafür|for that
+231.002|adjective|schön|good
+234.002|pronoun|denen (pl, Dativ)|who
+240.001|adverb|eben|now
+265.001|noun|der Weg|way
+270.001|adverb|allerdings|indeed
+270.002|adverb|allerdings|certainly
+275.001|adverb|deshalb|therefore
+276.001|adverb|weit|widely
+287.001|noun|das Paar|pair
+289.001|adjective|recht|(all) right
+289.002|adjective|recht|be fine (with)
+290.001|noun|das Recht|law
+305.001|noun|die Aufgabe|assignment
+305.002|noun|die Aufgabe|job
+306.001|adjective|schwer|difficult
+329.001|adverb|überhaupt|generally
+342.001|conjunction|beziehungsweise (bzw.)|respectively
+363.001|adjective|leicht|easy
+364.001|adverb|je|ever
+375.001|adverb|eher|sooner
+375.002|adverb|eher|earlier
+375.003|adverb|eher|more likely
+378.001|adverb|nachts|nights
+394.001|adjective|tatsächlich|real
+395.001|noun|der Ort|town
+395.002|noun|der Ort|location
+404.001|pronoun|mehrere|multiple
+408.001|adjective|direkt|straight
+409.001|pronoun|daher|from there
+409.002|pronoun|daher|therefore
+434.001|noun|die Möglichkeit|chance
+447.001|noun|die Angst|anxiety
+466.001|adverb|früher|in former times
+481.001|particle|nämlich|namely
+487.001|noun|die Folge|result
+490.001|noun|die Verbindung|link
+503.001|noun|die Grenze|frontier
+522.001|pronoun|dadurch|through it
+522.002|pronoun|dadurch|as a consequence
+524.001|noun|die Weise|manner
+534.001|particle|halt|simply
+550.001|adjective|wahrscheinlich|likely
+551.001|adverb|wahrscheinlich|likely
+578.001|noun|die Menge|quantity
+579.001|noun|die Regierung|rule
+580.001|noun|die Antwort|reply
+583.001|noun|der Zusammenhang|connection
+600.002|adverb|zudem|besides
+613.001|noun|die Lage|location
+625.004|adjective|fest|solid
+625.005|adjective|fest|strong
+627.001|noun|der Begriff|concept
+638.001|adjective|schwierig|hard
+664.002|adverb|ziemlich|pretty
+667.002|adverb|wobei|whereby
+698.001|adverb|gleichzeitig|at the same time
+699.001|adjective|knapp|slim
+710.001|noun|die Beziehung|relation
+715.002|noun|das Auftreten|conduct
+715.003|noun|das Auftreten|occurrence
+723.001|adjective|wesentlich|fundamental
+726.002|adverb|zuletzt|most recently
+727.001|adjective|rein|clear
+729.001|conjunction|indem|while
+735.001|adverb|beispielsweise|such as
+736.001|noun|die Bedingung|stipulation
+748.001|adjective|echt|real
+750.001|noun|die Wirtschaft|commerce
+755.002|noun|die Folie|foil
+772.001|noun|die Bewegung|motion
+776.001|preposition|aufgrund|on the basis of
+782.001|noun|das Angebot|supply
+801.002|noun|die Reihe|line
+805.002|adverb|bloß|simply
+809.001|adjective|wirtschaftlich|financial
+813.001|adverb|deswegen|therefore
+817.003|noun|der Rahmen|framework
+832.001|noun|der Anteil|portion
+833.001|noun|die Angabe|statement
+843.001|adjective|niedrig|base
+845.001|noun|der Einsatz|insert
+845.003|noun|der Einsatz|assignment
+848.001|noun|die Erde|ground
+857.001|adverb|somit|consequently
+857.002|adverb|somit|therefore
+881.001|adjective|speziell|specific
+890.001|adjective|absolut|absolute(ly)
+890.002|adjective|absolut|complete(ly)
+920.001|noun|das Meer|ocean
+923.002|adverb|durchaus|absolutely
+927.001|adjective|fremd|strange
+929.001|noun|der Fehler|mistake
+930.001|adverb|mittlerweile|since then
+977.001|adjective|wissenschaftlich|scholarly
+980.001|noun|die Bindung|attachment
+985.003|noun|der Abschnitt|passage
+989.001|adjective|übrig|remaining
+1000.002|adverb|es ist egal|indifferent
+1024.001|noun|das Tor|gate
+1025.001|noun|der Betrieb|business
+1029.002|noun|die Klasse|grade
+1038.001|noun|der Ausdruck|term
+1044.001|noun|der Chef|head
+1044.002|noun|der Chef|leader
+1058.001|noun|die Ruhe|peace
+1059.001|noun|die Darstellung|description
+1059.002|noun|die Darstellung|depiction
+1060.001|adjective|ruhig|quiet
+1078.001|adverb|hinaus|beyond
+1091.001|adjective|total|complete
+1095.001|noun|das Band|tape
+1096.001|noun|der Band|tome
+1099.002|pronoun|diejenige|that
+1102.001|noun|der Schluss|conclusion
+1103.001|adverb|anschließend|subsequent
+1109.001|noun|der Ansatz|attempt
+1143.003|noun|der Rest|balance
+1147.002|adjective|riesig|great
+1147.003|adjective|riesig|tremendous
+1147.004|adjective|riesig|giant
+1147.005|adjective|riesig|massive
+1147.006|adjective|riesig|humongous
+1148.001|adjective|heutig|present-day
+1155.001|adverb|her|from (something)
+1163.001|noun|der Aufbau|structure
+1170.001|noun|die Macht|strength
+1194.002|noun|das Vertrauen|faith
+1198.001|adjective|unmittelbar|direct
+1199.001|noun|der Bund|association
+1210.001|noun|der Zeitpunkt|(point in) time
+1231.001|noun|der Haushalt|budget
+1243.001|adverb|heraus|out
+1248.001|noun|die Ausbildung|development
+1249.001|noun|der Wagen|carriage
+1260.002|noun|das Konzept|plan
+1267.002|adjective|staatlich|national
+1279.003|noun|der Kern|main focus
+1292.001|noun|die Nachricht|message
+1332.001|noun|die Anwendung|use
+1343.001|noun|die Technik|technique
+1351.001|noun|der Fußball|soccer ball
+1375.001|noun|das Leid|grief
+1405.003|adjective|selbstverständlich|obvious
+1405.003|adjective|selbstverständlich|obvious
+1437.001|noun|die Gewalt|force
+1479.002|noun|die Aufnahme|snapshot
+1491.002|noun|die Bahn|way
+1628.001|noun|der Kurs|exchange rate
+1640.001|preposition|anhand|with the aid of
+1647.001|adjective|reich|abundant
+1666.001|noun|die Bestimmung|purpose
+1666.002|noun|die Bestimmung|fate
+1689.001|noun|die Fläche|surface
+1696.001|noun|der Umgang|contact
+1698.001|noun|der Lehrstuhl|chair
+1700.001|noun|der Vorschlag|proposal
+1716.001|noun|die Spannung|tension
+1719.002|noun|das Bad|spa
+1727.001|noun|die Spitze|point
+1728.001|noun|das Gerät|tool
+1728.002|noun|das Gerät|piece of equipment
+1737.001|noun|das Reich|kingdom
+1744.001|noun|der Ton|sound
+1744.002|noun|der Ton|clay
+1750.001|noun|die Tätigkeit|work
+1751.001|noun|die Landschaft|countryside
+1753.001|noun|der Arbeitsplatz|job
+1763.001|noun|die Schicht|class
+1773.001|noun|die Führung|management
+1773.002|noun|die Führung|command
+1785.001|noun|die Branche|line of business
+
+
 1791.001|noun|der Alltag|workday|Der Alltag beginnt mit viel Kaffee.|The workday starts with lots of coffee.
 1791.002|noun|der Alltag|everyday life|Der Alltag in der Stadt ist laut.|Everyday life in the city is loud.
 1792.001|noun|der Umsatz|sales|Der Umsatz stieg im letzten Quartal.|The sales increased last quarter.
 1793.001|noun|der Verband|association|Der Verband organisierte das Event.|The association organized the event.
-1794.001|verb|betreten|walk into/onto|Er betrat das Büro und begann zu arbeiten.|He walked into the office and started working.
 1795.001|noun|die Regelung|settlement|Die Regelung wurde schnell umgesetzt.|The settlement was quickly implemented.
 1799.001|noun|die Gestalt|shape|Die Gestalt des Baumes war beeindruckend.|The shape of the tree was impressive.
 1799.002|noun|die Gestalt|form|Die Gestalt der Wolken erinnerte an Tiere.|The form of the clouds resembled animals.
-1800.001|verb|zukommen|be in store|Ich weiß nicht, was mir zukommt.|I don’t know what is in store for me.
-1801.001|verb|ablaufen|to run out|Der Vertrag läuft am Ende des Monats ab.|The contract will run out at the end of the month.
 1806.001|noun|der Vorwurf|reproach|Der Vorwurf war völlig ungerecht.|The reproach was completely unfair.
 1807.001|adjective|erforderlich|necessary|Die Anmeldung ist erforderlich.|The registration is necessary.
 1808.001|noun|die Haltung|attitude|Seine Haltung war sehr positiv.|His attitude was very positive.
 1810.001|noun|die Stimmung|atmosphere|Die Stimmung war entspannt und freundlich.|The atmosphere was relaxed and friendly.
 1811.001|adjective|zufällig|by chance|Ich traf ihn zufällig im Supermarkt.|I met him by chance in the supermarket.
 1813.001|noun|das Fach|compartment|Das Fach war leer und ungenutzt.|The compartment was empty and unused.
-1814.001|verb|begrenzen|restrict|Die Plätze sind stark begrenzt.|The spaces are strongly restricted.
 1819.001|noun|die Auflage|condition|Die Auflage ist für alle verbindlich.|The condition is binding for everyone.
 1819.002|noun|die Auflage|plating|Die Auflage des Tischs ist aus Holz.|The plating of the table is made of wood.
-1822.002|verb|achten|pay attention|Achte auf die Verkehrszeichen!|Pay attention to the traffic signs!
 1827.001|adverb|ab|away|Das Schiff fährt ab morgen ab.|The ship sails away tomorrow.
 1829.001|noun|der Vorgang|process|Der Vorgang dauert nur wenige Minuten.|The process takes only a few minutes.
 1837.001|adjective|gegenseitig|each other|Wir haben gegenseitig geholfen.|We helped each other.
@@ -767,19 +203,14 @@
 1856.001|noun|die Erzählung|narration|Die Erzählung war spannend und fesselnd.|The narration was exciting and captivating.
 1859.001|noun|die DNA|deoxyribonucleic acid|Die DNA liefert wichtige Beweise.|The DNA provides important evidence.
 1865.001|noun|die Brust|breast|Die Brust war verletzt und schmerzte.|The breast was injured and hurt.
-1867.001|verb|verabschieden|pass|Das Gesetz wurde gestern verabschiedet.|The law was passed yesterday.
 1872.001|noun|das Fleisch|flesh|Das Fleisch war frisch und lecker.|The flesh was fresh and tasty.
 1876.001|noun|das Volumen|total amount|Das Volumen des Pakets ist groß.|The total amount of the package is large.
 1883.001|noun|die Perspektive|prospects|Die Perspektive für das Projekt ist gut.|The prospects for the project are good.
-1885.001|verb|wandern|to (go on a) walk or hike|Wir wandern oft durch die Wälder.|We often hike through the woods.
-1885.002|verb|wandern|migrate|Die Tiere wandern in wärmere Regionen.|The animals migrate to warmer regions.
 1886.001|noun|die Tasche|pocket|Die Tasche ist voll mit Büchern.|The pocket is full of books.
 1888.001|noun|die Beamte|civil servant|Der Beamte arbeitet im Rathaus.|The civil servant works at the town hall.
 1890.001|adjective|schmal|slender|Der Pfad war schmal und steinig.|The path was slender and rocky.
 1891.001|noun|der Streit|fight|Der Streit dauerte nicht lange.|The fight didn’t last long.
 1892.001|adjective|spannend|exciting|Das Buch war spannend und interessant.|The book was exciting and interesting.
-1896.001|verb|regeln|regulate|Die Gesetze regeln die Arbeitszeiten.|The laws regulate the working hours.
-1896.002|verb|regeln|direct|Der Lehrer regelt den Ablauf im Unterricht.|The teacher directs the flow in class.
 1897.001|adverb|insofern|as far as that goes|Insofern ist die Entscheidung klar.|As far as that goes, the decision is clear.
 1897.002|adverb|insofern|therefore|Es ist spät, insofern gehen wir nach Hause.|It is late; therefore, we go home.
 1905.001|noun|der Unterricht|instruction|Der Unterricht beginnt um acht Uhr.|The instruction begins at eight o’clock.
@@ -787,65 +218,36 @@
 1909.001|noun|die Prüfung|examination|Die Prüfung war sehr schwierig.|The examination was very difficult.
 1909.002|noun|die Prüfung|test|Der Test dauerte nur eine Stunde.|The test took only one hour.
 1911.001|adjective|seltsam|peculiar|Das Verhalten war seltsam und unerwartet.|The behavior was peculiar and unexpected.
-1913.001|verb|engagieren|employ|Die Firma engagiert neue Mitarbeiter.|The company employs new staff.
-1913.002|verb|engagieren|commit|Er engagierte sich für soziale Projekte.|He committed to social projects.
-1913.003|verb|engagieren|engage|Er engagiert sich für Umweltschutz.|He engages in environmental protection.
 1917.001|adverb|ausgerechnet|of all people|Ausgerechnet er hat das Problem gelöst.|Of all people, he solved the problem.
 1919.001|noun|die Störung|interruption|Die Störung dauerte nur wenige Minuten.|The interruption lasted only a few minutes.
 1920.001|noun|die Aktion|action|Die Aktion war mutig und erfolgreich.|The action was brave and successful.
 1923.001|noun|die Auseinandersetzung|quarrel|Die Auseinandersetzung endete schnell.|The quarrel ended quickly.
-1924.001|verb|pflegen|cultivate|Er pflegt seinen Garten jeden Tag.|He cultivates his garden every day.
 1925.001|noun|die Ausgabe|distribution|Die Ausgabe der Bücher war gut organisiert.|The distribution of the books was well-organized.
 1925.002|noun|die Ausgabe|edition|Die neue Ausgabe des Magazins ist da.|The new edition of the magazine is here.
 1925.003|noun|die Ausgabe|expense|Die Ausgaben waren höher als geplant.|The expenses were higher than planned.
-1927.001|verb|ableiten|deduce|Die Antwort wurde aus den Fakten abgeleitet.|The answer was deduced from the facts.
-1929.001|verb|leuchten|glow|Der Mond leuchtet hell am Himmel.|The moon glows brightly in the sky.
 1930.001|noun|die Anlage|complex|Die Anlage umfasst mehrere Gebäude.|The complex includes several buildings.
 1930.002|noun|die Anlage|investment|Seine Anlage brachte hohe Gewinne.|His investment yielded high profits.
 1930.003|noun|die Anlage|attachment|Die Anlage zur E-Mail ist wichtig.|The attachment to the email is important.
-1931.001|verb|erweitern|to widen|Wir erweitern die Straße nächste Woche.|We plan to widen the road next week.
-1931.002|verb|erweitern|expand|Die Firma will das Geschäft erweitern.|The company wants to expand the business.
-1934.001|verb|zutreffen|apply to|Das Gesetz trifft auf alle zu.|The law applies to everyone.
 1938.001|noun|die Rechnung|calculation|Die Rechnung war schwer nachzuvollziehen.|The calculation was hard to follow.
 1938.002|noun|die Rechnung|invoice|Bitte begleichen Sie die Rechnung.|Please settle the invoice.
 1939.001|noun|der Übergang|crossing|Der Übergang war schwer zu finden.|The crossing was hard to find.
 1948.001|noun|der Beweis|proof|Der Beweis war klar und eindeutig.|The proof was clear and convincing.
-1954.001|verb|aussprechen|to pronounce|Er konnte das Wort richtig aussprechen.|He could pronounce the word correctly.
-1954.002|verb|aussprechen|express|Sie sprach ihre Meinung offen aus.|She expressed her opinion openly.
 1956.001|noun|das Eis|ice cream|Ich hätte gern ein Vanille-Eis.|I would like vanilla ice cream.
 1958.001|adjective|westlich|west|Die Stadt liegt westlich von Berlin.|The city is west of Berlin.
 1959.001|adjective|geistig|mental|Die geistige Gesundheit ist wichtig.|Mental health is important.
 1962.001|adjective|optimal|best possible|Das war die optimale Lösung für uns.|That was the best possible solution for us.
-1966.001|verb|auswählen|to choose|Er wählte das schönste Bild aus.|He chose the most beautiful picture.
-1966.002|verb|auswählen|select|Sie hat die besten Produkte ausgewählt.|She selected the best products.
-1967.001|verb|befragen|to ask|Die Polizei befragte den Zeugen.|The police asked the witness.
-1967.002|verb|befragen|question|Die Schüler wurden über das Thema befragt.|The students were questioned about the topic.
 1969.001|noun|der Anwalt|attorney|Der Anwalt sprach für seinen Mandanten.|The attorney spoke for his client.
 1973.001|noun|die Ansicht|view|Die Ansicht des Berges war wunderschön.|The view of the mountain was beautiful.
 1974.001|noun|die AG (Aktiengesellschaft)|incorporated company|Die AG plant neue Investitionen.|The incorporated company plans new investments.
-1975.001|verb|ausbilden|instruct|Die Schule bildet junge Menschen aus.|The school instructs young people.
-1975.002|verb|ausbilden|educate|Die Firma bildet Fachkräfte aus.|The company educates skilled workers.
-1980.001|verb|unterhalten (sich)|to amuse oneself|Er unterhält sich gerne mit Freunden.|He likes to amuse himself with friends.
 1981.001|noun|die Hochschule|college|Die Hochschule bietet viele Studiengänge an.|The college offers many programs.
 1982.001|noun|die Umsetzung|transfer|Die Umsetzung der Idee war erfolgreich.|The transfer of the idea was successful.
-1984.001|verb|erschrecken|be startled|Er erschrak bei dem plötzlichen Geräusch.|He was startled by the sudden noise.
-1985.001|verb|erwerben|purchase|Sie erwarb ein neues Auto im Sommer.|She purchased a new car in the summer.
 1986.002|noun|das Wesen|creature|Die seltsame Kreatur blieb unentdeckt.|The strange creature remained undiscovered.
 1988.001|adverb|hierbei|on this occasion|Hierbei handelt es sich um einen Fehler.|On this occasion, it is a mistake.
 1989.001|noun|das Schloss|lock|Das Schloss an der Tür ist defekt.|The lock on the door is broken.
-1990.001|verb|steuern|control|Er steuert das Gerät mit einem Joystick.|He controls the device with a joystick.
 1992.001|noun|der Abschluss|end|Der Abschluss des Kurses war feierlich.|The end of the course was celebratory.
 1992.002|noun|der Abschluss|graduation|Seine Abschlussfeier war sehr emotional.|His graduation ceremony was very emotional.
 1993.001|pronoun|irgendwelche|any|Hast du irgendwelche Fragen zum Thema?|Do you have any questions about the topic?
-1996.001|verb|verraten|to tell a secret|Sie verriet ihm ihr größtes Geheimnis.|She told him her biggest secret.
-1996.002|verb|verraten|give away|Er verriet das Versteck der Gruppe.|He gave away the group's hiding spot.
-1996.003|verb|verraten|betray|Der Spion verriet sein Land für Geld.|The spy betrayed his country for money.
-1997.001|verb|anpassen|adapt|Er passte seinen Plan an die Situation an.|He adapted his plan to the situation.
 2000.001|noun|die Erkrankung|disease|Die Erkrankung wurde rechtzeitig behandelt.|The disease was treated in time.
-2005.001|verb|vorhaben|to have in mind|Was hast du für das Wochenende vor?|What do you have in mind for the weekend?
-2005.002|verb|vorhaben|be planning|Ich habe vor, morgen zu reisen.|I am planning to travel tomorrow.
-2005.003|verb|vorhaben|intend|Sie hatte nicht vor, so lange zu bleiben.|She did not intend to stay that long.
-2006.001|verb|verbergen|conceal|Er verbarg die Briefe in der Schublade.|He concealed the letters in the drawer.
 2007.001|particle|aha|I see|Aha, das macht jetzt endlich Sinn!|I see, that makes sense now!
 2009.001|noun|die Post|post office|Ich gehe zur Post, um das Paket abzuholen.|I am going to the post office to pick up the package.
 1.002|pronoun|der|those
@@ -855,75 +257,42 @@
 48.002|pronoun|man|they
 87.002|adjective|groß|great
 106.001|noun|das Mal|mark
-108.001|verb|lassen|allow
-108.002|verb|lassen|have done
 131.001|pronoun|wenige|little
 162.001|preposition|seit|since
 163.001|adjective|einfach|easy
 172.001|adverb|natürlich|naturally
 176.002|adjective|gleich|just
-1822.001|verb|achten|to respect
-1832.001|verb|umdrehen|turn around
-1964.001|verb|ergänzen|complete
 1986.001|noun|das Wesen|being
 2010.001|noun|die Seele|mind
 2014.001|noun|das Geräusch|sound
 2022.001|pronoun|daneben|beside it
 2026.001|adjective|verrückt|insane
-2027.001|verb|versorgen|to supply
-2027.002|verb|versorgen|provide
-2027.003|verb|versorgen|look after
 2029.001|noun|der Start|start
 2029.002|noun|der Start|takeoff
-2030.001|verb|wagen|risk
 2031.001|adjective|weiblich|feminine
 2034.001|noun|die Decke|ceiling
 2035.001|noun|die Einstellung|employment
-2041.001|verb|entschuldigen|to excuse
-2041.002|verb|entschuldigen|apologize
-2045.001|verb|aufgehen|open
-2047.001|verb|zugehen|close
-2051.001|verb|bewerten|judge
-2053.001|verb|begeistern|be enthusiastic
 2054.001|noun|die Ladung|charge
 2056.001|adjective|lustig|enjoyable
 2058.001|noun|der Dichter|writer
 2061.001|adjective|nackt|bare
-2069.001|verb|aufregen|to excite
-2069.002|verb|aufregen|annoy
 2071.001|noun|die Einrichtung|institution
-2074.001|verb|verschieben|to move
 2076.001|noun|das Bundesland|province
-2077.001|verb|erleichtern|to relieve
-2077.002|verb|erleichtern|make easier
 2080.001|noun|das Viertel|quarter
 2085.001|adverb|quasi|virtually
 2087.001|adjective|blöd|stupid
 2091.001|noun|die Flucht|flight
-2092.001|verb|absehen|be in sight
-2098.001|verb|steigern|raise
 2103.001|noun|das Kino|movie theater
 2104.001|noun|die Dauer|length
-2105.001|verb|klappen|to fold
-2105.002|verb|klappen|go smoothly
 2107.001|adjective|golden|gold
-2108.001|verb|klären|to clear up
-2108.002|verb|klären|clarify
-2108.003|verb|klären|resolve
 2111.001|noun|die Bewertung|assessment
 2111.002|noun|die Bewertung|evaluating
 2112.001|noun|die Messung|measuring
 2113.001|adjective|gewaltig|tremendous
 2113.002|adjective|gewaltig|powerful
-2119.001|verb|antreten|to take up
-2119.002|verb|antreten|start
 2120.001|noun|die Lehre|apprenticeship
 2120.002|noun|die Lehre|doctrine
-2121.001|verb|aufpassen|to pay attention
-2121.002|verb|aufpassen|take care
-2132.001|verb|realisieren|bring about
 2136.001|noun|der Täter|culprit
-2138.001|verb|ordnen|sort
 2139.001|noun|die Bezeichnung|name
 2141.001|noun|der Anlass|cause
 2143.001|adjective|hauptsächlich|mostly
@@ -937,8 +306,6 @@
 2157.001|noun|der Anstieg|increase
 2158.001|noun|die Kurve|turn
 2159.001|noun|der Auftritt|entrance
-2162.001|verb|anmelden|to register
-2162.002|verb|anmelden|sign up
 2163.001|adjective|gerecht|just
 2164.001|adjective|unendlich|infinite
 2168.001|noun|die Stiftung|institute
@@ -947,50 +314,23 @@
 2172.001|noun|das Fest|celebration
 2173.001|noun|die Anforderung|demand
 2173.002|noun|die Anforderung|standard
-2176.001|verb|vorgehen|to go on
-2176.002|verb|vorgehen|go ahead
-2176.003|verb|vorgehen|be fast
-2176.004|verb|vorgehen|have priority
 2182.001|noun|das Umfeld|milieu
 2184.001|noun|der Graf|earl
 2187.001|adjective|optisch|visual
 2189.001|noun|die Mühe|trouble
 2191.001|adjective|grundlegend|fundamental
-2195.001|verb|klopfen|beat
-2199.001|verb|kennzeichnen|to characterize
-2199.002|verb|kennzeichnen|mark
-2201.001|verb|wundern (sich)|wonder
 2204.001|noun|die Stellung|standing
-2205.001|verb|aufheben|keep
-2205.002|verb|aufheben|lift
 2206.001|noun|die Belastung|load
 2208.001|noun|der Umfang|circumference
 2208.002|noun|der Umfang|size
 2208.003|noun|der Umfang|length
-2211.001|verb|erfordern|demand
-2215.001|verb|aufhalten|hold up
-2215.002|verb|aufhalten|delay
-2229.001|verb|vorwerfen|reproach
-2233.001|verb|ausrichten|align
-2233.002|verb|ausrichten|line up
-2233.003|verb|ausrichten|send
-2234.001|verb|rühren|move
-2236.001|verb|aktivieren|to mobilize
-2236.002|verb|aktivieren|activate
 2238.001|noun|der Nutzen|profit
 2238.002|noun|der Nutzen|use
 2239.001|noun|die Hose|trousers
-2241.001|verb|ansetzen|estimate
-2241.002|verb|ansetzen|fix
 2242.001|adjective|arabisch|Arabic
-2244.001|verb|mischen|blend
-2257.001|verb|mitmachen|to join in
-2257.002|verb|mitmachen|take part
 2261.001|noun|die Operation|surgery
 2262.001|noun|die Probe|test
 2262.002|noun|die Probe|rehearsal
-2263.001|verb|bedienen|to serve
-2263.002|verb|bedienen|operate
 2265.001|adjective|nachhaltig|lasting
 2268.001|adverb|hierzu|with it
 2270.001|noun|der Ruf|reputation
@@ -998,8 +338,6 @@
 2272.001|noun|die Begegnung|meeting
 2275.001|noun|die Handlung|action
 2276.001|noun|die Marke|stamp
-2282.001|verb|deuten|indicate
-2282.002|verb|deuten|interpret
 2283.001|adjective|glatt|smooth
 2286.001|noun|die Klinik|hospital
 2287.001|adjective|bedeutend|important
@@ -1011,18 +349,10 @@
 2307.002|noun|die Förderung|promotion
 2308.001|noun|der Impuls|stimulus
 2309.001|noun|die Planung|plan
-2311.001|verb|vorgeben|to use as an excuse
-2311.002|verb|vorgeben|set in advance
-2311.003|verb|vorgeben|pretend
 2314.001|noun|der Mangel|shortage
 2314.002|noun|der Mangel|defect
-2315.001|verb|ausführen|perform
 2316.001|adjective|analog|analogous
 2320.001|adjective|äußere|external
-2325.001|verb|zuordnen|classify
-2326.001|verb|aussetzen|to suspend
-2326.002|verb|aussetzen|expose
-2326.003|verb|aussetzen|sit out
 2327.001|noun|der Lohn|pay
 2327.002|noun|der Lohn|reward
 2328.001|noun|das Vermögen|fortune
@@ -1035,95 +365,47 @@
 2338.001|adjective|großartig|splendid
 2338.002|adjective|großartig|superb
 2338.003|adjective|großartig|terrific
-2339.001|verb|trainieren|coach
 2340.001|noun|die Variante|variation
 2341.001|noun|das Medikament|drug
 2343.001|adjective|beliebig|as you like
-2345.001|verb|versetzen|to move
-2345.002|verb|versetzen|transfer
 2348.001|adjective|gezielt|purposeful
 2348.002|adjective|gezielt|pointed
 2348.003|adjective|gezielt|well-aimed
 2349.001|noun|die Kommune|local authority
 2357.001|noun|der Stock|stick
-2362.001|verb|unternehmen|do
-2362.002|verb|unternehmen|take action
-2371.001|verb|verwandeln|turn into
-2372.001|verb|streiten|argue
-2374.001|verb|bereitstellen|put on
 2377.001|noun|der Gipfel|peak
 2380.001|adjective|vertraut|close
 2382.001|noun|die Sitzung|session
 2384.001|noun|die Wärme|heat
-2387.001|verb|kennenlernen|get to know
 2388.001|noun|der Unternehmer|employer
-2397.001|verb|umgeben|enclose
 2398.001|adjective|lebendig|living
-2403.001|verb|belasten|to load
-2403.002|verb|belasten|burden
 2410.001|noun|die Vielfalt|diversity
 2411.001|noun|die Entschuldigung|excuse
 2415.001|noun|die Mischung|mixture
 2415.002|noun|die Mischung|combination
-2417.001|verb|erledigen|to settle
-2417.002|verb|erledigen|take care
 2421.001|noun|der Sitz|seat
-2423.001|verb|ahnen|to sense
-2425.001|verb|stützen|base on
-2429.001|verb|einschränken|reduce
 2432.001|noun|die Strafe|punishment
 2433.001|noun|der Franzose|French
-2437.001|verb|abbauen|to reduce
-2437.002|verb|abbauen|dismantle
-2438.001|verb|anregen|to encourage
-2438.002|verb|anregen|suggest
-2438.003|verb|anregen|stimulate
-2440.001|verb|beherrschen|to control
-2440.002|verb|beherrschen|rule
 2443.001|noun|der Motor|motor
 2451.001|adverb|ebenda|at the same place
 2453.001|noun|die Erwachsene|grown-up
-2455.001|verb|zurückführen|trace back
 2456.001|noun|das Bruttoinlandsprodukt|gross domestic product
 2458.001|noun|der Verkäufer|seller
 2459.001|adjective|vernünftig|reasonable
-2461.001|verb|abholen|to get
-2461.002|verb|abholen|fetch
-2461.003|verb|abholen|pick up
 2462.001|adjective|gegenwärtig|present
-2465.001|verb|trauen|dare to
 2466.001|noun|das Vorbild|example
-2467.001|verb|vorlegen|provide
-2467.002|verb|vorlegen|produce
-2473.001|verb|erstellen|to build
-2473.002|verb|erstellen|draw up
-2473.003|verb|erstellen|produce
 2475.001|noun|die Kugel|sphere
 2475.002|noun|die Kugel|bullet
-2477.001|verb|ausbauen|to extend
-2477.002|verb|ausbauen|expand
-2477.003|verb|ausbauen|enlarge
-2478.001|verb|anzeigen|sue
-2478.002|verb|anzeigen|indicate
-2478.003|verb|anzeigen|show
 2479.001|noun|der Schwerpunkt|main emphasis
 2479.002|noun|der Schwerpunkt|center of gravity
-2482.001|verb|aussteigen|get out
 2486.001|noun|die Tonne|ton
 2486.002|noun|die Tonne|bin
-2487.001|verb|verleihen|award
-2492.001|verb|beurteilen|judge
-2493.001|verb|raten|guess
 2496.001|noun|der Erzähler|storyteller
-2499.001|verb|aufsteigen|move up
 2501.001|adjective|vielfältig|varied
 2505.001|noun|der Mittelwert|average
 2508.001|noun|die Beschäftigung|employment
 2508.002|noun|die Beschäftigung|work
 2508.003|noun|die Beschäftigung|pursuit
-2512.001|verb|aufkommen|arise
-2512.002|verb|aufkommen|pay for
-2520.001|verb|ausziehen|take off (clothes)
 2523.001|adjective|flach|low
 2523.002|adjective|flach|shallow
 2526.001|noun|der Winkel|corner
@@ -1132,16 +414,10 @@
 2531.001|noun|die Aussicht|prospect
 2535.001|noun|die Base|alkali
 2536.001|noun|die Bilanz|result
-2544.001|verb|zittern|to tremble
-2544.002|verb|zittern|shiver
-2553.001|verb|fliehen|escape
-2557.001|verb|anerkennen|accept
-2558.001|verb|bewahren|protect
 2563.001|noun|der Gesellschafter|associate
 2566.001|pronoun|worauf|to what
 2567.001|adjective|einsam|isolated
 2571.001|noun|der Ablauf|expiry
-2572.001|verb|anstehen|be in line
 2573.001|noun|die Bemerkung|comment
 2577.001|noun|die Angehörige|member
 2578.001|noun|das Café|coffeehouse
@@ -1149,42 +425,24 @@
 2581.001|noun|die Not|trouble
 2582.001|adjective|räumlich|three-dimensional
 2583.001|adjective|jahrelang|for years
-2587.001|verb|vergeben|allocate
-2587.002|verb|vergeben|give away
-2594.001|verb|zustimmen|consent
 2596.001|noun|der Ausbau|consolidation
 2597.001|noun|der Kanal|channel
-2602.001|verb|ausüben|exercise
-2602.002|verb|ausüben|exert
-2604.001|verb|unterliegen|be subject
 2614.001|adjective|formell|technical
 2615.001|adjective|sanft|soft
-2616.001|verb|aushalten|endure
 2618.001|adverb|keineswegs|not at all
-2622.001|verb|einbringen|contribute
 2628.001|adjective|selbstständig|self-employed
 2632.001|pronoun|wozu|to what
 2633.001|adjective|schlicht|plain
 2636.001|noun|der Pass|pass
 2637.001|noun|der Bedarf|need
-2640.001|verb|errichten|erect
 2641.001|noun|der Kredit|credit
 2643.001|noun|die Kompetenz|authority
 2644.001|noun|die Leitung|management
-2648.001|verb|gleichen|to be alike
 2649.001|noun|die Station|stop
 2649.002|noun|die Station|stopover
-2651.001|verb|sperren|to cut off
-2651.002|verb|sperren|block
-2651.003|verb|sperren|close
-2658.001|verb|ausbreiten|spread out
 2659.001|noun|die Versorgung|care
 2660.001|noun|der Kommentar|opinion
 2661.001|adjective|kontinuierlich|constant
-2666.001|verb|ansteigen|go up
-2668.001|verb|auszeichnen|to award a prize
-2668.002|verb|auszeichnen|honor
-2668.003|verb|auszeichnen|distinguish
 2670.001|noun|die Betrachtung|examination
 2671.001|noun|die Kommission|committee
 2672.001|noun|der Star|starling
@@ -1192,29 +450,13 @@
 2680.002|noun|der Abbau|mining
 2683.001|noun|das Geschenk|present
 2690.001|noun|der Mittelpunkt|midpoint
-2691.001|verb|bereiten|to make
-2691.002|verb|bereiten|cause
-2691.003|verb|bereiten|give
-2698.001|verb|versichern|assert
 2700.001|adjective|erkennbar|apparent
 2700.002|adjective|erkennbar|visible
 2701.001|adverb|namens|by the name of
 2702.001|noun|die Achse|axis
-2704.001|verb|speichern|to store
-2704.002|verb|speichern|save
 2707.001|noun|der Aufwand|expense
 2711.001|adjective|derartig|like that
 2715.001|noun|die Ernährung|food
-2719.001|verb|zucken|to twitch
-2719.002|verb|zucken|shrug
-2720.001|verb|anschließen|to join
-2720.002|verb|anschließen|chain to
-2720.003|verb|anschließen|connect
-2721.001|verb|austauschen|replace
-2724.001|verb|anstellen|employ
-2724.002|verb|anstellen|line up
-2724.003|verb|anstellen|get into mischief
-2725.001|verb|decken|to cover
 2726.001|adjective|grob|coarse
 2726.002|adjective|grob|gross
 2728.001|noun|die Tour|trip
@@ -1233,14 +475,6 @@
 2770.001|noun|der Ärger|trouble
 2772.001|noun|der Führer|leader
 2774.001|noun|der Abschied|departure
-2777.001|verb|abbilden|to copy
-2777.002|verb|abbilden|portray
-2783.001|verb|ergreifen|to take
-2783.002|verb|ergreifen|seize
-2783.003|verb|ergreifen|grip
-2783.004|verb|ergreifen|capture
-2786.001|verb|hinausgehen|exceed
-2789.001|verb|beraten|discuss
 2790.001|adjective|bürgerlich|civil
 2794.001|noun|die Wut|fury
 2796.001|adverb|quer|diagonally
@@ -1248,7 +482,6 @@
 2803.001|adjective|übel|foul
 2804.001|noun|das Ufer|bank
 2826.001|noun|die Zustimmung|consent
-2830.001|verb|verlängern|to lengthen
 2831.001|noun|die Nahrung|nourishment
 2841.001|adjective|heimisch|indigenous
 2841.002|adjective|heimisch|at home
@@ -1257,49 +490,23 @@
 2848.001|adjective|unheimlich|eerie
 2848.002|adjective|unheimlich|scary
 2848.003|adjective|unheimlich|incredible
-2850.001|verb|versehen|provide
 2854.001|noun|die Hut|alert
 2856.001|noun|die Verpflichtung|obligation
 2859.001|noun|der Mittag|noon
 2861.001|noun|das Finale|final
 2861.002|noun|das Finale|finals
-2862.001|verb|gewähren|give
 2864.001|noun|die Tendenz|tendency
 2864.002|noun|die Tendenz|inclination
 2869.001|noun|die Auswertung|analysis
-2874.001|verb|bewältigen|to cope with
-2874.002|verb|bewältigen|overcome
 2880.001|noun|die Scheibe|slice
 2880.002|noun|die Scheibe|(glass) pane
-2881.001|verb|verbleiben|stay
-2881.002|verb|verbleiben|agree
 2882.001|noun|der Widerspruch|contradiction
-2883.001|verb|dastehen|be in a position
-2885.001|verb|regieren|to rule
-2885.002|verb|regieren|govern
 2889.001|adverb|weh|sore
-2890.001|verb|entlassen|fire
-2893.001|verb|abstimmen|coordinate
 2902.001|noun|der Anhänger|pendant
 2902.002|noun|der Anhänger|supporter
-2906.001|verb|murmeln|to mumble
-2906.002|verb|murmeln|mutter
-2909.001|verb|einräumen|to put away
-2909.002|verb|einräumen|concede
-2910.001|verb|herausstellen (sich)|to emphasize
-2910.002|verb|herausstellen (sich)|turn out
-2914.001|verb|abbrechen|to break off
-2914.002|verb|abbrechen|stop
 2915.001|noun|die Aufklärung|enlightenment
-2916.001|verb|auskommen|get on
-2916.002|verb|auskommen|manage
-2920.001|verb|mangeln|be missing
-2922.001|verb|verarbeiten|to use
-2922.002|verb|verarbeiten|process
-2922.003|verb|verarbeiten|assimilate
 2925.001|pronoun|dazwischen|in between
 2925.002|pronoun|dazwischen|among (them)
-2926.001|verb|einsteigen|get in
 2934.001|noun|die Persönlichkeit|celebrity
 2935.001|noun|die Truppe|unit
 2937.001|noun|die Einschätzung|opinion
@@ -1311,28 +518,12 @@
 2966.001|noun|die Angelegenheit|affair
 2968.001|noun|die Einnahme|income
 2968.002|noun|die Einnahme|receipts
-2972.001|verb|eintragen|record
-2972.002|verb|eintragen|register
-2979.001|verb|verschließen|to close
-2979.002|verb|verschließen|lock
 2980.001|noun|der Entwurf|sketch
 2980.002|noun|der Entwurf|design
-2983.001|verb|hemmen|to inhibit
-2983.002|verb|hemmen|hinder
-2986.001|verb|dringen|insist
-2992.001|verb|bearbeiten|work on
 2994.001|pronoun|hierfür|for it
 2997.001|pronoun|wodurch|which
-2998.001|verb|zusagen|to promise
-2998.002|verb|zusagen|accept
-3000.001|verb|verdanken|have sb to thank for sth
 3003.001|noun|der Reiz|stimulus
 3008.001|noun|der Akteur|player
-3009.001|verb|entnehmen|to take from
-3009.002|verb|entnehmen|remove
-3009.003|verb|entnehmen|withdraw
-3009.004|verb|entnehmen|infer
-3012.001|verb|bekämpfen|combat
 3014.001|noun|der Gehalt|meaning
 3020.001|adverb|extra|separately
 3023.001|noun|die Klage|lawsuit
@@ -1346,123 +537,62 @@
 3043.001|noun|das Zitat|quotation
 3045.001|adjective|kaputt|ruined
 3047.001|noun|die Note|note
-3050.001|verb|ausgleichen|to even out
-3050.002|verb|ausgleichen|reconcile
-3053.001|verb|aufbrechen|to leave
-3053.002|verb|aufbrechen|take off
-3053.003|verb|aufbrechen|break open
-3055.001|verb|voraussetzen|take for granted
 3056.001|adjective|divers|various
 3057.001|noun|der Höhepunkt|peak
 3060.001|adjective|ausgeprägt|distinct
 3060.002|adjective|ausgeprägt|pronounced
 3061.001|noun|die Autobahn|expressway
 3065.001|noun|der Schreck|fright
-3068.001|verb|entziehen|to take away
-3068.002|verb|entziehen|remove
-3068.003|verb|entziehen|draw
 3072.001|conjunction|sofern|provided that
-3073.001|verb|anstreben|to aim at
-3073.002|verb|anstreben|strive (for)
-3073.003|verb|anstreben|aspire to
-3075.001|verb|einigen|to unite
-3075.002|verb|einigen|agree
 3077.001|noun|die Hütte|cabin
 3079.001|noun|die Prognose|prognosis
 3080.001|adjective|zugehörig|corresponding
 3083.001|adjective|locker|loose
-3085.001|verb|abwarten|wait out
 3089.001|noun|die Abstimmung|vote
 3091.001|adjective|nachfolgend|subsequently
-3092.001|verb|nachfolgen|succeed
-3093.001|verb|neigen|to bend
-3093.002|verb|neigen|lean
 3094.001|noun|die Rente|pension
 3099.001|noun|der Aufstieg|rise
 3105.001|adverb|hinein|in
 3107.001|noun|das Skript|lecture notes
-3108.001|verb|vertreiben|to drive out
-3108.002|verb|vertreiben|sell
-3112.001|verb|zurückhalten|restrain
 3113.001|noun|die Abweichung|difference
 3113.002|noun|die Abweichung|tolerance
-3116.001|verb|nachgehen|to follow
-3116.002|verb|nachgehen|pursue
-3116.003|verb|nachgehen|be slow
 3117.001|adjective|schief|not straight
-3122.001|verb|korrigieren|revise
 3123.001|noun|die Linke|left-wing party
 3131.001|noun|das Ministerium|department
 3139.001|noun|das Minus|minus
 3142.001|noun|die Besonderheit|idiosyncracy
 3142.002|noun|die Besonderheit|(special) feature
-3144.001|verb|lenken|guide
-3149.001|verb|beinhalten|include
 3153.001|noun|die Zeitschrift|journal
-3154.001|verb|absetzen|to drop off
-3154.002|verb|absetzen|dismiss
-3155.001|verb|anführen|to lead
-3155.002|verb|anführen|command
-3155.003|verb|anführen|quote
-3158.001|verb|begehen|to commit
-3158.002|verb|begehen|make
-3158.003|verb|begehen|celebrate
 3159.001|noun|der Besitz|possession
 3161.001|noun|der Gläubiger|believer
 3166.001|noun|die Anfrage|request
 3170.001|noun|die Platte|disk
 3170.002|noun|die Platte|record
 3176.001|adjective|diskret|confidential
-3179.001|verb|isolieren|to isolate
-3179.002|verb|isolieren|insulate
 3181.001|adjective|erwachsen|adult
 3182.001|adjective|ökologisch|organic
 3184.001|noun|die Substitution|replacement
 3185.001|noun|der Tipp|hint
-3186.001|verb|auffordern|request
 3188.001|noun|der Kanton|province
 3192.001|noun|das Stichwort|cue
 3193.001|noun|das Tempo|speed
 3194.001|adjective|wunderschön|lovely
 3197.001|noun|der Duft|(pleasant) smell
 3198.001|adverb|hinweg|(be) over
-3199.001|verb|aufzeigen|to show
-3199.002|verb|aufzeigen|point out
-3200.001|verb|ausstatten|provide
 3208.001|noun|die Ausführung|type
 3210.001|adjective|rechtzeitig|punctual
-3212.001|verb|brüllen|to bellow
-3212.002|verb|brüllen|roar
-3212.003|verb|brüllen|shout
-3220.001|verb|betreuen|take care
 3223.001|adjective|benachbart|adjacent
 3231.001|noun|die Phantasie|fantasy
-3236.001|verb|hauen|hew
-3236.002|verb|hauen|slap
 3238.001|noun|die Übertragung|transmission
-3241.001|verb|ausscheiden|to leave
-3241.002|verb|ausscheiden|retire
-3241.003|verb|ausscheiden|be eliminated
-3244.001|verb|vergrößern|to increase
-3244.002|verb|vergrößern|extend
 3246.001|noun|der Großteil|large part
-3249.001|verb|versammeln|to assemble
 3256.001|noun|das Gelände|ground
-3266.001|verb|umwandeln|change
-3270.001|verb|ablegen|put
-3270.002|verb|ablegen|file
 3272.001|noun|die Gründung|foundation
 3272.002|noun|die Gründung|formation
 3277.001|noun|der Rucksack|rucksack
-3283.001|verb|schweben|hover
-3283.002|verb|schweben|be in the balance
-3286.001|verb|absolvieren|graduate
-3293.001|verb|hervorgehen|follow
 3295.001|noun|der Stamm|stem
 3295.002|noun|der Stamm|tribe
 3302.001|noun|der Kellner|waitress
 3303.001|noun|die Kiste|crate
-3304.001|verb|unterbringen|to put (up)
 3311.001|noun|das Vorhaben|plan
 3314.001|noun|der Pilz|fungus
 3317.002|noun|der Ausgang|starting point
@@ -1471,21 +601,15 @@
 3323.001|noun|der Ausgleich|balancing
 3323.002|noun|der Ausgleich|change
 3326.001|noun|die Behinderung|obstruction
-3330.001|verb|zuwenden|devote oneself to
 3334.001|noun|die Linse|lentil
 3337.001|noun|der Posten|post
 3341.001|noun|die Öffnung|hole
-3342.001|verb|senden|to send
-3342.002|verb|senden|broadcast
 3346.001|noun|der Schrank|cabinet
-3351.001|verb|lagern|camp
 3354.001|noun|der Bescheid|reply
 3359.001|noun|der Eingriff|interference
 3364.001|noun|die Einsicht|view
 3365.001|noun|das Fräulein|miss
 3367.001|noun|der Rückgang|fall
-3376.001|verb|schaden|to damage
-3376.002|verb|schaden|harm
 3377.001|adjective|stumm|dumb
 3377.002|adjective|stumm|mute
 3382.001|adjective|maßgeblich|decisive
@@ -1493,41 +617,20 @@
 3384.002|noun|die Spalte|column
 3385.001|noun|der Zettel|piece of paper
 3386.001|noun|die Abgrenzung|disassociation
-3389.001|verb|übereinstimmen|to accord
-3389.002|verb|übereinstimmen|agree
 3390.001|noun|die Unterscheidung|differentiation
 3391.001|noun|die Dichtung|literature
 3391.002|noun|die Dichtung|poetry
 3395.001|adverb|untereinander|with each other
 3396.001|preposition|unterhalb|below
-3397.001|verb|verdeutlichen|explain
-3404.001|verb|abstellen|to turn off
-3404.002|verb|abstellen|shut down
-3404.003|verb|abstellen|park
-3404.004|verb|abstellen|put
 3406.001|adjective|fett|fat
 3406.002|adjective|fett|greasy
-3407.001|verb|verbrauchen|to use
-3407.002|verb|verbrauchen|consume
-3408.001|verb|ausweisen|expel
-3409.001|verb|biegen|turn
-3412.001|verb|spazieren|to (go for a) walk
-3412.002|verb|spazieren|stroll
 3419.001|noun|die Kneipe|bar
 3422.001|adjective|fix|fixed
 3429.001|noun|das Abitur|A levels
-3431.001|verb|einlassen|get involved
 3434.001|noun|die Abschreibung|deduction
 3438.001|noun|der Klang|tone
 3440.001|noun|die Säule|column
-3441.001|verb|übergeben|transfer
-3442.001|verb|aufklären|to clear
-3442.002|verb|aufklären|clarify
-3442.003|verb|aufklären|resolve
 3447.001|noun|die Anzeige|display
-3449.001|verb|festnehmen|detain
-3450.001|verb|fortfahren|proceed
-3450.002|verb|fortfahren|carry on
 3458.001|noun|die Kammer|(small) room
 3461.001|adjective|besorgt|anxious
 3461.002|adjective|besorgt|afraid
@@ -1539,8 +642,6 @@
 3468.003|noun|die Unruhe|upheaval
 3471.001|noun|der Kindergarten|nursery school
 3472.001|noun|das Rätsel|mystery
-3478.001|verb|erkranken|to be taken ill
-3478.002|verb|erkranken|fall ill
 3479.001|noun|die Herrschaft|power
 3483.001|noun|der Schein|light
 3483.002|noun|der Schein|certificate
@@ -1548,114 +649,56 @@
 3491.001|noun|die Verschiebung|shift
 3492.001|adverb|zugrunde|(form) the basis
 3492.002|adverb|zugrunde|(go) to ruin
-3493.001|verb|abweichen|differ
 3495.001|adjective|gespannt|anxious
 3495.002|adjective|gespannt|tense
-3496.001|verb|sicherstellen|guarantee
-3496.002|verb|sicherstellen|ensure
-3498.001|verb|verfassen|to draw up
 3499.001|noun|die Vermittlung|negotiation
 3499.002|noun|die Vermittlung|placement
 3500.001|noun|der Wohlstand|wealth
 3504.001|adverb|seinerseits|on his part
 3504.002|adverb|seinerseits|for its/his part
-3507.001|verb|ausbrechen|erupt
 3513.001|noun|die Erziehung|education
 3515.001|pronoun|wonach|what ... of
 3521.001|noun|der Befehl|command
-3524.001|verb|schleppen|to tow
-3524.002|verb|schleppen|drag
 3525.001|noun|der Treffer|hit
 3526.001|noun|der Helfer|accomplice
 3531.001|adjective|definitiv|definite
-3532.001|verb|locken|tempt
-3533.001|verb|löschen|delete
 3535.001|preposition|samt|together with
-3536.001|verb|vollziehen|administer
-3536.002|verb|vollziehen|take place
-3538.001|verb|aufbringen|find
 3539.001|adverb|einigermaßen|somewhat
 3539.002|adverb|einigermaßen|fairly
 3540.001|noun|die Mitteilung|communication
-3542.001|verb|verzeichnen|to list
 3546.001|noun|der Bogen|bow
 3546.002|noun|der Bogen|sheet
 3548.001|noun|die Ferien (pl)|vacation
 3550.001|noun|die Messe|mass
-3551.001|verb|scheiden|to separate
-3551.002|verb|scheiden|divorce
-3554.001|verb|zurücklegen|to put back
-3554.002|verb|zurücklegen|put aside
-3555.001|verb|anordnen|to order
-3555.002|verb|anordnen|arrange
-3557.001|verb|bevorstehen|to lie ahead
-3557.002|verb|bevorstehen|be imminent
 3559.001|noun|die Erscheinung|appearance
 3561.001|adverb|hinterher|after
 3566.001|noun|der Bestand|continuation
 3566.002|noun|der Bestand|supply
 3572.001|noun|die Werkstatt|workshop
 3574.001|noun|das Kloster|convent
-3576.001|verb|nachfragen|to ask (sb)
-3576.002|verb|nachfragen|inquire
 3578.001|noun|das Unglück|misfortune
-3579.001|verb|verlegen|to misplace
-3579.002|verb|verlegen|postpone
 3581.001|noun|die Fragestellung|question
 3586.001|pronoun|wovon|from what
 3598.001|adjective|mühsam|strenuous
 3600.001|noun|der Wahnsinn|insanity
 3600.002|noun|der Wahnsinn|lunacy
-3602.001|verb|feststehen|fixed
-3602.002|verb|feststehen|firm
 3605.001|noun|die Verknüpfung|link
 3610.001|noun|der Maßstab|yardstick
 3610.002|noun|der Maßstab|standard
-3611.001|verb|skizzieren|to outline
-3611.002|verb|skizzieren|sketch
 3612.001|adjective|starr|stiff
 3612.002|adjective|starr|paralyzed
-3619.001|verb|unterstellen|to put in charge
-3619.002|verb|unterstellen|store
-3620.001|verb|vorbeigehen|to go past
-3620.002|verb|vorbeigehen|pass
 3628.001|noun|der Profi|pro
-3630.001|verb|aufsagen|refuse to serve
-3631.001|verb|bergen|to rescue
-3631.002|verb|bergen|hide
-3635.001|verb|andeuten|indicate
 3639.001|noun|der Rückstand|backlog
-3640.001|verb|entfalten|develop
 3645.001|pronoun|woran|of what
-3647.001|verb|heulen|wail
-3647.002|verb|heulen|cry
-3648.001|verb|zurücktreten|to step back
-3648.002|verb|zurücktreten|resign
-3650.001|verb|einschlagen|to hammer in
-3650.002|verb|einschlagen|smash
-3650.003|verb|einschlagen|take
 3651.001|noun|der Rock|rock music
 3654.001|adjective|aufwendig|extravagant
-3655.001|verb|einschätzen|to judge
-3655.002|verb|einschätzen|assess
-3662.001|verb|hocken|crouch
 3672.001|noun|das Sofa|couch
-3674.001|verb|abwenden|to turn away
-3674.002|verb|abwenden|avert
 3676.001|noun|das Huhn|chicken
 3677.001|noun|die Relation|proportion
 3683.001|noun|die Auflösung|dissolving
 3683.002|noun|die Auflösung|breaking up
-3684.001|verb|ausweichen|to make way
-3684.002|verb|ausweichen|evade
-3684.003|verb|ausweichen|avoid
 3685.001|noun|das Paket|parcel
-3688.001|verb|zuführen|to lead to sth
-3688.002|verb|zuführen|supply
 3691.001|noun|der Berater|consultant
-3692.001|verb|erregen|to arouse
-3692.002|verb|erregen|attract
-3692.003|verb|erregen|excite
 3696.001|noun|die Frist|time period
 3699.001|noun|der Proband|test person
 3701.001|noun|die Schlange|line
@@ -1663,51 +706,19 @@
 3703.001|adjective|verehrt|honored
 3707.001|adjective|gefangen|captive
 3707.002|adjective|gefangen|caught
-3713.001|verb|täuschen|to deceive
-3713.002|verb|täuschen|be mistaken
 3718.001|adjective|einmalig|fantastic
 3723.001|noun|das Protokoll|record
-3725.001|verb|verdrängen|to drive out
-3725.002|verb|verdrängen|suppress
-3728.001|verb|weichen|to soak
-3728.002|verb|weichen|give way
-3728.003|verb|weichen|yield
 3729.001|adjective|akut|urgent
-3733.001|verb|zusammenkommen|to meet
-3735.001|verb|erforschen|to explore
-3739.001|verb|werten|to rate
-3739.002|verb|werten|judge
 3741.001|noun|der Hang|inclination
 3744.001|noun|die Ausprägung|markedness
-3746.001|verb|rauschen|to rustle
-3746.002|verb|rauschen|roar
-3746.003|verb|rauschen|rush
-3747.001|verb|tauschen|change
-3747.002|verb|tauschen|swap
-3747.003|verb|tauschen|switch
-3753.001|verb|mitbekommen|to notice
-3753.002|verb|mitbekommen|get
-3755.001|verb|weggehen|to leave
 3756.001|noun|die Abgabe|handing in
 3759.001|noun|der Nachweis|evidence
 3759.002|noun|der Nachweis|certificate
 3760.001|noun|die Steuerung|steering
-3761.001|verb|zurückgeben|to give back
 3762.001|noun|der Aufenthalt|residence
-3763.001|verb|auflegen|to publish
-3763.002|verb|auflegen|put on
-3763.003|verb|auflegen|hang up
-3764.001|verb|kippen|overbalance
-3766.001|verb|wischen|mop
-3768.001|verb|erbringen|to raise
-3768.002|verb|erbringen|produce
-3768.003|verb|erbringen|show
 3770.001|noun|der Hörer|listener
 3777.001|adjective|elementar|elementary
 3778.001|adverb|nebenbei|in addition
-3783.001|verb|bremsen|slow down
-3784.001|verb|einbauen|build in
-3784.002|verb|einbauen|fit
 3786.001|noun|das Getränk|beverage
 3787.001|adverb|hierzulande|in this country
 3787.002|adverb|hierzulande|round here
@@ -1716,83 +727,43 @@
 3792.001|noun|der Bruch|break
 3793.001|adjective|endlos|infinite
 3794.001|noun|die Erweiterung|extension
-3798.001|verb|spiegeln|to shine
-3798.002|verb|spiegeln|reflect
 3799.001|adjective|städtisch|municipal
-3800.001|verb|wandeln|convert
 3802.001|adjective|reichlich|plenty
-3803.001|verb|ringen|to wrestle
 3806.001|noun|der Strich|stroke
 3807.001|noun|der Wirt|innkeeper
 3808.001|noun|die Addition|summation
 3811.001|noun|die Innenstadt|town center
 3812.001|noun|die Konstruktion|design
-3814.001|verb|siegen|to win
 3817.001|noun|der Vorsprung|advance
-3819.001|verb|bekennen|admit
 3820.001|adjective|dauernd|lasting
 3824.001|adjective|mutmaßlich|presumed
-3827.001|verb|bedauern|feel sorry
-3829.001|verb|durchgehen|pass
-3829.002|verb|durchgehen|bolt
 3832.001|adverb|abseits|off the beaten track
-3835.001|verb|entfallen|be dropped
-3849.001|verb|reizen|to annoy
-3849.002|verb|reizen|provoke
-3849.003|verb|reizen|tempt
 3850.001|noun|das Attribut|adjunct
-3853.001|verb|hinzukommen|to be added
-3853.002|verb|hinzukommen|join
 3857.001|noun|die Unterlage|base
 3857.002|noun|die Unterlage|document
 3861.001|noun|der Ersatz|compensation
 3866.001|noun|der Rauch|fume
-3870.001|verb|anstarren|to gaze
-3870.002|verb|anstarren|stare at
 3874.001|adjective|unglücklich|unfortunate
-3875.001|verb|wehen|flutter
-3878.001|verb|erhoffen|to expect
 3883.001|noun|das Heim|institution
-3884.001|verb|heranziehen|draw near
 3888.001|noun|der Träger|strap
 3888.002|noun|der Träger|responsible body
-3889.001|verb|verschärfen|to tighten
-3898.001|verb|abziehen|to take off
-3898.002|verb|abziehen|withdraw
-3898.003|verb|abziehen|subtract
 3899.001|noun|der Befund|finding(s)
 3902.001|noun|der Stoß|shock
 3911.001|noun|die Anregung|stimulus
-3928.001|verb|anfallen|to attack
 3929.001|noun|der Ausfall|failure
 3935.001|noun|die Strömung|current
-3936.001|verb|überfordern|to overtax
-3936.002|verb|überfordern|be too much
 3938.001|noun|die Gliederung|structure
 3938.002|noun|die Gliederung|organization
-3940.001|verb|schleichen|to creep
-3940.002|verb|schleichen|prowl
-3941.001|verb|zulegen|put on
-3941.002|verb|zulegen|get
-3945.001|verb|einlegen|to put in
 3948.001|adjective|materiell|financial
 3950.001|noun|die Transparenz|clarity
 3957.001|noun|die Tafel|table
 3970.001|noun|die Schlagzeile|caption
-3972.001|verb|überziehen|to cover
-3972.002|verb|überziehen|put on
 3974.001|adjective|gemütlich|comfortable
 3976.001|noun|das Zeitalter|period
-3979.001|verb|irritieren|to irritate
-3979.002|verb|irritieren|confuse
 3980.001|noun|der Jurist|jurist
 3985.001|noun|der Rücktritt|withdrawal
 3986.001|noun|die Schätzung|estimation
 3988.001|noun|das Gelenk|hinge
-3998.001|verb|erlangen|secure
-3999.001|verb|zumachen|shut down
-4000.001|verb|ausstellen|issue
-4000.002|verb|ausstellen|make out
 4001.001|noun|das Becken|pelvis
 4004.001|noun|der Zwang|force
 4004.002|noun|der Zwang|compulsion
@@ -1804,35 +775,10 @@
 4023.001|noun|das Unrecht|wrong
 4024.001|noun|die Versicherung|assurance
 4027.001|noun|das Bedenken|doubt
-4029.001|verb|ermorden|kill
 4035.001|adjective|unwahrscheinlich|unlikely
-4038.001|verb|beauftragen|to give sb the task of doing sth
-4038.002|verb|beauftragen|hire (a firm)
-4040.001|verb|eindringen|to enter
-4040.002|verb|eindringen|penetrate
-4046.001|verb|scheißen|to shit
-4046.002|verb|scheißen|crap
 4047.001|noun|der Schiedsrichter|judge (in sports)
-4049.001|verb|tippen|to tap
-4049.002|verb|tippen|type
-4051.001|verb|vernetzen|to link
-4051.002|verb|vernetzen|network
-4053.001|verb|weitermachen|to carry on
-4053.002|verb|weitermachen|continue
-4054.001|verb|abhauen|run away
 4055.001|noun|die Ablehnung|refusal
 4057.001|noun|der Arsch|behind
-4058.001|verb|auskennen|be well informed
-4061.001|verb|klauen|shoplift
-4064.001|verb|ablenken|deflect
-4069.001|verb|lauschen|eavesdrop
-4070.001|verb|nachvollziehen|relate to sth
-4074.001|verb|anmerken|to remark
-4074.002|verb|anmerken|notice
-4074.003|verb|anmerken|let show
-4077.001|verb|durchziehen|to see sth through
-4077.002|verb|durchziehen|follow through
-4078.001|verb|erholen (sich)|relax
 4080.001|noun|die Quote|rate
 4080.002|noun|die Quote|quota
 4081.001|noun|die Vorlage|draft
@@ -1840,42 +786,25 @@
 4082.001|noun|das Vorzeichen|omen
 4085.001|noun|der Grenzwert|limit
 4086.001|noun|die Großstadt|large city
-4087.001|verb|hervorheben|stress
 4088.001|noun|das Lokal|bar
-4091.001|verb|vermindern|decrease
-4098.001|verb|platzen|split
 4102.001|noun|der Strahl|ray
 4106.001|adverb|gewissermaßen|as it were
 4110.001|adjective|sachlich|matter-of-fact
 4113.001|noun|die Spaltung|splitting
-4115.001|verb|anweisen|to order to do
-4115.002|verb|anweisen|to direct
 4116.001|noun|der Ausflug|excursion
 4117.001|adjective|außergewöhnlich|unusual
 4118.001|noun|die Baustelle|building site
 4120.001|noun|der Kasten|box
 4122.001|noun|der Pariser|condom
-4123.001|verb|schimpfen|to scold
-4123.002|verb|schimpfen|rant
 4124.001|noun|die Sicherung|fuse
 4125.001|noun|die Steigung|ascent
-4132.001|verb|erfreuen|to please
-4132.002|verb|erfreuen|delight
-4133.001|verb|erschließen|tap
-4133.002|verb|erschließen|make out
 4134.001|noun|das Gewehr|shotgun
 4136.001|noun|das Tuch|scarf
 4141.001|adjective|flüchtig|fugitive
 4141.002|adjective|flüchtig|cursory
 4148.001|adverb|umsonst|for free
-4151.001|verb|abheben|withdraw
 4152.001|adjective|alltäglich|usual
 4152.002|adjective|alltäglich|ordinary
-4153.001|verb|anbringen|to affix
-4153.002|verb|anbringen|attach
-4153.003|verb|anbringen|put up
-4154.001|verb|entgehen|to avoid
-4154.002|verb|entgehen|escape
 4156.001|adverb|lauter|just
 4156.002|adverb|lauter|a lot of
 4157.001|noun|der Mediziner|doctor
@@ -1892,13 +821,7 @@
 4183.001|noun|der Haufen|heap
 4183.002|noun|der Haufen|load
 4189.001|adjective|gelassen|composed
-4193.001|verb|überstehen|to overcome
-4193.002|verb|überstehen|survive
 4194.001|noun|die Vermutung|presumption
-4195.001|verb|aufspringen|to jump up/on
-4195.002|verb|aufspringen|burst open
-4197.001|verb|losgehen|to go off
-4197.002|verb|losgehen|start
 4198.001|noun|das Maul|jaws
 4202.001|noun|die Berufung|appeal
 4202.002|noun|die Berufung|vocation
@@ -1906,94 +829,36 @@
 4204.001|noun|der Eintritt|entry
 4208.001|adverb|neulich|recently
 4209.001|adjective|regelrecht|real
-4210.001|verb|verankern|enshrine
 4211.001|noun|der Zähler|counter
 4211.002|noun|der Zähler|numerator
-4213.001|verb|beseitigen|to eliminate
-4213.002|verb|beseitigen|clear
 4216.001|adjective|regulär|normal
-4220.001|verb|unterteilen|subdivide
-4220.002|verb|unterteilen|partition
-4221.001|verb|verziehen|to distort
-4221.002|verb|verziehen|twist
 4222.001|noun|die Bestellung|reservation
 4224.001|noun|das Glied|limb
 4224.002|noun|das Glied|joint
 4231.001|adverb|abschließend|concluding
-4232.001|verb|aufschlagen|serve
-4232.002|verb|aufschlagen|pitch
 4235.001|noun|der Niederschlag|rainfall
-4237.001|verb|streifen|to touch
-4237.002|verb|streifen|brush
-4240.001|verb|ernähren|to feed
-4240.002|verb|ernähren|nourish
-4240.003|verb|ernähren|support
 4245.001|noun|die Genehmigung|approval
 4245.002|noun|die Genehmigung|permission
-4249.001|verb|verständigen (sich)|to notify
-4252.001|verb|andauern|last
-4253.001|verb|aufrichten (sich)|to put up (right)
-4253.002|verb|aufrichten (sich)|straighten up
-4254.001|verb|auslaufen|to run out
-4254.002|verb|auslaufen|leak
 4256.001|adjective|fachlich|specialist
 4256.002|adjective|fachlich|technical
 4259.001|noun|der Schädel|head
 4266.001|noun|die Unterhaltung|entertainment
-4267.001|verb|zerfallen|disintegrate
-4267.002|verb|zerfallen|decay
-4267.003|verb|zerfallen|decline
-4269.001|verb|ablösen|remove
-4269.002|verb|ablösen|peel away
-4271.001|verb|ausbleiben|fail to appear
-4271.002|verb|ausbleiben|stay out
-4272.001|verb|besorgen|provide
-4272.002|verb|besorgen|buy
-4275.001|verb|entgegensetzen|counter
 4276.001|noun|die Inszenierung|staging
-4282.001|verb|überwachen|control
-4282.002|verb|überwachen|watch
 4292.001|noun|das Rezept|prescription
 4293.001|noun|der Sack|bag
-4296.001|verb|ausstehen|to stand
-4296.002|verb|ausstehen|bear
-4296.003|verb|ausstehen|be pending
-4298.001|verb|einschließen|to lock up
-4298.002|verb|einschließen|involve
-4298.003|verb|einschließen|include
-4306.001|verb|beleuchten|to light
-4306.002|verb|beleuchten|illuminate
-4306.003|verb|beleuchten|examine
 4308.001|adjective|erreichbar|reachable
-4309.001|verb|erschweren|make more difficult
 4315.001|noun|die Vereinigung|organization
 4315.002|noun|die Vereinigung|unification
-4318.001|verb|erobern|take
-4318.002|verb|erobern|win
 4319.001|noun|die Fassade|front
 4322.001|noun|die Terrasse|patio
-4323.001|verb|aufsuchen|to see
-4323.002|verb|aufsuchen|visit
-4324.001|verb|forschen|do research
 4325.001|noun|der Gesetzentwurf|draft law
 4339.001|noun|das Fazit|summary
-4340.001|verb|hervorrufen|arouse
-4340.002|verb|hervorrufen|cause
 4345.001|noun|die Erhebung|elicitation
 4345.002|noun|die Erhebung|levying
 4349.001|noun|das Magazin|storehouse
 4350.001|noun|der Zuhörer|audience (pl)
-4351.001|verb|beschweren|to weight
-4351.002|verb|beschweren|complain
-4352.001|verb|entgegenkommen|to meet
-4352.002|verb|entgegenkommen|accommodate
 4354.001|adverb|hinauf|upwards
 4357.001|adjective|mild|gentle
-4361.001|verb|vernehmen|to hear
-4361.002|verb|vernehmen|examine
-4361.003|verb|vernehmen|question
-4362.001|verb|erstrecken (sich)|include
-4366.001|verb|vortragen|perform
 4370.001|noun|die Überprüfung|screening
 4370.002|noun|die Überprüfung|check
 4370.003|noun|die Überprüfung|inspection
@@ -2002,51 +867,28 @@
 4380.002|adjective|glänzend|brilliant
 4384.001|noun|der Stich|bite
 4385.001|noun|die Variation|kind
-4388.001|verb|haften|to adhere
-4388.002|verb|haften|be liable
-4390.001|verb|irren (sich)|be wrong
-4392.001|verb|verfallen|deteriorate
-4392.002|verb|verfallen|expire
 4393.001|adjective|vorzeitig|premature
-4394.001|verb|ansiedeln|establish
-4397.001|verb|einsehen|to see
-4397.002|verb|einsehen|realize
-4397.003|verb|einsehen|look into
 4401.001|noun|die Kulisse|setting
 4401.002|noun|die Kulisse|scenery
 4403.001|adjective|nachvollziehbar|transparent
 4404.001|adjective|spürbar|perceptible
 4406.001|noun|die Arbeitskraft|manpower
 4408.001|noun|die Gemeinsamkeit|commonality
-4413.001|verb|fügen (sich)|defer to
-4413.002|verb|fügen (sich)|resign oneself to
 4418.001|adjective|solide|sound
 4421.001|noun|die Anmerkung|comment
 4423.001|noun|die Ausrichtung|orientation
-4424.001|verb|auswerten|assess
-4425.001|verb|ersparen|to save
-4427.001|verb|nachkommen|come later
-4427.002|verb|nachkommen|come after
 4431.001|noun|die Haft|confinement
 4437.001|adjective|unerträglich|intolerable
-4438.001|verb|zerreißen|to tear (up
-4438.002|verb|zerreißen|to pieces)
-4449.001|verb|unterstreichen|to underline
 4451.001|noun|die Bande|mob
 4451.002|noun|die Bande|clique
 4454.001|noun|die Besetzung|occupation
 4454.002|noun|die Besetzung|line-up
 4455.001|noun|das Bündel|bunch
-4456.001|verb|dämpfen|dim
 4463.001|noun|die Siedlung|estate
 4465.001|noun|die Stellungnahme|opinion
 4469.001|adjective|voraussichtlich|presumable
-4470.001|verb|würdigen|pay tribute
 4472.001|noun|der Abfall|trash
-4482.001|verb|eintreffen|come true
-4482.002|verb|eintreffen|happen
 4484.001|noun|der Nachwuchs|new generation
-4485.001|verb|plädieren|make one’s case
 4487.001|noun|die Ungleichheit|dissimilarity
 4488.001|noun|der Verteidiger|defense counsel
 4490.001|noun|der Halt|hold
@@ -2066,34 +908,17 @@
 4534.001|noun|der Autofahrer|motorist
 4540.001|noun|der Kongress|convention
 4542.001|adverb|nebeneinander|next to each other
-4546.001|verb|zerbrechen|shatter
 4554.001|adjective|nüchtern|with empty stomach
 4558.001|noun|das Zeugnis|report
 4558.002|noun|das Zeugnis|testimony
-4563.001|verb|eingeben|to enter
-4563.002|verb|eingeben|input
-4563.003|verb|eingeben|put in
 4566.001|noun|die Nervenzelle|neuron
 4567.001|adjective|überflüssig|superfluous
-4568.001|verb|einteilen|arrange
-4568.002|verb|einteilen|divide into
 4569.001|noun|die Feststellung|determination
-4570.001|verb|losfahren|to leave
-4570.002|verb|losfahren|depart
-4572.001|verb|schalten|shift
 4575.001|adjective|verbindlich|authoritative
-4584.001|verb|überholen|overhaul
-4585.001|verb|vorangehen|to precede
-4585.002|verb|vorangehen|lead (the way)
 4588.001|noun|die Finanzen|finance
 4590.001|noun|der Mist|manure
-4591.001|verb|münden|to join
-4591.002|verb|münden|meet
-4591.003|verb|münden|flow into
 4594.001|noun|die Premiere|opening night
 4598.001|noun|der Staatsanwalt|district attorney
-4601.001|verb|vorbeugen|to bend over
-4601.002|verb|vorbeugen|lean forward
 4603.001|noun|die Annäherung|approach
 4603.002|noun|die Annäherung|approximation
 4605.001|noun|das Exemplar|piece
@@ -2102,70 +927,31 @@
 4608.003|noun|der Müll|rubbish
 4611.001|adjective|fließend|fluent
 4611.002|adjective|fließend|fluid
-4619.001|verb|läuten|toll
 4623.001|noun|der Rasen|grass
-4624.001|verb|verwirklichen|to fulfill
-4624.002|verb|verwirklichen|realize
-4624.003|verb|verwirklichen|turn into reality
-4625.001|verb|befestigen|to fix
-4625.002|verb|befestigen|attach
-4625.003|verb|befestigen|fasten
-4629.001|verb|erschüttern|shock
 4632.001|noun|die Kabine|booth
-4637.001|verb|übernachten|spend the night
-4637.002|verb|übernachten|sleep over
-4642.001|verb|besiegen|beat
 4644.001|adverb|derweil|while
 4650.001|noun|die Behauptung|statement
-4656.001|verb|operieren|perform surgery
-4657.001|verb|stechen|prick
-4657.002|verb|stechen|stab
-4661.001|verb|verwechseln|mix up
-4664.001|verb|hervorbringen|produce
-4664.002|verb|hervorbringen|bring forth
-4666.001|verb|knüpfen|to tie
-4666.002|verb|knüpfen|knot
-4666.003|verb|knüpfen|establish
-4668.001|verb|nachlassen|decline
-4668.002|verb|nachlassen|let up
 4671.001|adverb|bestens|optimally
 4673.001|noun|die Etage|level
 4673.002|noun|die Etage|story
 4674.001|noun|die Fachhochschule|technical college
 4678.001|noun|der Mythos|legend
-4682.001|verb|verabreden|make an appointment
 4685.001|adjective|familiär|family
 4685.002|adjective|familiär|close
 4686.001|noun|die Reichweite|reach
-4690.001|verb|vertiefen|consolidate
-4690.002|verb|vertiefen|engross
 4692.001|noun|die Ausstattung|facilities
 4692.002|noun|die Ausstattung|furnishings
-4693.001|verb|begünstigen|benefit
 4696.001|noun|die Verbindlichkeit|obligation
 4696.002|noun|die Verbindlichkeit|liability
-4697.001|verb|vorantreiben|to further
-4697.002|verb|vorantreiben|promote
-4697.003|verb|vorantreiben|push forward
-4700.001|verb|abgrenzen|differentiate
-4700.002|verb|abgrenzen|distance
 4701.001|noun|die Aufwendung|expense
 4701.002|noun|die Aufwendung|use
-4702.001|verb|ausdenken|to think of
-4702.002|verb|ausdenken|devise
-4702.003|verb|ausdenken|make up
 4705.001|noun|der Gesetzgeber|legislator
-4706.001|verb|koppeln|link
 4709.001|noun|die Verbreitung|dissemination
 4709.002|noun|die Verbreitung|distribution
-4711.001|verb|austreten|leave
-4711.002|verb|austreten|leak out
 4715.001|noun|die Pension|pension
 4719.001|adverb|unterdessen|in the meantime
 4722.001|adjective|ausgesprochen|pronounced
 4722.002|adjective|ausgesprochen|expressed
-4723.001|verb|ausrufen|to page
-4723.002|verb|ausrufen|call out
 4731.001|noun|der Vertrieb|market
 4731.002|noun|der Vertrieb|sale
 4732.001|adjective|vornehm|fine
@@ -2174,13 +960,9 @@
 4747.001|noun|die Miene|face
 4747.002|noun|die Miene|look
 4750.001|adjective|pünktlich|punctual
-4755.001|verb|färben|to color
-4755.002|verb|färben|dye
 4756.001|noun|das Gutachten|(expert) opinion
 4757.001|noun|der Kämpfer|combatant
 4758.001|noun|das Klo|john
-4766.001|verb|ähneln|to be similar
-4766.002|verb|ähneln|resemble
 4767.001|noun|der Beleg|proof
 4767.002|noun|der Beleg|evidence
 4768.001|noun|die Blase|bladder
@@ -2189,189 +971,106 @@
 4771.002|noun|der Oberbürgermeister|lord mayor
 4775.001|noun|die Jagd|chase
 4776.001|noun|die Puppe|puppet
-4778.001|verb|stolpern|to trip
-4778.002|verb|stolpern|stumble
 4779.001|adverb|zeitweise|temporarily
 4779.002|adverb|zeitweise|for a while
-4780.001|verb|zuschreiben|to accredit
-4780.002|verb|zuschreiben|attribute
 4782.001|noun|der Bundesstaat|confederation
 4784.001|noun|die Fusion|fusion
-4785.001|verb|glänzen|glisten
-4792.001|verb|abgehen|to come off
-4792.002|verb|abgehen|go off
-4792.003|verb|abgehen|exit
-4792.004|verb|abgehen|leave
 4794.001|adjective|beweglich|mobile
 4795.001|noun|der Fachbereich|field
 4798.001|noun|der Moderator|moderator
 4798.002|noun|der Moderator|presenter
 4799.001|noun|die Mütze|hat
 4801.001|noun|die Realisierung|realization
-4804.001|verb|wiedergeben|reproduce
-4805.001|verb|ausdehnen|to extend
 4808.001|noun|der Einbruch|break-in
 4808.002|noun|der Einbruch|slump
 4808.003|noun|der Einbruch|decline
-4817.001|verb|weiterentwickeln|refine
 4819.001|noun|der Zerfall|disintegration
 4819.002|noun|der Zerfall|collapse
 4820.001|noun|der Zweig|twig
 4823.001|noun|die Erregung|thrill
 4823.002|noun|die Erregung|agitation
 4830.001|noun|die Verarbeitung|finishing
-4832.001|verb|zusammenbrechen|break down
-4834.001|verb|ausnutzen|take advantage of
 4839.001|noun|die Konjunktur|economic situation
-4840.001|verb|spannen|to stretch
-4840.002|verb|spannen|tighten
-4842.001|verb|sprengen|blow up
 4845.001|noun|der Affe|ape
 4847.001|noun|die Festlegung|specification
 4847.002|noun|die Festlegung|fixing
 4848.001|noun|das Forum|audience
 4848.002|noun|das Forum|public discussion
-4858.001|verb|zerlegen|take apart
-4860.001|verb|antreffen|to find
-4860.002|verb|antreffen|encounter
-4860.003|verb|antreffen|meet
 4861.001|noun|der Apparat|gadget
-4862.001|verb|auslegen|to lay out
-4862.002|verb|auslegen|design
-4862.003|verb|auslegen|interpret
 4863.001|noun|der Betrachter|observer
 4865.001|adjective|nachträglich|subsequent
 4865.002|adjective|nachträglich|retrospective
 4869.001|noun|der Strauß|bunch
 4869.002|noun|der Strauß|ostrich
-4875.001|verb|einbinden|to involve
-4877.001|verb|gießen|pour
-4879.001|verb|kassieren|take the money
 4881.001|noun|die Korrektur|adjustment
-4884.001|verb|schreiten|to stride
-4884.002|verb|schreiten|pace
-4884.003|verb|schreiten|tread
-4886.001|verb|thematisieren|to broach the issue
-4886.002|verb|thematisieren|make a subject of discussion
 4890.001|noun|die Altstadt|historical center
 4891.001|noun|das Denkmal|memorial
-4892.001|verb|einordnen|rank
-4892.002|verb|einordnen|get in lane
 4894.001|adjective|frühzeitig|premature
-4896.001|verb|glühen|smolder
 4904.001|noun|der Begleiter|attendant
-4906.001|verb|einholen|to pull in
-4906.002|verb|einholen|catch up
 4912.001|noun|der Pfad|trail
 4915.001|noun|die Teilung|division
 4915.002|noun|die Teilung|partition
 4924.001|noun|die Bekämpfung|control
 4928.001|noun|die Dose|tin
-4929.001|verb|erwecken|awaken
-4931.001|verb|mustern|to eye
-4931.002|verb|mustern|examine
-4931.003|verb|mustern|inspect
 4934.001|adjective|ungleich|dissimilar
-4936.001|verb|abschalten|turn off
-4937.001|verb|blättern|to turn
-4937.002|verb|blättern|flip
-4937.003|verb|blättern|browse
 4938.001|adjective|brav|good
-4940.001|verb|ergehen|be enacted
 4941.001|noun|der Gesang|vocals
 4942.001|noun|das Hilfsmittel|means
 4942.002|noun|das Hilfsmittel|aid
-4943.001|verb|verstoßen|to repudiate
-4943.002|verb|verstoßen|trespass
 4947.001|noun|das Brett|plank
 4950.001|noun|das Getreide|cereal
-4953.001|verb|zurückliegen|be in the past
-4953.002|verb|zurückliegen|trail
-4956.001|verb|aufziehen|rear
-4956.002|verb|aufziehen|wind (up)
 4959.001|noun|das Fell|coat
 4959.002|noun|das Fell|skin
-4960.001|verb|mitspielen|to play
-4960.002|verb|mitspielen|join in
-4963.001|verb|verzeihen|excuse
-4964.001|verb|anstoßen|initiate
 4965.001|noun|der Einkauf|purchase
-4966.001|verb|erlassen|issue
 4967.001|noun|die Erstellung|creation
 4968.001|noun|das Fass|keg
 4970.001|noun|der Landsmann|fellow countryman
 4975.001|noun|der Spielraum|scope
 4975.002|noun|der Spielraum|wiggle room
 4977.001|noun|der Trost|comfort
-4978.001|verb|zuschlagen|slam
-4979.001|verb|behindern|impede
 4982.001|noun|die Größenordnung|scale
 4982.002|noun|die Größenordnung|size
-4983.001|verb|hinfahren|drive there
 4985.001|adjective|östlich|east
 4986.001|noun|der Reiter|horseman
-4987.001|verb|spinnen|be crazy
 4988.001|noun|das Trinken|drink
-4989.001|verb|verkehren|consort
-4990.001|verb|verwundern|amaze
-4990.002|verb|verwundern|astonish
 4991.001|adjective|zulässig|permissible
 4991.002|adjective|zulässig|acceptable
 4993.001|adjective|ausgezeichnet|outstanding
 4998.001|noun|der Irrtum|misconception
 5000.001|noun|das Kissen|cushion
 5003.001|noun|die Übereinstimmung|match
-5005.001|verb|veranlassen|to arrange
-5005.002|verb|veranlassen|cause
-5005.003|verb|veranlassen|initiate
 5006.001|noun|die Vorgehensweise|approach
-5009.001|verb|ausstrahlen|to radiate
-5009.002|verb|ausstrahlen|broadcast
-5010.001|verb|beeinträchtigen|impair
 5012.001|adjective|gläubig|religious
-5013.001|verb|heilen|cure
 5014.001|noun|die Kündigung|cancellation
 5014.002|noun|die Kündigung|notice
 5019.001|adverb|eigens|especially
 5020.001|noun|die Ergänzung|addition
-5029.001|verb|einstufen|rate
-5029.002|verb|einstufen|rank
 5039.001|adverb|zuweilen|occasionally
 5039.002|adverb|zuweilen|from time to time
 5040.001|noun|die Abnahme|decrease
 5040.002|noun|die Abnahme|decline
 5040.003|noun|die Abnahme|removal
 5043.001|pronoun|irgendjemand|someone
-5045.001|verb|nachgeben|indulge
-5045.002|verb|nachgeben|cave in
 5049.001|noun|der Ausschnitt|section
 5049.002|noun|der Ausschnitt|extract
 5049.003|noun|der Ausschnitt|neckline
-5055.001|verb|tasten|feel
-5058.001|verb|zusammenhalten|to hold together
-5058.002|verb|zusammenhalten|stick together
 5061.001|noun|der Ausblick|outlook
 5061.002|noun|der Ausblick|forecast
 5071.001|noun|der Verweis|reprimand
 5073.001|noun|die Beachtung|attention
 5073.002|noun|die Beachtung|consideration
-5075.001|verb|bescheren|to bring
-5075.002|verb|bescheren|bestow
 5081.001|noun|die Neigung|tendency
 5081.002|noun|die Neigung|slope
 5081.003|noun|die Neigung|incline
 5083.001|noun|der Ofen|furnace
 5089.001|noun|die Weiterentwicklung|advancement
 5090.001|noun|der Zorn|wrath
-5091.001|verb|beschwören|swear to
 5097.001|noun|die Offenheit|candor
 5100.001|noun|die Fassung|composure
 5100.002|noun|die Fassung|socket
-5101.001|verb|fertigen|manufacture
 5102.001|adverb|halbwegs|reasonably
 5102.002|adverb|halbwegs|partially
 5104.001|noun|das Präparat|preparation
 5105.001|noun|die Rettung|salvation
 5107.001|noun|die Tablette|pill
-5108.001|verb|verdecken|hide
 5111.001|adjective|zuversichtlich|hopeful
