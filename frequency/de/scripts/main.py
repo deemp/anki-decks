@@ -10,6 +10,14 @@ os.chdir(f'{os.environ["ROOT_DIR"]}/frequency/de')
 FREQUENCY_CUTOFF_1 = 1700
 FREQUENCY_CUTOFF_2 = 3400
 
+
+def normalize_index(df: pd.DataFrame):
+    def go(index_val: float):
+        return index_val if index_val % 1 != 0 else f"{int(index_val)}"
+
+    df.index = df.index.map(go)
+
+
 # %%
 
 
@@ -36,7 +44,7 @@ def partition_deck_data():
 
     check_deck_data(deck=deck_full)
 
-    deck_full.index = deck_full.index.map(lambda x: x if x % 1 != 0 else f"{int(x)}")
+    normalize_index(deck_full)
 
     frequency_rank = deck_full["frequency_rank"]
 
@@ -184,3 +192,86 @@ def reorder_not_all_meanings():
 
 
 reorder_not_all_meanings()
+
+
+# %%
+
+
+def cmp(x, y):
+    if x < y:
+        return -1
+    elif x > y:
+        return 1
+    else:
+        return 0
+
+
+def leq(x, y):
+
+    if int(x) != int(y):
+        return cmp(x, y)
+
+    x = round(x % 1, 6)
+    y = round(y % 1, 6)
+
+    if x == 0 or y == 0:
+        return cmp(x, y)
+
+    while x < 1 and y < 1:
+        x *= 10
+        y *= 10
+
+    if x >= 1 and y >= 1:
+        return cmp(x, y)
+    else:
+        return cmp(y, x)
+
+
+print(
+    [
+        leq(2.003, 1.002),
+        leq(2.001, 2.002),
+        leq(2.001, 2.001),
+        leq(2.001, 2.0002),
+        leq(2.00132, 2.00130),
+        leq(2.00132, 2.00132),
+        leq(2.00132, 2.00135),
+    ]
+)
+
+# %%
+
+from functools import cmp_to_key
+
+
+def copy_good_examples():
+    path_good_sentences = "de-en/data/translations-without-example-good-sentences.csv"
+    deck_good_sentences = pd.read_csv(path_good_sentences, sep="|", index_col=0)
+
+    path = "de-en/deck.csv"
+    deck = pd.read_csv(path, sep="|", index_col=0)
+
+    deck_good_sentences = deck_good_sentences.drop(columns=["part_of_speech"])
+    deck_matching_good_sentences = pd.DataFrame(
+        deck.iloc[deck_good_sentences.index.map(int)]
+    )
+
+    deck_matching_good_sentences.index = deck_good_sentences.index
+
+    deck_matching_good_sentences.loc[
+        :, ["word_de", "sentence_de", "word_en", "sentence_en"]
+    ] = deck_good_sentences.loc[:, ["word_de", "sentence_de", "word_en", "sentence_en"]]
+
+    deck_updated = pd.concat([deck, deck_matching_good_sentences])
+
+    sorted_index = pd.Index(sorted(deck_updated.index, key=cmp_to_key(leq)))
+
+    deck_updated_sorted = deck_updated.reindex(sorted_index)
+
+    normalize_index(deck_updated_sorted)
+
+    deck_updated_sorted.to_csv(path, sep="|")
+
+
+copy_good_examples()
+# deck_good_sentences.loc["part_of_speech"]
