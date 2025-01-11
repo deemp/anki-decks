@@ -253,14 +253,7 @@ def copy_good_examples():
 
     deck_good_sentences = deck_good_sentences.drop(columns=["part_of_speech"])
 
-    skipped_indices = [
-        174,
-        251,
-        667,
-        702,
-        720,
-        727,
-    ]
+    skipped_indices = [87, 174, 251, 667, 702, 720, 727, 1727]
 
     mismatches = pd.Index(
         [
@@ -309,6 +302,10 @@ def copy_good_examples():
     deck_updated = pd.concat([deck, deck_matching_good_sentences])
 
     sorted_index = pd.Index(sorted(deck_updated.index, key=cmp_to_key(leq)))
+
+    if not sorted_index[sorted_index.duplicated()].empty:
+        display(sorted_index[sorted_index.duplicated()])
+        raise Exception("Duplicates!")
 
     deck_updated_sorted = deck_updated.reindex(sorted_index)
 
