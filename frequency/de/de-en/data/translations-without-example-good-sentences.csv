@@ -1,1 +1,271 @@
 |part_of_speech|word_de|word_en|sentence_de|sentence_en
+1.002|pronoun|der|those|Der Mann, der dort steht, ist mein Bruder.|The man, those who stand there, is my brother.
+7.001|article|ein|an|Ein Apfel liegt auf dem Tisch.|An apple lies on the table.
+44.001|preposition|bei|by|Ich war bei meiner Tante zu Besuch.|I was by my aunt's place for a visit.
+48.002|pronoun|man|they|Man sagt, dass das Wetter morgen besser wird.|They say that the weather will improve tomorrow.
+87.002|adjective|Jemand der Große (z.B., Alexander der Große)|Someone the Great (e.g., Alexander the Great)|Jemand der Große wohnte hier vor langer Zeit.|Someone the Great lived here a long time ago.
+106.001|noun|das Mal|mark|Ich habe das Mal auf der Wand bemerkt.|I noticed the mark on the wall.
+131.001|pronoun|wenige|little|Ich habe wenig Zeit für Hobbys.|I have little time for hobbies.
+162.001|preposition|seit|since|Ich wohne hier, seit ich fünf bin.|I have lived here since I was five years old.
+163.001|adjective|einfach|easy|Dieser Kuchen ist einfach zu machen.|This cake is easy to make.
+172.001|adverb|natürlich|naturally|Es regnet natürlich oft im Herbst.|It naturally rains often in autumn.
+176.002|adjective|gleich|just|Er kam gleich nach dem Mittagessen.|He came just after lunch.
+186.004|pronoun|dazu|of that|Dazu gibt es noch viele andere Beispiele.|There are many other examples of that.
+186.005|pronoun|dazu|furthermore|Die Arbeit ist schwer, dazu schlecht bezahlt.|The work is hard; furthermore, poorly paid.
+187.001|adjective|eigentlich|real|Die eigentliche Todesursache ist unbekannt.|The actual cause of death is unknown.
+215.001|preposition|während|while|Er las ein Buch, während sie schlief.|He read a book while she slept.
+217.001|pronoun|dafür|for that|Ich bin nicht dafür verantwortlich.|I am not responsible for that.
+231.002|adjective|schön|nice|Das war nicht schön von dir.|That was not nice of you.
+241.001|adverb|eben|exactly|Eben diese Schuhe wollte ich kaufen.|These are exactly the shoes I wanted to buy.
+265.001|noun|der Weg|way|Der Weg zum Erfolg ist nie einfach.|The way to success is never easy.
+270.001|adverb|allerdings|indeed|Das ist allerdings eine gute Frage.|That is indeed a good question.
+270.002|adverb|allerdings|certainly|Er wird allerdings kommen müssen.|He will certainly have to come.
+275.001|adverb|deshalb|therefore|Ich bin müde, deshalb gehe ich schlafen.|I am tired; therefore, I go to sleep.
+276.001|adverb|weit|widely|Die Nachricht wurde weit verbreitet.|The news was widely spread.
+287.001|noun|das Paar|pair|Das Paar sitzt zusammen auf der Bank.|The pair sits together on the bench.
+289.001|adjective|recht|(all) right|Ist es Ihnen recht, oder haben Sie Einwände?|Is that all right with you, or do you have any objections?
+289.002|adjective|recht|be fine (with)|Mir ist es recht, wenn du das entscheidest.|I’m fine with you deciding that.
+290.001|noun|das Recht|law|Das Recht schützt alle Bürger.|The law protects all citizens.
+305.001|noun|die Aufgabe|assignment|Die Aufgabe für heute ist sehr interessant.|The assignment for today is very interesting.
+306.001|adjective|schwer|difficult|Es ist schwer, Abschied zu nehmen.|It’s difficult to say goodbye.
+329.001|adverb|überhaupt|even|Verstehst du, was das überhaupt bedeutet?|Do you understand what that even means?
+342.001|conjunction|beziehungsweise (bzw.)|respectively|Ich und er essen Apfel bzw. Birne.|He and I eat an apple and a pear, respectively.
+363.001|adjective|leicht|easy|Die Metapher ist leicht verständlich.|The metaphor is easy to understand.
+364.001|adverb|je|ever|Hast du je ein solches Bild gesehen?|Have you ever seen such a picture?
+375.001|adverb|eher|sooner|Ich komme eher, wenn es möglich ist.|I will come sooner if possible.
+375.002|adverb|eher|earlier|Ich kam eher als geplant nach Hause.|I came home earlier than planned.
+375.003|adverb|eher|more likely|Es ist eher ein Fehler als Absicht.|It is more likely a mistake than intent.
+378.001|adverb|nachts|nights|Nachts sind die Straßen ruhig.|At night, the streets are quiet.
+394.001|adjective|tatsächlich|real|Wir kannten seine tatsächliche Absicht nicht.|We didn’t know his real intention.
+395.002|noun|der Ort|location|Der Ort der Veranstaltung ist geheim.|The location of the event is secret.
+404.001|pronoun|mehrere|multiple|Mehrere Menschen standen draußen beim Haus.|Multiple people stood outside near the house.
+408.001|adjective|direkt|straight|Der direkte Weg ist der kürzeste.|The straight path is the shortest.
+409.001|pronoun|daher|from there|Daher kommen viele meiner besten Freunde.|Many of my best friends come from there.
+409.002|pronoun|daher|therefore|Ich war müde, daher ging ich schlafen.|I was tired; therefore, I went to sleep.
+434.001|noun|die Möglichkeit|chance|Die Möglichkeit eines Gewinns war gering.|The chance of winning was low.
+481.001|particle|nämlich|namely|Ich mag Filme, nämlich Abenteuerfilme.|I like movies, namely adventure films.
+487.001|noun|die Folge|result|Die Folge war nicht abzusehen.|The result was unforeseeable.
+490.001|noun|die Verbindung|link|Er sah die Verbindung zwischen den Ideen.|He saw the connection between the ideas.
+503.001|noun|die Grenze|frontier|Die Grenze war für den Verkehr geschlossen.|The frontier was closed to traffic.
+522.001|pronoun|dadurch|through it|Dadurch konnte sie das Zimmer betreten.|Through it, she was able to enter the room.
+522.002|pronoun|dadurch|as a consequence|Er verschlief und kam dadurch zu spät.|He overslept and, as a consequence, was late.
+524.001|noun|die Weise|manner|Er antwortete auf eine höfliche Weise.|He responded in a polite manner.
+534.001|particle|halt|simply|Das ist halt so, mach dir keine Sorgen.|That's simply how it is, don't worry.
+550.001|adjective|wahrscheinlich|likely|Die wahrscheinliche Farbe des Autos ist rot.|The likely color of the car is red.
+551.001|adverb|wahrscheinlich|likely|Er nimmt wahrscheinlich die Einladung an.|He is likely to accept the invitation.
+578.001|noun|die Menge|quantity|Die Menge an Informationen war überwältigend.|The quantity of information was overwhelming.
+579.001|noun|die Regierung|rule|Die Regierung von Dschingis Khan war brutal.|The rule of Genghis Khan was brutal.
+580.001|noun|die Antwort|reply|Er gab keine Antwort auf die Frage.|He gave no reply to the question.
+583.001|noun|der Zusammenhang|connection|Der Zusammenhang der Schritte ist logisch.|The connection of the steps is logical.
+600.002|adverb|zudem|besides|Zudem haben wir keine weiteren Informationen.|Besides, we have no further information.
+613.001|noun|die Lage|location|Die Lage ist strategisch wichtig.|The location is strategically important.
+625.004|adjective|fest|firmly|Der Vertrag ist jetzt fest vereinbart.|The contract is now firmly agreed upon.
+625.005|adjective|fest|strong|Der Baum hat einen fest verankerten Stamm.|The tree has a strong anchored trunk.
+625.006|adjective|fest|solid|Der Tisch ist aus festem Holz gebaut.|The table is made of solid wood.
+625.0051|adjective|fest|strong|Er hat eine feste Meinung zu diesem Thema.|He has a strong opinion on this topic.
+627.001|noun|der Begriff|concept|Ein vertrauter Begriff wurde neu definiert.|A familiar concept was redefined.
+638.001|adjective|schwierig|hard|Der Aufstieg auf den Gipfel war schwierig.|The climb to the summit was hard.
+664.002|adverb|ziemlich|pretty|Es war ziemlich kalt gestern Abend.|It was pretty cold last night.
+667.002|adverb|wobei|whereby|Er sagte nichts, wobei er alles wusste.|He said nothing, whereby he knew everything.
+698.001|adverb|gleichzeitig|at the same time|Er kocht und schaut gleichzeitig Fernsehen.|He cooks and watches TV at the same time.
+699.001|adjective|knapp|slim|Das Budget ist für dieses Projekt knapp.|The budget is slim for this project.
+710.001|noun|die Beziehung|relation|Die Beziehung zwischen den beiden war eng.|The relation between the two was close.
+715.002|noun|das Auftreten|conduct|Sein Auftreten war immer sehr höflich.|His conduct was always very polite.
+715.003|noun|das Auftreten|occurrence|Das Auftreten von Fehlern war minimal.|The occurrence of errors was minimal.
+723.001|adjective|wesentlich|fundamental|Die wesentlichen Ziele wurden erreicht.|The fundamental goals were achieved.
+726.002|adverb|zuletzt|most recently|Zuletzt haben wir uns im Sommer gesehen.|We saw each other most recently in summer.
+727.001|adjective|rein|purely|Das ist rein technisch nicht möglich.|That is purely technically not possible.
+729.001|conjunction|indem|while|Indem er las, lernte er neue Wörter.|While reading, he learned new words.
+735.001|adverb|beispielsweise|such as|Er mag Obst, beispielsweise Äpfel.|He likes fruit, such as apples.
+736.001|noun|die Bedingung|stipulation|Die Bedingung war schwer zu erfüllen.|The stipulation was hard to fulfill.
+748.001|adjective|echt|really|Das war ein echt spannender Film gestern.|That was a really exciting movie yesterday.
+748.002|adjective|echt|real|Er hat einen echten Diamanten gekauft.|He bought a real diamond.
+755.002|noun|die Folie|foil|Die Aluminiumfolie schützt die Oberfläche.|The aluminium foil protects the surface.
+772.001|noun|die Bewegung|motion|Die Bewegung des Zuges war sehr sanft.|The motion of the train was very smooth.
+776.001|preposition|aufgrund|on the basis of|Aufgrund der Beweise wurde er freigesprochen.|On the basis of the evidence, he was acquitted.
+782.001|noun|das Angebot|supply|Das Angebot auf dem Markt ist begrenzt.|The supply in the market is limited.
+801.002|noun|die Reihe|line|Er stand in der ersten Reihe des Publikums.|He stood in the first line of the audience.
+805.002|adverb|bloß|simply|Ich wollte bloß wissen, ob du kommst.|I simply wanted to know if you’re coming.
+809.001|adjective|wirtschaftlich|financial|Wirtschaftliche Risiken wurden bewertet.|Financial risks were assessed.
+813.001|adverb|deswegen|therefore|Deswegen konnten wir nicht pünktlich kommen.|Therefore, we couldn’t arrive on time.
+817.003|noun|der Rahmen|framework|Der Rahmen der Tür ist aus Stahl gefertigt.|The framework of the door is made of steel.
+832.001|noun|der Anteil|portion|Ein großer Anteil der Arbeit ist erledigt.|A large portion of the work is done.
+833.001|noun|die Angabe|statement|Manche Angaben in dem Bericht waren unklar.|Some statements in the report were unclear.
+845.0001|noun|der Einsatz|Einsatzgruppe|Die Nazi-Einsatzgruppen ermorderten Juden.|The Nazi Einsatzgruppen murdered Jews.
+845.001|noun|der Einsatz|insert|Der Eismaschineneinsatz ist aus Metall.|The ice cream maker insert is made of metal.
+845.001|noun|der Einsatz|mission|Der Einsatz war erfolgreich abgeschlossen.|The mission was successfully completed.
+845.003|noun|der Einsatz|operation|Der Einsatz der Feuerwehr löschte das Feuer.|The fire brigade operation extinguished the fire.
+848.001|noun|die Erde|ground|Die Erde unter den Füßen war feucht.|The ground beneath the feet was moist.
+857.001|adverb|somit|consequently|Er gewann, somit war er der Champion.|He won, consequently, he was the champion.
+857.002|adverb|somit|therefore|Die Aufgabe ist erledigt, somit ist er frei.|The task is done; therefore, he is free.
+881.001|adjective|speziell|specific|Ein spezieller Fokus lag auf den Details.|A specific focus was on the details.
+890.001|adjective|absolut|absolute(ly)|Das ist absolut korrekt, was du sagst.|That is absolutely correct, what you say.
+890.002|adjective|absolut|complete(ly)|Das war eine absolut fantastische Leistung.|That was an absolutely fantastic performance.
+923.002|adverb|durchaus|absolutely|Ich finde das durchaus unglaublich.|I find that absolutely incredible.
+927.001|adjective|fremd|foreign|Fremde Studenten nahmen am Austausch teil.|Foreign students participated in the exchange.
+929.001|noun|der Fehler|mistake|Dieser Fehler hätte vermieden werden können.|This mistake could have been avoided.
+930.001|adverb|mittlerweile|since then|Mittlerweile hat sich alles geändert.|Since then, everything has changed.
+977.001|adjective|wissenschaftlich|scholarly|Wissenschaftliche Quellen wurden zitiert.|Scholarly sources were cited.
+980.001|noun|die Bindung|attachment|Er fühlte eine tiefe Bindung zu seinem Hund.|He felt a deep attachment to his dog.
+985.003|noun|der Abschnitt|passage|Der Abschnitt war schwer zu lesen.|The passage was hard to read.
+989.001|adjective|übrig|remaining|Es war nur wenig übrig geblieben.|There was only little remaining.
+1000.002|adverb|es ist egal|indifferent|Für ihn ist es egal, wer recht hat.|He is indifferent about who is right.
+1002.001|noun|der Berg|hill|Wir wanderten den ganzen Tag auf dem Berg.|We hiked on the hill all day.
+1008.001|noun|die Sicht|view|Die Sicht vom Balkon aus war spektakulär.|The view from the balcony was spectacular.
+1024.001|noun|das Tor|gate|Das Tor zum Schloss war riesig.|The gate to the castle was giant.
+1025.001|noun|der Betrieb|business|Der Betrieb läuft sehr erfolgreich.|The business runs very successfully.
+1029.001|noun|die Klasse|classroom|Die Klasse war hell und modern eingerichtet.|The classroom was bright and modernly furnished.
+1029.002|noun|die Klasse|grade|Er lernt in der fünften Klasse.|He is in the fifth grade.
+1033.001|adverb|weg|vanished|Das Problem ist jetzt vollständig weg.|The problem has completely vanished now.
+1035.002|noun|der Absatz (Abs.)|section|Lesen Sie den nächsten Absatz im Buch.|Read the next section in the book.
+1035.003|noun|der Absatz (Abs.)|sales|Die monatlichen Absätze steigen stetig an.|The monthly sales are steadily increasing.
+1035.004|noun|der Absatz (Abs.)|paragraph|Lies den ersten Absatz im Text genau durch.|Read the first paragraph in the text carefully.
+1038.001|noun|der Ausdruck|term|Dieser Ausdruck ist in der Mathematik üblich.|This term is common in mathematics.
+1040.001|adjective|toll|terrific|Das Konzert gestern Abend war wirklich toll.|The concert last night was truly terrific.
+1044.001|noun|der Chef|head|Der Chef der Firma ist sehr erfahren.|The head of the company is very experienced.
+1044.002|noun|der Chef|leader|Der Chef der Expedition war mutig.|The leader of the expedition was brave.
+1048.001|noun|die Tabelle|chart|Die Tabelle zeigt die Ergebnisse der Umfrage.|The chart shows the results of the survey.
+1051.001|noun|der Hinweis|instruction|Die Hinweise sind deutlich geschrieben.|The instructions are clearly written.
+1058.001|noun|die Ruhe|peace|Er fand Ruhe in der Stille seines Zimmers.|He found peace in the silence of his room.
+1059.001|noun|die Darstellung|description|Ihre Darstellung des Cafés war nostalgisch.|Her description of the café was nostalgic.
+1059.002|noun|die Darstellung|depiction|Die Darstellung der Fabrikhalle war genau.|The depiction of the factory hall was precise.
+1060.001|adjective|ruhig|quiet|Das Kind blieb während der Reise ruhig.|The child stayed quiet during the trip.
+1063.001|993|verb|behandeln|behandeln, behandelt, behandelte, hat behandelt|Der Bericht behandelt spezielle Fragen.|to treat, address|to address|The report addresses specific questions.|verb|In diesem Krankenhaus werden viele Patienten behandelt.|Many patients are treated in this hospital.
+1069.002|noun|der Sprecher|speaker|Der Sprecher erklärte die neuen Regeln.|The speaker explained the new rules.
+1071.001|noun|die Kritik|review|Die Kritik des Films war überwiegend positiv.|The review of the movie was mostly positive.
+1076.002|adverb|wiederum|in turn|Er dankte ihr, und sie wiederum lächelte.|He thanked her, and she in turn smiled.
+1078.001|adverb|hinaus|beyond|Er blickte hinaus auf das offene Meer.|He looked beyond at the open sea.
+1085.001|noun|die Diskussion|debate|Die Diskussion über das Thema war intensiv.|The debate about the topic was intense.
+1088.001|noun|die Bevölkerung|people|Die Bevölkerung der Stadt wächst stetig.|The population of the city is steadily growing.
+1091.001|adjective|total|complete|Die totale Dunkelheit war beängstigend.|The complete darkness was frightening.
+1095.001|noun|das Band|tape|Das Band war von schlechter Qualität.|The tape was of poor quality.
+1096.001|noun|der Band|tome|Der Band der Enzyklopädie ist alt.|The tome of the encyclopedia is old.
+1098.001|pronoun|darunter|under it|Es gibt einen Keller darunter im Haus.|There is a cellar under it in the house.
+1099.001|pronoun|diejenige|the one (who)|Diejenige, die gewinnt, bekommt einen Preis.|The one who wins gets a prize.
+1099.002|pronoun|diejenige|that|Diejenige Wohnung ist eindeutig besser.|That apartment is clearly better.
+1100.001|noun|der Wald|woods|Der Wald ist dicht und voller Wildtiere.|The woods are dense and full of wildlife.
+1102.001|noun|der Schluss|conclusion|Der düstere Schluss des Films war unerwartet.|The grim conclusion of the film was unexpected.
+1103.001|adverb|anschließend|subsequent|Die anschließende Montage war einfach.|The subsequent assembly was simple.
+1108.001|noun|der Beruf|occupation|Er hat einen Beruf gewählt, der ihn erfüllt.|He chose an occupation that fulfills him.
+1108.002|noun|der Beruf|job|Der Beruf des Lehrers erfordert viel Geduld.|The job of a teacher requires a lot of patience.
+1109.001|noun|der Ansatz|attempt|Der erste Ansatz scheiterte schnell.|The first attempt failed quickly.
+1113.001|noun|die Küche|cuisine|Die italienische Küche ist weltweit beliebt.|The Italian cuisine is popular worldwide.
+1143.002|noun|der Rest|remainder|Der Rest des Kuchens wurde später gegessen.|The remainder of the cake was eaten later.
+1146.001|adjective|dick|fat|Das Buch ist sehr dick und schwer zu tragen.|The book is very fat and heavy to carry.
+1147.001|adjective|riesig|huge|Das Haus ist riesig und hat viele Zimmer.|The house is huge and has many rooms.
+1147.002|adjective|riesig|great|Das war ein riesiger Erfolg für das Team.|That was a great success for the team.
+1147.003|adjective|riesig|tremendous|Die Stadt hat einen riesigen Park.|The city has a tremendous park.
+1147.004|adjective|riesig|giant|Ein riesiger Baum stand im Garten.|A giant tree stood in the garden.
+1147.005|adjective|riesig|massive|Die riesige Brücke überspannt den Fluss.|The massive bridge spans the river.
+1147.006|adjective|riesig|humongous|Ein riesiger Berg ragte vor uns auf.|A humongous mountain loomed before us.
+1148.001|adjective|heutig|present-day|Die heutige Technologie verändert die Welt.|The present-day technology is changing the world.
+1153.001|preposition|per|by|Die Bestellung wird per E-Mail bestätigt.|The order will be confirmed by email.
+1155.001|adverb|her|from (something)|Die Stimme kam von weit her zu uns.|The voice came from far away to us.
+1163.001|noun|der Aufbau|structure|Der Aufbau des Hauses ist stabil.|The structure of the house is stable.
+1170.001|noun|die Macht|strength|Die Macht des Wissens ist unbegrenzt.|The power of knowledge is unlimited.
+1180.001|noun|die Quelle|spring|Die Quelle im Wald liefert klares Wasser.|The spring in the forest provides clear water.
+1182.001|noun|das Gebiet|region|Das Gebiet ist bekannt für seinen Weinbau.|The region is known for its vineyards.
+1182.002|noun|das Gebiet|territory|Das Gebiet wird von der Regierung geschützt.|The territory is protected by the government.
+1183.001|noun|die Behörde|department|Die Behörde arbeitet an neuen Regeln.|The department works on new regulations.
+1190.001|pronoun|irgendein|any|Hast du irgendein Buch, das ich lesen könnte?|Do you have any book I could read?
+1192.001|pronoun|irgendetwas|anything|Hast du irgendetwas Spannendes gefunden?|Did you find anything exciting?
+1194.002|noun|das Vertrauen|faith|Mein Vertrauen in die Wissenschaft ist hoch.|The faith in science is high.
+1198.001|adjective|unmittelbar|direct|Der Unfall hatte unmittelbare Folgen.|The accident had immediate consequences.
+1199.001|noun|der Bund|association|Der Bund hat neue Regeln verabschiedet.|The association passed new rules.
+1199.002|noun|der Bund|bunch|Ein Bund Karotten liegt auf dem Küchentisch.|A bunch of carrots is on the kitchen table.
+1205.001|noun|die Krankheit|illness|Die Krankheit verbreitet sich schnell.|The illness spreads quickly.
+1210.001|noun|der Zeitpunkt|(point in) time|Der Zeitpunkt für das Meeting steht fest.|The time for the meeting is set.
+1212.001|noun|der Gang|aisle|Der Gang zwischen den Regalen ist sehr eng.|The aisle between the shelves is very narrow.
+1212.002|noun|der Gang|course|Das Abendessen bestand aus drei Gängen.|The dinner consisted of three courses.
+1231.001|noun|der Haushalt|budget|Der Haushalt der Familie ist knapp.|The budget of the family is tight.
+1235.001|noun|der Gegensatz|opposite|Im Gegensatz zu ihr war er sehr optimistisch.|In opposite to her, he was very optimistic.
+1240.001|adjective|leise|soft|Die leise Musik beruhigte die Gäste im Raum.|The soft music calmed the guests in the room.
+1243.001|adverb|heraus|out|Der Hund sprang schnell heraus.|The dog jumped quickly out.
+1244.001|conjunction|falls|in case|Falls du Hilfe brauchst, ruf mich einfach an.|Call me in case you need help.
+1248.001|noun|die Ausbildung|education|Die Berufsausbildung begann nach der Schule.|The vocational education began after school.
+1249.001|noun|der Wagen|carriage|Der Wagen war mit Blumen geschmückt.|The carriage was decorated with flowers.
+1252.001|noun|die Tat|action|Die Tat des Helden wurde von allen bewundert.|The action of the hero was admired by everyone.
+1255.001|noun|der Stein|rock|Der Stein am Strand war glatt und glänzend.|The rock on the beach was smooth and shiny.
+1257.001|adjective|mittlere|average|Die mittlere Größe passt dir am besten.|The average size suits you best.
+1260.001|noun|das Konzept|idea|Das Konzept für die Ausstellung ist kreativ.|The idea for the exhibit is creative.
+1260.002|noun|das Konzept|plan|Das Konzept wurde in der Sitzung diskutiert.|The plan was discussed in the meeting.
+1263.001|noun|die Spur|lane|Eine Spur auf der Autobahn wurde gesperrt.|One lane on the highway was closed.
+1267.001|adjective|staatlich|government|Die staatliche Förderung wurde bewilligt.|The government funding was approved.
+1267.002|adjective|staatlich|state|Die staatliche Einrichtung erhält zusätzliche Mittel.|The state institution receives additional funds.
+1279.001|noun|der Kern|seed|Der Kern der Frucht ist essbar.|The seed of the fruit is edible.
+1279.002|noun|der Kern|main focus|Der Kern der Diskussion war die Finanzierung.|The main focus of the discussion was the funding.
+1279.003|noun|der Kern|main focus|Der Kern der Studie ist die Datenauswertung.|The main focus of the study is data analysis.
+1290.001|noun|die Forderung|claim|Ihre Forderung nach das Haus wurde abgelehnt.|Her claim to the house was rejected.
+1292.001|noun|die Nachricht|message|Ich habe eine wichtige Nachricht für dich.|I have an important message for you.
+1332.001|noun|die Anwendung|use|Die Anwendung der Methode brachte Resultate.|The use of the method was successful.
+1340.001|adjective|dicht|thick|Der Nebel war so dicht, dass man nichts sah.|The fog was so thick that you couldn’t see anything.
+1343.001|noun|die Technik|technique|Die neue Technik spart viel Energie.|The new technique saves a lot of energy.
+1344.001|noun|das Blatt|sheet|Ein Blatt Papier liegt auf dem Schreibtisch.|A sheet of paper lies on the desk.
+1351.001|noun|der Fußball|soccer ball|Der Fußball lag mitten auf dem Feld.|The soccer ball lay in the middle of the field.
+1367.001|noun|das Gericht|dish|Das Gericht schmeckte allen Gästen gut.|The dish tasted good to all the guests.
+1367.001|noun|das Gericht|dish|Das Gericht war einfach, aber lecker.|The dish was simple but tasty.
+1375.001|noun|das Leid|grief|Das Leid der Menschen war unermesslich.|The grief of the people was immense.
+1376.001|adjective|still|quiet|Der Raum war still, als er sprach.|The room was quiet when he spoke.
+1380.001|noun|die Heimat|home|Er kehrte nach Jahren in seine Heimat zurück.|He returned to his home after years away.
+1397.001|adjective|krank|ill|Sie blieb im Bett, da sie krank war.|She stayed in bed because she was ill.
+1398.001|noun|die Fähigkeit|capability|Die Fähigkeit zu helfen ist wichtig.|The capability to help is important.
+1402.001|noun|die Änderung|modification|Die Änderung des Plans war notwendig.|The modification of the plan was necessary.
+1402.002|noun|die Änderung|alteration|Die Änderungen im Vertrag wurden genehmigt.|The alterations in the contract were approved.
+1405.002|adjective|selbstverständlich|self-evident|Es ist selbstverständlich, anderen zu helfen.|It is self-evident to help others.
+1405.003|adjective|selbstverständlich|obvious|Das ist eine selbstverständliche Tatsache.|That is an obvious fact.
+1414.001|noun|der Zentimeter (cm)|cm|Der Tisch ist genau 120 cm lang.|The table is exactly 120 cm long.
+1416.001|noun|die Ahnung|suspicion|Ich hatte keine Ahnung von seinen Plänen.|I had no suspicion of his plans.
+1427.001|noun|die Abgeordnete|congress|Die Abgeordneten stimmten über das Gesetz ab.|The congress voted on the law.
+1437.001|noun|die Gewalt|force|Die Gewalt des Sturms war erschreckend.|The force of the storm was terrifying.
+1444.001|noun|das Publikum|public|Das Publikum applaudierte laut nach der Rede.|The public applauded loudly after the speech.
+1464.001|adjective|herzlich|cordial|Wir bedanken uns herzlich für die Einladung.|We offer our cordial thanks for the invitation.
+1469.001|noun|das Amt|department|Das Amt bearbeitet die Anträge zügig.|The department processes the applications promptly.
+1469.002|noun|das Amt|function|Er übernahm ein wichtiges Amt im Unternehmen.|He took on an important function in the company.
+1474.001|noun|das Studium|study|Das Studium der Medizin dauert viele Jahre.|The study of medicine takes many years.
+1479.002|noun|die Aufnahme|snapshot|Die Aufnahme zeigt den Moment perfekt ein.|The snapshot captures the moment perfectly.
+1487.001|adjective|hell|light|Das Zimmer war hell und freundlich gestaltet.|The room was designed to be light and welcoming.
+1491.001|noun|die Bahn|railway|Die Bahn führt direkt in die Innenstadt.|The railway leads directly to the city center.
+1491.002|noun|die Bahn|way|Die Bahn zur Spitze des Berges war steinig.|The way to the top of the mountain was rocky.
+1628.001|noun|der Kurs|exchange rate|Der Kurs des Dollars ist gestiegen.|The exchange rate of the dollar has risen.
+1629.001|adverb|einst|at one time|Einst war das Schloss bewohnt.|At one time, the castle was inhabited.
+1629.002|adverb|einst|one day|Einst werde ich meine Träume verwirklichen.|One day, I will realize my dreams.
+1637.001|noun|der Dienst|duty|Er hatte heute Nacht Dienst im Krankenhaus.|He was on duty at the hospital last night.
+1638.001|noun|das Lager|storeroom|Das Lager ist voll mit neuen Waren.|The storeroom is full of new goods.
+1640.001|preposition|anhand|with the aid of|Anhand der Karte fanden wir den Weg leicht.|With the aid of the map, we easily found the way.
+1645.001|adjective|freundlich|kind|Er ist immer freundlich zu seinen Kollegen.|He is always kind to his colleagues.
+1645.002|adjective|freundlich|nice|Das Wetter war freundlich und angenehm warm.|The weather was nice and pleasantly warm.
+1647.001|adjective|reich|abundant|Das Land ist reich an Bodenschätzen.|The country is abundant in natural resources.
+1648.001|noun|die Fahrt|trip|Die Fahrt zum Strand dauerte nur eine Stunde.|The trip to the beach took just an hour.
+1652.001|adjective|fern|far|Das Ziel war fern, aber erreichbar.|The goal was far but reachable.
+1653.001|noun|die Gegend|area|Die Gegend ist voller schöner Felder.|The area is full of beautiful fields.
+1658.001|noun|die AfD (Alternative für Deutschland)|Alternative für Deutschland|Die AfD ist eine rechtspopulistische Partei.|The AfD is a right-wing populist party.
+1666.001|noun|die Bestimmung|purpose|Die Bestimmung des Geräts ist klar definiert.|The purpose of the device is clearly defined.
+1666.002|noun|die Bestimmung|fate|Seine Bestimmung führte ihn weit weg.|His fate led him far away.
+1671.001|noun|der Hals|neck|Der Schal hält den Hals im Winter warm.|The scarf keeps the neck warm in winter.
+1675.001|noun|die Scheiße|crap|Diese alte Maschine ist völlige Scheiße.|This old machine is complete crap.
+1679.001|noun|der Bau|building|Der Bau des neuen Hauses ist fast fertig.|The building of the new house is almost done.
+1689.001|noun|die Fläche|surface|Die Spiegelfläche reflektiert das Licht.|The mirror surface reflects light.
+1696.001|noun|der Umgang|interaction|Der Umgang mit Technik wird immer einfacher.|Interaction with technology is becoming easier.
+1698.001|noun|der Lehrstuhl|chair|Der Lehrstuhl wird bald neu besetzt.|The chair will soon be filled anew.
+1700.001|noun|der Vorschlag|proposal|Sein Vorschlag wurde gut angenommen.|His proposal was well received.
+1702.001|adjective|entfernt|away|Das Dorf liegt weit entfernt von der Stadt.|The village is far away from the city.
+1716.001|noun|die Spannung|tension|Die Spannung im Raum war spürbar.|The tension in the room was palpable.
+1719.001|noun|das Bad|bath|Nach dem Sport nahm er ein Bad.|After exercising, he took a bath.
+1719.002|noun|das Bad|spa|Im Bad gibt es eine Sauna und Massagen.|The spa has a sauna and massages.
+1723.001|adjective|vorsichtig|careful|Sei vorsichtig mit den zerbrechlichen Herzen.|Be careful with the fragile hearts.
+1727.001|noun|die Spitze|tip|Die Spitze des Messers ist sehr scharf.|The tip of the knife is very sharp.
+1727.0001|noun|die Spitzenlast|peak load|Die Spitzenlast überforderte das Stromnetz.|The peak load overwhelmed the power grid.
+1727.002|noun|die Spitze|top|Die Spitze des Berges war mit Schnee bedeckt.|The top of the mountain was covered in snow.
+1728.001|noun|das Gerät|tool|Das Gerät erleichtert die Arbeit erheblich.|The tool makes the work significantly easier.
+1728.002|noun|das Gerät|piece of equipment|Das Gerät funktioniert einwandfrei.|The piece of equipment works flawlessly.
+1737.001|noun|das Reich|kingdom|Das Reich erstreckte sich über viele Länder.|The kingdom spanned many countries.
+1744.001|noun|der Ton|sound|Der Ton des Radios war verzerrt.|The sound of the radio was distorted.
+1744.002|noun|der Ton|clay|Die Vase war aus Ton hergestellt.|The vase was crafted from clay.
+1750.001|noun|die Tätigkeit|work|Seine Tätigkeit war sehr abwechslungsreich.|His work was very diverse.
+1751.001|noun|die Landschaft|countryside|Die Landschaft ist malerisch schön.|The countryside is picturesque.
+1753.001|noun|der Arbeitsplatz|job|Sein Arbeitsplatz liegt in der Stadt.|His job is located in the city.
+1763.001|noun|die Schicht|class|Die untere Schicht der Gesellschaft leidet.|The lower class of society suffers.
+1763.001|noun|die Schicht|shift|Die Schicht beginnt um sechs Uhr.|The shift begins at six o'clock.
+1773.001|noun|die Führung|management|Die Führung des Unternehmens war innovativ.|The management of the company was innovative.
+1773.002|noun|die Führung|command|Der Kapitän übernahm die Führung des Teams.|The captain took over the leadership of the team.
+1782.001|noun|der Ministerpräsident|governor|Der Ministerpräsident sprach über die Krise.|The governor spoke about the crisis.
