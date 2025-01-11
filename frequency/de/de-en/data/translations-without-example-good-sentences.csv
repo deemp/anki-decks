@@ -3,7 +3,7 @@
 7.001|article|ein|an|Ein Apfel liegt auf dem Tisch.|An apple lies on the table.
 44.001|preposition|bei|by|Ich war bei meiner Tante zu Besuch.|I was by my aunt's place for a visit.
 48.002|pronoun|man|they|Man sagt, dass das Wetter morgen besser wird.|They say that the weather will improve tomorrow.
-87.002|adjective|Jemand der Große (z.B., Alexander der Große)|Someone the Great (e.g., Alexander the Great)|Jemand der Große wohnte hier vor langer Zeit.|Someone the Great lived here a long time ago.
+87.0001|adjective|Jemand der Große (z.B., Alexander der Große)|Someone the Great (e.g., Alexander the Great)|Jemand der Große wohnte hier vor langer Zeit.|Someone the Great lived here a long time ago.
 106.001|noun|das Mal|mark|Ich habe das Mal auf der Wand bemerkt.|I noticed the mark on the wall.
 131.001|pronoun|wenige|little|Ich habe wenig Zeit für Hobbys.|I have little time for hobbies.
 162.001|preposition|seit|since|Ich wohne hier, seit ich fünf bin.|I have lived here since I was five years old.
@@ -40,7 +40,6 @@
 395.002|noun|der Ort|location|Der Ort der Veranstaltung ist geheim.|The location of the event is secret.
 404.001|pronoun|mehrere|multiple|Mehrere Menschen standen draußen beim Haus.|Multiple people stood outside near the house.
 408.001|adjective|direkt|straight|Der direkte Weg ist der kürzeste.|The straight path is the shortest.
-409.001|pronoun|daher|from there|Daher kommen viele meiner besten Freunde.|Many of my best friends come from there.
 409.002|pronoun|daher|therefore|Ich war müde, daher ging ich schlafen.|I was tired; therefore, I went to sleep.
 434.001|noun|die Möglichkeit|chance|Die Möglichkeit eines Gewinns war gering.|The chance of winning was low.
 481.001|particle|nämlich|namely|Ich mag Filme, nämlich Abenteuerfilme.|I like movies, namely adventure films.
@@ -93,8 +92,9 @@
 833.001|noun|die Angabe|statement|Manche Angaben in dem Bericht waren unklar.|Some statements in the report were unclear.
 845.0001|noun|der Einsatz|Einsatzgruppe|Die Nazi-Einsatzgruppen ermorderten Juden.|The Nazi Einsatzgruppen murdered Jews.
 845.001|noun|der Einsatz|insert|Der Eismaschineneinsatz ist aus Metall.|The ice cream maker insert is made of metal.
-845.001|noun|der Einsatz|mission|Der Einsatz war erfolgreich abgeschlossen.|The mission was successfully completed.
+845.002|noun|der Einsatz|mission|Der Einsatz war erfolgreich abgeschlossen.|The mission was successfully completed.
 845.003|noun|der Einsatz|operation|Der Einsatz der Feuerwehr löschte das Feuer.|The fire brigade operation extinguished the fire.
+845.004|noun|der Einsatz|use|Alle Fahrzeuge sind im Einsatz.|All vehicles are in use.
 848.001|noun|die Erde|ground|Die Erde unter den Füßen war feucht.|The ground beneath the feet was moist.
 857.001|adverb|somit|consequently|Er gewann, somit war er der Champion.|He won, consequently, he was the champion.
 857.002|adverb|somit|therefore|Die Aufgabe ist erledigt, somit ist er frei.|The task is done; therefore, he is free.
@@ -203,7 +203,6 @@
 1344.001|noun|das Blatt|sheet|Ein Blatt Papier liegt auf dem Schreibtisch.|A sheet of paper lies on the desk.
 1351.001|noun|der Fußball|soccer ball|Der Fußball lag mitten auf dem Feld.|The soccer ball lay in the middle of the field.
 1367.001|noun|das Gericht|dish|Das Gericht schmeckte allen Gästen gut.|The dish tasted good to all the guests.
-1367.001|noun|das Gericht|dish|Das Gericht war einfach, aber lecker.|The dish was simple but tasty.
 1375.001|noun|das Leid|grief|Das Leid der Menschen war unermesslich.|The grief of the people was immense.
 1376.001|adjective|still|quiet|Der Raum war still, als er sprach.|The room was quiet when he spoke.
 1380.001|noun|die Heimat|home|Er kehrte nach Jahren in seine Heimat zurück.|He returned to his home after years away.
@@ -265,7 +264,7 @@
 1751.001|noun|die Landschaft|countryside|Die Landschaft ist malerisch schön.|The countryside is picturesque.
 1753.001|noun|der Arbeitsplatz|job|Sein Arbeitsplatz liegt in der Stadt.|His job is located in the city.
 1763.001|noun|die Schicht|class|Die untere Schicht der Gesellschaft leidet.|The lower class of society suffers.
-1763.001|noun|die Schicht|shift|Die Schicht beginnt um sechs Uhr.|The shift begins at six o'clock.
+1763.002|noun|die Schicht|shift|Die Schicht beginnt um sechs Uhr.|The shift begins at six o'clock.
 1773.001|noun|die Führung|management|Die Führung des Unternehmens war innovativ.|The management of the company was innovative.
 1773.002|noun|die Führung|command|Der Kapitän übernahm die Führung des Teams.|The captain took over the leadership of the team.
 1782.001|noun|der Ministerpräsident|governor|Der Ministerpräsident sprach über die Krise.|The governor spoke about the crisis.
