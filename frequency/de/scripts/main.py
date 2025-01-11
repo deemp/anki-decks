@@ -360,3 +360,26 @@ def check_meanings_have_the_same_word_de():
 
 
 check_meanings_have_the_same_word_de()
+
+# %%
+
+
+def check_verbs_have_to_prefix():
+    path = "de-en/deck.csv"
+    deck = pd.read_csv(path, sep="|", index_col=0)
+
+    bad_verbs = deck[
+        (deck["part_of_speech"] == "verb")
+        & deck["word_en"].map(lambda x: not str(x).startswith("to"))
+    ]
+
+    skipped_indices = [34, 59, 78]
+
+    display(
+        bad_verbs.loc[
+            [idx for idx in bad_verbs.index if int(idx) not in skipped_indices]
+        ]
+    )
+
+
+check_verbs_have_to_prefix()
