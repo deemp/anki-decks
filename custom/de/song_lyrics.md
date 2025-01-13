@@ -7766,3 +7766,1544 @@ Für Deutschland reichts
 Für Deutschland reichts
 
 ## Monsters Of Liedermaching | Das Schaf
+
+## Hasenscheisse | Hätte, hätte, hätte
+
+Hätte, Hätte, Hätte ist ein vielbenutztes Wort
+Ein flotter Spruch, ein süßer Traum, ein Trick, ein sehr beliebter Sport
+Ick hätt' dit Loch ja jern gebuddelt
+Aber ick hatte keene Schippe
+Ick hätt' den Kampf bestimmt jewonnen
+Aber ick hatte die Grippe
+
+Hätte, Hätte, Hätte
+Dit klebt wie eine Klette
+In der Kommunikation
+Und nährt die süße Illusion
+
+Neulich war Angelina Jolie in meiner Stadt
+Sie stand da anner' Pommesbude, ick hab se' einfach anjequatsch
+Wir ham' dann stundenlang palavert, Kuss heißt auf englisch Kiss
+Sie meinte ick wär voll der Held und das Brad Pitt ne Pfeife ist
+Als sie mich nachts besuchen wollte, lag ick leider schon im Bette
+Und hab die Kieselsteine die se an mein Fenster jeschmissen hat nicht gehört
+*NEIN*
+Ach, Hätte, hätte, hätte ich doch noch nen Buch gelesen, aber
+Wahrscheinlich hatt' ick keens parat
+Wieso lag ich den Tag überhaupt so früh im Bette
+Is' doch sonst nicht meine Art
+
+Hätte, Hätte, Hätte
+Dit klebt wie eine Klette
+In der Kommunikation
+Und nährt die süße Illusion
+You might also like
+So wie der Strauß
+Hasenscheisse
+Bernd Am Grill
+Hasenscheisse
+Last Christmas
+Wham!
+Zwei pubertierende Punker, sitzen zurechtgemacht am Tresen
+Der eene wird nostalgisch: "Mensch, ich wär' so gerne damals in England mit dabei jewesen
+Hätten meine Eltern nicht früher"
+NE, schreib dir dit hinter die Ohren
+Der Punk ist tot, aber wenn du willst dann wird er jeden Tag neugeborn'
+Ohohohohoh, hätte, hätte, hätte, ick werd hier noch bekloppt
+Heut ist heute vorwärts, marsch Gitarre raus und losgerockt
+
+Hätt' ick Birnen einjeweckt, dann hätt' ick jetzt Kompott
+Hätte ick die Welt erschaffen, dann wär icke jetze Gott
+Ach, hätte, hätte, hätte, ich die Fukushimaaktien mehr verkauft
+Dann wär jetzt allet prima
+
+Hätten wir früher mehr trainiert, dann wär'n wir jetzt noch fit
+Wir wären eine sexy Boygroup, dieses Lied vielleicht ein Hit
+Wir hätten längst ein Haus am See, so'n Grundstück hat sonst keener
+Peter Fox wär unser Nachbar, nur: Seine Hütte wär viel kleener
+
+Skit:
+"Peter sag mal wat is' denn eigentlich diesjahr da mit deinen Orangenbäumen passiert, die sehen irgendwie bisschen mikrig aus, findest de' nicht? Haste' irgendwat falsch jemacht! Und dann als du den ersten Tag da in deinen Schuppen rübergestolpert bist, ick dachte du jehst auf's Klo, aber du wohnst da ja. Naja, jeder wie er will"
+
+Hätte, Hätte, Hätte
+Dit klebt wie eine Klette
+In der Kommunikation
+Und nährt die süße Illusion
+Ick halte dieses hätte, hätte, für ein Gerücht
+Ick glaube das das Wort, nicht hält was et verspricht
+Trotzdem hab ick mich mit hätte schon ziemlich oft liebkost
+Denn die verpatzte Chance bleibt uns als lebenslanger Trost
+Denn die verpatzte Chance bleibt uns als lebenslanger Trost
+Denn die verpatzte Chance bleibt uns als lebenslanger Trost
+Denn die verpatzte Chance bleibt uns als lebenslanger Trost
+
+Manch einer denkt er hat versagt, und ertränkt sein' Frust im Suff
+Aber hätte, hätte ist der Anker
+Eigentlich, ham' wat alle druff'
+
+## Jan Böhmermann | Faschismus is back
+
+[Intro]
+Schau mich nicht so lüstern an
+Blaues Balkendiagramm
+Warum machst du mich so geil
+Oh, blutroter Deutschlandpfeil?
+Uns geht's doch gut
+Uns geht's doch sehr gut
+
+[Strophe 1]
+DAX auf Rekordhoch, brandneue Chino
+Afterwork-Austern (Tze), Gigi D'Agostino
+Wir haben doch, wir haben doch, wir haben doch von gar nichts gewusst
+Nicht links und nicht rechts (Ah-ah), gegen Zensur (Nah)
+Geht's hier raus oder rein in die Diktatur?
+Schau, schau, Sugar, aus unsrer Freiheit wird Gewalt
+Der Milliardär, der Milliardär, der Milliardär, der Milliardär zahlt
+Sei nicht so kritisch, sei nicht immer so politisch, no, no
+
+[Pre-Refrain]
+Wer was hat, ist was
+Wer nichts hat, ist nichts
+Wer nichts ist, kann weg
+
+[Refrain]
+Faschismus ist back (Aha), und keiner hat's kommen seh'n (Oh)
+Faschismus ist back, noch immer radikal bequem
+Faschismus ist back, lass uns doch einfach nochmal probier'n
+Fasch-is-mus ist back, yeah, back, yeah (Was soll denn, was soll denn schon passier'n?)
+You might also like
+Die With A Smile
+Lady Gaga & Bruno Mars
+​Meer
+JEREMIAS
+Ich bring dir keine Blumen
+Dardan
+[Strophe 2]
+Vom Kopf auf die Füße, wir sind wieder wer (Aha)
+„Jedem das Seine“ ist schon so lange her
+Sylt, Sylt, Sylt, Sylt, Sylt ist ein Einzelfall
+Es gibt keine Gnade ab fünfzig Prozent
+So heiß und so braun (Tss), Baby, die Brandmauer brennt
+Hush, hush, Honey, hörst du, wie die Welt um uns zerbricht?
+Der starke Mann, der starke Mann, der starke Mann, der starke Mann spricht
+Hör auf zu fragen, lass uns endlich Menschen jagen, yeah, yeah
+
+[Pre-Refrain]
+Wer deutsch ist, bestimmt
+Wer nicht deutsch ist: raus
+Wer deutsch ist, bestimm' ich
+
+[Refrain]
+Faschismus ist back, oh, und keiner hat's kommen seh'n
+Faschismus ist back, noch immer radikal bequem
+Faschismus ist back, huch, wie konnte denn das passier'n?
+Fasch-is-mus ist back, yeah, back, yeah (Wir war'n doch, wir war'n doch demonstrier'n)
+
+[Bridge]
+Wuff, wuff
+Wuff
+
+[Strophe 3]
+Fünfhundertsechzig Hundejahre sinnlos diskutiert (Uhh)
+Dass aus Verseh'n Faschismus uns nicht noch einmal passiert
+Doch Wörter sind wie Köpfe (Aha), ganz einfach zu verdreh'n (Yeah, yeah)
+Vor lauter Angst vor unsrem Mut hab'n wir's nicht kommen wollen seh'n (Sing it)
+Wenn Freiheit was bedeutet, dann das Recht haben soll'n (Gimme more)
+Den Leuten zu erzählen, was sie nicht hören woll'n (Sing it)
+[Refrain]
+Faschismus ist back (Ja-ja), und keiner hat's kommen seh'n (Aha)
+Faschismus ist back (Aha), wer sich beschwert, ist linksextrem
+Faschismus ist back (Ist back), huch, wie konnte denn das passier'n?
+Fasch-is-mus ist back, yeah, back, yeah (Die war'n doch, die war'n doch demonstrier'n)
+Faschismus ist back (Wouh), und wir hab'n Spaß dabei (Let's dance)
+Faschismus ist back, wir sind schließlich nicht gemeint (Give me your hand)
+Faschismus ist back, genug jetzt mit Debattier'n (Aha)
+Fasch-is-mus ist back, yeah, back, yeah (Man muss sich, man muss sich arrangier'n)
+
+## Liedfett | Körperliche Selbstverteidigung
+
+Ich geh mit meiner Flasche
+Und dem Korken vom Wein den Berg hinauf
+Und gib ihm zu verstehen ich kann mit dir allein sein
+Die Blockwärter dürfen uns nicht zusammen sehen
+Oh du rote Schönheit bist hier nicht erwünscht
+Lass meine Fahne für dich wehen
+Wenn sie dreht dann bin ich weg
+Nur du bleibst da
+Bleib wie du bist, Fähnchen im Wind, Fels in der Brandung, ist egal
+Ich nenn das körperliche Selbstverteidigung
+Wenn wir uns verstecken, Schluck für Schluck unserem Schmerz entkommen
+Ich nenn das körperliche Selbstverteidigung
+Wenn wir uns verstecken, Schluck für Schluck unserem Schmerz entkommen
+Sind das Scherben von nem alten Glas?
+Ich hab aufgehört zu trauern doch am Trinken hab ich Spaß
+Und das bleibt so, denn ich kann ja frei entscheiden
+Ob ich mich bestrafe oder mit gezähmten Monstern spiel im Gras
+Ich steh mit Schleife auf'm Kopf und mutters Kuchen in der Hand
+Vor deiner Tür denn es ist kalt und ich krieg ziemlichen Brand
+Ich brauch die Hilfe nich, ich komm sehr gut alleine klar
+Bin einfach da weil du dich freust und die flaschenfreie Zone birgt Gefahr
+Ich nenn das körperliche Selbstverteidigung
+Wenn wir uns verstecken, Schluck für Schluck unserem Schmerz entkommen
+Ich nenn das körperliche Selbstverteidigung
+Wenn wir uns verstecken, Schluck für Schluck unserem Schmerz entkommen
+Wir drehn die Heizung auf, lassen frische Luft rein
+Die Stille ist im Wald doch auch hier schaut manchmal rein
+Ich fürchte sie nicht mehr und genieße das Zusammensein
+Wir üben Selbstverteidigung, ein kurzer und ne Flasche Wein
+Ich pfeif so vor mich hin weils gute Laune macht
+Es pfeift sich wunderbar allein auch
+In dieser Nacht ich bügel mir selbstverständlich ordentlich einen rein
+Wenn du mich anrufst woll'n wir saufen gehen dann sag ich eher nein
+Wenn ich einmal traurig bin dann trink ich einen Korn
+Und wenn ich dann noch traurig bin dann trink ich noch nen Korn
+Und wenn ich dann noch traurig bin dann trink ich noch nen Korn
+Und wenn ich dann immernoch traurig bin dann mach ich das ganze von vorn
+Ich nenn das körperliche Selbstverteidigung
+Wenn wir uns verstecken, Schluck für Schluck unserem Schmerz entkommen
+Ich nenn das körperliche Selbstverteidigung
+Wenn wir uns verstecken, Schluck für Schluck unserem Schmerz entkommen
+
+## Das Lumpenpack | Klaus
+
+Klaus war wieder mal nicht brav
+Er hat etwas angestellt
+Mutti hatte gleich gesagt
+Heute gibt's kein Taschengeld
+Doch das hat nicht gezogen
+Klaus war nicht zu zügeln
+Sie fanden es zu oldschool
+Ihn einfach zu verprügeln
+Er saß auf der stillen Treppe
+Er sah oft den Schweigefuchs
+Doch all diese Sanktionen
+Haben nichts genutzt
+Er bekam drei Jahre Hausarrest
+Dazu nur Brot und Wasser
+Doch dann fanden sie ein Mittel
+Und das war deutlich krasser
+Und dann am nächsten Morgen
+Wollten sie ihn wecken
+Doch gab's zu ihrem Schrecken
+Dort nur Eines zu entdecken
+Klaus ist tot, Klaus ist tot
+Wegen Internetverbot
+Sie nahmen ihm das W-LAN
+Und er nahm sich das Leben
+Sie sahen ihn am Morgen
+In der Badewanne liegen
+Die Pulsadern war'n offen
+Er war leichenblass und blutleer
+Und all das ausschließlich
+Wegen verbotenem Computer
+Klaus
+Kein Twittern und kein Chatten
+Auch kein WhatsApp mehr
+Sein Statusfeld bei Facebook
+Stand viel zu lange leer
+Und auf seinem Farmville Feld
+Da verrottete das Korn
+Weil kein Mausklick es mehr mähte
+Weder hinten, weder vorn
+Und bei World of Warcraft
+Da verstarb sein Avatar
+Und das war besonders tragisch
+Weil er Level 70 war
+Doch um Selbstmord zu begehen
+Da muss schon schlimmeres passier'n
+Das Problem lag auf der Hand
+Worauf offline masturbier'n?
+Klaus ist tot, Klaus ist tot
+Wegen Internetverbot
+Sie nahmen ihm das W-LAN
+Und er nahm sich das Leben
+Sie sahen ihn am Morgen
+In der Badewanne liegen
+Die Pulsadern war'n offen
+Er war leichenblass und blutleer
+Und all das ausschließlich
+Wegen verbotenem Computer
+Dann stand er dort am Himmelstor
+Um darin einzuchecken
+Doch gab's zu seinem Schrecken
+Dort nur Eines zu entdecken
+Im Himmel gibt's kein Internet
+Im Himmel gibt's kein Internet
+Als er das sah hätt' er am liebsten sofort wieder ausgecheckt
+Nur Wolken und Apostel
+Nur Engel und Gesang
+Und nicht einmal sein iPhone 5
+Hatte hier Empfang
+Oh, im Himmel gibt's kein Internet
+Im Himmel gibt's kein Internet
+Kein Fernsehn und kein Radio
+Jesus spart sich GEZ
+Warum muss er in den Himmel?
+Er war doch kein frommer Christ
+Er wär lieber in der Hölle
+Weil die Hölle Hotspot ist
+Klaus ist tot, Klaus ist tot
+Wegen Internetverbot
+Sie nahmen ihm das W-LAN
+Und er nahm sich das Leben
+Man bezahlt für seine Sünden
+Klaus, so ist das eben
+
+## Heldmaschine | Collateral
+
+Ein Mann steht schützend vor dem Kinde
+Ach - wie gern er Frieden fände
+Die Salve löchert, dann klafft die Wund'
+Der Sohnemann versackt im Hintergrund
+Ein Mann spricht mutig in Uniform
+Er weiß was stimmt, denn er ist vorn
+Wir glauben dem Herrn General
+Wir sind ihm gleich - doch scheißegal!
+
+Collateral
+
+Es spritzt von Fleisch und von Gebeinen
+Wo Kreuz und Faden sich vereinen
+Der Finger zuckt mit Überschall
+Trifft er ins Ziel
+Collateral
+Collateral
+Collateral
+Collateral
+
+Das Wort - weich wie ein Seidenschal
+Doch birgt es harten Panzerstahl
+Wird Stahl zerfetzt, ein Volk zersetzt
+Nennt man das gerne mal
+
+Collateral
+You might also like
+Schwerelos
+Heldmaschine
+Heldmaschine
+Heldmaschine
+Last Christmas
+Wham!
+Es spritzt von Fleisch und von Gebeinen
+Wo Kreuz und Faden sich vereinen
+Der Finger zuckt mit Überschall
+Trifft er ins Ziel
+Collateral
+
+Es spritzt von Fleisch und von Gebeinen
+Wo Kreuz und Faden sich vereinen
+Der Finger zuckt mit Überschall
+Trifft er ins Ziel
+Collateral
+
+Wir hatten keine andere Wahl
+Die Freiheit kommt doch sonst zu fall
+Wen interessiert die Opferzahl?
+Ach - spielen Kinder überall?
+Ich tat nur, was man mir befahl...
+
+Es spritzt von Fleisch und von Gebeinen
+Wo Kreuz und Faden sich vereinen
+Der Finger zuckt mit Überschall
+Trifft er ins Ziel
+Collateral
+Collateral
+Collateral
+Collateral
+Collateral
+Es spritzt von Fleisch und von Gebeinen
+Wo Kreuz und Faden sich vereinen
+Der Finger zuckt mit Überschall
+Trifft er ins Ziel
+Collateral
+
+## Alligatoah | Alligatoah - Lady Gaga Remix
+
+[Intro: Alligatoah, Gaby Glockner & Peter "Tim" Carsten]
+Hallo? Hallo? Eine Pizza mit Schrauben, bitte...
+Kann nicht so weiter gehen, hier!
+Oh, meinst du wirklich der Terrorist war am Telefon? Bestimmt! Ach komm! Wie... Was sagst du, ein Terrorist?!
+
+[Part 1]
+Der Fuchs schaut auf, der Büffel gähnt
+Alligatoah hat sich zurück bequemt
+Und nein, ich bin nicht eilig gerannt
+Ich gehe nicht auf Klo, weil ich muss sondern weil ich es kann
+Ich trete auf in deinem Zimmer heute Abend
+Kein Problem! Man kann mich auch in Kinder Joy bezahlen
+Ich muss nicht wie du Mücken in die Menge lassen
+Damit wenigstens ein paar in die Hände klatschen
+Sag mir, warum ist der Maikäfer braun
+Und, warum nennst du dein Mic Eva Braun
+Mich fragt der Bulle, wie ich sein Genick aufbiss
+Ein Zauberer verrät seine Tricks auch nicht
+Ich komm in Sammeltaxen voller Angelsachsen
+Trotzdem müsst ihr nicht aus Mücken Elefanten machen
+Und, wenn der Terrorist mal wieder Fallobst grillt
+Ist das halb so wild also chillt!
+
+[Hook 1]
+Sag unseren Nam'n! Sag unseren Nam'n! Alligatoah!
+Heb deinen Arm, lass einen fahr'n, auf'm Dancefloor!
+Wir sind nicht blind, wir sind nicht taub
+Wir pusten Zigarettenrauch!
+Sag unseren Nam'n! Sag unseren Nam'n! Alligatoah!
+Alligatoah, Alligatoah (Alligatoah!)
+Alli-Alligatoah, Alli-Alligatoah (Yayeyeheah!)
+Alligatoah, Alligatoah (Das bin ich! Hihi!)
+Alli-Alligatoah, Alli-Alligatoah (Ahaha!)
+You might also like
+Family Matters
+Drake
+São Paulo
+The Weeknd & Anitta
+Risk
+Gracie Abrams
+[Part 2]
+Diese Musik ist für Viele schon ein Lebensgefühl
+Sie kommt aus beiden Boxen, denn ich bin ein Stereotyp
+Don Deagle macht die Drums auf der Kabeltrommel
+Trotzdem wird daraus ne atomare Bombe
+Er ist fly, ich bin sick und zusammen sind wir fleißig
+Kalli und Partner finden dich ein bisschen peinlich
+Denn du siezt deine Dudes, ich duz deine Sis
+Glaub nicht, dass du mit diesen Schuhen
+In meine Fußstapfen trittst
+Du möchtest mit den Terroristen Blutsbrüderschaft
+Doch du bist zu rüpelhaft, weil du in Schultüten kackst, Homie!
+Man hat dir nix in die Wiege gelegt
+Außer ein piepsendes Gerät, was explodiert, wenn du schläfst
+(Terrorstyle!) Ich komm mit toxischen Froschgiften
+Trotzdem hängst du mir am Rockzipfel du Schrottwichtel
+Außerdem bin ich ein großer Fan von Nosliw
+Oder vielleicht doch nicht... Wer weiß!
+
+[Hook 2]
+Sag unseren Nam'n! Sag unseren Nam'n! Alligatoah!
+Heb deinen Arm, lass einen fahr'n, auf'm Dancefloor!
+Wir sind nicht blind, wir sind nicht taub
+Wir pusten Zigarettenrauch!
+Sag unseren Nam'n! Sag unseren Nam'n! Alligatoah!
+Alligatoah, Alligatoah (Aber dicken Schwanz!)
+Alli-Alligatoah, Alli-Alligatoah (Fleisch im Gemüsefach!)
+Alligatoah, Alligatoah (Alli, Alli, Alli, Alli, Alli, Alli, Alli, Alli...)
+Alli-Alligatoah, Alli-Alligatoah
+[Part 3]
+Du siehst Kaliba alkoholisiert auf Dorffesten
+Pass auf dein Mädel auf er knabbert gern an Ohrläppchen
+Ich stell mich auf den Kopf und fülle mein Gehirn mit Blut
+Ich bin so gut man könnte denken ich bin wirklich gut (Krank!)
+Weil ich mit Leguanen Friedenspfeife rauch (Und?)
+Ich gieße einen Zaun (Und?) Ich liebe meine Frau (Uh!)
+Denn ich hab ne harte Schale doch darunter eine weiche Seite
+Dann wieder ne harte und dann kommen nur noch Eingeweide
+Tjaa... manchmal muss man nur durchs Schlüsselloch gucken
+(Penis!) Und dann weißt du, wir küssen doch Nutten
+Es ist Faulheit aber kommt die Frau meines Lebens
+Mach ich ausreichend täglich Bauch, Beine, Penis
+(Aber dick!) (Ro-man-tik!) Ich komm im Barkeeperstyle
+Wenn das Leben dir Zitronen gibt, dann blas mir doch einen
+Aber du bist nicht romantisch also halt die Schnauze
+Du alte Pflaume! (Was?)
+
+[Hook 3]
+Sag unseren Nam'n! Sag unseren Nam'n! Alligatoah!
+Heb deinen Arm, lass einen fahr'n, auf'm Dancefloor!
+Wir sind nicht blind, wir sind nicht taub
+Wir pusten Zigarettenrauch!
+Sag unseren Nam'n! Sag unseren Nam'n! Alligatoah!
+Alligatoah, Alligatoah (Kaliba, Don Deagle!)
+Alli-Alligatoah, Alli-Alligatoah (Kauft die CD!)
+Alligatoah, Alligatoah (Oho! Bitte!)
+Alli-Alligatoah, Alli-Alligatoah (Lalala!)
+[Outro: Alligatoah & Gaby Glockner]
+(Junge ist das windig hier, du. Ich muss dann mal wieder weg!)
+-Warum denn bloß?
+-Könnte doch sein, dass er keine Lust mehr hat den Terroristen zu spielen
+
+## Alligatoah | Hab ich recht
+
+Ah
+Argh, na hör mir auf du, da brauchen wir gar nicht von anfang'n
+Obwohl, doch
+Veganer (oder, oder?)
+Und immer diese Maut-Kontroll'n, wir hab'n die Schnauze voll
+Ganze sechs Euro kostet jetzt ein Nacht-Unterhemd
+Das sind 12 Mark oder 800 Yen
+Ich kann heute nicht (Achtung), "Ich werde vom System unterdrückt"
+Twitter ich und lehn mich zurück
+Denn seit meine Frau mich verließ, ist mir klar (jap)
+Die Politik hat versagt
+Die Medien lügen, aber ich durchschaue den Trick
+Wenn du mir sagst, ich soll nicht alles glauben, glaub ich dir nicht
+Ich gucke jeden Tag Fernsehen bis 20:04 Uhr
+Um drauf zu warten, dass es aufhört mich zu manipulier'n
+Wach doch auf
+Ich sag nur NSA, AKW, CDU, ARD und TKKG (TKKG)
+Und mit ernsten Worten sag ich meinem erstgeborenen
+"Banken waren cool, aber dann sind sie Kommerz geworden"
+Ich wiederhole mich nur ungern (wie bitte?)
+Ich wiederhole mich nur ungern (wie bitte?)
+Ich wiederhole mich nur ungern (wie bitte?)
+Ich wiederho-, ich wiederho-, ich wiederho-
+Was ist bloß mit den Behörden los? (Hab ich recht?)
+ACAB außer Sherlock Holmes (hab ich recht?)
+Wie weit gehen die da oben noch? (Hab ich recht?)
+ACAB außer Robo-Cop (hab ich recht?)
+Ich habe das Recht mich zu beschweren
+Ich kenn alle Gesetzeszeilen
+Außer das Recht zu schweigen (wie-wie-wie bitte?)
+Außer das Recht zu schweigen (wie-wie-wie bitte?)
+Jetzt mal ganz im Ernst: Obama (oder? Ja, oder? Ja)
+Und immer dieser 70er-Trend, ich bin ein friedlicher Mensch, aber
+Mörder sollten alle ein'n qualvollen Tod sterben (ja)
+Damit sie ihre Lektion lern'n (eh? Ja)
+Probier'n geht über studieren (isso)
+Ich hab jetzt fünf Jahre Politik probiert und Bücher gemieden
+Meine sachlichen Problemanalyse ergibt
+Bringt den Führungseinheiten endlich die Pyrokratie
+Gegen die Bull'n wird es Zeit, die Faust zu erheben
+Wenn sie noch einmal meinen Kindern das Rauchen verwehren
+Ja, ich habe ein Problem mit Autoritäten
+Ich kann es nicht buchstabier'n, denn ich vertrau keinen Lehrern
+"Für mich sind die Leute in Uniform tragen feiger Schmutz"
+Rufen ich und meine Freunde im schwarzen Einheitslook
+Kaliba69, ich ficke den Staat (ja)
+Doppelkorn und mindestens Triple-Moral (puk)
+Ich wiederhole mich nur ungern (wie bitte?)
+Ich wiederhole mich nur ungern (wie bitte?)
+Ich wiederhole mich nur ungern (wie bitte?)
+Ich wiederho-, ich weiderho-, ich wiederho-
+Was ist bloß mit den Behörden los? (Hab ich recht?)
+ACAB außer Sherlock Holmes (hab ich recht?)
+Wie weit gehen die da oben noch? (Hab ich recht?)
+ACAB außer Robo-Cop (hab ich recht?)
+Ich habe das Recht mich zu beschweren
+Ich kenn alle Gesetzeszeilen
+Außer das Recht zu schweigen (wie-wie-wie bitte?)
+Außer das Recht zu schweigen (wie-wie-wie bitte?)
+Und ich sag das nicht noch einmal
+Na gut, einmal noch
+Ich wiederhole mich nur ungern (wir sind dagegen)
+Ich wiederhole mich nur ungern (wir sind dagegen)
+Ich wiederhole mich nur ungern (ich wiederhole mich nur ungern)
+Ich wiederho-, ich wiederho-, ich wiederho-
+Ich wiederhole mich nur ungern (wie bitte?)
+Ich wiederhole mich nur ungern (wie bitte?)
+Ich wiederhole mich nur ungern (wie bitte?)
+Ich wiederho-, ich weiderho-, ich wiederho-
+Was ist bloß mit den Behörden los? (Hab ich recht?)
+ACAB außer Sherlock Holmes (hab ich recht?)
+Wie weit gehen die da oben noch? (Hab ich recht?)
+ACAB außer Robo-Cop (hab ich recht?)
+Ich habe das Recht mich zu beschweren
+Ich kenn alle Gesetzeszeilen
+Außer das Recht zu schweigen
+
+## Deine Cousine | Scheiß auf Ironie
+
+Du meinst du bist ein Feminist
+Ich glaub' du weißt nicht was das ist
+Nur weil man Frauen gerne leckt
+Ist das noch lange kein Respekt
+Hast gern die Fäden in der Hand
+Dein Ego Wodka vollgetankt
+Und deine Sprüche im Büro
+Ja klar, das sagt Mann halt mal so
+Für dich ist jede Frau verklemmt
+Die das nicht als Humor erkennt
+Dann sagst du, ey, mach dich mal locker
+Du nimmst das alles viel zu ernst
+Ey, ich scheiß auf Ironie
+Und sag's dir lieber ins Gesicht
+Dass du leider irgendwie
+Halt nur ein Arschloch bist
+Deine Witze check' ich nie
+Weil sie leider keine sind
+Ey, ich hab die Theorie
+Dass du ein Arschloch bist
+Du glaubst die Welt dreht sich um dich
+Doch du bist nur ein Chauvinist
+Und schubst dich eine von der Kante
+Nennst du sie gleich 'ne Schlampe
+Lesben gibt es für dich nicht
+Die ham' nur keinen abgekriegt
+Natürlich sagst du das im Spaß
+Is' klar weil du so dämlich lachst
+Dass schwul für dich ein Schimpfwort ist
+Das spricht Bände über dich
+Ich frag dich, wann ist ein Mann ein Mann
+Und du schaust mich nur komisch an
+Ey, ich scheiß auf Ironie
+Und sag's dir lieber ins Gesicht
+Dass du leider irgendwie
+Halt nur ein Arschloch bist
+Deine Witze check' ich nie
+Weil sie leider keine sind
+Ey, ich hab die Theorie
+Dass du ein Arschloch bist
+Leider nur ein Arschloch bist
+Ja, du hast bestimmt recht
+Und ich hab' einfach meine Tage
+Ja, du hast bestimmt recht
+Ich will ja doch nur mit dir schlafen
+Ich versuch's mit Ironie
+Weil dann alles leichter ist
+Trotzdem find' ich irgendwie
+Dass du ein Arschloch bist
+Hier hilft nicht mal Ironie
+Denn es ist halt wie es ist
+Du beweist die Theorie
+Dass du ein Arschloch bist
+Einfach nur ein Arschloch bist
+Ein A A A A Arschloch bist
+Leider nur ein Arschloch bist
+Ein Arschloch bist
+
+## OK KID | Gute Menschen
+
+Ich seh nur gute Menschen
+Überall nur gute Menschen
+Alles ist einfach, bist du einfach gestrickt
+Kein Knoten im Kopf, nur ein Faden am Genick
+Und dann ab Richtung Glückseligkeit
+Ein Leben im Korsett
+Ein guter Mensch verdrängt, was er nicht weiß
+Damit sich gute Menschen nicht länger als Opfer fühlen
+Lern sie von Kindesbein an Roboterspielen
+Ellbogen raus und auf Opfer zielen
+Nach oben buckeln, sich 'nen goldenen Cock verdienen
+Nur glückliche Orangen in der Saftpresse
+Sogar der Mettigel lacht in ihre Hackfresse
+Ein guter Mensch muss tun, was ein guter Mensch tun muss
+Luxus und Ruhm, rumlutschen bis zum Schluss
+Ich weiß nicht, was ihr seht, ich seh nur gute Menschen
+Alle lieben Kinder, alle gehen Blut spenden
+Und das Letzte, was man hier noch vermisst
+Ist die Antwort auf die Frage, warum alles bleibt wie's is'
+Ich weiß nicht, was ihr seht, ich seh nur gute Menschen
+Alle lieben Kinder, alle gehen Blut spenden
+Und das letzte, was man hier noch vermisst
+Ist die Antwort auf die Frage, warum alles bleibt wie's is'
+Weiche Strafen für gewaltbereite Ausländer, No-Go
+Nein sie sind keine Nazis, auch sie trinken Kaffee to go
+Auch sie waren schon im Urlaub, wo's Schwarze gab
+Und am Vatertag lief sogar Roberto Blanco
+Der ein wunderbarer Nachbar war, wo ist das Problem?
+Kinderschänder müssen sterben, voll okay
+"Böhse Onkelz" auf der Heckscheibe stehen
+Mit Deutschlandfahne schwenkend durch die Straße gehen
+Alles nur gut gemeint aus Angst um ihre Blutsbrüder
+Sie sind das Volk, alles nur besorgte Wutbürger
+Stammtischmodus, jetzt wird laut diskutiert
+Schwarz-Rot-Grün, alles wird grau meliert
+Was, was homophob? (Nein, nein, nein, nein, nein)
+Sie sind da für kranke Menschen
+Auch Schwule kann man heilen
+Eine Hand wäscht die andere rein
+Brownies backen für die Hochzeit, Schokoküsse teilen
+Und wenn im Sportlerheim die erste Strophe erklingt
+Und das Brüderlein singt, ist das überhaupt nicht schlimm
+Niemand schiebt hier irgendjemand ab
+Alle lieben Aydin Döner, beste Soße der Stadt
+Ich weiß nicht, was ihr habt, ich seh nur gute Menschen
+Die nichts Böses wollen, nein, die nur an unsere Zukunft denken
+Und wahrscheinlich werden sie es nie verstehen
+Warum ich kotzen muss, wenn ich sie seh
+Ich weiß nicht, was ihr habt, ich seh nur gute Menschen
+Alle lieben Kinder, alle gehen Blut spenden
+Und das Letzte, was man hier noch vermisst
+Ist die Antwort auf die Frage, warum alles bleibt wie's is'
+
+## Die Tentakel von Delphi | MC HomoSapiensSapiens
+
+Es ist angerichtet. Zu Tisch. Doch was ist das?
+Oh Gott, was hab ich angerichtet?
+
+[Part 1]
+Es ist nicht einfach, mich zu verstehen
+Ich kam aus dem Meer und lernte zu gehen
+Ich begann zu greifen, zu hören und zu sehen
+Ich lernte das Zeichnen, das Schreiben, das Zählen
+Baute fliegende Maschinen und betrat den Mond
+Ich habe Wälder gefressen, ich hab ein Schaf geklont
+Denn ich habe ein Gehirn um Milliarden von Daten
+In Nanosekunden in diesen Primaten zu laden
+Den ich bewohne, um in über 6000 Sprachen
+Seinen Namen mit Fanfaren in die Erde zu graben
+Ich bin das Boss-Geschöpf
+Ich hab Atome gespalten, ich habe Gott geköpft
+Ich bin die Endlösung der Nahrungskette, ich bin ein Genie
+Ich gewinne jedes Battle, Mutter Erde ist ein whack MC
+Ich bin der letzte Mutant
+Ich brauche nicht mehr denken, weil ich Halbleiter erfand
+
+[Hook]
+Ich bin hochbegabt, aber blind
+Millionen Jahre alt, aber immer noch ein Kind
+Ich bin die Krone der Schöpfung
+Und arbeite langsam an meiner eigenen Löschung
+You might also like
+KETAMINE
+Playboi Carti
+The Real Slim Shady
+Eminem
+Geld
+Tua & RIN
+[Part 2]
+Ich erfand die Quizshow und den Genozid der Indianer
+Teleshopping und das griechische Drama
+Zimtschnecken, Impfstoffe, Euthanasie
+Napalm, Tamagotchi, ich hab soviel Fantasie
+Ich fand das Bosom, das Atom, das Genom
+Ich erschuf die Religion, das Pogrom und den Strom
+Die Intelligenz der Evolution hat sich in mir manifestiert
+Noch das allergrösste Tier hat vor mir kapituliert
+Habe in den Apfel der Erkenntnis gebissen
+Und danach Wolkenkratzer in die Wüste geschissen
+Die ich erschuf mit dem Blut meiner eigenen Brut
+Ich liebe jede Religion, die auf Opfer beruht
+Ich bin das erste Tier, das sich fragt, was es ist
+Was es soll, was es wird, wie es geht, was es nützt
+Der neugierigste Affe aller Zeiten
+Ist die bescheidenste Art, um mein Genie zu beschreiben
+
+[Hook]
+Ich bin hochbegabt, aber blind
+Millionen Jahre alt, aber immer noch ein Kind
+Ich bin die Krone der Schöpfung
+Und arbeite langsam an meiner eigenen Löschung
+Hochbegabt, aber blind
+Millionen Jahre alt, aber immer noch ein Kind
+Ich bin die Krone der Schöpfung
+Und arbeite langsam an meiner eigenen Löschung
+[Part 3]
+Manche sagen, ich fresse meine eigene Mutter
+Ich bewohn ihre Haut
+Sie versorgt mich mit Futter
+Für den Palast, den ich bau
+Ich fress ihr die Haare vom Schädel
+Und ihr Fleisch fress ich auch
+Ich fülle ihre Augen mit Nebel
+Und ihre Adern mit Rauch
+Denn mein Hirn ist ein Wichser
+Und mein Herz ein Idiot
+Mein Wille ein Feigling
+Und meine Hand ein Despot
+Doch egal, was ich tue
+Belächelt sie mich
+Egal, was ich versuche
+Sie ist stärker als ich
+
+[Hook]
+Ich bin hochbegabt, aber blind
+Millionen Jahre alt, aber immer noch ein Kind
+Ich bin die Krone der Schöpfung
+Und arbeite langsam an meiner eigenen Löschung
+Hochbegabt, aber blind
+Millionen Jahre alt, aber immer noch ein Kind
+Ich bin die Krone der Schöpfung
+Und arbeite langsam an meiner eigenen Löschung
+
+## Alligatoah | Wissen schützt vor Dummheit nicht - Zugabe
+
+Sie kannte seinen geistigen 15-Punkte-Schnitt
+Er sah sie im Lateinunterricht
+Als sie sein Lächeln teilte, da ward er stumm geswitcht
+Wissen schützt vor Dummheit nicht
+Seit Neuestem zieht er Reifen vom Meeresgrund statt Fisch
+Er schrieb's in einem Zeitungsbericht
+Den druckten sie auf Seiten aus einer Kunststoffschicht
+Wissen schützt vor Dummheit nicht
+Er wusste, dass die Heirat am Seitensprung zerbricht
+Doch hatte nicht die Neigung im Griff
+Nun fleht er um Verzeihung und singt mit Hundeblick
+Wissen schützt vor Dummheit nicht
+Er fand sich nur in Kreisen, die waren bunt gemischt
+Sein Weltbild, das war ein runder Tisch
+Doch nach der Machtergreifung, da macht er munter mit
+Wissen schützt vor Dummheit nicht
+(Yeah!)
+Die Röntgenbilder zeigten die Warnung unterm Licht
+Das hat ihm nicht gereicht zum Verzicht
+Die Raucherketten reißen erst nach dem Lungenriss
+Wissen schützt vor Dummheit nicht
+Wissen schützt vor Dummheit nicht
+Wissen schützt vor Dummheit nicht
+Wissen schützt vor Dummheit nicht
+
+## KAFVKA | Alles was wir tun
+
+[Strophe 1]
+Meine Kids werden fragen: „Was habt ihr gemacht, als
+Eines nachts der Krieg in Syrien begann?“
+Ich sag': „Ich war wach, war im Berghain bis um acht
+Wir hab'n von nichts gewusst, niemand hätte das gedacht“
+Kids werden fragen: „Was habt ihr gemacht
+Als im Mittelmeer tausende Menschen ertranken?“
+Du warst unterwegs mit Friends auf einer Jacht
+Wir hab'n von nichts gewusst, niemand hätte das gedacht
+Kids werden fragen: „Was habt ihr gemacht
+Als ihr wusstet, man weiß, dass ihr wisst von dеn Lagern?“
+„Petition getеilt, Unterschrift gemacht
+Wir hab'n von nichts gewusst, niemand hätte das gedacht“
+
+[Refrain]
+Insta, Facebook, Twitter, Snapchat, TikTok, Tinder (Ist alles, was wir tun)
+Arbeit, Freizeit, Schule, Liebe, Hobby, Kinder (Ist alles, was wir tun)
+Netflix, YouTube, Prime, Fortnite, Minecraft (Ist alles, was wir tun)
+Wir hab'n von nichts gewusst, niemand hätte das gedacht
+
+[Strophe 2]
+Kids werden fragen: „Was habt ihr gemacht, als
+Die Nazis wieder zu töten begann'n?“
+„Wir hab'n die Morde ignoriert und Einzelfall genannt
+Wir hab'n von nichts gewusst, niemand hätte das gedacht“
+Kids werden fragen: „Was habt ihr gemacht
+Als die Rechten zurück in den Bundestag kamen?“
+„Ich hab' sie nicht gewählt, dachte, das passt
+Wir hab'n von nichts gewusst, niemand hätte das gedacht“
+Kids werden fragen: „Was habt ihr gemacht
+Als Faschos die Menschen jagten im Kaff?“
+„Ich war in Berlin, lebe lieber in der Stadt
+Wir hab'n von nichts gewusst, niemand hätte das gedacht“
+You might also like
+BLAQ ON BLAQ
+HoodBlaq & Luciano
+sag was
+Paula Hartmann & t-low
+yes, and?
+Ariana Grande
+[Refrain]
+Insta, Facebook, Twitter, Snapchat, TikTok, Tinder (Ist alles, was wir tun)
+Arbeit, Freizeit, Schule, Liebe, Hobby, Kinder (Ist alles, was wir tun)
+Netflix, YouTube, Prime, Fortnite, Minecraft (Ist alles, was wir tun)
+Wir hab'n von nichts gewusst, niemand hätte das gedacht
+
+[Bridge]
+Insta, Facebook, Twitter, Snapchat, TikTok, Tinder (TikTok, Tinder)
+Arbeit (Arbeit), Freizeit (Freizeit), Schule, Liebe, Hobby, Kinder (Kinder)
+(Ist alles, was wir tun)
+(Ist alles, was wir tun) Arbeit, Freizeit
+(Ist alles, was wir tun) Schule, Liebe, Hobby, Kinder
+(Wir wissen von nichts) Insta, Facebook, Twitter, Snapchat, TikTok, Tinder
+(Nein, wirklich, es stimmt) Arbeit, Freizeit, Schule, Liebe, Hobby, Kinder
+(Ob ihr's glaubt, oder nicht) Netflix, YouTube, Prime, Fortnite, Minecraft
+Wir hab'n von nichts gewusst, niemand hätte das gedacht
+
+[Refrain]
+Insta, Facebook, Twitter, Snapchat, TikTok, Tinder (Ist alles, was wir tun)
+Arbeit, Freizeit, Schule, Liebe, Hobby, Kinder (Ist alles, was wir tun)
+Netflix, YouTube, Prime, Fortnite, Minecraft (Ist alles, was wir tun)
+Wir hab'n von nichts gewusst, niemand hätte das gedacht
+
+[Outro]
+Meine Kids werden fragen: „Was hast du gemacht, als
+Die Welt am Arsch war? Die Zeit wurde knapp“
+Ich hab' nach diesem Song direkt was andres angemacht
+Wir hab'n von nichts gewusst, niemand hätte das gedacht
+
+## Alligatoah | Meine Hoe
+
+Meine Hoe, meine Hoe, meine Hoe
+Meine Hoe, meine, oh, ah, yeah
+Meine Hoe, meine Hoe, meine Hoe
+Meine Hoe, meine, yeah, ah
+Deine Hoe redet schon wieder über Präservative
+Ich hab' mit meiner Hoe ein Gespräch über Nietzsche
+Digga, ich gebe meiner Hoe einen zärtlichen Kuss
+Und danach wird in die motherfucking Sterne geguckt (Yes)
+Und dann spreizt sie die Wangen und spricht von Teilchen und Quanten
+Manchmal reduzier' ich sie auf ihre nicen Gedanken
+Manchmal gab es nichts zu seh'n und wir sind weitergegangen
+Wie bei einem Passanten, oder einer Passantin
+Meine Hoe liebt mich nicht nur, weil ich mich sexy beweg'
+Doch ich tanz' im Hintergrund, wenn sie ein Rap-Video dreht
+Sie nimmt den Rechnungsbeleg und zahlt wie ein Boss
+Eh, meine Hoe hat nicht nur Haare am Kopf
+Meine Hoe ist kein Engel, sie hat 'ne Menge Laster
+Meine Hoe besteht zu 50 Prozent aus Wasser
+Deine Hoe ist dünn wie ein Wendecover
+Meine Hoe ist gesund, bäm, du Bastard
+Meine Hoe reinigt die Wohnung mit Schwamm und Seife (Aha)
+Nicht weil sie eine Frau, sondern an der Reihe ist (Haha)
+Und sie brät uns die Fleischspieße an (Uuuh)
+Doch nicht weil sie es muss, sondern, weil sie es kann
+Kommt sie auf die Party, hörst du jeden Obstbauern schwärmen
+Denn sie schüttelt sich, schüttelt sich, schüttelt Jokes aus dem Ärmel
+Meine Hoe war mal 'ne Slut, aber sie schämt sich nicht
+Meine Hoe gibt einen Fick auf euren Ehrbegriff
+Sie freut sich mit uns über Emanzipation, währ'nd meine Brüder schrei'n
+"Jaa, endlich Gefühle zeigen!"
+Endlich mit dem Bügeleisen durch die Küche grinden
+Ohne dass es überpeinlich wäre wie in früheren Zeiten
+Meine Hoe hat einen männlichen Freundeskreis
+Ich sperr' sie nicht in Grenzen und Zäune ein
+Nur weil ein Großteil scheinbar denkt, dass ein Treueeid
+In einem Gefängnis bedeutsam sei
+Wir haben einvernehmlichen Sex, ah, einvernehmlichen Sex, durch
+Einvernehmliche Peitschenschläge wird keine Regel verletzt
+Ich würge sie mit zwei Dingen, Leinentape und Respekt
+Sie muss nur ein Zeichen geben, die Machtverteilung dreht sich komplett
+Es ist ein zeitgemäßes Konzept, wir sind so zeitgemäß
+Meine Hoe ist keine Zahl zwischen eins und zehn
+Bitch, meine Hoe ist außerdem keine Austauschware, Punkt
+Du willst wissen, wie sie aussieht? (Ja?) Augen, Nase, Mund
+Sie muss sich bücken, denn sonst kann sie ja auch nix hochheben
+Meine Hoe wird gefickt vom Leben
+Meine Hoe ist schön, ohne den Gebrauch von Glitzernägeln
+Denn man kann ihr die Schicksalsschläge im Gesicht ablesen
+Mal entspricht sie der Erscheinung eines Stripper-Mädchens
+Mal eher der von einem Grizzly-Bären
+Oder Grizzly-Bärin! Doch die Mischung zählt
+Sie ist nicht so wie die andern, aber nichts gegen die andern
+Ich bin stolz auf meine Hoe, sie ist richtig korrekt (Richtig politisch korrekt)
+Und weil sie Kunst besser findet ohne Sittengesetz
+Und ein beschissner Text noch lang nicht ihr Gewissen ersetzt
+Hört sie verdammt gerne sexistischen Rap, tja
+
+## Team Scheisse | Vorratskammer
+
+Ich bin eingeladen zu ner Party in der Neustadt
+Ne nette wg
+Ich nippe an ner handwarmen Cola-Rum-Mische
+Und ich fummel verloren am Buffet
+Der DJ spielt ne menge komischen Kram
+Und dann kommt unser Lied
+Erst dachte ich wirklich
+Das steck ich locker weg
+Aber es eskaliert auf einmal
+Und jetzt heul ich in der Vorratskammer
+Ich hab dir mal
+Ein Mixtape gemacht
+Und jeder vollidiot weiss
+Die Lieder sind jetzt fürn Arsch
+Ich kann keins davon
+Ohne zu Weinen noch hören
+Im Prinzip kann ich gleich
+Meinen CD-Schrank zerstören
+Draußen hör ich Schunkeln, Knutschen und Lachen
+Hier bei mir ist es dunkel, einsam und kalt
+Ich dachte immer ich wär langsam erwachsen
+Aber anscheinend bin ich doch noch lang nicht so alt
+Ich backpfeife mich
+Atme aus
+Reiss mich zusammen
+Aber dann kommt natürlich auch schon wieder der Refrain
+Und jetzt heul ich in der Vorratskammer
+Ich hab dir mal
+Ein Mixtape gemacht
+Und jeder vollidiot weiss
+Die Lieder sind jetzt fürn Arsch
+Ich kann keins davon
+Ohne zu Weinen noch hören
+Im Prinzip kann ich gleich
+Meinen CD-Schrank zerstören
+Und ich flenne flenne
+Hunderttausend Tränen tief
+Schnapp meine Jacke
+Und ich will jetzt nur noch fliehen
+Und ich renne renne
+Wir sind helden auf Repeat
+Ich lauf so schnell
+Dass man keine Träne sieht
+
+## Die Tentakel von Delphi | Backpfeifenernte auf dem Alphabeet
+
+Ja
+Wer, wo, was, wie
+Sehr geehrte Mit- und Nichtmitinnen
+Sehen Sie genau hin
+Es folgt ein Augenlied
+Viele sagen ja, ich solle sie mit Rap verschonen
+Ich sag', ich rap' nicht, ich hab' das Tourettesyndrom
+Denn wenn zu viele Wörter in Kästen wohn'
+Die Kästen irgendwann zu zerfetzen droh'n
+So wurd' ich obdachlos, manche nennen mich Peng den Penner
+Mein Herz wurde von den Roggenfängern geschwängert
+Meine Expeditionen werden länger und länger
+Ich hänge Antennen und Sender an meine Wellenempfänger
+Doch weil scheinbar einfach keiner meiner Schalter geht
+Pflanz' ich solang' Blumen auf dem Alphabeet
+(Pflanz' ich solang' Blumen auf dem Alpha)
+Sie werden zu Wörtern, ich hab' die Saat gesät
+Die solange wächst, bis hier ein Wald entsteht
+Den ich roden kann, denn ich bau' ein Floß
+An das ich mich fessel' und in die Wellen stoß'
+Auf diese Art und Weise bereise ich seit bereits gut annähernd 125.000 Milliarden von Jahren das Weltall (Wui)
+Ich bereise die Scheiße hier mittels sich reimenden, schallmauerndurchbrechenden Lenkraketen
+Ich bastel' grammatikalische Gelenkprothesen
+Und zu diesen Prothesen auch noch Kontrathesen
+Ich bastele aus diesem mir ein Monsterwesen
+Das fängt euch ein und das streichelt euch zu Tode
+Denn es streichelt euch immerhin mittels der zu-Tode-Streichel-Methode (aha)
+Ich habe euch gefangen und verlange Lösegeld
+Kennst du den Roman von Huxley, Neue schöne Welt?
+Darin geht es allen gut, oder so ähnlich
+Ich bin sehr klug, nur mein Hirn ist sehr dämlich
+Es versteht sich selbst viel zu wenig
+Ich bin gar nicht ich, nein, du siehst dir nur ähnlich
+Ich wurde ausgetauscht, doch es gefällt mir hier
+Du bist ein Boot, ich ein Fels, du zerschellst an mir
+Es gibt Schellen um vier, Backpfeifen um zwölf
+Die backen wir auf und dann pfeifen wir den Quantenzirkel des phänomenologischen Rasurfraktals
+In ein Edelstahlgewindeflansch hinein
+
+## Die Tentakel von Delphi | Sockosophie
+
+Logbucheintrag 612
+An meinem Fenster fliegen Menschen vorbei
+Nach all den Jahren kann ich immer noch nicht fassen
+(Woraus) hat sich dieser ganze Kram erschaffen?
+Hat er sich, von 0 auf 100 in den Raum gesetzt?
+Ohne zu fragen, vom Nichts ins Jetzt?
+Einfach so, und aus sich selbst heraus?
+Und gibt den ganzen Tag heimlich sich selbst Applaus?
+Während, billiarden Mal, billiarden Mal, billiarden Formen wachsen
+Und sich zu halbbewussten Wesen formen lassen
+Es war Gott!
+(Aha und wer hat Gott erschaffen?)
+Hm, ich finde dabei will doch irgendwas nicht passen
+Fassen wir, jetzt nochmal zur Übersicht zusammen
+Das Nichts, der Urknall, Menschheit, Untergang
+Ne Moment, Stopp, das ist zu einfach und zu ausgedacht
+Wir werden schon von all den andern Weltraumrassen ausgelacht
+Als die nichts Checkenden
+Sich selbst zerstörenden
+Verrückten, Deprimierten
+Die nix sehen und nix hören
+Und die um sich Schlagenden
+Verängstigten, Bekloppten
+Die vergaßen was sie waren
+Und sich selber ständig foppten
+Und sich toppten, in der Disziplin der Selbstverarschung
+Unsere Labyrinthe übersteigen die Erwartung
+Jedes möglichen Meisters der Labyrinthedichtkunst
+(Wir folgen dem Kaninchen)
+Und, huch, plötzlich bricht uns der Boden weg
+6000 Jahre fallen
+Leute, die versuchen sich mit Gurten festzuschnallen
+Ein elegant gestaltetes
+Jedoch ebenfalls fallendes
+Vom Wind schon ein erkaltetes
+Das sich den Spaß gefallen lässt
+Bis schallendes Gelächter
+Durch den Wind hallt
+Denn Manche machen plötzlich mitten im Wind halt
+Sie stoppen, nein, sie schweben
+Und sie lachen sich halb tot
+Haben aufgehört zu halten
+Und gestalten ihre Not um zur Tugend
+Sie bemerken, dass das Fallen zu Schweben wird
+Wenn man aufhört sich an Dingen festzukrallen
+Nochmal zurück zum Universum und zum Leben
+Genau genommen dürfte es das alles gar nicht geben (warum?)
+Naja, woher soll es denn kommen?
+(Aus dem Nichts!)
+Hey, wir haben gesagt genau genommen
+Und genau genommen kann aus Nichts nichts entstehen
+(Vielleicht kannst du's nur aus deiner Sicht nicht sehen)
+Hmmm, möglich wär's, vielleicht ist das mein Problem
+Denn Variante Zwei ist für mich auch nicht zu verstehen
+Sie lautet irgendwas hat schon immer existiert
+(Schon immer? Ich glaub', ich hab's noch immer nicht kapiert)
+Es war nie nichts vorhanden
+Es ist immer was passiert
+(Seit wann?)
+Mann, bleib mal bitte konzentriert
+(Worauf?)
+Auf dich und das Ewige, verdammt!
+(Warum?)
+Es ist der Ort aus dem deine Existenz stammt
+(Na und? Ist doch nicht mein Problem)
+Wer spricht denn von Problem
+Kannst du das Wunder denn nicht sehen?
+Das sich dreht und entsteht
+Und nie stoppt sich zu drehen
+Und dabei Licht zu imitieren
+Und in sich selbst einzugehen
+(Licht, welches Licht?)
+Erzähl mir nicht du siehst das Licht nicht! (Ne!)
+Alles um dich rum glüht
+Nur dein Ich nicht
+Denn dein Ich ist das Prisma
+Durch das sich das Licht bricht
+Es bündelt, selektiert und stellt sich dar wie deine Ich-Sicht
+Doch in Wirklichkeit ist dein Ich viel umfassender
+Ein Teil des Teils
+(Der anfangs alles war)
+Und wieder sein wird
+Wenn du dein Ich verschmelzen lässt
+Mit Allem um dich rum
+In dir drinnen und dem ganzen Rest
+Licht mit Dunkel
+Die Null mit der Eins
+Das Bewusstsein mit dem Körper
+Und das Alles mit dem Keins
+Und so vereinst du den Schein mit dem Sein
+Demontierst dein altes Heim um dein Wesen zu befreien
+(Was redest du für Scheiße?
+Wie wär's wenn ich dich einfach beiße?
+Für deine dreiste Art und Weise
+Liefer mir erst mal Beweise!)
+Wofür?
+(Für den Scheiß den du reimst!)
+Du meinst das mit der Quelle und der Null und der Eins?
+(Jaa!)
+Okay, lass mich grübeln
+Ich kann dir deine Zweifel leider wirklich nicht verübeln
+Doch du musst wissen
+Dass es hier ums Ganze geht
+Nicht um den Namen
+Der auf deinem Schulranzen steht
+Identität ist etwas Überpersönliches
+Ja und Nein sind nichts Unversöhnliches
+Schwarz und Weiß sind beide Licht
+Und die Nonexistenz, die gibt es nicht
+(Das sind keine Beweise!)
+Nein, das ist nur Vorbereitung
+Für das, was ich dir zeige
+Du willst Erwachen, Enthüllung
+Befreiung von allen Schleiern?
+Dann bitt ich um Verzeihung
+Mit dem was ich dir zeige
+Schock' ich dein Verstand
+In Wirklichkeit bist du ne Socke auf 'ner Hand
+Doch!
+(Nein)
+Doch!
+(Quatsch!)
+Echt!
+(Wat?)
+Ja!
+(Nee)
+Also kehren wir zurück
+An den Ursprung des Ursprungs, des Ursprungs, des Ursprungs
+Zurück an den sogenannten Eisprung des Ursprungs
+Und was davor ist
+Ist dann quasi meine Quelle
+An die ich jetzt mal, jene kühne Frage stelle
+(„Warum?“)
+Sie antwortet nicht
+Nicht grade eine Quelle, die durch Service besticht
+Vielleicht ist sie auch grad nicht da
+Oder wollte nicht gestört werden
+Oder hat mich kommen sehen
+Und wollte nicht genervt werden
+Oh Mann, schon wieder dieser Peng
+Der kommt hier immer an
+Und sieht alles so eng
+Und fragt Fragen Fragen
+Die 'nen hochgestellten Kragen tragen
+Zerfragt seine Frage
+Bis sich sogar seine Fragen fragen
+„Fragt er nur des Fragens Willen?
+Will er wirklich Fragen stellen?“
+Fatale Fragen Fraktale
+Die ihm aus den Poren quellen
+Versucht mich zu umstellen
+Reitet fragende Wellen
+Reitet fragende Wellen
+Die sogar selber Fragen stellen
+Wartet ich verarsch ihn
+Werd mal meine Stimme verstellen
+Und ihm sagen
+Antworten soll er bei Quelle bestellen
+„Jo Peng, bestell doch all deine Antworten bei Quelle
+Und nicht bei mir, der Quelle allen Seins. Oder?“
+Pass mal auf
+Also wenn du schon von Schocken redest
+Du bist hier der Typ der grade mit 'ner Socke redet
+Die auf deiner Hand sitzt
+Und mit deiner Stimme spricht
+Und du behauptest die Behauptung dieser Socke stimmt nicht?
+Falsch! Ich bin die Quelle selbst
+Das ist gar keine Hand mit der du dich unterhältst
+Du glaubst wirklich, du bist ein abgetrenntes Wesen
+Vom Kosmos, vom Urgrund, von mir, vom Leben?
+Eigenständig, Unabhängig, mit eigenen Gedanken?
+Du spinnst wenn du nicht fühlst
+Du bist Teil eines Ganzen
+Von mir, der Socke des Lebens!
+Ich bin Ursache all deines Strebens!
+Manifestation eines höheren Wesens!
+Erkenne! Widerstand ist vergebens!
+Du bist die Socke auf meiner Hand
+Bisher bist du vor der Wahrheit weggerannt!
+(Aber Socke!)
+Schweig!
+(Aber Socke!)
+Halts Maul!
+Du bist dumm, falsch, frech und faul!
+Konvertiere!!
+Zur Sockosophie
+Zum Sockismus
+Jetzt oder nie!
+Ich sockifiziere dich
+Es geschieht
+Jetzt grade hier
+Im Takt zum Beat
+Das hier ist mein Gebiet!
+Logbucheintrag 612: An meinem Fenster fliegen Socken vorbei
+Logbucheintrag 612: An meinem Fenster fliegen Socken vorbei
+
+## Die Tentakel von Delphi | Neue Freunde
+
+Yes, jo, aha, aha, ah, ah, ah
+Meine sehr verehrten Damen und Herren
+Es begab sich in einem Land vor unserer Zeit (yes, jo, ah)
+Oki-digidigi-doke, ja, ich kam, sah und schmiegte
+Mich an eure desensibilisierten Gebiete
+Ich verbiete der Tombola die Niete
+Denn das Universum ist meine Geliebte
+Die kam, um meine Behauptung zu enthaupten
+Ich wär blind, quatsch, mir wachsen Augen auf den Augen
+Kaum zu glauben, dass ich glaubte, dass mein Glaube eine Wahrheit wäre
+Widerlege ihn, wie Isaac Newton Goethes Farbenlehre
+Und beschwere mich bei Dingen, die mich schwerer machen
+Als guter Schüler muss ich über meine Lehrer lachen
+Wissen esssen und beflissen jeden Fehler machen
+Ihr macht Stress ohne Grund (yeah), Stress kann jeder machen
+Ihr macht ein Gesicht als würdet ihr grade im Steh'n kacken
+Deutschland lieben, aber eigentlich das Leben hassen
+Und euch Parol'n in Frakturschrift in die Ven'n hacken
+Ich näh euch ein rosanes Einhorn auf eure Lederjacken, ah
+Glaubt mir, sowas steht euch
+Rosa ist die Farbe der Gefühle, sowas fehlt euch
+Denn ihr müsst eine Lüge leben
+Sie füttern, pflegen und ihr eine schöne Bühne geben
+Zugegeben, ich will euch die Beine von den Stühl'n sägen
+Mit euch auf'm Boden liegen und über Gefühle reden, yeah
+Endlich hab'n wir zusamm'ngefunden
+Liegen bleiben, ich hab eure Schnürsenkel zusammengebunden
+Ihr seid Möbel, wir sind Räume
+Ihr seid Vögel und wir sind Bäume
+Wir sind Tür'n und ihr seid Zäune
+Doch wir sind ab heute eure neuen besten Freunde
+Ihr seid Möbel, wir sind Räume
+Ihr seid Vögel und wir sind Bäume
+Wir sind Türen und ihr seid Zäune
+Doch wir sind ab heute eure neuen besten Freunde
+Vier, drei, zwei, eins, uns hält kein Held auf
+Wir komm'n in deine Küche und dort stell'n wir ein Zelt auf
+Du behauptest, dass du ein krasser Räuber bist
+Ich entkoppel den unter dir installierten Schleudersitz
+Damit du fliegen lernst, yeah, ich bau dir eine Rampe
+Denn ich bin eine Pflanze, ich denke nicht, ich tanze
+Zu den Rhythmen der sieben Jahreszeiten
+Ich will kein'n neuen Text, sondern eine neue Sprache schreiben
+Um in ihr zu schweigen, denn ich hab nix zu sagen
+Und so werden die nächsten Zeil'n telepathisch übertragen
+Ah, okidoke, hätten wir das auch geklärt
+Der Mensch ist nicht gefangen, nein, er hat sich ausgesperrt
+Aus sich selbst, schade, das wär nett geworden
+Hunderttausend Silben sind heut Nacht in meinem Bett gestorben
+So geseh'n ist das Leben relativ
+Denn ich erkenne mich wieder als der Geist, der mich rief
+Doch der Geist, der mich rief, wird mich jetzt nicht mehr los
+Habe ich nicht mal gesagt, ich wär der Fluss, nicht das Floß? (Das ist ja vollkommen logisch)
+Ihr seid Möbel, wir sind Räume
+Ihr seid Vögel und wir sind Bäume
+Wir sind Tür'n und ihr seid Zäune
+Doch wir sind ab heute eure neuen besten Freunde
+Ihr seid Möbel, wir sind Räume
+Ihr seid Vögel und wir sind Bäume
+Wir sind Tür'n und ihr seid Zäune
+Doch wir sind ab heute eure neuen besten Freunde
+Ihr seid hipsterdissende Hipster, die Hipster dissen
+Doch Hipsterdissen ist nicht hip, seit alle Hipster Hipster dissen
+(Hip sein ist unhip) sogar deine Geschwister wissen
+Dissen ist wie nackt auf ei'm Turm in ein Gewitter pissen
+Am Anfang witzig, doch danach wird dich der Blitz erwischen
+Karma ist ein Bumerang, ich hab doch nur 'n Witz gerissen
+Aber der Witz ist alt und die Pointe ist beschissen
+Du hast kein'n Witz, sondern deine Verbindung abgerissen
+Zu der Außenwelt und den Gefühl'n anderer Lebewesen
+Oh, da steht ein brauner Klotz, nein, das ist ein Reh gewesen
+Ihr seid zwar kalt, aber könnt keine Kritik vertragen
+Über Nadelbretter laufen, aber heimlich Stiefel tragen
+Wie soll denn da ein guter Fakir aus euch werden?
+In eurem nächsten Leben werdet ihr einsam als ein Tapir sterben
+Ihr könnt mit Starkbier werfen, ein debiler Dealer werden
+Ihr könnt euch auch prima einen lila Vokuhila färben
+Aber das bringt euch nix, denn euer Witz ist eine List
+Der über euch selber lachend zwischen euren Hemisphären sitzt
+Und nach Verbindung strebt, während ihr in Erblindung lebt
+Vor dem Licht, das in euch wie ein Baby nach Entbindung strebt
+Also gebäre es, Leben ist doch ein Gesetz
+Du willst noch was sagen, doch die Wehen haben eingesetzt
+Bevor du dich verletzt, solltest du dich besser setzen
+Lass es pressen und hör auf dich zu widersetzen
+Es ist ein Kind der Liebe, es möchte leben
+Es ist gekomm'n, denn es möchte mit dir reden
+Über dein'n Werdegang, denn es wird deine Erde erben
+Du kannst mit Katzen schmeißen und du kannst mit Pferden werfen
+Es kommt trotzdem, es möchte sprechen
+Dein Brustkorb liegt in Ketten und das Kind wird sie brechen
+Dein Brustkorb liegt in Ketten und das Kind wird sie brechen
+
+## Rainald Grebe | Der Billiardär
+
+Da steht ein Pferd - hüüü
+Es ist nicht deins
+Da steht ein Pferd
+Es ist meins
+Da steht noch ein Pferd
+Es ist wieder nicht deins
+Denn du hast ja keins
+
+Siebenhundert Pferde und die Wiese blüht
+Ich bin stolz auf mein Gestüt
+Ich hab auch mal klein angefangen
+Ich weiß es noch genau
+Mein Haus, mein Auto, meine Frau
+
+Das ist lange her
+Mein Haus und meine Frau, die gibt es jetzt nicht mehr
+Die neuen Fotos zeig ich überall
+Mein Harem, mein Gestüt, mein Taj Mahal - jippie
+
+Mein Weinberg leuchtet in der Sonne
+Mein Mundschenk sagt: es wird ein gutes Jahr
+Du fragst mich, was vor Armut schützt
+Die Antwort lautet: Grundbesitz - jippie
+
+Ich schnorchel so durch mein Atoll
+Eigenes Atoll - wundervoll
+Es ist doch schön, schöne Dinge zu besitzen
+Mein Rammbock, meine Söldner, mein Bogenschützen
+You might also like
+Ballermann
+Rainald Grebe
+Die Rose
+Rainald Grebe
+Last Christmas
+Wham!
+Ich bin immer, ich bin immer
+Ich bin immer dem Teppich geblieben
+Doch mein Teppich, der kann fliegen
+Mein Teppich, der kann fliegen
+I wanna fly, Teppich, fly-y
+Wie hab ich das so weit gebracht?
+Ich hab Überstunden gemacht
+
+Sonntags ergeh ich mich in Müßigang
+Mit Nichtstun und mit Minnesang
+Ich weiß, andre müssen Klinken putzen
+Meine Burg, mein Gardasee, meine Abruzzen - jippie
+
+Meine Sternwarte, siehst du die?
+Meine Sonne, mein Mond und meine Galaxie
+Wie schafft man das, wie wird man so?
+Ich war der immer der erste und der letzte im Büro
+
+Lass die Zugbrücke runter, der Besuch ist da
+Der Kalif von Kaiserlautern kommt, oho lala
+Ich schenke ihm ein Sägewerk
+Und er schenkt mir den Betzenberg
+
+Ich bin immer, ich bin immer
+Ich bin immer dem Teppich geblieben
+Doch mein Teppich, der kann fliegen
+Mein Teppich, der kann fliegen
+Davon träumt man doch als Kind
+Ich koch auch nur
+Ich koch doch auch nur
+Ich koch auch mit Wasser
+Doch ich kann über das Wasser laufen
+Ich kann über das Wasser laufen
+Weil ich weiß, wo die Steine sind
+
+## Adam Angst | Was der Teufel sagt
+
+Ich hab vergessen, dass wir eingeladen sind.
+Wär ich doch im Büro geblieben. Jetzt verbringe ich meinen Feierabend bei Tanja und bei Steven. Wo wir Scheiße reden, uns an Belangloses erinnern. Vor alle, um die Peinlichkeit der Stille zu verhindern. Doch wir haben schon dreimal abgesagt.
+Als erster Gang kommt frischer Feldsalat an holunder-Vinaigrette. Menschen, du verwöhnst uns. Ich brauche später dringend das Rezept! höre ich meine Freundin sagen und den Gastgeber mich fragen: Ich habe auch noch Fingerfood und Dips, greif doch zu. Jetzt probier doch mal. Was möchtest du?
+Ich möchte jetzt am liebsten einfach auf den Tisch steigen und dir deine blöde Pampe durch's Gesicht reiben. Doch der Geist ist willig, nur das Fleisch ist schwach. Hör doch einmal nur auf das, was der Teufel sagt. Wie sieht's denn aus mit dem Konzept? Haben Sie das gestern noch geschafft?
+Nö, ich hab mit Katja und mit Steven 3 Flaschen Rotwein leer gemacht (Hä? Hieß die gerade eben nicht noch Tanja? Jam da oben stehts: Tanja! Idioten.) Hab ich das wirklich grad gesagt oder nur gedacht? Und die Kollegen werfen eine PowerPoint via Beamer an die Wand. Meine Gedanken sind woanders, jedenfalls nicht in diesem Land. Wie lustig das jetzt wäre, käm ein großer Elefant hier rein, wirft alle Möbel um, haut alles kurz und klein und setzt sich zuguterletzt auf meinen Chef drauf. Ich wache auf. Herr Schönfuss? Möchten Sie noch irgend etwas sagen? Öh. Ich möchte jetzt am liebsten einfach auf den Tisch steigen, mir meine Hose runter ziehen und meinen Arsch zeigen.
+Doch der Geist ist willig, nur das Fleisch ist schwach. Hör doch einmal nur auf das, was der Teufel sagt. Ich hab unendlich Ideen und eine blühende Fantasie, doch im echten Leben mache ich das nie. Denn ich höre nie auf das, was der Teufel sagt.
+
+## Alligatoah | Hitler töten
+
+Zeitreisen kann Beziehungen retten
+Ich würde, wenn die Regel der Physik mich lässt
+Zurück in unser Nostalgie erweckendes, pittoreskes Liebesnest
+Wir würden (oh) wieder Sterne zählen
+Sie würde wieder alle aus dem Fokus verdrängen
+Ich würd nach dem ersten Date ihr wieder diese Kette meiner Großmutter schenken (ja)
+Die Phase würd ich nutzen
+Jeder Weg ist offen, wir sind blutjunge Menschen
+Kiffen, ficken, Filme gucken
+Nur keine Gedanken an die Zukunft verschwenden
+Wieder würde sie lachen, wenn ich vor anderen Leuten ein'n Witz erzähle
+Bitt're Tränen prasseln aus ihrer Visage, weil ich nur mal eben pissen gehe
+Wir hätten wieder vollstes Vertrauen
+Wieder würd ich ungefragt ihren Goldschmuck verkaufen
+Für die Schulden in der Spielo und ein'n guten Schnaps
+Wieder park ich ihre Karre in 'nem U-Bahnschacht
+Wieder würde sie mein'n Drink verstecken
+Und wieder würd ich ihr die Finger brechen
+Sie würde wieder schneller weggezogen sein als eine Zigarette
+Wieder würd ich wünschen, dass ich eine Zeitmaschine hätte
+Ja, ich weiß, ich sollte Hitler töten
+Oder beim Titanic-Bau das Schiff zerstören
+Aber hätt ich eine Zeitmaschine, wär mein Reiseziel
+In deinen Armen und da bleib ich liegen
+Ja, ich weiß, ich sollte Hitler töten
+Oder beim Titanic-Bau das Schiff zerstören
+Aber hätt ich eine Zeitmaschine, wär mein Reiseziel
+In deinen Armen und da bleib ich liegen
+Und du, Sudden?
+Was würdest du mit 'ner Zeitmaschiene machen?
+Ich würde mitten in der Nacht durch ihr Fenster schleichen
+Damit die Eltern nichts merken
+Sie würden wieder wach werden
+Denn im Bett kann sie sich selten beherrschen
+Und zum Date würd ich Blumen haben
+Ich würde mit ihr essen in 'nem guten Laden
+Ich würde wieder ehrlich sein und ihr versprechen
+Dass wir eine Zukunft haben
+Wir hätten wieder zwei Stunden Sex (Sex)
+Nach drei Stunden Mario Kart (Kart)
+Und für den diamantbesetzten Verlobungsring hätt ich wieder Jahre gespart
+Wieder würden wir uns streiten
+Aber nur weil der Versöhnungssex so geil ist
+Wieder würde sich zeigen, dass Paris für sie und mich zu klein ist
+Sie würde wieder mit den Tellern werfen
+Ich würde sie wieder in den Keller sperren
+Mal im ernst, ich würde wohl anstatt ein Held zu werden ihre Welt zerstören
+Sie würde mich wieder zum Teufel schicken
+Und ich würde wieder ihre Freundin ficken
+Wieder wäre klar, dass ich sie leider nie vergesse
+Wieder würd ich wünschen, dass ich eine Zeitmaschine hätte
+Ja, ich weiß, ich sollte Hitler töten
+Oder beim Titanic-Bau das Schiff zerstören
+Aber hätt ich eine Zeitmaschine, wär mein Reiseziel
+In deinen Armen und da bleib ich liegen
+Ja, ich weiß, ich sollte Hitler töten
+Oder beim Titanic-Bau das Schiff zerstören
+Aber hätt ich eine Zeitmaschine, wär mein Reiseziel
+In deinen Armen und da bleib ich liegen
+Wir können diesmal aufpassen, doch sind frisch verliebt und doof
+Frisch verliebt und doof
+Ich leg mich zu dir und guck zu, wie sich Geschichte wiederholt
+Wie sich Geschichte wiederholt
+Wir können diesmal aufpassen, doch sind frisch verliebt und doof
+Frisch verliebt und doof
+Ich leg mich zu dir und guck zu, wie sich Geschichte wiederholt
+Wie sich Geschichte wiederholt
+Ja, ich weiß, ich sollte Hitler töten
+Oder beim Titanic-Bau das Schiff zerstören
+Aber hätt ich eine Zeitmaschine, wär mein Reiseziel
+In deinen Armen und da bleib ich liegen
+Yeah
+
+## Alligatoah | Freie Liebe
+
+Freie Liebe, freie Liebe, freie Liebe
+Freie Liebe, freie Liebe, freie Liebe
+Wollen wir den nächsten Schritt wagen?
+Andere poppen, ich hab' schon mit deinen Verwandten gesprochen (na, klar)
+Keine Inbesitznahme, sondern Gemischtware (geil)
+Sind die Gedanken verlockend, dann kann man doch kosten (yes)
+Wir machen nichts, was die Gesellschaft will, ein Rebell macht sich frei
+Ich bums' ne andere und dann haben wa's der Gesellschaft gezeigt
+Ob ich jetzt eine oder hundert Personen bange
+Liebe kennt keine Obergrenze, du Nazi (scheiß Nazi)
+Wir stehen doch nie unsern Träumen im Weg, Obacht
+Mein Traum ist Sex mit zwei Zeuginnen Jehovas
+Wir geben uns Freistöße und andere Freiheiten
+Wenn du mich anrufst, kommt ein Freizeichen
+Kriegen wir niemanden rum wegen ener Koksdröhnung oder Hormonstörung
+Haben wir immer noch uns als Notlösung
+Ich spiele gerne an dir rum, deine Vulva lebe hoch
+Doch was ist ein gutes Spiel ohne Multiplayer-Mode?
+Ich mag es, wenn du aus dem Mund nach fremdem Sperma riechst
+Freie Liebe, freie Liebe, freie Liebe
+Ohh, ich weiß jetzt, du bist glücklich, weil ich ständig Herpes krieg'
+Freie Liebe, freie Liebe, freie Liebe (Halleluja)
+Lass dich gehen, ich lass' dich gehen
+Komm, lass dich gehen, ich lass' dich gehen
+Komm, lass dich gehen, ich lass' dich gehen
+Komm, lass dich gehen, ich lass' dich gehen
+Du kommst heim mit Cock-Schweißgeruch
+Bei anderen kocht Eifersucht, ich schenke dir rostfreien Schmuck
+Es gibt keinen Leistungsdruck, bin ich einmal nicht stocksteif genug
+Und hast du doch Fleischeslust wie die reife Frucht, holen dir einen Einsatztrupp
+Ich will nur, dass du glücklich bist
+Wenn das bedeutet, dass ein hübscher VIP dir knüppeldick auf den Rücken jizzt
+Dann wüsst ich nicht, weshalb du dafür nicht meine vollste Unterstützung kriegst
+Gerne mach' ich deine Schlüpfer-Pics, wenn einer wieder will, dass du Brüste schickst (nice)
+Und jeder hat unseren Appartmentschlüssel, buntes Treiben in Bad und Küche
+Unter der Dusche schwimmt ein farbenfrohes Schamhaarbüschel
+Du siehst aus, als hättst duen Schneeball nicht gefangen
+Egal, von wem die Wichse stammt, im Magen kommt eh alles zusammen
+Es liegt ein Abenteuer in der Luft
+Jeder weiß, die schönsten Menschen gibt's in deutschen Swingerclubs (sike)
+Jetzt lieg' ich zwischen großzügig beleibten, in Lederkostüme gekleideten
+Ü-30ern, Füßen und Schweiß, ich fühl' mich so frei
+Ich mag es, wenn du aus dem Mund nach fremdem Sperma riechst
+Freie Liebe, freie Liebe, freie Liebe
+Oh Lord, ich weiß jetzt, du bist glücklich, weil ich ständig Herpes krieg'
+Freie Liebe, freie Liebe, freie Liebe (Halleluja)
+Lass dich gehen, ich lass' dich gehen
+Komm, lass dich gehen, ich lass' dich gehen
+Komm, lass dich gehen, ich lass' dich gehen
+Komm, lass dich gehen, ich lass' dich gehen
+Mein Vater hat damals schon für diese Freiheit gekämpft
+Deshalb lernte ich ihn leider nie kennen, naja
+Die Gedanken sind schon seit Jahrhunderten frei von Kummer und Leid
+Heute machen wir uns untenrum frei
+Es kommt der Tag, da werden wir merken, jeder ist auf seine Weise fickbar
+Wir haben die gleichen Träume, die gleichen Herzen, den gleichen Tripper
+Keine Zäune, keine Fesseln, wir brauchen keinen Halt
+Wir sind die freiesten Menschen, wir sind im freien Fall
+Ich mag es, wenn du aus dem Mund nach fremdem Sperma riechst
+Freie Liebe, freie Liebe, freie Liebe
+Hey, ich weiß jetzt, du bist glücklich, weil ich ständig Herpes krieg'
+Freie Liebe, freie Liebe, freie Liebe (oh, Halleluja)
+Lass dich gehen, ich lass' dich gehen
+Komm, lass dich gehen, ich lass' dich gehen
+Komm, lass dich gehen, ich lass' dich gehen
+Komm, lass dich gehen, ich lass' dich gehen
+
+## Hämatom | Kids
+
+Alle haben 'nen Job — ich hab Langeweile!
+Keiner hat mehr Bock auf Kiffen, Saufen, Feiern
+So ist das hier im Block, Tag ein Tag aus
+Halt mir zwei Finger an den Kopf und mach:
+Peng! Peng! Peng! Peng!
+Alle haben 'nen Job — ich hab Langeweile!
+Keiner hat mehr Bock auf Kiffen, Saufen, Feiern
+So ist das hier im Block, Tag ein Tag aus
+Halt mir zwei Finger an den Kopf und mach:
+Peng! Peng! Peng! Peng!
+Alle spielen jetzt Golf, jeder fährt Passat
+Keiner tätowiert sich Wu-Tang auf'n Arsch
+Keiner tanzt mehr Moonwalk seit Michael Jackson starb
+Alle auf Salat — keiner mehr verstrahlt
+Jeder macht Diät — niemand isst mehr Fleisch
+Niemand hat 'nen Trichter — alle saufen Wein
+In der guten alten Zeit war'n alle Donnerstags schon breit
+Ich sitz' auf'm Sofa, rauch das ganze Zeug allein
+Alle sind jetzt "Troy" niemand geht mehr raus
+Keiner kämpft mehr bis zum "Endboss" — alle geben auf
+Jeder geht jetzt joggen, redet über seinen Bauch
+Bevor die "Lila Wolken" kommen sind alle längst zuhaus'
+Jeder glücklich Zweiter, keiner mehr Verlierer
+Keiner geht mehr klauen, freundlich zum Kassierer
+Alle ziehen aufs Land in die große Stadt nie wieder
+Silbernes Besteck — Goldener Retriever
+Alle mähen Rasen, putzen ihre Fenster
+Jeder ist jetzt Zahnarzt — keiner ist mehr Gangster
+Keiner fälscht mehr Stempel — alle gehen schwimmen
+Jeder steht jetzt auf der Liste — niemand geht mehr hin
+Keiner will mehr ballern, treffen um zu reden
+Keiner macht mehr Malle, alle fahren nach Schweden
+Jeder liebt die Bayern, vor'm Essen beten
+Leben die kleinen Träume, verbrennen die großen Pläne
+Randale und Krawall, die Zeiten sind längst vorbei
+Wo sind meine Leute hin, die waren früher überall
+Was all die anderen starten sieht wie ne Landung aus
+Und die Welt sie dreht sich weiter nur nicht mehr ganz so laut
