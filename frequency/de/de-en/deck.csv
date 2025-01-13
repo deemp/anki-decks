@@ -1,8 +1,9 @@
 |frequency_rank|part_of_speech_short|word_de|word_forms_de|sentence_de|word_translations_en|word_en|sentence_en|part_of_speech|sentence_original_de|sentence_original_en
 0|1|art|die|der, die, das|Das ist die einzige Lösung für uns.|the|the|This is the only solution for us.|article|Der Mann und die Frau kochen, das Kind spielt.|The man and the woman are cooking; the child is playing.
-1|1|pron|der|der, die, das|Das ist der, der es getan hat.|the one, that, those|the one|That is the one who did it.|pronoun|Das ist der Mann, den ich liebe.|That’s the man I love.
-1.001|1|pron|der|der, die, das|Der Mann, der dort steht, ist mein Nachbar.|the one, that, those|that|The man that is standing there is my neighbor.|pronoun|Das ist der Mann, den ich liebe.|That’s the man I love.
-1.002|1|pron|der|der, die, das|Der Mann, der dort steht, ist mein Bruder.|the one, that, those|those|The man, those who stand there, is my brother.|pronoun|Das ist der Mann, den ich liebe.|That’s the man I love.
+1|1|pron|der|der, die, das|Das ist der, der es getan hat.|the one, that, those, the ones|the one|That is the one who did it.|pronoun|Das ist der Mann, den ich liebe.|That’s the man I love.
+1.001|1|pron|der|der, die, das|Der Mann, der dort steht, ist mein Nachbar.|the one, that, those, the ones|that|The man that is standing there is my neighbor.|pronoun|Das ist der Mann, den ich liebe.|That’s the man I love.
+1.002|1|pron|die|der, die, das|Ich habe die genommen, die am billigsten waren.|the one, that, those, the ones|those|I took the ones that were the cheapest.|pronoun|Das ist der Mann, den ich liebe.|That’s the man I love.
+1.003|1|pron|die|der, die, das|Kennst du die, die nebenan wohnen?|the one, that, those, the ones|those|Do you know those who live next door?|pronoun|Das ist der Mann, den ich liebe.|That’s the man I love.
 2|1|pron|der|der, die, das|Das ist der Mann, den ich meinte.|who, that|who|That is the man who I meant.|pronoun|Dort steht das Mädchen, das mit mir zur Schule geht.|There’s the girl who goes to school with me.
 2.001|1|pron|der|der, die, das|Der Baum, der gefällt wurde, war sehr alt.|who, that|that|The tree that was cut down was very old.|pronoun|Dort steht das Mädchen, das mit mir zur Schule geht.|There’s the girl who goes to school with me.
 3|2|conj|und||Kaffee und Kuchen passen zusammen.|and|and|Coffee and cake go well together.|conjunction|Die Eltern und Kinder essen und sprechen über ihren Tag.|The parents and children eat and talk about their day.
