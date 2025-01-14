@@ -1,0 +1,2555 @@
+|part_of_speech|word_de|word_en
+0.0|article|die|the
+1.0|pronoun|der|the one
+1.001|pronoun|der|that
+1.002|pronoun|die|those
+1.003|pronoun|die|those
+2.0|pronoun|der|who
+2.001|pronoun|der|that
+3.0|conjunction|und|and
+4.0|preposition|in|in
+5.0|auxiliary verb|sein (Vergangenheitsform)|(past tense)
+6.0|verb|sein|to be
+7.0|article|ein|a
+7.001|article|ein|an
+8.0|pronoun|einer|one of
+9.0|auxiliary verb|haben (Vergangenheitsform)|(past tense)
+10.0|verb|haben|to have
+11.0|pronoun|sie|she
+11.001|pronoun|sie|her
+12.0|pronoun|sie|they
+12.001|pronoun|sie|them
+13.0|pronoun|Sie|you
+14.0|auxiliary verb|werden (Futur)|(future tense)
+15.0|auxiliary verb|werden (Passivform)|(passive voice)
+16.0|verb|werden|to become
+16.001|verb|werden|to get
+17.0|preposition|von|from
+17.001|preposition|von|of
+18.0|pronoun|ich|I
+19.0|particle|nicht|not
+20.0|pronoun|es|it
+21.0|preposition|mit|with
+22.0|pronoun|sich|-self
+23.0|pronoun|er|he
+24.0|preposition|auf|on
+24.001|preposition|auf|at
+24.002|preposition|auf|to
+25.0|preposition|für|for
+26.0|adverb|auch|also
+26.001|adverb|auch|too
+27.0|preposition|an|on
+27.001|preposition|an|at
+28.0|conjunction|dass|that
+29.0|particle|zu|to
+30.0|particle|zu|too
+31.0|preposition|zu|to
+32.0|conjunction|als|when
+32.001|conjunction|als|as
+33.0|particle|als|than
+34.0|verb|können|can
+34.001|verb|können|to be able to
+35.0|pronoun|dies|this
+35.001|pronoun|dies|that
+36.0|particle|wie|as
+37.0|pronoun|wie|how
+38.0|pronoun|wir|we
+39.0|pronoun|ihr|her
+39.001|pronoun|ihr|their
+39.002|pronoun|ihr|hers
+39.003|pronoun|ihr|theirs
+40.0|pronoun|ihr|you
+40.001|pronoun|ihr|her
+41.0|pronoun|Ihr|your
+42.0|adverb|so|the way
+42.001|adverb|so|thus
+42.002|adverb|so|such
+42.003|adverb|so|such
+43.0|particle|so|so
+44.0|preposition|bei|at
+44.001|preposition|bei|by
+44.002|preposition|bei|with
+45.0|pronoun|sein|his
+45.001|pronoun|sein|its
+46.0|conjunction|aber|but
+47.0|particle|aber|
+48.0|pronoun|man|one
+48.001|pronoun|man|you
+48.002|pronoun|man|they
+49.0|adverb|noch|yet
+49.001|adverb|noch|still
+50.0|preposition|nach|after
+50.001|preposition|nach|toward
+51.0|conjunction|oder|or
+52.0|pronoun|all|all
+53.0|preposition|aus|out
+53.001|preposition|aus|out of
+53.002|preposition|aus|from
+54.0|pronoun|was|what
+55.0|adverb|nur|only
+56.0|verb|sagen|to tell
+56.001|verb|sagen|to say
+57.0|adverb|dann|then
+58.0|conjunction|wenn|if
+58.001|conjunction|wenn|when
+59.0|verb|müssen|must
+59.001|verb|müssen|to have to
+60.0|conjunction|um|in order to
+61.0|preposition|um|around
+61.001|preposition|um|at
+61.002|preposition|um|at
+61.003|preposition|um|about
+62.0|particle|ja|yes
+62.001|particle|ja|of course
+63.0|pronoun|keine|no (one)
+64.0|preposition|über|over
+64.001|preposition|über|above
+64.002|preposition|über|about
+65.0|adverb|da|there
+66.0|conjunction|da|because
+67.0|verb|geben|to give
+68.0|preposition|vor|in front of
+68.001|preposition|vor|before
+68.002|preposition|vor|ago
+69.0|pronoun|mein|my
+69.001|pronoun|mein|mine
+70.0|adverb|mehr|more
+71.0|noun|das Jahr|year
+72.0|pronoun|du|you
+73.0|preposition|durch|through
+74.0|pronoun|viel|much
+74.001|pronoun|viel|a lot
+74.002|pronoun|viel|many
+75.0|verb|wollen|to want to
+76.0|verb|machen|to make
+76.001|verb|machen|to do
+76.002|verb|machen|to make
+77.0|pronoun|andere|other
+78.0|verb|sollen|should
+78.001|verb|sollen|ought to
+79.0|adverb|schon|already
+80.0|particle|schon|
+81.0|verb|kommen|to come
+82.0|pronoun|mir|me
+83.0|adverb|immer|always
+84.0|pronoun|mich|
+85.0|pronoun|mich|me
+86.0|verb|gehen|to go
+87.0|adjective|groß|large
+87.001|adjective|groß|big
+87.002|adjective|groß|great
+87.0001|adjective|Jemand der Große (z.B., Alexander der Große)|Someone the Great (e.g., Alexander the Great)
+88.0|adverb|hier|here
+89.0|adjective|ganz|whole
+89.001|adjective|ganz|all the
+90.0|particle|ganz|quite
+91.0|number|zwei|two
+92.0|adverb|also|so
+93.0|adverb|jetzt|now
+94.0|adverb|doch|but
+94.001|adverb|doch|however
+95.0|particle|doch|
+96.0|adverb|wieder|again
+97.0|pronoun|uns|we
+97.001|pronoun|uns|us
+98.0|adjective|gut|good
+99.0|conjunction|bis|until
+100.0|preposition|bis|until
+100.001|preposition|bis|till
+101.0|verb|wissen|to know
+102.0|verb|sehen|to see
+103.0|pronoun|einer|(some)one
+104.0|adverb|sehr|very
+105.0|conjunction|mal|times
+106.0|noun|das Mal|time
+106.001|noun|das Mal|mark
+107.0|particle|mal|
+108.0|verb|lassen|to let
+108.001|verb|lassen|to allow
+108.002|verb|lassen|to have something done
+109.0|adjective|neu|new
+110.0|verb|stehen|to stand
+111.0|pronoun|unser|our
+112.0|pronoun|jede|every
+113.0|conjunction|weil|because
+114.0|preposition|unter|under
+115.0|noun|der Mensch|human being
+116.0|pronoun|ihm|him
+117.0|pronoun|ihn|him
+118.0|conjunction|denn|because
+119.0|particle|denn|anyway
+120.0|noun|das Beispiel|example
+121.0|adjective|erste|first
+122.0|noun|die Zeit|time
+123.0|adjective|lang|long
+124.0|adverb|lang|for a long time
+125.0|verb|leben|to live
+126.0|noun|die Frau|woman
+126.001|noun|die Frau|wife
+126.002|noun|die Frau|Mrs.
+127.0|pronoun|etwas|something
+127.001|pronoun|etwas|some
+127.002|pronoun|etwas|a little
+128.0|particle|selbst|even
+129.0|pronoun|selbst|-self
+130.0|adjective|wenig|few
+131.0|pronoun|wenige|few
+131.001|pronoun|wenige|little
+132.0|verb|finden|to find
+133.0|preposition|gegen|against
+134.0|preposition|zwischen|between
+135.0|number|drei|three
+136.0|verb|liegen|to lie
+137.0|pronoun|wo|where
+138.0|pronoun|nichts|nothing
+139.0|adjective|klein|small
+139.001|adjective|klein|little
+140.0|noun|der Tag|day
+141.0|adjective|deutsch|German
+142.0|noun|das Deutsch|German
+143.0|verb|bleiben|to stay
+143.001|verb|bleiben|to remain
+144.0|adverb|nun|now
+145.0|conjunction|sondern|but (on the contrary)
+146.0|adverb|heute|today
+147.0|pronoun|beide|both
+148.0|adjective|hoch|tall
+148.001|adjective|hoch|high
+149.0|pronoun|damit|with it
+150.0|conjunction|ohne|without
+151.0|preposition|ohne|without
+152.0|noun|der Mann|man
+153.0|pronoun|welche|which
+154.0|verb|tun|to do
+155.0|adverb|einmal|once
+156.0|pronoun|ihnen|them
+157.0|pronoun|Ihnen|you
+158.0|verb|heißen|to be called
+159.0|conjunction|ob|whether
+159.001|conjunction|ob|if
+160.0|verb|denken|to think
+161.0|pronoun|dabei|there
+161.001|pronoun|dabei|with it
+161.002|pronoun|dabei|with (somebody)
+162.0|preposition|seit|for
+162.001|preposition|seit|since
+163.0|adjective|einfach|simple
+163.001|adjective|einfach|easy
+164.0|particle|einfach|simply
+165.0|adverb|erst|only
+165.001|adverb|erst|first
+165.002|adverb|erst|not until
+166.0|particle|erst|
+167.0|noun|das Kind|child
+168.0|noun|das Land|country
+168.001|noun|das Land|land
+168.002|noun|das Land|state
+169.0|verb|stellen|to place
+169.001|verb|stellen|to set
+169.002|verb|stellen|to put
+170.0|verb|zeigen|to show
+171.0|adjective|natürlich|natural
+172.0|adverb|natürlich|of course
+172.001|adverb|natürlich|naturally
+173.0|adjective|alt|old
+174.0|adverb|dort drüben|over there
+174.001|adverb|dort|there
+175.0|noun|Deutschland|Germany
+176.0|adjective|gleich|same
+176.001|adjective|gleich|right away
+176.002|adjective|gleich|just
+177.0|verb|nehmen|to take
+178.0|verb|dürfen|to be allowed to
+179.0|adjective|wichtig|important
+180.0|adverb|vielleicht|perhaps
+180.001|adverb|vielleicht|maybe
+181.0|particle|vielleicht|quite
+182.0|verb|hören|to hear
+182.001|verb|hören|to listen (to)
+183.0|noun|das Haus|house
+184.0|particle|nein|no
+185.0|pronoun|wer|who
+185.001|pronoun|wer|whoever
+186.0|pronoun|dazu|in addition
+186.002|pronoun|dazu|to that
+186.003|pronoun|dazu|for that
+186.004|pronoun|dazu|of that
+186.005|pronoun|dazu|furthermore
+187.0|adjective|eigentlich|actual
+187.001|adjective|eigentlich|real
+188.0|adverb|eigentlich|actually
+189.0|particle|eigentlich|
+190.0|adjective|letzte|last
+191.0|verb|fragen|to ask
+192.0|noun|der Herr|Mr.
+193.0|verb|halten|to hold
+193.001|verb|halten|to stop
+194.0|verb|glauben|to believe
+195.0|noun|die Frage|question
+196.0|verb|gelten|to be valid
+197.0|adjective|gerade|straight
+198.0|adverb|gerade|just
+198.001|adverb|gerade|just now
+198.002|adverb|gerade|right now
+199.0|verb|folgen|to follow
+200.0|verb|sprechen|to speak
+201.0|verb|führen|to lead
+202.0|verb|bringen|to take
+202.001|verb|bringen|to bring
+203.0|noun|die Welt|world
+204.0|adverb|gar|at all
+205.0|adjective|eigen|own
+206.0|adjective|genau|exact
+207.0|verb|mögen|to like
+208.0|adverb|spät|late
+209.0|adjective|spät|late
+210.0|adverb|bereits|already
+211.0|adjective|möglich|possible
+212.0|adverb|so ... wie möglich|as ... as possible
+212.001|adverb|so ... wie möglich|if possible
+213.0|noun|das Prozent|percent
+214.0|conjunction|während|while
+214.001|conjunction|während|whereas
+215.0|preposition|während|during
+215.001|preposition|während|while
+216.0|pronoun|einige|some
+216.001|pronoun|einige|a few
+217.0|pronoun|dafür|for it
+217.001|pronoun|dafür|for that
+218.0|adjective|kurz|short
+219.0|adjective|richtig|correct
+219.001|adjective|richtig|right
+220.0|adjective|stark|strong
+221.0|verb|brauchen|to need
+222.0|noun|die Hand|hand
+223.0|adverb|etwa|about
+223.001|adverb|etwa|approximately
+224.0|particle|etwa|(expressing surprise)
+225.0|adjective|weitere|further
+225.001|adjective|weitere|additional
+226.0|noun|das Ende|end
+227.0|verb|schreiben|to write
+228.0|pronoun|solch|such
+229.0|adverb|nie|never
+230.0|noun|der Fall|case
+230.001|noun|der Fall|fall
+231.0|adjective|schön|beautiful
+231.001|adjective|schön|pleasant
+231.002|adjective|schön|nice
+232.0|adjective|wirklich|real
+232.001|adjective|wirklich|actual
+233.0|adverb|wirklich|really
+233.001|adverb|wirklich|actually
+234.0|pronoun|denen (pl, Dativ)|those
+234.001|pronoun|denen (pl, Dativ)|whom
+234.002|pronoun|denen (pl, Dativ)|that
+235.0|verb|nennen|to name
+235.001|verb|nennen|to call
+236.0|adverb|warum|why
+237.0|verb|ziehen|to move
+237.001|verb|ziehen|to pull
+238.0|noun|das Wort|word
+239.0|pronoun|darauf|on it
+239.001|pronoun|darauf|to it
+240.0|adverb|eben|just
+241.0|particle|eben|just
+241.001|particle|eben|exactly
+242.0|noun|die Seite|side
+242.001|noun|die Seite|page
+243.0|noun|das Teil|part
+244.0|adjective|jung|young
+245.0|number|vier|four
+246.0|adjective|besser|better
+247.0|adverb|fast|almost
+248.0|adjective|schnell|quick
+248.001|adjective|schnell|fast
+249.0|noun|die Stadt|city
+249.001|noun|die Stadt|town
+250.0|verb|spielen|to play
+251.0|adverb|zwar|admittedly
+251.001|adverb|zwar ..., aber|although
+251.002|adverb|und zwar|namely
+252.0|noun|der Euro|euro (unit of currency)
+253.0|noun|die Arbeit|work
+254.0|noun|die Million (Mio.)|million
+255.0|noun|das Problem|problem
+256.0|verb|verstehen|to understand
+257.0|verb|bekommen|to receive
+257.001|verb|bekommen|to get
+258.0|verb|meinen|to think
+258.001|verb|meinen|to have an opinion
+259.0|pronoun|davon|about it
+259.001|pronoun|davon|from it
+259.002|pronoun|davon|thereof
+260.0|verb|fahren|to drive
+260.001|verb|fahren|to ride
+260.002|verb|fahren|to go
+261.0|verb|kennen|to know
+262.0|pronoun|dich|you
+262.001|pronoun|dich|yourself
+263.0|noun|die Mutter|mother
+264.0|noun|die Woche|week
+265.0|noun|der Weg|path
+265.001|noun|der Weg|way
+266.0|adverb|weiter|further
+267.0|noun|das Auge|eye
+268.0|adverb|oft|often
+269.0|noun|die Leute (pl)|people
+270.0|adverb|allerdings|though
+270.001|adverb|allerdings|indeed
+270.002|adverb|allerdings|certainly
+271.0|adverb|sogar|even
+271.001|adverb|sogar|in fact
+272.0|adverb|jedoch|however
+273.0|verb|setzen|to place
+273.002|verb|setzen|to put
+274.0|verb|setzen|to sit down
+275.0|adverb|deshalb|so
+275.001|adverb|deshalb|therefore
+276.0|adverb|weit|far
+276.001|adverb|weit|widely
+277.0|verb|sitzen|to sit
+278.0|noun|der Vater|father
+279.0|pronoun|dein|your
+280.0|verb|arbeiten|to work
+281.0|noun|das Geld|money
+282.0|noun|das Unternehmen|company
+282.001|noun|das Unternehmen|enterprise
+283.0|adjective|nächste|next
+284.0|verb|erklären|to explain
+285.0|adjective|klar|clear
+286.0|noun|der Doktor|doctor
+287.0|noun|das Paar|couple
+287.001|noun|das Paar|pair
+288.0|pronoun|ein paar|a few
+289.0|adjective|recht|to be fine (with)
+289.001|adjective|recht|(all) right
+289.002|adjective|recht|be fine (with)
+290.0|noun|das Recht|right
+290.001|noun|das Recht|law
+291.0|particle|recht|rather
+291.001|particle|recht|quite
+292.0|preposition|wegen|because of
+293.0|pronoun|dir|you
+294.0|noun|das Wasser|water
+295.0|verb|bestehen|to pass (an exam)
+295.001|verb|bestehen|to exist
+295.002|verb|bestehen|to insist
+296.0|verb|versuchen|to try
+296.001|verb|versuchen|to attempt
+297.0|noun|der Punkt|point
+297.001|noun|der Punkt|period
+297.002|noun|der Punkt|dot
+298.0|noun|der Grund|reason
+298.001|noun|der Grund|basis
+299.0|noun|der Kopf|head
+300.0|verb|beginnen|to begin
+301.0|verb|laufen|to run
+302.0|noun|das Bild|picture
+303.0|adjective|verschieden|different
+303.001|adjective|verschieden|diverse
+304.0|noun|der Name|name
+305.0|noun|die Aufgabe|task
+305.001|noun|die Aufgabe|assignment
+305.002|noun|die Aufgabe|job
+306.0|adjective|schwer|heavy
+306.001|adjective|schwer|difficult
+307.0|verb|entsprechen|to correspond
+308.0|verb|treffen|to meet
+309.0|noun|die Art|kind
+309.001|noun|die Art|type
+310.0|adverb|wohl|well
+311.0|particle|wohl|probably
+312.0|noun|die Geschichte|story
+312.001|noun|die Geschichte|history
+313.0|verb|erzählen|to tell
+314.0|verb|entstehen|to arise
+314.001|verb|entstehen|to originate
+314.002|verb|entstehen|to develop
+315.0|adjective|sicher|secure
+315.001|adjective|sicher|safe
+315.002|adjective|sicher|certain
+316.0|preposition|neben|next to
+316.001|preposition|neben|beside
+317.0|adverb|allein|alone
+318.0|noun|die Abbildung (Abb.)|illustration
+319.0|preposition|hinter|behind
+319.001|preposition|hinter|in back of
+320.0|adverb|besonders|particularly
+321.0|verb|tragen|to carry
+321.001|verb|tragen|to wear
+322.0|adverb|kaum|hardly
+323.0|noun|der Freund|friend
+324.0|number|fünf|five
+325.0|verb|scheinen|to shine
+325.001|verb|scheinen|to seem
+325.002|verb|scheinen|to appear
+326.0|noun|die Stunde|hour
+327.0|verb|aussehen|to look
+327.001|verb|aussehen|to appear
+328.0|adverb|gern|(with a verb) love to
+329.0|adverb|überhaupt|at all
+329.001|adverb|überhaupt|even
+330.0|adjective|bestimmt|special
+330.001|adjective|bestimmt|certain
+330.002|adjective|bestimmt|certainly
+331.0|conjunction|sowie|as well as
+331.001|conjunction|sowie|as soon as
+331.003|conjunction|sowie|plus
+332.0|noun|der Professor|professor
+333.0|pronoun|darüber|about it
+333.001|pronoun|darüber|above it
+334.0|pronoun|deren|whose
+335.0|verb|schaffen|to manage
+335.001|verb|schaffen|to create
+336.0|pronoun|damals|back then
+337.0|verb|erhalten|to receive
+338.0|verb|lernen|to learn
+339.0|adjective|frei|free
+339.001|adjective|frei|free
+339.002|adjective|frei|free
+340.0|adjective|wert|worth
+341.0|noun|der Wert|value
+342.0|conjunction|beziehungsweise (bzw.)|or rather
+342.001|conjunction|beziehungsweise (bzw.)|respectively
+343.0|pronoun|daran|on it
+344.0|verb|suchen|to search
+344.001|verb|suchen|to look for
+345.0|noun|Europa|Europe
+346.0|adjective|gemeinsam|common
+347.0|adjective|rund|round
+348.0|adverb|rund|approximately
+349.0|noun|die Zahl|number
+350.0|noun|das Thema|topic
+350.001|noun|das Thema|subject
+350.002|noun|das Thema|theme
+351.0|verb|handeln|to deal
+351.001|verb|handeln|trade
+352.0|noun|das Buch|book
+353.0|pronoun|ein bisschen|a little
+354.0|adjective|deutlich|clear
+355.0|adverb|anders|differently
+355.001|adverb|anders|different
+356.0|adjective|politisch|political
+357.0|verb|lesen|to read
+358.0|noun|der Blick|view
+358.001|noun|der Blick|look
+358.002|noun|der Blick|glance
+359.0|noun|die Form|shape
+359.001|noun|die Form|form
+360.0|adjective|einzeln|single
+360.001|adjective|einzeln|separately
+360.002|adjective|einzeln|separately
+360.003|adjective|einzeln|individual
+361.0|verb|erreichen|to achieve
+361.001|verb|erreichen|to reach
+361.002|verb|erreichen|to reach
+362.0|verb|vergehen|to pass (time)
+363.0|adjective|leicht|light
+363.001|adjective|leicht|easy
+364.0|adverb|je|each
+364.001|adverb|je|ever
+365.0|conjunction|je ..., desto|the more ..., the
+366.0|verb|verlieren|to lose
+367.0|adjective|beste|best
+368.0|verb|bilden|to form
+368.001|verb|bilden|to educate
+369.0|noun|der Monat|month
+370.0|noun|die Lösung|solution
+371.0|noun|die Sache|thing
+372.0|adjective|bekannt|famous
+372.001|adjective|bekannt|well-known
+373.0|noun|das Ziel|goal
+373.001|noun|das Ziel|destination
+374.0|verb|steigen|to climb
+374.001|verb|steigen|to increase
+375.0|adverb|eher|rather
+375.001|adverb|eher|sooner
+375.002|adverb|eher|earlier
+375.003|adverb|eher|more likely
+376.0|verb|essen|to eat
+377.0|noun|die Minute|minute
+378.0|adverb|nachts|at night
+378.001|adverb|nachts|nights
+379.0|noun|die Nacht|night
+380.0|noun|der Platz|place
+380.001|noun|der Platz|place
+380.002|noun|der Platz|square
+380.003|noun|der Platz|room
+381.0|adjective|schlecht|bad
+382.0|noun|das Spiel|game
+382.001|noun|das Spiel|match
+383.0|noun|die Familie|family
+384.0|pronoun|jemand|someone
+384.001|pronoun|jemand|somebody
+385.0|pronoun|dessen|whose
+386.0|verb|fallen|to fall
+387.0|number|zehn|ten
+388.0|noun|der Preis|price
+388.001|noun|der Preis|prize
+389.0|adjective|europäisch|European
+390.0|adverb|sonst|otherwise
+391.0|noun|der Staat|state
+392.0|verb|helfen|to help
+393.0|noun|der Bereich|area
+393.001|noun|der Bereich|region
+394.0|adjective|tatsächlich|actual
+394.001|adjective|tatsächlich|real
+395.0|noun|der Ort|place
+395.002|noun|der Ort|location
+396.0|adverb|abends|in the evening
+397.0|noun|der Abend|evening
+398.0|adjective|einzig|only
+398.001|adjective|einzig|single
+399.0|noun|die Stelle|place
+400.0|adjective|unterschiedlich|different
+401.0|noun|das Gesicht|face
+402.0|noun|die Entwicklung|development
+403.0|noun|die Uhr|clock
+403.001|noun|die Uhr|watch
+403.002|noun|die Uhr|o’clock
+404.0|pronoun|mehrere|several
+404.001|pronoun|mehrere|multiple
+404.002|pronoun|mehrere|various
+405.0|verb|schließen|to close
+406.0|adverb|schließlich|eventually
+406.001|adverb|schließlich|finally
+407.0|verb|legen|to put
+407.001|verb|legen|to lay
+408.0|adjective|direkt|direct
+408.001|adjective|direkt|straight
+409.0|pronoun|daher|therefore
+409.001|pronoun|daher|from there
+409.002|pronoun|daher|therefore
+409.003|pronoun|daher|hence
+410.0|adjective|offen|open
+411.0|verb|erkennen|to recognize
+411.001|verb|erkennen|to admit
+412.0|noun|die Person|person
+413.0|noun|der Moment|moment
+414.0|noun|die Schule|school
+415.0|pronoun|darin|in it
+415.001|pronoun|darin|in there
+415.002|pronoun|darin|inside
+416.0|noun|das Auto|car
+416.001|noun|das Auto|automobile
+417.0|pronoun|niemand|nobody
+417.001|pronoun|niemand|no one
+418.0|noun|die Gesellschaft|society
+418.001|noun|die Gesellschaft|company
+419.0|verb|warten|to wait
+420.0|verb|vorstellen|to introduce
+420.001|verb|vorstellen|to imagine
+421.0|adjective|früh|early
+422.0|verb|treten|to step
+423.0|verb|reden|to talk
+424.0|noun|die Gruppe|group
+425.0|noun|das Ding|thing
+425.001|noun|das Ding|thing
+426.0|particle|na|so
+426.001|particle|na|well
+427.0|verb|gewinnen|to win
+427.001|verb|gewinnen|to gain
+428.0|adverb|zunächst|first
+428.001|adverb|zunächst|at first
+428.002|adverb|zunächst|for now
+429.0|conjunction|damit|so that
+430.0|noun|die Tür|door
+431.0|noun|der Schritt|step
+432.0|verb|entwickeln|to develop
+433.0|adjective|meiste|most
+434.0|noun|die Möglichkeit|possibility
+434.001|noun|die Möglichkeit|chance
+435.0|noun|der Sinn|meaning
+435.001|noun|der Sinn|sense
+436.0|verb|passieren|to happen
+436.001|verb|passieren|to take place
+437.0|adverb|manchmal|sometimes
+438.0|noun|der Vergleich|comparison
+439.0|noun|das System|system
+440.0|noun|die Rolle|role
+440.001|noun|die Rolle|roll
+441.0|noun|das Ergebnis|result
+442.0|verb|vergleichen|to compare
+443.0|adjective|voll|full
+444.0|verb|erwarten|to expect
+445.0|conjunction|obwohl|although
+446.0|noun|die Straße|street
+447.0|noun|die Angst|fear
+448.0|adjective|allgemein|general
+449.0|verb|fühlen|to feel
+450.0|pronoun|jene|that
+450.001|pronoun|jene|those
+451.0|verb|erinnern|to remind
+452.0|particle|oh|oh
+452.001|particle|oh|aw
+453.0|verb|bedeuten|to mean
+454.0|noun|die Stimme|voice
+454.001|noun|die Stimme|vote
+455.0|noun|die Reaktion|reaction
+456.0|verb|wirken|to take effect
+456.001|verb|wirken|to have an effect
+456.002|verb|wirken|to work
+457.0|verb|darstellen|to present
+457.001|verb|darstellen|to depict
+457.002|verb|darstellen|to portray
+457.003|verb|darstellen|to show
+458.0|noun|der Raum|room
+458.001|noun|der Raum|space
+459.0|noun|die Eltern (pl)|parents
+460.0|verb|bezeichnen|to call
+460.001|verb|bezeichnen|to describe
+460.002|verb|bezeichnen|to refer to
+460.003|verb|bezeichnen|to consider
+461.0|noun|die Funktion|function
+462.0|adjective|häufig|frequent
+463.0|verb|erscheinen|to appear
+464.0|noun|die USA (Vereinigte Staaten von Amerika)|USA
+464.001|noun|die USA (Vereinigte Staaten von Amerika)|United States of America
+465.0|noun|der Flüchtling|refugee
+466.0|adverb|früher|in the past
+467.0|noun|das Pro|pro
+468.0|preposition|pro|per
+469.0|verb|ergeben|to produce
+469.001|verb|ergeben|to result in
+470.0|verb|entscheiden|to decide
+471.0|noun|die Universität|university
+472.0|verb|betreffen|to concern
+472.001|verb|betreffen|to affect
+473.0|adverb|oben|above
+473.001|adverb|oben|up there
+474.0|noun|die Richtung|direction
+475.0|verb|bestimmen|to determine
+475.001|verb|bestimmen|to decide
+476.0|verb|fehlen|to be missing
+476.001|verb|fehlen|to lack
+476.002|verb|fehlen|to be absent
+477.0|noun|die Sprache|language
+478.0|noun|das Produkt|product
+479.0|noun|die Situation|situation
+480.0|adverb|außerdem|besides
+480.001|adverb|außerdem|in addition
+481.0|particle|nämlich|you see
+481.001|particle|nämlich|namely
+482.0|adjective|international|international
+483.0|noun|der Anfang|beginning
+484.0|number|sechs|six
+485.0|verb|nutzen|to use
+486.0|adjective|sozial|social
+487.0|noun|die Folge|consequences
+487.001|noun|die Folge|result
+488.0|noun|der Satz|sentence
+489.0|pronoun|manche|some
+489.001|pronoun|manche|many a
+490.0|noun|die Verbindung|connection
+490.001|noun|die Verbindung|link
+491.0|verb|beschreiben|to describe
+492.0|noun|das Licht|light
+493.0|adjective|ähnlich|similar
+494.0|noun|die Regel|rule
+495.0|preposition|gegenüber|opposite
+496.0|noun|der Kollege|colleague
+497.0|adverb|bisher|until now
+497.001|adverb|bisher|up to now
+497.002|adverb|bisher|yet
+498.0|adjective|tief|deep
+499.0|adjective|halb|half
+500.0|verb|lachen|to laugh
+501.0|adverb|ebenfalls|also
+501.001|adverb|ebenfalls|likewise
+501.002|adverb|ebenfalls|as well
+502.0|adverb|sofort|immediately
+503.0|noun|die Grenze|border
+503.001|noun|die Grenze|frontier
+504.0|verb|ändern|to change
+505.0|noun|die Entscheidung|decision
+506.0|verb|verlassen|to leave
+507.0|noun|die Idee|idea
+508.0|verb|verbinden|to connect
+508.002|verb|verbinden|to unite
+508.003|verb|verbinden|to link
+509.0|noun|die Milliarde (Mrd.)|billion
+510.0|adverb|endlich|finally
+510.001|adverb|endlich|at last
+511.0|noun|die Energie|energy
+512.0|adverb|plötzlich|suddenly
+513.0|pronoun|danach|afterwards
+513.001|pronoun|danach|after it
+514.0|noun|die Kraft|strength
+514.001|noun|die Kraft|power
+515.0|adverb|lieber|rather
+516.0|verb|gehören|to belong
+517.0|verb|einsetzen|to insert
+517.001|verb|einsetzen|to put in
+518.0|noun|das Gefühl|feeling
+519.0|adverb|trotzdem|nevertheless
+520.0|verb|befinden (sich)|to be
+521.0|noun|die Information|information
+522.0|pronoun|dadurch|as a result
+522.001|pronoun|dadurch|through it
+522.002|pronoun|dadurch|as a consequence
+523.0|pronoun|dagegen|against it
+523.001|pronoun|dagegen|on the other hand
+524.0|noun|die Weise|way
+524.001|noun|die Weise|manner
+525.0|noun|die Zukunft|future
+526.0|verb|wachsen|to grow
+527.0|adverb|bitte|please
+528.0|adjective|weiß|white
+529.0|noun|der Text|text
+530.0|adjective|schwarz|black
+531.0|verb|sterben|to die
+532.0|noun|der Markt|market
+533.0|adjective|rot|red
+534.0|particle|halt|just
+534.001|particle|halt|simply
+535.0|noun|der Meter (m)|meter
+536.0|adjective|nah|near(by)
+536.001|adjective|nah|close
+537.0|preposition|nahe|close to
+537.001|preposition|nahe|near
+538.0|noun|die Hilfe|help
+539.0|noun|das Kapitel|chapter
+540.0|verb|ausgehen|to go out
+540.001|verb|ausgehen|to assume
+541.0|noun|die Bedeutung|meaning
+541.001|noun|die Bedeutung|significance
+542.0|verb|betrachten|to look at
+542.001|verb|betrachten|to consider
+543.0|noun|die Chemie|chemistry
+544.0|noun|die Luft|air
+545.0|noun|der Körper|body
+546.0|noun|die Struktur|structure
+547.0|verb|stimmen|to be correct
+547.002|verb|stimmen|to tune
+547.003|verb|stimmen|to vote
+548.0|verb|bitten|to ask
+548.001|verb|bitten|to request
+549.0|noun|das Jahrhundert|century
+550.0|adjective|wahrscheinlich|probable
+550.001|adjective|wahrscheinlich|likely
+551.0|adverb|wahrscheinlich|probably
+551.001|adverb|wahrscheinlich|likely
+552.0|adjective|öffentlich|public
+553.0|pronoun|euch|you
+553.001|pronoun|euch|yourselves
+554.0|adverb|insgesamt|in all
+554.001|adverb|insgesamt|altogether
+554.002|adverb|insgesamt|in total
+555.0|verb|anfangen|to start
+555.001|verb|anfangen|to begin
+555.002|verb|anfangen|to start
+556.0|adverb|genug|enough
+557.0|noun|das Deutsche|German
+558.0|verb|verändern|to change
+559.0|noun|die Wohnung|apartment
+559.001|noun|die Wohnung|flat
+560.0|verb|gelingen|to succeed
+561.0|adverb|bald|soon
+562.0|adjective|gering|small
+562.001|adjective|gering|low
+562.002|adjective|gering|minor
+563.0|noun|der Film|movie
+563.001|noun|der Film|film
+564.0|verb|kaufen|to buy
+565.0|verb|ansehen|to watch
+565.001|verb|ansehen|to look at
+565.002|verb|ansehen|to watch
+566.0|verb|öffnen|to open
+567.0|noun|die Musik|music
+568.0|verb|schauen|to look
+569.0|noun|das Stück|piece
+570.0|adjective|besondere|special
+571.0|adjective|tot|dead
+572.0|noun|der Gott|God
+573.0|adjective|völlig|completely
+573.001|adjective|völlig|absolutely
+574.0|adjective|positiv|positive
+575.0|noun|das Gespräch|conversation
+576.0|pronoun|darum|that’s why
+576.001|pronoun|darum|around it
+576.002|pronoun|darum|therefore
+577.0|noun|der Kunde|customer
+577.001|noun|der Kunde|client
+578.0|noun|die Menge|amount
+578.001|noun|die Menge|quantity
+579.0|noun|die Regierung|government
+579.001|noun|die Regierung|rule
+580.0|noun|die Antwort|answer
+580.001|noun|die Antwort|reply
+581.0|verb|annehmen|to accept
+581.001|verb|annehmen|to assume
+582.0|adjective|falsch|wrong
+582.001|adjective|falsch|false
+583.0|noun|der Zusammenhang|context
+583.001|noun|der Zusammenhang|connection
+584.0|adjective|langsam|slow
+585.0|noun|der Arm|arm
+586.0|conjunction|nachdem|after
+587.0|noun|der Tisch|table
+588.0|verb|rufen|to call
+589.0|verb|bieten|to offer
+590.0|noun|das Herz|heart
+591.0|adverb|zusammen|together
+592.0|adverb|inzwischen|in the meantime
+593.0|adverb|ebenso|just as
+593.001|adverb|ebenso|as much as
+593.002|adverb|ebenso|as well
+594.0|noun|der Boden|ground
+594.001|noun|der Boden|floor
+594.002|noun|der Boden|bottom
+595.0|conjunction|bevor|before
+596.0|verb|verwenden|to use
+597.0|noun|die Politik|politics
+598.0|noun|der Tod|death
+599.0|noun|der Erfolg|success
+600.0|adverb|zudem|moreover
+600.001|adverb|zudem|furthermore
+600.002|adverb|zudem|besides
+601.0|noun|die Bank|bank
+601.001|noun|die Bank|bench
+602.0|preposition|ab|from
+602.001|preposition|ab|as of
+603.0|adjective|persönlich|personal
+604.0|noun|der Präsident|president
+605.0|verb|holen|to get
+605.001|verb|holen|to fetch
+606.0|noun|der Junge|boy
+607.0|adjective|sogenannt|so-called
+608.0|noun|die Polizei|police
+609.0|noun|die Chance|chance
+610.0|adjective|gewiss|certain
+611.0|preposition|innerhalb|within
+612.0|noun|die Kunst|art
+613.0|noun|die Lage|situation
+613.001|noun|die Lage|location
+614.0|noun|der Schüler|student (USA)
+614.001|noun|der Schüler|pupil
+615.0|adjective|gesamt|entire
+615.001|adjective|gesamt|whole
+616.0|noun|der Druck|pressure
+616.001|noun|der Druck|printing
+617.0|verb|verschwinden|to disappear
+618.0|verb|wohnen|to live
+619.0|verb|bewegen|to move
+620.0|verb|enthalten|to contain
+621.0|verb|aufnehmen|to record
+621.001|verb|aufnehmen|to take in
+621.002|verb|aufnehmen|to include
+622.0|noun|die Kosten (pl)|costs
+622.001|noun|die Kosten (pl)|expenses
+623.0|noun|das Wintersemester|winter semester
+624.0|verb|merken|to notice
+624.001|verb|merken|to remember
+625.0|adjective|fest|sturdy
+625.001|adjective|fest|stable
+625.002|adjective|fest|firm
+625.003|adverb|fest|firmly
+625.004|adjective|fest|firmly
+625.005|adjective|fest|strong
+625.0051|adjective|fest|strong
+625.006|adjective|fest|solid
+626.0|adjective|aktuell|current
+626.001|adjective|aktuell|up-to-date
+627.0|noun|der Begriff|term
+627.001|noun|der Begriff|concept
+627.002|noun|der Begriff|idea
+628.0|verb|erleben|to experience
+629.0|adjective|relativ|relative
+630.0|preposition|laut|according to
+631.0|noun|der Fuß|foot
+632.0|noun|die Daten (pl)|data
+633.0|noun|der Krieg|war
+634.0|noun|der Gast|guest
+635.0|noun|die Aussage|statement
+636.0|noun|das Gesetz|law
+637.0|verb|planen|to plan
+638.0|adjective|schwierig|difficult
+638.001|adjective|schwierig|hard
+638.002|adjective|schwierig|tough
+639.0|noun|das Gut|good(s)
+639.001|noun|das Gut|estate
+640.0|noun|der Kilometer|kilometer
+641.0|adjective|zusätzlich|additional
+642.0|verb|vergessen|to forget
+643.0|noun|der Gedanke|thought
+644.0|verb|besitzen|to own
+644.001|verb|besitzen|to have
+645.0|particle|ach|oh
+646.0|noun|die Partei|(political) party
+647.0|verb|freuen|to be happy
+648.0|verb|hängen|to hang
+649.0|verb|berichten|to report
+650.0|noun|die Zelle|cell
+651.0|adjective|eng|narrow
+651.001|adjective|eng|close
+652.0|noun|die Kultur|culture
+653.0|noun|der Prozess|trial
+653.001|noun|der Prozess|process
+654.0|noun|der Sohn|son
+655.0|noun|der Dank|gratefulness
+656.0|preposition|trotz|in spite of
+657.0|verb|fordern|to demand
+657.001|verb|fordern|to claim
+658.0|verb|studieren|to study
+659.0|verb|gefallen|to please
+660.0|noun|das Mädchen|girl
+661.0|noun|das Verhalten|behavior
+662.0|verb|verhalten|to behave
+662.001|verb|verhalten|to act
+663.0|adverb|mindestens|at least
+664.0|adverb|ziemlich|quite
+664.001|adverb|ziemlich|fairly
+664.002|adverb|ziemlich|pretty
+665.0|noun|das Interesse|interest
+666.0|verb|unterscheiden|to distinguish
+667.0|adverb|wobei|while
+667.001|adverb|wobei (Verben mit Präpositionen)|what ... by
+667.002|adverb|wobei|whereby
+667.003|adverb|wobei|at what
+667.004|adverb|wobei|what ... by
+667.005|adverb|wobei|about which
+668.0|adverb|jeweils|each time
+668.001|adverb|jeweils|each
+669.0|verb|reichen|to be enough
+669.001|verb|reichen|to reach
+670.0|number|sieben|seven
+671.0|adverb|zumindest|at least
+672.0|verb|schlagen|to hit
+672.001|verb|schlagen|to beat
+673.0|noun|das Tier|animal
+674.0|adverb|jedenfalls|in any case
+675.0|particle|am|the (superlative)
+676.0|verb|erhöhen|to raise
+676.001|verb|erhöhen|to increase
+677.0|verb|sorgen|to take care
+677.001|verb|sorgen|to worry
+678.0|noun|die Erfahrung|experience
+679.0|noun|der Patient|patient
+680.0|adverb|morgens|in the morning
+681.0|noun|der Morgen|morning
+682.0|noun|der Arzt|doctor
+682.001|noun|der Arzt|physician
+683.0|verb|geschehen|to happen
+683.001|verb|geschehen|to occur
+684.0|noun|Bayern|Bavaria
+685.0|verb|lösen|to solve
+685.001|verb|lösen|to loosen
+686.0|adverb|irgendwie|somehow
+687.0|verb|anbieten|to offer
+688.0|verb|vorkommen|to happen
+688.001|verb|vorkommen|to occur
+688.002|verb|vorkommen|to seem
+689.0|adjective|okay|okay
+690.0|noun|das Okay|okay
+691.0|verb|wünschen|to wish
+691.001|verb|wünschen|to want
+692.0|verb|interessieren|to interest
+693.0|noun|der Unterschied|difference
+694.0|noun|das Foto|photograph
+695.0|verb|trinken|to drink
+696.0|pronoun|dasselbe|the same (one)
+697.0|verb|wählen|to vote
+697.001|verb|wählen|to choose
+697.002|verb|wählen|to elect
+698.0|adverb|gleichzeitig|simultaneously
+698.001|adverb|gleichzeitig|at the same time
+699.0|adjective|knapp|scarce
+699.001|adjective|knapp|slim
+700.0|noun|der Mitarbeiter|employee
+700.001|noun|der Mitarbeiter|co-worker
+701.0|verb|übernehmen|to take over
+702.0|noun|das Glück|luck
+702.001|noun|das Glück|luck
+702.002|noun|das Glück|happiness
+702.003|noun|das Glück|fortune
+702.0001|noun|Glück haben|be lucky
+703.0|adjective|normal|normal
+704.0|adverb|leider|unfortunately
+705.0|noun|die Grundlage|basis
+706.0|number|acht|eight
+707.0|noun|die Leistung|performance
+708.0|verb|vorliegen|to be available
+708.001|verb|vorliegen|to exist
+709.0|verb|erfolgen|to take place
+709.001|verb|erfolgen|to occur
+710.0|noun|die Beziehung|relationship
+710.001|noun|die Beziehung|relation
+711.0|verb|zunehmen|to increase
+712.0|noun|das Molekül|molecule
+713.0|verb|stattfinden|to take place
+713.001|verb|stattfinden|to occur
+714.0|verb|ankommen|to arrive
+715.0|noun|das Auftreten|appearance
+715.001|noun|das Auftreten|behavior
+715.002|noun|das Auftreten|conduct
+715.003|noun|das Auftreten|occurrence
+716.0|verb|auftreten|to occur
+716.001|verb|auftreten|to appear
+717.0|adverb|insbesondere|especially
+718.0|adjective|technisch|technical
+719.0|pronoun|wann|when
+720.0|adverb|los|going on
+720.0001|adverb|loswerden|to get rid of
+720.0002|adverb|los sein|be rid of
+721.0|noun|das Bett|bed
+722.0|noun|die Höhe|height
+722.001|noun|die Höhe|altitude
+723.0|adjective|wesentlich|essential
+723.001|adjective|wesentlich|fundamental
+724.0|adjective|englisch|English
+725.0|noun|das Englisch|English
+726.0|adverb|zuletzt|last
+726.001|adverb|zuletzt|finally
+726.002|adverb|zuletzt|most recently
+727.0|adjective|rein|pure
+727.001|adjective|rein|purely
+727.002|adjective|rein|clean
+727.0001|adjective|-rein|clear
+728.0|noun|das Zimmer|room
+729.0|conjunction|indem|by
+729.001|conjunction|indem|while
+730.0|verb|bauen|to build
+731.0|noun|das Verhältnis|relationship
+732.0|adjective|selten|rare
+733.0|noun|die Zeitung|newspaper
+734.0|adjective|innere|internal
+735.0|adverb|beispielsweise|for example
+735.001|adverb|beispielsweise|such as
+736.0|noun|die Bedingung|condition
+736.001|noun|die Bedingung|stipulation
+737.0|noun|das Fenster|window
+738.0|noun|der Zug|train
+739.0|adverb|derzeit|at the moment
+740.0|verb|funktionieren|to work
+740.001|verb|funktionieren|to function
+741.0|conjunction|sowohl|both ... and
+742.0|verb|schlafen|to sleep
+743.0|preposition|statt|instead of
+744.0|noun|das Werk|work
+745.0|adjective|grün|green
+746.0|noun|der Bürger|citizen
+747.0|verb|dienen|to serve
+748.0|adjective|echt|genuine
+748.001|adjective|echt|really
+748.002|adjective|echt|real
+749.0|noun|die Firma|company
+749.001|noun|die Firma|firm
+750.0|noun|die Wirtschaft|economy
+751.0|verb|stecken|to put
+751.001|verb|stecken|to be (inserted or stuck into something)
+752.0|verb|hoffen|to hope (for)
+752.001|verb|hoffen|to hope
+753.0|verb|erfahren|to find out
+753.001|verb|erfahren|to experience
+754.0|noun|das Mittel|means
+754.001|noun|das Mittel|remedy
+755.0|noun|die Folie|slide
+755.001|noun|die Folie|foil
+755.002|noun|die Folie|foil
+756.0|verb|leisten|to perform
+756.001|verb|leisten|to achieve
+756.002|verb|leisten|to do
+757.0|noun|die Tochter|daughter
+758.0|noun|der Lehrer|teacher
+759.0|verb|passen|to fit
+760.0|verb|beobachten|to observe
+760.001|verb|beobachten|to watch
+761.0|noun|die Einführung|introduction
+761.001|noun|die Einführung|introduction
+762.0|noun|das Element|element
+762.001|noun|das Element|element
+763.0|verb|klingen|to sound
+763.001|verb|klingen|to sound
+764.0|verb|lieben|to love
+765.0|noun|die Dame|lady
+766.0|noun|die Vorlesung|lecture
+767.0|verb|zählen|to count
+768.0|adverb|meist|usually
+768.001|adverb|meist|mostly
+769.0|adjective|dunkel|dark
+770.0|noun|Österreich|Austria
+771.0|noun|das Modell|model
+772.0|noun|die Bewegung|movement
+772.001|noun|die Bewegung|motion
+773.0|adverb|unten|down
+774.0|noun|die Mitte|middle
+775.0|adverb|hin|there
+775.001|adverb|hin|there
+776.0|preposition|aufgrund|because of
+776.001|preposition|aufgrund|on the basis of
+777.0|verb|beschäftigen|to be busy
+777.001|verb|beschäftigen|to employ
+777.002|verb|beschäftigen|to deal with
+778.0|adverb|zuvor|before
+778.001|adverb|zuvor|previously
+779.0|adverb|miteinander|with each other
+780.0|adverb|dennoch|yet
+780.001|adverb|dennoch|nevertheless
+781.0|verb|werfen|to throw
+782.0|noun|das Angebot|offer
+782.001|noun|das Angebot|supply
+783.0|noun|das Projekt|project
+784.0|verb|verkaufen|to sell
+785.0|verb|reagieren|to react
+786.0|noun|der Autor|author
+787.0|verb|kriegen|to get
+787.001|verb|kriegen|to receive
+788.0|adverb|zirka|approximately
+789.0|noun|die EU (Europäische Union)|EU
+790.0|noun|die Größe|size
+790.001|noun|die Größe|height
+791.0|adjective|hart|hard
+792.0|adjective|offenbar|apparent
+793.0|noun|der Bruder|brother
+794.0|verb|beteiligen|to participate
+794.001|verb|beteiligen|to contribute
+795.0|noun|die Phase|phase
+796.0|verb|angeben|to show off
+796.001|verb|angeben|to claim
+796.002|verb|angeben|to declare
+797.0|noun|die Reise|trip
+797.001|noun|die Reise|journey
+798.0|adjective|erfolgreich|successful
+799.0|noun|der Zustand|condition
+799.001|noun|der Zustand|state
+800.0|adjective|wahr|true
+801.0|noun|die Reihe|row
+801.001|noun|die Reihe|series
+801.002|noun|die Reihe|line
+802.0|noun|die Natur|nature
+802.001|noun|die Natur|nature
+803.0|verb|rechnen|to calculate
+803.001|verb|rechnen|to expect
+803.002|verb|rechnen|to compute
+804.0|adjective|bloß|mere
+804.001|adjective|bloß|bare
+805.0|adverb|bloß|just
+805.001|adverb|bloß|only
+805.002|adverb|bloß|simply
+806.0|adjective|notwendig|necessary
+807.0|verb|entdecken|to discover
+808.0|verb|dauern|to take (time)
+808.001|verb|dauern|to last
+809.0|adjective|wirtschaftlich|economic
+809.001|adjective|wirtschaftlich|financial
+810.0|adjective|privat|private
+811.0|adjective|modern|modern
+812.0|noun|das Haar|hair
+813.0|adverb|deswegen|that’s why
+813.001|adverb|deswegen|therefore
+814.0|verb|spüren|to feel
+814.001|verb|spüren|to sense
+814.002|verb|spüren|to notice
+815.0|adjective|unabhängig|independent
+816.0|adverb|morgen|tomorrow
+817.0|noun|der Rahmen|frame
+817.001|noun|der Rahmen|frame
+817.002|noun|der Rahmen|frame
+817.003|noun|der Rahmen|framework
+818.0|adverb|übrigens|by the way
+819.0|noun|die Einheit|unity
+819.001|noun|die Einheit|unit
+819.002|noun|die Einheit|entity
+820.0|adverb|überall|everywhere
+821.0|verb|feststellen|to determine
+821.001|verb|feststellen|to establish
+821.002|verb|feststellen|to detect
+822.0|noun|der Stoff|fabric
+822.001|noun|der Stoff|material
+822.002|noun|der Stoff|substance
+823.0|noun|die Rede|speech
+823.001|noun|die Rede|talk
+824.0|verb|unterstützen|to support
+825.0|adjective|chemisch|chemical
+826.0|adjective|schlimm|bad
+826.001|adjective|schlimm|serious
+827.0|adjective|schlimm|worse
+828.0|noun|die Schweiz|Switzerland
+829.0|adverb|irgendwann|sometime
+829.001|adverb|irgendwann|some day
+830.0|noun|das Geschäft|shop
+830.001|noun|das Geschäft|business
+831.0|conjunction|weder|neither ... nor
+832.0|noun|der Anteil|share
+832.001|noun|der Anteil|portion
+833.0|noun|die Angabe|information
+833.001|noun|die Angabe|statement
+834.0|noun|das Team|team
+835.0|preposition|außer|except
+835.001|preposition|außer|apart from
+836.0|noun|der Sommer|summer
+837.0|noun|das Hotel|hotel
+838.0|adjective|laut|loudly
+838.001|preposition|laut|according to
+839.0|number|eins|one
+840.0|noun|das Alter|age
+841.0|noun|die Sicherheit|safety
+841.001|noun|die Sicherheit|security
+842.0|noun|die SPD (Sozialdemokratische Partei Deutschlands)|SPD
+843.0|adjective|niedrig|low
+844.0|adjective|ständig|constant
+845.0|noun|der Einsatz|use
+845.001|noun|der Einsatz|insert
+845.002|noun|der Einsatz|mission
+845.003|noun|der Einsatz|operation
+845.004|noun|der Einsatz|use
+845.005|noun|der Einsatz|bet
+845.0001|noun|die Einsatzgruppe|Einsatzgruppe
+846.0|verb|liefern|to deliver
+846.001|verb|liefern|to supply
+847.0|verb|betonen|to stress
+848.0|noun|die Erde|earth
+848.001|noun|die Erde|ground
+848.002|noun|die Erde|soil
+849.0|noun|die Studie|study
+850.0|adverb|vorne|at/to the front
+851.0|adjective|rechte|right
+852.0|noun|die Meinung|opinion
+853.0|verb|drehen|to turn
+854.0|noun|der Künstler|artist
+855.0|adjective|aktiv|active
+856.0|noun|der Versuch|experiment
+856.001|noun|der Versuch|attempt
+857.0|adverb|somit|thus
+857.001|adverb|somit|consequently
+857.002|adverb|somit|therefore
+858.0|verb|bezahlen|to pay
+859.0|noun|die Eigenschaft|quality
+860.0|adverb|längst|long since
+860.001|adverb|längst|a long time ago
+861.0|noun|die Methode|method
+862.0|noun|die Ordnung|order
+862.001|noun|die Ordnung|tidiness
+863.0|noun|Russland|Russia
+864.0|noun|die Wahl|choice
+864.001|noun|die Wahl|choice
+864.002|noun|die Wahl|election
+865.0|pronoun|daraus|from it
+866.0|verb|erfüllen|to fulfill
+866.001|verb|erfüllen|to grant
+867.0|noun|die Mama|mommy
+868.0|noun|die Region|region
+869.0|noun|der Sonntag|Sunday
+870.0|noun|das Internet|internet
+871.0|noun|die Nummer|number
+872.0|noun|das Lächeln|smile
+873.0|verb|lächeln|to smile
+874.0|adverb|genauso|just as
+875.0|verb|überzeugen|to convince
+876.0|adjective|interessant|interesting
+877.0|adjective|menschlich|human
+878.0|noun|das Elektron|electron
+879.0|noun|Frankreich|France
+880.0|noun|die Freiheit|freedom
+881.0|adjective|speziell|special
+881.001|adjective|speziell|specific
+882.0|adjective|französisch|French
+883.0|noun|das Französisch|French
+884.0|adjective|negativ|negative
+885.0|adjective|zentral|central
+886.0|noun|die Ebene|plane
+886.001|noun|die Ebene|level
+887.0|verb|besuchen|to visit
+888.0|adverb|gestern|yesterday
+889.0|noun|der Spieler|player
+890.0|adjective|absolut|absolutely
+890.001|adjective|absolut|absolute(ly)
+890.002|adjective|absolut|complete(ly)
+891.0|verb|fliegen|to fly
+892.0|noun|der Hund|dog
+893.0|verb|antworten|to answer
+894.0|adverb|weiterhin|still
+894.001|adverb|weiterhin|furthermore
+895.0|noun|die Wand|wall
+896.0|adverb|rechts|on/to the right
+897.0|adjective|konkret|concrete
+898.0|adjective|russisch|Russian
+899.0|noun|das Russisch|Russian
+900.0|verb|zahlen|to pay
+901.0|adverb|zugleich|both
+901.001|adverb|zugleich|at the same time
+902.0|noun|das Feld|field
+903.0|verb|verdienen|to earn
+903.001|verb|verdienen|to deserve
+904.0|adjective|amerikanisch|American
+905.0|noun|die Sekunde|second
+906.0|noun|der Brief|letter
+907.0|noun|das Mitglied|member
+908.0|adjective|praktisch|practical
+909.0|noun|die Gefahr|danger
+909.001|noun|die Gefahr|risk
+910.0|verb|binden|to tie
+910.001|verb|binden|to bind
+911.0|adjective|weltweit|worldwide
+912.0|noun|die Liebe|love
+913.0|noun|der Beginn|beginning
+914.0|noun|China|China
+915.0|adjective|breit|wide
+915.001|adjective|breit|general
+915.002|adjective|breit|broad
+916.0|adverb|draußen|outside
+917.0|noun|die Wirkung|effect
+918.0|noun|die Bildung|education
+919.0|noun|das Blut|blood
+920.0|noun|das Meer|sea
+921.0|noun|die Anzahl|number
+922.0|noun|die Veränderung|change
+923.0|adverb|durchaus|certainly
+923.001|adverb|durchaus|quite
+923.002|adverb|durchaus|absolutely
+924.0|noun|der Mund|mouth
+925.0|verb|berechnen|to calculate
+925.001|verb|berechnen|to charge
+926.0|verb|betragen|to amount
+927.0|adjective|fremd|unfamiliar
+927.001|adjective|fremd|foreign
+928.0|noun|die Untersuchung|examination
+928.001|noun|die Untersuchung|examination
+929.0|noun|der Fehler|error
+929.001|noun|der Fehler|mistake
+930.0|adverb|mittlerweile|in the meantime
+930.001|adverb|mittlerweile|since then
+931.0|verb|aufbauen|to build up
+931.001|verb|aufbauen|to build
+932.0|noun|die Sonne|sun
+933.0|noun|das Prinzip|principle
+934.0|adverb|vorher|beforehand
+934.001|adverb|vorher|earlier
+935.0|noun|der Kampf|fight
+935.001|noun|der Kampf|struggle
+936.0|noun|die Verfügung|disposal
+937.0|verb|feiern|to celebrate
+938.0|noun|das Programm|program
+939.0|adjective|linke|left
+940.0|noun|der Einfluss|influence
+941.0|noun|die Temperatur|temperature
+942.0|adjective|leer|empty
+943.0|verb|mitteilen|to inform
+943.001|verb|mitteilen|to share
+944.0|noun|das Verfahren|technique
+944.001|noun|das Verfahren|process
+944.002|noun|das Verfahren|method
+945.0|adverb|danke|thanks
+946.0|verb|beziehen|to refer
+946.001|verb|beziehen|to move
+946.002|verb|beziehen|to change (the bed)
+947.0|verb|verlangen|to demand
+947.001|verb|verlangen|to request
+948.0|adverb|zuerst|first
+949.0|noun|die Analyse|analysis
+950.0|adjective|klassisch|classical
+951.0|adjective|ehemalig|former
+952.0|noun|das Bein|leg
+953.0|noun|das Glas|glass
+954.0|verb|untersuchen|to examine
+955.0|adjective|kalt|cold
+956.0|noun|die Sorge|worry
+957.0|noun|der Himmel|sky
+957.001|noun|der Himmel|heaven
+958.0|adjective|künftig|future
+959.0|adjective|national|national
+960.0|noun|die Kirche|church
+961.0|adverb|links|on/to the left
+962.0|noun|die CDU (Christlich Demokratische Union Deutschlands)|CDU
+963.0|adverb|bislang|up to now
+964.0|verb|messen|to measure
+965.0|adjective|lieb|kind
+965.001|adjective|lieb|dear
+966.0|adverb|unbedingt|absolutely
+967.0|noun|der Verein|club
+967.001|noun|der Verein|association
+968.0|noun|das Atom|atom
+969.0|adjective|historisch|historical
+970.0|verb|sinken|to sink
+971.0|verb|kosten|to cost
+972.0|noun|die Vorstellung|idea
+972.001|noun|die Vorstellung|introduction
+972.002|noun|die Vorstellung|performance
+973.0|adjective|entscheidend|decisive
+974.0|verb|teilen|to share
+974.001|verb|teilen|to divide
+975.0|noun|der Typ|type
+976.0|verb|stammen|to come (from)
+976.001|verb|stammen|to descend
+977.0|adjective|wissenschaftlich|scientific
+977.001|adjective|wissenschaftlich|scholarly
+978.0|pronoun|wieso|why
+979.0|noun|der Faktor|factor
+980.0|noun|die Bindung|relationship
+980.001|noun|die Bindung|attachment
+981.0|noun|die Literatur|literature
+982.0|verb|überraschen|to surprise
+983.0|verb|bestätigen|to confirm
+983.001|verb|bestätigen|to endorse
+984.0|adjective|bewusst|conscious
+984.001|adjective|bewusst|deliberate
+985.0|noun|der Abschnitt|section
+985.001|noun|der Abschnitt|chapter
+985.002|noun|der Abschnitt|paragraph
+985.003|noun|der Abschnitt|passage
+986.0|noun|die Nähe|proximity
+986.001|noun|in der Nähe|near
+986.002|noun|die Nähe|vicinity
+987.0|adjective|zahlreich|numerous
+988.0|adjective|medizinisch|medical
+989.0|adjective|übrig|left
+989.001|adjective|übrig|remaining
+989.002|adjective|übrig|leftover
+990.0|noun|die Türkei|Turkey
+991.0|noun|die Produktion|production
+992.0|verb|drücken|to press
+992.001|verb|drücken|to push
+993.0|verb|drohen|to threaten
+994.0|noun|die Linie|line
+995.0|noun|das Gas|gas
+996.0|verb|schicken|to send
+997.0|noun|die Hälfte|half
+998.0|noun|der Kontakt|contact
+999.0|noun|das Interview|interview
+1000.0|adverb|es ist egal|it doesn't matter
+1000.001|adverb|es ist egal|(it’s all) the same
+1000.002|adverb|es ist egal|indifferent
+1000.003|adverb|es ist egal|doesn't matter
+1001.0|verb|reisen|to travel
+1002.0|noun|der Berg|mountain
+1002.001|noun|der Berg|hill
+1003.0|adverb|irgendwo|somewhere
+1004.0|verb|trennen|to separate
+1005.0|verb|benötigen|to require
+1005.001|verb|benötigen|to need
+1006.0|noun|die Erinnerung|memory
+1007.0|verb|verhindern|to prevent
+1008.0|noun|die Sicht|visibility
+1008.001|noun|die Sicht|view
+1009.0|noun|der Dollar|dollar
+1010.0|verb|leiden|to suffer
+1011.0|noun|der Anspruch|claim
+1012.0|noun|die Position|position
+1013.0|noun|der Sport|sport
+1014.0|noun|das BGB (Bürgerliches Gesetzbuch)|civil code
+1015.0|noun|die Nachfrage|demand
+1016.0|adjective|blau|blue
+1017.0|verb|anschauen|to look at
+1017.001|verb|anschauen|to watch
+1018.0|adjective|teuer|expensive
+1019.0|noun|die Medien (pl)|media
+1020.0|verb|richten|to direct
+1020.002|verb|richten|to follow
+1021.0|noun|das Institut|institute
+1022.0|noun|der Plan|plan
+1023.0|adverb|immerhin|after all
+1024.0|noun|das Tor|goal
+1024.001|noun|das Tor|gate
+1025.0|noun|der Betrieb|operation
+1025.001|noun|der Betrieb|business
+1026.0|adjective|komplex|complex
+1027.0|noun|das Dorf|village
+1028.0|verb|eignen (sich)|to be suitable
+1029.0|noun|die Klasse|class
+1029.001|noun|die Klasse|classroom
+1029.002|noun|die Klasse|grade
+1030.0|verb|eingehen|to react to
+1030.001|verb|eingehen|to go into
+1030.002|verb|eingehen|to address
+1030.003|verb|eingehen|to cater
+1031.0|verb|erlauben|to allow
+1031.001|verb|erlauben|to permit
+1032.0|verb|treiben|to drive
+1032.001|verb|treiben|to exercise
+1032.002|verb|treiben|to pursue
+1033.0|adverb|weg|gone
+1033.001|adverb|weg|vanished
+1034.0|verb|aufstehen|to get up
+1034.001|verb|aufstehen|to stand up
+1035.0|noun|der Absatz (Abs.)|heel
+1035.001|noun|der Absatz (Abs.)|heel
+1035.002|noun|der Absatz (Abs.)|section
+1035.003|noun|der Absatz (Abs.)|sales
+1035.004|noun|der Absatz (Abs.)|paragraph
+1036.0|adverb|unterwegs|on the way
+1037.0|noun|der Vertrag|contract
+1038.0|noun|der Ausdruck|expression
+1038.001|noun|der Ausdruck|term
+1039.0|verb|geraten|to get into
+1040.0|adjective|toll|great
+1040.001|adjective|toll|terrific
+1041.0|noun|das Schweigen|silence
+1042.0|verb|schweigen|to remain silent
+1043.0|noun|die Schwester|sister
+1044.0|noun|der Chef|boss
+1044.001|noun|der Chef|head
+1044.002|noun|der Chef|leader
+1045.0|verb|greifen|to reach
+1045.001|verb|greifen|to take hold of
+1046.0|noun|das Risiko|risk
+1047.0|adjective|schwach|weak
+1048.0|noun|die Tabelle|table
+1048.001|noun|die Tabelle|chart
+1049.0|verb|ermöglichen|to enable
+1049.001|verb|ermöglichen|to allow
+1050.0|noun|der Freitag|Friday
+1051.0|noun|der Hinweis|hint
+1051.001|noun|der Hinweis|instruction
+1052.0|noun|der Vorteil|advantage
+1053.0|noun|das Protein|protein
+1054.0|noun|der Gewinn|profit
+1055.0|adjective|grundsätzlich|fundamental
+1056.0|noun|der März|March
+1057.0|verb|wiederholen|to repeat
+1058.0|noun|die Ruhe|silence
+1058.001|noun|die Ruhe|peace
+1059.0|noun|die Darstellung|presentation
+1059.001|noun|die Darstellung|description
+1059.002|noun|die Darstellung|depiction
+1060.0|adjective|ruhig|calm
+1060.001|adjective|ruhig|quiet
+1061.0|particle|ruhig|really
+1062.0|noun|der Traum|dream
+1063.0|verb|behandeln|to treat
+1063.001|verb|behandeln|to address
+1064.0|adverb|stets|always
+1065.0|verb|aufhören|to stop
+1066.0|verb|schützen|to protect
+1067.0|verb|diskutieren|to discuss
+1068.0|noun|die Ferse|heel
+1069.0|noun|der Sprecher|spokesperson
+1069.002|noun|der Sprecher|speaker
+1069.0001|noun|der Lautsprecher|loudspeaker
+1070.0|verb|produzieren|to produce
+1071.0|noun|die Kritik|criticism
+1071.001|noun|die Kritik|review
+1072.0|adjective|erneut|renewed
+1072.001|adjective|erneut|again
+1073.0|noun|der Trainer|coach
+1074.0|noun|der April|April
+1075.0|verb|melden|to report
+1075.001|verb|melden|to register
+1075.002|verb|melden|to check in
+1076.0|adverb|wiederum|again
+1076.001|adverb|wiederum|yet
+1076.002|adverb|wiederum|in turn
+1077.0|noun|das Opfer|victim
+1077.001|noun|das Opfer|sacrifice
+1078.0|adverb|hinaus|out
+1078.001|adverb|hinaus|beyond
+1079.0|adjective|vorhanden|existing
+1079.001|adjective|vorhanden|available
+1080.0|noun|der Westen|west
+1081.0|noun|der Titel|title
+1081.001|noun|der Titel|title
+1082.0|noun|der Eindruck|impression
+1083.0|noun|der Baum|tree
+1084.0|verb|lauten|to be (answer)
+1085.0|noun|die Diskussion|discussion
+1085.001|noun|die Diskussion|debate
+1086.0|adverb|hingegen|on the other hand
+1087.0|noun|der Student|student
+1088.0|noun|die Bevölkerung|population
+1088.001|noun|die Bevölkerung|people
+1089.0|noun|der Finger|finger
+1090.0|noun|die Grüne|the Greens
+1091.0|adjective|total|total
+1091.001|adjective|total|complete
+1092.0|noun|der Abstand|distance
+1093.0|noun|die Schulter|shoulder
+1094.0|noun|die Maßnahme|measure
+1095.0|noun|das Band|ribbon
+1095.001|noun|das Band|tape
+1096.0|noun|der Band|volume
+1096.001|noun|der Band|tome
+1097.0|noun|die Band|band (musical)
+1098.0|pronoun|darunter|underneath
+1098.001|pronoun|darunter|under it
+1099.0|pronoun|diejenige|the one (who, that)
+1099.001|pronoun|diejenige|the one (who)
+1099.002|pronoun|diejenige|that
+1099.003|pronoun|diejenige|the one (who, that)
+1100.0|noun|der Wald|forest
+1100.001|noun|der Wald|woods
+1101.0|noun|die Insel|island
+1102.0|noun|der Schluss|end
+1102.001|noun|der Schluss|conclusion
+1103.0|adverb|anschließend|afterwards
+1103.001|adverb|anschließend|subsequent
+1104.0|noun|das Volk|people
+1105.0|adjective|kulturell|cultural
+1106.0|verb|definieren|to define
+1107.0|noun|der September|September
+1108.0|noun|der Beruf|profession
+1108.001|noun|der Beruf|occupation
+1108.002|noun|der Beruf|job
+1109.0|noun|der Ansatz|approach
+1109.001|noun|der Ansatz|attempt
+1110.0|adjective|nötig|necessary
+1111.0|verb|herrschen|to rule
+1112.0|noun|der Sieg|victory
+1113.0|noun|die Küche|kitchen
+1113.001|noun|die Küche|cuisine
+1114.0|adjective|verantwortlich|responsible
+1115.0|adjective|täglich|daily
+1116.0|noun|der Montag|Monday
+1117.0|noun|der Spaß|fun
+1118.0|verb|herstellen|to produce
+1119.0|verb|überlegen|to consider
+1119.001|verb|überlegen|think about
+1119.002|verb|überlegen|think of
+1120.0|noun|der Mai|May
+1121.0|verb|umfassen|to include
+1121.001|verb|umfassen|to consist of
+1121.002|verb|umfassen|to surround
+1122.0|adjective|ernst|serious
+1123.0|noun|der Roman|novel
+1124.0|noun|der Januar|January
+1125.0|number|neun|nine
+1126.0|verb|kämpfen|to fight
+1127.0|adjective|jeweilig|respective
+1127.001|adjective|jeweilig|particular
+1128.0|verb|versprechen|to promise
+1129.0|noun|die Definition|definition
+1130.0|adjective|vollständig|complete
+1131.0|verb|heben|to lift
+1131.001|verb|heben|to raise
+1132.0|noun|der Rücken|back
+1133.0|verb|existieren|to exist
+1134.0|noun|die Masse|crowd
+1134.001|noun|die Masse|mass
+1135.0|verb|singen|to sing
+1136.0|noun|die Theorie|theory
+1137.0|noun|der Inhalt|content
+1137.001|noun|der Inhalt|content
+1137.002|noun|der Inhalt|plot
+1138.0|verb|scheitern|to fail
+1138.001|verb|scheitern|to fail
+1138.002|verb|scheitern|to break down
+1139.0|noun|das Ereignis|event
+1140.0|adverb|lediglich|merely
+1141.0|adjective|organisch|organic
+1142.0|adjective|glücklich|happy
+1142.001|adjective|glücklich|fortunate
+1143.0|noun|der Rest|rest
+1143.001|noun|der Rest|rest
+1143.002|noun|der Rest|remainder
+1144.0|noun|der Wunsch|wish
+1145.0|verb|beschließen|to decide
+1146.0|adjective|dick|thick
+1146.001|adjective|dick|fat
+1147.0|adjective|riesig|enormous
+1147.001|adjective|riesig|huge
+1147.002|adjective|riesig|great
+1147.003|adjective|riesig|tremendous
+1147.004|adjective|riesig|giant
+1147.005|adjective|riesig|massive
+1147.006|adjective|riesig|humongous
+1148.0|adjective|heutig|today’s
+1148.001|adjective|heutig|present-day
+1149.0|particle|hallo|hello
+1150.0|noun|das Museum|museum
+1151.0|noun|die Farbe|color
+1152.0|number|zwölf|twelve
+1153.0|preposition|per|per
+1153.001|preposition|per|by
+1154.0|adjective|regelmäßig|regular
+1155.0|adverb|her|ago
+1155.001|adverb|her|from (something)
+1156.0|verb|wechseln|to change
+1157.0|verb|einstellen|to adjust
+1157.001|verb|einstellen|to stop
+1157.002|verb|einstellen|to employ
+1157.003|verb|einstellen|to discontinue
+1158.0|noun|das Theater|theater
+1159.0|noun|der König|king
+1160.0|noun|das Ohr|ear
+1161.0|verb|fördern|to support
+1161.001|verb|fördern|to promote
+1162.0|adjective|elektrisch|electric
+1163.0|noun|der Aufbau|construction
+1163.001|noun|der Aufbau|structure
+1164.0|noun|der Beitrag|contribution
+1165.0|noun|der Februar|February
+1166.0|verb|durchführen|to conduct
+1166.001|verb|durchführen|to run
+1166.002|verb|durchführen|to carry out
+1167.0|verb|einfallen|to occur
+1167.001|verb|einfallen|to come to mind
+1167.002|verb|einfallen|to remember
+1167.003|verb|einfallen|to collapse
+1168.0|verb|verletzen|to injure
+1169.0|noun|die Kontrolle|inspection
+1169.001|noun|die Kontrolle|control
+1170.0|noun|die Macht|power
+1170.001|noun|die Macht|strength
+1171.0|noun|die Mannschaft|team
+1171.001|noun|die Mannschaft|crew
+1172.0|conjunction|entweder|either
+1173.0|verb|behaupten|to claim
+1174.0|noun|die Hoffnung|hope
+1175.0|noun|die Verantwortung|responsibility
+1176.0|verb|schreien|to scream
+1176.001|verb|schreien|to cry out
+1177.0|adverb|andererseits|on the other hand
+1178.0|noun|der Besuch|visit
+1179.0|number|hundert|hundred
+1180.0|noun|die Quelle|source
+1180.001|noun|die Quelle|spring
+1181.0|adjective|typisch|typical
+1182.0|noun|das Gebiet|area
+1182.001|noun|das Gebiet|region
+1182.002|noun|das Gebiet|territory
+1183.0|noun|die Behörde|authorities
+1183.001|noun|die Behörde|department
+1184.0|noun|der Samstag|Saturday
+1185.0|noun|die Organisation|organization
+1186.0|noun|die Summe|sum
+1187.0|noun|der Job|job
+1188.0|verb|ausreichen|to be sufficient
+1189.0|noun|der Grad|degree
+1190.0|pronoun|irgendein|some
+1190.001|pronoun|irgendein|any
+1191.0|verb|benutzen|to use
+1192.0|pronoun|irgendetwas|something
+1192.001|pronoun|irgendetwas|anything
+1193.0|adverb|teilweise|partly
+1194.0|noun|das Vertrauen|trust
+1194.001|noun|das Vertrauen|trust
+1194.002|noun|das Vertrauen|faith
+1195.0|verb|vertrauen|to trust
+1196.0|noun|das Jahrzehnt|decade
+1197.0|noun|der Wind|wind
+1198.0|adjective|unmittelbar|immediate
+1198.001|adjective|unmittelbar|direct
+1199.0|noun|der Bund|alliance
+1199.001|noun|der Bund|association
+1199.002|noun|der Bund|bunch
+1200.0|adjective|extrem|extreme
+1201.0|noun|das Merkmal|feature
+1202.0|adjective|theoretisch|theoretical
+1203.0|verb|ermitteln|to investigate
+1203.001|verb|ermitteln|to find out
+1204.0|noun|der Papa|daddy
+1205.0|noun|die Krankheit|disease
+1205.001|noun|die Krankheit|illness
+1206.0|noun|die Voraussetzung|condition
+1206.001|noun|die Voraussetzung|requirement
+1207.0|verb|töten|to kill
+1208.0|verb|formulieren|to formulate
+1209.0|noun|die Substanz|substance
+1210.0|noun|der Zeitpunkt|moment
+1210.001|noun|der Zeitpunkt|(point in) time
+1211.0|adverb|wenigstens|at least
+1212.0|noun|der Gang|corridor
+1212.001|noun|der Gang|aisle
+1212.002|noun|der Gang|course
+1213.0|noun|der Politiker|politician
+1214.0|noun|die Unterstützung|support
+1215.0|particle|hey|hey
+1216.0|verb|brechen|to break
+1217.0|verb|fassen|to hold
+1218.0|noun|das Zentrum|center
+1219.0|verb|anrufen|to call
+1220.0|verb|entfernen|to remove
+1220.001|verb|sich entfernen|to leave
+1221.0|noun|der Juni|June
+1222.0|noun|die Haut|skin
+1223.0|verb|verfolgen|to pursue
+1224.0|adjective|gesellschaftlich|social
+1225.0|noun|der Schutz|protection
+1226.0|noun|die Generation|generation
+1227.0|adjective|chinesisch|Chinese
+1228.0|noun|das Chinesisch|Chinese
+1229.0|noun|das Zeichen|sign
+1230.0|noun|die Wahrheit|truth
+1231.0|noun|der Haushalt|household
+1231.001|noun|der Haushalt|budget
+1232.0|noun|der Garten|garden
+1233.0|adverb|hinten|at/in the back
+1234.0|verb|auffallen|to stand out
+1235.0|noun|der Gegensatz|contrast
+1235.001|noun|der Gegensatz|opposite
+1236.0|verb|verteilen|to distribute
+1237.0|noun|das Papier|paper
+1238.0|adjective|physikalisch|physical
+1239.0|preposition|angesichts|in view of
+1240.0|adjective|leise|quiet
+1240.001|adjective|leise|soft
+1241.0|adverb|vermutlich|probably
+1242.0|adjective|eindeutig|clear
+1243.0|adverb|heraus|outside
+1243.001|adverb|heraus|out
+1244.0|conjunction|falls|if
+1244.001|conjunction|falls|in case
+1245.0|adverb|erstmals|for the first time
+1246.0|noun|der Partner|partner
+1247.0|verb|nachdenken|to reflect
+1248.0|noun|die Ausbildung|training
+1248.001|noun|die Ausbildung|education
+1249.0|noun|der Wagen|car
+1249.001|noun|der Wagen|carriage
+1250.0|noun|das Schiff|ship
+1251.0|number|tausend|thousand
+1252.0|noun|die Tat|deed
+1252.001|noun|die Tat|action
+1253.0|adjective|obere|upper
+1254.0|noun|die Gleichung|equation
+1255.0|noun|der Stein|stone
+1255.001|noun|der Stein|rock
+1256.0|verb|kümmern (sich)|to take care of
+1257.0|adjective|mittlere|middle
+1257.001|adjective|mittlere|average
+1258.0|verb|erheben|to raise
+1259.0|noun|die Erklärung|explanation
+1260.0|noun|das Konzept|concept
+1260.001|noun|das Konzept|idea
+1260.002|noun|das Konzept|plan
+1261.0|noun|der Mittwoch|Wednesday
+1262.0|verb|stören|to disturb
+1263.0|noun|die Spur|track
+1263.001|noun|die Spur|lane
+1264.0|adjective|berliner|(of) Berlin
+1265.0|noun|die Herausforderung|challenge
+1266.0|verb|starten|to start
+1267.0|adjective|staatlich|state
+1267.001|adjective|staatlich|government
+1267.002|adjective|staatlich|state
+1268.0|verb|verbessern|to improve
+1269.0|adjective|heiß|hot
+1270.0|noun|die Vergangenheit|past
+1271.0|noun|das Gleichgewicht|balance
+1272.0|noun|Griechenland|Greece
+1273.0|noun|das Maß|measure
+1274.0|verb|abgeben|to submit
+1275.0|noun|der Bericht|report
+1276.0|noun|die Qualität|quality
+1277.0|noun|der Rand|edge
+1278.0|noun|Italien|Italy
+1279.0|noun|der Kern|core
+1279.001|noun|der Kern|seed
+1279.002|noun|der Kern|main focus
+1279.003|noun|der Kern|main focus
+1280.0|noun|der Winter|winter
+1281.0|noun|der Hintergrund|background
+1282.0|noun|der Osten, Ost-|east
+1283.0|noun|Amerika|America
+1284.0|adjective|geboren|born
+1285.0|adjective|gefährlich|dangerous
+1286.0|verb|zwingen|to force
+1287.0|noun|das Bier|beer
+1288.0|verb|ansprechen|to address
+1289.0|adjective|komplett|complete
+1290.0|noun|die Forderung|demand
+1290.001|noun|die Forderung|claim
+1291.0|verb|gelangen|to reach
+1292.0|noun|die Nachricht|news
+1292.001|noun|die Nachricht|message
+1293.0|verb|sammeln|to collect
+1294.0|verb|ablehnen|to reject
+1295.0|verb|stoßen|to push
+1295.0001|verb|aufstoßen|to push
+1295.0002|verb|aneinander stoßen|to bump
+1296.0|adjective|konstant|constant
+1297.0|noun|der Oktober|October
+1298.0|verb|umgehen|to treat
+1298.001|verb|umgehen|to treat
+1299.0|verb|angehen|to go on
+1299.001|verb|angehen|to concern
+1300.0|verb|verlaufen|to proceed
+1300.001|verb|sich verlaufen|to get lost
+1301.0|adverb|demnach|therefore
+1302.0|verb|auftauchen|to appear
+1303.0|adjective|böse|mad
+1303.001|adjective|böse|bad
+1303.002|adjective|böse|bad
+1303.003|adjective|böse|bitter
+1304.0|verb|auslösen|to provoke
+1304.001|verb|auslösen|to set off
+1305.0|verb|weitergehen|to continue
+1306.0|verb|abhängen|to depend
+1307.0|noun|die Geschwindigkeit|speed
+1308.0|adjective|ideal|ideal
+1309.0|noun|der Augenblick|moment
+1310.0|verb|reduzieren|to reduce
+1311.0|noun|die Maschine|machine
+1312.0|adjective|linear|linear
+1313.0|verb|ausmachen|to agree
+1313.001|verb|ausmachen|to put out
+1314.0|verb|eintreten|to enter
+1314.001|verb|eintreten|to occur
+1314.0001|verb|beitreten|to enter
+1315.0|adjective|kritisch|critical
+1316.0|particle|äh|um
+1317.0|noun|das Wochenende|weekend
+1318.0|noun|der Donnerstag|Thursday
+1319.0|noun|die Saison|season
+1320.0|noun|der Forscher|researcher
+1321.0|verb|gründen|to found
+1322.0|adjective|offensichtlich|obvious
+1323.0|noun|das Teilchen|particle
+1324.0|verb|genügen|to be sufficient
+1325.0|verb|schieben|to push
+1326.0|noun|der Computer|computer
+1327.0|noun|der Effekt|effect
+1328.0|verb|abnehmen|to lose (weight)
+1328.001|verb|abnehmen|to lose (weight)
+1329.0|noun|die Verteilung|distribution
+1330.0|verb|blicken|to look
+1331.0|verb|beitragen|to contribute
+1332.0|noun|die Anwendung|application
+1332.001|noun|die Anwendung|use
+1333.0|verb|zeichnen|to draw
+1334.0|adjective|frisch|fresh
+1335.0|adverb|meistens|mostly
+1336.0|verb|erwähnen|to mention
+1337.0|noun|die Welle|wave
+1338.0|noun|die Nase|nose
+1339.0|verb|vertreten|to represent
+1340.0|adjective|dicht|dense
+1340.001|adjective|dicht|thick
+1341.0|noun|der Soldat|soldier
+1342.0|adjective|bereit|ready
+1343.0|noun|die Technik|technology
+1343.001|noun|die Technik|technique
+1344.0|noun|das Blatt|leaf
+1344.001|noun|das Blatt|sheet
+1345.0|verb|prägen|to shape
+1346.0|adverb|sozusagen|so to speak
+1347.0|noun|der November|November
+1348.0|adjective|Schweizer|Swiss
+1349.0|adjective|gesund|healthy
+1350.0|verb|danken|to thank
+1351.0|noun|der Fußball|soccer
+1351.001|noun|der Fußball|soccer ball
+1352.0|noun|der Umstand|circumstance
+1353.0|verb|einladen|to invite
+1354.0|noun|das Kilogramm|kilogram
+1355.0|adjective|warm|warm
+1356.0|noun|die Integration|integration
+1356.001|noun|die Integration|integration
+1357.0|noun|der Nachbar|neighbor
+1358.0|adjective|maximal|maximum
+1359.0|noun|die Figur|figure
+1360.0|noun|die Freude|joy
+1361.0|adjective|offiziell|official
+1362.0|adjective|außen|outside
+1363.0|noun|der Kreis|district
+1363.001|noun|der Kreis|circle
+1363.0001|noun|der Freundskreis|district
+1364.0|verb|nicken|to nod
+1365.0|adjective|digital|digital
+1366.0|adjective|unbekannt|unknown
+1367.0|noun|das Gericht|court
+1367.001|noun|das Gericht|dish
+1368.0|verb|schätzen|to value
+1369.0|verb|organisieren|to organize
+1370.0|noun|der Aspekt|aspect
+1371.0|verb|verzichten|to give up
+1372.0|verb|bemerken|to notice
+1373.0|noun|der Kaffee|coffee
+1374.0|adverb|leid|(be) tired (of)
+1375.0|noun|das Leid|sorrow
+1375.001|noun|das Leid|grief
+1376.0|adjective|still|still
+1376.001|adjective|still|quiet
+1377.0|verb|leiten|to lead
+1378.0|noun|der Vertreter|representative
+1379.0|noun|die Statistik|statistics
+1380.0|noun|die Heimat|homeland
+1380.001|noun|die Heimat|home
+1381.0|noun|der Milliliter (ml)|milliliter
+1382.0|verb|zurückkehren|to return
+1383.0|noun|der Gegenstand|object
+1383.001|noun|der Gegenstand|subject
+1384.0|pronoun|euer|your
+1385.0|verb|umsetzen|to implement
+1385.001|verb|umsetzen|to move
+1386.0|verb|betreiben|to run
+1386.001|verb|betreiben|to proceed with
+1386.002|verb|betreiben|to operate
+1387.0|noun|die Zusammenarbeit|cooperation
+1388.0|verb|enden|to end
+1389.0|adverb|vielmehr|rather
+1390.0|verb|konzentrieren|to concentrate
+1391.0|verb|landen|to land
+1392.0|noun|der See|lake
+1393.0|noun|die See|sea
+1394.0|noun|der Tourist|tourist
+1395.0|noun|die Konzentration|concentration
+1396.0|verb|verbieten|to forbid
+1397.0|adjective|krank|sick
+1397.001|adjective|krank|ill
+1398.0|noun|die Fähigkeit|ability
+1398.001|noun|die Fähigkeit|capability
+1399.0|adjective|finanziell|financial
+1400.0|noun|die Jugendliche|adolescent
+1401.0|noun|das Netz|network
+1401.001|noun|das Netz|net
+1401.002|noun|das Netz|net
+1402.0|noun|die Änderung|change
+1402.001|noun|die Änderung|modification
+1402.002|noun|die Änderung|alteration
+1403.0|verb|abschließen|to lock
+1404.0|noun|die Erkenntnis|realization
+1404.001|noun|die Erkenntnis|discovery
+1405.0|adjective|selbstverständlich|natural
+1405.001|adjective|selbstverständlich|of course
+1405.002|adjective|selbstverständlich|self-evident
+1405.003|adjective|selbstverständlich|obvious
+1406.0|verb|erzeugen|to produce
+1407.0|noun|die Ursache|cause
+1408.0|adjective|ursprünglich|original
+1409.0|noun|die Basis|basis
+1410.0|verb|erzielen|to achieve
+1411.0|noun|die Forschung|research
+1412.0|verb|schießen|to shoot
+1413.0|verb|warnen|to warn
+1414.0|noun|der Zentimeter (cm)|centimeter
+1414.001|noun|der Zentimeter (cm)|cm
+1415.0|verb|eröffnen|to open
+1416.0|noun|die Ahnung|idea
+1416.001|noun|die Ahnung|suspicion
+1417.0|verb|ankündigen|to announce
+1418.0|noun|das Enzym|enzyme
+1419.0|adjective|individuell|individual
+1420.0|adjective|intensiv|intensive
+1420.001|adjective|intensiv|intensive
+1421.0|noun|die Bundesregierung|federal government
+1422.0|verb|begreifen|to grasp
+1422.001|verb|begreifen|to understand
+1423.0|noun|die Szene|scene
+1424.0|noun|die DDR (Deutsche Demokratische Republik)|
+1425.0|adjective|rasch|quick
+1426.0|adjective|real|real
+1426.001|adjective|real|real
+1427.0|noun|die Abgeordnete|member of parliament
+1427.001|noun|die Abgeordnete|congress
+1428.0|verb|verstärken|to strengthen
+1428.001|verb|verstärken|to reinforce
+1429.0|verb|ausschließen|to exclude
+1429.001|verb|ausschließen|to rule out
+1430.0|adjective|sinnvoll|sensible
+1430.001|adjective|sinnvoll|sensible
+1430.002|adjective|sinnvoll|meaningful
+1431.0|noun|der Bezug|connection
+1431.001|noun|der Bezug|reference
+1431.002|noun|der Bezug|cover
+1432.0|noun|der Dienstag|Tuesday
+1433.0|noun|der Stand|stage
+1433.001|noun|der Stand|stand
+1433.002|noun|der Stand|score
+1434.0|verb|retten|to rescue
+1435.0|number|zwanzig|twenty
+1436.0|noun|der Club|club
+1437.0|noun|die Gewalt|violence
+1437.001|noun|die Gewalt|force
+1438.0|verb|gucken|to look
+1439.0|noun|der Anschlag|attack
+1440.0|verb|beeinflussen|to influence
+1441.0|verb|riechen|to smell
+1442.0|preposition|außerhalb|outside
+1443.0|verb|begleiten|to accompany
+1444.0|noun|das Publikum|audience
+1444.001|noun|das Publikum|public
+1445.0|noun|der Besucher|visitor
+1446.0|noun|das Wachstum|growth
+1447.0|verb|aufgeben|to give up
+1448.0|adjective|stolz|proud
+1449.0|noun|der Verlust|loss
+1450.0|verb|begründen|to justify
+1451.0|adjective|streng|strict
+1451.001|adjective|streng|strict
+1451.002|adjective|streng|rigorous
+1452.0|noun|die Ecke|corner
+1453.0|noun|der Lauf|race
+1453.001|noun|der Lauf|course
+1453.002|noun|der Lauf|run
+1454.0|noun|der Artikel|article
+1455.0|adjective|berühmt|famous
+1455.001|adjective|berühmt|famous
+1456.0|verb|ersetzen|to replace
+1456.001|verb|ersetzen|to reimburse
+1457.0|noun|die Wahrscheinlichkeit|probability
+1458.0|noun|das Ausland|foreign countries
+1459.0|adjective|bayrisch|Bavarian
+1460.0|adverb|diesmal|this time
+1461.0|noun|das Gehirn|brain
+1462.0|noun|das Gebäude|building
+1463.0|adjective|langfristig|long-term
+1464.0|adjective|herzlich|warm
+1464.001|adjective|herzlich|cordial
+1465.0|verb|sichern|to secure
+1465.001|verb|sichern|to secure
+1466.0|noun|das Material|material
+1467.0|verb|verbringen|to spend (time)
+1468.0|noun|der Strom|electricity
+1468.001|noun|der Strom|stream
+1468.002|noun|der Strom|current
+1469.0|noun|das Amt|office
+1469.001|noun|das Amt|department
+1469.002|noun|das Amt|function
+1470.0|verb|kritisieren|to criticize
+1471.0|verb|vermitteln|to convey
+1472.0|noun|die Wirklichkeit|reality
+1473.0|noun|die Union|union
+1474.0|noun|das Studium|studies
+1474.001|noun|das Studium|study
+1475.0|verb|festhalten|to hold on to
+1476.0|verb|präsentieren|to present
+1476.001|verb|präsentieren|to present
+1476.002|verb|präsentieren|to show
+1477.0|noun|die Demokratie|democracy
+1478.0|adverb|niemals|never
+1479.0|noun|die Aufnahme|recording
+1479.001|noun|die Aufnahme|reception
+1479.002|noun|die Aufnahme|snapshot
+1480.0|noun|die Ausnahme|exception
+1481.0|verb|beenden|to end
+1482.0|noun|die Investition|investment
+1483.0|noun|die Lust|desire
+1484.0|verb|prüfen|to examine
+1485.0|verb|anlegen|to invest
+1486.0|noun|der Zuschauer|spectator
+1487.0|adjective|hell|bright
+1487.001|adjective|hell|light
+1488.0|adverb|mitten|in the middle
+1489.0|preposition|zufolge|according to
+1490.0|noun|der Konflikt|conflict
+1491.0|noun|die Bahn|train
+1491.001|noun|die Bahn|railway
+1491.002|noun|die Bahn|way
+1492.0|noun|Syrien|Syria
+1493.0|noun|das Einkommen|income
+1494.0|verb|empfehlen|to recommend
+1495.0|adjective|britisch|British
+1496.0|verb|fürchten|to fear
+1497.0|verb|vorbereiten|to prepare
+1498.0|noun|die Aktivität|activity
+1499.0|noun|der Auftrag|job
+1499.001|noun|der Auftrag|order
+1500.0|adjective|froh|glad
+1501.0|verb|äußern|to express
+1502.0|noun|der Geist|spirit
+1503.0|noun|das Objekt|object
+1504.0|adverb|möglicherweise|possibly
+1505.0|adjective|zuständig|responsible
+1506.0|verb|aufweisen|to show
+1507.0|verb|springen|to jump
+1508.0|noun|der Hof|courtyard
+1509.0|noun|der Polizist|police officer
+1510.0|noun|die Übung|practice
+1511.0|noun|der Widerstand|resistance
+1512.0|verb|anziehen|to put on
+1513.0|noun|der Experte|expert
+1514.0|adverb|ohnehin|anyway
+1515.0|verb|füllen|to fill
+1516.0|noun|die Gemeinde|community
+1517.0|noun|die Pause|break
+1518.0|adjective|scharf|sharp
+1519.0|verb|schütteln|to shake
+1520.0|noun|das Fernsehen|television
+1521.0|noun|die Formel|formula
+1522.0|adjective|gelb|yellow
+1523.0|noun|das Sommersemester|summer semester
+1524.0|adjective|heftig|violent
+1525.0|noun|die Bühne|stage
+1526.0|verb|empfinden|to feel
+1527.0|noun|der Schaden|damage
+1528.0|adjective|umgekehrt|reversed
+1529.0|verb|veröffentlichen|to publish
+1530.0|verb|aufstellen|to put up
+1531.0|adjective|abhängig|dependent
+1532.0|noun|die Strecke|route
+1533.0|noun|die Praxis|practice
+1534.0|adjective|ungefähr|approximately
+1535.0|verb|mitnehmen|to take (along)
+1536.0|adjective|üblich|usual
+1537.0|verb|übertragen|to transfer
+1538.0|noun|die Wissenschaft|science
+1539.0|adjective|global|global
+1540.0|noun|der Nachmittag|afternoon
+1541.0|noun|die Annahme|assumption
+1542.0|noun|die Umgebung|surroundings
+1543.0|noun|die Öffentlichkeit|public
+1544.0|noun|der Spiegel|mirror
+1545.0|verb|zurückkommen|to return
+1546.0|verb|besetzen|to occupy
+1547.0|noun|das Gegenteil|opposite
+1548.0|adverb|vorbei|over
+1549.0|noun|der Fan|fan
+1550.0|noun|die Karte|ticket
+1551.0|adjective|arm|poor
+1552.0|noun|die Krise|crisis
+1553.0|noun|die Strategie|strategy
+1554.0|noun|die Debatte|debate
+1555.0|pronoun|davor|before
+1556.0|noun|der Journalist|journalist
+1557.0|verb|kochen|to cook
+1558.0|verb|zurückgehen|to go back
+1559.0|noun|der Schmerz|pain
+1560.0|adjective|erheblich|considerable
+1561.0|adjective|ausschließlich|exclusive
+1562.0|adjective|griechisch|Greek
+1563.0|noun|das Griechisch|Greek
+1564.0|particle|naja|(oh) well
+1565.0|noun|die Runde|round
+1566.0|noun|der Angriff|attack
+1567.0|verb|einführen|to introduce
+1568.0|adverb|desto|the more
+1569.0|noun|der Wettbewerb|competition
+1570.0|verb|verfügen|to have sth at one’s disposal
+1571.0|pronoun|woher|how
+1572.0|noun|der Zweifel|doubt
+1573.0|noun|der Konzern|corporation
+1574.0|verb|tanzen|to dance
+1575.0|verb|überleben|to survive
+1576.0|adjective|spezifisch|specific
+1577.0|adjective|stabil|stable
+1578.0|noun|die Kamera|camera
+1579.0|noun|der Schatten|shadow
+1580.0|verb|berücksichtigen|to consider
+1581.0|noun|das Pferd|horse
+1582.0|verb|begegnen|to encounter
+1583.0|noun|der Zugang|access
+1584.0|number|elf|eleven
+1585.0|noun|die Suche|search
+1586.0|adjective|doppelt|double
+1587.0|verb|festlegen|to determine
+1588.0|adjective|österreichisch|Austrian
+1589.0|conjunction|sodass|so that
+1590.0|noun|die Tatsache|fact
+1591.0|noun|der Alkohol|alcohol
+1592.0|verb|informieren|to inform
+1593.0|noun|der Norden, Nord-|north
+1594.0|verb|vermuten|to assume
+1595.0|adjective|zufrieden|satisfied
+1596.0|verb|reißen|to tear
+1597.0|adverb|dahin|there
+1598.0|conjunction|solange|as long as
+1599.0|noun|der Wissenschaftler|scientist
+1600.0|noun|die Kommunikation|communication
+1601.0|noun|das Steuer|steering wheel
+1602.0|noun|die Steuer|tax
+1603.0|adjective|angeblich|alleged
+1604.0|adjective|günstig|cheap
+1605.0|noun|der Dezember|December
+1606.0|noun|der Flughafen|airport
+1607.0|noun|das Krankenhaus|hospital
+1608.0|verb|wenden|to turn around
+1609.0|adjective|türkisch|Turkish
+1610.0|noun|das Türkisch|Turkish
+1611.0|noun|der Gegner|opponent
+1612.0|noun|der Leser|reader
+1613.0|noun|die VWL (Volkswirtschaftslehre)|economics
+1614.0|noun|der Handel|trade
+1615.0|noun|die Kenntnis|knowledge
+1616.0|adjective|sichtbar|visible
+1617.0|verb|zulassen|to allow
+1618.0|noun|die Mark|Deutschmark
+1619.0|verb|vorsehen|to provide for
+1620.0|noun|die Schwierigkeit|difficulty
+1621.0|verb|wahrnehmen|to perceive
+1622.0|verb|hinweisen|to point to
+1623.0|noun|der Juli|July
+1624.0|noun|das Signal|signal
+1625.0|verb|kontrollieren|to control
+1626.0|adverb|sowieso|anyway
+1627.0|noun|der Bauer|farmer
+1628.0|noun|der Kurs|course
+1628.001|noun|der Kurs|exchange rate
+1629.0|adverb|einst|once
+1629.001|adverb|einst|at one time
+1629.002|adverb|einst|one day
+1630.0|noun|der Service|service
+1631.0|adjective|sprachlich|linguistic
+1632.0|adjective|bisherig|so far
+1633.0|noun|der Fahrer|driver
+1634.0|adjective|traditionell|traditional
+1635.0|verb|weinen|to cry
+1636.0|verb|genießen|to enjoy
+1637.0|noun|der Dienst|service
+1637.001|noun|der Dienst|duty
+1638.0|noun|das Lager|camp
+1638.001|noun|das Lager|storeroom
+1639.0|adjective|grau|gray
+1640.0|preposition|anhand|on the basis of
+1640.001|preposition|anhand|with the aid of
+1641.0|noun|der Bus|bus
+1642.0|noun|der Franken (Fr.)|(Swiss) franc
+1643.0|noun|die Kategorie|category
+1644.0|adjective|nett|nice
+1645.0|adjective|freundlich|friendly
+1645.001|adjective|freundlich|kind
+1645.002|adjective|freundlich|nice
+1646.0|adjective|perfekt|perfect
+1647.0|adjective|reich|rich
+1647.001|adjective|reich|abundant
+1648.0|noun|die Fahrt|drive
+1648.001|noun|die Fahrt|trip
+1649.0|noun|der Urlaub|vacation
+1650.0|adjective|ausländisch|foreign
+1651.0|noun|das Instrument|instrument
+1652.0|adjective|fern|distant
+1652.001|adjective|fern|far
+1653.0|noun|die Gegend|region
+1653.001|noun|die Gegend|area
+1654.0|verb|verstecken|to hide
+1655.0|noun|das Feuer|fire
+1656.0|verb|bemühen (sich)|to make an effort
+1657.0|noun|das Verständnis|understanding
+1658.0|noun|die AfD (Alternative für Deutschland)|AfD
+1658.001|noun|die AfD (Alternative für Deutschland)|Alternative für Deutschland
+1659.0|noun|die Bakterie|bacterium
+1660.0|verb|tauchen|to dip
+1661.0|noun|die Konsequenz|consequence
+1662.0|adjective|schuld|guilty
+1663.0|noun|die Schuld|guilt
+1664.0|noun|die Mehrheit|majority
+1665.0|verb|anhaben|to wear
+1666.0|noun|die Bestimmung|regulation
+1666.001|noun|die Bestimmung|purpose
+1666.002|noun|die Bestimmung|fate
+1667.0|verb|vermeiden|to avoid
+1668.0|adjective|ehrlich|honest
+1669.0|verb|beachten|to pay attention
+1670.0|adjective|statistisch|statistical
+1671.0|noun|der Hals|throat
+1671.001|noun|der Hals|neck
+1672.0|verb|durchsetzen|to enforce
+1673.0|adjective|italienisch|Italian
+1674.0|noun|das Italienisch|Italian
+1675.0|noun|die Scheiße|shit
+1675.001|noun|die Scheiße|crap
+1676.0|noun|das Telefon|telephone
+1677.0|noun|der Herbst|autumn
+1678.0|noun|die Ausstellung|exhibition
+1679.0|noun|der Bau|construction
+1679.001|noun|der Bau|building
+1680.0|noun|der Keller|cellar
+1681.0|noun|der Bürgermeister|mayor
+1682.0|preposition|entlang|along
+1683.0|noun|die Flasche|bottle
+1684.0|adjective|wunderbar|wonderful
+1685.0|noun|der Zweck|purpose
+1686.0|verb|ehren|to honor
+1687.0|noun|die Verwendung|use
+1688.0|adverb|letztlich|in the end
+1689.0|noun|die Fläche|area
+1689.001|noun|die Fläche|surface
+1690.0|verb|streichen|to paint
+1691.0|verb|zitieren|to quote
+1692.0|verb|senken|to lower
+1693.0|verb|behalten|to keep
+1694.0|verb|gestalten|to design
+1695.0|verb|beweisen|to prove
+1696.0|noun|der Umgang|dealing
+1696.001|noun|der Umgang|interaction
+1697.0|verb|überprüfen|to check
+1698.0|noun|der Lehrstuhl|professorship
+1698.001|noun|der Lehrstuhl|chair
+1699.0|verb|schenken|to give (as a present)
+1700.0|noun|der Vorschlag|suggestion
+1700.001|noun|der Vorschlag|proposal
+1701.0|verb|anhalten|to stop
+1702.0|adjective|entfernt|distant
+1702.001|adjective|entfernt|away
+1703.0|noun|der Leiter|leader
+1704.0|noun|die Leiter|ladder
+1705.0|noun|das Parlament|parliament
+1706.0|verb|stürzen|to fall
+1707.0|noun|die Waffe|weapon
+1708.0|noun|das Kriterium|criterion
+1709.0|noun|der Beifall|applause
+1710.0|verb|zerstören|to destroy
+1711.0|verb|zuhören|to listen
+1712.0|verb|ausfallen|to be canceled
+1713.0|noun|die Weile|while
+1714.0|verb|drängen|to push
+1715.0|adverb|einerseits|on the one hand
+1716.0|noun|die Spannung|suspense
+1716.001|noun|die Spannung|tension
+1717.0|noun|der Fortschritt|progress
+1718.0|noun|die Mathematik|mathematics
+1719.0|noun|das Bad|bathroom
+1719.001|noun|das Bad|bath
+1719.002|noun|das Bad|spa
+1720.0|verb|erläutern|to explain
+1721.0|verb|packen|to pack
+1722.0|noun|Großbritannien|Great Britain
+1723.0|adjective|vorsichtig|cautious
+1723.001|adjective|vorsichtig|careful
+1724.0|verb|anwenden|to apply
+1725.0|adjective|wild|wild
+1726.0|adjective|gesetzlich|legal
+1727.0|noun|die Spitze|peak
+1727.001|noun|die Spitze|tip
+1727.002|noun|die Spitze|top
+1727.0001|noun|die Spitzenlast|peak load
+1728.0|noun|das Gerät|appliance
+1728.001|noun|das Gerät|tool
+1728.002|noun|das Gerät|piece of equipment
+1729.0|noun|der Wille|will
+1730.0|adverb|sicherlich|certainly
+1731.0|verb|weisen|to point
+1732.0|noun|die Tradition|tradition
+1733.0|verb|brennen|to burn
+1734.0|adjective|freiwillig|voluntary
+1735.0|conjunction|umso|the (more ... the)
+1736.0|noun|der Antrag|application
+1737.0|noun|das Reich|empire
+1737.001|noun|das Reich|kingdom
+1738.0|verb|investieren|to invest
+1739.0|verb|bestellen|to order
+1740.0|noun|die Gelegenheit|opportunity
+1741.0|noun|die Mauer|wall
+1742.0|adverb|stattdessen|instead
+1743.0|noun|der Stuhl|chair
+1744.0|noun|der Ton|tone
+1744.001|noun|der Ton|sound
+1744.002|noun|der Ton|clay
+1745.0|noun|das Büro|office
+1746.0|noun|die Umwelt|environment
+1747.0|verb|rauchen|to smoke
+1748.0|noun|die Beschreibung|description
+1749.0|noun|die Pflanze|plant
+1750.0|noun|die Tätigkeit|activity
+1750.001|noun|die Tätigkeit|work
+1751.0|noun|die Landschaft|landscape
+1751.001|noun|die Landschaft|countryside
+1752.0|verb|verweisen|to refer
+1753.0|noun|der Arbeitsplatz|workplace
+1753.001|noun|der Arbeitsplatz|job
+1754.0|verb|erfassen|to grasp
+1755.0|noun|die Komponente|component
+1756.0|noun|das Ion|ion
+1757.0|noun|der Laden|shop
+1758.0|adjective|fein|fine
+1759.0|noun|der Stern|star
+1760.0|noun|der Schuh|shoe
+1761.0|noun|das Knie|knee
+1762.0|number|null (0)|zero
+1763.0|noun|die Schicht|layer
+1763.001|noun|die Schicht|class
+1763.002|noun|die Schicht|shift
+1764.0|adjective|unglaublich|incredible
+1765.0|adverb|zurück|back
+1766.0|noun|die Realität|reality
+1767.0|conjunction|sobald|as soon as
+1768.0|verb|belegen|to take
+1769.0|noun|der Fluss|river
+1770.0|noun|die Alternative|alternative
+1771.0|verb|verpflichten|to obligate
+1772.0|verb|begrüßen|to greet
+1773.0|noun|die Führung|leadership
+1773.001|noun|die Führung|management
+1773.002|noun|die Führung|command
+1774.0|adjective|untere|lower
+1775.0|noun|das Handy|mobile phone
+1776.0|noun|die Hauptstadt|capital city
+1777.0|noun|das Experiment|experiment
+1778.0|noun|der Frieden|peace
+1779.0|noun|der Verlauf|course
+1780.0|noun|das Potenzial|potential
+1781.0|noun|der Verlag|publishing company
+1782.0|noun|der Ministerpräsident|minister president
+1782.001|noun|der Ministerpräsident|governor
+1783.0|noun|der Vogel|bird
+1784.0|verb|beschränken|to restrict
+1785.0|noun|die Branche|sector
