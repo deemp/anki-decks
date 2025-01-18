@@ -1,6 +1,6 @@
 |word_de|part_of_speech|word_en|sentence_de|sentence_en|sentence_lemmatized_de
 0|der Bass|noun|the bass|Der Bass vibrierte durch den ganzen Raum.|The bass vibrated through the entire room.|der;Bass;vibrieren;durch;der;ganz;Raum
-1|ahoi|interjection|ahoy|Ahoi, Kameraden! Das Abenteuer ruft!|Ahoy, comrades! Adventure calls!|das Ahoi;Kamerad;der;Abenteuer;rufen
+1|ahoi|interjection|ahoy|Ahoi, Kameraden! Das Abenteuer ruft!|Ahoy, comrades! Adventure calls!|ahoi;Kamerad;der;Abenteuer;rufen
 2|würzen|verb|to season|Vergiss nicht, die Suppe mit Kräutern zu würzen.|Don’t forget to season the soup with herbs.|vergessen;nicht;der;Suppe;mit;das Kraut;zu;würzen
 3|das Wertpapierdepot|noun|securities account|Er verwaltet sein Wertpapierdepot sehr sorgfältig.|He manages his securities account very carefully.|er;verwalten;sein;Wertpapierdepot;sehr;sorgfältig
 4|ein|article|a|Ein leises Klopfen war an der Tür zu hören.|A faint knock was heard at the door.|ein;leise;Klopfen;sein;an;der;Tür;zu;hören
@@ -23,7 +23,7 @@
 21|vietnamesisch|adjective|Vietnamese|Die vietnamesische Küche ist weltweit beliebt.|Vietnamese cuisine is popular worldwide.|der;vietnamesisch;Küche;sein;weltweit;beliebt
 22|verkleiden|verb|to disguise|Die Kinder verkleideten sich als Märchenfiguren.|The children disguised themselves as fairy tale characters.|der;Kind;verkleiden;sich;als;Märchenfigur
 23|das Rubbellos|noun|scratch card|Mit dem Rubbellos gewann sie eine kleine Summe.|She won a small sum with the scratch card.|mit;der;Rubbellos;gewinnen;sie;ein;klein;Summe
-24|gemein|adjective|mean|Seine gemeinen Worte brachten sie zum Weinen.|His mean words made her cry.|sein;gemein;Wort;bringen;sie;zu;das Weinen
+24|gemein|adjective|mean|Seine gemeinen Worte brachten sie zum Weinen.|His mean words made her cry.|sein;gemein;Wort;bringen;sie;zu;weinen
 25|der Schwamm|noun|sponge|Der Schwamm saugte das Wasser sofort auf.|The sponge immediately absorbed the water.|der;Schwamm;saugen;der;Wasser;sofort;auf
 26|fälschen|verb|to forge|Man warf ihm vor, das Gemälde zu fälschen.|He was accused of forging the painting.|man;werfen;ihm;vor;der;Gemälde;zu;fälschen
 27|der Rassist|noun|the racist|Der Rassist wurde für seine Hassrede verurteilt.|The racist was convicted for his hate speech.|der;Rassist;werden;für;sein;Hassrede;verurteilen
@@ -127,7 +127,7 @@
 125|das Mikrofon|noun|the microphone|Das Mikrofon fiel während der Rede aus.|The microphone failed during the speech.|der;Mikrofon;fallen;während;der;Rede;aus
 126|taugen|verb|to be suitable|Dieses Werkzeug taugt nicht für feine Arbeiten.|This tool is not suitable for fine work.|dieser;Werkzeug;taugen;nicht;für;fein;Arbeit
 127|die Pleite|noun|bankruptcy|Nach der Pleite wurde die Firma verkauft.|After the bankruptcy, the company was sold.|nach;der;Pleite;werden;der;Firma;verkaufen
-128|verängstigen|verb|to frighten|Der laute Knall verängstigte die Anwesenden.|The loud bang frightened those present.|der;laut;Knall;verängstigen;der;die Anwesenden
+128|verängstigen|verb|to frighten|Der laute Knall verängstigte die Anwesenden.|The loud bang frightened those present.|der;laut;Knall;verängstigen;der;der Anwesende
 129|das Segel|noun|sail|Das Segel flatterte im starken Wind auf dem Meer.|The sail fluttered in the strong wind on the sea.|der;Segel;flattern;in;stark;Wind;auf;der;Meer
 130|das Glockenspiel|noun|carillon|Das Glockenspiel erklang jeden Sonntag um zehn.|The carillon rang every Sunday at ten.|der;Glockenspiel;erklingen;jeder;Sonntag;um;zehn
 131|geradeaus|adverb|straight ahead|Fahren Sie geradeaus, dann links an der Kreuzung.|Drive straight ahead, then left at the intersection.|Fahren;sie;geradeaus;dann;links;an;der;Kreuzung
@@ -243,7 +243,7 @@
 241|einstürzen|verb|to collapse|Das Gebäude stürzte nach dem Erdbeben ein.|The building collapsed after the earthquake.|der;Gebäude;stürzen;nach;der;Erdbeben;ein
 242|die Lunte|noun|the fuse|Die Lunte wurde vorsichtig entzündet.|The fuse was carefully ignited.|der;Lunte;werden;vorsichtig;entzünden
 243|der Müßiggang|noun|the idleness|Im Urlaub genoss er den Müßiggang in vollen Zügen.|On vacation, he fully enjoyed the idleness.|in;Urlaub;genießen;er;der;Müßiggang;in;voll;Zug
-244|die Urlaubsreise|noun|the vacation trip|Die Urlaubsreise führte sie in die Toskana.|The vacation trip took her to Tuscany.|der;Urlaubsreise;führen;sie;in;der;die Toskana
+244|die Urlaubsreise|noun|the vacation trip|Die Urlaubsreise führte sie in die Toskana.|The vacation trip took her to Tuscany.|der;Urlaubsreise;führen;sie;in;der;Toskana
 245|der Zyklop|noun|the cyclops|Der Zyklop bewachte die verborgene Höhle.|The cyclops guarded the hidden cave.|der;Zyklop;bewachen;der;verborgen;Höhle
 246|der Dritte|noun|the third|Der Dritte im Rennen überraschte alle.|The third in the race surprised everyone.|der;der Dritte;in;rennen;überraschen;alle
 247|alles|pronoun|everything|Alles im Raum wurde ordentlich aufgeräumt.|Everything in the room was neatly tidied up.|alle;in;Raum;werden;ordentlich;aufräumen
@@ -331,7 +331,7 @@
 329|erstrahlen|verb|to shine|Der neue Saal ließ im Abendlicht erstrahlen.|The new hall shone in the evening light.|der;neu;Saal;lassen;in;Abendlicht;erstrahlen
 330|die Mängelrüge|noun|the complaint|Die Mängelrüge wurde schriftlich eingereicht.|The complaint was submitted in writing.|der;Mängelrüge;werden;schriftlich;einreichen
 331|wegschießen|verb|to shoot away|Der Spieler schoss den Ball weit ins Aus weg.|The player shot the ball far out of bounds.|der;Spieler;schießen;der;Ball;weit;in;Aus;weg
-332|der Leukozyt|noun|the leukocyte|Die Anzahl der Leukozyten war im Normalbereich.|The leukocyte count was within the normal range.|der;Anzahl;der;die Leukozyte;sein;in;der Normalbereich
+332|der Leukozyt|noun|the leukocyte|Die Anzahl der Leukozyten war im Normalbereich.|The leukocyte count was within the normal range.|der;Anzahl;der;der Leukozyt;sein;in;der Normalbereich
 333|lackieren|verb|to paint|Die Werkstatt wird das Auto morgen neu lackieren.|The workshop will paint the car anew tomorrow.|der;Werkstatt;werden;der;Auto;morgen;neu;lackieren
 334|die Wenigkeit|noun|modesty|Die Wenigkeit seiner Ansprüche war bewundernswert.|The modesty of his demands was admirable.|der;Wenigkeit;sein;Anspruch;sein;bewundernswert
 335|schamlos|adjective|shameless|Die schamlosen Lügen wurden schnell entlarvt.|The shameless lies were quickly exposed.|der;schamlos;Lüge;werden;schnell;entlarven
@@ -569,7 +569,7 @@
 567|das Girl|noun|the girl|Das Girl im roten Kleid stahl die Show.|The girl in the red dress stole the show.|der;Girl;in;rot;Kleid;stehlen;der;Show
 568|der Pelzmantel|noun|the fur coat|Sie trug einen auffälligen roten Pelzmantel.|She wore a striking red fur coat.|sie;tragen;ein;auffällig;rot;Pelzmantel
 569|der Diebstahl|noun|the theft|Der Diebstahl der Gemälde blieb lange unbemerkt.|The theft of the paintings went unnoticed for a long time.|der;Diebstahl;der;Gemälde;bleiben;lange;unbemerkt
-570|der Pop|noun|the pop (music)|Pop ist in den Charts immer noch sehr präsent.|Pop music is still very present in the charts.|Pop;sein;in;der;die Charts;immer;noch;sehr;präsent
+570|der Pop|noun|the pop (music)|Pop ist in den Charts immer noch sehr präsent.|Pop music is still very present in the charts.|Pop;sein;in;der;das Chart;immer;noch;sehr;präsent
 571|der Absinth|noun|absinthe|Absinth war im 19. Jahrhundert sehr populär.|Absinthe was very popular in the 19th century.|Absinth;sein;in;neunzehn;Jahrhundert;sehr;populär
 572|das Kondom|noun|the condom|Das Kondom wurde als Vorsichtsmaßnahme empfohlen.|The condom was recommended as a precaution.|der;Kondom;werden;als;Vorsichtsmaßnahme;empfehlen
 573|der Staatsdienst|noun|the civil service|Viele streben eine Karriere im Staatsdienst an.|Many aspire to a career in civil service.|viel;streben;ein;Karriere;in;Staatsdienst;an
@@ -861,12 +861,12 @@
 859|lila|adjective|purple|Die Blumen im Garten leuchteten in kräftigem Lila.|The flowers in the garden glowed in vibrant purple.|der;Blume;in;Garten;leuchten;in;kräftig;Lila
 860|die Kochwäsche|noun|boil wash|Kochwäsche entfernt hartnäckige Flecken effizient.|Boil wash removes stubborn stains efficiently.|Kochwäsche;entfernen;hartnäckig;Flecken;effizient
 861|die Getrenntheit|noun|separateness|Die Getrenntheit der Gruppen erschwert den Dialog.|The separateness of the groups hinders dialogue.|der;Getrenntheit;der;Gruppe;erschweren;der;Dialog
-862|das Karma|noun|karma|Gutes Karma bringt positive Erfahrungen.|Good karma brings positive experiences.|das Gute;Karma;bringen;positiv;Erfahrung
+862|das Karma|noun|karma|Gutes Karma bringt positive Erfahrungen.|Good karma brings positive experiences.|gut;Karma;bringen;positiv;Erfahrung
 863|die Kapelle|noun|chapel|Die Kapelle wurde für ihre Akustik geschätzt.|The chapel was valued for its acoustics.|der;Kapelle;werden;für;ihr;Akustik;schätzen
 864|der Beat|noun|the beat|Der Beat des Songs brachte alle zum Tanzen.|The beat of the song made everyone dance.|der;Beat;der;Song;bringen;alle;zu;tanzen
 865|ergründen|verb|to fathom|Der Forscher versuchte, die Ursache zu ergründen.|The researcher tried to fathom the cause.|der;Forscher;versuchen;der;Ursache;zu;ergründen
 866|der Songtext|noun|lyrics|Der Songtext berührte viele Fans tief.|The lyrics deeply touched many fans.|der;Songtext;berühren;viel;Fan;tief
-867|die Leggings|noun|leggings|Schwarze Leggings passen zu fast jedem Outfit.|Black leggings go with almost any outfit.|schwarz;die Legging;passen;zu;fast;jeder;Outfit
+867|die Leggings|noun|leggings|Schwarze Leggings passen zu fast jedem Outfit.|Black leggings go with almost any outfit.|schwarz;die Leggings;passen;zu;fast;jeder;Outfit
 868|das Stresshormon|noun|stress hormone|Sport reduziert das Stresshormon im Körper.|Exercise reduces the stress hormone in the body.|Sport;reduzieren;der;Stresshormon;in;Körper
 869|die Schabe|noun|the cockroach|Die Schabe versteckte sich hinter dem Kühlschrank.|The cockroach hid behind the refrigerator.|der;Schabe;verstecken;sich;hinter;der;Kühlschrank
 870|das Buffet|noun|buffet|Das Buffet bot eine große Auswahl an Gerichten.|The buffet offered a wide variety of dishes.|der;Buffet;bieten;ein;groß;Auswahl;an;Gericht
@@ -967,7 +967,7 @@
 965|zirkeln|verb|to compass|Er zirkelte die Skizze mit größter Präzision.|He compassed the sketch with utmost precision.|er;zirkeln;der;Skizze;mit;groß;Präzision
 966|gierig|adjective|greedy|Die gierigen Blicke verrieten seine Absichten.|The greedy glances revealed his intentions.|der;gierig;Blick;verraten;sein;Absicht
 967|das Tag|noun|day|Ein Tag voller Abenteuer erwartet uns morgen.|A day full of adventures awaits us tomorrow.|ein;Tag;voll;Abenteuer;erwarten;uns;morgen
-968|heiter|adjective|cheerful|Die heitere Musik füllte den Raum mit Leben.|The cheerful music filled the room with life.|der;die Heit;Musik;füllen;der;Raum;mit;Leben
+968|heiter|adjective|cheerful|Die heitere Musik füllte den Raum mit Leben.|The cheerful music filled the room with life.|der;heiter;Musik;füllen;der;Raum;mit;Leben
 969|der Rettungsring|noun|lifebuoy|Der Rettungsring hing gut sichtbar am Bootssteg.|The lifebuoy was clearly visible on the dock.|der;Rettungsring;hängen;gut;sichtbar;an;Bootssteg
 970|bechern|verb|to drink heavily|Nach der Feier becherte er mit seinen Freunden.|After the party, he drank heavily with his friends.|nach;der;Feier;bechern;er;mit;sein;Freund
 971|der Met|noun|the mead|Met war im Mittelalter ein sehr beliebtes Getränk.|Mead was a very popular drink in the Middle Ages.|Met;sein;in;Mittelalter;ein;sehr;beliebt;Getränk
@@ -1048,9 +1048,9 @@
 1046|verschonen|verb|to spare|Die Naturkatastrophe verschonte das kleine Dorf.|The natural disaster spared the small village.|der;Naturkatastrophe;verschonen;der;klein;Dorf
 1047|der Schmutz|noun|dirt|Der Schmutz auf dem Teppich ist kaum zu entfernen.|The dirt on the carpet is hard to remove.|der;Schmutz;auf;der;Teppich;sein;kaum;zu;entfernen
 1048|das Spiegelkabinett|noun|hall of mirrors|Das Spiegelkabinett im Jahrmarkt war verwirrend.|The hall of mirrors at the fair was confusing.|der;Spiegelkabinett;in;Jahrmarkt;sein;verwirrend
-1049|die Harmonie|noun|harmony|Die Harmonie des Chores verzauberte das Publikum.|The harmony of the choir enchanted the audience.|der;Harmonie;der;die Chore;verzaubern;der;Publikum
+1049|die Harmonie|noun|harmony|Die Harmonie des Chores verzauberte das Publikum.|The harmony of the choir enchanted the audience.|der;Harmonie;der;der Chor;verzaubern;der;Publikum
 1050|unerhört|adjective|outrageous|Das unerhörte Verhalten wurde nicht toleriert.|The outrageous behavior was not tolerated.|der;unerhört;verhalten;werden;nicht;tolerieren
-1051|der Papi|noun|the dad|Der Papi faltet ein buntes Papierboot.|The dad folds a colorful paper boat.|der;Papi;falten;ein;bunt;Papierboot
+1051|der Papi|noun|the dad|Der Papi faltet ein buntes Papierboot.|The dad folds a colorful paper boat.|der;Papi;falten;ein;bunt;das Papierboot
 1052|das Plastik|noun|the plastic|Das Plastik wurde in der Fabrik recycelt.|The plastic was recycled in the factory.|der;Plastik;werden;in;der;Fabrik;recyceln
 1053|ausreisen|verb|to leave the country|Sie planen, morgen aus Deutschland auszureisen.|They plan to leave Germany tomorrow.|sie;planen;morgen;aus;Deutschland;ausreisen
 1054|das Spray|noun|spray|Das Spray hinterließ einen frischen Duft im Raum.|The spray left a fresh scent in the room.|der;Spray;hinterlassen;ein;frisch;Duft;in;Raum
@@ -1912,7 +1912,7 @@
 1910|runterkommen|verb|to calm down|Nach dem Streit musste sie erst mal runterkommen.|After the argument, she needed to calm down.|nach;der;Streit;müssen;sie;erst;mal;runterkommen
 1911|die Trauerfeier|noun|funeral service|Die Trauerfeier war würdevoll und gut besucht.|The funeral service was dignified and well-attended.|der;Trauerfeier;sein;würdevoll;und;gut;besuchen
 1912|die Fliese|noun|the tile|Die kaputte Fliese wurde umgehend ersetzt.|The broken tile was promptly replaced.|der;kaputt;Fliese;werden;umgehend;ersetzen
-1913|die Lilie|noun|the lily|Die Lilie verströmt einen feinen Duft.|The lily emits a delicate fragrance.|Die;Lilie;verströmen;ein;fein;Duft
+1913|die Lilie|noun|the lily|Die Lilie verströmt einen feinen Duft.|The lily emits a delicate fragrance.|die;Lilie;verströmen;ein;fein;Duft
 1914|der Penis|noun|the penis|Der Arzt erklärte ihm Details über den Penis.|The doctor explained details about the penis to him.|der;Arzt;erklären;ihm;Detail;über;der;Penis
 1915|hetero|adjective|heterosexual|Das Buch beschreibt eine hetero Liebesbeziehung.|The book describes a heterosexual love relationship.|der;Buch;beschreiben;ein;hetero;Liebesbeziehung
 1916|ersticken|verb|to suffocate|Die dicken Rauchschwaden drohten sie zu ersticken.|The thick smoke clouds threatened to suffocate her.|der;dick;Rauchschwade;drohen;sie;zu;ersticken
