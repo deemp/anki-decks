@@ -152,7 +152,7 @@ def copy_lemmas_from_words_not_lemmas():
 
     words_lemmas = pd.read_csv("data/lyrics-words-lemmas.csv", sep="|", index_col=0)
     lemmas_combined = pd.concat([words_lemmas, lemmas])
-    lemmas_combined = lemmas_combined[~lemmas_combined["lemma"].duplicated()]
+    lemmas_combined = lemmas_combined[~lemmas_combined["lemma"].map(mk_word, na_action="ignore").duplicated()]
     lemmas_combined.sort_index(inplace=True)
 
     lemmas_combined.to_csv("data/lyrics-words-lemmas.csv", sep="|")
