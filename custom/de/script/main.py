@@ -20,9 +20,9 @@ def mk_word(word: str):
     if any(x.isupper() for x in word):
         k = 0
         for i, j in enumerate(word):
+            k = i
             if j.isupper():
                 break
-            k = i
         word = word[k:]
     return word
 
