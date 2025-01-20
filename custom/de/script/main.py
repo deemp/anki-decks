@@ -115,6 +115,37 @@ def get_word_lists():
 
 get_word_lists()
 
+# %%
+
+
+def move_words_not_lemmas():
+    words_not_lemmas = pd.read_csv(
+        "data/lyrics-words-not-lemmas.csv", sep="|", index_col=0
+    )
+
+    lemma_cond = (
+        words_not_lemmas["lemma"]
+        .map(mk_word, na_action="ignore")
+        .isin(lemmata["lemma"])
+    )
+
+    lemmas = words_not_lemmas.loc[
+        lemma_cond,
+        ["lemma"],
+    ]
+
+    non_lemmas = words_not_lemmas[~lemma_cond].sort_index()
+
+    words_lemmas = pd.read_csv("data/lyrics-words-lemmas.csv", sep="|", index_col=0)
+    lemmas_combined = pd.concat([words_lemmas, lemmas])
+    lemmas_combined = lemmas_combined[~lemmas_combined["lemma"].duplicated()]
+    lemmas_combined.sort_index(inplace=True)
+
+    lemmas_combined.to_csv("data/lyrics-words-lemmas.csv", sep="|")
+    non_lemmas.to_csv("data/lyrics-words-not-lemmas.csv", sep="|")
+
+
+move_words_not_lemmas()
 
     # lyrics_list = "\n".join(lyrics_split)
 
