@@ -117,7 +117,10 @@ def get_word_lists():
     words_lemmas_existing = pd.read_csv(
         "data/lyrics-words-lemmas.csv", sep="|", index_col=0
     )
-    words_lemmas = words_lemmas.join(words_lemmas_existing, rsuffix="_r")
+    words_lemmas = words_lemmas.join(words_lemmas_existing, how="outer", rsuffix="_r")
+    words_lemmas.loc[~words_lemmas["lemma_r"].isna(), "lemma"] = words_lemmas.loc[
+        ~words_lemmas["lemma_r"].isna(), "lemma_r"
+    ]
     words_lemmas.drop(columns=["author", "title", "lemma_r"], inplace=True)
     words_lemmas = words_lemmas[~words_lemmas["lemma"].duplicated()].sort_index()
     words_lemmas.to_csv("data/lyrics-words-lemmas.csv", sep="|")
