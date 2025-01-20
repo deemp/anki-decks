@@ -838,10 +838,14 @@
 1043|bekannt
 1044|Ort
 1045|fort
+1046|der G-Punkt
 1048|I
 1049|m
 1053|a
+1055|der Zyklus
 1058|happy
+1062|übrig
+1066|die Nacht
 1069|verkommen
 1070|verbiegen
 1072|Wind
@@ -852,9 +856,17 @@
 1077|der Kunde
 1078|Afrika
 1079|A
+1088|der Körper
 1092|dry
+1094|das Blut
 1095|falls
+1097|das Herz
+1098|oberhalb
+1101|der Teil
 1104|love
+1112|die Materie
+1114|nahe
+1115|die Liebe
 1116|Querdenker
 1117|klatschen
 1118|Pazifist
@@ -876,6 +888,7 @@
 1137|Hippie
 1138|überzeugen
 1139|Politik
+1140|die Überraschung
 1142|Fascho
 1144|euch
 1145|Grund
@@ -960,6 +973,7 @@
 1258|Ehering
 1261|nuckeln
 1262|Queen
+1263|der König
 1267|Thing
 1268|Kid
 1269|Augenblick
@@ -979,11 +993,29 @@
 1292|wetten
 1294|Ehe
 1303|Top
+1306|saftig
+1307|der Gott
+1308|die Mitte
+1311|das Netz
 1315|Take
+1316|das Gehirn
+1317|wenden
 1319|off
+1322|die Schande
+1324|der Champagner
+1326|das Spiel
 1331|Do
+1333|ruinieren
+1334|das Leben
+1339|die Ehefrau
 1341|stop
 1344|real
+1347|gedacht
+1351|gewollt
+1352|die Freude
+1358|der Tag
+1362|dies
+1363|die Angst
 1367|winden
 1368|wehren
 1369|verbinden
@@ -1204,6 +1236,7 @@
 1656|lächerlich
 1657|hoffentlich
 1658|passieren
+1659|die Gefahr
 1660|Dan
 1661|Experiment
 1662|ausloten
@@ -1234,6 +1267,7 @@
 1694|vermarkten
 1695|After
 1697|Chef
+1700|der Grad
 1702|Lebenslauf
 1703|kleben
 1704|sympathisch
@@ -1259,6 +1293,7 @@
 1731|Auto
 1732|aufknacken
 1734|Juni
+1736|der Ort
 1739|Ticket
 1740|Zaun
 1742|verhauen
@@ -1461,6 +1496,7 @@
 2005|brechen
 2006|ficken
 2007|Luftschloss
+2009|die Zukunft
 2011|Bitte
 2013|Sorte
 2014|Joghurt
@@ -1565,12 +1601,16 @@
 2149|Reinheitsgebot
 2150|Crew
 2151|Frust
+2153|das Mikrofon
 2154|rollen
 2155|Punkrock
+2156|das Elternteil
+2158|die Klasse
 2160|teuer
 2161|Kutte
 2163|antikapitalistisch
 2165|gemeinsam
+2166|der Freund
 2168|bieten
 2169|Paroli
 2170|Sturmhaube
@@ -1589,6 +1629,7 @@
 2191|Punker
 2193|Call
 2194|Arbeit
+2195|der Kampf
 2196|Rollkragenpulli
 2197|links
 2198|Szene
@@ -1614,6 +1655,8 @@
 2231|Uhr
 2232|Weiße
 2233|reflektieren
+2235|angemessen
+2236|die Kultur
 2237|Max
 2241|Weinschorle
 2242|Getränk
@@ -1639,6 +1682,7 @@
 2267|Besuch
 2269|gebrochen
 2270|Nasenbein
+2271|die Pickel
 2273|Date
 2275|beulen
 2278|Peter
@@ -1670,6 +1714,7 @@
 2308|übern
 2309|Currywurst
 2310|volltanken
+2311|der Punk
 2312|Smartphone
 2313|Trap
 2314|Handicap
@@ -1706,6 +1751,7 @@
 2365|Push
 2366|pushen
 2369|Ekel
+2370|das Deutschland
 2371|Produkt
 2372|achtzig
 2373|spucken
@@ -1718,6 +1764,7 @@
 2382|Gewinner
 2383|Fall
 2384|verweichlichen
+2385|die Befindlichkeit
 2386|Ahnung
 2387|Kette
 2388|Blaulicht
@@ -1834,23 +1881,30 @@
 2541|Hintergrund
 2542|produzieren
 2543|Erinnerung
+2544|die Erinnerung
 2545|finster
 2547|Kinderwunsch
 2548|Hinrichtung
 2549|Heimat
 2552|Eindruck
 2553|sammeln
+2555|der Trost
 2556|äh
+2557|die Trophäe
 2559|Fisch
 2560|karibisch
+2561|der Rhythmus
 2562|Liebesgeschichte
 2564|posten
 2566|berichten
 2568|Geburt
 2570|indigen
 2571|Tattoo
+2572|die Frisur
+2574|die Veränderung
 2575|ey
 2577|Mate
+2579|der Narr
 2581|Vegetarier
 2585|Probetraining
 2587|Hobby
@@ -1867,6 +1921,7 @@
 2600|erkennen
 2601|Ausreise
 2602|Ausweis
+2603|der Pass
 2605|erzeugen
 2606|Replikat
 2607|Drehen
@@ -1876,6 +1931,7 @@
 2614|wechselbar
 2615|Hexenjagd
 2616|Fähigkeit
+2617|der Gefangene
 2618|Federvieh
 2619|Legebatterie
 2621|Verlegenheit
@@ -1940,12 +1996,15 @@
 2698|Zahnzwischenraum
 2699|Person
 2701|Katheter
+2702|der Erzähler
 2705|Tarnung
 2706|platzen
 2707|Großmutter
 2708|haarig
 2709|Sack
 2711|kommentieren
+2712|der Angriff
+2714|das Wortspiel
 2715|böse
 2716|Zunge
 2717|Schatten
@@ -1963,6 +2022,8 @@
 2732|erziehen
 2733|zweideutig
 2734|zauberhaft
+2735|der Tausendsassa
+2736|der Charakter
 2744|Grundwasser
 2745|Ergebnis
 2746|unfassbar
@@ -1979,6 +2040,7 @@
 2759|Passagiermaschine
 2760|Skyline
 2762|gemein
+2763|der Faschist
 2764|ernst
 2766|Weizenkorn
 2767|Album
@@ -1988,6 +2050,7 @@
 2774|trashig
 2775|Tape
 2776|Retro
+2778|der Bildner
 2779|Schnurrbart
 2780|bepinseln
 2781|Liste
@@ -2021,6 +2084,7 @@
 2821|tatsächlich
 2823|Bettbezug
 2825|Laborbefund
+2826|das Wachs
 2829|Busch
 2831|Wohnung
 2832|amüsieren
@@ -2041,7 +2105,9 @@
 2853|Sauna
 2854|Kino
 2856|Zeitung
+2857|das Guckloch
 2858|Rohstoff
+2859|die Tropfen
 2860|Wanze
 2862|Arschloch
 2863|bemerken
@@ -2092,6 +2158,7 @@
 2915|Norden
 2916|waschecht
 2917|Original
+2918|die Kühlerfigur
 2919|Golf
 2920|schwach
 2921|toll
@@ -2101,6 +2168,8 @@
 2925|flink
 2926|lahm
 2929|Penthouse
+2930|die Harmonie
+2931|der Kuss
 2934|Dollar
 2936|direkt
 2937|Nachfahre
@@ -2119,6 +2188,7 @@
 2960|Sandalette
 2961|Muskel
 2962|Speck
+2964|der Gewinn
 2965|lose
 2966|Apfel
 2967|Mus
@@ -2130,6 +2200,7 @@
 2975|Kumpel
 2976|Würde
 2977|unantastbar
+2979|der Polizeibeamte
 2980|Schmied
 2981|ersticken
 2982|Bulle
@@ -2148,6 +2219,8 @@
 3007|Nachname
 3008|Besichtigungstermin
 3009|Idee
+3011|das Wort
+3012|das Deutsch
 3016|heißen
 3017|höchstwahrscheinlich
 3019|Mist
@@ -2187,6 +2260,7 @@
 3062|beinahe
 3063|dreißig
 3064|Phase
+3066|die Krise
 3067|neidisch
 3068|Bock
 3069|Quatsch
@@ -2218,6 +2292,8 @@
 3106|fein
 3108|Phänomen
 3109|geometrisch
+3110|das Gesicht
+3111|der Look
 3112|drucken
 3115|Preisschild
 3116|dulden
@@ -2232,6 +2308,7 @@
 3131|Frühling
 3132|Röslein
 3134|Mühe
+3135|die Modemesse
 3136|Kompliment
 3137|Schöne
 3138|Benutzeroberfläche
@@ -2285,6 +2362,7 @@
 3202|Psychopath
 3204|Griff
 3205|Waffe
+3206|abhängig
 3207|Wahnsinn
 3208|beenden
 3209|töten
@@ -2319,6 +2397,7 @@
 3243|Fan
 3244|erlösen
 3245|high
+3246|die Gesellschaft
 3247|VIP
 3251|zugeben
 3252|kultiviert
@@ -2348,6 +2427,7 @@
 3286|runterziehen
 3287|unbeliebt
 3288|Wunder
+3289|die Metapher
 3290|Röte
 3292|begutachten
 3293|Ware
@@ -2360,6 +2440,7 @@
 3300|belästigen
 3301|Armlänge
 3302|Abstand
+3304|die Handkante
 3306|der Vater
 3307|der Sohn
 3308|berühren
@@ -2379,6 +2460,7 @@
 3327|Euro
 3329|entschieden
 3331|Verlierer
+3333|der Sieg
 3335|Louis
 3338|abgetragen
 3339|Klamotte
@@ -2393,14 +2475,21 @@
 3352|Termin
 3354|Trottel
 3356|zehntausend
+3359|das Hemd
 3361|ähm
+3363|das Gelenk
+3364|die Stiefel
+3367|der Bruder
 3368|wert
 3374|Plattenbaugebiet
 3375|Rand
+3378|die Jeans
 3379|Hundert
 3381|die 3k-Lederjacke
+3382|weiterverkaufen
 3383|eben
 3384|auffallen
+3385|das Kleidungsstück
 3386|Okay
 3388|tödlich
 3389|sorgen
@@ -2439,8 +2528,10 @@
 3430|Sonnenliege
 3431|Tourist
 3432|Handtuch
+3433|das Visum
 3434|Karte
 3435|Anbruch
+3436|der Nächste
 3438|vorher
 3439|abstrakt
 3440|Staatsanwalt
@@ -2457,6 +2548,7 @@
 3455|Quark
 3456|Essen
 3458|Respekt
+3460|die Konsole
 3461|Konzept
 3462|werfen
 3463|Strike
@@ -2465,6 +2557,7 @@
 3466|jederzeit
 3468|G
 3470|vegan
+3471|der Wagen
 3472|einkaufen
 3473|geteert
 3475|Ferne
@@ -2496,15 +2589,18 @@
 3510|Sekunde
 3511|Dreh
 3512|Runde
+3513|der Kreisverkehr
 3514|Hürde
 3516|Klausur
 3517|Paar
 3518|Like
+3519|der Vertrag
 3520|Ne
 3521|zoomen
 3523|Block
 3524|scheinen
 3525|Hinterkopf
+3526|das Glück
 3527|rau
 3528|grau
 3529|Teer
@@ -2512,18 +2608,23 @@
 3531|Dampfer
 3532|sin
 3534|Abgas
+3535|das Aggregat
 3536|Maschinenraum
 3537|verrotten
 3538|Zwischendeck
 3539|wütend
 3540|Kartoffel
 3541|Haufen
+3542|das Kristall
+3543|das Methamphetamin
 3545|Takt
+3546|die Turbine
 3548|Pfütze
 3549|Urin
 3550|Rudel
 3551|Ratte
 3552|irgendjemand
+3553|der Platz
 3554|Knoten
 3555|durchstreifen
 3556|Kohle
@@ -2540,6 +2641,7 @@
 3570|Etage
 3571|Klasse
 3572|Möbel
+3573|die Rakete
 3574|stundenlang
 3575|Begleitmusik
 3576|schaudern
@@ -2549,18 +2651,24 @@
 3580|Rettungsring
 3581|Westen
 3582|konstruktiv
+3583|der Gast
 3584|nächst
 3585|Gast
 3586|Wrack
 3587|pennen
 3589|Wake
 3591|September
+3593|verschleiern
+3598|der Vorname
 3599|Kaffee
 3600|Stand
 3602|Drohne
 3603|beinah
+3604|der Krieg
+3606|die Stadt
 3607|Australien
 3608|unweit
+3609|das Camp
 3610|gewinnen
 3611|Februar
 3612|Riß
@@ -2570,7 +2678,9 @@
 3618|Virus
 3619|wuschen
 3620|ungelogen
+3622|der Virologe
 3623|Hilfe
+3624|die Fluggesellschaft
 3625|Mitleid
 3626|Kunst
 3629|Triggerwarnung
@@ -2580,6 +2690,7 @@
 3635|Mai
 3636|Kachel
 3638|zweimal
+3639|die Zeitung
 3640|aufrecht
 3641|perplex
 3647|Grübchen
@@ -2629,9 +2740,12 @@
 3700|behalten
 3701|besser
 3702|Karma
+3703|der Nachname
 3704|abschreckend
 3705|nichtig
 3707|Herzinfarkt
+3708|der Bakterium
+3709|die Werbung
 3711|Beispiel
 3712|vermutlich
 3713|küssen
@@ -2640,6 +2754,7 @@
 3716|Handgelenk
 3717|Wüstenspringmaus
 3718|Tesafilm
+3719|das Klebeband
 3720|wenigstens
 3721|wegnehmen
 3722|unsinnig
@@ -2652,13 +2767,18 @@
 3731|Heim
 3732|riskieren
 3733|schulden
+3735|das Geräusch
 3736|zielen
 3737|überleben
 3738|erschießen
 3740|Herrscher
+3742|der Künstlername
+3744|das Idol
 3745|wahrscheinlich
 3746|Mopp
 3748|uh
+3749|die Ehrlichkeit
+3750|das Überleben
 3752|Langeweile
 3754|Heinz
 3759|die Antilope
@@ -2671,6 +2791,7 @@
 3768|Hater
 3769|kombinieren
 3770|konzentriert
+3771|die Frische
 3772|jemals
 3773|rezensieren
 3775|Panik
@@ -2687,37 +2808,55 @@
 3786|auflösen
 3787|Bobby
 3791|Zahl
+3793|das Mietauto
 3794|Parkverbot
 3795|Katzenwäsche
+3796|das Klo
 3798|Abendbrot
+3799|das Konzept
 3800|die Rolle
 3801|Pick
 3802|Enkeltrick
+3803|der Van
+3804|der Sitz
 3805|Felge
+3806|der Stift
 3807|ah
+3810|der Tipp
 3811|Lieblingswort
+3812|der Support
+3813|der Spitzname
+3814|das Resort
+3815|der Bus
 3816|Viehtransport
 3817|signieren
 3818|Deal
+3819|das Brett
 3820|Warnung
 3822|Rechtsberatung
 3823|Geschäftsgebaren
 3824|Sahne
 3825|Chefetage
 3826|Sekte
+3829|die Unterschrift
 3830|bedeuten
 3831|Unterschrift
+3832|das Training
+3834|der Rapper
 3839|warnen
 3840|der Hoffnungsträger
+3842|der Sprung
 3843|Hockeyschläger
 3844|Haartransplantation
 3847|insgesamt
 3848|peinlich
 3849|Megafon
+3850|das Verbot
 3851|Plan
 3852|betreiben
 3853|scheißegal
 3854|ausspülen
+3855|das Glas
 3856|rumstehen
 3857|Sitz
 3858|Wanne
@@ -2726,8 +2865,10 @@
 3862|Weißwein
 3863|lecker
 3864|Dessert
+3867|der Salat
 3868|wobei
 3869|Machen
+3870|die Möbel
 3871|Raumschiff
 3872|bestreichen
 3873|Brot
@@ -2742,12 +2883,14 @@
 3883|laktosefrei
 3885|puh
 3886|das Haus
+3887|die Schorle
 3889|mitnehmen
 3890|Rezept
 3891|danken
 3892|Wiederholung
 3893|Mediathek
 3895|Buffet
+3896|das Buffet
 3897|Finnisch
 3898|ausgezeichnet
 3899|hinkommen
@@ -2781,18 +2924,22 @@
 3951|steppen
 3952|plumpsen
 3953|Packung
+3954|die Wurst
 3955|Batterie
 3956|Plutonium
+3958|das Rind
 3959|bedeutungslos
 3960|verwahren
 3961|Atemmaske
 3962|Gras
 3963|erfrischen
 3964|aufweichen
+3965|der Stummel
 3967|Vogel
 3968|zwitschern
 3969|Lobeshymne
 3970|Möwe
+3971|die Fabrik
 3973|Porzellan
 3974|verdrecken
 3975|rösten
@@ -2804,8 +2951,11 @@
 3983|Picknick
 3984|Fritteuse
 3985|Massagesessel
+3986|die Hülle
 3987|orten
+3988|der Markt
 3989|Müll
+3990|das Hotel
 3992|Mikrowelle
 3993|Urlaubsreise
 3994|klasse
@@ -2820,6 +2970,7 @@
 4005|Gummistiefel
 4006|Deich
 4008|der Boom
+4009|der Bumerang
 4010|Ruf
 4012|pleite
 4013|Sofa
@@ -2852,7 +3003,11 @@
 4057|Latein
 4058|Physik
 4059|Speicher
+4061|der Liebhaber
+4062|der Geek
 4063|Blackout
+4064|das Lebewohl
+4066|das Thema
 4067|Hauptplatine
 4069|Jahreszahl
 4070|divers
@@ -2902,6 +3057,7 @@
 4147|Gehen
 4149|Sozialverhalten
 4151|Leichtigkeit
+4152|Tschüss
 4153|Schmerztablette
 4154|Fernweh
 4155|Schwäche
@@ -3158,6 +3314,8 @@
 4497|Däumchen
 4498|inner
 4499|verkehren
+4500|der Traum
+4501|lange Weile
 4502|extrem
 4503|Perfektion
 4504|genießen
@@ -3276,6 +3434,7 @@
 4651|hinterher
 4652|das Paradies
 4655|kaputt
+4658|Rot
 4659|hallo
 4662|das Ende
 4664|News
@@ -3568,9 +3727,11 @@
 5088|Jesus
 5090|different
 5094|power
+5095|großartig
 5096|verantwortlich
 5098|höchstens
 5100|weiterempfehlen
+5101|die Engel
 5109|Löwe
 5111|Raubtier
 5112|der Bizeps
@@ -3745,6 +3906,7 @@
 5402|fordern
 5403|Streitkultur
 5404|die Bundesliga
+5405|der Frieden
 5406|Unentschieden
 5407|unentschlossen
 5408|Achtung
@@ -3864,8 +4026,20 @@
 5571|loslaufen
 5572|slow
 5580|Nobody
+5583|das Chaos
+5587|die Mode
+5590|die Zeit
+5591|loslösen
+5594|das Internet
+5597|der Gewinner
 5601|down
+5602|das Kaninchen
+5603|das Loch
+5612|der Rückenwind
 5613|Still
+5614|Breakdance
+5619|abstecken
+5621|die Verzerrung
 5623|Boomer
 5630|Jugend
 5631|deprimiert
@@ -3915,6 +4089,8 @@
 5692|schwenken
 5693|der Anachronismus
 5695|das Liebeslied
+5696|der Name
+5697|kling
 5698|aktuell
 5699|Betrag
 5702|Haarfarbe
@@ -3940,8 +4116,14 @@
 5740|Smalltalk
 5741|Schwachkopf
 5742|Tab
+5743|die Vergewaltigung
+5744|der Porno
+5745|die Positivität
 5746|Body
+5748|der Hass
 5749|Speech
+5751|die KI
+5753|die Stimme
 5755|Spam
 5756|die Mail
 5759|gefährlich
@@ -4042,6 +4224,7 @@
 5896|Rauschen
 5897|Gezeit
 5898|albern
+5899|zweite
 5900|erschöpfen
 5901|anstrengend
 5902|fackeln
@@ -4075,10 +4258,12 @@
 5949|italienisch
 5950|spontan
 5951|doll
+5952|vierte
 5953|klemmen
 5954|selbstverständlich
 5955|klimatisieren
 5956|Fiesta
+5957|Nonstop
 5958|Bravo
 5959|CD
 5960|Raste
@@ -4101,6 +4286,7 @@
 5980|Führerschein
 5982|Corona
 5983|merci
+5985|der Trick
 5988|Remix
 5989|Medley
 5990|bittersüß
@@ -4112,14 +4298,21 @@
 6000|auskurieren
 6002|Schönheit
 6003|Absinth
+6005|die Oberseite
 6006|Wirrwarr
 6007|der Gedanke
+6011|die Schönheit
+6015|die Pflicht
+6019|vollständig
+6023|aufsteigen
 6025|autoritär
 6026|nationalistisch
 6028|tough
 6031|Heugabel
 6032|not
+6033|die Leute
 6036|Deutsche
+6052|mampfen
 6053|Kebab
 6054|Müsli
 6056|Klang
@@ -4144,9 +4337,12 @@
 6120|menschlich
 6127|lehrbar
 6129|mörderisch
+6130|der Vandale
 6131|Be
 6134|Socken
 6135|Sandal
+6136|reservieren
+6142|die Eingeweide
 6146|diese
 6149|Bundesrepublik
 6157|stupid
@@ -4156,6 +4352,7 @@
 6174|aufgeklärt
 6176|recyceln
 6177|Weltmeister
+6178|vergeben
 6179|Weizenbier
 6181|Fahrvergnügen
 6184|europäisch
@@ -4197,9 +4394,24 @@
 6261|Stock
 6263|out
 6264|einige
+6273|die Mutter
+6274|das Alphabet
 6275|der Abend
+6276|der Achter
+6282|die Richtung
 6283|Havanna
+6284|so viel
+6287|hinbringen
+6290|später
+6292|dein Wohlbefinden
+6303|an deinem Handgelenk
+6304|klicken
+6305|die Handschelle
 6306|Te
+6307|an deiner Position
+6311|an der Tür
+6312|die Klinke
+6313|die Treppe
 6316|liefern
 6317|Zettel
 6318|Schneesturm
@@ -4223,6 +4435,7 @@
 6340|Schutz
 6341|Arbeitsrecht
 6342|Trebegänger
+6343|der Subunternehmer
 6345|Dankeschön
 6347|Abteilungsleiter
 6348|Stiftung
@@ -4322,6 +4535,7 @@
 6491|Papi
 6494|Fahrradweg
 6499|Schwarzfahren
+6501|der Zebrastreifen
 6503|Shopping
 6504|Radweg
 6506|Kinderfilm
@@ -4350,6 +4564,7 @@
 6541|Stille
 6543|Gebrüll
 6544|die Leise
+6545|das Kilobyte
 6548|Retterin
 6549|Röckchen
 6555|Klub
@@ -4618,6 +4833,7 @@
 7003|verdrängen
 7007|Ellbogen
 7008|buckeln
+7009|der Hahn
 7010|Orange
 7011|Saftpresse
 7012|Mettigel
@@ -4627,6 +4843,7 @@
 7016|Letzte
 7017|Weiche
 7018|gewaltbereit
+7019|das Tabu
 7022|Vatertag
 7025|Kinderschänder
 7028|Heckscheibe
@@ -4677,6 +4894,7 @@
 7087|Napalm
 7088|Tamagotchi
 7089|Fantasie
+7090|die Brust
 7091|Genom
 7093|Pogrom
 7094|Strom
@@ -4719,6 +4937,7 @@
 7159|Mord
 7160|Kaff
 7163|anmachen
+7164|die Hacke
 7167|Digga
 7170|spreizen
 7173|Passantin
@@ -4735,6 +4954,7 @@
 7191|schwärmen
 7192|schütteln
 7194|Ärmel
+7195|die Schlampe
 7196|Ehrbegriff
 7197|Emanzipation
 7200|Bügeleisen
@@ -5162,6 +5382,7 @@
 7814|Bonobo
 7815|Labor
 7816|verneinen
+7818|die Realität
 7819|Ouzo
 7820|Vorschein
 7821|vorweinen
@@ -5179,6 +5400,7 @@
 7840|durcheinander
 7843|Brechen
 7844|verstimmen
+7845|der Freak
 7846|strukturieren
 7848|ängstlich
 7849|Balance
@@ -5212,6 +5434,8 @@
 7902|guttun
 7904|emanzipieren
 7905|weird
+7907|Zwei
+7908|Drei
 7910|Meilenstein
 7914|Dichter
 7915|Denker
@@ -5247,6 +5471,7 @@
 7953|Damenwelt
 7956|eklig
 7958|Wecker
+7959|der Vierte
 7960|Stau
 7962|Intervention
 7963|hupen
@@ -5335,9 +5560,11 @@
 8079|Hyazinthe
 8080|Eingang
 8083|Blütenstaub
+8084|die Gruppe
 8089|Papierflieger
 8091|Dschungel
 8092|Gießkanne
+8093|das Dach
 8094|klettern
 8098|Mordwaffe
 8099|Mohn
@@ -5350,7 +5577,9 @@
 8113|Wachstum
 8114|Kapitalanleger
 8115|Orbit
+8117|achtziger
 8118|Christus
+8119|die Luft
 8121|Blumenkind
 8123|Drahtesel
 8124|räumen
@@ -5484,6 +5713,7 @@
 8333|hörbar
 8335|drastisch
 8336|entführen
+8337|der Onkel
 8339|Sonntagmorgen
 8340|Waterboarding
 8341|Nötigung
@@ -5505,6 +5735,7 @@
 8361|Druck
 8363|USA
 8365|schlaflos
+8366|die Bucht
 8367|Nahtod
 8368|Staatspolizei
 8369|Schlagstock
@@ -5525,6 +5756,9 @@
 8391|die Fliesenlegerin
 8392|Architekt
 8393|Handwerksmeister
+8394|die Urologie
+8395|die Kardiologie
+8397|die Strafe
 8398|Zivilrecht
 8399|Sprinter
 8400|Schneid
