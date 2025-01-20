@@ -71,7 +71,13 @@ def get_lemmatized_lyrics():
 
     df = pd.DataFrame(lyrics, columns=["author", "title", "text"])
     df["text"] = df["text"].map(
-        lambda x: "".join([y for y in x.replace("\n", " ") if y.isalpha() or y == " "])
+        lambda x: "".join(
+            [
+                y
+                for y in x.replace("\n", " ")
+                if y.isalpha() or y.isnumeric() or y in [" ", "-"]
+            ]
+        )
     )
 
     df["text"] = df["text"].map(
