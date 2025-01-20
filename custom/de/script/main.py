@@ -122,7 +122,10 @@ def get_word_lists():
         ~words_lemmas["lemma_r"].isna(), "lemma_r"
     ]
     words_lemmas.drop(columns=["author", "title", "lemma_r"], inplace=True)
-    words_lemmas = words_lemmas[~words_lemmas["lemma"].duplicated()].sort_index()
+    words_lemmas["lemma"] = words_lemmas["lemma"]
+    words_lemmas = words_lemmas[
+        ~words_lemmas["lemma"].map(mk_word, na_action="ignore").duplicated()
+    ].sort_index()
     words_lemmas.to_csv("data/lyrics-words-lemmas.csv", sep="|")
 
 
