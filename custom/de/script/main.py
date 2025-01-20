@@ -4,6 +4,7 @@ import os
 import re
 import pandas as pd
 from IPython.display import display
+import yaml
 
 os.chdir(f'{os.environ["ROOT_DIR"]}/custom/de')
 
@@ -57,15 +58,57 @@ lemmata = pd.read_csv("data/dwds_lemmata_2025-01-15.csv")
 
 # %%
 
+import spacy
 
-def get_word_list():
-    with open("data/lyrics.md", mode="r", encoding="UTF-8") as f:
-        lyrics_text = f.read()
+nlp = spacy.load("de_dep_news_trf")
 
-    lyrics_split = lyrics_text.split(" ")
-    lyrics = pd.DataFrame(lyrics_split, columns=["word"])
+# %%
 
-    display(lyrics)
+
+def get_lemmatized_lyrics():
+    with open("data/lyrics.yaml", mode="r", encoding="UTF-8") as f:
+        lyrics = yaml.safe_load(f)
+
+    df = pd.DataFrame(lyrics, columns=["author", "title", "text"])
+    df["text"] = df["text"].map(
+        lambda x: "".join([y for y in x.replace("\n", " ") if y.isalpha() or y == " "])
+    )
+
+    df["text"] = df["text"].map(
+        lambda x: ";".join([tok.lemma_ for tok in nlp(x) if tok.lemma_ != "--"])
+    )
+
+    df.to_csv("data/lyrics-lemmatized.csv", sep="|")
+
+
+get_lemmatized_lyrics()
+# %%
+
+
+def get_word_lists():
+    lyrics_lemmatized = pd.read_csv("data/lyrics-lemmatized.csv", sep="|", index_col=0)
+    lyrics_lemmatized["text"] = lyrics_lemmatized["text"].map(
+        lambda x: str(x).split(";")
+    )
+    lyrics_lemmatized = lyrics_lemmatized.explode("text")
+    lyrics_lemmatized = lyrics_lemmatized.rename(columns={"text": "word"})
+    lyrics_lemmatized = lyrics_lemmatized[~lyrics_lemmatized["word"].duplicated()]
+    lyrics_lemmatized = lyrics_lemmatized.reset_index(drop=True)
+
+    lyrics_lemmatized.to_csv("data/lyrics-words.csv")
+
+    is_lemma_cond = lyrics_lemmatized["word"].isin(lemmata["lemma"])
+    words_not_lemmas = lyrics_lemmatized[~is_lemma_cond]
+    words_lemmas = lyrics_lemmatized[is_lemma_cond]
+
+    words_not_lemmas["word"].to_csv("data/lyrics-words-not-lemmas.csv", sep="|")
+
+    words_lemmas = words_lemmas.rename(columns={"word": "lemma"})
+    words_lemmas["lemma"].to_csv("data/lyrics-words-lemmas.csv", sep="|")
+
+
+get_word_lists()
+
 
     # lyrics_list = "\n".join(lyrics_split)
 
