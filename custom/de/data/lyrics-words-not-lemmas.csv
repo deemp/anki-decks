@@ -24,7 +24,7 @@
 141|Wirf|werfen
 146|gehts|gehen
 150|warst|sein
-152|Johohoho|johohoho
+152|Johohoho|das Johohoho
 180|Der|der
 191|muss|müssen
 199|umschlung|umschlingen
@@ -38,12 +38,12 @@
 281|Fade|fad
 286|verlässen|verlassen
 290|Groß|groß
-294|letzer|letzter
+294|letzer|letzer
 296|Lauter|lauter
-297|Staubgeborene|die Staubgeborene
+297|Staubgeborene|der Staubgeborene
 306|Glieder|die Glieder
 310|sehn|sehen
-317|würd|würden
+317|würd|würde
 321|tiefstem|tief
 325|Frommer|fromm
 328|verfluch|verfluchen
@@ -72,16 +72,16 @@
 443|Baggypant|die Baggypant
 452|trägen|tragen
 454|Doppelripp|der Doppelripp
-455|Wolfgang|Wolfgang
-456|Joop|Joop
+455|Wolfgang|der Wolfgang
+456|Joop|der Joop
 458|Kleinstadtboy|der Kleinstadtboy
 466|dreh|drehen
 470|schwule|schwul
 472|Rocke|die Rocke
-476|Härteste|das Härteste
+476|Härteste|härteste
 477|issen|essen
-481|Udo|Udo
-482|Kier|Kier
+481|Udo|der Udo
+482|Kier|der Kier
 483|Rockerboss|der Rockerboss
 486|lässt|lassen
 494|weinsen|weinen
@@ -91,7 +91,7 @@
 508|Drück|drücken
 509|belogen|belügen
 512|Seeligkeit|die Seligkeit
-516|andr|andere
+516|andr|anderer
 519|gib|geben
 528|Exzessiv|exzessiv
 531|euphorie|die Euphorie
@@ -166,20 +166,20 @@
 827|Genug|genug
 831|brauchens|brauchen
 832|Gebt|geben
-839|Brüssel|Brüssel
-840|Paris|Paris
-846|Xavier|Xavier
+839|Brüssel|das Brüssel
+840|Paris|das Paris
+846|Xavier|der Xavier
 863|dampfend|dampfen
 865|unsr|unser
 892|Findest|finden
-896|Tansania|Tansania
+896|Tansania|das Tansania
 897|Münchner|der Münchner
 900|Schreibt|schreiben
-903|Viva|Viva
-904|Margherita|Margherita
-906|Calzone|Calzone
+903|Viva|die Viva
+904|Margherita|die Margherita
+906|Calzone|die Calzone
 908|Holzkohleofen|der Holzkohleofen
-910|Bulln|Bulln
+910|Bulln|der Bulln
 911|seIn|sein
 917|vergiss|vergessen
 921|fähren|die Fähre
@@ -187,9 +187,9 @@
 932|Neulich|neulich
 940|ist|sein
 943|nen|ein
-944|Fafafa|Fafafa
+944|Fafafa|das Fafafa
 945|Verpiss|verpissen
-946|Hey|Hey
+946|Hey|das Hey
 951|brauchst|brauchen
 960|Willst|wollen
 964|hör|hören
@@ -203,83 +203,83 @@
 983|kannst|können
 989|gestehn|gestehen
 994|Kannste|können
-996|Kaspermucke|Kaspermucke
+996|Kaspermucke|die Kaspermucke
 999|Kalte|kalt
 1003|Schlimmes|schlimm
 1004|geschehn|geschehen
 1006|Schattentanz|der Schattentanz
 1026|Sagen|sagen
 1027|tote|tot
-1028|Schlumpfhausen|Schlumpfhausen
-1030|lalalalalalallalalala|lalalalalalallalalala
-1032|Michi|Michi
+1028|Schlumpfhausen|das Schlumpfhausen
+1030|lalalalalalallalalala|das Lalalalala
+1032|Michi|der Michi
 1033|fick|ficken
-1034|Michael|Michael
+1034|Michael|der Michael
 1039|Lendenkropf|der Lendenkropf
-1041|Überland|überland
+1041|Überland|das Überland
 1047|soon|soon
 1050|gonna|gonna
-1051|Pounding|Pounding
+1051|Pounding|das Pounding
 1052|like|like
-1054|fourstroke|fourstroke
-1055|cycle|cycle
+1054|fourstroke|der Viertakt
+1055|cycle|der Zyklus
 1056|make|make
 1057|me|me
 1059|cry|cry
 1061|nothing|nothing
-1062|left|left
+1062|left|übrig
 1063|to|to
 1064|say|say
-1065|Banging|Banging
-1066|night|night
+1065|Banging|das Banging
+1066|night|die Nacht
 1067|long|long
 1068|stay|stay
-1071|Südafrika|Südafrika
+1071|Südafrika|das Südafrika
 1077|Kund|der Kunde
-1080|Fourstroke|Fourstroke
+1080|Fourstroke|der Viertakt
 1081|Cycle|Cycle
 1082|Nothing|Nothing
 1083|know|know
 1084|why|why
 1085|have|have
-1086|Its|Its
+1086|Its|es ist
 1087|my|my
-1088|body|body
-1089|veins|veins
-1090|are|are
+1088|body|der Körper
+1089|veins|die Venen
+1090|are|sind
 1091|bleeding|bleeding
-1093|The|The
-1094|blood|blood
+1093|The|der/die/das
+1094|blood|das Blut
 1096|from|from
-1097|Heart|Heart
-1098|Above|Above
+1097|Heart|das Herz
+1098|Above|oberhalb
 1099|Down|Down
-1101|part|part
+1101|part|der Teil
 1102|need|need
 1103|for|for
-1105|cells|cells
+1105|cells|die Zellen
 1106|inside|inside
 1107|running|running
-1108|tears|tears
-1109|gave|gave
+1108|tears|die Tränen
+1109|gave|gab
 1110|Away|Away
-1111|Doesnt|Doesnt
-1112|Matter|Matter
+1111|Doesnt|tut nicht
+1112|Matter|die Materie
 1113|Inside|Inside
-1114|Near|Near
-1115|Love|Love
+1114|Near|nahe
+1115|Love|die Liebe
 1121|einn|einn
 1124|sogenannter|sogenannt
-1126|Yo|Yo
+1126|Yo|–
 1132|Kollektivgedanke|der Kollektivgedanke
 1135|meister|der Meister
 1136|Rechten|der Rechte
-1140|Surprise|Surprise
+1140|Surprise|die Überraschung
 1143|wolln|wollen
 1146|marschier|marschieren
 1150|marschiern|marschieren
 1151|Glaub|glauben
-1152|Pflegenden|der Pflegende
+1152|Pflegenden|die Pflegenden
 1154|kritisiern|kritisieren
 1158|glaub|glauben
 1160|eur|euer
@@ -291,28 +291,28 @@
 1177|wärn|sein
 1199|Trän|Träne
 1201|Zieh|ziehen
-1205|Rolex|Rolex
+1205|Rolex|die Rolex
 1207|seh|sehen
 1209|kick|kicken
 1211|brauch|brauchen
 1212|Yeah|yeah
-1213|Soloausritt|Soloausritt
-1214|Poseroutfit|Poseroutfit
+1213|Soloausritt|der Soloausritt
+1214|Poseroutfit|das Poseroutfit
 1215|mach|machen
 1216|ichs|ich
 1221|Bräute|Braut
-1222|Poserauschnitt|Poserauschnitt
+1222|Poserauschnitt|der Poserausschnitt
 1224|genieß|genießen
 1227|is|sein
 1229|singn|singen
 1235|Mm|mm
 1244|laber|labern
-1247|Mojito|Mojito
-1254|Ooh|ooh
+1247|Mojito|der Mojito
+1254|Ooh|–
 1257|versteckn|verstecken
-1259|Klingelingeling|Klingelingeling
-1263|King|King
-1264|Tingalingaling|Tingalingaling
+1259|Klingelingeling|das Klingelingeling
+1263|King|der König
+1264|Tingalingaling|das Tingalingaling
 1266|pretty|pretty
 1270|bekämpf|bekämpfen
 1274|gewinn|gewinnen
@@ -331,62 +331,62 @@
 1298|burning|burning
 1299|hot|hot
 1300|Those|those
-1301|Boobs|boobs
+1301|Boobs|die Brüste
 1302|naughty|naughty
 1304|red|red
-1305|lips|lips
-1306|Juicy|juicy
-1307|God|god
-1308|middle|middle
+1305|lips|die Lippen
+1306|Juicy|saftig
+1307|God|der Gott
+1308|middle|die Mitte
 1309|of|of
 1310|your|your
-1311|web|web
+1311|web|das Netz
 1312|please|please
 1313|dont|don't
 1314|Stop|stop
-1316|brain|brain
-1317|turn|turn
+1316|brain|das Gehirn
+1317|turn|wenden
 1318|it|it
 1320|Dont|don't
 1321|feel|feel
 1323|More|more
-1324|champagne|champagne
+1324|champagne|der Champagner
 1325|our|our
-1326|game|game
+1326|game|das Spiel
 1327|insane|insane
 1328|but|but
-1329|its|it's
-1330|ahh|ahh
-1332|wanna|want to
-1333|ruin|ruin
-1334|life|life
+1329|its|es ist
+1330|ahh|–
+1332|wanna|möchte
+1333|ruin|ruinieren
+1334|life|das Leben
 1335|Say|say
 1336|what|what
 1337|You|you
 1338|tell|tell
-1339|wife|wife
+1339|wife|die Ehefrau
 1340|Please|please
-1342|Things|things
+1342|Things|die Dinge
 1343|getting|get
 1345|tight|tight
 1346|never|never
-1347|thought|thought
-1348|Youd|you'd
+1347|thought|gedacht
+1348|Youd|du würdest
 1349|set|set
 1350|up|up
-1351|wanted|wanted
-1352|delight|delight
+1351|wanted|gewollt
+1352|delight|die Freude
 1353|lets|let's
 1354|get|get
-1355|said|said
+1355|said|gesagt
 1356|right|right
 1357|Now|now
-1358|day|day
+1358|day|der Tag
 1359|and|and
-1360|Whos|who's
+1360|Whos|wer ist
 1361|save|save
-1362|this|this
-1363|fright|fright
+1362|this|dies
+1363|fright|die Angst
 1364|Zügen|Zug
 1365|Blutend|bluten
 1366|atmeen|atmen
@@ -398,21 +398,21 @@
 1381|Sei|sein
 1382|Nimm|nehmen
 1393|Weinen|weinen
-1401|Menschenfressermensche|Menschenfressermensch
-1405|Menschenfressermensch|Menschenfressermensch
-1407|Menschenfressermenschen|Menschenfressermenschen
+1401|Menschenfressermensche|der Menschenfressermensch
+1405|Menschenfressermensch|der Menschenfressermensch
+1407|Menschenfressermenschen|die Menschenfressermenschen
 1410|gesünd|gesund
 1415|Tut|tun
 1419|könnens|können
 1425|gibts|geben
-1438|Menschenfresserrente|Menschenfresserrente
+1438|Menschenfresserrente|die Menschenfresserrente
 1439|bringens|bringen
 1448|nehmn|nehmen
 1451|Einfach|einfach
 1454|keinn|kein
 1459|Zeil|Zeile
 1462|Seitеn|Seite
-1463|Dagegеnsein|dagegensein
+1463|Dagegеnsein|das Dagegensein
 1466|schreib|schreiben
 1473|Jemand|jemand
 1478|Fred|Fred
@@ -421,23 +421,23 @@
 1496|geh|gehen
 1497|deinn|dein
 1498|schaff|schaffen
-1504|Outro|Outro
+1504|Outro|das Outro
 1505|Flamm|Flamme
 1508|Guten|gut
-1514|Storyline|Storyline
+1514|Storyline|die Storyline
 1516|Sorry|sorry
-1521|Bongo|Bongo
+1521|Bongo|die Bongo
 1526|Brandеnburger|Brandenburger
 1529|dеnn|denn
 1533|Dread|Dread
 1534|selbstgemalt|selbstgemalt
-1536|Rothschild|Rothschild
+1536|Rothschild|der Rothschild
 1538|Zwinkert|zwinkern
 1549|gesoffen|saufen
-1550|Zweiter|zweiter
+1550|Zweiter|der Zweiter
 1560|Schreit|schreien
 1575|irgendeiner|irgendein
-1578|Homöopathin|Homöopathin
+1578|Homöopathin|die Homöopathin
 1579|Donald|Donald
 1580|Trump|Trump
 1586|versperrn|versperren
@@ -450,28 +450,28 @@
 1603|fänden|finden
 1604|Jürgen|Jürgen
 1605|Elsässer|Elsässer
-1607|zweiter|zweiter
-1608|erster|erster
+1607|zweiter|der Zweiter
+1608|erster|der Erster
 1609|Kubitschek|Kubitschek
 1618|Juristisch|juristisch
 1631|Behaupten|behaupten
 1632|Gauland|Gauland
-1635|eim|einem
+1635|eim|eim
 1638|reinzuprügeln|reinprügeln
 1639|nöcher|nöcher
 1642|Ken|Ken
 1643|Jebsen|Jebsen
 1653|Gerichtskoste|Gerichtskosten
-1659|Danger|danger
+1659|Danger|die Gefahr
 1667|schieß|schießen
-1668|Reptilienmensch|Reptilienmensch
-1676|NSU|NSU
+1668|Reptilienmensch|der Reptilienmensch
+1676|NSU|die NSU
 1680|Oury|Oury
 1681|Jalloh|Jalloh
 1687|machn|machen
 1692|hipp|hipp
-1700|grad|grad
-1701|Bewerbungsmail|Bewerbungsmail
+1700|grad|der Grad
+1701|Bewerbungsmail|die Bewerbungsmail
 1707|Lou|Lou
 1708|Reed|Reed
 1712|lauf|laufen
@@ -480,20 +480,20 @@
 1718|Wäre|sein
 1720|verlorn|verlieren
 1733|laufn|laufen
-1736|Place|Place
+1736|Place|der Ort
 1737|de|de
 1738|Quinconces|Quinconces
-1741|flics|flics
-1743|Pepperspray|Pepperspray
+1741|flics|die Polizisten
+1743|Pepperspray|das Pepperspray
 1747|Besoffener|besoffen
 1751|Kriegst|kriegen
 1755|weißt|wissen
 1756|wiedererkannen|wiedererkennen
-1761|obs|obs
+1761|obs|–
 1764|schlägen|schlagen
 1776|meinn|meinen
 1778|einr|einrichten
-1783|ers|ers
+1783|ers|–
 1787|Sade|Sade
 1793|geb|geben
 1796|Bekommen|bekommen
@@ -527,7 +527,7 @@
 1862|Verrate|verraten
 1863|Spürst|spüren
 1868|Tragen|tragen
-1870|ohoho|ohoho
+1870|ohoho|–
 1871|keiner|keiner
 1876|willst|wollen
 1893|hundertzwanzig|hundertzwanzig
@@ -537,10 +537,10 @@
 1903|Ständ|Ständer
 1905|Niemals|niemals
 1906|wordn|werden
-1910|Opel|Opel
-1912|Ford|Ford
-1914|Porsche|Porsche
-1915|Audi|Audi
+1910|Opel|der Opel
+1912|Ford|der Ford
+1914|Porsche|der Porsche
+1915|Audi|der Audi
 1923|habsn|haben
 1924|anstrichen|anstreichen
 1929|ner|ner
@@ -560,22 +560,22 @@
 1961|habs|haben
 1968|Lässt|lassen
 1974|Early|Early
-1975|Adopter|Adopter
+1975|Adopter|der Adopter
 1984|Ficken|ficken
 1985|wehret|wehren
 1990|basierend|basieren
 1992|hingerichtet|hinrichten
-2008|Luftbunker|Luftbunker
-2009|Future|Future
-2010|Luftschlösser|Luftschlösser
+2008|Luftbunker|der Luftbunker
+2009|Future|die Zukunft
+2010|Luftschlösser|die Luftschlösser
 2012|Dreißig|dreißig
-2017|Schokofrüchte|Schokofrüchte
+2017|Schokofrüchte|die Schokofrüchte
 2022|Nehm|nehmen
-2023|Meeresfrisch|Meeresfrisch
+2023|Meeresfrisch|meeresfrisch
 2026|Ess|essen
 2030|lösch|löschen
 2032|Welches|welches
-2038|Entscheidungsschwierigkeit|Entscheidungsschwierigkeit
+2038|Entscheidungsschwierigkeit|die Entscheidungsschwierigkeit
 2039|Hin|hin
 2040|Her|her
 2041|möchten|möchten
@@ -587,44 +587,44 @@
 2047|Gudrun|Gudrun
 2050|Spazieren|spazieren
 2051|Küss|küssen
-2053|uhh|uhh
+2053|uhh|–
 2059|Könnt|können
 2065|verlier|verlieren
 2072|solln|sollen
-2076|Steinzeithöhle|Steinzeithöhle
+2076|Steinzeithöhle|die Steinzeithöhle
 2093|Ha|Ha
-2099|Hähnchengrillstand|Hähnchengrillstand
-2108|Ey|Ey
+2099|Hähnchengrillstand|der Hähnchengrillstand
+2108|Ey|–
 2113|Frag|fragen
 2114|gröln|grölen
 2117|taumelnd|taumeln
-2122|Wiegenmelodie|Wiegenmelodie
+2122|Wiegenmelodie|die Wiegenmelodie
 2131|geselln|gesellen
-2136|Armen|Armen
+2136|Armen|die Armen
 2143|haubitzenvoll|haubitzenvoll
-2152|stepn|stepn
-2153|Mic|Mic
-2156|Parent|Parent
-2157|working|working
-2158|class|class
+2152|stepn|–
+2153|Mic|das Mikrofon
+2156|Parent|das Elternteil
+2157|working|arbeitend
+2158|class|die Klasse
 2162|pasen|passen
 2164|aussiehen|aussehen
-2166|Friend|Friend
+2166|Friend|der Freund
 2167|tuen|tun
-2172|Shampoos|Shampoos
-2173|Pilsator|Pilsator
-2176|Dreads|Dreads
+2172|Shampoos|die Shampoos
+2173|Pilsator|der Pilsator
+2176|Dreads|die Dreads
 2181|Links|links
 2182|linke|link
-2186|Kommentarfeed|Kommentarfeed
+2186|Kommentarfeed|der Kommentarfeed
 2189|Dicker|dick
-2192|Dulli|Dulli
-2195|battle|battle
+2192|Dulli|der Dulli
+2195|battle|der Kampf
 2202|nich|nich
 2203|boomeren|boomeren
 2210|acten|achten
-2211|Atzen|Atzen
-2212|fuck|fuck
+2211|Atzen|die Atzen
+2212|fuck|–
 2216|linker|link
 2217|weak|weak
 2218|Hängenblieben|hängenbleiben
@@ -633,95 +633,95 @@
 2224|toxic|toxic
 2225|macker|Macker
 2230|guck|gucken
-2234|dreads|dreads
-2235|Appropriat|Appropriat
-2236|Culture|Culture
-2250|Geburtstagstorte|Geburtstagstorte
+2234|dreads|die Dreads
+2235|Appropriat|angemessen
+2236|Culture|die Kultur
+2250|Geburtstagstorte|die Geburtstagstorte
 2251|lachend|lachen
 2252|kapier|kapieren
 2256|angenäht|annähen
-2259|allererster|allererster
-2265|ABC|ABC
-2268|Boxverein|Boxverein
-2271|Pickeln|Pickeln
-2272|übersaten|übersatten
+2259|allererster|der allererste
+2265|ABC|das ABC
+2268|Boxverein|der Boxverein
+2271|Pickeln|die Pickel
+2272|übersaten|übersaten
 2274|Nina|Nina
 2276|verheulen|verheulen
 2277|Kiffen|kiffen
 2279|partyschwul|partyschwul
 2292|Hartz|Hartz
-2304|Schneidezähne|Schneidezähne
+2304|Schneidezähne|die Schneidezähne
 2306|frier|frieren
 2310|Vollgetankt|volltanken
-2311|punk|punk
+2311|punk|der Punk
 2317|Sid|Sid
 2323|likeen|likeen
 2325|Haen|haben
 2330|Nennst|nennen
-2331|Gloriola|Gloriola
+2331|Gloriola|die Gloriola
 2336|Zappa|Zappa
 2337|Frank|Frank
 2343|Wölfi|Wölfi
 2344|TEC|TEC
-2345|Schokoladenpunk|Schokoladenpunk
+2345|Schokoladenpunk|der Schokoladenpunk
 2346|Trockener|trocken
-2347|Chardonnay|Chardonnay
+2347|Chardonnay|der Chardonnay
 2352|Geisteskrank|geisteskrank
 2356|Moves|Moves
 2357|Noch|noch
 2359|Steh|stehen
-2363|Spotify|Spotify
+2363|Spotify|das Spotify
 2366|push|pushen
 2367|Hört|hören
-2370|Germany|Germany
+2370|Germany|das Deutschland
 2380|Siegen|siegen
 2384|verweichlicht|verweichlichen
-2385|Befindlichkeitsscheiße|Befindlichkeitsscheiße
-2409|Wellblechzaun|Wellblechzaun
-2410|Aldi|Aldi
+2385|Befindlichkeitsscheiße|die Befindlichkeit
+2409|Wellblechzaun|der Wellblechzaun
+2410|Aldi|der Aldi
 2412|gehaun|hauen
-2413|Blum|Blum
+2413|Blum|der Blum
 2416|Sieht|sehen
-2420|Judith|Judith
-2421|Holoferne|Holoferne
+2420|Judith|die Judith
+2421|Holoferne|die Holoferne
 2425|schlechte|schlecht
 2427|engagiern|engagieren
 2428|sollnen|sollen
 2430|Parol|Parole
 2431|beschmiern|beschmieren
-2435|Holofernes|Holofernes
+2435|Holofernes|der Holofernes
 2439|ruhn|ruhen
 2446|Denk|denken
 2450|Fällt|fallen
 2452|schreisen|schreien
 2453|sitzn|sitzen
-2454|Starbucks|Starbucks
-2455|Phuket|Phuket
+2454|Starbucks|das Starbucks
+2455|Phuket|das Phuket
 2460|Bedient|bedienen
-2462|Mainz|Mainz
-2465|Ciao|Ciao
-2468|Google|Google
+2462|Mainz|das Mainz
+2465|Ciao|das Ciao
+2468|Google|das Google
 2471|Meinen|meinen
 2476|abgelichtet|ablichten
-2478|Fotohandy|Fotohandy
-2484|Ramschhändler|Ramschhändler
-2493|Trekkingzelt|Trekkingzelt
+2478|Fotohandy|das Fotohandy
+2484|Ramschhändler|der Ramschhändler
+2493|Trekkingzelt|das Trekkingzelt
 2495|naturbewusst|naturbewusst
-2496|Flugzeugschmutz|Flugzeugschmutz
-2499|Hektikmodus|Hektikmodus
-2503|Jetpilot|Jetpilot
-2504|Geldwechselstrom|Geldwechselstrom
-2505|Hotelrezeption|Hotelrezeption
+2496|Flugzeugschmutz|der Flugzeugschmutz
+2499|Hektikmodus|der Hektikmodus
+2503|Jetpilot|der Jetpilot
+2504|Geldwechselstrom|der Geldwechselstrom
+2505|Hotelrezeption|die Hotelrezeption
 2506|Runterkommen|runterkommen
-2509|Beck|Beck
+2509|Beck|der Beck
 2516|buch|buchen
 2521|Betrachten|betrachten
-2525|Pringles|Pringles
+2525|Pringles|die Pringles
 2532|Brüste|Brust
 2538|Fotografier|fotografieren
 2545|finstre|finster
-2546|Jobroutine|Jobroutine
-2550|Hola|Hola
+2546|Jobroutine|die Jobroutine
+2550|Hola|das Hola
 2551|amazing|amazing
 2554|wärens|wären
 2558|Fliegende|fliegend
@@ -730,36 +730,36 @@
 2567|ohh|ohh
 2569|siehts|sehen
 2573|Damn|Damn
-2574|change|change
+2574|change|die Veränderung
 2576|fresh|fresh
-2578|Catchphrase|Catchphrase
+2578|Catchphrase|die Schlagphrase
 2580|gefühlt|fühlen
 2582|ess|essen
-2583|Ferrari|Ferrari
+2583|Ferrari|der Ferrari
 2584|nächster|nächster
-2586|Alkoholkarriere|Alkoholkarriere
+2586|Alkoholkarriere|die Alkoholkarriere
 2591|durchlöcher|durchlöchern
-2592|Naturgötter|Naturgötter
-2594|Bungeespringer|Bungeespringer
-2603|Passport|Passport
+2592|Naturgötter|die Naturgötter
+2594|Bungeespringer|der Bungeespringer
+2603|Passport|der Pass
 2604|Erfinden|erfinden
 2611|äußerer|äußerer
 2614|Wechselbar|wechselbar
-2617|Gefangener|Gefangener
+2617|Gefangener|der Gefangene
 2623|hockn|hocken
-2626|Egoallergie|Egoallergie
-2634|Eo|Eo
-2635|eo|eo
-2637|Heeo|Heeo
+2626|Egoallergie|die Egoallergie
+2634|Eo|das Eo
+2635|eo|das eo
+2637|Heeo|das Heeo
 2640|Hoffentlich|hoffentlich
-2648|Benz|Benz
+2648|Benz|der Benz
 2651|gross|groß
 2656|verführn|verführen
 2657|spaziern|spazieren
 2661|falln|fallen
 2663|Garantiert|garantieren
-2666|Dieter|Dieter
-2668|Werner|Werner
+2666|Dieter|der Dieter
+2668|Werner|der Werner
 2671|bitteen|bitten
 2674|Musst|müssen
 2676|Nie|nie
@@ -768,93 +768,93 @@
 2691|lieg|liegen
 2695|Pickt|picken
 2700|entfernn|entfernen
-2703|Verkleidungskünstler|Verkleidungskünstler
-2704|Karnevalsnacht|Karnevalsnacht
-2710|Ähh|Ähh
-2713|hüa|hüa
-2721|daccord|daccord
+2703|Verkleidungskünstler|der Verkleidungskünstler
+2704|Karnevalsnacht|die Karnevalsnacht
+2710|Ähh|das Ähh
+2713|hüa|das Hüa
+2721|daccord|das Daccord
 2723|Vögeln|vögeln
 2734|Zauberhafter|zauberhaft
-2735|Tausendsasser|Tausendsasser
-2737|Frauenbetaster|Frauenbetaster
+2735|Tausendsasser|der Tausendsassa
+2737|Frauenbetaster|der Frauenbetaster
 2738|vergess|vergessen
 2739|ausdacht|ausdenken
-2740|Lagosch|Lagosch
+2740|Lagosch|das Lagosch
 2741|terroretisch|terroretisch
-2742|rumkaspern|rumkaspern
+2742|rumkaspern|herumkaspern
 2743|Lasse|lassen
-2748|Boys|Boys
-2753|Weltwackelbild|Weltwackelbild
-2761|Tja|Tja
+2748|Boys|die Jungen
+2753|Weltwackelbild|das Weltwackelbild
+2761|Tja|das Tja
 2770|Freust|freuen
-2772|days|days
-2773|Strw|Strw
-2777|Spe|Spe
-2787|Schmuckladen|Schmuckladen
-2790|Cuxhaven|Cuxhaven
-2792|Puffdame|Puffdame
+2772|days|die Tage
+2773|Strw|das Strw
+2777|Spe|das Spe
+2787|Schmuckladen|der Schmuckladen
+2790|Cuxhaven|das Cuxhaven
+2792|Puffdame|die Puffdame
 2797|rimmen|rimmen
 2798|go|go
-2799|Alligatoah|Alligatoah
-2801|Whoo|Whoo
-2811|Cro|Cro
+2799|Alligatoah|der Alligatoah
+2801|Whoo|das Whoo
+2811|Cro|der Cro
 2813|ermittln|ermitteln
-2815|Stichprobentest|Stichprobentest
+2815|Stichprobentest|der Stichprobentest
 2816|findens|finden
 2819|ruf|rufen
-2820|Äh|Äh
+2820|Äh|das Äh
 2822|Deinen|dein
 2824|bring|bringen
 2827|Kombinier|kombinieren
-2833|Iggy|Iggy
+2833|Iggy|der Iggy
 2835|zeugenlos|zeugenlos
-2837|Gassi|Gassi
+2837|Gassi|das Gassi
 2839|euphorieberaubt|euphorieberaubt
 2842|tippitop|tippitop
 2848|solltest|sollen
-2855|Luftschlössern|Luftschlösser
+2855|Luftschlössern|die Luftschlösser
 2861|deim|dein
 2864|Überwach|überwachen
-2871|Giftschlangengrube|Giftschlangengrube
+2871|Giftschlangengrube|die Giftschlangengrube
 2883|legn|legen
 2894|Sandstaub|der Sandstaub
 2903|holn|holen
 2912|Sagt|sagen
 2927|yes|yes
 2928|no|no
-2931|Kiss|kiss
-2932|rausgehören|rausgehören
-2935|öh|öh
-2938|Leonardo|Leonardo
-2939|Da|Da
-2940|Vinci|Vinci
+2931|Kiss|der Kuss
+2932|rausgehören|herausgehören
+2935|öh|das Öh
+2938|Leonardo|der Leonardo
+2939|Da|das Da
+2940|Vinci|der Vinci
 2941|viertbester|viertbester
 2942|Kirschkernweitspucker|der Kirschkernweitspucker
-2943|Köpenick|Köpenick
-2945|Trek|Trek
+2943|Köpenick|das Köpenick
+2945|Trek|der Trek
 2947|Regiekommentar|der Regiekommentar
-2948|Napoleon|Napoleon
-2963|bunen|bunen
-2964|win|win
+2948|Napoleon|der Napoleon
+2963|bunen|die Bunen
+2964|win|der Gewinn
 2968|wrong|wrong
-2969|Kong|Kong
+2969|Kong|der Kong
 2974|humpelsn|humpeln
 2978|Simple|simple
-2979|Polizeibeamter|der Polizeibeamter
-2983|ACAB|ACAB
-2985|Playsi|Playsi
+2979|Polizeibeamter|der Polizeibeamte
+2983|ACAB|das ACAB
+2985|Playsi|die Playsi
 2989|Achso|achso
 2991|simple|simple
 2994|Easy|easy
 2995|Gewinnt|gewinnen
 2997|Dümmste|dumm
-2998|Amazon|Amazon
-3000|Jeff|Jeff
-3001|Bezos|Bezos
+2998|Amazon|das Amazon
+3000|Jeff|der Jeff
+3001|Bezos|der Bezos
 3002|Scheißjob|der Scheißjob
 3005|Kapitalistisch|kapitalistisch
-3011|en|en
-3012|allemand|allemand
+3011|en|das Wort
+3012|allemand|das Deutsch
 3013|Orelsan|Orelsan
 3015|Triffst|treffen
 3020|Gleichgesinnten|gleichgesinnt
@@ -869,8 +869,8 @@
 3046|Risikoanlage|die Risikoanlage
 3047|draufzugehen|draufgehen
 3058|Plastikbong|die Plastikbong
-3065|Quarterlife|Quarterlife
-3066|Crisis|Crisis
+3065|Quarterlife|das Viertelleben
+3066|Crisis|die Krise
 3071|Irgendwo|irgendwo
 3072|Gibts|geben
 3079|Wär|wäre
@@ -883,7 +883,7 @@
 3096|Teilnehmerurkunde|die Teilnehmerurkunde
 3099|Kriegt|kriegen
 3101|Gib|geben
-3105|Deagle|die Deagle
+3105|Deagle|die Desert Eagle
 3107|Gatoah|Gatoah
 3109|Geometrisch|geometrisch
 3113|fress|fressen
@@ -916,13 +916,13 @@
 3202|Psychopathe|Psychopath
 3203|Eure|euer
 3211|werdet|werden
-3213|wärs|wäre
+3213|wärs|wäre es
 3215|Stellen|stellen
 3223|Dinger|das Ding
 3224|Umgeben|umgeben
 3232|Bikinioberteil|das Bikinioberteil
 3245|High|high
-3246|Society|society
+3246|Society|die Gesellschaft
 3248|Stattdessen|stattdessen
 3250|Proletenpack|das Proletenpack
 3251|zugegeben|zugeben
@@ -951,7 +951,7 @@
 3328|hättest|haben
 3330|verkackt|verkacken
 3332|Deichmann|Deichmann
-3333|Victory|victory
+3333|Victory|der Sieg
 3334|Thrasher|Thrasher
 3336|Fendi|Fendi
 3337|Fila|Fila
@@ -965,8 +965,8 @@
 3360|neunhundert|neunhundert
 3361|Ähm|ähm
 3362|Vuitton|Vuitton
-3363|Ankle|ankle
-3367|Bro|bro
+3363|Ankle|das Gelenk
+3367|Bro|der Bruder
 3369|Nike|Nike
 3370|Dior|Dior
 3371|Gosha|Gosha
@@ -975,8 +975,8 @@
 3376|kommn|kommen
 3377|Falscher|falsch
 3380|angesehn|ansehen
-3382|resellen|resellen
-3385|Vetement|Vetement
+3382|resellen|weiterverkaufen
+3385|Vetement|das Kleidungsstück
 3390|Worttransport|der Worttransport
 3395|sagn|sagen
 3403|viele|viel
@@ -987,9 +987,9 @@
 3421|Penélope|Penélope
 3422|Cruz|Cruz
 3423|Moralisch|moralisch
-3433|Visa|Visa
-3436|Nächster|nächster
-3437|wars|war
+3433|Visa|das Visum
+3436|Nächster|der Nächste
+3437|wars|war es
 3442|Irgendwas|irgendwas
 3445|Schienbeintritt|der Schienbeintritt
 3446|dritter|dritter
@@ -999,7 +999,7 @@
 4024|Heut|heute
 4358|hab|haben
 5023|mussn|müssen
-5626|the|the
+5626|the|der/die/das
 7429|bestell|bestellen
 215|-|-
 418|6|sechs
@@ -1010,16 +1010,16 @@
 769|Pre-Chorus|der Pre-Chorus
 787|2|zwei
 991|Rap-Wichser|der Rap-Wichser
-1046|G-spot|der G-spot
+1046|G-spot|der G-Punkt
 1060|G-point|der G-point
 1100|near|-
 1141|Pegida-Methodik|die Pegida-Methodik
 1168|Volk-Geschrei|das Volk-Geschrei
 1178|übelst|übelst
-1218|brett-fett|-
+1218|brett-fett|brett-fett
 1260|könntens|können
 1265|you|-
-1322|Shame|die Shame
+1322|Shame|die Schande
 1427|33|dreiunddreißig
 1447|1|eins
 1460|Handelen|handeln
@@ -1027,34 +1027,34 @@
 1489|Holt|holen
 1522|schwarze-weiß-rot|schwarz-weiß-rot
 1525|Holocaust-Mahnmal|das Holocaust-Mahnmal
-1532|Henna-rot|henna-rot
+1532|Henna-rot|Henna-rot
 1555|18|achtzehn
 1592|Roman-Ressort|das Roman-Ressort
-1696|Work-Party|die Work-Party
+1696|Work-Party|die Arbeitsfeier
 1698|Start-Up-Unternehmer|der Start-Up-Unternehmer
 1699|Ramones-Shirt|das Ramones-Shirt
 1735|Reed-Konzert|das Reed-Konzert
 1745|brannen|brennen
 1963|So-zial|sozial
 1965|So-lidarisch|solidarisch
-1982|Die-Welt-Ficken|die Die-Welt-Ficken
+1982|Die-Welt-Ficken|Die-Welt-Ficken
 1983|Bleiben|bleiben
-2016|ah-ah|-
-2049|Ah-ah|-
+2016|ah-ah|ah-ah
+2049|Ah-ah|Ah-ah
 2054|Netflix-Serie|die Netflix-Serie
-2079|De-de-de-de-de|-
-2080|de-de-de-de|-
+2079|De-de-de-de-de|De-de-de-de-de
+2080|de-de-de-de|de-de-de-de
 2107|Schreie|die Schreie
 2159|Ticke|ticken
-2174|Straight-Edge|das Straight-Edge
+2174|Straight-Edge|Straight-Edge
 2184|Unsere|unsere
 2204|60|sechzig
 2205|20|zwanzig
 2214|bist|sein
-2238|Anna-Lena|die Anna-Lena
-2239|Baader-Meinhof|die Baader-Meinhof
+2238|Anna-Lena|Anna-Lena
+2239|Baader-Meinhof|Baader-Meinhof
 2240|10|zehn
-2333|Deutschland-D|das Deutschland-D
+2333|Deutschland-D|Deutschland-D
 2339|Punk-Boulevard|der Punk-Boulevard
 2348|Fünf-Gänge-Punk|der Fünf-Gänge-Punk
 2349|Punk-Gourmet|der Punk-Gourmet
@@ -1062,44 +1062,44 @@
 2364|Workout-Playlist|die Workout-Playlist
 2368|Welthass-Selbsthass-Mix|der Welthass-Selbsthass-Mix
 2374|Boss-Transformation|die Boss-Transformation
-2378|Modus-Mio-isiert|modus-mio-isiert
+2378|Modus-Mio-isiert|Modus-Mio-isiert
 2393|SMS-Kurznachricht|die SMS-Kurznachricht
 2403||-
 2469|Touri-Gesindel|das Touri-Gesindel
 2473|andern|ändern
-2475|Profi-Cam|die Profi-Cam
+2475|Profi-Cam|die Profi-Kamera
 2508|bestelln|bestellen
-2544|E-E-Erinnerung|die E-E-Erinnerung
-2555|Tro-|-
-2557|-phäen|-
-2561|Rhythme|der Rhythme
-2572|Break-up-Frisur|die Break-up-Frisur
-2579|Fast-Food-Narr|der Fast-Food-Narr
+2544|E-E-Erinnerung|die Erinnerung
+2555|Tro-|der Trost
+2557|-phäen|die Trophäe
+2561|Rhythme|der Rhythmus
+2572|Break-up-Frisur|die Frisur
+2579|Fast-Food-Narr|der Narr
 2608|360|dreihundertsechzig
 2610|-60|minus sechzig
 2620|Begebe|begeben
-2702|Märchen-Erzähler|der Märchen-Erzähler
-2712|Diss-Angriff|der Diss-Angriff
-2714|Alli-alligatoah|der Alli-alligatoah
+2702|Märchen-Erzähler|der Erzähler
+2712|Diss-Angriff|der Angriff
+2714|Alli-alligatoah|das Wortspiel
 2718|Alli-Alligatoah|der Alli-Alligatoah
 2727|sprechn|sprechen
-2736|Kauz-Charakter|der Kauz-Charakter
-2763|Kommerz-faschist|der Kommerz-Faschist
-2765|Zwerg-Kanickel|das Zwerg-Kaninchen
-2778|Sturmmasken-Bildner|der Sturmmasken-Bildner
-2826|Gilette-Wachs|das Gilette-Wachs
+2736|Kauz-Charakter|der Charakter
+2763|Kommerz-faschist|der Faschist
+2765|Zwerg-Kanickel|das Zwergkaninchen
+2778|Sturmmasken-Bildner|der Bildner
+2826|Gilette-Wachs|das Wachs
 2828|kombinier|kombinieren
-2830|Jalousie-bedeckter|jalousie-bedeckt
+2830|Jalousie-bedeckter|der Bedeckte
 2844|Groß-vater|der Großvater
-2857|Gucklöchern|die Gucklöcher
-2859|KO-Tropfen|die KO-Tropfen
+2857|Gucklöchern|das Guckloch
+2859|KO-Tropfen|die Tropfen
 2869|gehst|gehen
 2876|aktiviern|aktivieren
 2898|entlässt|entlassen
 2901|frequentiersn|frequentieren
 2907|300|dreihundert
-2918|Rolls-Royce-Kühlerfigur|die Rolls-Royce-Kühlerfigur
-2930|Harmonia|die Harmonia
+2918|Rolls-Royce-Kühlerfigur|die Kühlerfigur
+2930|Harmonia|die Harmonie
 2933|44|vierundvierzig
 2946|7|sieben
 2992|3|drei
@@ -1107,34 +1107,34 @@
 3010|Peut-être|-
 3014|Gewinnen|gewinnen
 3018|125|einhundertfünfundzwanzig
-3110|LEGO-Face|das LEGO-Face
-3111|YouTuber-Look|der YouTuber-Look
+3110|LEGO-Face|das Gesicht
+3111|YouTuber-Look|der Look
 3120|trag|tragen
-3135|Luxus-Modemesse|die Luxus-Modemesse
+3135|Luxus-Modemesse|die Modemesse
 3141|99|neunundneunzig
-3158|Designerjacken|die Designerjacken
-3206|co-abhängig|co-abhängig
+3158|Designerjacken|die Designerjacke
+3206|co-abhängig|abhängig
 3249|Erbärmliches|erbärmlich
-3289|Bienen-Metapher|die Bienen-Metapher
-3304|Krav-Maga-Handkante|die Krav-Maga-Handkante
+3289|Bienen-Metapher|die Metapher
+3304|Krav-Maga-Handkante|die Handkante
 3324|550|fünfhundertfünfzig
 3358|3700|dreitausendsiebenhundert
-3359|Gucci-Hemd|das Gucci-Hemd
-3364|Boots|die Boots
+3359|Gucci-Hemd|das Hemd
+3364|Boots|die Stiefel
 3365|1500|eintausendfünfhundert
 3366|sehtn|sehen
-3378|Jean|der Jean
+3378|Jean|die Jeans
 3381|3k-Lederjacke|die 3k-Lederjacke
 3387|feier|feiern
 3388|todes|tödlich
 3450|Tuk-Tuk|das Tuk-Tuk
-3460|Wii|die Wii
+3460|Wii|die Konsole
 3467|5|fünf
 3469|Sisyphos|der Sisyphos
-3471|Mittelklasse-Wagen|der Mittelklasse-Wagen
+3471|Mittelklasse-Wagen|der Wagen
 3474|Hermes|der Hermes
 3477|brauchn|brauchen
-3484|Sisypho|der Sisypho
+3484|Sisypho|der Sisyphos
 3486|zerfalln|zerfallen
 3494|klarzukommn|klarkommen
 3497|Schläfst|schlafen
@@ -1143,64 +1143,64 @@
 3505|mussten|müssen
 3506|explodiern|explodieren
 3509|Eintausend|eintausend
-3513|Teufelskreisverkehr|der Teufelskreisverkehr
+3513|Teufelskreisverkehr|der Kreisverkehr
 3515|Glücklich|glücklich
-3519|Plattenvertrag|der Plattenvertrag
+3519|Plattenvertrag|der Vertrag
 3521|zoomn|zoomen
 3522|Laufe|laufen
-3526|glück-|glück-
+3526|glück-|das Glück
 3530|zusammengepfercht|zusammenpferchen
 3533|Atme|atmen
-3535|Dieselaggregat|das Dieselaggregat
-3542|Crystal|das Crystal
-3543|Meth|das Meth
+3535|Dieselaggregat|das Aggregat
+3542|Crystal|das Kristall
+3543|Meth|das Methamphetamin
 3544|Schwingend|schwingen
-3546|Schiffsturbine|die Schiffsturbine
-3547|Gestopfte|gestopft
-3553|Gästelistenplatz|der Gästelistenplatz
+3546|Schiffsturbine|die Turbine
+3547|Gestopfte|der Gestopfte
+3553|Gästelistenplatz|der Platz
 3560|Nirgendwo|nirgendwo
 3563|riechn|riechen
 3564|Rostbraune|rostbraun
 3566|Jahrzehntelang|jahrzehntelang
 3569|unterer|unter
-3573|Notsignalrakete|die Notsignalrakete
-3583|Talkshowgast|der Talkshowgast
+3573|Notsignalrakete|die Rakete
+3583|Talkshowgast|der Gast
 3584|Nächstes|nächst
 3588|sagteen|sagen
 3590|when|-
-3592|ends|-
-3593|verschlieren|verschlieren
+3592|ends|Enden
+3593|verschlieren|verschleiern
 3594|Müde|müde
 3595|lächelnd|lächeln
 3596|2020|zweitausendzwanzig
 3597|Setz|setzen
-3598|Billie|der Billie
+3598|Billie|der Vorname
 3601|brannten|brennen
-3604|Irankrieg|der Irankrieg
+3604|Irankrieg|der Krieg
 3605|anfing|anfangen
-3606|Sidney|die Sidney
-3609|Dschungelcamp|das Dschungelcamp
+3606|Sidney|die Stadt
+3609|Dschungelcamp|das Camp
 3613|Erfurt|das Erfurt
 3614|Hanau|das Hanau
 3621|deutsche|deutsch
-3622|Lieblings-Virologe|der Lieblings-Virologe
-3624|Lufthansa|die Lufthansa
+3622|Lieblings-Virologe|der Virologe
+3624|Lufthansa|die Fluggesellschaft
 3627|hol|holen
 3628|dachteen|denken
 3630|Kobe|der Kobe
 3632|magen|der Magen
-3633|Fuck|das Fuck
+3633|Fuck|das Fluchen
 3637|dachten|denken
-3639|TAZ|die TAZ
+3639|TAZ|die Zeitung
 3642|hättet|haben
-3643|Ends|-
+3643|Ends|die Enden
 3644|When|-
 3645|schaun|schauen
 3646|freun|freuen
 3648|lächlen|lächeln
 3651|Zenith|der Zenith
 3653|enfalten|entfalten
-3659|Einem|einer
+3659|Einem|der Einzige
 3664|zweifel|der Zweifel
 3665|Sebastian|Sebastian
 3666|14|vierzehn
@@ -1211,25 +1211,25 @@
 3692|Geht|gehen
 3695|gehackt|hacken
 3701|Besseres|besser
-3703|Bohlen|Bohlen
+3703|Bohlen|der Nachname
 3706|Nackte|nackt
-3708|Helicobacter|der Helicobacter
-3709|ad|ad
-3710|acta|die Acta
-3719|Tesa|das Tesa
+3708|Helicobacter|der Bakterium
+3709|ad|die Werbung
+3710|acta|die Akten
+3719|Tesa|das Klebeband
 3723|Glaubst|glauben
 3730|kehr|kehren
 3733|schuldest|schulden
 3734|unsern|unser
-3735|mmh|mmh
+3735|mmh|das Geräusch
 3739|Schwörn|schwören
 3741|schuldeen|schulden
-3742|Koljah|Koljah
+3742|Koljah|der Künstlername
 3743|geilste|geil
-3744|Kindheitsidole|die Kindheitsidole
+3744|Kindheitsidole|das Idol
 3747|Deep|deep
-3749|Realtalk|der Realtalk
-3750|survival|das Survival
+3749|Realtalk|die Ehrlichkeit
+3750|survival|das Überleben
 3751|fittest|fit
 3753|les|lesen
 3755|Rühmann|Rühmann
@@ -1239,7 +1239,7 @@
 3759|Antilop|die Antilope
 3762|Fler|Fler
 3765|euern|euer
-3771|Freshness|die Freshness
+3771|Freshness|die Frische
 3774|Dörte|Dörte
 3778|ausfeiln|ausfeilen
 3779|aufnehm|aufnehmen
@@ -1248,62 +1248,62 @@
 3789|aufrege|aufregen
 3790|broke|broke
 3792|wohnn|wohnen
-3793|Car2Go|Car2Go
-3796|Bahnhofsklo|das Bahnhofsklo
+3793|Car2Go|das Mietauto
+3796|Bahnhofsklo|das Klo
 3797|würg|würgen
-3799|Iminari|Iminari
+3799|Iminari|das Konzept
 3800|Roll|die Rolle
-3803|Dodge-Van|der Dodge-Van
-3804|Rallye-Sitz|der Rallye-Sitz
-3806|Pretzelstick|der Pretzelstick
+3803|Dodge-Van|der Van
+3804|Rallye-Sitz|der Sitz
+3806|Pretzelstick|der Stift
 3808|Patti|Patti
 3809|Smith|Smith
-3810|Fashion-Tipp|der Fashion-Tipp
-3812|Hartz-Vier-Support|der Hartz-Vier-Support
-3813|Florida-Rolf|Florida-Rolf
-3814|Beach-Resort|das Beach-Resort
-3815|Tourbus|der Tourbus
+3810|Fashion-Tipp|der Tipp
+3812|Hartz-Vier-Support|der Support
+3813|Florida-Rolf|der Spitzname
+3814|Beach-Resort|das Resort
+3815|Tourbus|der Bus
 3817|signiern|signieren
-3819|Ouija-Board|das Ouija-Board
+3819|Ouija-Board|das Brett
 3821|unterschreibn|unterschreiben
-3827|nahkommen|nahkommen
+3827|nahkommen|nah kommen
 3828|Aufschreiben|aufschreiben
-3829|Signing|das Signing
-3832|Cardio-Training|das Cardio-Training
+3829|Signing|die Unterschrift
+3832|Cardio-Training|das Training
 3833|Farid|Farid
-3834|Hobby-Rapper|der Hobby-Rapper
-3835|Insolvenzverschlepper|der Insolvenzverschlepper
+3834|Hobby-Rapper|der Rapper
+3835|Insolvenzverschlepper|der Verschlepper
 3836|ala|ala
 3837|Boris|Boris
 3838|Becker|Becker
 3839|warn|warnen
 3840|Hoffnungträger|der Hoffnungsträger
 3841|fahr|fahren
-3842|Splash|der Splash
+3842|Splash|der Sprung
 3845|Düsseldorf|Düsseldorf
 3846|finest|fein
-3850|NRW-Verbot|das NRW-Verbot
+3850|NRW-Verbot|das Verbot
 3854|ausgespült|ausspülen
-3855|Senfglas|das Senfglas
+3855|Senfglas|das Glas
 3856|Rumstehen|rumstehen
 3865|Pana|Pana
 3866|Cotta|Cotta
-3867|Tomate-Mozzarella|die Tomate-Mozzarella
-3870|Designermöbel|das Designermöbel
+3867|Tomate-Mozzarella|der Salat
+3870|Designermöbel|die Möbel
 3872|bestrichen|bestreichen
 3880|Mh|mh
 3884|Verdammn|verdammen
 3885|Puh|puh
 3886|haus|das Haus
-3887|Rotweinschorle|die Rotweinschorle
+3887|Rotweinschorle|die Schorle
 3888|tupperen|tuppern
 3889|Mitnehmen|mitnehmen
 3894|Findet|finden
-3896|Buffet-et-et-et|das Buffet-et-et-et
+3896|Buffet-et-et-et|das Buffet
 3900|Sach|die Sache
 3901|Beate|Beate
 3902|hast|haben
-3903|isn|ist
+3903|isn|ist nicht
 3906|Daniela|Daniela
 3907|Jonas|Jonas
 3908|Vanessa|Vanessa
@@ -1328,27 +1328,27 @@
 3944|killn|killen
 3947|Schlagen|schlagen
 3950|Entschuldigen|entschuldigen
-3954|Bifi|die Bifi
+3954|Bifi|die Wurst
 3957|teur|teuer
-3958|Koberind|das Koberind
+3958|Koberind|das Rind
 3964|aufgeweicht|aufweichen
-3965|Kippenstummel|der Kippenstummel
+3965|Kippenstummel|der Stummel
 3966|Hörst|hören
-3971|Ölfabrik|die Ölfabrik
+3971|Ölfabrik|die Fabrik
 3972|töte|töten
 3975|geröstet|rösten
 3977|nem|einem
 3978|Drunter|darunter
-3986|Plastikhülle|die Plastikhülle
-3988|Mediamarkt|der Mediamarkt
-3990|Beachhotel|das Beachhotel
+3986|Plastikhülle|die Hülle
+3988|Mediamarkt|der Markt
+3990|Beachhotel|das Hotel
 3991|Jutta|Jutta
 3996|Einheimischen|der Einheimische
 4002|Langsam|langsam
 4004|Dringend|dringend
 4007|La-lass|lassen
 4008|Boom-|der Boom
-4009|Boomerang|der Boomerang
+4009|Boomerang|der Bumerang
 4011|Ständig|ständig
 4016|Bleibst|bleiben
 4017|Kriechen|kriechen
@@ -1357,7 +1357,7 @@
 4020|kommts|kommen
 4021|wien|wie
 4028|12|zwölf
-4029|biertrinkend|biertrinken
+4029|biertrinkend|trinkend
 4032|Fres|fressen
 4033|kriegsen|kriegen
 4034|hasen|hassen
@@ -1368,11 +1368,11 @@
 4055|Pegida|Pegida
 4056|IB|IB
 4060|glühn|glühen
-4061|Detailverliebter|der Detailverliebte
-4062|Cyber-Geek|der Cyber-Geek
-4064|bye-bye|bye-bye
+4061|Detailverliebter|der Liebhaber
+4062|Cyber-Geek|der Geek
+4064|bye-bye|das Lebewohl
 4065|Habeda-habeda-habeda-habeda|Habeda-habeda-habeda-habeda
-4066|Smalltalk-Thema|das Smalltalk-Thema
+4066|Smalltalk-Thema|das Thema
 4068|Finden|finden
 4070|diversеr|divers
 4072|yеah|yeah
@@ -1381,7 +1381,7 @@
 4075|Riesenkatalog|der Riesenkatalog
 4076|Brr|brr
 4078|Lieblingspharao|der Lieblingspharao
-4079|Doh|doh
+4079|Doh|Doh
 4080|Komplimentespeicher|der Komplimentespeicher
 4083|Albe|die Albe
 4084|Amon|Amon
@@ -1390,7 +1390,7 @@
 4091|Soos|Soos
 4092|Tanzbewegung|die Tanzbewegung
 4093|Gedächtniskonto|das Gedächtniskonto
-4095|Hüah|hüah
+4095|Hüah|Hüah
 4096|Tekken-Combo|die Tekken-Combo
 4097|Beweg|die Bewegung
 4098|Steve-Urkel-artig|Steve-Urkel-artig
@@ -1405,7 +1405,7 @@
 4118|Würd|die Würde
 4121|Tauschen|tauschen
 4122|Sergio-Leone-Film|der Sergio-Leone-Film
-4123|Social|social
+4123|Social|Social
 4124|Skills|die Skills
 4125|krasse|krass
 4127|VICE-Artikel|der VICE-Artikel
@@ -1417,7 +1417,7 @@
 4146|Lagerhall|die Lagerhalle
 4148|Nachdenkfalte|die Nachdenkfalte
 4150|Haarespalte|die Haarespalte
-4152|bye|bye
+4152|bye|Tschüss
 4157|angeguckt|angucken
 4159|fleuchts|flüchten
 4161|Wollte|wollen
@@ -1449,7 +1449,7 @@
 4249|Victoria-Gymnasium|das Victoria-Gymnasium
 4250|Aachen|Aachen
 4251|Schmücken|schmücken
-4252|Wikipedia|die Wikipedia
+4252|Wikipedia|Wikipedia
 4253|Bekannter|der Bekannte
 4256|übertrieben|übertreiben
 4257|Geschädigten|die Geschädigten
@@ -1465,10 +1465,10 @@
 4296|Besprechen|besprechen
 4297|eurer|euer
 4301|Bedürnis|das Bedürfnis
-4304|andrer|anderer
+4304|andrer|andrer
 4305|fauche|fauchen
 4306|gehörtest|gehören
-4307|Schlaue|der Schlaue
+4307|Schlaue|die Schlaue
 4309|fingst|fangen
 4310|wurdest|werden
 4312|begannst|beginnen
@@ -1483,8 +1483,8 @@
 4334|triffen|treffen
 4336|Heidi|Heidi
 4337|Klum|Klum
-4339|wiren|wären
-4343|Sowas|so etwas
+4339|wiren|wiren
+4343|Sowas|Sowas
 4344|fliehn|fliehen
 4346|hälten|halten
 4348|Selber|selber
@@ -1494,9 +1494,9 @@
 4368|Madelaine|Madelaine
 4369|Saint-Denis|Saint-Denis
 4382|zahln|zahlen
-4394|zuhaus|zu Hause
-4396|Letztes|letzter
-4397|irgendner|irgendeiner
+4394|zuhaus|zuhaus
+4396|Letztes|das Letztes
+4397|irgendner|irgendner
 4399|dat|das
 4403|ch|ch
 4406|suchsen|suchen
@@ -1509,11 +1509,11 @@
 4419|Ohrenrauschen|das Ohrenrauschen
 4421|Erhythrozyt|der Erythrozyt
 4424|Kotze-Tüte|die Kotze-Tüte
-4425|Eins-Komma-Neun-Tausend|eins Komma neuntausend
+4425|Eins-Komma-Neun-Tausend|eintausendneunhundert
 4426|Neutrophil|das Neutrophil
 4428|bitch|bitch
 4429|stelln|stellen
-4432|sinds|sind
+4432|sinds|sinds
 4441|Jobauswahl|die Jobauswahl
 4442|Malochen|malochen
 4446|Antifa-Tarifvertrag|der Antifa-Tarifvertrag
@@ -1532,8 +1532,8 @@
 4484|blinzelnd|blinzeln
 4492|langweile|langweilen
 4498|innere|inner
-4500|dream|dream
-4501|longwhile|longwhile
+4500|dream|der Traum
+4501|longwhile|lange Weile
 4505|erzähl|erzählen
 4507|langweiln|langweilen
 4511|Aleppo|Aleppo
@@ -1542,7 +1542,7 @@
 4518|Moin|Moin
 4522|Schalt|schalten
 4527|allerbester|allerbester
-4543|Absolute|die Absolute
+4543|Absolute|das Absolute
 4544|Wahnsinnsshow|die Wahnsinnsshow
 4546|Niemand|niemand
 4551|UNICEF|UNICEF
@@ -1560,7 +1560,7 @@
 4586|hörn|hören
 4598|Ausländerschwein|das Ausländerschwein
 4603|Wegschauen|wegschauen
-4605|unsrem|unserem
+4605|unsrem|unsrem
 4609|Anne|Anne
 4612|weggeschossen|wegschießen
 4614|Nazi-Lachen|das Nazi-Lachen
@@ -1578,27 +1578,27 @@
 4645|fass|fassen
 4646|halb-voll|halbvoll
 4652|Para-dies|das Paradies
-4653|Para-das|Para-das
+4653|Para-das|das Para-das
 4654|Para-Militär|das Para-Militär
 4656|brauchtest|brauchen
 4657|verkauftest|verkaufen
-4658|Red|Red
+4658|Red|Rot
 4660|gäbs|geben
 4661|Happy|happy
 4662|End|das Ende
-4663|Fakenew|Fake-News
+4663|Fakenew|Fakenew
 4666|Wessen|wessen
 4669|häh|häh
 4670|Filterbubble|die Filterbubble
 4671|abwehrn|abwehren
-4672|Mose|Mose
+4672|Mose|der Mose
 4675|unkapierbar|unkapierbar
 4677|untherapierbar|untherapierbar
 4678|einhundertmal|einhundertmal
 4679|Geb|geben
 4680|Kreislabor|das Kreislabor
-4681|Ladies|Ladies
-4682|Gentlemen|die Gentlemen
+4681|Ladies|die Damen
+4682|Gentlemen|die Herren
 4683|Huh|Huh
 4686|Hu|Hu
 4687|Huhh|Huhh
@@ -1606,7 +1606,7 @@
 4690|verwandte|der Verwandte
 4693|entdeckend|entdeckend
 4697|weckend|weckend
-4700|Innen|das Innen
+4700|Innen|die Innen
 4712|ABCDEFGHIJKLMNOPQRSTUVWXYZ|ABCDEFGHIJKLMNOPQRSTUVWXYZ
 4715|Hä|Hä
 4719|moonwalken|moonwalken
@@ -1620,7 +1620,7 @@
 4737|Vader|Vader
 4743|Colibakterium|das Colibakterium
 4745|Sodass|sodass
-4748|Höchste|höchste
+4748|Höchste|das Höchste
 4749|Mozart|Mozart
 4760|Nimmt|nehmen
 4762|schenkn|schenken
@@ -1634,12 +1634,12 @@
 4794|liegend|liegen
 4798|dunkl|dunkel
 4802|erschufen|erschaffen
-4803|Cyclisches|cyclisch
+4803|Cyclisches|das Cyclische
 4809|wuchsen|wachsen
 4811|endend|enden
 4816|Hitler|Hitler
 4817|umschlingend|umschlingen
-4820|141592|einhundertvierzigtausendfünfhundertzweiundneunzig
+4820|141592|einhundertvierzehntausendfünfhundertzweiundneunzig
 4821|653|sechshundertdreiundfünfzig
 4822|589|fünfhundertneunundachtzig
 4823|793|siebenhundertdreiundneunzig
@@ -1652,9 +1652,9 @@
 4839|zurückführn|zurückführen
 4840|Gestern|gestern
 4842|7950288419|sieben Milliarden neunhundertfünfzig Millionen zweihundertachtundachtzigtausendvierhundertneunzehn
-4843|71693993751|siebzig Milliarden sechshundertneununddreißig Millionen neunhundertdreiundneunzigtausendsiebenhunderteinundfünfzig
-4844|05820974944|fünf Milliarden achthundertzwanzig Millionen neunhundertvierundneunzigtausendvierhundertvierundvierzig
-4845|5923078164|fünfhundertneunundzwanzig Millionen dreiundsiebzigtausendeinhundertvierundsechzig
+4843|71693993751|einundsiebzig Milliarden sechshundertneunundneunzig Millionen neunhundertdreiundneunzigtausendsiebenhunderteinundfünfzig
+4844|05820974944|fünf Milliarden achthundertzwanzig Millionen neunhundertvierundsiebzigtausendneunhundertvierundvierzig
+4845|5923078164|fünf Milliarden neunhundertdreiundzwanzig Millionen achtundsiebzigtausendeinhundertvierundsechzig
 4849|Innerlich|innerlich
 4869|Nachts|nachts
 4877|gesessen|sitzen
@@ -1692,12 +1692,12 @@
 4987|Weißt|wissen
 4990|Nehmen|nehmen
 4993|mh|mh
-4994|Sechster|der Sechste
+4994|Sechster|der Sechster
 4996|Grüße|die Grüße
 4997|beigefügt|beifügen
-5001|Spiderman-Dress|der Spiderman-Dress
+5001|Spiderman-Dress|das Spiderman-Dress
 5002|Kleiner|klein
-5004|Dat|das Dat
+5004|Dat|Dat
 5005|Fisten|fisten
 5006|schüttlen|schütteln
 5009|Bind|binden
@@ -1709,7 +1709,7 @@
 5021|Sofort|sofort
 5022|pack|packen
 5025|drehn|drehen
-5028|Shneezin|shneezin
+5028|Shneezin|Shneezin
 5030|Kartentrick|der Kartentrick
 5031|schwör|schwören
 5033|rissen|reißen
@@ -1721,12 +1721,12 @@
 5043|FOMO|FOMO
 5045|24|vierundzwanzig
 5046|allеin|allein
-5047|Billiе|Billie
+5047|Billiе|Billiе
 5051|Aufgebrachte|aufgebracht
 5056|Potsdam|Potsdam
 5057|Wannseekonferenz|die Wannseekonferenz
 5059|Beckenbauer|Beckenbauer
-5060|Bubatz|das Bubatz
+5060|Bubatz|der Bubatz
 5062|Raab|Raab
 5063|Oasis|Oasis
 5065|Mockridge|Mockridge
@@ -1745,20 +1745,20 @@
 5090|Different|different
 5091|shit|shit
 5092|same|same
-5093|Great|great
-5095|great|great
+5093|Great|Großartig
+5095|great|großartig
 5097|gesehn|sehen
 5099|könnsen|können
 5100|weiterempfehln|weiterempfehlen
-5101|Angels|die Angels
+5101|Angels|die Engel
 5102|deserve|deserve
-5103|To|to
+5103|To|Zu
 5104|schrein|schreien
 5105|Service-Line|die Service-Line
 5106|Rotweinglas|das Rotweinglas
 5107|nenn|nennen
 5108|Leon|Leon
-5110|Catfish|Catfish
+5110|Catfish|der Catfish
 5112|Bizep|der Bizeps
 5116|hilf|helfen
 5120|Bodycount|der Bodycount
@@ -1766,7 +1766,7 @@
 5126|reiß|reißen
 5127|Genieß|genießen
 5128|leb|leben
-5129|Justus-|Justus
+5129|Justus-|Justus-
 5130|Maximilian|Maximilian
 5132|Patek|Patek
 5133|Philippe|Philippe
@@ -1785,13 +1785,13 @@
 5166|findster|findster
 5167|Einn|ein
 5169|Besonderes|besonders
-5170|Mom|Mom
+5170|Mom|die Mom
 5174|gabs|geben
 5182|Rastet|rasten
 5186|hinmussn|hinmüssen
 5191|Inklusive|inklusive
 5193|Hat|haben
-5194|Wärs|wären
+5194|Wärs|Wärs
 5195|Intime|intim
 5197|Erzähl|erzählen
 5198|verlieb|verlieben
@@ -1823,10 +1823,10 @@
 5246|Wahres|das Wahre
 5249|Begreife|begreifen
 5250|Begreifen|das Begreifen
-5251|High-Class|High-Class
-5252|Middle-Class|Middle-Class
+5251|High-Class|die High-Class
+5252|Middle-Class|die Middle-Class
 5253|Überschlagene|überschlagen
-5255|wiedermal|wieder mal
+5255|wiedermal|wiedermal
 5257|Mägge|Mägge
 5258|Ego-Trip|der Ego-Trip
 5259|Vincent|Vincent
@@ -1838,13 +1838,13 @@
 5269|interpretier|interpretieren
 5270|entfähren|entführen
 5275|Dalí|Dalí
-5276|daVinci|da Vinci
+5276|daVinci|daVinci
 5279|Mona|Mona
 5280|Lisa|Lisa
 5282|A4|A4
-5283|Deeper|deeper
-5284|deeper|deeper
-5285|Cheers|Cheers
+5283|Deeper|tiefer
+5284|deeper|tiefer
+5285|Cheers|Prost
 5286|Schattentag|der Schattentag
 5289|không|không
 5290|ai|ai
@@ -1874,11 +1874,11 @@
 5338|diverser|divers
 5342|Saufexzessen|der Saufexzess
 5343|verklag|verklagen
-5347|Vorbeieilenden|der Vorbeieilende
+5347|Vorbeieilenden|die Vorbeieilenden
 5348|Verborgenen|das Verborgene
 5351|Merkel|Merkel
 5352|Naidoo|Naidoo
-5353|Anderen|der Andere
+5353|Anderen|die Anderen
 5358|Hättest|haben
 5360|riech|riechen
 5369|Heulkrampf|der Heulkrampf
@@ -1891,7 +1891,7 @@
 5378|Superfähigkeit|die Superfähigkeit
 5379|Gute-Nacht-zu-Mama-sagen-Mini-Nüchternheit|die Gute-Nacht-zu-Mama-sagen-Mini-Nüchternheit
 5381|Stottern|das Stottern
-5383|Gute|das Gute
+5383|Gute|die Gute
 5389|Linksrock|der Linksrock
 5390|Rechtsrock|der Rechtsrock
 5391|Mittelrock|der Mittelrock
@@ -1901,7 +1901,7 @@
 5400|Streifengnu|das Streifengnu
 5402|forder|fordern
 5404|Bundeslig|die Bundesliga
-5405|Peace|Peace
+5405|Peace|der Frieden
 5417|Masai|Masai
 5419|Scheiß-Diktatur|die Scheiß-Diktatur
 5421|Konvertiten-Swag|der Konvertiten-Swag
@@ -1913,14 +1913,14 @@
 5436|beschmier|beschmieren
 5437|nei-i-ein|nei-i-ein
 5438|setzn|setzen
-5439|Sexuellen|der Sexuelle
+5439|Sexuellen|die Sexuellen
 5442|Brülle|brüllen
 5443|Hulk-Verschnitt|der Hulk-Verschnitt
 5445|Radikalisiert|radikalisieren
 5446|Kompromisten-Camp|das Kompromisten-Camp
 5447|XXM|XXM
 5448|Gratis|gratis
-5449|Extremistenspinner|der Extremistenspinner
+5449|Extremistenspinner|die Extremistenspinner
 5452|DC|DC
 5453|Marvel|Marvel
 5459|Harlem|Harlem
@@ -1932,12 +1932,12 @@
 5471|verschwieren|verschwören
 5476|telefonier|telefonieren
 5477|Bürgermeister-Kandidat|der Bürgermeister-Kandidat
-5480|Bio-Katzenstreu|das Bio-Katzenstreu
+5480|Bio-Katzenstreu|die Bio-Katzenstreu
 5485|Scroll|scrollen
 5486|Feed|der Feed
 5488|Gespenster|das Gespenst
-5504|Goodbye|Goodbye
-5505|friends|friends
+5504|Goodbye|Auf Wiedersehen
+5505|friends|Freunde
 5507|Ooooooh|Ooooooh
 5508|Online|online
 5510|Tütenreis|der Tütenreis
@@ -1953,65 +1953,65 @@
 5543|Fängt|fangen
 5545|Totesi|Totesi
 5546|häng|hängen
-5550|Idiocracy|Idiocracy
-5551|RocknRoll|RocknRoll
+5550|Idiocracy|Idiokratie
+5551|RocknRoll|Rock’n’Roll
 5552|Fashion-Ikone|die Fashion-Ikone
 5555|hoffn|hoffen
 5563|Intresse|das Interesse
 5565|Dad-Joke|der Dad-Joke
 5566|come|come
 5568|doubt|doubt
-5569|-ment|-ment
+5569|-ment|das -ment
 5571|loslauf|loslaufen
 5573|Aint|Aint
 5574|nobody|nobody
 5575|Me|Me
 5576|Bout|Bout
-5577|things|things
-5578|Ill|Ill
+5577|things|die Dinge
+5578|Ill|ich werde
 5579|miss|miss
 5581|help|help
 5582|leave|leave
-5583|mess|mess
+5583|mess|das Chaos
 5584|And|And
-5585|wont|wont
+5585|wont|werde nicht
 5586|explain|explain
-5587|fashion|fashion
-5588|lackin|lackin
-5589|Thats|Thats
-5590|time|time
-5591|detachin|detachin
-5592|phones|phones
+5587|fashion|die Mode
+5588|lackin|fehlend
+5589|Thats|das ist
+5590|time|die Zeit
+5591|detachin|loslösen
+5592|phones|die Telefone
 5593|stat|stat
-5594|internet|internet
+5594|internet|das Internet
 5595|distract|distract
 5596|where|where
-5597|winner|winner
+5597|winner|der Gewinner
 5598|at|at
 5599|Too|Too
-5600|many|many
-5602|rabbit|rabbit
-5603|hole|hole
+5600|many|viele
+5602|rabbit|das Kaninchen
+5603|hole|das Loch
 5604|complain|complain
 5605|bout|bout
 5606|This|This
 5607|rapper|rapper
 5608|though|though
-5609|Came|Came
+5609|Came|kam
 5610|here|here
 5611|spin|spin
-5612|backwind|backwind
-5614|Breakdancin|Breakdancin
+5612|backwind|der Rückenwind
+5614|Breakdancin|Breakdance
 5615|since|since
 5616|then|then
 5617|Everybody|Everybody
 5618|little|little
-5619|unplug|unplug
+5619|unplug|abstecken
 5620|appreciate|appreciate
-5621|distortion|distortion
+5621|distortion|die Verzerrung
 5622|much|much
 5624|Here|Here
-5625|comes|come
+5625|comes|kommt
 5627|How|how
 5628|now|now
 5629|wirfst|werfen
@@ -2031,7 +2031,7 @@
 5662|Knibbel|knibbeln
 5663|Heckscheibenaufkleber|der Heckscheibenaufkleber
 5664|geschmolzen|schmelzen
-5667|Pompeii|Pompeii
+5667|Pompeii|Pompeji
 5668|Rammstein-Konzert|das Rammstein-Konzert
 5669|Rammstein|Rammstein
 5672|Canceln|canceln
@@ -2048,8 +2048,8 @@
 5693|Anachronismen|der Anachronismus
 5694|Kapitalistische|kapitalistisch
 5695|Liebeslieder|das Liebeslied
-5696|name|name
-5697|ching|ching
+5696|name|der Name
+5697|ching|kling
 5700|Maeckes|Maeckes
 5701|Startgebot|das Startgebot
 5703|they|they
@@ -2072,17 +2072,17 @@
 5732|En-|enden
 5735|Turn|turnen
 5736|Süchte|die Sucht
-5738|DSL|DSL
-5743|Rape|rape
-5744|Porn|porn
-5745|Positivity|positivity
-5747|Goals|goals
-5748|Hate|hate
+5738|DSL|das DSL
+5743|Rape|die Vergewaltigung
+5744|Porn|der Porno
+5745|Positivity|die Positivität
+5747|Goals|die Ziele
+5748|Hate|der Hass
 5750|fake|fake
-5751|AI|AI
+5751|AI|die KI
 5752|be|be
-5753|Voice|voice
-5754|notes|notes
+5753|Voice|die Stimme
+5754|notes|die Notizen
 5756|Mails|die Mail
 5757|Hah|hah
 5758|Junger|jung
@@ -2091,7 +2091,7 @@
 5761|verückt|verrückt
 5767|Sonneklaaaaar|sonnenklar
 5771|trink|trinken
-5773|Woooh|woooh
+5773|Woooh|wuh
 5778|Vogelstrauß|der Vogelstrauß
 5780|Ride|ride
 5782|Erlebe|erleben
@@ -2099,12 +2099,12 @@
 5801|Rapidshare|Rapidshare
 5803|Fremden|der Fremde
 5807|Fleckenzwerg|der Fleckenzwerg
-5808|Jungeer|jünger
-5809|Wooh|wooh
+5808|Jungeer|der Jungeer
+5809|Wooh|wuh
 5811|reien|reißen
 5812|Leuchtkette|die Leuchtkette
 5813|ICH|ich
-5816|Lets|let
+5816|Lets|lass uns
 5817|Sektbole|die Sektbole
 5818|McDonalds|McDonalds
 5822|Denkst|denken
@@ -2115,13 +2115,13 @@
 5832|Hühner|das Huhn
 5833|Farmgegend|die Farmgegend
 5834|Schlafen|schlafen
-5838|Pssst|pssst
+5838|Pssst|psst
 5841|ham|haben
 5844|reingucken|reingucken
 5849|Mayer|Mayer
 5853|CIA|die CIA
 5854|Mossad|der Mossad
-5855|Spidermann|Spidermann
+5855|Spidermann|der Spidermann
 5856|Illuminatensymbol|das Illuminatensymbol
 5862|erwach|erwachen
 5863|Kellerschacht|der Kellerschacht
@@ -2135,11 +2135,11 @@
 5882|schwarz-weiß|schwarz-weiß
 5885|fängen|fangen
 5887|bau|bauen
-5888|Dünengra|dünengrau
+5888|Dünengra|das Dünengra
 5895|flüsteren|flüstern
-5899|zweit|zweiter
+5899|zweit|zweite
 5907|erzähln|erzählen
-5908|Aaaaaaaaaaaaah|aaaaaah
+5908|Aaaaaaaaaaaaah|aah
 5913|wären|sein
 5916|Florian|Florian
 5917|Paul|Paul
@@ -2155,21 +2155,21 @@
 5931|Bengeln|der Bengel
 5932|brechn|brechen
 5933|fucking|fucking
-5934|neugebaut|neu bauen
+5934|neugebaut|neu gebaut
 5940|Fucking|Fucking
 5941|Graue|grau
 5945|finds|finden
 5948|Sizilien|Sizilien
-5952|viert|vierter
-5957|Non-Stop|non-stop
+5952|viert|vierte
+5957|Non-Stop|Nonstop
 5969|Panini-Flasche|die Panini-Flasche
 5972|Fahr|fahren
 5978|Wusst|wissen
 5981|Toyota|Toyota
 5983|Merci|merci
 5984|calling|calling
-5985|trick|trick
-5986|fünfundneunzig|95
+5985|trick|der Trick
+5986|fünfundneunzig|fünfundneunzig
 5987|unserr|unser
 5992|Kipp|kippen
 5993|Verflossenem|der Verflossene
@@ -2180,32 +2180,32 @@
 5999|Zwischendrin|zwischendrin
 6001|beginnn|beginnen
 6004|Wunderbares|wunderbar
-6005|Upside|upside
+6005|Upside|die Oberseite
 6007|Gedank|der Gedanke
-6008|leergeraucht|leer rauchen
+6008|leergeraucht|leer geraucht
 6009|Surreal|surreal
 6010|sleeping|sleeping
-6011|beauty|beauty
-6012|Can|can
+6011|beauty|die Schönheit
+6012|Can|kann
 6013|hear|hear
 6014|call|call
-6015|duty|duty
+6015|duty|die Pflicht
 6016|world|world
-6017|has|has
-6018|gone|gone
-6019|completely|completely
+6017|has|hat
+6018|gone|gegangen
+6019|completely|vollständig
 6020|nuts|nuts
-6021|were|were
+6021|were|waren
 6022|German|German
-6023|rise|rise
+6023|rise|aufsteigen
 6024|we|wir
 6025|Authoritarian|autoritär
 6026|nationalist|nationalistisch
-6027|Borks|Borks
+6027|Borks|die Borks
 6029|with|mit
-6030|torches|Fackeln
+6030|torches|die Fackeln
 6031|pitchfork|Heugabel
-6033|people|Menschen
+6033|people|die Leute
 6034|past|vergangen
 6035|True|wahr
 6036|Germans|Deutsche
@@ -2213,7 +2213,7 @@
 6038|run|laufen
 6039|Ten|zehn
 6040|bicycle|Fahrrad
-6041|helmets|Helme
+6041|helmets|die Helme
 6042|Sight|Sicht
 6043|Jack|Jack
 6044|Wolfskin|Wolfskin
@@ -2221,10 +2221,10 @@
 6046|marching|marschierend
 6047|through|durch
 6048|Night|Nacht
-6049|Birkenstocks|Birkenstocks
+6049|Birkenstocks|die Birkenstocks
 6050|stomp|stampfen
 6051|ground|Boden
-6052|Munching|kauend
+6052|Munching|mampfen
 6055|earth-shattering|erderschütternd
 6056|sound|Klang
 6057|true|wahr
@@ -2234,13 +2234,13 @@
 6061|fear|Angst
 6062|strong|stark
 6063|leaders|Führer
-6064|fences|Zäune
-6065|walls|Wände
+6064|fences|die Zäune
+6065|walls|die Wände
 6066|being|sein
 6067|us|uns
 6068|takes|nimmt
 6069|Bigger|größer
-6070|balls|Bälle
+6070|balls|die Bälle
 6071|cause|Ursache
 6073|compassionate|mitfühlend
 6074|considerate|rücksichtsvoll
@@ -2263,7 +2263,7 @@
 6092|there|dort
 6094|Teutonic|teutonisch
 6095|expertise|Expertise
-6096|assholery|Arschlochverhalten
+6096|assholery|das Arschlochverhalten
 6097|leads|führt
 6098|election|Wahl
 6099|vote|Stimme
@@ -2294,18 +2294,18 @@
 6127|teachable|lehrbar
 6128|longer|länger
 6129|murderous|mörderisch
-6130|vandal|Vandal
+6130|vandal|der Vandale
 6132|Or|oder
 6133|well|gut
 6134|Socks|Socken
-6136|Reserving|reservierend
+6136|Reserving|reservieren
 6137|sun|Sonne
-6138|loungers|Liegestühle
-6139|towels|Handtücher
+6138|loungers|die Liegen
+6139|towels|die Handtücher
 6140|Vegan|vegan
 6141|sausage|Wurst
-6142|Bowels|Därme
-6143|dickheads|Idioten
+6142|Bowels|die Eingeweide
+6143|dickheads|die Idioten
 6144|good|gut
 6145|look|Aussehen
 6146|these|diese
@@ -2318,7 +2318,7 @@
 6154|do|tun
 6155|whatever|was auch immer
 6156|want|wollen
-6158|brains|Gehirne
+6158|brains|die Gehirne
 6159|Fuckface|Fuckface
 6160|Because|weil
 6161|theyre|sie sind
@@ -2335,13 +2335,13 @@
 6174|enlightened|aufgeklärt
 6175|responsible|verantwortlich
 6176|recycle|recyceln
-6178|forgiving|vergebend
+6178|forgiving|vergeben
 6180|forget|vergessen
 6182|freedom|Freiheit
 6183|speech|Rede
 6184|European|europäisch
 6185|unity|Einheit
-6186|Fanta|Fanta
+6186|Fanta|die Fanta
 6187|diversity|Vielfalt
 6188|selfless|selbstlos
 6190|Bella|Bella
@@ -2352,7 +2352,7 @@
 6199|Sehn|sehen
 6200|Bewegen|bewegen
 6203|verschwende|verschwende
-6205|Maskierter|Maskierter
+6205|Maskierter|der Maskierte
 6207|probiern|probieren
 6208|reingehn|reingehen
 6209|einsehn|einsehen
@@ -2380,14 +2380,14 @@
 6246|Kreuzberg|Kreuzberg
 6249|aufgenommn|aufgenommen
 6251|ghen|gehen
-6252|fürn|für ein
+6252|fürn|für einen
 6253|1990s|neunziger
 6254|blick|Blick
 6256|schwärm|schwärmen
 6257|Throwing|werfen
 6258|empty|leer
-6259|bottles|Flaschen
-6260|16th|sechzehnter
+6259|bottles|die Flaschen
+6260|16th|sechzehnte
 6261|floor|Stock
 6262|Were|wir waren
 6264|some|einige
@@ -2396,63 +2396,63 @@
 6267|tomorrow|morgen
 6268|late|spät
 6269|school|Schule
-6270|Loveparade|Loveparade
-6271|Afterparty-Rave|Afterparty-Rave
+6270|Loveparade|die Loveparade
+6271|Afterparty-Rave|der Afterparty-Rave
 6272|Laber|das Labern
-6273|Ma|die Ma
-6274|AB|das AB
+6273|Ma|die Mutter
+6274|AB|das Alphabet
 6275|abend|der Abend
-6276|achter|achter
+6276|achter|der Achter
 6277|erfahrn|erfahren
 6278|1990|neunzehnhundertneunzig
 6279|blickn|blicken
-6280|Jön|Jön
+6280|Jön|der Jön
 6281|Reggel|der Reggel
-6282|irány|irány
-6284|Amennyi|Amennyi
-6285|nálad|nálad
-6286|Az|Az
-6287|odaviszed|odaviszed
-6288|Hamamma|Hamamma
+6282|irány|die Richtung
+6284|Amennyi|so viel
+6285|nálad|bei dir
+6286|Az|das Az
+6287|odaviszed|hinbringen
+6288|Hamamma|das Hamamma
 6289|Attól|Attól
-6290|majd|majd
-6291|megváltozik|megváltozik
-6292|Közérzeted|Közérzeted
+6290|majd|später
+6291|megváltozik|sich ändern
+6292|Közérzeted|dein Wohlbefinden
 6293|És|És
 6294|egész|egész
 6295|nap|der Nap
 6296|Mondogatod|mondogatod
-6297|Magadba|Magadba
+6297|Magadba|in dich
 6298|Minek|Minek
 6299|mi|mi
 6300|meg|meg
-6301|nincs|nincs
+6301|nincs|es gibt nicht
 6302|Mikor|Mikor
-6303|Csuklódon|Csuklódon
-6304|Kattan|kattan
-6305|bilincs|der Bilincs
-6307|Pozíciódón|Pozíciódón
+6303|Csuklódon|an deinem Handgelenk
+6304|Kattan|klicken
+6305|bilincs|die Handschelle
+6307|Pozíciódón|an deiner Position
 6308|változtatnál|változtatnál
 6309|De|De
 6310|ezen|ezen
-6311|Ajtón|Ajtón
-6312|Kilincs|der Kilincs
-6313|Trepp|der Trepp
+6311|Ajtón|an der Tür
+6312|Kilincs|die Klinke
+6313|Trepp|die Treppe
 6314|Versandsoldat|der Versandsoldat
 6315|Logistikproletariat|das Logistikproletariat
 6321|Zalando|Zalando
 6322|mirs|mirs
 6327|Pausenzeit|die Pausenzeit
 6328|Gefangen|gefangen
-6343|Sub-Sub-Sub-Sub-Subunternehmer|der Sub-Sub-Sub-Sub-Subunternehmer
+6343|Sub-Sub-Sub-Sub-Subunternehmer|der Subunternehmer
 6344|Paketkurier|der Paketkurier
-6346|Bernd|Bernd
+6346|Bernd|der Bernd
 6357|Fruchtsaftverordnung|die Fruchtsaftverordnung
-6361|Drei-Wetter-Taft|der Drei-Wetter-Taft
-6362|Ham|Ham
+6361|Drei-Wetter-Taft|das Drei-Wetter-Taft
+6362|Ham|der Ham
 6365|beschwer|beschweren
 6366|bräuchen|bräuchen
-6367|siebter|siebter
+6367|siebter|der Siebte
 6368|fands|fanden
 6374|gehten|gehen
 6377|wehr|wehren
@@ -2472,47 +2472,47 @@
 6415|blieben|bleiben
 6416|Typisch|typisch
 6417|vorbeiEin|vorbeigehen
-6419|ws|ws
+6419|ws|das ws
 6420|Frier|frieren
 6422|wähl|wählen
 6423|112|einhundertzwölf
 6424|Dumm|dumm
-6425|Rambimmel|der Rambimmel
+6425|Rambimmel|die Rambimmel
 6426|rabammel|rabammeln
-6428|bumm|bumm
+6428|bumm|bummen
 6429|hamwa|haben wir
 6430|müd|müde
-6432|Big|big
+6432|Big|der Big
 6433|Bang|bang
-6434|Bumm|bumm
-6439|Krrrksn|Krrrksn
-6445|Besten|besten
+6434|Bumm|das Bumm
+6439|Krrrksn|das Krrrksn
+6445|Besten|die Besten
 6448|Früher|früher
-6449|Bunnie|der Bunnie
+6449|Bunnie|das Bunnie
 6455|Waher|wahren
 6456|Getrübt|getrübt
 6458|Möge|mögen
 6459|Klaren|klar
 6464|ann|an
 6466|scheissen|scheißen
-6468|Unsre|unsre
+6468|Unsre|unsere
 6469|asphaltiern|asphaltieren
-6472|Discovery|der Discovery
+6472|Discovery|die Discovery
 6473|90|neunzig
 6474|Bielefeld|Bielefeld
 6475|discovern|discovern
-6477|Q7|Q7
+6477|Q7|der Q7
 6481|Porsche-Fahrn|Porsche fahren
 6487|Asphaltwüste|die Asphaltwüste
 6490|260|zweihundertsechzig
 6492|weinn|weinen
-6493|VW|VW
-6495|Brumm-Brumm|Brumm-Brumm
-6496|La-la-la|La-la-la
-6497|la-la-la|La-la-la
-6498|La-la-la-la-la-la-la-la|La-la-la-la-la-la-la-la
-6500|Falschparken|falschparken
-6501|Zebrastreife|die Zebrastreife
+6493|VW|der VW
+6495|Brumm-Brumm|das Brumm-Brumm
+6496|La-la-la|la-la-la
+6497|la-la-la|la-la-la
+6498|La-la-la-la-la-la-la-la|la-la-la-la-la-la-la-la
+6500|Falschparken|das Falschparken
+6501|Zebrastreife|der Zebrastreifen
 6502|Wolln|wollen
 6505|Disney|Disney
 6508|30|dreißig
@@ -2521,24 +2521,24 @@
 6515|Gestatt|gestatten
 6523|Lebenslang|lebenslang
 6525|sichs|sich’s
-6526|Schöneres|schöneres
+6526|Schöneres|schöner
 6527|Romantische|romantische
 6529|Höllenritt|der Höllenritt
-6530|Dritt|der Dritt
+6530|Dritt|das Dritt
 6533|Lederkostüm|das Lederkostüm
 6537|schwengen|schwengen
 6540|Fällst|fallen
 6542|findeen|finden
 6544|Leisen|die Leise
-6545|Kb|Kb
+6545|Kb|das Kilobyte
 6546|eure|eure
 6547|Lieblings-Rapperin|die Lieblings-Rapperin
-6550|Chewbacca|Chewbacca
+6550|Chewbacca|der Chewbacca
 6551|Teleskop-Schlagstock|der Teleskop-Schlagstock
 6552|Raplegende|die Raplegende
 6553|funky|funky
-6554|Motherfucker|Motherfucker
-6556|dAmour|d’amour
+6554|Motherfucker|der Motherfucker
+6556|dAmour|d'amour
 6559|ruhigen|ruhig
 6560|Zerbrechlichen|zerbrechlich
 6563|verdächtige|verdächtigen
@@ -2546,15 +2546,15 @@
 6566|Tanzen|tanzen
 6567|Gegenprogramm|das Gegenprogramm
 6573|Internet-Armee|die Internet-Armee
-6576|michverbrannt|mich verbrennen
+6576|michverbrannt|sich verbrennen
 6577|Dubist|du bist
-6578|Wasserund|wasserund
-6580|inalle|inalle
+6578|Wasserund|Wasser und
+6580|inalle|in alle
 6582|Pre-Refrain|der Pre-Refrain
 6584|reichts|reichen
 6585|Olé|Olé
 6586|reicht|reichen
-6594||–
+6594||```
 6595|Hätte|haben
 6596|vielbenutzt|viel benutzt
 6599|ick|ick
@@ -2562,14 +2562,14 @@
 6601|jern|gern
 6603|keen|kein
 6605|jewonnen|gewinnen
-6612|Angelina|Angelina
-6613|Jolie|Jolie
+6612|Angelina|die Angelina
+6613|Jolie|die Jolie
 6614|anner|ander
 6616|se|sie
-6617|anjequatsch|an jequatscht
+6617|anjequatsch|an je quatsch
 6618|palavert|palavern
-6620|Brad|Brad
-6621|Pitt|Pitt
+6620|Brad|der Brad
+6621|Pitt|der Pitt
 6625|jeschmissen|schmeißen
 6626|NEIN|nein
 6627|haten|haten
@@ -2579,7 +2579,7 @@
 6634|Hätten|haben
 6635|NE|ne
 6636|neugeborn|neu geboren
-6637|Ohohohohoh|Ohohohohoh
+6637|Ohohohohoh|oh-oh-oh
 6638|bekloppen|bekloppen
 6641|losgerocken|losrocken
 6642|Birnen|die Birne
@@ -2590,14 +2590,14 @@
 6648|allet|allet
 6654|keener|keiner
 6657|kleen|klein
-6658|Skit|der Skit
+6658|Skit|das Skit
 6659|diesjahr|dies Jahr
 6661|mikrig|mickrig
 6662|findest|finden
 6663|Haste|haben
 6664|irgendwat|irgendwas
 6665|jemacht|machen
-6667|rübergestolpern|rüberstolpern
+6667|rübergestolpern|rüber stolpern
 6668|jehst|jehen
 6670|Ick|Ich
 6671|hälen|hälen
@@ -2607,10 +2607,10 @@
 6680|Blaues|blau
 6682|machst|machen
 6684|Deutschlandpfeil|der Deutschlandpfeil
-6689|Afterwork-Austern|die Afterwork-Auster
-6690|Tze|tze
-6691|Gigi|Gigi
-6692|DAgostino|DAgostino
+6689|Afterwork-Austern|die Afterwork-Austern
+6690|Tze|das Tze
+6691|Gigi|die Gigi
+6692|DAgostino|der D'Agostino
 6693|Nah|nah
 6694|Gehts|gehen
 6696|Sugar|Zucker
@@ -2619,14 +2619,14 @@
 6701|passiern|passieren
 6702|Jedem|jeder
 6703|seine|sein
-6704|Sylt|Sylt
-6707|Tss|tss
-6709|Hush|hush
+6704|Sylt|die Sylt
+6707|Tss|das Tss
+6709|Hush|das Hush
 6710|hush|hush
 6711|Honey|Honig
 6712|bestimm|bestimmen
 6713|Huch|huch
-6714|Wuff|wuff
+6714|Wuff|das Wuff
 6715|wuff|wuff
 6716|fünfhundertsechzig|fünfhundertsechzig
 6717|Hundejahr|das Hundejahr
@@ -2651,7 +2651,7 @@
 6755|birgen|bergen
 6759|pfeifn|pfeifen
 6761|bügel|bügeln
-6764|immernoch|immernoch
+6764|immernoch|immer noch
 6769|Schweigefuch|der Schweigefuchs
 6772|Wollten|wollen
 6776|Internetverbot|das Internetverbot
@@ -2671,14 +2671,14 @@
 6808|GEZ|die GEZ
 6812|schützend|schützen
 6815|Wund|wund
-6821|Collateral|collateral
+6821|Collateral|das Collateral
 6825|Triffen|treffen
 6830|Nennt|nennen
 6831|Gebeine|die Gebeine
 6832|fall|fallen
-6835|Gaby|Gaby
-6836|Glockner|Glockner
-6837|Carsten|Carsten
+6835|Gaby|die Gaby
+6836|Glockner|der Glockner
+6837|Carsten|der Carsten
 6839|meinst|meinen
 6841|Bestimmen|bestimmen
 6846|rannen|rennen
@@ -2694,32 +2694,32 @@
 6865|Ahaha|ahaha
 6872|fly|fliegen
 6873|sick|krank
-6874|Kalli|Kalli
-6877|Dudes|Dudes
+6874|Kalli|der Kalli
+6877|Dudes|die Dudes
 6878|duz|duzen
 6879|Sis|Schwester
 6881|tritten|treten
 6882|möchteen|möchten
-6887|Homie|Homie
+6887|Homie|der Homie
 6889|piepsend|piepsen
-6891|Terrorstyle|der Terrorstil
+6891|Terrorstyle|der Terrorstyle
 6893|Froschgift|das Froschgift
 6895|Schrottwichtel|der Schrottwichtel
-6896|Nosliw|Nosliw
+6896|Nosliw|der Nosliw
 6897|Gemüsefach|das Gemüsefach
-6898|Alli|Alli
-6899|Kaliba|Kaliba
+6898|Alli|die Alli
+6899|Kaliba|der Kaliba
 6903|knabberen|knabbern
 6907|Leguane|die Leguane
 6913|Tjaa|tjaa
 6917|Ro-man-tik|die Romantik
-6918|Barkeeperstyle|der Barkeeperstil
+6918|Barkeeperstyle|der Barkeeperstyle
 6920|blas|blasen
 6922|Kauft|kaufen
 6923|Oho|oho
 6924|Lalala|lalala
 6926|-Warum|-warum
-6927|-Könnte|-könnte
+6927|-Könnte|könnte
 6928|Argh|argh
 6929|anfangn|anfangen
 6931|Maut-Kontrolln|die Mautkontrollen
@@ -2733,18 +2733,18 @@
 6941|Wach|wach
 6942|NSA|die NSA
 6944|ARD|die ARD
-6945|TKKG|TKKG
+6945|TKKG|die TKKG
 6948|wiederho-|wiederholen
-6950|Sherlock|Sherlock
-6951|Holmes|Holmes
-6952|Robo-Cop|Robo-Cop
+6950|Sherlock|der Sherlock
+6951|Holmes|der Holmes
+6952|Robo-Cop|der Robo-Cop
 6953|Gesetzeszeile|die Gesetzeszeile
 6954|wie-wie-wie|wie-wie-wie
-6955|Obama|Obama
+6955|Obama|der Obama
 6956|70er-Trend|der 70er-Trend
 6959|lernn|lernen
 6960|Probiern|probieren
-6961|isso|ist so
+6961|isso|so ist es
 6962|gemieden|meiden
 6965|Bringt|bringen
 6966|Führungseinheit|die Führungseinheit
@@ -2765,9 +2765,9 @@
 7004|Lern|lernen
 7005|Kindesbein|das Kindesbein
 7006|Roboterspiel|das Roboterspiel
-7009|Cock|Cock
+7009|Cock|der Hahn
 7015|rumlutschen|lutschen
-7019|No-Go|das No-Go
+7019|No-Go|das Tabu
 7020|wos|was
 7021|schwarze|schwarz
 7023|Roberto|Roberto
@@ -2792,41 +2792,41 @@
 7072|Battle|die Schlacht
 7073|whack|schlagen
 7074|MC|MC
-7090|Bosom|die Bosom
+7090|Bosom|die Brust
 7092|erschuf|erschaffen
-7096|allergrös|allergröß
+7096|allergrös|allergrös
 7099|gebissen|beißen
 7102|schissen|scheißen
 7105|Hochbegabt|hochbegabt
 7106|bewohn|bewohnen
 7110|baun|bauen
 7116|Belächeln|belächeln
-7118|15-Punkte-Schnitt|der 15-Punkte-Schnitt
+7118|15-Punkte-Schnitt|der Fünfzehn-Punkte-Schnitt
 7122|Neuestem|neu
 7124|schriebs|schreiben
 7126|Kunststoffschicht|die Kunststoffschicht
 7137|Raucherkette|die Raucherkette
 7138|Lungenriss|der Lungenriss
-7139|Kids|die Kids
+7139|Kids|die Kinder
 7140|Syrien|Syrien
-7141|Berghain|das Berghain
+7141|Berghain|Berghain
 7143|ertranken|ertrinken
-7144|Friends|die Friends
+7144|Friends|die Freunde
 7146|wusstet|wissen
 7147|dеr|der
 7149|tеilen|teilen
-7150|Insta|das Insta
-7151|Snapchat|das Snapchat
-7152|TikTok|das TikTok
-7153|Tinder|das Tinder
-7154|Netflix|das Netflix
-7155|YouTube|das YouTube
-7156|Fortnite|das Fortnite
-7157|Minecraft|das Minecraft
+7150|Insta|Instagram
+7151|Snapchat|Snapchat
+7152|TikTok|TikTok
+7153|Tinder|Tinder
+7154|Netflix|Netflix
+7155|YouTube|YouTube
+7156|Fortnite|Fortnite
+7157|Minecraft|Minecraft
 7158|begannn|beginnen
 7161|ihrs|ihr
 7162|andres|ander
-7164|Hoe|die Hoe
+7164|Hoe|die Hacke
 7165|Präservative|die Präservative
 7166|Nietzsche|Nietzsche
 7168|motherfucking|motherfucking
@@ -2841,9 +2841,9 @@
 7186|Haha|haha
 7187|bräen|braten
 7188|Fleischspieße|die Fleischspieße
-7189|Uuuh|uuuh
-7193|Jokes|die Jokes
-7195|Slut|die Slut
+7189|Uuuh|Uuuh
+7193|Jokes|die Witze
+7195|Slut|die Schlampe
 7198|währnd|während
 7199|Jaa|jaa
 7202|grinden|grinden
@@ -2863,7 +2863,7 @@
 7242|heul|heulen
 7244|Mixtape|das Mixtape
 7245|vollidiot|der Vollidiot
-7246|keinr|keiner
+7246|keinr|keinr
 7247|CD-Schrank|der CD-Schrank
 7249|Knutschen|knutschen
 7252|Reiss|der Reis
@@ -2874,7 +2874,7 @@
 7259|helden|die Helden
 7261|geehrt|ehren
 7262|Mit|mit
-7263|Nichtmitin|nichtmitin
+7263|Nichtmitin|Nichtmitin
 7264|Augenlied|das Augenlied
 7265|rap|rappen
 7268|wohn|wohnen
@@ -2884,14 +2884,14 @@
 7278|Alphabeet|das Alphabeet
 7282|stoß|stoßen
 7286|125000|einhundertfünfundzwanzigtausend
-7288|Wui|wui
+7288|Wui|Wui
 7290|reimend|reimen
-7291|schallmauerndurchbrechend|schallmauerndurchbrechen
+7291|schallmauerndurchbrechend|schallmauerndurchbrechend
 7295|Gelenkprothese|die Gelenkprothese
 7297|Kontrathese|die Kontrathese
 7298|bastelen|basteln
 7299|Monsterwesen|das Monsterwesen
-7302|zu-Tode-Streichel-Methode|die Zu-Tode-Streichel-Methode
+7302|zu-Tode-Streichel-Methode|die zu-Tode-Streichel-Methode
 7304|Kennst|kennen
 7306|Huxley|Huxley
 7311|Quantenzirkel|der Quantenzirkel
@@ -2899,10 +2899,10 @@
 7314|Edelstahlgewindeflansch|der Edelstahlgewindeflansch
 7315|Logbucheintrag|der Logbucheintrag
 7316|612|sechshundertzwölf
-7319|0|null
-7320|billiarden|billiarden
+7319|0|
+7320|billiarden|die Billiarden
 7321|halbbewusst|halbbewusst
-7322|Wes|das Wes
+7322|Wes|Wes
 7324|Hm|hm
 7325|Fassen|fassen
 7329|Weltraumrasse|die Weltraumrasse
@@ -2949,7 +2949,7 @@
 7423|fragend|fragen
 7425|Wartet|warten
 7426|verarsch|verarschen
-7428|Jo|jo
+7428|Jo|Jo
 7431|behaupteen|behaupten
 7434|unterhälten|unterhalten
 7435|abgetrennt|abtrennen
@@ -2963,13 +2963,13 @@
 7453|Sockismus|der Sockismus
 7454|sockifizieren|sockifizieren
 7455|verehrt|verehren
-7457|Oki-digidigi-doke|oki-digidigi-doke
+7457|Oki-digidigi-doke|Oki-digidigi-doke
 7459|desensibilisiert|desensibilisieren
 7465|Widerlege|widerlegen
 7466|Isaac|Isaac
 7468|Goethe|Goethe
 7470|esssen|essen
-7473|würdet|würden
+7473|würdet|würdet
 7477|näh|nähen
 7478|rosan|rosa
 7484|Stühln|die Stühle
@@ -2981,7 +2981,7 @@
 7493|entkoppel|entkoppeln
 7494|installiert|installieren
 7501|okidoke|okidoke
-7506|hipsterdissend|hipsterdissen
+7506|hipsterdissend|hipsterdissend
 7509|Hipsterdissen|das Hipsterdissen
 7511|Hip|hip
 7512|unhip|unhip
@@ -2994,7 +2994,7 @@
 7553|deins|deins
 7554|keins|keins
 7555|siebenhundert|siebenhundert
-7558|Taj|taj
+7558|Taj|Taj
 7560|jippie|jippie
 7565|schnorchel|schnorcheln
 7567|Eigenes|eigen
@@ -3003,13 +3003,13 @@
 7575|ergeh|ergehen
 7576|Müßigang|der Müßiggang
 7582|Gardasee|der Gardasee
-7583|Abruzze|die Abruzzen
+7583|Abruzze|die Abruzze
 7584|Sternwart|die Sternwarte
-7588|Kaiserlautern|das Kaiserslautern
+7588|Kaiserlautern|Kaiserlautern
 7592|Betzenberg|der Betzenberg
 7593|kochn|kochen
 7595|Tanja|Tanja
-7597|Belangloses|das Belangloses
+7597|Belangloses|das Belanglose
 7602|holunder-Vinaigrett|die Holunder-Vinaigrette
 7603|verwöhnsn|verwöhnen
 7607|greif|greifen
@@ -3018,21 +3018,21 @@
 7612|Katja|Katja
 7614|Hieß|heißen
 7616|steht|stehen
-7617|PowerPoint|das PowerPoint
+7617|PowerPoint|PowerPoint
 7621|käm|kommen
 7622|haut|hauen
 7623|zuguterletzt|zuguterletzt
 7625|Schönfuss|der Schönfuß
 7627|Öh|Öh
 7631|erweckend|erwecken
-7635|würdn|würden
-7637|Kiffe|das Kiffen
+7635|würdn|würdn
+7637|Kiffe|die Kiffe
 7641|vollst|vollstellen
 7644|Spielo|die Spielothek
 7645|park|der Park
 7649|Titanic-Bau|der Titanic-Bau
 7651|Sudden|Sudden
-7652|würdeen|würden
+7652|würdeen|würdeen
 7653|Zeitmaschiene|die Zeitmaschine
 7655|Mario|Mario
 7658|Versöhnungssex|der Versöhnungssex
@@ -3043,7 +3043,7 @@
 7679|ener|die Energie
 7680|Koksdröhnung|die Koksdröhnung
 7681|Hormonstörung|die Hormonstörung
-7684|Multiplayer-Mode|der Multiplayer-Modus
+7684|Multiplayer-Mode|der Multiplayer-Mode
 7686|riechst|riechen
 7687|Ohh|Ohh
 7688|Herpe|der Herpes
@@ -3052,14 +3052,14 @@
 7701|jizzn|jizzn
 7702|wüsen|wüsen
 7705|Schlüpfer-Pic|das Schlüpfer-Pic
-7706|Appartmentschlüssel|der Apartmentschlüssel
+7706|Appartmentschlüssel|der Appartmentschlüssel
 7709|Schamhaarbüschel|das Schamhaarbüschel
 7710|hätten|haben
 7711|duen|duen
 7713|Egal|egal
 7717|sike|sike
-7720|Lederkostüme|das Lederkostüm
-7722|Ü-30ern|die Ü-30er
+7720|Lederkostüme|die Lederkostüme
+7722|Ü-30ern|Ü-30ern
 7723|Füßen|der Fuß
 7727|untenrum|untenrum
 7728|fickbar|fickbar
@@ -3090,9 +3090,9 @@
 7799|gefangn|gefangen
 7805|allerschönster|allerschönst
 7811|Stellst|stellen
-7812|Meisten|die Meiste
+7812|Meisten|die Meisten
 7817|boykottiere|boykottieren
-7818|Realitäteretä|Realitäteretä
+7818|Realitäteretä|die Realität
 7823|jeh|jeh
 7824|anhatte|anhaben
 7825|Psychopharmaka|die Psychopharmaka
@@ -3103,7 +3103,7 @@
 7839|amoklaufen|amoklaufen
 7841|unterzugehen|untergehen
 7842|bababa|bababa
-7845|FREAK|FREAK
+7845|FREAK|der Freak
 7847|Gebaut|bauen
 7850|JAAA|JAAA
 7851|WIE|wie
@@ -3128,13 +3128,13 @@
 7891|Iso-Drink|der Iso-Drink
 7894|sitz|sitzen
 7895|Gummi-Twist|der Gummi-Twist
-7896|Geilste|die Geilste
+7896|Geilste|das Geilste
 7898|ficksen|ficksen
 7901|Gaumenglut|die Gaumenglut
 7903|Brüsseler|der Brüsseler
 7906|One|One
-7907|two|two
-7908|three|three
+7907|two|Zwei
+7908|three|Drei
 7909|Stehst|stehen
 7911|Kehrst|kehren
 7912|Resi|Resi
@@ -3155,7 +3155,7 @@
 7954|lockeren|locker
 7955|verpiss|verpissen
 7957|Menno|Menno
-7959|vierter|vierter
+7959|vierter|der Vierte
 7961|A3|A3
 7964|Heißt|heißen
 7965|Rosie|Rosie
@@ -3176,11 +3176,11 @@
 8012|verzeih|verzeihen
 8013|Nimmst|nehmen
 8015|umbringn|umbringen
-8017|Kurt|Kurt
-8018|Cobain|Cobain
+8017|Kurt|der Kurt
+8018|Cobain|der Cobain
 8027|Insgeheim|insgeheim
 8029|Spring|springen
-8031|Macce|Macce
+8031|Macce|die Macce
 8037|totschick|totschick
 8038|bemerkst|bemerken
 8041|schmissen|schmeißen
@@ -3194,17 +3194,17 @@
 8072|Geflogen|fliegen
 8073|Legt|legen
 8074|Deinn|dein
-8075|Lizzard|Lizzard
-8076|Lazy|lazy
+8075|Lizzard|die Lizzard
+8076|Lazy|Lazy
 8081|Drive-in|der Drive-in
 8082|Lizzard-Gang-Übеrfall|der Lizzard-Gang-Übеrfall
-8084|Group|die Group
+8084|Group|die Gruppe
 8085|wiе|wie
-8086|Blue|Blue
-8087|BMG|BMG
+8086|Blue|das Blau
+8087|BMG|die BMG
 8088|bloomen|bloomen
 8090|farbenlos|farbenlos
-8093|Roof|das Roof
+8093|Roof|das Dach
 8095|Balenciaga-Shirt|das Balenciaga-Shirt
 8096|Bottega-Veneta-Schuh|der Bottega-Veneta-Schuh
 8097|Terrorcrew|die Terrorcrew
@@ -3216,15 +3216,15 @@
 8106|Gebäudeschatten|der Gebäudeschatten
 8108|euren|euer
 8116|bringn|bringen
-8117|80er|die Achtziger
-8119|air|air
+8117|80er|achtziger
+8119|air|die Luft
 8120|Aviator|der Aviator
 8122|Streuen|streuen
 8127|verspätet|verspäten
 8128|Kuck|gucken
 8130|Treten|treten
 8133|gestartet|starten
-8134|NASA|NASA
+8134|NASA|die NASA
 8136|übl|übel
 8138|Legen|legen
 8140|pfiuu|pfiuu
@@ -3244,14 +3244,14 @@
 8176|Hupen|die Hupe
 8178|by|by
 8180|Chabo|der Chabo
-8182|Canos|Canos
-8184|Beuys|Beuys
+8182|Canos|die Canos
+8184|Beuys|der Beuys
 8189|Irgendjemand|irgendjemand
 8191|vida|vida
 8192|loca|loca
-8194|Weiber|die Weiber
+8194|Weiber|die Frauen
 8198|Zocken|zocken
-8199|Reichwerden|reichwerden
+8199|Reichwerden|das Reichwerden
 8200|Yüah|Yüah
 8202|Bekam|bekommen
 8203|Traf|treffen
@@ -3260,23 +3260,23 @@
 8210|Excel-Liste|die Excel-Liste
 8212|25|fünfundzwanzig
 8219|Euer|euer
-8223|Paparazzi|der Paparazzi
+8223|Paparazzi|die Paparazzi
 8224|Also|also
 8226|solltet|sollen
-8228|Yassin|Yassin
+8228|Yassin|der Yassin
 8229|gottesgleich|gottesgleich
 8231|Servus|Servus
 8235|Clubtoilettendeckel|der Clubtoilettendeckel
 8237|Sektentreffen|das Sektentreffen
 8239|Porzellanaltar|der Porzellanaltar
 8240|Partygott|der Partygott
-8244|Geweihte|der Geweihte
+8244|Geweihte|die Geweihte
 8247|drop|drop
 8249|Partykirche|die Partykirche
 8252|Audio88|Audio88
-8257|Noahs|Noahs
+8257|Noahs|die Noahs
 8262|meiselen|meißeln
-8269|Bull|Bull
+8269|Bull|der Bull
 8273|every|every
 8274|Seht|sehen
 8275|Oh-oh-oh|Oh-oh-oh
@@ -3286,7 +3286,7 @@
 8281|hassdie|hassen
 8282|dassind|das sind
 8284|Och|Och
-8285|Schatzi|Schatzi
+8285|Schatzi|das Schatzi
 8286|chill|chillen
 8287|ugly|ugly
 8288|leistеn|leisten
@@ -3295,10 +3295,10 @@
 8293|anhat|anhaben
 8296|Louis-V-Tasche|die Louis-V-Tasche
 8299|Sozialer|der Soziale
-8301|Kraftklub|Kraftklub
-8302|Wars|Wars
-8305|Harry|Harry
-8306|Potter|Potter
+8301|Kraftklub|der Kraftklub
+8302|Wars|die Kriege
+8305|Harry|der Harry
+8306|Potter|der Potter
 8308|Äußerliche|die Äußerlichkeit
 8311|Cruciatusfluch|der Cruciatusfluch
 8320|isen|sein
@@ -3306,21 +3306,21 @@
 8325|Leugne|leugnen
 8326|fällst|fallen
 8327|9|neun
-8330|Steinbach|Steinbach
-8331|Julian|Julian
-8332|Reichelt|Reichelt
+8330|Steinbach|der Steinbach
+8331|Julian|der Julian
+8332|Reichelt|der Reichelt
 8334|Drastische|das Drastische
-8337|Uncle|Uncle
-8338|Sam|Sam
+8337|Uncle|der Onkel
+8338|Sam|der Sam
 8345|Wisst|wissen
 8349|Guantanamo|Guantanamo
 8350|schlag|schlagen
-8352|Schärfste|die Schärfste
+8352|Schärfste|das Schärfste
 8362|Guter|der Gute
-8364|schelgan|schelgen
-8366|Bay|Bay
+8364|schelgan|schelgan
+8366|Bay|die Bucht
 8371|Friedensdynamik|die Friedensdynamik
-8372|Amnesty|Amnesty
+8372|Amnesty|die Amnesty
 8375|tauschn|tauschen
 8377|tausch|tauschen
 8378|abgebogen|abbiegen
@@ -3328,10 +3328,10 @@
 8386|Diskutieren|diskutieren
 8387|Nehmt|nehmen
 8391|Fliesenlegerinne|die Fliesenlegerin
-8394|Uro-|Uro-
-8395|Kardio-|Kardio-
+8394|Uro-|die Urologie
+8395|Kardio-|die Kardiologie
 8396|Proktologe|der Proktologe
-8397|Straf|die Straf
+8397|Straf|die Strafe
 8401|impf|impfen
 8402|Dachte|denken
 8403|whoa|whoa
