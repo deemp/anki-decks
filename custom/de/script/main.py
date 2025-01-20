@@ -40,18 +40,14 @@ article_mapping = pd.DataFrame(
 )
 
 
-def get_noun_articles(nouns: pd.DataFrame):
+def get_lemmas_articles(nouns: pd.DataFrame):
     dewiki_noun_articles = pd.read_csv("data/dewiki-noun-articles.csv", sep="|")
-    lemma_initial = "lemma_initial"
     lemma = "lemma"
-    nouns_local = pd.DataFrame(nouns)
-    nouns_local[lemma_initial] = nouns_local[lemma]
-    nouns_with_articles = nouns_local.join(
+    lemmas_initial = pd.DataFrame(nouns[lemma].map(mk_word))
+    lemmas_with_articles = lemmas_initial.join(
         other=dewiki_noun_articles.set_index(lemma), on=lemma
-    ).sort_values(lemma_initial)
-    nouns_with_articles[lemma] = nouns_with_articles[lemma_initial]
-    nouns_with_articles.drop(columns=[lemma_initial], inplace=True)
-    return nouns_with_articles
+    )
+    return lemmas_with_articles
 
 
 lemmata = pd.read_csv("data/dwds_lemmata_2025-01-15.csv")
