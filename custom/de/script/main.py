@@ -104,13 +104,27 @@ def get_word_lists():
     lyrics_lemmatized.to_csv("data/lyrics-words.csv")
 
     is_lemma_cond = lyrics_lemmatized["word"].isin(lemmata["lemma"])
+
     words_not_lemmas = lyrics_lemmatized[~is_lemma_cond]
+    words_not_lemmas_existing = pd.read_csv(
+        "data/lyrics-words-not-lemmas.csv", sep="|", index_col=0
+    )
+    words_not_lemmas = words_not_lemmas.join(words_not_lemmas_existing, rsuffix="_r")
+    words_not_lemmas.drop(columns=["word_r", "author", "title"], inplace=True)
+    words_not_lemmas = words_not_lemmas[
+        ~words_not_lemmas["word"].duplicated()
+    ].sort_index()
+    words_not_lemmas.to_csv("data/lyrics-words-not-lemmas.csv", sep="|")
+
     words_lemmas = lyrics_lemmatized[is_lemma_cond]
-
-    words_not_lemmas["word"].to_csv("data/lyrics-words-not-lemmas.csv", sep="|")
-
     words_lemmas = words_lemmas.rename(columns={"word": "lemma"})
-    words_lemmas["lemma"].to_csv("data/lyrics-words-lemmas.csv", sep="|")
+    words_lemmas_existing = pd.read_csv(
+        "data/lyrics-words-lemmas.csv", sep="|", index_col=0
+    )
+    words_lemmas = words_lemmas.join(words_lemmas_existing, rsuffix="_r")
+    words_lemmas.drop(columns=["author", "title", "lemma_r"], inplace=True)
+    words_lemmas = words_lemmas[~words_lemmas["lemma"].duplicated()].sort_index()
+    words_lemmas.to_csv("data/lyrics-words-lemmas.csv", sep="|")
 
 
 get_word_lists()
