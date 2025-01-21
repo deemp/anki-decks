@@ -55,11 +55,13 @@
 54.0|viel
 55.0|zu
 56.0|groß
-57.0|Lassen
+57.0|lassen
 58.0|mich
 59.0|los
+59.0001|los lassen
 60.0|man
 61.0|schlagen
+61.0001|vorschlagen
 62.0|der Handel
 63.0|vor
 64.0|willigen
@@ -80,8 +82,8 @@
 79.0|bringen
 80.0|herein
 81.0|die Tausend
-81.1|das Tausend
-81.2|der Tausend
+81.001|das Tausend
+81.002|der Tausend
 82.0|schwarz
 83.0|Fluß
 84.0|stürzen
@@ -133,7 +135,7 @@
 138.0|zeigen
 139.0|dein
 140.0|der Mast
-140.1|die Mast
+140.001|die Mast
 141.0|werfen
 142.0|der Anker
 143.0|schnell
@@ -148,7 +150,7 @@
 156.0|schleichen
 157.0|sich
 158.0|der Mensch
-158.1|das Mensch
+158.001|das Mensch
 159.0|die Menge
 160.0|ganz
 161.0|die Fährte
@@ -176,7 +178,7 @@
 184.0|das Fleisch
 185.0|das Fell
 186.0|das Haar
-186.1|die Haar
+186.001|die Haar
 187.0|die Haut
 188.0|das Glied
 189.0|das Blut
@@ -248,7 +250,7 @@
 260.0|der Sündenfall
 261.0|der Rest
 262.0|der Eimer
-262.1|die Eimer
+262.001|die Eimer
 263.0|lauter
 265.0|der Greis
 266.0|das Mädchen
@@ -290,7 +292,7 @@
 309.0|nun
 311.0|süß
 312.0|der Mund
-312.1|die Mund
+312.001|die Mund
 313.0|das Auge
 314.0|wie
 315.0|der Mondenschein
@@ -309,7 +311,7 @@
 329.0|sagen
 330.0|warum
 331.0|der Tag
-331.1|das Tag
+331.001|das Tag
 334.0|befreien
 336.0|verehren
 338.0|die Minne
@@ -350,7 +352,7 @@
 378.0|der Stahl
 379.0|worin
 380.0|der Sinn
-380.1|die Sinn
+380.001|die Sinn
 381.0|dass
 382.0|der Superheld
 383.0|ob
@@ -401,12 +403,12 @@
 439.0|bös
 440.0|das Opfer
 441.0|der Gang
-441.1|die Gang
+441.001|die Gang
 444.0|Basecap
 445.0|nimmer
 446.0|schwul
 447.0|das Getto
-447.1|der Getto
+447.001|der Getto
 448.0|unbarmherzig
 449.0|homophob
 450.0|unten
@@ -465,7 +467,7 @@
 518.0|jetzt
 520.0|der Inhalt
 521.0|das Loch
-521.1|der Loch
+521.001|der Loch
 522.0|gleich
 523.0|gehören
 524.0|das Adrenalin
@@ -538,7 +540,7 @@
 614.0|existieren
 615.0|tot
 616.0|das Teil
-616.1|der Teil
+616.001|der Teil
 617.0|schleppen
 618.0|die Karawane
 620.0|öd
@@ -558,7 +560,7 @@
 636.0|das Lamm
 637.0|damit
 638.0|der Wolf
-638.1|die Wolf
+638.001|die Wolf
 639.0|fressen
 640.0|das Schwert
 641.0|ziehen
@@ -570,7 +572,7 @@
 647.0|der Kirschbaum
 648.0|steigen
 649.0|der See
-649.1|die See
+649.001|die See
 651.0|betören
 652.0|grün
 653.0|das Licht
@@ -613,7 +615,7 @@
 692.0|schaden
 693.0|klemmen
 694.0|der Hode
-694.1|die Hode
+694.001|die Hode
 695.0|rasieren
 696.0|das Bein
 697.0|das Mieder
@@ -659,7 +661,7 @@
 744.0|die Richtung
 745.0|die Vernichtung
 746.0|der Sieg
-746.1|die Sieg
+746.001|die Sieg
 747.0|die Vernunft
 748.0|unterdrücken
 749.0|vereinen
@@ -703,7 +705,7 @@
 802.0|sitzen
 803.0|eigen
 804.0|das Boot
-804.1|der Boot
+804.001|der Boot
 805.0|der Wohlstand
 806.0|die Brut
 807.0|vergessen
@@ -731,7 +733,7 @@
 837.0|die Biene
 838.0|der Terror
 841.0|der Pole
-841.1|die Pole
+841.001|die Pole
 842.0|schmelzen
 843.0|die Regierung
 844.0|die Grenze
@@ -805,7 +807,7 @@
 924.0|die Feile
 925.0|backen
 926.0|das Mittel
-926.1|die Mittel
+926.001|die Mittel
 927.0|der Staat
 929.0|bitte
 930.0|der Oregano
@@ -820,7 +822,7 @@
 942.0|wunderschön
 945.0|verpissen
 947.0|der Moment
-947.1|das Moment
+947.001|das Moment
 948.0|akzeptieren
 949.0|drüber
 950.0|diskutieren
@@ -856,9 +858,9 @@
 990.0|tschüß
 992.0|willen
 993.0|das Ghetto
-993.1|der Ghetto
+993.001|der Ghetto
 995.0|der Alter
-995.1|das Alter
+995.001|das Alter
 997.0|der Schlaf
 998.0|etwas
 1000.0|die Fliese
@@ -873,7 +875,7 @@
 1013.0|fatal
 1014.0|die Schminke
 1015.0|der Kajal
-1015.1|das Kajal
+1015.001|das Kajal
 1016.0|der Todesengel
 1017.0|der Kuss
 1019.0|spitz
@@ -894,7 +896,7 @@
 1042.0|die Liebeskunst
 1043.0|bekannt
 1044.0|der Ort
-1044.1|das Ort
+1044.001|das Ort
 1045.0|fort
 1046.0|der G-Punkt
 1048.0|das I
@@ -910,7 +912,7 @@
 1075.0|das Meer
 1076.0|der Berg
 1077.0|der Kunde
-1077.1|die Kunde
+1077.001|die Kunde
 1078.0|Afrika
 1079.0|das A
 1092.0|dry
@@ -976,7 +978,7 @@
 1186.0|laufen
 1187.0|das Wasser
 1188.0|das Tempo
-1188.1|der Tempo
+1188.001|der Tempo
 1189.0|mithalten
 1190.0|sofort
 1191.0|offen
@@ -990,7 +992,7 @@
 1202.0|schick
 1203.0|setzen
 1204.0|der Hut
-1204.1|die Hut
+1204.001|die Hut
 1206.0|ticken
 1208.0|Hol
 1209.0|kicken
@@ -1017,7 +1019,7 @@
 1241.0|taugen
 1242.0|ran
 1243.0|das Bar
-1243.1|die Bar
+1243.001|die Bar
 1244.0|labern
 1245.0|die Lady
 1246.0|sieben
@@ -1089,7 +1091,7 @@
 1375.0|obszön
 1376.0|außen
 1377.0|die Schar
-1377.1|das Schar
+1377.001|das Schar
 1379.0|das Erbarmen
 1383.0|der Untergang
 1384.0|vermissen
@@ -1179,7 +1181,6 @@
 1491.0|straight
 1492.0|back
 1493.0|die Realität
-1494.0|geil
 1494.0|Geile
 1495.0|das Thema
 1500.0|der Satz
@@ -1203,12 +1204,12 @@
 1524.0|der Umhang
 1526.0|der Brandenburger
 1527.0|das Tor
-1527.1|der Tor
+1527.001|der Tor
 1528.0|makaber
 1530.0|lila
 1531.0|Leggings
 1535.0|der Schild
-1535.1|das Schild
+1535.001|das Schild
 1537.0|hetzen
 1538.0|zwinkern
 1539.0|entzücken
@@ -1228,7 +1229,7 @@
 1555.0|achtzehn
 1556.0|der März
 1557.0|der Koch
-1557.1|das Koch
+1557.001|das Koch
 1558.0|die Bühne
 1559.0|empören
 1561.0|der Satan
@@ -1296,8 +1297,8 @@
 1645.0|laut
 1646.0|beschweren
 1647.0|das Band
-1647.1|der Band
-1647.2|die Band
+1647.001|der Band
+1647.002|die Band
 1648.0|erwähnen
 1649.0|beschimpfen
 1650.0|zerren
@@ -1339,13 +1340,13 @@
 1695.0|der After
 1697.0|der Chef
 1700.0|der Grad
-1700.1|das Grad
+1700.001|das Grad
 1702.0|der Lebenslauf
 1704.0|sympathisch
 1705.0|seriös
 1706.0|das Foto
-1706.1|die Foto
-1706.2|der Foto
+1706.001|die Foto
+1706.002|der Foto
 1709.0|erscheinen
 1710.0|reinkommen
 1711.0|rauskommen
@@ -1396,7 +1397,7 @@
 1774.0|das Glas
 1775.0|verpassen
 1777.0|der Bus
-1777.1|die Bus
+1777.001|die Bus
 1778.0|einrichten
 1779.0|nix
 1780.0|die Lügengeschichte
@@ -1404,7 +1405,7 @@
 1782.0|obwohl
 1784.0|versprechen
 1785.0|der Monat
-1785.1|das Monat
+1785.001|das Monat
 1786.0|der Marquis
 1789.0|planen
 1790.0|die Nadel
@@ -1439,7 +1440,7 @@
 1827.0|schmecken
 1828.0|bestreuen
 1829.0|das Sandwich
-1829.1|der Sandwich
+1829.001|der Sandwich
 1830.0|wen
 1831.0|Fischöl
 1832.0|tauchen
@@ -1525,11 +1526,11 @@
 1944.0|die Sternschnuppe
 1945.0|das Gewicht
 1946.0|das Radio
-1946.1|der Radio
+1946.001|der Radio
 1951.0|zanken
 1953.0|romantisch
 1955.0|der Ex
-1955.1|die Ex
+1955.001|die Ex
 1957.0|ratsam
 1960.0|küssen
 1962.0|checken
@@ -1568,18 +1569,18 @@
 2002.0|die Solidarität
 2003.0|statt
 2004.0|der Morgen
-2004.1|das Morgen
+2004.001|das Morgen
 2005.0|brechen
 2007.0|das Luftschloss
 2011.0|die Bitte
 2012.0|dreißig
 2013.0|die Sorte
 2014.0|der Joghurt
-2014.1|die Joghurt
-2014.2|das Joghurt
+2014.001|die Joghurt
+2014.002|das Joghurt
 2015.0|das Regal
 2018.0|der Zimt
-2018.1|das Zimt
+2018.001|das Zimt
 2019.0|die Wahl
 2020.0|die Achsel
 2021.0|das Deodorant
@@ -1588,14 +1589,14 @@
 2027.0|das Sushi
 2028.0|die Wurst
 2029.0|die Cola
-2029.1|das Cola
+2029.001|das Cola
 2030.0|löschen
 2031.0|der Durst
 2032.0|welches
 2033.0|das Handy
 2034.0|die Nummer
 2035.0|die App
-2035.1|das App
+2035.001|das App
 2036.0|der Depp
 2037.0|der Kopfschmerz
 2048.0|bloß
@@ -1613,8 +1614,8 @@
 2066.0|die Übersicht
 2067.0|die Therapie
 2068.0|das Viertel
-2068.1|der Viertel
-2068.2|die Viertel
+2068.001|der Viertel
+2068.002|die Viertel
 2069.0|siebzehn
 2070.0|der Therapeut
 2071.0|verdammt
@@ -1628,7 +1629,7 @@
 2083.0|platt
 2084.0|der Wald
 2085.0|der Chor
-2085.1|das Chor
+2085.001|das Chor
 2086.0|die Krone
 2087.0|die Schöpfung
 2088.0|aha
@@ -1641,6 +1642,7 @@
 2096.0|erfinden
 2097.0|das Fernsehprogramm
 2098.0|Kaffeevollautomat
+2100.0|geil
 2101.0|der Überschall
 2102.0|reisen
 2103.0|der Berufsverkehr
@@ -1690,7 +1692,7 @@
 2154.0|rollen
 2155.0|der Punkrock
 2156.0|der Elternteil
-2156.1|das Elternteil
+2156.001|das Elternteil
 2158.0|die Klasse
 2160.0|teuer
 2161.0|die Kutte
@@ -1774,13 +1776,13 @@
 2277.0|kiffen
 2278.0|Peter
 2280.0|die Demo
-2280.1|das Demo
+2280.001|das Demo
 2281.0|das Krankenhaus
 2282.0|das Abi
-2282.1|der Abi
+2282.001|der Abi
 2283.0|der Rucksack
 2284.0|die Uni
-2284.1|das Uni
+2284.001|das Uni
 2286.0|das Semester
 2287.0|BWL
 2288.0|der Abschluss
@@ -1835,7 +1837,7 @@
 2365.0|Push
 2366.0|pushen
 2369.0|der Ekel
-2369.1|das Ekel
+2369.001|das Ekel
 2371.0|das Produkt
 2372.0|achtzig
 2373.0|spucken
@@ -1847,7 +1849,7 @@
 2381.0|außer
 2382.0|der Gewinner
 2383.0|der Fall
-2383.1|das Fall
+2383.001|das Fall
 2384.0|verweichlichen
 2385.0|die Befindlichkeit
 2386.0|die Ahnung
@@ -1926,10 +1928,10 @@
 2491.0|die Netzhaut
 2492.0|das Gewächshaus
 2494.0|die Luft
-2494.1|der Luft
+2494.001|der Luft
 2497.0|der CO₂-Fußabdruck
 2498.0|der Check-in
-2498.1|das Check-in
+2498.001|das Check-in
 2500.0|das Gepäck
 2501.0|die Infektion
 2502.0|das Stresshormon
@@ -1983,11 +1985,11 @@
 2568.0|die Geburt
 2570.0|indigen
 2571.0|der Tattoo
-2571.1|das Tattoo
+2571.001|das Tattoo
 2572.0|die Frisur
 2575.0|ey
 2577.0|der Mate
-2577.1|die Mate
+2577.001|die Mate
 2579.0|der Narr
 2581.0|der Vegetarier
 2585.0|das Probetraining
@@ -2023,7 +2025,7 @@
 2624.0|Ferienparadies
 2625.0|mittelschwer
 2627.0|der Schoß
-2627.1|die Schoß
+2627.001|die Schoß
 2628.0|via
 2629.0|die Airline
 2630.0|das Floß
@@ -2112,8 +2114,8 @@
 2745.0|das Ergebnis
 2746.0|unfassbar
 2747.0|der Clickbait
-2747.1|das Clickbait
-2747.2|die Clickbait
+2747.001|das Clickbait
+2747.002|die Clickbait
 2749.0|leisten
 2750.0|die Leistungsgesellschaft
 2751.0|die Selbstachtung
@@ -2130,12 +2132,12 @@
 2766.0|das Weizenkorn
 2767.0|das Album
 2768.0|der Laden
-2768.1|das Laden
+2768.001|das Laden
 2769.0|der Scherzartikel
 2771.0|nachher
 2774.0|trashig
 2775.0|der Tape
-2775.1|das Tape
+2775.001|das Tape
 2776.0|Retro
 2778.0|der Bildner
 2779.0|der Schnurrbart
@@ -2183,13 +2185,13 @@
 2841.0|die Kirche
 2843.0|die Kontrolle
 2845.0|die E-Mail
-2845.1|das E-Mail
+2845.001|das E-Mail
 2846.0|der Trojaner
 2847.0|das Geheimnis
 2849.0|relativ
 2850.0|gesprächig
 2851.0|das Messer
-2851.1|der Messer
+2851.001|der Messer
 2852.0|die Kehle
 2853.0|die Sauna
 2854.0|das Kino
@@ -2197,7 +2199,7 @@
 2857.0|das Guckloch
 2858.0|der Rohstoff
 2859.0|der Tropfen
-2859.1|das Tropfen
+2859.001|das Tropfen
 2860.0|die Wanze
 2862.0|das Arschloch
 2863.0|bemerken
@@ -2250,7 +2252,7 @@
 2917.0|das Original
 2918.0|die Kühlerfigur
 2919.0|der Golf
-2919.1|das Golf
+2919.001|das Golf
 2920.0|schwach
 2921.0|toll
 2922.0|oll
@@ -2281,7 +2283,7 @@
 2965.0|lose
 2966.0|der Apfel
 2967.0|das Mus
-2967.1|der Mus
+2967.001|der Mus
 2970.0|hinken
 2971.0|duften
 2972.0|stinken
@@ -2294,7 +2296,7 @@
 2980.0|der Schmied
 2981.0|ersticken
 2982.0|der Bulle
-2982.1|die Bulle
+2982.001|die Bulle
 2984.0|einschlagen
 2986.0|der Fernseher
 2987.0|die Unwissenheit
@@ -2340,10 +2342,10 @@
 3052.0|das Klassentreffen
 3053.0|die Weinverkostung
 3054.0|das Blei
-3054.1|der Blei
+3054.001|der Blei
 3055.0|gießen
 3056.0|der Silvester
-3056.1|das Silvester
+3056.001|das Silvester
 3057.0|der Kassenbon
 3059.0|international
 3060.0|die Fanmeile
@@ -2352,7 +2354,7 @@
 3064.0|die Phase
 3067.0|neidisch
 3068.0|der Bock
-3068.1|das Bock
+3068.001|das Bock
 3069.0|der Quatsch
 3070.0|scheiße
 3073.0|imposant
@@ -2377,7 +2379,7 @@
 3100.0|die Kritik
 3102.0|Schönheitsschlaf
 3103.0|der Flur
-3103.1|die Flur
+3103.001|die Flur
 3104.0|der DJ
 3106.0|fein
 3108.0|das Phänomen
@@ -2475,7 +2477,7 @@
 3236.0|Proberaum
 3237.0|die Erfüllung
 3238.0|das Model
-3238.1|der Model
+3238.001|der Model
 3239.0|die Zahnspange
 3240.0|das Konzert
 3242.0|schämen
@@ -2483,7 +2485,7 @@
 3244.0|erlösen
 3245.0|high
 3247.0|der VIP
-3247.1|die VIP
+3247.001|die VIP
 3249.0|erbärmlich
 3251.0|zugeben
 3252.0|kultiviert
@@ -2541,7 +2543,7 @@
 3323.0|der Trainer
 3325.0|die Jogginghose
 3327.0|der Euro
-3327.1|die Euro
+3327.001|die Euro
 3329.0|entschieden
 3331.0|der Verlierer
 3335.0|Louis
@@ -2564,9 +2566,9 @@
 3374.0|Plattenbaugebiet
 3375.0|der Rand
 3378.0|die Jeans
-3378.1|das Jeans
+3378.001|das Jeans
 3379.0|die Hundert
-3379.1|das Hundert
+3379.001|das Hundert
 3380.0|ansehen
 3381.0|die Lederjacke
 3382.0|weiterverkaufen
@@ -2608,7 +2610,7 @@
 3425.0|die Ausbeutung
 3426.0|kratzen
 3427.0|der Patriarchat
-3427.1|das Patriarchat
+3427.001|das Patriarchat
 3428.0|dadurch
 3429.0|Longdrink
 3430.0|die Sonnenliege
@@ -2631,7 +2633,7 @@
 3453.0|einführen
 3454.0|vermöbeln
 3455.0|der Quark
-3455.1|das Quark
+3455.001|das Quark
 3456.0|das Essen
 3458.0|der Respekt
 3460.0|die Konsole
@@ -2681,9 +2683,9 @@
 3514.0|die Hürde
 3516.0|die Klausur
 3517.0|das Paar
-3517.1|die Paar
+3517.001|die Paar
 3518.0|das Like
-3518.1|der Like
+3518.001|der Like
 3519.0|der Vertrag
 3520.0|Ne
 3521.0|zoomen
@@ -2693,7 +2695,7 @@
 3527.0|rau
 3528.0|grau
 3529.0|der Teer
-3529.1|das Teer
+3529.001|das Teer
 3530.0|zusammenpferchen
 3531.0|der Dampfer
 3532.0|sin
@@ -2706,7 +2708,7 @@
 3540.0|die Kartoffel
 3541.0|der Haufen
 3542.0|der Kristall
-3542.1|das Kristall
+3542.001|das Kristall
 3543.0|das Methamphetamin
 3544.0|schwingen
 3545.0|der Takt
@@ -2737,7 +2739,7 @@
 3576.0|schaudern
 3577.0|draußen
 3578.0|der Bauer
-3578.1|das Bauer
+3578.001|das Bauer
 3579.0|ersaufen
 3580.0|der Rettungsring
 3581.0|der Westen
@@ -2752,7 +2754,7 @@
 3595.0|lächeln
 3598.0|der Vorname
 3599.0|der Kaffee
-3599.1|das Kaffee
+3599.001|das Kaffee
 3600.0|der Stand
 3602.0|die Drohne
 3603.0|beinah
@@ -2761,12 +2763,12 @@
 3609.0|das Camp
 3611.0|der Februar
 3612.0|die Riß
-3612.1|das Riß
+3612.001|das Riß
 3615.0|Schuß
 3616.0|die Maske
 3617.0|die Pandemie
 3618.0|das Virus
-3618.1|der Virus
+3618.001|der Virus
 3619.0|wuschen
 3620.0|ungelogen
 3622.0|der Virologe
@@ -2897,16 +2899,16 @@
 3795.0|die Katzenwäsche
 3798.0|das Abendbrot
 3800.0|die Rolle
-3800.1|der Rolle
-3800.2|das Rolle
+3800.001|der Rolle
+3800.002|das Rolle
 3801.0|der Pick
 3802.0|der Enkeltrick
 3803.0|der Van
 3804.0|der Sitz
 3805.0|die Felge
 3806.0|der Stift
-3806.1|das Stift
-3806.2|die Stift
+3806.001|das Stift
+3806.002|die Stift
 3807.0|ah
 3810.0|der Tipp
 3811.0|das Lieblingswort
@@ -3035,7 +3037,7 @@
 3997.0|strahlen
 3998.0|die Rippe
 3999.0|der Husten
-3999.1|das Husten
+3999.001|das Husten
 4000.0|endlos
 4001.0|die Sitte
 4003.0|die Umwelt
@@ -3044,7 +3046,7 @@
 4006.0|der Deich
 4008.0|der Boom
 4009.0|der Bumerang
-4009.1|das Bumerang
+4009.001|das Bumerang
 4010.0|der Ruf
 4012.0|pleite
 4013.0|das Sofa
@@ -3059,7 +3061,7 @@
 4030.0|nerven
 4031.0|der Ausländer
 4035.0|das Deutsche
-4035.1|die Deutsche
+4035.001|die Deutsche
 4038.0|die Pointe
 4039.0|linksradikal
 4040.0|das No
@@ -3074,7 +3076,7 @@
 4050.0|die Chemo
 4051.0|die Bedrohung
 4052.0|das Hashtag
-4052.1|der Hashtag
+4052.001|der Hashtag
 4053.0|die Mehrheit
 4054.0|schweigen
 4057.0|Latein
@@ -3084,7 +3086,7 @@
 4061.0|der Liebhaber
 4062.0|der Geek
 4063.0|der Blackout
-4063.1|das Blackout
+4063.001|das Blackout
 4064.0|das Lebewohl
 4067.0|die Hauptplatine
 4069.0|die Jahreszahl
@@ -3219,7 +3221,7 @@
 4266.0|das Ja
 4267.0|amen
 4268.0|die Vokabel
-4268.1|das Vokabel
+4268.001|das Vokabel
 4269.0|verpfeifen
 4270.0|der Hilfssheriff
 4271.0|der Lehrkörper
@@ -3296,7 +3298,7 @@
 4381.0|Schweden
 4383.0|die Mahlzeit
 4384.0|die Mark
-4384.1|das Mark
+4384.001|das Mark
 4385.0|inklusive
 4386.0|sparen
 4387.0|die Suppe
@@ -3343,7 +3345,7 @@
 4455.0|kürzlich
 4456.0|die Erhöhung
 4457.0|der Gehalt
-4457.1|das Gehalt
+4457.001|das Gehalt
 4458.0|nämlich
 4459.0|straff
 4460.0|organisieren
@@ -3405,7 +3407,7 @@
 4535.0|verschlechtern
 4536.0|fantastisch
 4537.0|das Wetter
-4537.1|der Wetter
+4537.001|der Wetter
 4538.0|der Knall
 4539.0|die Nachbarskatze
 4540.0|der Verkehrsunfall
@@ -3434,7 +3436,7 @@
 4571.0|entsetzlich
 4572.0|die Tat
 4574.0|das TV
-4574.1|der TV
+4574.001|der TV
 4576.0|übersteigen
 4577.0|die Vorstellungskraft
 4578.0|der Attentäter
@@ -3479,7 +3481,7 @@
 4634.0|bisher
 4635.0|trojanisch
 4636.0|der Reiter
-4636.1|die Reiter
+4636.001|die Reiter
 4637.0|biometrisch
 4638.0|der Querkopf
 4639.0|das Weltbild
@@ -3491,7 +3493,7 @@
 4647.0|ungeklärt
 4648.0|Klare
 4649.0|der Fakt
-4649.1|das Fakt
+4649.001|das Fakt
 4650.0|der Moses
 4651.0|hinterher
 4655.0|kaputt
@@ -3505,7 +3507,7 @@
 4671.0|abwehren
 4673.0|visionär
 4674.0|das Militär
-4674.1|der Militär
+4674.001|der Militär
 4676.0|klassifizierbar
 4685.0|das Gefecht
 4688.0|der Käfig
@@ -3563,7 +3565,7 @@
 4767.0|das Labyrinth
 4769.0|verschlingen
 4771.0|der Einzelteil
-4771.1|das Einzelteil
+4771.001|das Einzelteil
 4772.0|auseinandernehmen
 4773.0|erklimmen
 4775.0|begreifen
@@ -3637,7 +3639,7 @@
 4870.0|Berlin
 4871.0|der Gepäckträger
 4872.0|das Taxi
-4872.1|der Taxi
+4872.001|der Taxi
 4873.0|der Retter
 4874.0|der Nachtbus
 4875.0|quatschen
@@ -3656,10 +3658,10 @@
 4898.0|das Klatschen
 4899.0|die Tapete
 4900.0|die Machete
-4900.1|der Machete
+4900.001|der Machete
 4906.0|die Güte
 4908.0|das Pfand
-4908.1|der Pfand
+4908.001|der Pfand
 4910.0|der Hopfen
 4912.0|die Kotze
 4913.0|gelegentlich
@@ -3675,7 +3677,7 @@
 4927.0|der Abend
 4930.0|verschweigen
 4931.0|der Adonis
-4931.1|die Adonis
+4931.001|die Adonis
 4932.0|durchschnittlich
 4933.0|mittelmäßig
 4934.0|mittelalt
@@ -3684,7 +3686,7 @@
 4938.0|fair
 4939.0|der Metzger
 4940.0|die Erkenntnis
-4940.1|das Erkenntnis
+4940.001|das Erkenntnis
 4942.0|das Dasein
 4945.0|die Midlife-Crisis
 4946.0|martialisch
@@ -3701,8 +3703,8 @@
 4958.0|plündern
 4960.0|interessant
 4961.0|die Plastik
-4961.1|das Plastik
-4961.2|der Plastik
+4961.001|das Plastik
+4961.002|der Plastik
 4962.0|der Treffer
 4963.0|der Feuerschaden
 4964.0|das Lagerfeuer
@@ -3718,7 +3720,7 @@
 4977.0|der Sonntagnachmittag
 4978.0|die Schlacht
 4979.0|das Zelt
-4979.1|der Zelt
+4979.001|der Zelt
 4980.0|der Schweiß
 4981.0|die Pubertät
 4982.0|die Renaissance
@@ -3751,7 +3753,7 @@
 5027.0|die Verantwortung
 5029.0|glaubhaft
 5032.0|das Kondom
-5032.1|der Kondom
+5032.001|der Kondom
 5038.0|das Kalenderblatt
 5039.0|herunter
 5040.0|die Jalousie
@@ -3780,7 +3782,7 @@
 5082.0|brennend
 5083.0|die Karre
 5085.0|der Man
-5085.1|das Man
+5085.001|das Man
 5088.0|Jesus
 5090.0|different
 5094.0|power
@@ -3845,7 +3847,7 @@
 5205.0|anlassen
 5211.0|der Konsens
 5213.0|die Falafel
-5213.1|der Falafel
+5213.001|der Falafel
 5214.0|Polen
 5215.0|importieren
 5216.0|gammeln
@@ -3886,7 +3888,7 @@
 5277.0|das Genus
 5278.0|die Venus
 5281.0|das DIN
-5281.1|die DIN
+5281.001|die DIN
 5287.0|die Kindheit
 5288.0|der Aperitif
 5293.0|vietnamesisch
@@ -3906,7 +3908,7 @@
 5314.0|lyrisch
 5315.0|häuslich
 5318.0|der Tweet
-5318.1|das Tweet
+5318.001|das Tweet
 5323.0|subtil
 5325.0|der Nacken
 5326.0|die Ruhe
@@ -3930,7 +3932,7 @@
 5359.0|naschen
 5361.0|hierher
 5362.0|das Haschisch
-5362.1|der Haschisch
+5362.001|der Haschisch
 5363.0|der Likör
 5364.0|der Entschluss
 5365.0|zuziehen
@@ -3939,7 +3941,7 @@
 5368.0|der Hausflur
 5370.0|zetern
 5372.0|der Tee
-5372.1|das Tee
+5372.001|das Tee
 5376.0|wundern
 5377.0|das Erdgeschoss
 5380.0|artikulieren
@@ -3974,8 +3976,8 @@
 5423.0|Konterbier
 5424.0|exen
 5425.0|die Pro
-5425.1|der Pro
-5425.2|das Pro
+5425.001|der Pro
+5425.002|das Pro
 5426.0|Contra
 5427.0|wiegen
 5428.0|langwierig
@@ -3990,13 +3992,13 @@
 5445.0|radikalisieren
 5450.0|der Mittelfinger
 5451.0|der Hase
-5451.1|die Hase
+5451.001|die Hase
 5454.0|der Komet
 5455.0|der Krater
 5456.0|die Stereoanlage
 5457.0|Bel
 5458.0|das Air
-5458.1|die Air
+5458.001|die Air
 5460.0|Kommerz
 5462.0|bekennen
 5463.0|der Kommentar
@@ -4020,8 +4022,8 @@
 5487.0|die Sicherheit
 5488.0|das Gespenst
 5489.0|der Dings
-5489.1|die Dings
-5489.2|das Dings
+5489.001|die Dings
+5489.002|das Dings
 5490.0|nebenan
 5491.0|die Bundeswehr
 5492.0|der Einzug
@@ -4030,7 +4032,7 @@
 5495.0|der Postbote
 5496.0|beschatten
 5497.0|der Chihuahua
-5497.1|die Chihuahua
+5497.001|die Chihuahua
 5498.0|der Mittwoch
 5499.0|der Kosmetiksalon
 5500.0|der Flyer
@@ -4040,7 +4042,7 @@
 5506.0|der Untergrund
 5508.0|online
 5509.0|der Teller
-5509.1|das Teller
+5509.001|das Teller
 5512.0|zwischendurch
 5513.0|besuchen
 5514.0|verzweifeln
@@ -4069,7 +4071,7 @@
 5553.0|obdachlos
 5554.0|getigert
 5556.0|die Mode
-5556.1|der Mode
+5556.001|der Mode
 5557.0|hänseln
 5558.0|der Enkel
 5559.0|iPhone
@@ -4101,7 +4103,7 @@
 5634.0|die Horde
 5635.0|die Hymne
 5636.0|der Puff
-5636.1|das Puff
+5636.001|das Puff
 5639.0|ausbrennen
 5640.0|der Tellerrand
 5641.0|die Karriere
@@ -4117,7 +4119,7 @@
 5656.0|Dauerschleife
 5658.0|der Grill
 5659.0|der Schnitzel
-5659.1|das Schnitzel
+5659.001|das Schnitzel
 5660.0|Grünkern
 5661.0|die Garage
 5662.0|knibbeln
@@ -4152,7 +4154,7 @@
 5723.0|der Computer
 5725.0|das Trümmerfeld
 5727.0|der Meter
-5727.1|das Meter
+5727.001|das Meter
 5728.0|das Kinderbett
 5729.0|eingeschlossen
 5733.0|dazugehören
@@ -4162,7 +4164,7 @@
 5737.0|erlegen
 5739.0|früher
 5740.0|der Smalltalk
-5740.1|das Smalltalk
+5740.001|das Smalltalk
 5741.0|der Schwachkopf
 5742.0|der Tab
 5743.0|die Vergewaltigung
@@ -4172,10 +4174,10 @@
 5749.0|Speech
 5751.0|die KI
 5755.0|das Spam
-5755.1|der Spam
-5755.2|die Spam
+5755.001|der Spam
+5755.002|die Spam
 5756.0|die Mail
-5756.1|das Mail
+5756.001|das Mail
 5759.0|gefährlich
 5762.0|der Zerrspiegel
 5763.0|die Termite
@@ -4191,7 +4193,7 @@
 5775.0|Stimmungstief
 5776.0|der Staatsfeind
 5777.0|der Holocaust
-5777.1|das Holocaust
+5777.001|das Holocaust
 5779.0|die Dicke
 5781.0|der Reifen
 5783.0|sicherlich
@@ -4241,7 +4243,7 @@
 5846.0|die Verschwörung
 5847.0|bundesweit
 5848.0|das Banner
-5848.1|der Banner
+5848.001|der Banner
 5850.0|das Anagramm
 5851.0|allerhand
 5852.0|Geheimagent
@@ -4288,7 +4290,7 @@
 5912.0|der Autoverleih
 5914.0|anderthalb
 5915.0|der Boston
-5915.1|das Boston
+5915.001|das Boston
 5920.0|schillernd
 5922.0|auseinandergehen
 5926.0|erfolglos
@@ -4303,7 +4305,7 @@
 5939.0|Maklerprovision
 5942.0|mäh
 5943.0|der Rasen
-5943.1|das Rasen
+5943.001|das Rasen
 5944.0|kühl
 5946.0|der Sonnenuntergang
 5947.0|die Orientierung
@@ -4316,8 +4318,8 @@
 5956.0|die Fiesta
 5957.0|Nonstop
 5958.0|das Bravo
-5958.1|der Bravo
-5958.2|die Bravo
+5958.001|der Bravo
+5958.002|die Bravo
 5959.0|die CD
 5960.0|die Raste
 5961.0|die Autobahn
@@ -4331,7 +4333,7 @@
 5971.0|der Apfelsaft
 5973.0|geradeaus
 5974.0|der Gummi
-5974.1|das Gummi
+5974.001|das Gummi
 5975.0|der Motor
 5976.0|die Anzeige
 5977.0|blinken
@@ -4353,8 +4355,8 @@
 6003.0|der Absinth
 6005.0|die Oberseite
 6006.0|der Wirrwarr
-6006.1|das Wirrwarr
-6006.2|die Wirrwarr
+6006.001|das Wirrwarr
+6006.002|die Wirrwarr
 6015.0|die Pflicht
 6019.0|vollständig
 6023.0|aufsteigen
@@ -4368,10 +4370,10 @@
 6050.0|stampfen
 6052.0|mampfen
 6053.0|das Kebab
-6053.1|der Kebab
+6053.001|der Kebab
 6054.0|das Müsli
-6054.1|der Müsli
-6054.2|die Müsli
+6054.001|der Müsli
+6054.002|die Müsli
 6056.0|der Klang
 6059.0|fremdenfeindlich
 6071.0|die Ursache
@@ -4437,7 +4439,7 @@
 6215.0|der Burger
 6216.0|verdrücken
 6217.0|das Steuer
-6217.1|die Steuer
+6217.001|die Steuer
 6218.0|abschicken
 6219.0|die Siegerin
 6220.0|ablenken
@@ -4446,7 +4448,7 @@
 6229.0|die Maschine
 6232.0|das My
 6233.0|der Papa
-6233.1|die Papa
+6233.001|die Papa
 6239.0|he
 6243.0|missbilligen
 6244.0|neunziger
@@ -4459,10 +4461,10 @@
 6263.0|out
 6264.0|einige
 6274.0|das Alphabet
-6274.1|der Alphabet
+6274.001|der Alphabet
 6276.0|der Achter
 6283.0|die Havanna
-6283.1|der Havanna
+6283.001|der Havanna
 6284.0|so viel
 6287.0|hinbringen
 6290.0|später
@@ -4477,9 +4479,9 @@
 6318.0|der Schneesturm
 6319.0|das Kommando
 6320.0|der Bikini
-6320.1|das Bikini
+6320.001|das Bikini
 6324.0|der Transit
-6324.1|das Transit
+6324.001|das Transit
 6325.0|der Nix
 6326.0|der Mindestlohn
 6329.0|die Selbstständigkeit
@@ -4510,9 +4512,9 @@
 6356.0|entsprechen
 6358.0|der Saftladen
 6359.0|der Haarspray
-6359.1|das Haarspray
+6359.001|das Haarspray
 6360.0|der Spray
-6360.1|das Spray
+6360.001|das Spray
 6363.0|Mängelrüge
 6364.0|die Abwertung
 6369.0|erschüttern
@@ -4521,7 +4523,7 @@
 6372.0|die Kanzlei
 6373.0|die Verpackung
 6375.0|das Pack
-6375.1|der Pack
+6375.001|der Pack
 6376.0|die Gewohnheit
 6379.0|das Versteck
 6381.0|t
@@ -4588,7 +4590,7 @@
 6486.0|das Cabrio
 6488.0|die Umweltzone
 6489.0|das Heroin
-6489.1|die Heroin
+6489.001|die Heroin
 6491.0|der Papi
 6494.0|der Fahrradweg
 6499.0|das Schwarzfahren
@@ -4607,7 +4609,7 @@
 6518.0|der Schwerverbrecher
 6519.0|der Charmeur
 6520.0|das Flair
-6520.1|der Flair
+6520.001|der Flair
 6521.0|der Schwindler
 6522.0|ausschließlich
 6523.0|lebenslang
@@ -4636,7 +4638,7 @@
 6564.0|krumm
 6568.0|das Medium
 6569.0|das Overkill
-6569.1|der Overkill
+6569.001|der Overkill
 6571.0|verstärken
 6572.0|die Pauke
 6574.0|beben
@@ -4709,7 +4711,7 @@
 6721.0|verdrehen
 6725.0|linksextrem
 6726.0|die Back
-6726.1|der Back
+6726.001|der Back
 6729.0|schließlich
 6731.0|debattieren
 6732.0|arrangieren
@@ -4735,7 +4737,7 @@
 6761.0|bügeln
 6762.0|ordentlich
 6763.0|das Korn
-6763.1|der Korn
+6763.001|der Korn
 6765.0|anstellen
 6766.0|die Mutti
 6767.0|das Taschengeld
@@ -4760,7 +4762,7 @@
 6794.0|versterben
 6795.0|der Avatar
 6796.0|der Level
-6796.1|das Level
+6796.001|das Level
 6798.0|der Selbstmord
 6799.0|begehen
 6800.0|worauf
@@ -4885,7 +4887,7 @@
 7008.0|buckeln
 7009.0|der Hahn
 7010.0|die Orange
-7010.1|das Orange
+7010.001|das Orange
 7011.0|die Saftpresse
 7012.0|der Mettigel
 7013.0|die Hackfresse
@@ -4918,7 +4920,7 @@
 7060.0|das Datum
 7061.0|die Nanosekunde
 7062.0|der Primat
-7062.1|das Primat
+7062.001|das Primat
 7063.0|laden
 7064.0|sechstausend
 7065.0|die Fanfare
@@ -4933,7 +4935,7 @@
 7078.0|Löschung
 7079.0|die Quizshow
 7080.0|der Genozid
-7080.1|das Genozid
+7080.001|das Genozid
 7081.0|der Indianer
 7082.0|Teleshopping
 7083.0|griechisch
@@ -4945,7 +4947,7 @@
 7089.0|die Fantasie
 7091.0|das Genom
 7093.0|der Pogrom
-7093.1|das Pogrom
+7093.001|das Pogrom
 7094.0|der Strom
 7095.0|die Intelligenz
 7097.0|kapitulieren
@@ -4959,7 +4961,7 @@
 7108.0|das Futter
 7109.0|der Palast
 7111.0|der Nebel
-7111.1|die Nebel
+7111.001|die Nebel
 7112.0|die Ader
 7113.0|der Wille
 7114.0|der Feigling
@@ -4994,7 +4996,7 @@
 7177.0|Rechnungsbeleg
 7178.0|der Boss
 7179.0|das Laster
-7179.1|der Laster
+7179.001|der Laster
 7182.0|der Bastard
 7183.0|reinigen
 7184.0|die Seife
@@ -5039,7 +5041,7 @@
 7250.0|das Lachen
 7251.0|backpfeifen
 7252.0|der Reis
-7252.1|das Reis
+7252.001|das Reis
 7253.0|flennen
 7260.0|Repeat
 7261.0|ehren
@@ -5121,10 +5123,10 @@
 7398.0|die Enthüllung
 7399.0|die Befreiung
 7401.0|der Schock
-7401.1|das Schock
+7401.001|das Schock
 7403.0|die Wat
-7403.1|der Wat
-7403.2|das Wat
+7403.001|der Wat
+7403.002|das Wat
 7405.0|der Ursprung
 7406.0|der Eisprung
 7407.0|quasi
@@ -5132,7 +5134,7 @@
 7409.0|kühn
 7410.0|antworten
 7411.0|der Service
-7411.1|das Service
+7411.001|das Service
 7413.0|hochgestellt
 7414.0|Krage
 7418.0|das Fraktal
@@ -5212,14 +5214,14 @@
 7533.0|debil
 7534.0|der Dealer
 7535.0|die Vokuhila
-7535.1|der Vokuhila
+7535.001|der Vokuhila
 7537.0|die List
 7538.0|die Hemisphäre
 7539.0|streben
 7540.0|die Erblindung
 7541.0|die Entbindung
 7543.0|das Wehe
-7543.1|die Wehe
+7543.001|die Wehe
 7544.0|einsetzen
 7545.0|pressen
 7546.0|widersetzen
@@ -5265,7 +5267,7 @@
 7610.0|die Pampe
 7613.0|der Rotwein
 7615.0|das Jam
-7615.1|die Jam
+7615.001|die Jam
 7618.0|der Beamer
 7619.0|jedenfalls
 7620.0|lustig
@@ -5299,7 +5301,7 @@
 7662.0|aufpassen
 7663.0|doof
 7665.0|das Freie
-7665.1|die Freie
+7665.001|die Freie
 7666.0|poppen
 7667.0|die Inbesitznahme
 7668.0|Gemischtware
@@ -5374,7 +5376,7 @@
 7772.0|der Zaubertrick
 7773.0|die Anziehsachen
 7776.0|das Mosaik
-7776.1|die Mosaik
+7776.001|die Mosaik
 7778.0|der Ziegel
 7779.0|das Muster
 7780.0|wegschmeißen
@@ -5454,7 +5456,7 @@
 7897.0|spitzen
 7899.0|der Wasabi
 7900.0|der Techno
-7900.1|das Techno
+7900.001|das Techno
 7902.0|guttun
 7904.0|emanzipieren
 7905.0|weird
@@ -5501,7 +5503,7 @@
 7963.0|hupen
 7966.0|die Germania
 7967.0|der Export
-7967.1|das Export
+7967.001|das Export
 7968.0|die Fernbedienung
 7970.0|sowieso
 7971.0|die Baustelle
@@ -5524,20 +5526,20 @@
 7990.0|die Ouvertüre
 7991.0|der Grand
 7992.0|der Final
-7992.1|das Final
+7992.001|das Final
 7993.0|die Matroschka
 7997.0|der Pudel
-7997.1|die Pudel
+7997.001|die Pudel
 8000.0|das Gedärm
 8001.0|paradox
 8002.0|existent
 8003.0|der Pardon
-8003.1|das Pardon
+8003.001|das Pardon
 8005.0|errechnen
 8006.0|der Nenner
 8007.0|der Zweig
 8008.0|der Kompromiss
-8008.1|das Kompromiss
+8008.001|das Kompromiss
 8014.0|das Bermudadreieck
 8015.0|umbringen
 8016.0|das Wie
@@ -5588,8 +5590,8 @@
 8083.0|der Blütenstaub
 8089.0|der Papierflieger
 8091.0|der Dschungel
-8091.1|das Dschungel
-8091.2|die Dschungel
+8091.001|das Dschungel
+8091.002|die Dschungel
 8092.0|die Gießkanne
 8094.0|klettern
 8098.0|die Mordwaffe
@@ -5597,7 +5599,7 @@
 8103.0|radeln
 8107.0|der Train
 8109.0|der Efeu
-8109.1|das Efeu
+8109.001|das Efeu
 8110.0|bewachsen
 8111.0|zerstechen
 8112.0|der Rasenmäher
@@ -5632,7 +5634,7 @@
 8161.0|der Olymp
 8162.0|der Hades
 8163.0|das Quadrat
-8163.1|der Quadrat
+8163.001|der Quadrat
 8164.0|das Dreieck
 8165.0|die Erfindung
 8166.0|die Rade
@@ -5653,7 +5655,7 @@
 8188.0|der Affekt
 8190.0|das Eisen
 8193.0|der Koks
-8193.1|das Koks
+8193.001|das Koks
 8195.0|die Mucke
 8196.0|die Beste
 8197.0|ausflippen
@@ -5671,7 +5673,7 @@
 8218.0|die Titte
 8220.0|der Killer
 8221.0|das Biest
-8221.1|der Biest
+8221.001|der Biest
 8222.0|der Pimmel
 8225.0|das Blitzlicht
 8227.0|umgehen
@@ -5682,7 +5684,7 @@
 8238.0|die Erlösung
 8241.0|ungläubig
 8242.0|der Heide
-8242.1|die Heide
+8242.001|die Heide
 8243.0|die Rettung
 8245.0|sprengen
 8246.0|der Knopf
@@ -5729,7 +5731,7 @@
 8316.0|der Prügel
 8317.0|der Junggesellenabschied
 8319.0|der Trikot
-8319.1|das Trikot
+8319.001|das Trikot
 8321.0|die S-Bahn
 8322.0|der Appetit
 8323.0|das Motto
@@ -5771,7 +5773,7 @@
 8380.0|plauschen
 8381.0|nachmittags
 8382.0|das Rohr
-8382.1|die Rohr
+8382.001|die Rohr
 8383.0|nütze
 8384.0|der Lappen
 8388.0|womit
@@ -5785,7 +5787,7 @@
 8398.0|das Zivilrecht
 8399.0|der Sprinter
 8400.0|der Schneid
-8400.1|die Schneid
+8400.001|die Schneid
 8404.0|frisieren
 8406.0|Harte
 8407.0|der Stumpf
