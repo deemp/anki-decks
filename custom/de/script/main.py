@@ -221,6 +221,11 @@ def update_lemmas_correct():
     lyrics_words_lemmas.loc[lyrics_words_nouns.index, "lemma_correct"] = (
         lyrics_words_nouns["lemma_correct"]
     )
+
+    has_lemma_cond = ~lyrics_words_lemmas["lemma_r"].isna()
+    lyrics_words_lemmas.loc[has_lemma_cond, "lemma"] = lyrics_words_lemmas.loc[
+        has_lemma_cond, "lemma_r"
+    ]
     lyrics_words_lemmas.drop(columns=["lemma_r", "lemma_correct_r"], inplace=True)
 
     # allow writing custom lemma_correct
@@ -228,6 +233,7 @@ def update_lemmas_correct():
     lyrics_words_lemmas.loc[no_lemma_correct_cond, "lemma_correct"] = (
         lyrics_words_lemmas.loc[no_lemma_correct_cond, "lemma"]
     )
+
     lyrics_words_lemmas.to_csv("data/lyrics-words-lemmas.csv", sep="|")
 
 
