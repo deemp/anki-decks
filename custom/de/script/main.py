@@ -270,9 +270,8 @@ def copy_correct_lemmas_to_deck():
     words = pd.DataFrame(words_lemmas["lemma_correct"])
     words.rename(columns={"lemma_correct": "word_de"}, inplace=True)
 
-    deck = pd.concat([deck, words])
-    deck = deck.sort_index()
-    deck = deck[~deck.duplicated()]
+    deck = pd.concat([deck, words]).sort_index()
+    deck = deck[~deck.index.duplicated()]
 
     deck.to_csv(PATH.DECK, sep="|")
 
