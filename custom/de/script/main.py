@@ -22,6 +22,8 @@ LYRICS_WORDS_LEMMAS_PATH = LYRICS_PATH / "words-lemmas.csv"
 LYRICS_WORDS_NOT_LEMMAS_PATH = LYRICS_PATH / "words-not-lemmas.csv"
 LYRICS_WORDS_PATH = LYRICS_PATH / "words.csv"
 
+DECK_PATH = Path(".") / "deck.csv"
+
 
 def mk_word(word: str):
     if word in ARTICLES_FULL:
