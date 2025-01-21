@@ -254,6 +254,26 @@ def update_lemmas_correct():
 
 update_lemmas_correct()
 
+# %%
+
+
+def copy_correct_lemmas_to_deck():
+    words_lemmas = pd.read_csv(PATH.LYRICS_WORDS_LEMMAS, sep="|", index_col=0)
+    deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
+
+    words = pd.DataFrame(words_lemmas["lemma_correct"])
+    words.rename(columns={"lemma_correct": "word_de"}, inplace=True)
+
+    deck = pd.concat([deck, words])
+    deck = deck.sort_index()
+    deck = deck[~deck.duplicated()]
+
+    deck.to_csv(PATH.DECK, sep="|")
+
+
+copy_correct_lemmas_to_deck()
+
+
     # lyrics_list = "\n".join(lyrics_split)
 
     # with open("song_lyrics_list.md", mode="w", encoding="UTF-8") as f:
