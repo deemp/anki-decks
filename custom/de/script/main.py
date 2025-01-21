@@ -160,6 +160,63 @@ def copy_lemmas_from_words_not_lemmas():
 
 copy_lemmas_from_words_not_lemmas()
 
+# %%
+
+
+def add_nouns_articles():
+    lyrics_words_lemmas = pd.read_csv(
+        "data/lyrics-words-lemmas.csv", sep="|", index_col=0
+    )
+    lyrics_words_nouns = lyrics_words_lemmas[
+        lyrics_words_lemmas.apply(
+            lambda x: pd.isna(x["lemma_correct"]) and is_noun(str(x["lemma"])), axis=1
+        )
+    ]
+    lemmas_articles = get_lemmas_articles(lyrics_words_nouns)
+    lyrics_words_nouns = lyrics_words_nouns.join(lemmas_articles, rsuffix="_r")
+    lyrics_words_nouns.drop(columns=["lemma_r"], inplace=True)
+
+    has_articles_cond = ~lemmas_articles["articles"].isna()
+    lyrics_words_nouns.loc[has_articles_cond, "articles"] = lyrics_words_nouns.loc[
+        has_articles_cond, "articles"
+    ].map(lambda x: x.split(DEWIKI_ARTICLES_SEP))
+    lyrics_words_nouns = lyrics_words_nouns.explode("articles")
+
+    new_index = []
+    counts = {}
+    for idx in lyrics_words_nouns.index:
+        if idx not in counts:
+            counts[idx] = 0
+            new_index.append(idx)
+        else:
+            counts[idx] += 1
+            new_index.append(float(f"{idx}.{counts[idx]}"))
+
+    lyrics_words_nouns.index = new_index
+
+    lyrics_words_nouns["lemma_correct"] = lyrics_words_nouns.apply(
+        lambda x: (
+            x["articles"]
+            if pd.isna(x["articles"])
+            else f"{ARTICLES_DICT[x["articles"]]} {mk_word(x["lemma"])}"
+        ),
+        axis=1,
+    )
+
+    lyrics_words_nouns.drop(columns=["articles"], inplace=True)
+
+    lyrics_words_lemmas = lyrics_words_lemmas.join(
+        lyrics_words_nouns, how="outer", rsuffix="_r"
+    )
+    lyrics_words_lemmas.loc[lyrics_words_nouns.index, "lemma_correct"] = (
+        lyrics_words_nouns["lemma_correct"]
+    )
+    lyrics_words_lemmas.drop(columns=["lemma_r", "lemma_correct_r"], inplace=True)
+    lyrics_words_lemmas.to_csv("data/lyrics-words-lemmas.csv", sep="|")
+
+
+add_nouns_articles()
+
     # lyrics_list = "\n".join(lyrics_split)
 
     # with open("song_lyrics_list.md", mode="w", encoding="UTF-8") as f:
