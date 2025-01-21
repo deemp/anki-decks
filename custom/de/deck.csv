@@ -2662,6 +2662,7 @@
 3485.0|zuerst
 3487.0|kehren
 3488.0|Zurück
+3488.0001|zurück
 3489.0|der Prediger|noun|the preacher|Der Prediger sprach über die Kraft der Vergebung.|The preacher spoke about the power of forgiveness.|der;Prediger;sprechen;über;der;Kraft;der;Vergebung
 3490.0|jedweder|adjective|any|Jedweder Versuch wurde im Keim erstickt.|Any attempt was thwarted at its inception.|jedweder;Versuch;werden;in;Keim;ersticken
 3491.0|die Couleur|noun|color|Die Couleur der Uniform war auffällig und bunt.|The color of the uniform was striking and colorful.|der;Couleur;der;Uniform;sein;auffällig;und;bunt
@@ -2856,6 +2857,7 @@
 3728.0|der Soldat
 3729.0|nieder|adjective|low|Der niedergelegene Fluss war kaum sichtbar.|The low-lying river was barely visible.|der;niederlegen;Fluss;sein;kaum;sichtbar
 3731.0|das Heim
+3731.0001|heimkehren
 3732.0|riskieren
 3733.0|schulden
 3735.0|das Geräusch
@@ -3758,7 +3760,9 @@
 5032.0|das Kondom|noun|the condom|Das Kondom wurde als Vorsichtsmaßnahme empfohlen.|The condom was recommended as a precaution.|der;Kondom;werden;als;Vorsichtsmaßnahme;empfehlen
 5032.001|der Kondom
 5038.0|das Kalenderblatt|noun|calendar page|Das Kalenderblatt zeigt ein Zitat von Goethe.|The calendar page displays a quote from Goethe.|der;Kalenderblatt;zeigen;ein;Zitat;von;Goethe
+5038.0001|aufreißen
 5039.0|herunter
+5039.0001|herunterreißen
 5040.0|die Jalousie|noun|the blind|Die Jalousie lässt nur gedämpftes Licht herein.|The blind lets in only softened light.|der;Jalousie;lassen;nur;gedämpft;Licht;herein
 5041.0|die Katastrophe
 5044.0|versäumen|verb|to miss|Er hat die Gelegenheit seines Lebens versäumt.|He missed the opportunity of a lifetime.|er;haben;der;Gelegenheit;sein;Leben;versäumen
