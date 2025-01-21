@@ -136,8 +136,14 @@ def get_word_lists():
         PATH.LYRICS_WORDS_NOT_LEMMAS, sep="|", index_col=0
     )
 
-    words_not_lemmas = words_not_lemmas.join(words_not_lemmas_existing, rsuffix="_r")
-    words_not_lemmas.drop(columns=["word_r", "author", "title"], inplace=True)
+    words_not_lemmas = words_not_lemmas[["word"]].join(
+        words_not_lemmas_existing[["word", "lemma"]], how="outer", rsuffix="_r"
+    )
+    is_not_na_word_cond = ~words_not_lemmas["word_r"].isna()
+    words_not_lemmas.loc[is_not_na_word_cond, "word"] = words_not_lemmas.loc[
+        is_not_na_word_cond, "word_r"
+    ]
+    words_not_lemmas.drop(columns=["word_r"], inplace=True)
     words_not_lemmas.sort_index(inplace=True)
     words_not_lemmas = words_not_lemmas[~words_not_lemmas["word"].duplicated()]
     words_not_lemmas.to_csv(PATH.LYRICS_WORDS_NOT_LEMMAS, sep="|")
@@ -167,8 +173,8 @@ def copy_lemmas_from_words_not_lemmas():
     words_not_lemmas = pd.read_csv(PATH.LYRICS_WORDS_NOT_LEMMAS, sep="|", index_col=0)
 
     words = words_not_lemmas["lemma"].map(mk_word, na_action="ignore")
-    is_lemma_cond = (
-        words.isin(lemmata["lemma"]) | words.isin(dewiki_noun_articles["lemma"])
+    is_lemma_cond = words.isin(lemmata["lemma"]) | words.isin(
+        dewiki_noun_articles["lemma"]
     )
 
     lemmas = words_not_lemmas.loc[
@@ -239,17 +245,14 @@ def update_lemmas_correct():
     lyrics_words_lemmas = lyrics_words_lemmas.join(
         lyrics_words_nouns, how="outer", rsuffix="_r"
     )
-    lyrics_words_lemmas.loc[lyrics_words_nouns.index, "lemma_correct"] = (
-        lyrics_words_nouns["lemma_correct"]
+
+    has_lemma_cond = lyrics_words_lemmas["lemma_r"].notna()
+    lyrics_words_lemmas.loc[has_lemma_cond, ["lemma", "lemma_correct"]] = (
+        lyrics_words_lemmas.loc[has_lemma_cond, ["lemma_r", "lemma_correct_r"]].values
     )
 
-    has_lemma_cond = ~lyrics_words_lemmas["lemma_r"].isna()
-    lyrics_words_lemmas.loc[has_lemma_cond, "lemma"] = lyrics_words_lemmas.loc[
-        has_lemma_cond, "lemma_r"
-    ]
     lyrics_words_lemmas.drop(columns=["lemma_r", "lemma_correct_r"], inplace=True)
 
-    # allow writing custom lemma_correct
     no_lemma_correct_cond = lyrics_words_lemmas["lemma_correct"].isna()
     lyrics_words_lemmas.loc[no_lemma_correct_cond, "lemma_correct"] = (
         lyrics_words_lemmas.loc[no_lemma_correct_cond, "lemma"]
