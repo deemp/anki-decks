@@ -273,10 +273,31 @@ def copy_correct_lemmas_to_deck():
     words = pd.DataFrame(words_lemmas["lemma_correct"])
     words.rename(columns={"lemma_correct": "word_de"}, inplace=True)
 
-    deck = pd.concat([deck, words]).sort_index()
-    deck = deck[~deck.index.duplicated()]
+    deck = pd.concat([deck, words])
+    deck = deck[~deck.index.duplicated()].sort_index()
+    deck = deck[~deck["word_de"].duplicated()]
+
+    new_index = []
+    for idx in deck.index:
+        idx_rounded = float(int(idx))
+        idx_suffix = round(idx % 1, ndigits=4)
+        if idx_suffix >= INDEX_SUFFIX.ALTERNATIVE_MEANING and (
+            idx_rounded not in deck.index
+            or mk_word(deck.loc[idx, "word_de"])
+            != mk_word(deck.loc[idx_rounded, "word_de"])
+        ):
+            continue
+        new_index.append(idx)
+
+    deck = deck.loc[new_index]
 
     deck.to_csv(PATH.DECK, sep="|")
+
+    with open(PATH.DECK, "r", encoding="UTF-8") as d:
+        deck_text = d.read()
+
+    with open(PATH.DECK, "w", encoding="UTF-8") as d:
+        d.write(deck_text.replace("|||||", ""))
 
 
 copy_correct_lemmas_to_deck()
