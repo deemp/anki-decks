@@ -1,7 +1,7 @@
 # %%
 
 import os
-import re
+from pathlib import Path
 import pandas as pd
 from IPython.display import display
 import yaml
@@ -13,6 +13,14 @@ ARTICLES_FULL = ["die", "der", "das"]
 ARTICLES_SEP = "/"
 DEWIKI_ARTICLES_SEP = ";"
 LYRICS_LEMMATIZED_SEP = ";"
+
+DATA_PATH = Path("data")
+LYRICS_PATH = DATA_PATH / "lyrics"
+LYRICS_LEMMATIZED_PATH = LYRICS_PATH / "lemmatized.csv"
+LYRICS_TEXTS_PATH = LYRICS_PATH / "texts.yaml"
+LYRICS_WORDS_LEMMAS_PATH = LYRICS_PATH / "words-lemmas.csv"
+LYRICS_WORDS_NOT_LEMMAS_PATH = LYRICS_PATH / "words-not-lemmas.csv"
+LYRICS_WORDS_PATH = LYRICS_PATH / "words.csv"
 
 
 def mk_word(word: str):
@@ -63,7 +71,7 @@ nlp = spacy.load("de_dep_news_trf")
 
 
 def get_lemmatized_lyrics():
-    with open("data/lyrics.yaml", mode="r", encoding="UTF-8") as f:
+    with open(LYRICS_TEXTS_PATH, mode="r", encoding="UTF-8") as f:
         lyrics = yaml.safe_load(f)
 
     df = pd.DataFrame(lyrics, columns=["author", "title", "text"])
@@ -88,7 +96,7 @@ def get_lemmatized_lyrics():
         )
     )
 
-    df.to_csv("data/lyrics-lemmatized.csv", sep="|")
+    df.to_csv(LYRICS_LEMMATIZED_PATH, sep="|")
 
 
 get_lemmatized_lyrics()
@@ -96,7 +104,7 @@ get_lemmatized_lyrics()
 
 
 def get_word_lists():
-    lyrics_lemmatized = pd.read_csv("data/lyrics-lemmatized.csv", sep="|", index_col=0)
+    lyrics_lemmatized = pd.read_csv(LYRICS_LEMMATIZED_PATH, sep="|", index_col=0)
     lyrics_lemmatized["text"] = lyrics_lemmatized["text"].map(
         lambda x: str(x).split(LYRICS_LEMMATIZED_SEP)
     )
@@ -105,26 +113,24 @@ def get_word_lists():
     lyrics_lemmatized = lyrics_lemmatized[~lyrics_lemmatized["word"].duplicated()]
     lyrics_lemmatized = lyrics_lemmatized.reset_index(drop=True)
 
-    lyrics_lemmatized.to_csv("data/lyrics-words.csv", sep="|")
+    lyrics_lemmatized.to_csv(LYRICS_WORDS_PATH, sep="|")
 
     is_lemma_cond = lyrics_lemmatized["word"].isin(lemmata["lemma"])
 
     words_not_lemmas = lyrics_lemmatized[~is_lemma_cond]
     words_not_lemmas_existing = pd.read_csv(
-        "data/lyrics-words-not-lemmas.csv", sep="|", index_col=0
+        LYRICS_WORDS_NOT_LEMMAS_PATH, sep="|", index_col=0
     )
     words_not_lemmas = words_not_lemmas.join(words_not_lemmas_existing, rsuffix="_r")
     words_not_lemmas.drop(columns=["word_r", "author", "title"], inplace=True)
     words_not_lemmas = words_not_lemmas[
         ~words_not_lemmas["word"].duplicated()
     ].sort_index()
-    words_not_lemmas.to_csv("data/lyrics-words-not-lemmas.csv", sep="|")
+    words_not_lemmas.to_csv(LYRICS_WORDS_NOT_LEMMAS_PATH, sep="|")
 
     words_lemmas = lyrics_lemmatized[is_lemma_cond]
     words_lemmas = words_lemmas.rename(columns={"word": "lemma"})
-    words_lemmas_existing = pd.read_csv(
-        "data/lyrics-words-lemmas.csv", sep="|", index_col=0
-    )
+    words_lemmas_existing = pd.read_csv(LYRICS_WORDS_LEMMAS_PATH, sep="|", index_col=0)
     words_lemmas = words_lemmas.join(words_lemmas_existing, how="outer", rsuffix="_r")
     words_lemmas.loc[~words_lemmas["lemma_r"].isna(), "lemma"] = words_lemmas.loc[
         ~words_lemmas["lemma_r"].isna(), "lemma_r"
@@ -134,7 +140,7 @@ def get_word_lists():
     words_lemmas = words_lemmas[
         ~words_lemmas["lemma"].map(mk_word, na_action="ignore").duplicated()
     ].sort_index()
-    words_lemmas.to_csv("data/lyrics-words-lemmas.csv", sep="|")
+    words_lemmas.to_csv(LYRICS_WORDS_LEMMAS_PATH, sep="|")
 
 
 get_word_lists()
@@ -143,9 +149,7 @@ get_word_lists()
 
 
 def copy_lemmas_from_words_not_lemmas():
-    words_not_lemmas = pd.read_csv(
-        "data/lyrics-words-not-lemmas.csv", sep="|", index_col=0
-    )
+    words_not_lemmas = pd.read_csv(LYRICS_WORDS_NOT_LEMMAS_PATH, sep="|", index_col=0)
 
     lemma_cond = (
         words_not_lemmas["lemma"]
@@ -158,14 +162,14 @@ def copy_lemmas_from_words_not_lemmas():
         ["lemma"],
     ]
 
-    words_lemmas = pd.read_csv("data/lyrics-words-lemmas.csv", sep="|", index_col=0)
+    words_lemmas = pd.read_csv(LYRICS_WORDS_LEMMAS_PATH, sep="|", index_col=0)
     lemmas_combined = pd.concat([words_lemmas, lemmas])
     lemmas_combined = lemmas_combined[
         ~lemmas_combined["lemma"].map(mk_word, na_action="ignore").duplicated()
     ]
     lemmas_combined.sort_index(inplace=True)
 
-    lemmas_combined.to_csv("data/lyrics-words-lemmas.csv", sep="|")
+    lemmas_combined.to_csv(LYRICS_WORDS_LEMMAS_PATH, sep="|")
 
 
 copy_lemmas_from_words_not_lemmas()
@@ -174,9 +178,7 @@ copy_lemmas_from_words_not_lemmas()
 
 
 def update_lemmas_correct():
-    lyrics_words_lemmas = pd.read_csv(
-        "data/lyrics-words-lemmas.csv", sep="|", index_col=0
-    )
+    lyrics_words_lemmas = pd.read_csv(LYRICS_WORDS_LEMMAS_PATH, sep="|", index_col=0)
     lyrics_words_nouns = lyrics_words_lemmas[
         lyrics_words_lemmas.apply(
             lambda x: pd.isna(x["lemma_correct"]) and is_noun(str(x["lemma"])), axis=1
@@ -234,7 +236,7 @@ def update_lemmas_correct():
         lyrics_words_lemmas.loc[no_lemma_correct_cond, "lemma"]
     )
 
-    lyrics_words_lemmas.to_csv("data/lyrics-words-lemmas.csv", sep="|")
+    lyrics_words_lemmas.to_csv(LYRICS_WORDS_LEMMAS_PATH, sep="|")
 
 
 update_lemmas_correct()
