@@ -12,6 +12,7 @@ ARTICLES_SHORT = ["f", "m", "n"]
 ARTICLES_FULL = ["die", "der", "das"]
 ARTICLES_SEP = "/"
 DEWIKI_ARTICLES_SEP = ";"
+LYRICS_LEMMATIZED_SEP = ";"
 
 
 def mk_word(word: str):
@@ -77,7 +78,14 @@ def get_lemmatized_lyrics():
     )
 
     df["text"] = df["text"].map(
-        lambda x: ";".join([tok.lemma_ for tok in nlp(x) if tok.lemma_ != "--"])
+        lambda x: (
+            x
+            # not lemmatized
+            if LYRICS_LEMMATIZED_SEP not in x
+            else LYRICS_LEMMATIZED_SEP.join(
+                [tok.lemma_ for tok in nlp(x) if tok.lemma_ != "--"]
+            )
+        )
     )
 
     df.to_csv("data/lyrics-lemmatized.csv", sep="|")
@@ -90,7 +98,7 @@ get_lemmatized_lyrics()
 def get_word_lists():
     lyrics_lemmatized = pd.read_csv("data/lyrics-lemmatized.csv", sep="|", index_col=0)
     lyrics_lemmatized["text"] = lyrics_lemmatized["text"].map(
-        lambda x: str(x).split(";")
+        lambda x: str(x).split(LYRICS_LEMMATIZED_SEP)
     )
     lyrics_lemmatized = lyrics_lemmatized.explode("text")
     lyrics_lemmatized = lyrics_lemmatized.rename(columns={"text": "word"})
