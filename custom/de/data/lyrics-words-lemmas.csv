@@ -74,8 +74,8 @@
 79.0|bringen|bringen
 80.0|herein|herein
 81.0|Tausend|die Tausend
-81.1||das Tausend
-81.2||der Tausend
+81.1|Tausend|das Tausend
+81.2|Tausend|der Tausend
 82.0|schwarz|schwarz
 83.0|Fluß|Fluß
 84.0|stürzen|stürzen
@@ -122,7 +122,7 @@
 137.0|treu|treu
 139.0|dein|dein
 140.0|Mast|der Mast
-140.1||die Mast
+140.1|Mast|die Mast
 142.0|Anker|der Anker
 143.0|schnell|schnell
 144.0|verblühen|verblühen
@@ -137,7 +137,7 @@
 156.0|schleichen|schleichen
 157.0|sich|sich
 158.0|Mensch|der Mensch
-158.1||das Mensch
+158.1|Mensch|das Mensch
 159.0|Menge|die Menge
 160.0|ganz|ganz
 161.0|Fährte|die Fährte
@@ -165,7 +165,7 @@
 184.0|Fleisch|das Fleisch
 185.0|Fell|das Fell
 186.0|Haar|das Haar
-186.1||die Haar
+186.1|Haar|die Haar
 187.0|Haut|die Haut
 188.0|Glied|das Glied
 189.0|Blut|das Blut
@@ -235,7 +235,7 @@
 260.0|Sündenfall|der Sündenfall
 261.0|Rest|der Rest
 262.0|Eimer|der Eimer
-262.1||die Eimer
+262.1|Eimer|die Eimer
 263.0|lauter|lauter
 265.0|Greis|der Greis
 266.0|Mädchen|das Mädchen
@@ -277,7 +277,7 @@
 309.0|nun|nun
 311.0|süß|süß
 312.0|Mund|der Mund
-312.1||die Mund
+312.1|Mund|die Mund
 313.0|Auge|das Auge
 314.0|wie|wie
 315.0|Mondenschein|der Mondenschein
@@ -293,7 +293,7 @@
 328.0|verfluchen|verfluchen
 330.0|warum|warum
 331.0|Tag|der Tag
-331.1||das Tag
+331.1|Tag|das Tag
 334.0|befreien|befreien
 336.0|verehren|verehren
 337.0|tief|tief
@@ -335,7 +335,7 @@
 378.0|Stahl|der Stahl
 379.0|worin|worin
 380.0|Sinn|der Sinn
-380.1||die Sinn
+380.1|Sinn|die Sinn
 381.0|dass|dass
 382.0|Superheld|der Superheld
 383.0|ob|ob
@@ -384,12 +384,12 @@
 439.0|bös|bös
 440.0|Opfer|das Opfer
 441.0|Gang|der Gang
-441.1||die Gang
+441.1|Gang|die Gang
 444.0|Basecap|Basecap
 445.0|nimmer|nimmer
 446.0|schwul|schwul
 447.0|Getto|das Getto
-447.1||der Getto
+447.1|Getto|der Getto
 448.0|unbarmherzig|unbarmherzig
 449.0|homophob|homophob
 450.0|unten|unten
@@ -443,7 +443,7 @@
 518.0|jetzt|jetzt
 520.0|Inhalt|der Inhalt
 521.0|Loch|das Loch
-521.1||der Loch
+521.1|Loch|der Loch
 522.0|gleich|gleich
 523.0|gehören|gehören
 524.0|Adrenalin|das Adrenalin
@@ -515,7 +515,7 @@
 613.0|Schein|der Schein
 615.0|tot|tot
 616.0|Teil|das Teil
-616.1||der Teil
+616.1|Teil|der Teil
 617.0|schleppen|schleppen
 618.0|Karawane|die Karawane
 619.0|verlassen|verlassen
@@ -535,7 +535,7 @@
 636.0|Lamm|das Lamm
 637.0|damit|damit
 638.0|Wolf|der Wolf
-638.1||die Wolf
+638.1|Wolf|die Wolf
 640.0|Schwert|das Schwert
 641.0|ziehen|ziehen
 642.0|kein|kein
@@ -546,7 +546,7 @@
 647.0|Kirschbaum|der Kirschbaum
 648.0|steigen|steigen
 649.0|See|der See
-649.1||die See
+649.1|See|die See
 651.0|betören|betören
 652.0|grün|grün
 653.0|Licht|das Licht
@@ -585,7 +585,7 @@
 691.0|bi|bi
 692.0|schaden|schaden
 694.0|Hode|der Hode
-694.1||die Hode
+694.1|Hode|die Hode
 695.0|rasieren|rasieren
 696.0|Bein|das Bein
 697.0|Mieder|das Mieder
@@ -629,7 +629,7 @@
 744.0|Richtung|die Richtung
 745.0|Vernichtung|die Vernichtung
 746.0|Sieg|der Sieg
-746.1||die Sieg
+746.1|Sieg|die Sieg
 747.0|Vernunft|die Vernunft
 749.0|vereinen|vereinen
 750.0|verschließen|verschließen
@@ -669,7 +669,7 @@
 802.0|sitzen|sitzen
 803.0|eigen|eigen
 804.0|Boot|das Boot
-804.1||der Boot
+804.1|Boot|der Boot
 805.0|Wohlstand|der Wohlstand
 806.0|Brut|die Brut
 808.0|brauchen|brauchen
@@ -697,7 +697,7 @@
 837.0|Biene|die Biene
 838.0|Terror|der Terror
 841.0|Pole|der Pole
-841.1||die Pole
+841.1|Pole|die Pole
 842.0|schmelzen|schmelzen
 843.0|Regierung|die Regierung
 844.0|Grenze|die Grenze
@@ -770,7 +770,7 @@
 924.0|Feile|die Feile
 925.0|backen|backen
 926.0|Mittel|das Mittel
-926.1||die Mittel
+926.1|Mittel|die Mittel
 927.0|Staat|der Staat
 929.0|bitte|bitte
 930.0|Oregano|der Oregano
@@ -785,7 +785,7 @@
 941.0|Name|der Name
 942.0|wunderschön|wunderschön
 947.0|Moment|der Moment
-947.1||das Moment
+947.1|Moment|das Moment
 948.0|akzeptieren|akzeptieren
 949.0|drüber|drüber
 950.0|diskutieren|diskutieren
@@ -819,9 +819,9 @@
 990.0|tschüß|tschüß
 992.0|willen|willen
 993.0|Ghetto|das Ghetto
-993.1||der Ghetto
+993.1|Ghetto|der Ghetto
 995.0|Alter|der Alter
-995.1||das Alter
+995.1|Alter|das Alter
 997.0|Schlaf|der Schlaf
 998.0|etwas|etwas
 1000.0|Fliese|die Fliese
@@ -837,7 +837,7 @@
 1013.0|fatal|fatal
 1014.0|Schminke|die Schminke
 1015.0|Kajal|der Kajal
-1015.1||das Kajal
+1015.1|Kajal|das Kajal
 1016.0|Todesengel|der Todesengel
 1017.0|Kuss|der Kuss
 1018.0|drücken|drücken
@@ -858,7 +858,7 @@
 1042.0|Liebeskunst|die Liebeskunst
 1043.0|bekannt|bekannt
 1044.0|Ort|der Ort
-1044.1||das Ort
+1044.1|Ort|das Ort
 1045.0|fort|fort
 1046.0|der G-Punkt|der G-Punkt
 1048.0|I|das I
@@ -875,7 +875,7 @@
 1075.0|Meer|das Meer
 1076.0|Berg|der Berg
 1077.0|der Kunde|der Kunde
-1077.1||die Kunde
+1077.1|der Kunde|die Kunde
 1078.0|Afrika|Afrika
 1079.0|A|das A
 1092.0|dry|dry
@@ -937,7 +937,7 @@
 1186.0|laufen|laufen
 1187.0|Wasser|das Wasser
 1188.0|Tempo|das Tempo
-1188.1||der Tempo
+1188.1|Tempo|der Tempo
 1189.0|mithalten|mithalten
 1190.0|sofort|sofort
 1191.0|offen|offen
@@ -952,7 +952,7 @@
 1202.0|schick|schick
 1203.0|setzen|setzen
 1204.0|Hut|der Hut
-1204.1||die Hut
+1204.1|Hut|die Hut
 1206.0|ticken|ticken
 1208.0|Hol|Hol
 1209.0|kicken|kicken
@@ -978,7 +978,7 @@
 1241.0|taugen|taugen
 1242.0|ran|ran
 1243.0|Bar|das Bar
-1243.1||die Bar
+1243.1|Bar|die Bar
 1245.0|Lady|die Lady
 1246.0|sieben|sieben
 1248.0|Tanz|der Tanz
@@ -1038,7 +1038,7 @@
 1375.0|obszön|obszön
 1376.0|außen|außen
 1377.0|Schar|die Schar
-1377.1||das Schar
+1377.1|Schar|das Schar
 1379.0|Erbarmen|das Erbarmen
 1383.0|Untergang|der Untergang
 1384.0|vermissen|vermissen
@@ -1150,12 +1150,12 @@
 1524.0|Umhang|der Umhang
 1526.0|Brandenburger|der Brandenburger
 1527.0|Tor|das Tor
-1527.1||der Tor
+1527.1|Tor|der Tor
 1528.0|makaber|makaber
 1530.0|lila|lila
 1531.0|Leggings|Leggings
 1535.0|Schild|der Schild
-1535.1||das Schild
+1535.1|Schild|das Schild
 1537.0|hetzen|hetzen
 1538.0|zwinkern|zwinkern
 1539.0|entzücken|entzücken
@@ -1175,7 +1175,7 @@
 1555.0|achtzehn|achtzehn
 1556.0|März|der März
 1557.0|Koch|der Koch
-1557.1||das Koch
+1557.1|Koch|das Koch
 1558.0|Bühne|die Bühne
 1559.0|empören|empören
 1561.0|Satan|der Satan
@@ -1242,8 +1242,8 @@
 1645.0|laut|laut
 1646.0|beschweren|beschweren
 1647.0|Band|das Band
-1647.1||der Band
-1647.2||die Band
+1647.1|Band|der Band
+1647.2|Band|die Band
 1648.0|erwähnen|erwähnen
 1649.0|beschimpfen|beschimpfen
 1650.0|zerren|zerren
@@ -1287,14 +1287,14 @@
 1695.0|After|der After
 1697.0|Chef|der Chef
 1700.0|der Grad|der Grad
-1700.1||das Grad
+1700.1|der Grad|das Grad
 1702.0|Lebenslauf|der Lebenslauf
 1703.0|kleben|kleben
 1704.0|sympathisch|sympathisch
 1705.0|seriös|seriös
 1706.0|Foto|das Foto
-1706.1||die Foto
-1706.2||der Foto
+1706.1|Foto|die Foto
+1706.2|Foto|der Foto
 1709.0|erscheinen|erscheinen
 1710.0|reinkommen|reinkommen
 1711.0|rauskommen|rauskommen
@@ -1345,7 +1345,7 @@
 1774.0|Glas|das Glas
 1775.0|verpassen|verpassen
 1777.0|Bus|der Bus
-1777.1||die Bus
+1777.1|Bus|die Bus
 1778.0|einrichten|einrichten
 1779.0|nix|nix
 1780.0|Lügengeschichte|die Lügengeschichte
@@ -1353,7 +1353,7 @@
 1782.0|obwohl|obwohl
 1784.0|versprechen|versprechen
 1785.0|Monat|der Monat
-1785.1||das Monat
+1785.1|Monat|das Monat
 1786.0|Marquis|der Marquis
 1788.0|labern|labern
 1789.0|planen|planen
@@ -1387,7 +1387,7 @@
 1827.0|schmecken|schmecken
 1828.0|bestreuen|bestreuen
 1829.0|Sandwich|das Sandwich
-1829.1||der Sandwich
+1829.1|Sandwich|der Sandwich
 1830.0|wen|wen
 1831.0|Fischöl|Fischöl
 1833.0|Plätzchen|das Plätzchen
@@ -1475,12 +1475,12 @@
 1944.0|Sternschnuppe|die Sternschnuppe
 1945.0|Gewicht|das Gewicht
 1946.0|Radio|das Radio
-1946.1||der Radio
+1946.1|Radio|der Radio
 1950.0|verlangen|verlangen
 1951.0|zanken|zanken
 1953.0|romantisch|romantisch
 1955.0|Ex|der Ex
-1955.1||die Ex
+1955.1|Ex|die Ex
 1957.0|ratsam|ratsam
 1962.0|checken|checken
 1963.0|sozial|sozial
@@ -1518,18 +1518,18 @@
 2002.0|Solidarität|die Solidarität
 2003.0|statt|statt
 2004.0|Morgen|der Morgen
-2004.1||das Morgen
+2004.1|Morgen|das Morgen
 2005.0|brechen|brechen
 2006.0|ficken|ficken
 2007.0|Luftschloss|das Luftschloss
 2011.0|Bitte|die Bitte
 2013.0|Sorte|die Sorte
 2014.0|Joghurt|der Joghurt
-2014.1||die Joghurt
-2014.2||das Joghurt
+2014.1|Joghurt|die Joghurt
+2014.2|Joghurt|das Joghurt
 2015.0|Regal|das Regal
 2018.0|Zimt|der Zimt
-2018.1||das Zimt
+2018.1|Zimt|das Zimt
 2019.0|Wahl|die Wahl
 2020.0|Achsel|die Achsel
 2021.0|Deodorant|das Deodorant
@@ -1538,12 +1538,12 @@
 2027.0|Sushi|das Sushi
 2028.0|Wurst|die Wurst
 2029.0|Cola|die Cola
-2029.1||das Cola
+2029.1|Cola|das Cola
 2031.0|Durst|der Durst
 2033.0|Handy|das Handy
 2034.0|Nummer|die Nummer
 2035.0|App|die App
-2035.1||das App
+2035.1|App|das App
 2036.0|Depp|der Depp
 2037.0|Kopfschmerz|der Kopfschmerz
 2048.0|bloß|bloß
@@ -1560,8 +1560,8 @@
 2066.0|Übersicht|die Übersicht
 2067.0|Therapie|die Therapie
 2068.0|Viertel|das Viertel
-2068.1||der Viertel
-2068.2||die Viertel
+2068.1|Viertel|der Viertel
+2068.2|Viertel|die Viertel
 2069.0|siebzehn|siebzehn
 2070.0|Therapeut|der Therapeut
 2071.0|verdammt|verdammt
@@ -1575,7 +1575,7 @@
 2083.0|platt|platt
 2084.0|Wald|der Wald
 2085.0|Chor|der Chor
-2085.1||das Chor
+2085.1|Chor|das Chor
 2086.0|Krone|die Krone
 2087.0|Schöpfung|die Schöpfung
 2088.0|aha|aha
@@ -1638,7 +1638,7 @@
 2154.0|rollen|rollen
 2155.0|Punkrock|der Punkrock
 2156.0|das Elternteil|der Elternteil
-2156.1||das Elternteil
+2156.1|das Elternteil|das Elternteil
 2158.0|die Klasse|die Klasse
 2160.0|teuer|teuer
 2161.0|Kutte|die Kutte
@@ -1718,13 +1718,13 @@
 2275.0|beulen|beulen
 2278.0|Peter|Peter
 2280.0|Demo|die Demo
-2280.1||das Demo
+2280.1|Demo|das Demo
 2281.0|Krankenhaus|das Krankenhaus
 2282.0|Abi|das Abi
-2282.1||der Abi
+2282.1|Abi|der Abi
 2283.0|Rucksack|der Rucksack
 2284.0|Uni|die Uni
-2284.1||das Uni
+2284.1|Uni|das Uni
 2285.0|zehn|zehn
 2286.0|Semester|das Semester
 2287.0|BWL|BWL
@@ -1783,7 +1783,7 @@
 2365.0|Push|Push
 2366.0|pushen|pushen
 2369.0|Ekel|der Ekel
-2369.1||das Ekel
+2369.1|Ekel|das Ekel
 2371.0|Produkt|das Produkt
 2372.0|achtzig|achtzig
 2373.0|spucken|spucken
@@ -1795,7 +1795,7 @@
 2381.0|außer|außer
 2382.0|Gewinner|der Gewinner
 2383.0|Fall|der Fall
-2383.1||das Fall
+2383.1|Fall|das Fall
 2384.0|verweichlichen|verweichlichen
 2385.0|die Befindlichkeit|die Befindlichkeit
 2386.0|Ahnung|die Ahnung
@@ -1875,10 +1875,10 @@
 2491.0|Netzhaut|die Netzhaut
 2492.0|Gewächshaus|das Gewächshaus
 2494.0|Luft|die Luft
-2494.1||der Luft
+2494.1|Luft|der Luft
 2497.0|CO₂-Fußabdruck|der CO₂-Fußabdruck
 2498.0|Check-in|der Check-in
-2498.1||das Check-in
+2498.1|Check-in|das Check-in
 2500.0|Gepäck|das Gepäck
 2501.0|Infektion|die Infektion
 2502.0|Stresshormon|das Stresshormon
@@ -1931,11 +1931,11 @@
 2568.0|Geburt|die Geburt
 2570.0|indigen|indigen
 2571.0|Tattoo|der Tattoo
-2571.1||das Tattoo
+2571.1|Tattoo|das Tattoo
 2572.0|die Frisur|die Frisur
 2575.0|ey|ey
 2577.0|Mate|der Mate
-2577.1||die Mate
+2577.1|Mate|die Mate
 2579.0|der Narr|der Narr
 2581.0|Vegetarier|der Vegetarier
 2585.0|Probetraining|das Probetraining
@@ -1970,7 +1970,7 @@
 2624.0|Ferienparadies|Ferienparadies
 2625.0|mittelschwer|mittelschwer
 2627.0|Schoß|der Schoß
-2627.1||die Schoß
+2627.1|Schoß|die Schoß
 2628.0|via|via
 2629.0|Airline|die Airline
 2630.0|Floß|das Floß
@@ -2059,8 +2059,8 @@
 2745.0|Ergebnis|das Ergebnis
 2746.0|unfassbar|unfassbar
 2747.0|Clickbait|der Clickbait
-2747.1||das Clickbait
-2747.2||die Clickbait
+2747.1|Clickbait|das Clickbait
+2747.2|Clickbait|die Clickbait
 2749.0|leisten|leisten
 2750.0|Leistungsgesellschaft|die Leistungsgesellschaft
 2751.0|Selbstachtung|die Selbstachtung
@@ -2077,12 +2077,12 @@
 2766.0|Weizenkorn|das Weizenkorn
 2767.0|Album|das Album
 2768.0|Laden|der Laden
-2768.1||das Laden
+2768.1|Laden|das Laden
 2769.0|Scherzartikel|der Scherzartikel
 2771.0|nachher|nachher
 2774.0|trashig|trashig
 2775.0|Tape|der Tape
-2775.1||das Tape
+2775.1|Tape|das Tape
 2776.0|Retro|Retro
 2778.0|der Bildner|der Bildner
 2779.0|Schnurrbart|der Schnurrbart
@@ -2129,13 +2129,13 @@
 2841.0|Kirche|die Kirche
 2843.0|Kontrolle|die Kontrolle
 2845.0|E-Mail|die E-Mail
-2845.1||das E-Mail
+2845.1|E-Mail|das E-Mail
 2846.0|Trojaner|der Trojaner
 2847.0|Geheimnis|das Geheimnis
 2849.0|relativ|relativ
 2850.0|gesprächig|gesprächig
 2851.0|Messer|das Messer
-2851.1||der Messer
+2851.1|Messer|der Messer
 2852.0|Kehle|die Kehle
 2853.0|Sauna|die Sauna
 2854.0|Kino|das Kino
@@ -2143,7 +2143,7 @@
 2857.0|das Guckloch|das Guckloch
 2858.0|Rohstoff|der Rohstoff
 2859.0|die Tropfen|der Tropfen
-2859.1||das Tropfen
+2859.1|die Tropfen|das Tropfen
 2860.0|Wanze|die Wanze
 2862.0|Arschloch|das Arschloch
 2863.0|bemerken|bemerken
@@ -2196,7 +2196,7 @@
 2917.0|Original|das Original
 2918.0|die Kühlerfigur|die Kühlerfigur
 2919.0|Golf|der Golf
-2919.1||das Golf
+2919.1|Golf|das Golf
 2920.0|schwach|schwach
 2921.0|toll|toll
 2922.0|oll|oll
@@ -2227,7 +2227,7 @@
 2965.0|lose|lose
 2966.0|Apfel|der Apfel
 2967.0|Mus|das Mus
-2967.1||der Mus
+2967.1|Mus|der Mus
 2970.0|hinken|hinken
 2971.0|duften|duften
 2972.0|stinken|stinken
@@ -2240,7 +2240,7 @@
 2980.0|Schmied|der Schmied
 2981.0|ersticken|ersticken
 2982.0|Bulle|der Bulle
-2982.1||die Bulle
+2982.1|Bulle|die Bulle
 2984.0|einschlagen|einschlagen
 2986.0|Fernseher|der Fernseher
 2987.0|Unwissenheit|die Unwissenheit
@@ -2287,10 +2287,10 @@
 3052.0|Klassentreffen|das Klassentreffen
 3053.0|Weinverkostung|die Weinverkostung
 3054.0|Blei|das Blei
-3054.1||der Blei
+3054.1|Blei|der Blei
 3055.0|gießen|gießen
 3056.0|Silvester|der Silvester
-3056.1||das Silvester
+3056.1|Silvester|das Silvester
 3057.0|Kassenbon|der Kassenbon
 3059.0|international|international
 3060.0|Fanmeile|die Fanmeile
@@ -2300,7 +2300,7 @@
 3064.0|Phase|die Phase
 3067.0|neidisch|neidisch
 3068.0|Bock|der Bock
-3068.1||das Bock
+3068.1|Bock|das Bock
 3069.0|Quatsch|der Quatsch
 3070.0|scheiße|scheiße
 3073.0|imposant|imposant
@@ -2326,7 +2326,7 @@
 3100.0|Kritik|die Kritik
 3102.0|Schönheitsschlaf|Schönheitsschlaf
 3103.0|Flur|der Flur
-3103.1||die Flur
+3103.1|Flur|die Flur
 3104.0|DJ|der DJ
 3106.0|fein|fein
 3108.0|Phänomen|das Phänomen
@@ -2427,7 +2427,7 @@
 3236.0|Proberaum|Proberaum
 3237.0|Erfüllung|die Erfüllung
 3238.0|Model|das Model
-3238.1||der Model
+3238.1|Model|der Model
 3239.0|Zahnspange|die Zahnspange
 3240.0|Konzert|das Konzert
 3241.0|dick|dick
@@ -2436,7 +2436,7 @@
 3244.0|erlösen|erlösen
 3245.0|high|high
 3247.0|VIP|der VIP
-3247.1||die VIP
+3247.1|VIP|die VIP
 3251.0|zugeben|zugeben
 3252.0|kultiviert|kultiviert
 3253.0|Individuum|das Individuum
@@ -2494,7 +2494,7 @@
 3323.0|Trainer|der Trainer
 3325.0|Jogginghose|die Jogginghose
 3327.0|Euro|der Euro
-3327.1||die Euro
+3327.1|Euro|die Euro
 3329.0|entschieden|entschieden
 3331.0|Verlierer|der Verlierer
 3335.0|Louis|Louis
@@ -2518,9 +2518,9 @@
 3374.0|Plattenbaugebiet|Plattenbaugebiet
 3375.0|Rand|der Rand
 3378.0|die Jeans|die Jeans
-3378.1||das Jeans
+3378.1|die Jeans|das Jeans
 3379.0|Hundert|die Hundert
-3379.1||das Hundert
+3379.1|Hundert|das Hundert
 3381.0|die 3k-Lederjacke|die Lederjacke
 3382.0|weiterverkaufen|weiterverkaufen
 3383.0|eben|eben
@@ -2559,7 +2559,7 @@
 3425.0|Ausbeutung|die Ausbeutung
 3426.0|kratzen|kratzen
 3427.0|Patriarchat|der Patriarchat
-3427.1||das Patriarchat
+3427.1|Patriarchat|das Patriarchat
 3428.0|dadurch|dadurch
 3429.0|Longdrink|Longdrink
 3430.0|Sonnenliege|die Sonnenliege
@@ -2582,7 +2582,7 @@
 3453.0|einführen|einführen
 3454.0|vermöbeln|vermöbeln
 3455.0|Quark|der Quark
-3455.1||das Quark
+3455.1|Quark|das Quark
 3456.0|Essen|das Essen
 3458.0|Respekt|der Respekt
 3460.0|die Konsole|die Konsole
@@ -2630,9 +2630,9 @@
 3514.0|Hürde|die Hürde
 3516.0|Klausur|die Klausur
 3517.0|Paar|das Paar
-3517.1||die Paar
+3517.1|Paar|die Paar
 3518.0|Like|das Like
-3518.1||der Like
+3518.1|Like|der Like
 3519.0|der Vertrag|der Vertrag
 3520.0|Ne|Ne
 3521.0|zoomen|zoomen
@@ -2642,7 +2642,7 @@
 3527.0|rau|rau
 3528.0|grau|grau
 3529.0|Teer|der Teer
-3529.1||das Teer
+3529.1|Teer|das Teer
 3530.0|zusammenpferchen|zusammenpferchen
 3531.0|Dampfer|der Dampfer
 3532.0|sin|sin
@@ -2655,7 +2655,7 @@
 3540.0|Kartoffel|die Kartoffel
 3541.0|Haufen|der Haufen
 3542.0|das Kristall|der Kristall
-3542.1||das Kristall
+3542.1|das Kristall|das Kristall
 3543.0|das Methamphetamin|das Methamphetamin
 3545.0|Takt|der Takt
 3546.0|die Turbine|die Turbine
@@ -2684,7 +2684,7 @@
 3576.0|schaudern|schaudern
 3577.0|draußen|draußen
 3578.0|Bauer|der Bauer
-3578.1||das Bauer
+3578.1|Bauer|das Bauer
 3579.0|ersaufen|ersaufen
 3580.0|Rettungsring|der Rettungsring
 3581.0|Westen|der Westen
@@ -2698,7 +2698,7 @@
 3593.0|verschleiern|verschleiern
 3598.0|der Vorname|der Vorname
 3599.0|Kaffee|der Kaffee
-3599.1||das Kaffee
+3599.1|Kaffee|das Kaffee
 3600.0|Stand|der Stand
 3602.0|Drohne|die Drohne
 3603.0|beinah|beinah
@@ -2708,12 +2708,12 @@
 3610.0|gewinnen|gewinnen
 3611.0|Februar|der Februar
 3612.0|Riß|die Riß
-3612.1||das Riß
+3612.1|Riß|das Riß
 3615.0|Schuß|Schuß
 3616.0|Maske|die Maske
 3617.0|Pandemie|die Pandemie
 3618.0|Virus|das Virus
-3618.1||der Virus
+3618.1|Virus|der Virus
 3619.0|wuschen|wuschen
 3620.0|ungelogen|ungelogen
 3622.0|der Virologe|der Virologe
@@ -2843,16 +2843,16 @@
 3795.0|Katzenwäsche|die Katzenwäsche
 3798.0|Abendbrot|das Abendbrot
 3800.0|die Rolle|die Rolle
-3800.1||der Rolle
-3800.2||das Rolle
+3800.1|die Rolle|der Rolle
+3800.2|die Rolle|das Rolle
 3801.0|Pick|der Pick
 3802.0|Enkeltrick|der Enkeltrick
 3803.0|der Van|der Van
 3804.0|der Sitz|der Sitz
 3805.0|Felge|die Felge
 3806.0|der Stift|der Stift
-3806.1||das Stift
-3806.2||die Stift
+3806.1|der Stift|das Stift
+3806.2|der Stift|die Stift
 3807.0|ah|ah
 3810.0|der Tipp|der Tipp
 3811.0|Lieblingswort|das Lieblingswort
@@ -2983,7 +2983,7 @@
 3997.0|strahlen|strahlen
 3998.0|Rippe|die Rippe
 3999.0|Husten|der Husten
-3999.1||das Husten
+3999.1|Husten|das Husten
 4000.0|endlos|endlos
 4001.0|Sitte|die Sitte
 4003.0|Umwelt|die Umwelt
@@ -2991,7 +2991,7 @@
 4006.0|Deich|der Deich
 4008.0|der Boom|der Boom
 4009.0|der Bumerang|der Bumerang
-4009.1||das Bumerang
+4009.1|der Bumerang|das Bumerang
 4010.0|Ruf|der Ruf
 4012.0|pleite|pleite
 4013.0|Sofa|das Sofa
@@ -3005,7 +3005,7 @@
 4030.0|nerven|nerven
 4031.0|Ausländer|der Ausländer
 4035.0|der Deutsche|das Deutsche
-4035.1||die Deutsche
+4035.1|der Deutsche|die Deutsche
 4038.0|Pointe|die Pointe
 4039.0|linksradikal|linksradikal
 4040.0|No|das No
@@ -3020,7 +3020,7 @@
 4050.0|Chemo|die Chemo
 4051.0|Bedrohung|die Bedrohung
 4052.0|Hashtag|das Hashtag
-4052.1||der Hashtag
+4052.1|Hashtag|der Hashtag
 4053.0|Mehrheit|die Mehrheit
 4054.0|schweigen|schweigen
 4057.0|Latein|Latein
@@ -3029,7 +3029,7 @@
 4061.0|der Liebhaber|der Liebhaber
 4062.0|der Geek|der Geek
 4063.0|Blackout|der Blackout
-4063.1||das Blackout
+4063.1|Blackout|das Blackout
 4064.0|das Lebewohl|das Lebewohl
 4067.0|Hauptplatine|die Hauptplatine
 4069.0|Jahreszahl|die Jahreszahl
@@ -3164,7 +3164,7 @@
 4265.0|Roboter|der Roboter
 4266.0|Ja|das Ja
 4268.0|Vokabel|die Vokabel
-4268.1||das Vokabel
+4268.1|Vokabel|das Vokabel
 4269.0|verpfeifen|verpfeifen
 4270.0|Hilfssheriff|der Hilfssheriff
 4271.0|Lehrkörper|der Lehrkörper
@@ -3247,7 +3247,7 @@
 4381.0|Schweden|Schweden
 4383.0|Mahlzeit|die Mahlzeit
 4384.0|Mark|die Mark
-4384.1||das Mark
+4384.1|Mark|das Mark
 4385.0|inklusive|inklusive
 4386.0|sparen|sparen
 4387.0|Suppe|die Suppe
@@ -3295,7 +3295,7 @@
 4455.0|kürzlich|kürzlich
 4456.0|Erhöhung|die Erhöhung
 4457.0|Gehalt|der Gehalt
-4457.1||das Gehalt
+4457.1|Gehalt|das Gehalt
 4458.0|nämlich|nämlich
 4459.0|straff|straff
 4460.0|organisieren|organisieren
@@ -3362,7 +3362,7 @@
 4535.0|verschlechtern|verschlechtern
 4536.0|fantastisch|fantastisch
 4537.0|Wetter|das Wetter
-4537.1||der Wetter
+4537.1|Wetter|der Wetter
 4538.0|Knall|der Knall
 4539.0|Nachbarskatze|die Nachbarskatze
 4540.0|Verkehrsunfall|der Verkehrsunfall
@@ -3391,7 +3391,7 @@
 4571.0|entsetzlich|entsetzlich
 4572.0|Tat|die Tat
 4574.0|TV|das TV
-4574.1||der TV
+4574.1|TV|der TV
 4576.0|übersteigen|übersteigen
 4577.0|Vorstellungskraft|die Vorstellungskraft
 4578.0|Attentäter|der Attentäter
@@ -3437,7 +3437,7 @@
 4634.0|bisher|bisher
 4635.0|trojanisch|trojanisch
 4636.0|Reiter|der Reiter
-4636.1||die Reiter
+4636.1|Reiter|die Reiter
 4637.0|biometrisch|biometrisch
 4638.0|Querkopf|der Querkopf
 4639.0|Weltbild|das Weltbild
@@ -3448,7 +3448,7 @@
 4647.0|ungeklärt|ungeklärt
 4648.0|Klare|Klare
 4649.0|Fakt|der Fakt
-4649.1||das Fakt
+4649.1|Fakt|das Fakt
 4650.0|Moses|der Moses
 4651.0|hinterher|hinterher
 4655.0|kaputt|kaputt
@@ -3462,7 +3462,7 @@
 4671.0|abwehren|abwehren
 4673.0|visionär|visionär
 4674.0|Militär|das Militär
-4674.1||der Militär
+4674.1|Militär|der Militär
 4676.0|klassifizierbar|klassifizierbar
 4684.0|bitten|bitten
 4685.0|Gefecht|das Gefecht
@@ -3528,7 +3528,7 @@
 4768.0|verbringen|verbringen
 4769.0|verschlingen|verschlingen
 4771.0|Einzelteil|der Einzelteil
-4771.1||das Einzelteil
+4771.1|Einzelteil|das Einzelteil
 4772.0|auseinandernehmen|auseinandernehmen
 4773.0|erklimmen|erklimmen
 4774.0|eintausend|eintausend
@@ -3601,7 +3601,7 @@
 4870.0|Berlin|Berlin
 4871.0|Gepäckträger|der Gepäckträger
 4872.0|Taxi|das Taxi
-4872.1||der Taxi
+4872.1|Taxi|der Taxi
 4873.0|Retter|der Retter
 4874.0|Nachtbus|der Nachtbus
 4875.0|quatschen|quatschen
@@ -3620,12 +3620,12 @@
 4898.0|Klatschen|das Klatschen
 4899.0|Tapete|die Tapete
 4900.0|Machete|die Machete
-4900.1||der Machete
+4900.1|Machete|der Machete
 4903.0|verpissen|verpissen
 4906.0|Güte|die Güte
 4907.0|Fass|das Fass
 4908.0|Pfand|das Pfand
-4908.1||der Pfand
+4908.1|Pfand|der Pfand
 4910.0|Hopfen|der Hopfen
 4912.0|Kotze|die Kotze
 4913.0|gelegentlich|gelegentlich
@@ -3642,7 +3642,7 @@
 4927.0|Abend|der Abend
 4930.0|verschweigen|verschweigen
 4931.0|Adonis|der Adonis
-4931.1||die Adonis
+4931.1|Adonis|die Adonis
 4932.0|durchschnittlich|durchschnittlich
 4933.0|mittelmäßig|mittelmäßig
 4934.0|mittelalt|mittelalt
@@ -3651,7 +3651,7 @@
 4938.0|fair|fair
 4939.0|Metzger|der Metzger
 4940.0|Erkenntnis|die Erkenntnis
-4940.1||das Erkenntnis
+4940.1|Erkenntnis|das Erkenntnis
 4942.0|Dasein|das Dasein
 4945.0|Midlife-Crisis|die Midlife-Crisis
 4946.0|martialisch|martialisch
@@ -3668,8 +3668,8 @@
 4958.0|plündern|plündern
 4960.0|interessant|interessant
 4961.0|Plastik|die Plastik
-4961.1||das Plastik
-4961.2||der Plastik
+4961.1|Plastik|das Plastik
+4961.2|Plastik|der Plastik
 4962.0|Treffer|der Treffer
 4963.0|Feuerschaden|der Feuerschaden
 4964.0|Lagerfeuer|das Lagerfeuer
@@ -3685,7 +3685,7 @@
 4977.0|Sonntagnachmittag|der Sonntagnachmittag
 4978.0|Schlacht|die Schlacht
 4979.0|Zelt|das Zelt
-4979.1||der Zelt
+4979.1|Zelt|der Zelt
 4980.0|Schweiß|der Schweiß
 4981.0|Pubertät|die Pubertät
 4982.0|Renaissance|die Renaissance
@@ -3717,7 +3717,7 @@
 5027.0|Verantwortung|die Verantwortung
 5029.0|glaubhaft|glaubhaft
 5032.0|Kondom|das Kondom
-5032.1||der Kondom
+5032.1|Kondom|der Kondom
 5038.0|Kalenderblatt|das Kalenderblatt
 5039.0|herunter|herunter
 5040.0|Jalousie|die Jalousie
@@ -3746,7 +3746,7 @@
 5082.0|brennend|brennend
 5083.0|Karre|die Karre
 5085.0|Man|der Man
-5085.1||das Man
+5085.1|Man|das Man
 5088.0|Jesus|Jesus
 5090.0|different|different
 5094.0|power|power
@@ -3814,7 +3814,7 @@
 5205.0|anlassen|anlassen
 5211.0|Konsens|der Konsens
 5213.0|Falafel|die Falafel
-5213.1||der Falafel
+5213.1|Falafel|der Falafel
 5214.0|Polen|Polen
 5215.0|importieren|importieren
 5216.0|gammeln|gammeln
@@ -3854,7 +3854,7 @@
 5277.0|Genus|das Genus
 5278.0|Venus|die Venus
 5281.0|DIN|das DIN
-5281.1||die DIN
+5281.1|DIN|die DIN
 5287.0|Kindheit|die Kindheit
 5288.0|Aperitif|der Aperitif
 5293.0|vietnamesisch|vietnamesisch
@@ -3874,7 +3874,7 @@
 5314.0|lyrisch|lyrisch
 5315.0|häuslich|häuslich
 5318.0|Tweet|der Tweet
-5318.1||das Tweet
+5318.1|Tweet|das Tweet
 5323.0|subtil|subtil
 5325.0|Nacken|der Nacken
 5326.0|Ruhe|die Ruhe
@@ -3900,7 +3900,7 @@
 5359.0|naschen|naschen
 5361.0|hierher|hierher
 5362.0|Haschisch|das Haschisch
-5362.1||der Haschisch
+5362.1|Haschisch|der Haschisch
 5363.0|Likör|der Likör
 5364.0|Entschluss|der Entschluss
 5365.0|zuziehen|zuziehen
@@ -3909,7 +3909,7 @@
 5368.0|Hausflur|der Hausflur
 5370.0|zetern|zetern
 5372.0|Tee|der Tee
-5372.1||das Tee
+5372.1|Tee|das Tee
 5376.0|wundern|wundern
 5377.0|Erdgeschoss|das Erdgeschoss
 5380.0|artikulieren|artikulieren
@@ -3944,8 +3944,8 @@
 5423.0|Konterbier|Konterbier
 5424.0|exen|exen
 5425.0|Pro|die Pro
-5425.1||der Pro
-5425.2||das Pro
+5425.1|Pro|der Pro
+5425.2|Pro|das Pro
 5426.0|Contra|Contra
 5427.0|wiegen|wiegen
 5428.0|langwierig|langwierig
@@ -3959,13 +3959,13 @@
 5444.0|enthalten|enthalten
 5450.0|Mittelfinger|der Mittelfinger
 5451.0|Hase|der Hase
-5451.1||die Hase
+5451.1|Hase|die Hase
 5454.0|Komet|der Komet
 5455.0|Krater|der Krater
 5456.0|Stereoanlage|die Stereoanlage
 5457.0|Bel|Bel
 5458.0|Air|das Air
-5458.1||die Air
+5458.1|Air|die Air
 5460.0|Kommerz|Kommerz
 5462.0|bekennen|bekennen
 5463.0|Kommentar|der Kommentar
@@ -3989,8 +3989,8 @@
 5487.0|Sicherheit|die Sicherheit
 5488.0|das Gespenst|das Gespenst
 5489.0|Dings|der Dings
-5489.1||die Dings
-5489.2||das Dings
+5489.1|Dings|die Dings
+5489.2|Dings|das Dings
 5490.0|nebenan|nebenan
 5491.0|Bundeswehr|die Bundeswehr
 5492.0|Einzug|der Einzug
@@ -3999,7 +3999,7 @@
 5495.0|Postbote|der Postbote
 5496.0|beschatten|beschatten
 5497.0|Chihuahua|der Chihuahua
-5497.1||die Chihuahua
+5497.1|Chihuahua|die Chihuahua
 5498.0|Mittwoch|der Mittwoch
 5499.0|Kosmetiksalon|der Kosmetiksalon
 5500.0|Flyer|der Flyer
@@ -4009,7 +4009,7 @@
 5506.0|Untergrund|der Untergrund
 5508.0|online|online
 5509.0|Teller|der Teller
-5509.1||das Teller
+5509.1|Teller|das Teller
 5512.0|zwischendurch|zwischendurch
 5513.0|besuchen|besuchen
 5514.0|verzweifeln|verzweifeln
@@ -4039,7 +4039,7 @@
 5553.0|obdachlos|obdachlos
 5554.0|getigert|getigert
 5556.0|Mode|die Mode
-5556.1||der Mode
+5556.1|Mode|der Mode
 5557.0|hänseln|hänseln
 5558.0|Enkel|der Enkel
 5559.0|iPhone|iPhone
@@ -4071,7 +4071,7 @@
 5634.0|Horde|die Horde
 5635.0|Hymne|die Hymne
 5636.0|Puff|der Puff
-5636.1||das Puff
+5636.1|Puff|das Puff
 5639.0|ausbrennen|ausbrennen
 5640.0|Tellerrand|der Tellerrand
 5641.0|Karriere|die Karriere
@@ -4088,7 +4088,7 @@
 5656.0|Dauerschleife|Dauerschleife
 5658.0|Grill|der Grill
 5659.0|Schnitzel|der Schnitzel
-5659.1||das Schnitzel
+5659.1|Schnitzel|das Schnitzel
 5660.0|Grünkern|Grünkern
 5661.0|Garage|die Garage
 5662.0|knibbeln|knibbeln
@@ -4124,7 +4124,7 @@
 5723.0|Computer|der Computer
 5725.0|Trümmerfeld|das Trümmerfeld
 5727.0|Meter|der Meter
-5727.1||das Meter
+5727.1|Meter|das Meter
 5728.0|Kinderbett|das Kinderbett
 5729.0|eingeschlossen|eingeschlossen
 5733.0|dazugehören|dazugehören
@@ -4133,7 +4133,7 @@
 5737.0|erlegen|erlegen
 5739.0|früher|früher
 5740.0|Smalltalk|der Smalltalk
-5740.1||das Smalltalk
+5740.1|Smalltalk|das Smalltalk
 5741.0|Schwachkopf|der Schwachkopf
 5742.0|Tab|der Tab
 5743.0|die Vergewaltigung|die Vergewaltigung
@@ -4143,10 +4143,10 @@
 5749.0|Speech|Speech
 5751.0|die KI|die KI
 5755.0|Spam|das Spam
-5755.1||der Spam
-5755.2||die Spam
+5755.1|Spam|der Spam
+5755.2|Spam|die Spam
 5756.0|die Mail|die Mail
-5756.1||das Mail
+5756.1|die Mail|das Mail
 5759.0|gefährlich|gefährlich
 5762.0|Zerrspiegel|der Zerrspiegel
 5763.0|Termite|die Termite
@@ -4162,7 +4162,7 @@
 5775.0|Stimmungstief|Stimmungstief
 5776.0|Staatsfeind|der Staatsfeind
 5777.0|Holocaust|der Holocaust
-5777.1||das Holocaust
+5777.1|Holocaust|das Holocaust
 5779.0|Dicke|die Dicke
 5781.0|Reifen|der Reifen
 5783.0|sicherlich|sicherlich
@@ -4212,7 +4212,7 @@
 5846.0|Verschwörung|die Verschwörung
 5847.0|bundesweit|bundesweit
 5848.0|Banner|das Banner
-5848.1||der Banner
+5848.1|Banner|der Banner
 5850.0|Anagramm|das Anagramm
 5851.0|allerhand|allerhand
 5852.0|Geheimagent|Geheimagent
@@ -4259,7 +4259,7 @@
 5912.0|Autoverleih|der Autoverleih
 5914.0|anderthalb|anderthalb
 5915.0|Boston|der Boston
-5915.1||das Boston
+5915.1|Boston|das Boston
 5920.0|schillernd|schillernd
 5922.0|auseinandergehen|auseinandergehen
 5926.0|erfolglos|erfolglos
@@ -4274,7 +4274,7 @@
 5939.0|Maklerprovision|Maklerprovision
 5942.0|mäh|mäh
 5943.0|Rasen|der Rasen
-5943.1||das Rasen
+5943.1|Rasen|das Rasen
 5944.0|kühl|kühl
 5946.0|Sonnenuntergang|der Sonnenuntergang
 5947.0|Orientierung|die Orientierung
@@ -4288,8 +4288,8 @@
 5956.0|Fiesta|die Fiesta
 5957.0|Nonstop|Nonstop
 5958.0|Bravo|das Bravo
-5958.1||der Bravo
-5958.2||die Bravo
+5958.1|Bravo|der Bravo
+5958.2|Bravo|die Bravo
 5959.0|CD|die CD
 5960.0|Raste|die Raste
 5961.0|Autobahn|die Autobahn
@@ -4303,7 +4303,7 @@
 5971.0|Apfelsaft|der Apfelsaft
 5973.0|geradeaus|geradeaus
 5974.0|Gummi|der Gummi
-5974.1||das Gummi
+5974.1|Gummi|das Gummi
 5975.0|Motor|der Motor
 5976.0|Anzeige|die Anzeige
 5977.0|blinken|blinken
@@ -4325,8 +4325,8 @@
 6003.0|Absinth|der Absinth
 6005.0|die Oberseite|die Oberseite
 6006.0|Wirrwarr|der Wirrwarr
-6006.1||das Wirrwarr
-6006.2||die Wirrwarr
+6006.1|Wirrwarr|das Wirrwarr
+6006.2|Wirrwarr|die Wirrwarr
 6015.0|die Pflicht|die Pflicht
 6019.0|vollständig|vollständig
 6023.0|aufsteigen|aufsteigen
@@ -4337,10 +4337,10 @@
 6032.0|not|not
 6052.0|mampfen|mampfen
 6053.0|Kebab|das Kebab
-6053.1||der Kebab
+6053.1|Kebab|der Kebab
 6054.0|Müsli|das Müsli
-6054.1||der Müsli
-6054.2||die Müsli
+6054.1|Müsli|der Müsli
+6054.2|Müsli|die Müsli
 6056.0|Klang|der Klang
 6059.0|fremdenfeindlich|fremdenfeindlich
 6072.0|liberal|liberal
@@ -4402,7 +4402,7 @@
 6215.0|Burger|der Burger
 6216.0|verdrücken|verdrücken
 6217.0|Steuer|das Steuer
-6217.1||die Steuer
+6217.1|Steuer|die Steuer
 6218.0|abschicken|abschicken
 6219.0|Siegerin|die Siegerin
 6220.0|ablenken|ablenken
@@ -4422,10 +4422,10 @@
 6263.0|out|out
 6264.0|einige|einige
 6274.0|das Alphabet|das Alphabet
-6274.1||der Alphabet
+6274.1|das Alphabet|der Alphabet
 6276.0|der Achter|der Achter
 6283.0|Havanna|die Havanna
-6283.1||der Havanna
+6283.1|Havanna|der Havanna
 6284.0|so viel|so viel
 6287.0|hinbringen|hinbringen
 6290.0|später|später
@@ -4440,10 +4440,10 @@
 6318.0|Schneesturm|der Schneesturm
 6319.0|Kommando|das Kommando
 6320.0|Bikini|der Bikini
-6320.1||das Bikini
+6320.1|Bikini|das Bikini
 6323.0|ansehen|ansehen
 6324.0|Transit|der Transit
-6324.1||das Transit
+6324.1|Transit|das Transit
 6325.0|Nix|der Nix
 6326.0|Mindestlohn|der Mindestlohn
 6329.0|Selbstständigkeit|die Selbstständigkeit
@@ -4474,9 +4474,9 @@
 6356.0|entsprechen|entsprechen
 6358.0|Saftladen|der Saftladen
 6359.0|Haarspray|der Haarspray
-6359.1||das Haarspray
+6359.1|Haarspray|das Haarspray
 6360.0|Spray|der Spray
-6360.1||das Spray
+6360.1|Spray|das Spray
 6363.0|Mängelrüge|Mängelrüge
 6364.0|Abwertung|die Abwertung
 6369.0|erschüttern|erschüttern
@@ -4485,7 +4485,7 @@
 6372.0|Kanzlei|die Kanzlei
 6373.0|Verpackung|die Verpackung
 6375.0|Pack|das Pack
-6375.1||der Pack
+6375.1|Pack|der Pack
 6376.0|Gewohnheit|die Gewohnheit
 6379.0|Versteck|das Versteck
 6381.0|t|t
@@ -4557,7 +4557,7 @@
 6486.0|Cabrio|das Cabrio
 6488.0|Umweltzone|die Umweltzone
 6489.0|Heroin|das Heroin
-6489.1||die Heroin
+6489.1|Heroin|die Heroin
 6491.0|Papi|der Papi
 6494.0|Fahrradweg|der Fahrradweg
 6499.0|Schwarzfahren|das Schwarzfahren
@@ -4576,7 +4576,7 @@
 6518.0|Schwerverbrecher|der Schwerverbrecher
 6519.0|Charmeur|der Charmeur
 6520.0|Flair|das Flair
-6520.1||der Flair
+6520.1|Flair|der Flair
 6521.0|Schwindler|der Schwindler
 6522.0|ausschließlich|ausschließlich
 6524.0|Konzentrat|das Konzentrat
@@ -4604,7 +4604,7 @@
 6564.0|krumm|krumm
 6568.0|Medium|das Medium
 6569.0|Overkill|das Overkill
-6569.1||der Overkill
+6569.1|Overkill|der Overkill
 6571.0|verstärken|verstärken
 6572.0|Pauke|die Pauke
 6574.0|beben|beben
@@ -4678,7 +4678,7 @@
 6721.0|verdrehen|verdrehen
 6725.0|linksextrem|linksextrem
 6726.0|Back|die Back
-6726.1||der Back
+6726.1|Back|der Back
 6729.0|schließlich|schließlich
 6731.0|debattieren|debattieren
 6732.0|arrangieren|arrangieren
@@ -4704,7 +4704,7 @@
 6761.0|bügeln|bügeln
 6762.0|ordentlich|ordentlich
 6763.0|Korn|das Korn
-6763.1||der Korn
+6763.1|Korn|der Korn
 6765.0|anstellen|anstellen
 6766.0|Mutti|die Mutti
 6767.0|Taschengeld|das Taschengeld
@@ -4729,7 +4729,7 @@
 6794.0|versterben|versterben
 6795.0|Avatar|der Avatar
 6796.0|Level|der Level
-6796.1||das Level
+6796.1|Level|das Level
 6798.0|Selbstmord|der Selbstmord
 6799.0|begehen|begehen
 6800.0|worauf|worauf
@@ -4856,7 +4856,7 @@
 7008.0|buckeln|buckeln
 7009.0|der Hahn|der Hahn
 7010.0|Orange|die Orange
-7010.1||das Orange
+7010.1|Orange|das Orange
 7011.0|Saftpresse|die Saftpresse
 7012.0|Mettigel|der Mettigel
 7013.0|Hackfresse|die Hackfresse
@@ -4892,7 +4892,7 @@
 7060.0|Datum|das Datum
 7061.0|Nanosekunde|die Nanosekunde
 7062.0|Primat|der Primat
-7062.1||das Primat
+7062.1|Primat|das Primat
 7063.0|laden|laden
 7064.0|sechstausend|sechstausend
 7065.0|Fanfare|die Fanfare
@@ -4907,7 +4907,7 @@
 7078.0|Löschung|Löschung
 7079.0|Quizshow|die Quizshow
 7080.0|Genozid|der Genozid
-7080.1||das Genozid
+7080.1|Genozid|das Genozid
 7081.0|Indianer|der Indianer
 7082.0|Teleshopping|Teleshopping
 7083.0|griechisch|griechisch
@@ -4919,7 +4919,7 @@
 7089.0|Fantasie|die Fantasie
 7091.0|Genom|das Genom
 7093.0|Pogrom|der Pogrom
-7093.1||das Pogrom
+7093.1|Pogrom|das Pogrom
 7094.0|Strom|der Strom
 7095.0|Intelligenz|die Intelligenz
 7097.0|kapitulieren|kapitulieren
@@ -4932,7 +4932,7 @@
 7108.0|Futter|das Futter
 7109.0|Palast|der Palast
 7111.0|Nebel|der Nebel
-7111.1||die Nebel
+7111.1|Nebel|die Nebel
 7112.0|Ader|die Ader
 7113.0|Wille|der Wille
 7114.0|Feigling|der Feigling
@@ -4967,7 +4967,7 @@
 7177.0|Rechnungsbeleg|Rechnungsbeleg
 7178.0|Boss|der Boss
 7179.0|Laster|das Laster
-7179.1||der Laster
+7179.1|Laster|der Laster
 7182.0|Bastard|der Bastard
 7183.0|reinigen|reinigen
 7184.0|Seife|die Seife
@@ -5015,7 +5015,7 @@
 7250.0|Lachen|das Lachen
 7251.0|backpfeifen|backpfeifen
 7252.0|der Reis|der Reis
-7252.1||das Reis
+7252.1|der Reis|das Reis
 7253.0|flennen|flennen
 7257.0|Jacke|die Jacke
 7260.0|Repeat|Repeat
@@ -5103,10 +5103,10 @@
 7398.0|Enthüllung|die Enthüllung
 7399.0|Befreiung|die Befreiung
 7401.0|Schock|der Schock
-7401.1||das Schock
+7401.1|Schock|das Schock
 7403.0|Wat|die Wat
-7403.1||der Wat
-7403.2||das Wat
+7403.1|Wat|der Wat
+7403.2|Wat|das Wat
 7405.0|Ursprung|der Ursprung
 7406.0|Eisprung|der Eisprung
 7407.0|quasi|quasi
@@ -5114,7 +5114,7 @@
 7409.0|kühn|kühn
 7410.0|antworten|antworten
 7411.0|Service|der Service
-7411.1||das Service
+7411.1|Service|das Service
 7413.0|hochgestellt|hochgestellt
 7414.0|Krage|Krage
 7418.0|Fraktal|das Fraktal
@@ -5198,7 +5198,7 @@
 7533.0|debil|debil
 7534.0|Dealer|der Dealer
 7535.0|Vokuhila|die Vokuhila
-7535.1||der Vokuhila
+7535.1|Vokuhila|der Vokuhila
 7536.0|euer|euer
 7537.0|List|die List
 7538.0|Hemisphäre|die Hemisphäre
@@ -5206,7 +5206,7 @@
 7540.0|Erblindung|die Erblindung
 7541.0|Entbindung|die Entbindung
 7543.0|Wehe|das Wehe
-7543.1||die Wehe
+7543.1|Wehe|die Wehe
 7544.0|einsetzen|einsetzen
 7545.0|pressen|pressen
 7546.0|widersetzen|widersetzen
@@ -5252,7 +5252,7 @@
 7610.0|Pampe|die Pampe
 7613.0|Rotwein|der Rotwein
 7615.0|Jam|das Jam
-7615.1||die Jam
+7615.1|Jam|die Jam
 7618.0|Beamer|der Beamer
 7619.0|jedenfalls|jedenfalls
 7620.0|lustig|lustig
@@ -5286,7 +5286,7 @@
 7662.0|aufpassen|aufpassen
 7663.0|doof|doof
 7665.0|Freie|das Freie
-7665.1||die Freie
+7665.1|Freie|die Freie
 7666.0|poppen|poppen
 7667.0|Inbesitznahme|die Inbesitznahme
 7668.0|Gemischtware|Gemischtware
@@ -5364,7 +5364,7 @@
 7772.0|Zaubertrick|der Zaubertrick
 7773.0|die Anziehsachen|die Anziehsachen
 7776.0|das Mosaik|das Mosaik
-7776.1||die Mosaik
+7776.1|das Mosaik|die Mosaik
 7777.0|stampfen|stampfen
 7778.0|Ziegel|der Ziegel
 7779.0|Muster|das Muster
@@ -5447,7 +5447,7 @@
 7897.0|spitzen|spitzen
 7899.0|Wasabi|der Wasabi
 7900.0|Techno|der Techno
-7900.1||das Techno
+7900.1|Techno|das Techno
 7902.0|guttun|guttun
 7904.0|emanzipieren|emanzipieren
 7905.0|weird|weird
@@ -5494,7 +5494,7 @@
 7963.0|hupen|hupen
 7966.0|Germania|die Germania
 7967.0|Export|der Export
-7967.1||das Export
+7967.1|Export|das Export
 7968.0|Fernbedienung|die Fernbedienung
 7970.0|sowieso|sowieso
 7971.0|Baustelle|die Baustelle
@@ -5517,26 +5517,26 @@
 7990.0|Ouvertüre|die Ouvertüre
 7991.0|Grand|der Grand
 7992.0|Final|der Final
-7992.1||das Final
+7992.1|Final|das Final
 7993.0|Matroschka|die Matroschka
 7997.0|Pudel|der Pudel
-7997.1||die Pudel
+7997.1|Pudel|die Pudel
 8000.0|Gedärm|das Gedärm
 8001.0|paradox|paradox
 8002.0|existent|existent
 8003.0|Pardon|der Pardon
-8003.1||das Pardon
+8003.1|Pardon|das Pardon
 8005.0|errechnen|errechnen
 8006.0|Nenner|der Nenner
 8007.0|Zweig|der Zweig
 8008.0|Kompromiss|der Kompromiss
-8008.1||das Kompromiss
+8008.1|Kompromiss|das Kompromiss
 8014.0|Bermudadreieck|das Bermudadreieck
 8015.0|umbringen|umbringen
 8016.0|Wie|das Wie
 8019.0|abkratzen|abkratzen
 8020.0|Papa|der Papa
-8020.1||die Papa
+8020.1|Papa|die Papa
 8021.0|Schmarotzer|der Schmarotzer
 8022.0|Nachbarschaft|die Nachbarschaft
 8023.0|Strick|der Strick
@@ -5584,8 +5584,8 @@
 8083.0|Blütenstaub|der Blütenstaub
 8089.0|Papierflieger|der Papierflieger
 8091.0|Dschungel|der Dschungel
-8091.1||das Dschungel
-8091.2||die Dschungel
+8091.1|Dschungel|das Dschungel
+8091.2|Dschungel|die Dschungel
 8092.0|Gießkanne|die Gießkanne
 8094.0|klettern|klettern
 8098.0|Mordwaffe|die Mordwaffe
@@ -5593,7 +5593,7 @@
 8103.0|radeln|radeln
 8107.0|Train|der Train
 8109.0|Efeu|der Efeu
-8109.1||das Efeu
+8109.1|Efeu|das Efeu
 8110.0|bewachsen|bewachsen
 8111.0|zerstechen|zerstechen
 8112.0|Rasenmäher|der Rasenmäher
@@ -5627,7 +5627,7 @@
 8161.0|Olymp|der Olymp
 8162.0|Hades|der Hades
 8163.0|Quadrat|das Quadrat
-8163.1||der Quadrat
+8163.1|Quadrat|der Quadrat
 8164.0|Dreieck|das Dreieck
 8165.0|Erfindung|die Erfindung
 8166.0|Rade|die Rade
@@ -5648,7 +5648,7 @@
 8188.0|Affekt|der Affekt
 8190.0|Eisen|das Eisen
 8193.0|Koks|der Koks
-8193.1||das Koks
+8193.1|Koks|das Koks
 8195.0|Mucke|die Mucke
 8196.0|Beste|die Beste
 8197.0|ausflippen|ausflippen
@@ -5667,7 +5667,7 @@
 8218.0|Titte|die Titte
 8220.0|Killer|der Killer
 8221.0|Biest|das Biest
-8221.1||der Biest
+8221.1|Biest|der Biest
 8222.0|Pimmel|der Pimmel
 8225.0|Blitzlicht|das Blitzlicht
 8227.0|umgehen|umgehen
@@ -5679,7 +5679,7 @@
 8238.0|Erlösung|die Erlösung
 8241.0|ungläubig|ungläubig
 8242.0|Heide|der Heide
-8242.1||die Heide
+8242.1|Heide|die Heide
 8243.0|Rettung|die Rettung
 8245.0|sprengen|sprengen
 8246.0|Knopf|der Knopf
@@ -5728,7 +5728,7 @@
 8317.0|Junggesellenabschied|der Junggesellenabschied
 8318.0|übel|übel
 8319.0|Trikot|der Trikot
-8319.1||das Trikot
+8319.1|Trikot|das Trikot
 8321.0|S-Bahn|die S-Bahn
 8322.0|Appetit|der Appetit
 8323.0|Motto|das Motto
@@ -5771,7 +5771,7 @@
 8380.0|plauschen|plauschen
 8381.0|nachmittags|nachmittags
 8382.0|Rohr|das Rohr
-8382.1||die Rohr
+8382.1|Rohr|die Rohr
 8383.0|nütze|nütze
 8384.0|Lappen|der Lappen
 8388.0|womit|womit
@@ -5785,7 +5785,7 @@
 8398.0|Zivilrecht|das Zivilrecht
 8399.0|Sprinter|der Sprinter
 8400.0|Schneid|der Schneid
-8400.1||die Schneid
+8400.1|Schneid|die Schneid
 8404.0|frisieren|frisieren
 8406.0|Harte|Harte
 8407.0|Stumpf|der Stumpf
