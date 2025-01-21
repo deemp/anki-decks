@@ -160,7 +160,9 @@ def copy_lemmas_from_words_not_lemmas():
 
     words_lemmas = pd.read_csv("data/lyrics-words-lemmas.csv", sep="|", index_col=0)
     lemmas_combined = pd.concat([words_lemmas, lemmas])
-    lemmas_combined = lemmas_combined[~lemmas_combined["lemma"].map(mk_word, na_action="ignore").duplicated()]
+    lemmas_combined = lemmas_combined[
+        ~lemmas_combined["lemma"].map(mk_word, na_action="ignore").duplicated()
+    ]
     lemmas_combined.sort_index(inplace=True)
 
     lemmas_combined.to_csv("data/lyrics-words-lemmas.csv", sep="|")
@@ -223,9 +225,9 @@ def update_lemmas_correct():
 
     # allow writing custom lemma_correct
     no_lemma_correct_cond = lyrics_words_lemmas["lemma_correct"].isna()
-    lyrics_words_lemmas.loc[no_lemma_correct_cond, "lemma_correct"] = lyrics_words_lemmas.loc[
-        no_lemma_correct_cond, "lemma"
-    ]
+    lyrics_words_lemmas.loc[no_lemma_correct_cond, "lemma_correct"] = (
+        lyrics_words_lemmas.loc[no_lemma_correct_cond, "lemma"]
+    )
     lyrics_words_lemmas.to_csv("data/lyrics-words-lemmas.csv", sep="|")
 
 
