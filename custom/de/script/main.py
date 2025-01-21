@@ -105,7 +105,7 @@ def get_word_lists():
     lyrics_lemmatized = lyrics_lemmatized[~lyrics_lemmatized["word"].duplicated()]
     lyrics_lemmatized = lyrics_lemmatized.reset_index(drop=True)
 
-    lyrics_lemmatized.to_csv("data/lyrics-words.csv")
+    lyrics_lemmatized.to_csv("data/lyrics-words.csv", sep="|")
 
     is_lemma_cond = lyrics_lemmatized["word"].isin(lemmata["lemma"])
 
