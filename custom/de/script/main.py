@@ -26,6 +26,7 @@ class PATH:
     LYRICS_WORDS_NOT_LEMMAS = LYRICS / "words-not-lemmas.csv"
     LYRICS_WORDS = LYRICS / "words.csv"
 
+
 class INDEX_SUFFIX:
     ALTERNATIVE_MEANING = 0.001
     NEW_WORD = 0.0001
@@ -56,9 +57,10 @@ article_mapping = pd.DataFrame(
     index=pd.Index(ARTICLES_SHORT, name="articles"),
 )
 
+dewiki_noun_articles = pd.read_csv("data/dewiki-noun-articles.csv", sep="|")
+
 
 def get_lemmas_articles(nouns: pd.DataFrame):
-    dewiki_noun_articles = pd.read_csv("data/dewiki-noun-articles.csv", sep="|")
     lemma = "lemma"
     lemmas_initial = pd.DataFrame(nouns[lemma].map(mk_word))
     lemmas_with_articles = lemmas_initial.join(
@@ -68,6 +70,7 @@ def get_lemmas_articles(nouns: pd.DataFrame):
 
 
 lemmata = pd.read_csv("data/dwds_lemmata_2025-01-15.csv")
+
 
 # %%
 
@@ -123,12 +126,16 @@ def get_word_lists():
 
     lyrics_lemmatized.to_csv(PATH.LYRICS_WORDS, sep="|")
 
-    is_lemma_cond = lyrics_lemmatized["word"].isin(lemmata["lemma"])
+    words = lyrics_lemmatized["word"].map(mk_word)
+    is_lemma_cond = words.isin(lemmata["lemma"]) | words.isin(
+        dewiki_noun_articles["lemma"]
+    )
 
     words_not_lemmas = lyrics_lemmatized[~is_lemma_cond]
     words_not_lemmas_existing = pd.read_csv(
         PATH.LYRICS_WORDS_NOT_LEMMAS, sep="|", index_col=0
     )
+
     words_not_lemmas = words_not_lemmas.join(words_not_lemmas_existing, rsuffix="_r")
     words_not_lemmas.drop(columns=["word_r", "author", "title"], inplace=True)
     words_not_lemmas.sort_index(inplace=True)
@@ -159,14 +166,13 @@ get_word_lists()
 def copy_lemmas_from_words_not_lemmas():
     words_not_lemmas = pd.read_csv(PATH.LYRICS_WORDS_NOT_LEMMAS, sep="|", index_col=0)
 
-    lemma_cond = (
-        words_not_lemmas["lemma"]
-        .map(mk_word, na_action="ignore")
-        .isin(lemmata["lemma"])
+    words = words_not_lemmas["lemma"].map(mk_word, na_action="ignore")
+    is_lemma_cond = (
+        words.isin(lemmata["lemma"]) | words.isin(dewiki_noun_articles["lemma"])
     )
 
     lemmas = words_not_lemmas.loc[
-        lemma_cond,
+        is_lemma_cond,
         ["lemma"],
     ]
 
