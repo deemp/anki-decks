@@ -163,7 +163,7 @@ copy_lemmas_from_words_not_lemmas()
 # %%
 
 
-def add_nouns_articles():
+def update_lemmas_correct():
     lyrics_words_lemmas = pd.read_csv(
         "data/lyrics-words-lemmas.csv", sep="|", index_col=0
     )
@@ -212,10 +212,16 @@ def add_nouns_articles():
         lyrics_words_nouns["lemma_correct"]
     )
     lyrics_words_lemmas.drop(columns=["lemma_r", "lemma_correct_r"], inplace=True)
+
+    # allow writing custom lemma_correct
+    no_lemma_correct_cond = lyrics_words_lemmas["lemma_correct"].isna()
+    lyrics_words_lemmas.loc[no_lemma_correct_cond, "lemma_correct"] = lyrics_words_lemmas.loc[
+        no_lemma_correct_cond, "lemma"
+    ]
     lyrics_words_lemmas.to_csv("data/lyrics-words-lemmas.csv", sep="|")
 
 
-add_nouns_articles()
+update_lemmas_correct()
 
     # lyrics_list = "\n".join(lyrics_split)
 
