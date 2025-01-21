@@ -26,7 +26,9 @@ class PATH:
     LYRICS_WORDS_NOT_LEMMAS = LYRICS / "words-not-lemmas.csv"
     LYRICS_WORDS = LYRICS / "words.csv"
 
-
+class INDEX_SUFFIX:
+    ALTERNATIVE_MEANING = 0.001
+    NEW_WORD = 0.0001
 
 
 def mk_word(word: str):
@@ -213,7 +215,7 @@ def update_lemmas_correct():
             new_index.append(idx)
         else:
             counts[idx] += 1
-            new_index.append(idx + ALTERNATIVE_MEANING_INDEX_SUFFIX * counts[idx])
+            new_index.append(idx + INDEX_SUFFIX.ALTERNATIVE_MEANING * counts[idx])
 
     lyrics_words_nouns.index = new_index
 
