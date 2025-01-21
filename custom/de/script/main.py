@@ -184,8 +184,12 @@ def update_lemmas_correct():
     lyrics_words_lemmas = pd.read_csv(LYRICS_WORDS_LEMMAS_PATH, sep="|", index_col=0)
     lyrics_words_nouns = lyrics_words_lemmas[
         lyrics_words_lemmas.apply(
-            lambda x: pd.isna(x["lemma_correct"]) and is_noun(str(x["lemma"])), axis=1
+            lambda x: is_noun(str(x["lemma"])),
+            axis=1,
         )
+    ]
+    lyrics_words_nouns = lyrics_words_nouns[
+        lyrics_words_nouns.index.map(lambda x: float(int(x)) == x)
     ]
     lemmas_articles = get_lemmas_articles(lyrics_words_nouns)
     lyrics_words_nouns = lyrics_words_nouns.join(lemmas_articles, rsuffix="_r")
@@ -205,7 +209,7 @@ def update_lemmas_correct():
             new_index.append(idx)
         else:
             counts[idx] += 1
-            new_index.append(float(f"{idx}.{counts[idx]}"))
+            new_index.append(idx + 0.1 * counts[idx])
 
     lyrics_words_nouns.index = new_index
 
