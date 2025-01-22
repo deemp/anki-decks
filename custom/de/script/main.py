@@ -410,6 +410,20 @@ update_deck()
 # %%
 
 
+def update_deck_lemmatized_sentences():
+    deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
+    not_lemmatized_cond = deck["sentence_lemmatized_de"].isna()
+    deck.loc[not_lemmatized_cond, "sentence_lemmatized_de"] = deck.loc[
+        not_lemmatized_cond, "sentence_de"
+    ].map(tokenize_sentence, na_action="ignore")
+    deck.to_csv(PATH.DECK, sep="|")
+
+
+update_deck_lemmatized_sentences()
+
+# %%
+
+
 def update_dewiki_articles_dictionary():
     # The list can be downloaded here https://github.com/deemp/german-nouns/blob/main/german_nouns/nouns.csv
 
