@@ -1,364 +1,1360 @@
 |word_de|part_of_speech|word_en|sentence_de|sentence_en|sentence_lemmatized_de
+0.0|mein|pronoun|my|Mein Herz klopft schneller als gedacht.|My heart beats faster than expected.|
+1.0|das Schicksal|noun|destiny|Das Schicksal lenkt oft unsere Wege heimlich.|Destiny often guides our paths secretly.|
+2.0|sein|verb|to be|Sein Wunsch war stärker als jede Vernunft.|His desire was stronger than any reason.|
 3.0|ein|article|a|Ein leises Klopfen war an der Tür zu hören.|A faint knock was heard at the door.|ein;leise;Klopfen;sein;an;der;Tür;zu;hören
+4.0|leer|adjective|empty|Der Raum war plötzlich völlig leer und still.|The room was suddenly completely empty and silent.|
+5.0|das Blatt|noun|sheet|Das Blatt fiel sanft vom Baum auf den Boden.|The sheet fell gently from the tree to the ground.|
+6.0|das Papier|noun|paper|Das Papier raschelte leise im Morgenwind.|The paper rustled softly in the morning breeze.|
+7.0|können|verb|can|Er kann das Rätsel schneller lösen als gedacht.|He can solve the puzzle faster than expected.|
+8.0|so|adverb|so|So klar war der Himmel schon lange nicht mehr.|The sky hasn’t been so clear in a long time.|
 9.0|geduldig|adjective|patient|Der Lehrer blieb geduldig trotz vieler Fragen.|The teacher remained patient despite many questions.|der;Lehrer;bleiben;geduldig;trotz;viel;Frage
+10.0|ich|pronoun|I|Ich schreibe jeden Tag ein Kapitel meines Buches.|I write a chapter of my book every day.|
+11.0|haben|verb|to have|Wir haben genug Zeit für ein weiteres Abenteuer.|We have enough time for another adventure.|
+12.0|dieser|pronoun|this|Dieser Moment bleibt für immer in Erinnerung.|This moment remains forever in memory.|
+13.0|warten|verb|to wait|Wir warten geduldig auf den ersten Schneefall.|We wait patiently for the first snowfall.|
+14.0|satt|adjective|full|Ich bin satt und zufrieden nach dem großen Fest.|I am full and satisfied after the big celebration.|
+15.0|seit|preposition|since|Seit gestern ist der Himmel grau und regnerisch.|Since yesterday, the sky has been gray and rainy.|
+16.0|die Woche|noun|the week|Die Woche begann hektisch, endete aber ruhig.|The week started hectic but ended calmly.|
+17.0|fallen|verb|to fall|Die Blätter fallen sanft von den alten Bäumen.|The leaves fall gently from the old trees.|
+18.0|mir|pronoun|to me|Es scheint mir, als sei alles ein schöner Traum.|It seems to me as if everything is a beautiful dream.|
+19.0|nichts|pronoun|nothing|Ohne deinen Rat hätte ich nichts erreicht.|Without your advice, I would have achieved nothing.|
+20.0|mehr|adverb|more|Ich habe mehr getan, als ich je erwartet hätte.|I did more than I ever expected.|
+21.0|starren|verb|to stare|Er starrt tief in die unergründliche Dunkelheit.|He stares deeply into the unfathomable darkness.|
+22.0|in|preposition|in|In der Ferne leuchteten die Lichter der Stadt.|In the distance, the city lights were shining.|
+23.0|der|article|the|Der Mond schien hell über den stillen Wäldern.|The moon shone brightly over the quiet forests.|
 24.0|das Dunkel|noun|the darkness|Im Dunkel des Waldes hörte man nur die Käuzchen.|In the darkness of the forest, only the owls could be heard.|in;Dunkel;der;Wald;hören;man;nur;der;das Käuzchen
+25.0|der Raum|noun|room|Der Raum füllte sich langsam mit Sonnenlicht.|The room slowly filled with sunlight.|
+26.0|nach|preposition|after|Nach dem Regen duftete die Luft frisch und rein.|After the rain, the air smelled fresh and clean.|
+27.0|die Stunde|noun|the hour|Die Stunde des Abschieds war emotional und schwer.|The hour of farewell was emotional and hard.|
+28.0|schlafen|verb|to sleep|Er wollte nur noch schlafen nach der langen Reise.|He just wanted to sleep after the long journey.|
+29.0|endlich|adverb|finally|Endlich erreicht er das hohe Ziel.|Finally, he reaches the lofty goal.|
 30.0|sie|pronoun|she|Sie hat das Projekt mit Bravour gemeistert.|She mastered the project with excellence.|sie;haben;der;Projekt;mit;Bravour;meistern
+31.0|kommen|verb|to come|Viele Gäste kommen zur Feier am Wochenende.|Many guests are coming to the party on the weekend.|
+32.0|aus|preposition|out|Aus der Tiefe stieg eine unheimliche Stille auf.|Out of the depths arose an eerie silence.|
+33.0|die Tiefe|noun|the depth|Die Tiefe des Ozeans ist voller Geheimnisse.|The depth of the ocean is full of mysteries.|
+34.0|der Traum|noun|dream|Der Traum war so lebendig, dass er real erschien.|The dream was so vivid that it felt real.|
+35.0|und|conjunction|and|Er kam und brachte gute Nachrichten mit.|He came and brought good news.|
+36.0|kriechen|verb|to crawl|Die Schlange kroch langsam durch das hohe Gras.|The snake crawled slowly through the tall grass.|
+37.0|das Herz|noun|heart|Das Herz schlug wild vor Aufregung und Freude.|The heart beat wildly with excitement and joy.|
+38.0|hinein|adverb|inside|Er blickte tief hinein in die unendliche Weite.|He looked deep inside the infinite vastness.|
+39.0|plötzlich|adverb|suddenly|Plötzlich erstrahlte der Himmel in goldenem Licht.|Suddenly, the sky shone in golden light.|
+40.0|die Phantasie|noun|the imagination|Die Phantasie erschafft neue Welten.|The imagination creates new worlds.|
+41.0|doch|adverb|yet|Es ist schwierig, doch wir geben nicht auf.|It’s difficult, yet we don’t give up.|
 42.0|ihr|pronoun|her|Hast du ihr das Buch zurückgegeben?|Did you return the book to her?|die Henne;du;ihr;der;Buch;zurückgeben
+43.0|der Preis|noun|price|Der Preis für den Mut war höher als erwartet.|The price for courage was higher than expected.|
+44.0|sehen|verb|to see|Ich sehe das Ziel klar vor mir in der Ferne.|I see the goal clearly in the distance.|
 45.0|du|pronoun|you|Du solltest die Anweisungen genauer durchlesen.|You should read the instructions more carefully.|du;sollen;der;Anweisung;genau;durchlesen
+46.0|nicht|adverb|not|Das ist nicht das Ende, sondern ein neuer Anfang.|This is not the end, but a new beginning.|
+47.0|der Geist|noun|spirit|Der Geist des alten Hauses war noch spürbar.|The spirit of the old house was still palpable.|
+48.0|rufen|verb|to call|Wir rufen nach Hilfe, doch niemand hört uns.|We call for help, yet no one hears us.|
+50.0|die Nacht|noun|night|Die Nacht war still, nur die Sterne funkelten.|The night was silent, only the stars twinkled.|
+51.0|während|conjunction|while|Während es regnete, lasen wir alte Geschichten.|While it rained, we read old stories.|
 52.0|werden|verb|to become|Er wird eines Tages ein großer Künstler werden.|He will one day become a great artist.|er;werden;ein;Tag;ein;groß;Künstler;werden
+53.0|hier|adverb|here|Hier beginnt das Abenteuer, das wir suchen.|Here begins the adventure we’re looking for.|
+54.0|viel|adjective|much|Es gibt viel zu entdecken in dieser fremden Stadt.|There is much to discover in this foreign city.|
+55.0|zu|preposition|too|Zu viele Gedanken rauben mir den Schlaf.|Too many thoughts rob me of sleep.|
+56.0|groß|adjective|big|Der große Baum spendete Schatten an heißen Tagen.|The big tree provided shade on hot days.|
+57.0|lassen|verb|to let|Lass den Moment nicht ungenutzt verstreichen!|Don’t let the moment pass unused!|
+58.0|mich|pronoun|me|Sie bat mich, den Brief heimlich zu übergeben.|She asked me to deliver the letter secretly.|
+59.0|los|adverb|off|Wir brachen los, um die Berge zu erkunden.|We set off to explore the mountains.|
+59.0001|los lassen|verb|let go|Sie musste ihre Sorgen loslassen.|She had to let go of her worries.|
+60.0|man|pronoun|man|Man muss zuerst denken, dann handeln.|One must think first, then act.|
+61.0|schlagen|verb|to hit|Der Boxer schlug mit voller Wucht zu.|The boxer hit with full force.|
+61.0001|vorschlagen|verb|to suggest|Ich möchte einen neuen Plan vorschlagen.|I would like to suggest a new plan.|
+62.0|der Handel|noun|trade|Der Handel mit seltenen Büchern floriert.|The trade in rare books is thriving.|
+63.0|vor|preposition|before|Vor der Reise packte er seinen Koffer.|Before the trip, he packed his suitcase.|
+64.0|willigen|verb|to consent|Die Partei willigte nach langem Zögern ein.|The party consented after long hesitation.|
+65.0|nur|adverb|only|Ich wollte nur kurz nachfragen.|I just wanted to ask briefly.|
+66.0|zögern|verb|to hesitate|Er zögerte, bevor er die Antwort gab.|He hesitated before giving the answer.|
+67.0|auch|adverb|also|Sie kann singen und auch tanzen.|She can sing and also dance.|
+68.0|wenn|conjunction|if|Wenn es regnet, bleiben wir zu Hause.|If it rains, we'll stay at home.|
+69.0|der Verstand|noun|mind|Der Verstand ist das wertvollste Werkzeug.|The mind is the most valuable tool.|
+70.0|verlieren|verb|to lose|Sie verlor die Schlüssel im Garten.|She lost the keys in the garden.|
 71.0|wollen|verb|to want|Ich will heute Abend das neue Buch lesen.|I want to read the new book tonight.|ich;wollen;heute;Abend;der;neu;Buch;lesen
+72.0|berühmt|adjective|famous|Das Gemälde ist weltweit berühmt.|The painting is famous worldwide.|
+73.0|dafür|adverb|for that|Er hat hart gearbeitet, dafür verdient er Respekt.|He worked hard; for that, he deserves respect.|
+74.0|geben|verb|to give|Kannst du mir bitte die Unterlagen geben?|Can you please give me the documents?|
 75.0|die Melodie|noun|the melody|Die Melodie des Liedes blieb lange im Gedächtnis.|The melody of the song stayed in memory for a long time.|der;Melodie;der;Lied;bleiben;lange;in;Gedächtnis
+76.0|immer|adverb|always|Er ist immer pünktlich und vorbereitet.|He is always punctual and prepared.|
+77.0|neu|adjective|new|Sie kaufte ein neues Fahrrad für den Sommer.|She bought a new bike for the summer.|
+78.0|Guß|noun|casting|Der Guß aus Bronze war ein Meisterwerk.|The casting in bronze was a masterpiece.|
+79.0|bringen|verb|to bring|Könntest du mir ein Glas Wasser bringen?|Could you bring me a glass of water?|
 80.0|herein|adverb|in|Der Gastgeber bat die Gäste freundlich herein.|The host politely invited the guests in.|der;Gastgeber;bitten;der;Gast;freundlich;herein
+81.0|die Tausend|noun|thousand|Die Tausend Lichter erhellten den Raum.|The thousand lights illuminated the room.|
+81.001|das Tausend|noun|thousand|Ein großes Tausend stand auf der Tafel.|A large thousand was written on the board.|
+81.002|der Tausend|noun|thousand|Der Tausend war das Thema des Vortrags.|The thousand was the topic of the lecture.|
+82.0|schwarz|adjective|black|Er trug einen schwarzen Anzug zur Gala.|He wore a black suit to the gala.|
+83.0|Fluß|noun|river|Der Fluß führte nach dem Regen Hochwasser.|The river flooded after the rain.|
+84.0|stürzen|verb|to fall|Der Wanderer stürzte über die Klippe.|The hiker fell off the cliff.|
+85.0|auf|preposition|on|Auf dem Tisch lag ein Brief voller Erinnerungen.|On the table lay a letter full of memories.|
+86.0|hören|verb|to hear|Ich kann die Musik aus dem Zimmer hören.|I can hear the music from the room.|
+87.0|an|preposition|at|An der Wand hing ein altes Gemälde seiner Familie.|At the wall hung an old painting of his family.|
+88.0|oh|interjection|oh|Oh, das war eine wunderbare Überraschung!|Oh, that was a wonderful surprise!|
+89.0|der Meister|noun|master|Der Meister leitete die Werkstatt mit Geschick.|The master skillfully managed the workshop.|
+90.0|die Not|noun|need|Die Not trieb die Menschen zu kreativen Lösungen.|The need drove people to creative solutions.|
+92.0|nie|adverb|never|Ich habe nie so etwas Schönes gesehen.|I have never seen anything so beautiful.|
+93.0|wieder|adverb|again|Er kam wieder zu spät zur Besprechung.|He was late for the meeting again.|
+96.0|schön|adjective|beautiful|Die Aussicht auf die Berge war schön.|The view of the mountains was beautiful.|
 97.0|der Leichtmatrose|noun|the deckhand|Der Leichtmatrose half beim Entladen der Fracht.|The deckhand assisted with unloading the cargo.|der;Leichtmatrose;helfen;bei;entladen;der;Fracht
+99.0|uns|pronoun|us|Hilf uns bitte, das Problem zu lösen.|Please help us solve the problem.|
 100.0|bummeln|verb|to stroll|Wir gehen gern durch die Altstadt bummeln.|We enjoy strolling through the old town.|wir;gehen;gern;durch;der;Altstadt;bummeln
+101.0|gehen|verb|to go|Wir gehen heute Abend ins Kino.|We are going to the cinema tonight.|
 102.0|herab|adverb|down|Der Kletterer blickte vorsichtig herab ins Tal.|The climber cautiously looked down into the valley.|der;Kletterer;blicken;vorsichtig;herab;in;Tal
 103.0001|der Seemann|noun|sailor|Der alte Seemann erzählte spannende Geschichten.|The old sailor told exciting stories.|der;alt;Seemann;erzählen;spannend;Geschichte
+103.0002|die Hose|noun|the pants|Die Hose war zerrissen, aber noch tragbar.|The pants were torn but still wearable.|
+104.0|alle|pronoun|all|Alle kamen zur Feier und hatten Spaß.|Everyone came to the celebration and had fun.|
+105.0|sollen|verb|should|Du sollst den Bericht bis Freitag abgeben.|You should submit the report by Friday.|
 106.0|fummeln|verb|to fiddle|Er fummelte nervös an seinem Kugelschreiber herum.|He nervously fiddled with his pen.|er;fummeln;nervös;an;sein;Kugelschreiber;herum
 108.0|stopfen|verb|to stuff|Er stopfte die Kleidung hastig in die Reisetasche.|He hastily stuffed the clothes into the travel bag.|er;stopfen;der;Kleidung;hastig;in;der;Reisetasche
 109.0|das Leck|noun|the leak|Das Leck im Tank wurde schnell abgedichtet.|The leak in the tank was quickly sealed.|der;Leck;in;Tank;werden;schnell;abdichten
+110.0001|die Rose|noun|rose|Die Rose duftet herrlich im Garten.|The rose smells wonderful in the garden.|
+111.0|bald|adverb|soon|Er wird bald seine Prüfungen schreiben.|He will take his exams soon.|
+112.0|schon|adverb|already|Sie hat die Arbeit schon erledigt.|She has already finished the work.|
 113.0|schrubben|verb|to scrub|Die Putzfrau musste den Boden gründlich schrubben.|The cleaner had to scrub the floor thoroughly.|der;Putzfrau;müssen;der;Boden;gründlich;schrubben
+114.0|dir|pronoun|you|Ich habe dir eine Nachricht geschickt.|I sent you a message.|
 115.0|das Deck|noun|the deck|Das Deck des Schiffs wurde frisch gestrichen.|The deck of the ship was freshly painted.|der;Deck;der;Schiff;werden;frisch;streichen
+116.0|fern|adjective|distant|Der fern gelegene Berg war schwer erreichbar.|The distant mountain was hard to reach.|
+119.0|der Hafen|noun|harbor|Der Hafen war voller großer Schiffe.|The harbor was full of large ships.|
+120.0|gern|adverb|gladly|Ich helfe dir gern bei deinem Projekt.|I’ll gladly help you with your project.|
+121.0|bleiben|verb|to stay|Wir bleiben heute länger im Büro.|We are staying longer at the office today.|
+122.0|bei|preposition|at|Ich bleibe bei meinem ursprünglichen Plan.|I stick to my original plan.|
+123.0|heute|adverb|today|Heute scheint die Sonne und es ist warm.|Today the sun is shining and it’s warm.|
+124.0|müssen|verb|must|Wir müssen pünktlich am Bahnhof sein.|We must be on time at the station.|
+125.0|lang|adjective|long|Die Straße war lang und führte ins Unbekannte.|The road was long and led into the unknown.|
+126.0|dich|pronoun|you|Ohne dich hätte ich niemals den Mut gefunden.|Without you, I would never have found the courage.|
+127.0|das Feuer|noun|the fire|Das Feuer wärmte die kalte und einsame Nacht.|The fire warmed the cold and lonely night.|
 128.0|entfachen|verb|to ignite|Die Diskussion entfachte eine hitzige Debatte.|The discussion ignited a heated debate.|der;Diskussion;entfachen;ein;hitzig;Debatte
+129.0|allein|adverb|alone|Allein ging sie durch den stillen Wald.|Alone, she walked through the silent forest.|
 130.0|der Matrose|noun|sailor|Der Matrose kletterte mutig auf die Mastspitze.|The sailor bravely climbed to the masthead.|der;Matrose;klettern;mutig;auf;der;Mastspitze
 131.0|der Streich|noun|the prank|Der harmlose Streich sorgte für viel Gelächter.|The harmless prank caused a lot of laughter.|der;harmlos;Streich;sorgen;für;viel;Gelächter
 132.0|das Segel|noun|sail|Das Segel flatterte im starken Wind auf dem Meer.|The sail fluttered in the strong wind on the sea.|der;Segel;flattern;in;stark;Wind;auf;der;Meer
+133.0|der Kauf|noun|the purchase|Der Kauf des Hauses war eine große Entscheidung.|The purchase of the house was a big decision.|
+134.0|paar|adjective|few|Ein paar gute Freunde machen das Leben wertvoll.|A few good friends make life valuable.|
 135.0|das Rubbellos|noun|scratch card|Mit dem Rubbellos gewann sie eine kleine Summe.|She won a small sum with the scratch card.|mit;der;Rubbellos;gewinnen;sie;ein;klein;Summe
+136.0|der Junge|noun|the boy|Der Junge zeigt stolz sein neues Fahrrad.|The boy proudly shows his new bike.|
+137.0|treu|adjective|loyal|Er blieb treu, obwohl ihn viele aufgegeben hatten.|He stayed loyal even though many had given up on him.|
+138.0|zeigen|verb|show|Er wollte der Klasse sein Talent zeigen.|He wanted to show his talent to the class.|
+139.0|dein|pronoun|your|Ist das dein Buch auf dem Tisch?|Is that your book on the table?|
 140.0|der Mast|noun|the mast|Der Mast des Segelschiffs brach bei starkem Sturm.|The mast of the sailboat broke in the strong storm.|der;Mast;der;Segelschiff;brechen;bei;stark;Sturm
+140.001|die Mast|noun|the mast|Die Mast des Segelboots ragte in den Himmel.|The mast of the sailboat towered into the sky.|
+141.0|werfen|verb|throw|Sie wollte den Ball weit ins Feld werfen.|She wanted to throw the ball far into the field.|
 142.0|der Anker|noun|anchor|Das Schiff ließ seinen Anker im Hafen fallen.|The ship dropped its anchor in the harbor.|der;Schiff;lassen;sein;Anker;in;Hafen;fallen
+143.0|schnell|adjective|quick|Der schnelle Zug erreichte den Bahnhof pünktlich.|The quick train arrived at the station on time.|
 144.0|verblühen|verb|to wither|Die Blumen verblühten nach wenigen heißen Tagen.|The flowers withered after a few hot days.|der;Blume;verblühen;nach;weniger;heiß;Tag
 145.0|das Los|noun|the lot|Das Los entschied, wer das Spiel beginnen durfte.|The lot decided who could start the game.|der;Los;entscheiden;wer;der;Spiel;beginnen;dürfen
+147.0|voll|adjective|full|Der Raum war voll von erwartungsvoller Stille.|The room was full of expectant silence.|
+148.0|die Kraft|noun|the strength|Mit letzter Kraft hob er die schwere Kiste.|With his last strength, he lifted the heavy box.|
 149.0|voraus|adverb|ahead|Sie war ihrer Zeit weit voraus mit ihren Ideen.|She was far ahead of her time with her ideas.|sie;sein;ihr;Zeit;weit;voraus;mit;ihr;Idee
 153.0|jawohl|adverb|certainly|Jawohl, die Entscheidung ist endgültig.|Certainly, the decision is final.|jawohl;der;Entscheidung;sein;endgültig
 154.0|ahoi|interjection|ahoy|Ahoi, Kameraden! Das Abenteuer ruft!|Ahoy, comrades! Adventure calls!|ahoi;Kamerad;der;Abenteuer;rufen
 155.0|er|pronoun|he|Er erklomm den Gipfel mit erstaunlicher Ausdauer.|He climbed the summit with astonishing perseverance.|er;erklettern;der;Gipfel;mit;erstaunlich;Ausdauer
+156.0|schleichen|verb|sneak|Die Katze schlich lautlos durch das Gras.|The cat sneaked silently through the grass.|
+157.0|sich|pronoun|oneself|Er musste sich auf die neue Situation einstellen.|He had to adjust himself to the new situation.|
+158.0|der Mensch|noun|the human|Der Mensch sucht stets nach neuen Antworten.|The human always seeks new answers.|
+158.001|das Mensch|noun|the human (colloquial)|Das Mensch war so stur wie ein Felsen am Fluss.|The human was as stubborn as a rock in the river.|
+159.0|die Menge|noun|the crowd|Die Menge jubelte, als das Feuerwerk begann.|The crowd cheered as the fireworks began.|
+160.0|ganz|adverb|entirely|Ganz plötzlich änderte sich die Stimmung im Raum.|Entirely suddenly, the mood in the room changed.|
 161.0|die Fährte|noun|the trail|Die Detektive verfolgten die Fährte bis zum Hafen.|The detectives followed the trail to the harbor.|der;Detektiv;verfolgen;der;Fährte;bis;zu;Hafen
+162.0|hin|adverb|there|Hin und wieder schaute er aus dem Fenster hinaus.|There and then, he looked out of the window.|
+163.0|lieben|verb|love|Er wird sie für immer lieben, egal was passiert.|He will love her forever, no matter what happens.|
+164.0|die Stadt|noun|the city|Die Stadt erwachte mit dem ersten Licht des Tages.|The city awakened with the first light of the day.|
+165.0|der Lärm|noun|the noise|Der Lärm des Marktes erfüllte die engen Gassen.|The noise of the market filled the narrow alleys.|
 166.0|die Enge|noun|narrowness|Die Enge des Raumes machte sie nervös.|The narrowness of the room made her nervous.|der;Enge;der;Raum;machen;sie;nervös
+167.0|Jagen|verb|to hunt|Die Wölfe jagen in der Nacht nach Beute.|The wolves hunt for prey at night.|
 168.0|der Lustgewinn|noun|the gain of pleasure|Der Lustgewinn aus dem neuen Hobby war enorm.|The gain of pleasure from the new hobby was enormous.|der;Lustgewinn;aus;der;neu;Hobby;sein;enorm
 169.0|es|pronoun|it|Es regnete den ganzen Tag ohne Pause.|It rained all day without a break.|es;regnen;der;ganz;Tag;ohne;Pause
+170.0|übernehmen|verb|to take over|Der neue Chef will die Leitung übernehmen.|The new boss wants to take over the leadership.|
+171.0|ihn|pronoun|him|Ich habe ihn gestern im Park gesehen.|I saw him in the park yesterday.|
 172.0|der Trieb|noun|the drive|Sein kreativer Trieb kennt keine Grenzen.|His creative drive knows no limits.|sein;kreativ;Trieb;kennen;kein;Grenze
+173.0|der Jäger|noun|the hunter|Der Jäger spürte die Spuren im Schnee auf.|The hunter tracked the traces in the snow.|
+174.0|greifen|verb|to grab|Sie greifen schnell nach den letzten Plätzen.|They quickly grab the last seats.|
+175.0|von|preposition|from|Er bekam das Geschenk von seiner Schwester.|He received the gift from his sister.|
+176.0|hinten|adverb|behind|Die Katze versteckt sich hinten im Schrank.|The cat is hiding behind the cupboard.|
+177.0|denn|conjunction|because|Er bleibt zu Hause, denn er ist krank.|He stays at home because he is sick.|
+178.0|suchen|verb|to search|Die Taucher suchen nach dem versunkenen Schiff.|The divers are searching for the sunken ship.|
+179.0|die Liebe|noun|love|Die Liebe zwischen ihnen wächst jeden Tag.|The love between them grows every day.|
+181.0|sonst|adverb|otherwise|Beeil dich, sonst verpassen wir den Zug.|Hurry up, otherwise we’ll miss the train.|
+182.0|nirgends|adverb|nowhere|Nirgends fand er einen Hinweis auf das Rätsel.|Nowhere did he find a clue to the puzzle.|
+183.0|finden|verb|to find|Kannst du meine Schlüssel im Wohnzimmer finden?|Can you find my keys in the living room?|
+184.0|das Fleisch|noun|the meat|Das Fleisch ist frisch und stammt aus der Region.|The meat is fresh and comes from the region.|
+185.0|das Fell|noun|the fur|Das Fell des Tieres glänzt in der Sonne.|The fur of the animal shines in the sun.|
+186.0|das Haar|noun|the hair|Das Haar war so fein wie ein goldenes Netz.|The hair was as fine as a golden net.|
+186.001|die Haar|noun|the hair|Die Haar ist ein Symbol für Schönheit und Stolz.|The hair is a symbol of beauty and pride.|
+187.0|die Haut|noun|the skin|Die Haut fühlt sich rau und trocken an.|The skin feels rough and dry.|
+188.0|das Glied|noun|the limb|Das Glied war durch die Verletzung geschwollen.|The limb was swollen due to the injury.|
+189.0|das Blut|noun|the blood|Das Blut tropfte langsam auf den Boden.|The blood dripped slowly onto the floor.|
 190.0|lecken|verb|to lick|Der Hund begann, seine Wunde zu lecken.|The dog started to lick its wound.|der;Hund;beginnen;sein;Wunde;zu;lecken
+192.0|tun|verb|to do|Was sollen wir tun, um das Problem zu lösen?|What should we do to solve the problem?|
+193.0|die Großstadt|noun|the big city|Die Großstadt pulsiert voller Leben und Energie.|The big city pulses with life and energy.|
+195.0|hell|adjective|bright|Das helle Licht blendete die Zuschauer.|The bright light dazzled the spectators.|
+196.0|liegen|verb|to lie|Das Buch liegt offen auf dem Schreibtisch.|The book lies open on the desk.|
+197.0|da|adverb|there|Da, wo die Sonne untergeht, ist der Horizont rot.|There, where the sun sets, the horizon is red.|
+198.0|eng|Verb|englisch|Ich engagiere mich, weil es wichtig ist.|I get involved because it is important.|
 199.0|umschlingen|verb|to entwine|Die Reben umschlangen die alten Gemäuer sanft.|The vines gently entwined the old walls.|der;Rebe;umschlingen;der;alt;Gemäuer;sanft
+200.0|der Mann|Noun|man|Der Mann hob das schwere Paket mit Leichtigkeit.|The man lifted the heavy package with ease.|
+201.0|das Tier|Noun|animal|Das Tier versteckte sich schnell im Gebüsch.|The animal quickly hid in the bushes.|
 202.0|ineinander|adverb|into each other|Die Zahnräder griffen perfekt ineinander.|The gears meshed perfectly into each other.|der;Zahnrad;greifen;perfekt;ineinander
+203.0|eindringen|Verb|intrude|Ein Dieb wollte in das Haus eindringen.|A thief tried to intrude into the house.|
 204.0|surreal|adjective|surreal|Die Atmosphäre im Film war fast surreal.|The atmosphere in the movie was almost surreal.|der;Atmosphäre;in;Film;sein;fast;surreal
 205.0|das Zweigespann|noun|tandem|Das Zweigespann arbeitete effektiv an der Lösung.|The tandem worked effectively on the solution.|der;Zweigespann;arbeiten;effektiv;an;der;Lösung
+206.0|flüstern|Verb|whisper|Sie begann, leise in sein Ohr zu flüstern.|She began to whisper softly into his ear.|
+207.0|sanft|Adjective|gentle|Der sanfte Wind wehte über die Felder.|The gentle wind blew over the fields.|
 208.0|taub|adjective|deaf|Nach der Explosion war er auf einem Ohr taub.|After the explosion, he was deaf in one ear.|nach;der;Explosion;sein;er;auf;ein;Ohr;taub
+209.0|das Ohr|Noun|ear|Ein seltsames Geräusch drang in mein Ohr.|A strange sound entered my ear.|
+211.0|freuen|Verb|rejoice|Ich freue mich auf unser Treffen morgen.|I rejoice in our meeting tomorrow.|
+212.0|heut|Adverb|today|Heut wird ein schöner Tag, glaub mir!|Today will be a beautiful day, believe me!|
+213.0|unser|Pronoun|our|Unser Haus liegt direkt an der Küste.|Our house is located right on the coast.|
+214.0|der Kampf|Noun|fight|Der Kampf um Gerechtigkeit hat erst begonnen.|The fight for justice has just begun.|
+216.0|morgen|Adverb|tomorrow|Morgen starten wir die lange Wanderung.|Tomorrow we start the long hike.|
+217.0|jagen|Verb|hunt|Sie jagen das Wild durch den dichten Wald.|They hunt the game through the dense forest.|
+218.0|erneut|Adverb|again|Erneut versuchte er, die Prüfung zu bestehen.|Again he tried to pass the exam.|
 219.0|wildern|verb|to poach|Die Wilderer wurden im Naturschutzgebiet gefasst.|The poachers were caught in the nature reserve.|der;Wilderer;werden;in;Naturschutzgebiet;fassen
+220.0|morgens|Adverb|in the morning|Morgens genieße ich eine Tasse heißen Kaffee.|In the morning, I enjoy a cup of hot coffee.|
+221.0|der Spiegel|Noun|mirror|Der Spiegel fiel mit einem lauten Knall um.|The mirror fell with a loud crash.|
+222.0|schauen|verb|look|Sie wollte über den Horizont hinaus schauen.|She wanted to look beyond the horizon.|
+223.0|dann|Adverb|then|Wir essen zu Abend, und dann sehen wir einen Film.|We have dinner, and then we watch a movie.|
+224.0|die Träne|Noun|tear|Eine einsame Träne rollte über ihr Gesicht.|A single tear rolled down her face.|
+225.0|das Gesicht|Noun|face|Das Gesicht des Künstlers war voller Farbe.|The artist's face was full of paint.|
+226.0|wahr|Adjective|true|Die wahre Geschichte blieb lange verborgen.|The true story remained hidden for a long time.|
+227.0|lieb|Adjective|dear|Das ist mein liebster Moment des Tages.|This is my dearest moment of the day.|
+228.0|glauben|Verb|believe|Ich glaube, dass alles möglich ist, wenn man will.|I believe that everything is possible if one wants to.|
 229.0|die Schuld|noun|guilt|Die Schuld des Angeklagten wurde klar bewiesen.|The guilt of the defendant was clearly proven.|der;Schuld;der;der Angeklagte;werden;klar;beweisen
 230.0|die Reue|noun|the remorse|Seine Reue über die Tat war deutlich spürbar.|His remorse for the act was clearly palpable.|sein;Reue;über;der;Tat;sein;deutlich;spürbar
+231.0|kennen|Verb|know|Ich kenne die Stadt wie meine Westentasche.|I know the city like the back of my hand.|
 232.0|das Nein|noun|no|Sein Nein zu dem Angebot war unerwartet.|His no to the offer was unexpected.|sein;Nein;zu;der;Angebot;sein;unerwartet
+233.0|fühlen|Verb|feel|Ich fühle mich wohl in dieser Umgebung.|I feel comfortable in this environment.|
+234.0|jeder|Pronoun|everyone|Jeder hat das Recht auf eine eigene Meinung.|Everyone has the right to their own opinion.|
+235.0|der Tisch|Noun|table|Der Tisch im Esszimmer ist aus massivem Holz.|The table in the dining room is made of solid wood.|
 236.0|bleich|adjective|pale|Nach der Nachricht wurde sie ganz bleich.|She turned completely pale after the news.|nach;der;Nachricht;werden;sie;ganz;bleich
+237.0|still|Adjective|quiet|Der Wald war still, kein Laut war zu hören.|The forest was quiet, no sound could be heard.|
+238.0|starr|Adjective|rigid|Sein Blick war starr auf die Tür gerichtet.|His gaze was rigidly fixed on the door.|
+239.0|ohne|Preposition|without|Ohne Mut gibt es keinen echten Fortschritt.|Without courage, there is no real progress.|
 240.0|die Qual|noun|the torment|Die Qual des Wartens war kaum zu ertragen.|The torment of waiting was barely bearable.|der;Qual;der;das Warten;sein;kaum;zu;ertragen
+241.0|der Schädel|Noun|skull|Der Schädel des Dinosauriers war riesig.|The skull of the dinosaur was enormous.|
+242.0|die Brust|Noun|chest|Er fühlte den Schlag auf seine Brust.|He felt the blow on his chest.|
 243.0|entzwei|adjective|in two|Der starke Sturm riss den alten Baum entzwei.|The strong storm tore the old tree in two.|der;stark;Sturm;reißen;der;alt;Baum;entzwei
+244.0|der Leib|Noun|body|Der Leib des Tänzers bewegte sich geschmeidig.|The dancer's body moved gracefully.|
 245.0|gebären|verb|to give birth|Die Königin gebar einen gesunden Thronfolger.|The queen gave birth to a healthy heir.|der;Königin;gebären;ein;gesund;Thronfolger
 247.0|mal|noun|time (occurrence)|Das nächste Mal wird alles besser organisiert.|The next time everything will be better organized.|der;der Nächste;Mal;werden;alle;gut;organisieren
 248.0|der Napf|noun|the bowl|Der Hund fraß aus seinem Napf mit großem Appetit.|The dog ate from his bowl with great appetite.|der;Hund;fressen;aus;sein;Napf;mit;groß;Appetit
+249.0|mit|Preposition|with|Mit Freunden zu reisen macht alles besser.|Traveling with friends makes everything better.|
+250.0|das Fett|Noun|fat|Das Fett auf dem Fleisch sollte entfernt werden.|The fat on the meat should be removed.|
+251.0|das Hirn|Noun|brain|Das Hirn verarbeitet Millionen von Eindrücken.|The brain processes millions of impressions.|
+252.0|der Gott|Noun|god|Viele beteten zu ihrem Gott um Schutz.|Many prayed to their god for protection.|
+253.0|der Tempel|Noun|temple|Der alte Tempel war voller historischer Artefakte.|The old temple was full of historical artifacts.|
+254.0|der Teufel|Noun|devil|Der Teufel erschien in seinen düstersten Träumen.|The devil appeared in his darkest dreams.|
+255.0|der Stall|Noun|stable|Der Stall war sauber und gut belüftet.|The stable was clean and well-ventilated.|
+256.0|der Kopf|Noun|head|Der Kopf des Kindes war voller Locken.|The child's head was full of curls.|
 257.0|blank|adjective|shiny|Die Fenster wurden auf Hochglanz blank geputzt.|The windows were polished to a shiny finish.|der;Fenster;werden;auf;Hochglanz;blank;putzen
+258.0|der Boden|Noun|floor|Der Boden war mit weichem Teppich bedeckt.|The floor was covered with soft carpet.|
+259.0|das Paradies|Noun|paradise|Das Paradies war eine Insel mit Palmen.|The paradise was an island with palm trees.|
 260.0|der Sündenfall|noun|the fall of man|Der Sündenfall symbolisiert menschliche Schwäche.|The fall of man symbolizes human weakness.|der;Sündenfall;symbolisieren;menschlich;Schwäche
+261.0|der Rest|Noun|rest|Der Rest der Gruppe war noch im Wald unterwegs.|The rest of the group was still in the forest.|
 262.0|der Eimer|noun|bucket|Der Eimer ist voller Wasser vom Brunnen.|The bucket is full of water from the well.|der;Eimer;sein;voll;Wasser;von;Brunnen
+262.001|die Eimer|Noun|buckets|Die Eimer wurden randvoll mit Wasser gefüllt.|The buckets were filled to the brim with water.|
+263.0|lauter|Adjective|louder|Die Musik wurde immer lauter, je später es wurde.|The music became louder as it got later.|
 265.0|der Greis|noun|old man|Der Greis erzählte Geschichten aus seiner Jugend.|The old man told stories from his youth.|der;Greis;erzählen;Geschichte;aus;sein;Jugend
+266.0|das Mädchen|Noun|girl|Das Mädchen spielte fröhlich im Park.|The girl was playing happily in the park.|
+267.0|einst|Adverb|once|Einst war dieses Land unberührte Wildnis.|Once this land was untouched wilderness.|
+268.0|verkaufen|Verb|sell|Er wollte sein altes Auto verkaufen.|He wanted to sell his old car.|
+269.0|fett|Adjective|fatty|Das fettige Essen machte ihn sehr durstig.|The fatty food made him very thirsty.|
+270.0|die Antwort|noun|answer|Die Antwort klang wie ein verzweifelter Ruf.|The answer sounded like a desperate call.|
 271.0|wer|pronoun|who|Wer hat die Dokumente auf den Tisch gelegt?|Who put the documents on the table?|wer;haben;der;Dokument;auf;der;Tisch;legen
+272.0|quälen|verb|torment|Der Gedanke quälte ihn die ganze Nacht.|The thought tormented him all night.|
+274.0|sterben|verb|die|Ohne Hoffnung will ich nicht sterben müssen.|I don't want to have to die without hope.|
 275.0|wir|pronoun|we|Wir haben die schwierige Aufgabe gemeinsam gelöst.|We solved the difficult task together.|wir;haben;der;schwierig;Aufgabe;gemeinsam;lösen
+276.0|für|preposition|for|Das Geschenk ist für eine ganz besondere Person.|The gift is for a very special person.|
+277.0|kurz|adjective|short|Die Rede war kurz, aber sehr eindrucksvoll.|The speech was short but very impressive.|
+278.0|die Zeit|noun|time|Die Zeit verflog während des spannenden Gesprächs.|Time flew during the exciting conversation.|
 279.0|einfädeln|verb|to thread|Er schaffte es, den Faden mühelos einzufädeln.|He managed to thread the needle effortlessly.|er;schaffen;es;der;Faden;mühelos;einfädeln
 281.0|fad|adjective|dull|Das Essen war völlig fad und enttäuschend.|The food was completely dull and disappointing.|der;Essen;sein;völlig;fad;und;enttäuschen
+282.0|verbrennen|verb|burn|Er wollte den Brief, voller Wut, verbrennen.|He wanted to burn the letter in anger.|
+283.0|kalt|adjective|cold|Die Luft war kalt und roch nach Schnee.|The air was cold and smelled of snow.|
+284.0|die Tür|noun|the door|Die Tür knarrte leise im Wind.|The door creaked softly in the wind.|
 285.0|der Regler|noun|controller|Der Regler optimiert die Leistung der Maschine.|The controller optimizes the machine's performance.|der;Regler;optimieren;der;Leistung;der;Maschine
+286.0|verlassen|verb|leave|Er musste das Haus schweren Herzens verlassen.|He had to leave the house with a heavy heart.|
 287.0|das Jammertal|noun|the vale of tears|Das Jammertal schien endlos für die Leidenden.|The vale of tears seemed endless for the sufferers.|der;Jammertal;scheinen;endlos;für;der;der Leidende
+288.0|was|pronoun|what|Was macht diesen Moment so unvergesslich?|What makes this moment so unforgettable?|
+289.0|früh|adjective|early|Der Morgen begann früh mit Vogelgezwitscher.|The morning started early with birdsong.|
+290.0|Groß|adjective|big|Ein großes Abenteuer liegt vor uns allen.|A big adventure lies ahead for all of us.|
+291.0|winzig|adjective|tiny|Ein winziges Detail änderte die ganze Geschichte.|A tiny detail changed the entire story.|
+292.0|klein|adjective|small|Der kleine Hund bellte mutig gegen die Gefahr.|The small dog barked bravely against the danger.|
 293.0|entflammen|verb|to inflame|Die Rede entflammte die Begeisterung der Zuhörer.|The speech inflamed the listeners' enthusiasm.|der;Rede;entflammen;der;Begeisterung;der;Zuhörer
 295.0|die Asche|noun|the ash|Die Asche der Zigarette fiel auf den Boden.|The ash from the cigarette fell to the ground.|der;Asche;der;Zigarette;fallen;auf;der;Boden
+296.0|Lauter|adjective|louder|Das Lied wurde lauter, als die Tür aufging.|The song grew louder as the door opened.|
+298.0|tanzen|verb|dance|Die Kinder tanzten ausgelassen im Regen.|The children danced exuberantly in the rain.|
 299.0|umher|adverb|around|Die Kinder liefen umher und suchten Ostereier.|The children ran around searching for Easter eggs.|der;Kind;laufen;umher;und;suchen;Osterei
 300.0|das Häufchen|noun|the small pile|Das Häufchen Sand war kaum zu übersehen.|The small pile of sand was hard to miss.|der;Häufchen;Sand;sein;kaum;zu;übersehen
 301.0|der Schmutz|noun|dirt|Der Schmutz auf dem Teppich ist kaum zu entfernen.|The dirt on the carpet is hard to remove.|der;Schmutz;auf;der;Teppich;sein;kaum;zu;entfernen
 302.0|feuerfest|adjective|fireproof|Der Safe ist vollständig feuerfest.|The safe is completely fireproof.|der;Safe;sein;vollständig;feuerfest
 303.0|die Bahre|noun|the stretcher|Die Verletzte wurde auf einer Bahre getragen.|The injured person was carried on a stretcher.|der;der Verletzte;werden;auf;ein;Bahre;tragen
 304.0|das Flammenmeer|noun|the sea of flames|Das Flammenmeer verschlang den ganzen Wald.|The sea of flames consumed the entire forest.|der;Flammenmeer;verschlingen;der;ganz;Wald
+305.0|der Faden|noun|the thread|Der Faden riss mitten im Nähen.|The thread broke in the middle of sewing.|
+307.0|reich|adjective|rich|Das reich verzierte Tor war atemberaubend.|The richly decorated gate was breathtaking.|
+308.0|gestern|adverb|yesterday|Gestern war das Wetter sonnig und warm.|Yesterday, the weather was sunny and warm.|
+309.0|nun|adverb|now|Nun war es Zeit, die Wahrheit zu sagen.|Now it was time to tell the truth.|
+311.0|süß|adjective|sweet|Das süße Parfum erinnerte sie an ihre Kindheit.|The sweet perfume reminded her of her childhood.|
+312.0|der Mund|noun|the mouth|Der Mund war voll von süßen Früchten.|The mouth was full of sweet fruits.|
+312.001|die Mund|noun|mouth|Die Mundharmonika klang durch die stille Nacht.|The harmonica sounded through the quiet night.|
+313.0|das Auge|noun|eye|Sein Auge entdeckte ein seltenes Detail im Bild.|His eye spotted a rare detail in the picture.|
 314.0|wie|adverb|how|Wie können wir das Problem effizient lösen?|How can we solve the problem efficiently?|wie;können;wir;der;Problem;effizient;lösen
 315.0|der Mondenschein|noun|the moonlight|Im Mondenschein sah die Landschaft mystisch aus.|In the moonlight, the landscape looked mystical.|in;Mondenschein;sehen;der;Landschaft;mystisch;aus
 316.0|das Rosenblatt|noun|rose petal|Ein einzelnes Rosenblatt lag auf dem Tisch.|A single rose petal lay on the table.|ein;einzeln;Rosenblatt;liegen;auf;der;Tisch
 318.0|streuen|verb|to scatter|Sie streute die Samen gleichmäßig auf das Beet.|She scattered the seeds evenly on the bed.|sie;streuen;der;Samen;gleichmäßig;auf;der;Beet
 319.0|der Vers|noun|the verse|Ein schöner Vers schmückte die Einladungskarte.|A beautiful verse adorned the invitation card.|ein;schön;Vers;schmücken;der;Einladungskarte
+320.0|schenken|verb|give|Sie wollte ihm etwas schenken, das ewig bleibt.|She wanted to give him something that lasts forever.|
+321.0|tief|adjective|deep|Der See war tief und voller dunkler Geheimnisse.|The lake was deep and full of dark secrets.|
+322.0|Herzensgrund|noun|core of the heart|In ihrem Herzensgrund wusste sie, was richtig war.|In her heart's core, she knew what was right.|
 323.0|unerreichbar|adjective|unreachable|Der Gipfel schien für das Team unerreichbar.|The summit seemed unreachable for the team.|der;Gipfel;scheinen;für;der;Team;unerreichbar
+324.0|ewig|adjective|eternal|Ewig währt die Erinnerung an schöne Tage.|Eternal is the memory of beautiful days.|
+325.0|fromm|adjective|pious|Ein frommes Leben verlangt Geduld und Hingabe.|A pious life requires patience and devotion.|
+326.0|der Wunsch|noun|wish|Der Wunsch nach Frieden trieb ihn voran.|The wish for peace drove him forward.|
+327.0|fahren|verb|drive|Wir wollen morgen ans Meer fahren und entspannen.|We want to drive to the sea tomorrow and relax.|
 328.0|verfluchen|verb|to curse|Er verfluchte den Tag, an dem er sie traf.|He cursed the day he met her.|er;verfluchen;der;Tag;an;der;er;sie;treffen
+329.0|sagen|verb|say|Er wollte ihr endlich die Wahrheit sagen.|He finally wanted to tell her the truth.|
+330.0|warum|adverb|why|Niemand wusste, warum der Plan so scheiterte.|No one knew why the plan failed so badly.|
+331.0|der Tag|noun|day|Der Tag war voller spannender Ereignisse.|The day was full of exciting events.|
 331.001|das Tag|noun|the tag|Ein beschädigtes Tag mindert den Warenwert.|A damaged tag reduces the item's value.|ein;beschädigen;das Tag;mindern;der Warenwert
+334.0|befreien|verb|free|Er wollte sich von seinen alten Ängsten befreien.|He wanted to free himself from his old fears.|
 336.0|verehren|verb|to adore|Die Schüler verehrten ihren engagierten Lehrer.|The students adored their dedicated teacher.|der;Schüler;verehren;ihr;engagiert;Lehrer
 338.0|die Minne|noun|courtly love|Die Lieder der Troubadoure besangen die Minne.|The songs of the troubadours praised courtly love.|der;Lied;der;Troubadour;besingen;der;Minne
 339.0|begehren|verb|to desire|Das seltene Buch wird weltweit begehrt.|The rare book is desired worldwide.|der;selten;Buch;werden;weltweit;begehren
+340.0|arm|adjective|poor|Ein armes Kind bat höflich um ein Stück Brot.|A poor child politely asked for a piece of bread.|
+342.0|die Hand|noun|the hand|Die Hand hielt einen alten, verblichenen Brief.|The hand held an old, faded letter.|
+343.0|weich|adjective|soft|Das weiche Kissen lud zu süßen Träumen ein.|The soft pillow invited sweet dreams.|
+344.0|die Welt|noun|world|Die Welt sah plötzlich friedlicher aus als zuvor.|The world suddenly looked more peaceful than before.|
+345.0|aller|pronoun|all|Das Beste von aller Kunst ist die Inspiration.|The best of all art is the inspiration.|
+347.0|als|conjunction|than|Sie ist schneller als alle anderen Teilnehmer.|She is faster than all other participants.|
+348.0|der Garten|noun|garden|Im Garten blühten die ersten Frühlingsblumen.|In the garden, the first spring flowers were blooming.|
+349.0|wo|adverb|where|Wo die Sonne scheint, blüht das Leben auf.|Where the sun shines, life flourishes.|
+350.0|bunt|adjective|colorful|Die bunten Blätter fielen von den Bäumen.|The colorful leaves fell from the trees.|
+351.0|die Blume|noun|flower|Jede Blume im Garten hatte eine eigene Geschichte.|Every flower in the garden had its own story.|
+352.0|blühen|verb|bloom|Die Kirschbäume blühen jedes Jahr prächtig.|The cherry trees bloom magnificently every year.|
 354.0|das Veilchen|noun|violet|Das Veilchen blühte im Schatten der großen Bäume.|The violet bloomed in the shade of the large trees.|der;Veilchen;blühen;in;Schatten;der;groß;Baum
 355.0|der Jasmin|noun|the jasmine|Der Duft des Jasmins erfüllte den ganzen Raum.|The scent of jasmine filled the entire room.|der;Duft;der;Jasmin;erfüllen;der;ganz;Raum
+356.0|bis|conjunction|until|Warte hier, bis ich zurückkomme, bitte.|Wait here until I come back, please.|
+357.0|jung|adjective|young|Die junge Sängerin eroberte die Bühne im Sturm.|The young singer conquered the stage by storm.|
+358.0|brennen|verb|burn|Das Feuer brannte hell in der dunklen Nacht.|The fire burned brightly in the dark night.|
+359.0|heiß|adjective|hot|Der Tee ist viel zu heiß für mich.|The tea is much too hot for me.|
+360.0|ach|interjection|oh|Ach, das habe ich völlig vergessen!|Oh, I completely forgot that!|
+361.0|geschehen|verb|happen|Was hier geschehen ist, bleibt ein Rätsel.|What happened here remains a mystery.|
+362.0|das Kind|noun|child|Das Kind spielt fröhlich im Garten.|The child is playing happily in the garden.|
+363.0|alt|adjective|old|Die alte Uhr tickt immer noch zuverlässig.|The old clock is still ticking reliably.|
+364.0|rechnen|verb|calculate|Kannst du die Summe schnell im Kopf rechnen?|Can you quickly calculate the sum in your head?|
+365.0|noch|adverb|still|Ich habe noch ein paar Aufgaben zu erledigen.|I still have a few tasks to finish.|
+367.0|wissen|verb|know|Ich will wissen, warum du zu spät gekommen bist.|I want to know why you arrived late.|
+368.0|ohnehin|adverb|anyway|Das hätten wir ohnehin nicht verhindern können.|We couldn't have prevented that anyway.|
+369.0|weil|conjunction|because|Ich blieb zu Hause, weil es draußen regnete.|I stayed home because it was raining outside.|
 370.0|unzerstörbar|adjective|indestructible|Das Material gilt als nahezu unzerstörbar.|The material is considered nearly indestructible.|der;Material;gelten;als;nahezu;unzerstörbar
+372.0|cool|adjective|cool|Dein neues Outfit sieht echt cool aus!|Your new outfit looks really cool!|
+373.0|hart|adjective|hard|Das Brot ist so hart, man kann es kaum schneiden.|The bread is so hard, you can barely cut it.|
 375.0|clever|adjective|clever|Das war ein wirklich cleverer Schachzug.|That was a really clever move.|der;sein;ein;wirklich;clever;Schachzug
+376.0|smart|adjective|smart|Er ist smart genug, um jedes Rätsel zu lösen.|He is smart enough to solve any puzzle.|
+377.0|überlegen|verb|consider|Ich muss mir das Angebot noch einmal überlegen.|I need to consider the offer once more.|
 378.0|der Stahl|noun|the steel|Das Gebäude wurde aus Glas und Stahl gefertigt.|The building was made of glass and steel.|der;Gebäude;werden;aus;Glas;und;Stahl;fertigen
 379.0|worin|adverb|wherein|Worin besteht der Nutzen dieser Methode genau?|Wherein lies the benefit of this method exactly?|worin;bestehen;der;Nutzen;dieser;Methode;genau
+380.0|der Sinn|noun|sense|Dieser Satz ergibt überhaupt keinen Sinn.|This sentence makes no sense at all.|
+380.001|die Sinn|noun|senses|Die Sinn des Geruchssinns ist oft unterschätzt.|The sense of smell is often underestimated.|
+381.0|dass|conjunction|that|Ich hoffe, dass alles gut gehen wird.|I hope that everything will go well.|
 382.0|der Superheld|noun|superhero|Ein Superheld schützt die Stadt vor dem Chaos.|A superhero protects the city from chaos.|ein;Superheld;schützen;der;Stadt;vor;der;Chaos
+383.0|ob|conjunction|whether|Ich weiß nicht, ob sie heute kommt.|I don’t know whether she’s coming today.|
+384.0|oder|conjunction|or|Willst du Kaffee oder Tee trinken?|Do you want to drink coffee or tea?|
+385.0|mittlerweile|adverb|meanwhile|Mittlerweile hat sich die Lage entspannt.|Meanwhile, the situation has relaxed.|
+386.0|fragen|verb|ask|Darf ich dich etwas Persönliches fragen?|May I ask you something personal?|
+387.0|jemand|pronoun|someone|Jemand hat gestern an der Tür geklingelt.|Someone rang the doorbell yesterday.|
+388.0|niemand|pronoun|nobody|Niemand hat die Party so früh verlassen.|Nobody left the party that early.|
+390.0|halten|verb|hold|Kannst du bitte kurz meine Tasche halten?|Can you hold my bag for a moment, please?|
+391.0|das Ende|noun|end|Am Ende des Tages war alles erledigt.|At the end of the day, everything was done.|
+393.0|überstehen|verb|overcome|Wir müssen diese Krise gemeinsam überstehen.|We need to overcome this crisis together.|
+394.0|überall|adverb|everywhere|Überall suchte ich nach meinen Schlüsseln.|I looked everywhere for my keys.|
+395.0|stellen|verb|place|Kannst du die Vase auf den Tisch stellen?|Can you place the vase on the table?|
+396.0|irgendwann|adverb|sometime|Irgendwann werden wir uns wiedersehen.|Sometime we will see each other again.|
+397.0|der Weg|noun|way|Der Weg zum Ziel war voller Hindernisse.|The way to the goal was full of obstacles.|
+398.0|der Mir|noun|me (dative)|Das Geschenk gefällt mir wirklich sehr.|The gift pleases me very much.|
+399.0|egal|adjective|irrelevant|Es ist mir egal, was die anderen denken.|I don’t care what others think.|
+401.0|wohnen|verb|live|Ich wohne in einer kleinen, ruhigen Stadt.|I live in a small, quiet town.|
+403.0|der Sex|noun|the sex|In ihrer Kunst thematisierte sie oft den Sex.|In her art, she often explored sex.|
+404.0|die Macht|noun|power|Die Macht des Königs war uneingeschränkt.|The king's power was unrestricted.|
 405.0|der Ruhm|noun|the fame|Der Ruhm des Künstlers wuchs nach der Ausstellung.|The artist's fame grew after the exhibition.|der;Ruhm;der;Künstler;wachsen;nach;der;Ausstellung
+406.0|das Geld|noun|money|Das Geld liegt sicher auf der Bank.|The money is safe in the bank.|
+408.0|die Ewigkeit|noun|eternity|Manche Dinge dauern einfach eine Ewigkeit.|Some things just take an eternity.|
+409.0|genau|adjective|exact|Das ist genau das, was ich gesucht habe.|That’s exactly what I was looking for.|
 410.0|derselbe|pronoun|the same|Das ist derselbe Fehler wie gestern.|That is the same mistake as yesterday.|der;sein;derselbe;Fehler;wie;gestern
+411.0|umgeben|verb|surround|Das Haus ist von hohen Bäumen umgeben.|The house is surrounded by tall trees.|
 412.0|der Atemzug|noun|breath|Sie nahm einen tiefen Atemzug vor dem Sprung.|She took a deep breath before the jump.|sie;nehmen;ein;tief;Atemzug;vor;der;Sprung
+413.0|schwer|adjective|heavy|Der schwere Koffer war kaum zu heben.|The heavy suitcase was barely liftable.|
+415.0|schreien|verb|scream|Die Kinder schreien vor Freude im Park.|The children are screaming with joy in the park.|
+417.0|der Abgrund|noun|abyss|Am Rand des Abgrunds hielt er inne.|At the edge of the abyss, he paused.|
+418.0|sechs|numeral|six|Der Würfel zeigt die Zahl sechs oben.|The die shows the number six on top.|
+419.0|der Fuß|noun|foot|Nach der Wanderung schmerzte mein Fuß.|After the hike, my foot hurt.|
+421.0|das Mal|noun|time|Das erste Mal war eine unvergessliche Erfahrung.|The first time was an unforgettable experience.|
+422.0|dasselbe|pronoun|the same|Wir haben genau dasselbe gedacht.|We thought exactly the same thing.|
+423.0|das Spiel|noun|game|Das Spiel war spannend bis zur letzten Minute.|The game was exciting until the last minute.|
+424.0|längst|adverb|long since|Das Problem war längst bekannt.|The problem was long since known.|
+425.0|das Ziel|noun|goal|Das Ziel des Projekts ist klar definiert.|The goal of the project is clearly defined.|
+426.0|die Erde|noun|earth|Die Erde dreht sich um die Sonne.|The Earth orbits the Sun.|
 427.0|rieseln|verb|to trickle|Feiner Sand rieselt durch die Finger.|Fine sand trickles through the fingers.|fein;Sand;rieseln;durch;der;Finger
+428.0|leicht|adjective|light|Das Paket war erstaunlich leicht.|The package was surprisingly light.|
+429.0|scheinbar|adjective|seemingly|Er war scheinbar ruhig, aber innerlich nervös.|He was seemingly calm but inwardly nervous.|
+430.0|Drum|adverb|therefore|Drum bleib lieber zu Hause bei dem Sturm.|Therefore, better stay home in this storm.|
+431.0|nehmen|verb|to take|Ich nehme die Herausforderung mit Freude an.|I take the challenge with joy.|
 432.0|die Schaufel|noun|the shovel|Mit einer Schaufel hob er ein Loch im Garten aus.|With a shovel, he dug a hole in the garden.|mit;ein;Schaufel;heben;er;ein;Loch;in;Garten;aus
+434.0|erwarten|verb|to expect|Ich erwarte klare Antworten auf meine Fragen.|I expect clear answers to my questions.|
+435.0|das Grab|noun|grave|Das Grab lag versteckt unter den alten Bäumen.|The grave was hidden under the old trees.|
+436.0|der Tunnel|noun|tunnel|Der Tunnel führte direkt unter der Stadt hindurch.|The tunnel led directly beneath the city.|
+437.0|die Freiheit|noun|freedom|Die Freiheit ist das höchste Gut einer Demokratie.|Freedom is the highest good of a democracy.|
+439.0|bös|adjective|evil|Sein böses Lächeln verriet seine dunklen Pläne.|His evil smile revealed his dark plans.|
+440.0|das Opfer|noun|victim|Das Opfer wurde sofort medizinisch versorgt.|The victim was immediately given medical care.|
+441.0|der Gang|noun|hallway|Der Gang war dunkel und voller alter Möbel.|The hallway was dark and full of old furniture.|
 441.001|die Gang|noun|the gang|Die Gang plante heimlich ihren nächsten Coup.|The gang secretly planned their next heist.|der;Gang;planen;heimlich;ihr;der Nächste;Coup
+442.0|Jung|adjective|young|Jung und mutig stürmte er ins Abenteuer.|Young and brave, he rushed into the adventure.|
+444.0|Basecap|noun|baseball cap|Das Basecap lag vergessen auf dem Tisch.|The baseball cap was left forgotten on the table.|
 445.0|nimmer|adverb|nevermore|Der König sprach: „Ich kehre nimmer zurück!“|"The king said: ""I shall nevermore return!"""|der;König;sprechen;ich;kehren;nimmer;zurück
+446.0|schwul|adjective|gay|Er ist stolz darauf, schwul und glücklich zu sein.|He is proud to be gay and happy.|
 447.0|das Getto|noun|the ghetto|Das Getto war von hohen Zäunen umgeben.|The ghetto was surrounded by high fences.|der;Getto;sein;von;hoch;Zaun;umgeben
+447.001|der Getto|noun|ghetto|Das Getto war geprägt von Armut und Zusammenhalt.|The ghetto was marked by poverty and solidarity.|
 448.0|unbarmherzig|adjective|merciless|Der unbarmherzige Sturm verwüstete die Küste.|The merciless storm devastated the coast.|der;unbarmherzig;Sturm;verwüsten;der;Küste
 449.0|homophob|adjective|homophobic|Die homophobe Aussage löste großen Protest aus.|The homophobic statement triggered major protests.|der;homophob;Aussage;lösen;groß;Protest;aus
+450.0|unten|adverb|below|Unten im Keller war es kalt und unheimlich.|Below in the basement, it was cold and eerie.|
+451.0|drunter|adverb|underneath|Drunter lag noch ein altes Buch versteckt.|Underneath, there was an old book hidden.|
+452.0|tragen|verb|to carry|Er musste den schweren Rucksack alleine tragen.|He had to carry the heavy backpack alone.|
+453.0|heimlich|adverb|secretly|Er heimlich las ihr Tagebuch in der Nacht.|He secretly read her diary at night.|
+455.0|Wolfgang|noun|Wolfgang|Wolfgang schrieb eine bewegende Geschichte.|Wolfgang wrote a moving story.|
 457.0|der Gangsterboss|noun|gangster boss|Der Gangsterboss wurde nach langer Suche gefasst.|The gangster boss was caught after a long search.|der;Gangsterboss;werden;nach;lang;Suche;gefasst
+459.0|darum|adverb|that's why|Darum sollten wir rechtzeitig losfahren.|That's why we should leave on time.|
+460.0|weinen|verb|to cry|Sie begann zu weinen, als sie die Nachricht hörte.|She began to cry when she heard the news.|
+461.0|zittern|verb|to tremble|Er konnte vor Angst kaum aufhören zu zittern.|He could barely stop trembling with fear.|
+462.0|das Knie|noun|knee|Sein Knie schmerzte nach dem langen Lauf.|His knee hurt after the long run.|
+463.0|der Lauf|noun|run|Der Lauf durch den Regen machte ihn glücklich.|The run through the rain made him happy.|
+464.0|weg|adverb|away|Die Katze lief schnell weg, als sie den Hund sah.|The cat ran away quickly when it saw the dog.|
+465.0|selbst|pronoun|self|Er machte das Möbelstück ganz allein selbst.|He made the piece of furniture all by himself.|
+466.0|drehen|verb|turn|Die Windmühlenflügel drehten sich im Wind.|The windmill blades turned in the wind.|
+467.0|stark|adjective|strong|Der starke Wind wehte die Blätter fort.|The strong wind blew the leaves away.|
 468.0|der Rocker|noun|the rocker|Der Rocker trug eine Lederjacke mit Nieten.|The rocker wore a leather jacket with studs.|der;Rocker;tragen;ein;Lederjacke;mit;Niete
 469.0|tätowieren|verb|to tattoo|Der Künstler wird das Motiv präzise tätowieren.|The artist will tattoo the design precisely.|der;Künstler;werden;der;Motiv;präzise;tätowieren
+471.0|unter|preposition|under|Unter dem Tisch lag eine kleine Katze und schlief.|Under the table lay a small cat sleeping.|
+473.0|überhaupt|adverb|at all|Das hat überhaupt nichts mit unserem Thema zu tun.|That has nothing to do with our topic at all.|
+474.0|der Rock|noun|skirt|Der Rock passte perfekt zu ihrer neuen Bluse.|The skirt matched her new blouse perfectly.|
+475.0|der Ring|noun|ring|Der Ring glänzte wunderschön im Sonnenlicht.|The ring shone beautifully in the sunlight.|
+477.0|essen|verb|eat|Wir gingen, um frischen Fisch zu essen.|We went to eat fresh fish.|
 478.0|roh|adjective|raw|Der Fisch wird hier traditionell roh serviert.|The fish is traditionally served raw here.|der;Fisch;werden;hier;traditionell;roh;servieren
 479.0|der Nachttisch|noun|the nightstand|Auf dem Nachttisch lag ein spannendes Buch.|On the nightstand lay an exciting book.|auf;der;Nachttisch;liegen;ein;spannend;Buch
+480.0|das Bild|noun|picture|Das Bild an der Wand war ein Meisterwerk.|The picture on the wall was a masterpiece.|
+481.0|Udo|noun|Udo|Udo erzählte eine lustige Anekdote.|Udo told a funny anecdote.|
+482.0|Kier|noun|Kier|Kier malte ein beeindruckendes Landschaftsbild.|Kier painted an impressive landscape.|
 484.0|bärenstark|adjective|super strong|Der Boxer ist bärenstark und schnell zugleich.|The boxer is super strong and fast at the same time.|der;Boxer;sein;bärenstark;und;schnell;zugleich
 485.0|der Torwart|noun|the goalkeeper|Der Torwart hielt den entscheidenden Elfmeter.|The goalkeeper saved the crucial penalty.|der;Torwart;halten;der;entscheidend;Elfmeter
+487.0|selten|adjective|rare|So eine Gelegenheit kommt nur selten im Leben.|Such an opportunity comes only rarely in life.|
+488.0|rein|adverb|in|Komm schnell rein, es regnet draußen stark.|Come inside quickly, it’s raining heavily.|
+489.0|konzentrieren|verb|focus|Er musste sich auf die Prüfung konzentrieren.|He had to focus on the exam.|
+490.0|der Ball|noun|ball|Der Ball rollte langsam die Treppe hinunter.|The ball rolled slowly down the stairs.|
+491.0|dürfen|verb|to be allowed|Wir dürfen hier nicht parken, es ist verboten.|We are not allowed to park here, it is prohibited.|
+492.0|die Mannschaft|noun|team|Die Mannschaft gewann das Spiel mit Teamgeist.|The team won the game with team spirit.|
+493.0|die Dusche|noun|shower|Nach dem Lauf genoss er eine heiße Dusche.|After the run, he enjoyed a hot shower.|
 496.0|der Mittelstürmer|noun|the striker|Der Mittelstürmer schoss das entscheidende Tor.|The striker scored the decisive goal.|der;Mittelstürmer;schießen;der;entscheidend;Tor
+497.0|der Wein|noun|the wine|Der Wein schmeckte nach reifen Beeren.|The wine tasted of ripe berries.|
+498.0|ruhig|adjective|calm|Bleib ruhig, wir finden eine Lösung.|Stay calm, we’ll find a solution.|
+499.0|der Schrei|noun|scream|Der Schrei hallte durch die leere Halle.|The scream echoed through the empty hall.|
 500.0|das Leben|noun|the life|Das Leben auf dem Land ist ruhig und entspannend.|Life in the countryside is calm and relaxing.|der;Leben;auf;der;Land;sein;ruhig;und;entspannen
+501.0|das Gold|noun|the gold|Das Gold glänzte hell in der Sonne.|The gold shone brightly in the sun.|
+503.0|die Sehnsucht|noun|longing|Die Sehnsucht nach der Heimat war überwältigend.|The longing for home was overwhelming.|
+504.0|spüren|verb|feel|Er konnte die kühle Brise auf der Haut spüren.|He could feel the cool breeze on his skin.|
 505.0|zieren|verb|to adorn|Ein prächtiger Kranz zierte die Eingangstür.|A magnificent wreath adorned the front door.|ein;prächtig;Kranz;zieren;der;Eingangstür
+506.0|davor|adverb|before|Davor war der Raum völlig leer.|Before, the room was completely empty.|
+507.0|die Seele|noun|the soul|Die Musik berührt die Seele tief.|The music touches the soul deeply.|
+508.0|drücken|verb|to press|Bitte drücken Sie den Knopf am Eingang.|Please press the button at the entrance.|
 509.0|belügen|verb|to lie to|Du darfst deine Freunde niemals belügen.|You must never lie to your friends.|du;dürfen;dein;Freund;niemals;belügen
 510.0|schamlos|adjective|shameless|Die schamlosen Lügen wurden schnell entlarvt.|The shameless lies were quickly exposed.|der;schamlos;Lüge;werden;schnell;entlarven
+511.0|benutzen|verb|to use|Wir sollten die Zeit effektiv benutzen.|We should use the time effectively.|
 512.0|die Seligkeit|noun|the bliss|Die Seligkeit des Augenblicks war unbeschreiblich.|The bliss of the moment was indescribable.|der;Seligkeit;der;Augenblick;sein;unbeschreiblich
 513.0|die Sünde|noun|the sin|Gier gilt in vielen Kulturen als eine große Sünde.|Greed is considered a great sin in many cultures.|Gier;gelten;in;viel;Kultur;als;ein;groß;Sünde
 514.0|beschmutzen|verb|to soil|Bitte beschmutze nicht den frisch geputzten Boden.|Please don’t soil the freshly cleaned floor.|bitte;beschmutzen;nicht;der;frisch;putzen;Boden
+515.0|der Gewinn|noun|the profit|Der Gewinn des Unternehmens steigt jährlich.|The company's profit increases yearly.|
+517.0|der Verlust|noun|the loss|Der Verlust des Schlüssels war ärgerlich.|The loss of the key was annoying.|
+518.0|jetzt|adverb|now|Jetzt ist der perfekte Moment zu handeln.|Now is the perfect moment to act.|
+520.0|der Inhalt|noun|the content|Der Inhalt des Buches ist faszinierend.|The content of the book is fascinating.|
+521.0|das Loch|noun|the hole|Das Loch in der Wand wurde repariert.|The hole in the wall was repaired.|
+521.001|der Loch|noun|the Loch|Das berühmte Loch Ness zieht viele Touristen an.|The famous Loch Ness attracts many tourists.|
+522.0|gleich|adverb|immediately|Ich komme gleich nach dem Telefonat.|I’ll come immediately after the call.|
+523.0|gehören|verb|to belong|Das Buch gehört meiner Schwester.|The book belongs to my sister.|
 524.0|das Adrenalin|noun|adrenaline|Das Adrenalin schoss ihm durch die Adern.|The adrenaline surged through his veins.|der;Adrenalin;schießen;ihm;durch;der;Ader
 525.0|das T|noun|T|Das T in seinem Namen steht für Theodor.|The T in his name stands for Theodor.|der;T;in;sein;Name;stehen;für;Theodor
 526.0|das Tyrosin|noun|tyrosine|Die biochemische Rolle von Tyrosin ist essenziell.|The biochemical role of tyrosine is essential.|der;biochemisch;Rolle;von;Tyrosin;sein;essenziell
+527.0|das E|noun|the E|Das E ist der fünfte Buchstabe im Alphabet.|The E is the fifth letter in the alphabet.|
 528.0|exzessiv|adjective|excessive|Sein exzessives Verhalten sorgte für Besorgnis.|His excessive behavior caused concern.|sein;exzessiv;verhalten;sorgen;für;Besorgnis
+529.0|das D|noun|the D|Das D ist schwerer zu schreiben als das A.|The D is harder to write than the A.|
 530.0|das Dopamin|noun|the dopamine|Das Dopamin beeinflusst unsere Stimmung erheblich.|Dopamine significantly influences our mood.|der;Dopamin;beeinflussen;unser;Stimmung;erheblich
 531.0|die Euphorie|noun|the euphoria|Nach dem Sieg herrschte grenzenlose Euphorie.|After the victory, boundless euphoria prevailed.|nach;der;Sieg;herrschen;grenzenlos;Euphorie
 533.0|eh|adverb|anyway|Es war eh zu spät, um noch etwas zu ändern.|It was too late anyway to change anything.|es;sein;eh;zu;spät;um;noch;etwas;zu;ändern
+534.0|vorbei|adverb|past|Der Moment ist leider schon vorbei.|The moment is unfortunately already past.|
+535.0|knapp|adjective|scarce|Die Ressourcen in der Region sind knapp.|Resources in the region are scarce.|
 536.0|verfehlen|verb|to miss|Der Pfeil verfehlte knapp das Ziel.|The arrow narrowly missed the target.|der;Pfeil;verfehlen;knapp;der;Ziel
+537.0|nochmal|adverb|again|Könntest du das nochmal erklären?|Could you explain that again?|
 538.0|der Neustart|noun|the restart|Ein Neustart des Systems löste das Problem sofort.|A restart of the system immediately fixed the issue.|ein;Neustart;der;System;lösen;der;Problem;sofort
 539.0|zurückdrehen|verb|to turn back|Es ist unmöglich, die Zeit zurückzudrehen.|It is impossible to turn back time.|es;sein;unmöglich;der;Zeit;zurückdrehen
+540.0|gegen|preposition|against|Die Mannschaft spielt heute gegen den Favoriten.|The team is playing against the favorite today.|
+542.0|ab|preposition|from|Ab morgen beginnt die neue Regelung.|From tomorrow, the new regulation begins.|
+543.0|zählen|verb|to count|Kinder lernen in der Schule bis zehn zu zählen.|Children learn to count to ten in school.|
+544.0|der Versuch|noun|the attempt|Der Versuch war erfolgreich und wurde gefeiert.|The attempt was successful and celebrated.|
+545.0|kämpfen|verb|to fight|Sie kämpfen für ihre Rechte mit Leidenschaft.|They fight passionately for their rights.|
+546.0|frei|adjective|free|Der Platz neben mir ist noch frei.|The seat next to me is still free.|
 547.0|der Fluch|noun|curse|Der Fluch der Hexe lastete auf dem Dorf.|The witch’s curse weighed on the village.|der;Fluch;der;Hexe;lasten;auf;der;Dorf
+548.0|fertig|adjective|finished|Ich bin fertig mit meinen Hausaufgaben.|I am finished with my homework.|
+550.0|bereit|adjective|ready|Bist du bereit für die Herausforderung?|Are you ready for the challenge?|
+551.0|bisschen|noun|a bit|Ich brauche nur ein bisschen Zucker für den Tee.|I only need a bit of sugar for the tea.|
+553.0|wenig|adjective|few|Es gab nur wenig Besucher bei der Ausstellung.|There were only a few visitors at the exhibition.|
+554.0|leben|verb|to live|Er möchte ein ruhiges Leben auf dem Land führen.|He wants to live a quiet life in the countryside.|
 555.0|die Hysterie|noun|hysteria|Die Hysterie in den Medien sorgte für Panik.|The hysteria in the media caused panic.|der;Hysterie;in;der;Medium;sorgen;für;Panik
+556.0|dabei|adverb|with it|Bist du dabei, wenn wir ins Kino gehen?|Are you with it when we go to the cinema?|
+557.0|drauf|adverb|on it|Auf dem Tisch liegt ein Buch und etwas drauf.|On the table lies a book with something on it.|
+560.0|vorn|adverb|at the front|Der Gewinner steht ganz vorn auf der Bühne.|The winner is at the front of the stage.|
+561.0|zurück|adverb|back|Ich komme gleich zurück nach dem Mittagessen.|I’ll come back right after lunch.|
+562.0|umdrehen|verb|to turn around|Er musste sich umdrehen, um das Geräusch zu sehen.|He had to turn around to see the noise.|
+563.0|weitergehen|verb|to go on|Die Arbeit muss trotz Hindernissen weitergehen.|The work must go on despite obstacles.|
+564.0|um|preposition|around|Die Kinder laufen fröhlich um den Baum.|The children are running happily around the tree.|
+565.0|das Universum|noun|the universe|Das Universum ist voller ungelöster Rätsel.|The universe is full of unsolved mysteries.|
+570.0|annehmen|verb|to accept|Ich musste die Einladung höflich annehmen.|I had to accept the invitation politely.|
+571.0|der Körper|noun|the body|Der Körper benötigt ausreichend Wasser jeden Tag.|The body needs enough water every day.|
 572.0|dermaßen|adverb|so much|Ich habe mich dermaßen geärgert über den Lärm.|I was so much annoyed by the noise.|ich;haben;sich;dermaßen;ärgern;über;der;Lärm
 573.0|verbiegen|verb|to bend|Zu großer Druck kann das Metall verbiegen.|Excessive pressure can bend the metal.|zu;groß;Druck;können;der;Metall;verbiegen
 574.0|der Anus|noun|anus|Der Arzt erklärte die Funktion des Anus im Detail.|The doctor explained the function of the anus in detail.|der;Arzt;erklären;der;Funktion;der;Anus;in;Detail
+575.0|passen|verb|to fit|Die Schuhe passen perfekt zu deinem Outfit.|The shoes fit perfectly with your outfit.|
+577.0|ja|interjection|yes|Ja, ich stimme deiner Idee voll zu.|Yes, I completely agree with your idea.|
+579.0|der Gedanke|noun|the thought|Der Gedanke an Urlaub macht mich glücklich.|The thought of a vacation makes me happy.|
+580.0|der Arm|noun|the arm|Sein Arm war nach dem Unfall gebrochen.|His arm was broken after the accident.|
+582.0|weiter|adverb|further|Wir müssen weiter, die Zeit drängt.|We must go further; time is pressing.|
 584.0|empor|adverb|upwards|Die Sonne stieg majestätisch empor.|The sun rose majestically upwards.|der;Sonne;steigen;majestätisch;empor
+586.0|leider|adverb|unfortunately|Leider kann ich heute nicht mitkommen.|Unfortunately, I can’t come along today.|
+587.0|die Wirklichkeit|noun|the reality|Die Wirklichkeit war härter als erwartet.|The reality was harsher than expected.|
+588.0|weit|adjective|far|Die Reise war weit und voller Abenteuer.|The journey was far and full of adventures.|
+589.0|aber|conjunction|but|Sie wollte mitkommen, aber der Regen hielt sie ab.|She wanted to come along, but the rain stopped her.|
+591.0|einmal|adverb|once|Er hat den Fehler nur einmal gemacht.|He only made the mistake once.|
+592.0|biologisch|adjective|biological|Der biologische Anbau schützt die Umwelt.|Biological farming protects the environment.|
+593.0|das Argument|noun|the argument|Sein Argument war überzeugend und gut durchdacht.|His argument was convincing and well thought out.|
+594.0|interessieren|verb|interest|Was interessiert dich an diesem Buch?|What interests you about this book?|
+597.0|heraus|adverb|out|Der Hund läuft schnell heraus in den Garten.|The dog runs quickly out into the garden.|
+598.0|befinden|verb|be located|Das Museum befindet sich neben dem Park.|The museum is located next to the park.|
+599.0|eigentlich|adverb|actually|Eigentlich wollte ich heute früher aufstehen.|Actually, I wanted to get up earlier today.|
+600.0|der Kopp|noun|head|Er kratzte sich am Kopp und dachte nach.|He scratched his head and thought.|
+601.0|der Arsch|noun|butt|Der Stuhl war unbequem für seinen Arsch.|The chair was uncomfortable for his butt.|
+602.0|hinter|preposition|behind|Das Auto parkte hinter dem Gebäude.|The car parked behind the building.|
+603.0|stehen|verb|stand|Die Leute stehen Schlange vor dem Kino.|People are standing in line in front of the cinema.|
+604.0|hinaus|adverb|out|Sie schaute hinaus und sah die Berge.|She looked out and saw the mountains.|
+605.0|durch|preposition|through|Er ging durch den dunklen Wald.|He walked through the dark forest.|
+609.0|die Schau|noun|show|Die Schau im Museum war beeindruckend.|The show in the museum was impressive.|
 610.0|raus|adverb|out|Die Katze sprang durch das offene Fenster raus.|The cat jumped out through the open window.|der;Katze;springen;durch;der;offen;Fenster;raus
+611.0|schau|verb|look|Schau mal, da fliegt ein großer Vogel!|Look, there's a big bird flying!|
+613.0|der Schein|noun|the appearance|Der Schein trügte in diesem Fall nicht.|The appearance was not deceiving in this case.|
+614.0|existieren|verb|exist|Glaubst du, dass Aliens wirklich existieren?|Do you think aliens really exist?|
+615.0|tot|adjective|dead|Der Baum im Garten ist schon lange tot.|The tree in the garden has been dead for a long time.|
+616.0|das Teil|noun|part|Ein wichtiges Teil fehlt in der Maschine.|An important part is missing in the machine.|
 616.001|der Teil|noun|the part|Der letzte Teil der Serie war besonders spannend.|The last part of the series was especially exciting.|der;der Letzte;Teil;der;Serie;sein;besonders;spannend
+617.0|schleppen|verb|carry|Er musste die schweren Taschen schleppen.|He had to carry the heavy bags.|
 618.0|die Karawane|noun|the caravan|Eine Karawane zog langsam durch die Wüste.|A caravan moved slowly through the desert.|ein;Karawane;ziehen;langsam;durch;der;Wüste
+620.0|öd|adjective|barren|Das Land wirkte verlassen und öd.|The land seemed deserted and barren.|
+621.0|das Land|noun|land|Das Land ist bekannt für seine Berge.|The land is known for its mountains.|
+622.0|der Baum|noun|tree|Ein alter Baum steht vor dem Haus.|An old tree stands in front of the house.|
+623.0|über|preposition|over|Ein Vogel flog über das Wasser.|A bird flew over the water.|
+624.0|zweihundert|number|two hundred|In der Halle waren zweihundert Leute.|There were two hundred people in the hall.|
+625.0|das Jahr|noun|year|Das Jahr begann mit viel Schnee.|The year started with a lot of snow.|
 626.0|peitschen|verb|to whip|Der Sturm peitscht die Wellen gegen die Klippen.|The storm whips the waves against the cliffs.|der;Sturm;peitschen;der;Welle;gegen;der;Klippe
 627.0|der Sandsturm|noun|sandstorm|Ein heftiger Sandsturm tobte über die Wüste.|A violent sandstorm raged across the desert.|ein;heftig;Sandsturm;toben;über;der;Wüste
 628.0|gnadenlos|adjective|merciless|Der gnadenlose Wettbewerb forderte seinen Tribut.|The merciless competition took its toll.|der;gnadenlos;Wettbewerb;fordern;sein;Tribut
+629.0|unendlich|adjective|infinite|Der Himmel wirkte unendlich weit.|The sky seemed infinitely wide.|
+630.0|müde|adjective|tired|Nach dem Lauf war sie sehr müde.|After the run, she was very tired.|
+632.0|das Ufer|noun|shore|Am Ufer des Sees liegt ein Boot.|A boat lies on the shore of the lake.|
 634.0|pur|adjective|pure|Die puren Farben des Gemäldes waren atemberaubend.|The pure colors of the painting were breathtaking.|der;pur;Farbe;der;Gemälde;sein;atemberaubend
+635.0|verzweifelt|adjective|desperate|Er war verzweifelt über die schlechte Nachricht.|He was desperate about the bad news.|
 636.0|das Lamm|noun|the lamb|Das Lamm lag friedlich auf der Wiese.|The lamb lay peacefully on the meadow.|der;Lamm;liegen;friedlich;auf;der;Wiese
+637.0|damit|adverb|with it|Er schrieb einen Brief und war zufrieden damit.|He wrote a letter and was satisfied with it.|
 638.0|der Wolf|noun|the wolf|Ein einzelner Wolf wurde in der Nähe gesichtet.|A lone wolf was spotted nearby.|ein;einzeln;Wolf;werden;in;der;Nähe;sichten
+638.001|die Wolf|noun|wolf|Ein Wolf heulte in der dunklen Nacht.|A wolf howled in the dark night.|
+639.0|fressen|verb|eat|Die Kühe fressen das frische Gras.|The cows eat the fresh grass.|
 640.0|das Schwert|noun|sword|Das Schwert des Ritters war mit Rubinen verziert.|The knight's sword was adorned with rubies.|der;Schwert;der;Ritter;sein;mit;der Rubin;verzieren
+641.0|ziehen|verb|pull|Die Kinder ziehen den Schlitten den Hügel hinauf.|The children pull the sled up the hill.|
+642.0|kein|adjective|no|Es gibt kein Brot mehr im Schrank.|There is no bread left in the cupboard.|
+643.0|der Feind|noun|enemy|Der Feind lauerte im Schatten.|The enemy lurked in the shadows.|
 644.0|die Königin|noun|the queen|Die Königin regiert mit Weisheit und Anstand.|The queen rules with wisdom and dignity.|der;Königin;regieren;mit;Weisheit;und;Anstand
 645.0|der Thron|noun|throne|Die Königin bestieg den Thron mit großer Würde.|The queen ascended the throne with great dignity.|der;Königin;besteigen;der;Thron;mit;groß;Würde
+646.0|das Haus|noun|house|Das Haus am See gehört meiner Familie.|The house by the lake belongs to my family.|
 647.0|der Kirschbaum|noun|the cherry tree|Der Kirschbaum im Garten blüht wunderschön.|The cherry tree in the garden is blooming beautifully.|der;Kirschbaum;in;Garten;blühen;wunderschön
+648.0|steigen|verb|climb|Die Alpinisten steigen langsam den Berg hinauf.|The mountaineers slowly climb the mountain.|
+649.0|der See|noun|lake|Der See war ruhig und spiegelte den Himmel.|The lake was calm and reflected the sky.|
+649.001|die See|noun|sea|Die See war heute besonders stürmisch.|The sea was particularly stormy today.|
 651.0|betören|verb|to captivate|Ihr Lächeln kann jeden sofort betören.|Her smile can captivate anyone immediately.|ihr;lächeln;können;jeder;sofort;betören
+652.0|grün|adjective|green|Die Wiese war saftig grün nach dem Regen.|The meadow was lush green after the rain.|
+653.0|das Licht|noun|the light|Das Licht flutete durch die offenen Fenster.|The light flooded through the open windows.|
 654.0|die Flut|noun|the flood|Die Flut zerstörte zahlreiche Häuser an der Küste.|The flood destroyed numerous houses on the coast.|der;Flut;zerstören;zahlreich;Haus;an;der;Küste
+655.0|der Pilger|noun|pilgrim|Der Pilger wanderte den langen Weg zum Heiligtum.|The pilgrim walked the long path to the sanctuary.|
 656.0|der Prophet|noun|the prophet|Der Prophet wurde von seinen Anhängern verehrt.|The prophet was revered by his followers.|der;Prophet;werden;von;sein;Anhänger;verehren
+657.0|niemals|adverb|never|Ich werde dich niemals vergessen.|I will never forget you.|
+658.0|sprechen|verb|speak|Wir sprechen oft über Bücher und Filme.|We often speak about books and movies.|
+659.0|heilig|adjective|holy|Die Kirche ist ein heiliger Ort für viele.|The church is a holy place for many.|
+660.0|einhundert|number|one hundred|Der Turm ist einhundert Meter hoch.|The tower is one hundred meters tall.|
+661.0|glücklich|adjective|happy|Er war glücklich über die gute Nachricht.|He was happy about the good news.|
+662.0|stumm|adjective|silent|Der stumme Zeuge sagte kein Wort.|The silent witness said nothing.|
+663.0|blass|adjective|pale|Nach der langen Krankheit war sie blass.|After the long illness, she was pale.|
 664.0|der Mondschein|noun|the moonlight|Wir gingen bei Mondschein am Strand spazieren.|We walked on the beach in the moonlight.|wir;gehen;bei;Mondschein;an;Strand;spazieren
 665.0|grandios|adjective|magnificent|Die Opernaufführung war ein grandioses Erlebnis.|The opera performance was a magnificent experience.|der;Opernaufführung;sein;ein;grandios;Erlebnis
+666.0|der Schmerz|noun|pain|Der Schmerz im Rücken wurde unerträglich.|The pain in the back became unbearable.|
 667.0|die Poesie|noun|the poetry|Die Poesie des Textes verzauberte die Zuhörer.|The poetry of the text enchanted the audience.|der;Poesie;der;Text;verzaubern;der;Zuhörer
+668.0|das Wort|noun|word|Ein ehrliches Wort kann Wunder bewirken.|An honest word can work wonders.|
+669.0|legen|verb|lay|Bitte legen Sie das Buch auf den Tisch.|Please lay the book on the table.|
+670.0|das Lied|noun|song|Das Lied klang wie ein sanfter Sommerregen.|The song sounded like gentle summer rain.|
+671.0|bewegen|verb|move|Ein Tanz kann die Menschen tief bewegen.|A dance can deeply move people.|
+672.0|verlangen|verb|demand|Das Publikum verlangte eine zweite Zugabe.|The audience demanded a second encore.|
 675.0|das Kleidchen|noun|the little dress|Das Kleidchen flatterte im warmen Sommerwind.|The little dress fluttered in the warm summer breeze.|der;Kleidchen;flattern;in;warm;Sommerwind
+676.0|hoch|adjective|high|Die Wellen schlugen hoch gegen die Klippen.|The waves crashed high against the cliffs.|
+677.0|die Hacke|noun|hoe|Die Hacke lag neben dem frisch gepflanzten Beet.|The hoe lay next to the freshly planted bed.|
+678.0|pudern|verb|powder|Sie begann, ihr Gesicht zart zu pudern.|She began to gently powder her face.|
+679.0|die Wange|noun|cheek|Ein Kuss landete sanft auf seiner Wange.|A kiss landed softly on his cheek.|
+680.0|rot|adjective|red|Die Rose im Garten blühte leuchtend rot.|The rose in the garden bloomed a vibrant red.|
+681.0|gefallen|verb|please|Deine Idee wird den Gästen sicher gefallen.|Your idea will surely please the guests.|
+682.0|hoffen|verb|hope|Wir hoffen auf ein sonniges Wochenende.|We hope for a sunny weekend.|
 683.0|der Bart|noun|the beard|Sein Bart wurde über Nacht schneeweiß.|His beard turned snow-white overnight.|sein;Bart;werden;über;Nacht;schneeweiß
+684.0|stören|verb|disturb|Lärm kann die Konzentration enorm stören.|Noise can greatly disturb concentration.|
 685.0|das Liebesspiel|noun|lovemaking|Das Liebesspiel im Film war stilvoll inszeniert.|The lovemaking in the film was stylishly staged.|der;Liebesspiel;in;Film;sein;stilvoll;inszenieren
+686.0|die Lippe|noun|lip|Ihre Lippe zitterte vor unterdrückten Tränen.|Her lip quivered with suppressed tears.|
 687.0|zärtlich|adjective|tender|Seine zärtliche Geste berührte sie zutiefst.|His tender gesture deeply moved her.|sein;zärtlich;Geste;berühren;sie;zutiefst
+688.0|berühren|verb|touch|Der Film hat mich tief im Herzen berührt.|The film touched me deeply in my heart.|
 689.0|verkleiden|verb|to disguise|Die Kinder verkleideten sich als Märchenfiguren.|The children disguised themselves as fairy tale characters.|der;Kind;verkleiden;sich;als;Märchenfigur
+690.0|entscheiden|verb|decide|Er musste sich schnell entscheiden.|He had to decide quickly.|
+691.0|bi|adjective|bi|Die Serie zeigt eine starke bi Hauptfigur.|The series features a strong bi protagonist.|
+692.0|schaden|verb|harm|Rauchen schadet der Gesundheit erheblich.|Smoking significantly harms health.|
 693.0|klemmen|verb|to jam|Die Tür klemmte und ließ sich kaum öffnen.|The door jammed and was hard to open.|der;Tür;klemmen;und;lassen;sich;kaum;öffnen
+694.0|der Hode|noun|the testicle|Die medizinische Untersuchung betraf den Hode.|The medical examination concerned the testicle.|
+694.001|die Hode|noun|testicles|Die Hode sind ein empfindlicher Teil des Körpers.|The testicles are a sensitive part of the body.|
 695.0|rasieren|verb|to shave|Er musste sich für das Fotoshooting rasieren.|He had to shave for the photo shoot.|er;müssen;sich;für;der;Fotoshooting;rasieren
+696.0|das Bein|noun|leg|Ein kleiner Schnitt zierte sein rechtes Bein.|A small cut adorned his right leg.|
 697.0|das Mieder|noun|the corset|Das Mieder betonte ihre Taille perfekt.|The corset accentuated her waist perfectly.|der;Mieder;betonen;ihr;Taille;perfekt
+698.0|kleben|verb|stick|Der Zettel klebte fest an der Kühlschranktür.|The note was stuck firmly to the fridge door.|
+699.0|falsch|adjective|wrong|Es wäre falsch, das Risiko zu ignorieren.|It would be wrong to ignore the risk.|
 700.0|die Wimper|noun|eyelash|Eine Wimper landete sanft auf ihrer Wange.|An eyelash gently landed on her cheek.|ein;Wimper;landen;sanft;auf;ihr;Wange
+701.0|der Star|noun|star|Der Star der Show zog alle Blicke auf sich.|The star of the show drew all eyes.|
 702.0|das Rampenlicht|noun|spotlight|Sie genoss es, im Rampenlicht zu stehen.|She enjoyed being in the spotlight.|sie;genießen;es;in;Rampenlicht;zu;stehen
+705.0|je|adverb|ever|Hast du je ein solches Wunder gesehen?|Have you ever seen such a wonder?|
+706.0|lass|verb|let|Lass die Sorgen los und genieße den Moment.|Let go of the worries and enjoy the moment.|
+707.0|die Lust|noun|desire|Seine Lust auf Abenteuer war unstillbar.|His desire for adventure was insatiable.|
+708.0|regieren|verb|govern|Die Königin regiert mit Weisheit und Mut.|The queen governs with wisdom and courage.|
+709.0|der Engel|noun|angel|Der Engel leuchtete im goldenen Sonnenlicht.|The angel shone in the golden sunlight.|
 710.0|beschönigen|verb|to sugarcoat|Man sollte die Wahrheit nicht beschönigen.|One shouldn’t sugarcoat the truth.|man;sollen;der;Wahrheit;nicht;beschönigen
+711.0|der König|noun|king|Der König trat stolz vor sein Volk.|The king proudly stepped before his people.|
+713.0|tauschen|verb|exchange|Wir können Ideen in der Pause tauschen.|We can exchange ideas during the break.|
+714.0|erinnern|verb|remember|Dieses Foto wird mich immer an sie erinnern.|This photo will always remind me of her.|
+715.0|der Freund|noun|friend|Ein wahrer Freund steht immer an deiner Seite.|A true friend is always by your side.|
+716.0|reden|verb|talk|Wir sollten mehr über unsere Träume reden.|We should talk more about our dreams.|
+717.0|lachen|verb|laugh|Kinder lachen oft aus tiefstem Herzen.|Children often laugh from the bottom of their hearts.|
+719.0|manch|adjective|some|Manch eine Frage bleibt besser unbeantwortet.|Some questions are better left unanswered.|
 720.0|gut|adjective|good|Ein gutes Buch kann die Perspektive verändern.|A good book can change one’s perspective.|ein;gut;Buch;können;der;Perspektive;verändern
+722.0|weh|adjective|sore|Nach dem Training fühlte sich alles etwas weh.|After the workout, everything felt a bit sore.|
+723.0|treiben|verb|drive|Was treibt dich an, immer weiterzugehen?|What drives you to keep going?|
+725.0|dahin|adverb|there|Der Fluss fließt ruhig dahin, an Wiesen vorbei.|The river flows calmly there, past meadows.|
+726.0|erfüllen|verb|fulfill|Kannst du diesen Wunsch für mich erfüllen?|Can you fulfill this wish for me?|
+727.0|einzig|adjective|unique|Dieser Moment war einfach einzigartig.|This moment was simply unique.|
+728.0|die Sache|noun|thing|Die Sache wird morgen ausführlich besprochen.|The thing will be discussed in detail tomorrow.|
 729.0|die Rache|noun|the revenge|Ihre Rache war kalt und genau durchdacht.|Her revenge was cold and meticulously planned.|ihr;Rache;sein;kalt;und;genau;durchdenken
+730.0|gegenüber|adverb|opposite|Das Café liegt direkt gegenüber der Kirche.|The café is directly opposite the church.|
+731.0|der Vater|noun|father|Der Vater las seinen Kindern eine Geschichte vor.|The father read a story to his children.|
+732.0|der Mörder|noun|murderer|Der Mörder wurde schnell von der Polizei gefasst.|The murderer was quickly caught by the police.|
+734.0|hundert|adjective|hundred|Die Sammlung umfasst fast hundert Gemälde.|The collection includes nearly a hundred paintings.|
 735.0|die Vergeltung|noun|retaliation|Vergeltung führt oft zu endlosem Konflikt.|Retaliation often leads to endless conflict.|Vergeltung;führen;oft;zu;endlos;Konflikt
+736.0|der Hass|noun|hatred|Sein Hass verblasste mit der Zeit vollständig.|His hatred faded completely over time.|
 737.0|der Neid|noun|the envy|Sein Erfolg löste bei vielen Menschen Neid aus.|His success caused envy among many people.|sein;Erfolg;lösen;bei;viel;Mensch;Neid;aus
+738.0|machen|verb|do|Was wirst du aus dieser Situation machen?|What will you do about this situation?|
+739.0|der Schluss|noun|end|Am Schluss applaudierten alle begeistert.|At the end, everyone applauded enthusiastically.|
+740.0|das Leid|noun|sorrow|Das Leid der Menschen war unermesslich.|The sorrow of the people was immense.|
+741.0|wagen|verb|dare|Wer wagt, gewinnt oft das größte Abenteuer.|Who dares, often wins the greatest adventure.|
+742.0|der Schritt|noun|step|Jeder Schritt bringt uns näher ans Ziel.|Every step brings us closer to the goal.|
+743.0|richtig|adjective|right|Du hast die richtige Entscheidung getroffen.|You made the right decision.|
+744.0|die Richtung|noun|direction|Der Wind änderte plötzlich die Richtung.|The wind suddenly changed direction.|
 745.0|die Vernichtung|noun|annihilation|Die Vernichtung der Dokumente war unumgänglich.|The annihilation of the documents was inevitable.|der;Vernichtung;der;Dokument;sein;unumgänglich
+746.0|der Sieg|noun|victory|Der Sieg war das Ergebnis harter Arbeit.|The victory was the result of hard work.|
+746.001|die Sieg|noun|victory|Die Sieg im Wettkampf fühlte sich verdient an.|The victory in the competition felt well-earned.|
+747.0|die Vernunft|noun|reason|Manchmal siegt die Vernunft über die Emotionen.|Sometimes reason triumphs over emotions.|
+748.0|unterdrücken|verb|suppress|Man darf seine Gefühle nicht immer unterdrücken.|One should not always suppress their feelings.|
+749.0|vereinen|verb|unite|Die Idee war, zwei Welten zu vereinen.|The idea was to unite two worlds.|
+750.0|verschließen|verb|close|Er musste die alte Truhe sicher verschließen.|He had to securely close the old chest.|
+751.0|denken|verb|think|Ich musste lange über die Frage nachdenken.|I had to think about the question for a long time.|
+752.0|öffnen|verb|open|Sie wollte endlich das Fenster weit öffnen.|She finally wanted to open the window wide.|
+753.0|gar|adverb|even|Das war gar nicht so schwer, wie es aussah.|That wasn’t even as hard as it looked.|
+754.0|verbieten|verb|forbid|Man wollte den Verkauf von Alkohol verbieten.|They wanted to forbid the sale of alcohol.|
+756.0|stattdessen|adverb|instead|Stattdessen wählte sie den sicheren Weg.|Instead, she chose the safe path.|
 758.0|die Taktik|noun|the tactic|Seine Taktik war präzise und durchdacht.|His tactic was precise and well thought out.|sein;Taktik;sein;präzise;und;durchdenken
+760.0|töten|verb|kill|Es ist verboten, geschützte Tiere zu töten.|It is forbidden to kill protected animals.|
+762.0|das Deutschland|noun|Germany|Das Deutschland der Zukunft braucht Innovation.|The Germany of the future needs innovation.|
+764.0|die Schlange|noun|snake|Die Schlange bewegte sich leise durchs Gras.|The snake moved silently through the grass.|
+765.0|krank|adjective|sick|Er fühlte sich seit Tagen furchtbar krank.|He had been feeling terribly sick for days.|
+766.0|die Angst|noun|fear|Die Angst vor der Dunkelheit war überwältigend.|The fear of the dark was overwhelming.|
+767.0|verstehen|verb|understand|Ich konnte seine Logik nicht wirklich verstehen.|I couldn’t really understand his logic.|
+770.0|La|noun|La|Das „La“ in der Melodie blieb im Ohr hängen.|The “La” in the melody stuck in the ear.|
+773.0|der Mond|noun|moon|Der Mond leuchtete hell über dem ruhigen See.|The moon shone brightly over the calm lake.|
+774.0|drum|adverb|therefore|Drum bin ich früher nach Hause gegangen.|Therefore, I went home earlier.|
 776.0|frieren|verb|to freeze|Im Winter frieren die Seen in der Region zu.|In winter, the lakes in the region freeze over.|in;Winter;frieren;der;See;in;der;Region;zu
+778.0|Chorus|noun|chorus|Der Chorus des Songs war besonders mitreißend.|The chorus of the song was particularly catchy.|
 779.0|der Sandmann|noun|the sandman|Der Sandmann brachte den Kindern süße Träume.|The sandman brought sweet dreams to the children.|der;Sandmann;bringen;der;Kind;süß;Traum
+780.0|das Mach|noun|power|Das Mach der Natur zeigte sich im Sturm.|The power of nature was evident in the storm.|
+781.0|die Wahrheit|noun|truth|Die Wahrheit kam am Ende ans Licht.|The truth came to light in the end.|
 782.0|grausam|adjective|cruel|Die grausame Realität war kaum zu ertragen.|The cruel reality was hard to bear.|der;grausam;Realität;sein;kaum;zu;ertragen
 784.0|die Streu|noun|the bedding|Die Streu im Stall wurde täglich gewechselt.|The bedding in the stable was changed daily.|der;Streu;in;Stall;werden;täglich;wechseln
+785.0|der Sand|noun|sand|Der Sand zwischen den Zehen fühlte sich warm an.|The sand between the toes felt warm.|
+786.0|wecken|verb|wake|Ein lautes Geräusch schien ihn zu wecken.|A loud noise seemed to wake him up.|
+787.0|zwei|number|two|Die zwei Hunde spielten fröhlich im Garten.|The two dogs played happily in the garden.|
+788.0|die Arme|noun|arms|Die Arme waren schwer nach der harten Arbeit.|The arms were heavy after the hard work.|
+789.0|langsam|adjective|slow|Er ging langsam durch den nebligen Wald.|He walked slowly through the foggy forest.|
+790.0|der Hund|noun|dog|Der Hund bellte laut, als der Briefträger kam.|The dog barked loudly when the mailman came.|
+791.0|das Reich|noun|empire|Das alte Reich war voller Legenden und Mythen.|The old empire was full of legends and myths.|
+792.0|wann|adverb|when|Wann kommst du endlich nach Hause? fragte sie.|When are you finally coming home? she asked.|
+793.0|der Spaß|noun|fun|Der Spaß an der Sache war offensichtlich groß.|The fun of the activity was clearly great.|
+794.0|vergehen|verb|pass|Die Zeit schien wie im Flug zu vergehen.|Time seemed to pass in the blink of an eye.|
+798.0|die Lunge|noun|the lung|Die Lunge arbeitete nach der Operation gut.|The lung worked well after the surgery.|
 799.0|wund|adjective|sore|Die wund geriebene Haut verlangte nach Pflege.|The sore, chafed skin required care.|der;wund;gerieben;Haut;verlangen;nach;Pflege
+800.0|der Hunger|noun|hunger|Der Hunger trieb ihn aus dem Bett zur Küche.|Hunger drove him out of bed to the kitchen.|
 801.0|der Kindermund|noun|child's mouth|Kindermund tut manchmal Wahrheit kund.|A child's mouth sometimes speaks the truth.|Kindermund;tun;manchmal;Wahrheit;kund
+802.0|sitzen|verb|sit|Die Kinder sitzen still im Klassenzimmer.|The children sit quietly in the classroom.|
+803.0|eigen|adjective|own|Sie hatte ihren eigenen Stil, der auffiel.|She had her own style that stood out.|
+804.0|das Boot|noun|boat|Das Boot schaukelte sanft auf den Wellen.|The boat rocked gently on the waves.|
+804.001|der Boot|noun|the boat|Das Boot schaukelte sanft auf den Wellen.|The boat rocked gently on the waves.|
+805.0|der Wohlstand|noun|prosperity|Wohlstand war das Ziel vieler harter Generationen.|Prosperity was the goal of many hardworking generations.|
 806.0|die Brut|noun|brood|Die Brut schlüpfte früh am Morgen aus den Eiern.|The brood hatched early in the morning from the eggs.|der;Brut;schlüpfen;früh;an;Morgen;aus;der;Ei
+807.0|vergessen|verb|forget|Man sollte nicht vergessen, woher man kommt.|One should not forget where they come from.|
+808.0|brauchen|verb|need|Wir brauchen dringend eine Lösung für das Problem.|We urgently need a solution to the problem.|
+810.0|davon|adverb|of it|Davon war nichts in der Nachricht erwähnt worden.|Nothing of it was mentioned in the message.|
 812.0|zehnmal|adverb|ten times|Sie überprüfte das Dokument mindestens zehnmal.|She checked the document at least ten times.|sie;überprüfen;der;Dokument;mindestens;zehnmal
+814.0|zuwenig|adverb|too little|Er hat zuwenig Schlaf in den letzten Tagen.|He has had too little sleep in recent days.|
+815.0|Hab|noun|property|Das Hab und Gut wurde vor dem Feuer gerettet.|The property was saved from the fire.|
+816.0|wozu|adverb|for what|Wozu soll das gut sein, fragte sie skeptisch.|For what purpose is this supposed to be good? she asked skeptically.|
 817.0|der Verzicht|noun|the renunciation|Sein Verzicht auf Luxus beeindruckte viele.|His renunciation of luxury impressed many.|sein;Verzicht;auf;Luxus;beeindrucken;viel
+818.0|zwar|adverb|indeed|Zwar war es kalt, doch die Sonne schien.|Indeed, it was cold, but the sun was shining.|
+819.0|reichen|verb|suffice|Die Vorräte sollten für den Winter reichen.|The supplies should suffice for the winter.|
 820.0|die Bescheidenheit|noun|modesty|Seine Bescheidenheit beeindruckte alle Gäste.|His modesty impressed all the guests.|sein;Bescheidenheit;beeindrucken;aller;Gast
+821.0|recht|adjective|right|Das ist moralisch nicht recht.|This is morally not right.|
+823.0|schlecht|adjective|bad|Nach dem Streit fühlte er sich schlecht.|After the argument, he felt bad.|
+825.0|zufrieden|adjective|satisfied|Sie ist mit ihrer Arbeit zufrieden.|She is satisfied with her work.|
+827.0|genug|adverb|enough|Er hatte nicht genug Geld dabei.|He didn’t have enough money with him.|
+828.0|zuviel|adverb|too much|Er hat zuviel Kaffee getrunken.|He drank too much coffee.|
+829.0|all|pronoun|all|Nicht all das Gesagte war wirklich wahr.|Not all that was said was truly true.|
+830.0|das Haben|noun|assets|Das Haben der Firma ist beeindruckend.|The company’s assets are impressive.|
 833.0|das All|noun|universe|Das All ist voller Geheimnisse und Wunder.|The universe is full of mysteries and wonders.|der;All;sein;voll;Geheimnis;und;Wunder
+834.0|zerfallen|verb|decay|Das alte Gebäude ist fast zerfallen.|The old building has almost decayed.|
+835.0|die Krise|noun|crisis|Die Krise hat viele Firmen getroffen.|The crisis affected many companies.|
+836.0|der Krieg|noun|war|Der Krieg hinterließ Spuren in der Stadt.|The war left marks in the city.|
 837.0|die Biene|noun|bee|Die Biene summte friedlich um die Blumen herum.|The bee buzzed peacefully around the flowers.|der;Biene;summen;friedlich;um;der;Blume;herum
+838.0|der Terror|noun|terror|Der Terror bedroht die Sicherheit der Städte.|The terror threatens the safety of cities.|
+839.0|Brüssel|noun|Brussels|Brüssel ist Sitz vieler Institutionen.|Brussels is home to many institutions.|
+840.0|der Paris|noun|Paris|Der Paris-Roman ist weltberühmt.|The Paris novel is world-famous.|
+841.0|der Pole|noun|Pole|Der Pole sprach fließend Deutsch.|The Pole spoke fluent German.|
+841.001|die Pole|noun|poles|Die Pole der Erde schmelzen schneller.|The poles of the Earth are melting faster.|
 842.0|schmelzen|verb|to melt|Das Eis begann in der warmen Sonne zu schmelzen.|The ice began to melt in the warm sun.|der;Eis;beginnen;in;der;warm;Sonne;zu;schmelzen
+843.0|die Regierung|noun|government|Die Regierung plant neue Reformen.|The government is planning new reforms.|
+844.0|die Grenze|noun|border|Die Grenze wurde streng kontrolliert.|The border was strictly monitored.|
+845.0|dicht|adjective|dense|Der Wald war dunkel und dicht.|The forest was dark and dense.|
+846.0|Xavier|noun|Xavier|Xavier ist ein außergewöhnlicher Künstler.|Xavier is an extraordinary artist.|
+847.0|singen|verb|sing|Er liebt es, im Chor zu singen.|He loves to sing in the choir.|
+848.0|die Europa|noun|Europe|Die Europa-Reise war ein Abenteuer.|The Europe trip was an adventure.|
+849.0|rechts|adverb|right|Das Haus liegt direkt rechts vom Park.|The house is directly to the right of the park.|
+850.0|rücken|verb|move|Könntest du den Tisch ein Stück rücken?|Could you move the table a bit?|
+851.0|echt|adjective|real|Das ist ein echt schönes Gemälde.|That is a really beautiful painting.|
+852.0|verrückt|adjective|crazy|Die Idee klang völlig verrückt.|The idea sounded completely crazy.|
+853.0|Leute|noun|people|Die Leute waren sehr freundlich.|The people were very friendly.|
+854.0|nötig|adjective|necessary|Für das Projekt ist Geduld nötig.|Patience is necessary for the project.|
+855.0|der Frieden|noun|peace|Der Frieden ist von größter Bedeutung.|Peace is of utmost importance.|
+856.0|möglich|adjective|possible|Alles ist möglich, wenn man daran glaubt.|Everything is possible if you believe in it.|
+857.0|Ah|interjection|ah|Ah, jetzt verstehe ich die Aufgabe.|Ah, now I understand the task.|
+858.0|yeah|interjection|yeah|Yeah, das war eine großartige Show.|Yeah, that was an awesome show.|
+859.0|Gleiche|noun|same|Er bekam das Gleiche wie beim letzten Mal.|He got the same as last time.|
+860.0|beweisen|verb|prove|Du musst deine Theorie beweisen.|You need to prove your theory.|
+861.0|klingeln|verb|ring|Es begann plötzlich zu klingeln.|It suddenly started ringing.|
 862.0|der Lieferant|noun|the supplier|Der Lieferant brachte die Ware pünktlich.|The supplier delivered the goods on time.|der;Lieferant;bringen;der;Ware;pünktlich
 863.0|dampfen|verb|to steam|Die Suppe begann angenehm zu dampfen.|The soup started to steam pleasantly.|der;Suppe;beginnen;angenehm;zu;dampfen
+864.0|das Symbol|noun|symbol|Das Symbol steht für Hoffnung.|The symbol represents hope.|
+866.0|die Hoffnung|noun|hope|Die Hoffnung auf Frieden bleibt bestehen.|The hope for peace persists.|
+867.0|die Scheibe|noun|disk|Die Scheibe des Fensters wurde zerschlagen.|The disk of the window was shattered.|
 868.0|die Weisheit|noun|wisdom|Weisheit erfordert oft Geduld und Erfahrung.|Wisdom often requires patience and experience.|Weisheit;erfordern;oft;Geduld;und;Erfahrung
+869.0|die Menschheit|noun|humanity|Die Menschheit steht vor großen Herausforderungen.|Humanity faces great challenges.|
+870.0|gebacken|adjective|baked|Die frisch gebackenen Brötchen duften herrlich.|The freshly baked rolls smell wonderful.|
 871.0|der Teig|noun|dough|Der Teig für das Brot muss lange ruhen.|The dough for the bread must rest for a long time.|der;Teig;für;der;Brot;müssen;lange;ruhen
+872.0|fest|adjective|firm|Der Griff war sicher und fest.|The grip was secure and firm.|
+873.0|daran|adverb|at it|Daran habe ich gar nicht gedacht.|I didn’t think about it at all.|
 874.0|die Pizza|noun|the pizza|Die Pizza wurde mit frischen Zutaten belegt.|The pizza was topped with fresh ingredients.|der;Pizza;werden;mit;frisch;Zutat;belegen
+875.0|retten|verb|save|Der Arzt konnte das Leben retten.|The doctor was able to save the life.|
 876.0|verbünden|verb|to ally|Die Länder verbündeten sich gegen die Bedrohung.|The countries allied against the threat.|der;Land;verbünden;sich;gegen;der;Bedrohung
+877.0|das Baby|noun|baby|Das Baby lächelte zum ersten Mal.|The baby smiled for the first time.|
+878.0|bestellen|verb|order|Er möchte eine Pizza bestellen.|He wants to order a pizza.|
 879.0|der Revolutionär|noun|revolutionary|Ein echter Revolutionär kämpft für Veränderungen.|A true revolutionary fights for change.|ein;echt;Revolutionär;kämpfen;für;Veränderung
+880.0|das Gewehr|noun|rifle|Das Gewehr wurde sorgfältig gereinigt.|The rifle was carefully cleaned.|
+881.0|die Herkunft|noun|origin|Die Herkunft dieses Gemäldes ist unklar.|The origin of this painting is unclear.|
 882.0|die Hautfarbe|noun|skin color|Die Hautfarbe sollte nie über Chancen entscheiden.|Skin color should never determine opportunities.|der;Hautfarbe;sollen;nie;über;Chance;entscheiden
+883.0|die Religion|noun|religion|Die Religion spielt hier eine große Rolle.|Religion plays a big role here.|
+884.0|die Hauptsache|noun|main thing|Die Hauptsache ist, dass du glücklich bist.|The main thing is that you’re happy.|
+885.0|dünn|adjective|thin|Das Eis auf dem See war gefährlich dünn.|The ice on the lake was dangerously thin.|
 886.0|die Tomatensoße|noun|the tomato sauce|Die Tomatensoße verfeinerte das Gericht perfekt.|The tomato sauce perfectly enhanced the dish.|der;Tomatensoße;verfeinern;der;Gericht;perfekt
+887.0|der Käse|noun|cheese|Der Käse schmeckt hervorragend.|The cheese tastes excellent.|
+888.0|grade|adjective|straight|Die Straße führt grade zum See.|The road leads straight to the lake.|
 889.0|zuleide|adjective|harmful|Er wollte niemandem absichtlich zuleide tun.|He didn’t want to harm anyone intentionally.|er;wollen;niemand;absichtlich;zuleide;tun
+890.0|der Kontinent|noun|continent|Europa ist ein faszinierender Kontinent.|Europe is a fascinating continent.|
+891.0|die Kultur|noun|culture|Die Kultur in Japan ist einzigartig.|The culture in Japan is unique.|
+893.0|sowas|pronoun|something like that|Ich habe sowas noch nie gesehen!|I have never seen something like that!|
 894.0|das Pendant|noun|counterpart|Das deutsche Pendant ist fast identisch.|The German counterpart is almost identical.|der;deutsch;Pendant;sein;fast;identisch
+895.0|dazu|adverb|in addition|Hast du noch etwas dazu zu sagen?|Do you have anything to add to that?|
+896.0|Tansania|noun|Tanzania|In Tansania gibt es viele Nationalparks.|In Tanzania, there are many national parks.|
+897.0|der Münchner|noun|Munich resident|Ein Münchner hat das beste Bier empfohlen.|A Munich resident recommended the best beer.|
 898.0|die Schickeria|noun|the elite|Die Schickeria trifft sich in exklusiven Clubs.|The elite meets in exclusive clubs.|der;Schickeria;treffen;sich;in;exklusiv;Club
 899.0|die Pizzeria|noun|pizzeria|Die Pizzeria wurde für ihre Holzofenpizzen gelobt.|The pizzeria was praised for its wood-fired pizzas.|der;Pizzeria;werden;für;ihr;die Holzofenpizza;loben
+900.0|schreiben|verb|to write|Ich schreibe morgen einen langen Bericht.|I am writing a long report tomorrow.|
 901.0|die Parole|noun|the slogan|Die Demonstranten riefen lautstark ihre Parolen.|The protesters loudly shouted their slogans.|der;Demonstrant;rufen;lautstark;ihr;Parole
+902.0|die Wand|noun|wall|Die Wand wurde frisch gestrichen.|The wall was freshly painted.|
+905.0|das Hoch|noun|high|Ein starkes Hoch sorgt für Sonnenschein.|A strong high brings sunshine.|
+906.0|die Calzone|noun|calzone|Die Calzone schmeckt hier besonders gut.|The calzone tastes especially good here.|
+907.0|die Flamme|noun|flame|Die Flamme im Kamin flackert sanft.|The flame in the fireplace flickers gently.|
+909.0|das Problem|noun|problem|Das Problem wurde schnell gelöst.|The problem was solved quickly.|
+911.0|sein|verb|to be|Es wird wichtig sein, pünktlich zu kommen.|It will be important to arrive on time.|
 912.0|tiefgekühlt|adjective|deep-frozen|Die tiefgekühlten Beeren eignen sich für Desserts.|The deep-frozen berries are suitable for desserts.|der;tiefgekühlt;Beere;eignen;sich;für;Dessert
+913.0|wunderbar|adjective|wonderful|Das Wetter heute ist einfach wunderbar.|The weather today is simply wonderful.|
 914.0|das Wurfgeschoss|noun|projectile|Das Wurfgeschoss prallte von der Mauer ab.|The projectile bounced off the wall.|der;Wurfgeschoss;prallen;von;der;Mauer;ab
+915.0|erwischen|verb|to catch|Ich konnte den letzten Bus gerade noch erwischen.|I just managed to catch the last bus.|
 916.0|der Gerichtssaal|noun|courtroom|Im Gerichtssaal herrschte angespannte Stille.|There was tense silence in the courtroom.|in;Gerichtssaal;herrschen;angespannt;Stille
+918.0|der Richter|noun|judge|Der Richter hat ein gerechtes Urteil gefällt.|The judge made a fair decision.|
 919.0|bestechen|verb|to bribe|Man hat versucht, den Beamten zu bestechen.|Someone tried to bribe the official.|man;haben;versuchen;der;der Beamte;zu;bestechen
+920.0|klappen|verb|to work out|Das Meeting hat wirklich gut geklappt.|The meeting worked out really well.|
+921.0|die Fähre|noun|ferry|Die Fähre legt in zehn Minuten ab.|The ferry departs in ten minutes.|
 922.0|der Knast|noun|the slammer|Nach dem Überfall landete er im Knast.|After the robbery, he ended up in the slammer.|nach;der;Überfall;landen;er;in;Knast
+923.0|einfach|adjective|simple|Der Plan ist einfach und effektiv.|The plan is simple and effective.|
 924.0|die Feile|noun|the file|Die Feile wurde benutzt, um das Metall zu glätten.|The file was used to smooth the metal.|der;Feile;werden;benutzen;um;der;Metall;zu;glätten
+925.0|backen|verb|to bake|Wir backen am Sonntag einen Apfelkuchen.|We are baking an apple pie on Sunday.|
+926.0|das Mittel|noun|means|Das Mittel gegen Erkältung hilft schnell.|The remedy for colds works quickly.|
+926.001|die Mittel|noun|resources|Die Mittel für das Projekt wurden bewilligt.|The resources for the project were approved.|
+927.0|der Staat|noun|state|Der Staat fördert erneuerbare Energien.|The state promotes renewable energy.|
+929.0|bitte|adverb|please|Können Sie das bitte wiederholen?|Can you repeat that, please?|
 930.0|der Oregano|noun|the oregano|Ein Hauch Oregano verfeinerte die Tomatensoße.|A hint of oregano enhanced the tomato sauce.|ein;Hauch;Oregano;verfeinern;der;Tomatensoße
 931.0|würzen|verb|to season|Vergiss nicht, die Suppe mit Kräutern zu würzen.|Don’t forget to season the soup with herbs.|vergessen;nicht;der;Suppe;mit;das Kraut;zu;würzen
+932.0|neulich|adverb|recently|Neulich war ich in einem tollen Konzert.|Recently, I was at a great concert.|
+934.0|lange|adjective|long|Die Diskussion dauerte viel zu lange.|The discussion lasted far too long.|
+935.0|her|adverb|here|Komm doch bitte schnell her zu mir!|Please come here to me quickly!|
+936.0|treffen|verb|to meet|Wir treffen uns morgen im Café.|We are meeting at the café tomorrow.|
+937.0|sehr|adverb|very|Er ist ein sehr talentierter Musiker.|He is a very talented musician.|
+938.0|die Dame|noun|lady|Die Dame trug ein elegantes Kleid.|The lady wore an elegant dress.|
+941.0|der Name|noun|name|Sein Name steht auf der Liste.|His name is on the list.|
+942.0|wunderschön|adjective|beautiful|Der Sonnenuntergang war einfach wunderschön.|The sunset was simply beautiful.|
 945.0|verpissen|verb|to leave rudely|Er wurde gebeten, den Raum sofort zu verpissen.|He was asked to leave the room immediately and rudely.|er;werden;bitten;der;Raum;sofort;zu;verpissen
+947.0|der Moment|noun|moment|Der Moment des Sieges war unvergesslich.|The moment of victory was unforgettable.|
+947.001|das Moment|noun|factor|Das Moment der Spannung war spürbar.|The factor of tension was palpable.|
+948.0|akzeptieren|verb|to accept|Ich kann diese Bedingungen nicht akzeptieren.|I cannot accept these terms.|
+949.0|drüber|adverb|over it|Ich denke immer noch drüber nach.|I’m still thinking over it.|
+950.0|diskutieren|verb|to discuss|Wir diskutieren das Thema morgen weiter.|We will discuss the topic further tomorrow.|
 952.0|genieren|verb|to embarrass|Er genierte sich, vor der Klasse zu sprechen.|He felt embarrassed to speak in front of the class.|er;genieren;sich;vor;der;Klasse;zu;sprechen
+953.0|probieren|verb|to try|Möchtest du die neue Pizza probieren?|Would you like to try the new pizza?|
 954.0|verführen|verb|to seduce|Das Angebot verführte ihn zu einem schnellen Kauf.|The offer seduced him into a quick purchase.|der;Angebot;verführen;ihn;zu;ein;schnell;Kauf
 955.0|kapieren|verb|to understand|Er brauchte lange, um die Theorie zu kapieren.|He took a long time to understand the theory.|er;brauchen;lange;um;der;Theorie;zu;kapieren
 956.0|n|noun|n|Die Variable n steht für eine natürliche Zahl.|The variable n represents a natural number.|der;Variable;n;stehen;für;ein;natürlich;Zahl
+957.0|die Frau|noun|woman|Die Frau liest ein interessantes Buch.|The woman is reading an interesting book.|
+958.0|nee|adverb|no|Nee, das passt mir leider nicht.|No, that unfortunately doesn't work for me.|
+959.0|die Niere|noun|kidney|Die Niere ist ein lebenswichtiges Organ.|The kidney is a vital organ.|
 961.0|provozieren|verb|to provoke|Seine Bemerkungen sollten die Debatte provozieren.|His remarks were meant to provoke the debate.|sein;Bemerkung;sollen;der;Debatte;provozieren
+962.0|Starallüre|noun|star-like airs|Seine Starallüren nerven alle Kollegen.|His star-like airs annoy all the colleagues.|
+963.0|blind|adjective|blind|Er ist blind für die Schönheit der Natur.|He is blind to the beauty of nature.|
+965.0|trinken|verb|to drink|Ich trinke gerne frischen Orangensaft.|I like to drink fresh orange juice.|
+967.0|das Bier|noun|beer|Das Bier in Bayern ist weltberühmt.|The beer in Bavaria is world-famous.|
 970.0|massieren|verb|to massage|Sie massierte ihm den Rücken nach dem langen Tag.|She massaged his back after the long day.|sie;massieren;ihm;der;Rücken;nach;der;lang;Tag
 972.0|die Liege|noun|lounger|Die Liege im Garten ist perfekt für Sommertage.|The lounger in the garden is perfect for summer days.|der;Liege;in;Garten;sein;perfekt;für;Sommertag
 974.0|die Schrippe|noun|the bread roll|Die Schrippe war frisch und knusprig gebacken.|The bread roll was freshly and crisply baked.|der;Schrippe;sein;frisch;und;knusprig;gebacken
 975.0|die Stulle|noun|the sandwich|Die Stulle wurde mit frischen Kräutern belegt.|The sandwich was topped with fresh herbs.|der;Stulle;werden;mit;frisch;das Kraut;belegen
+976.0|die Lampe|noun|lamp|Die Lampe auf dem Tisch ist kaputt.|The lamp on the table is broken.|
+977.0|danach|adverb|afterwards|Wir gehen essen und danach ins Kino.|We’ll go eat and afterwards to the cinema.|
+978.0|vier|numeral|four|Vier Freunde gingen zusammen spazieren.|Four friends went for a walk together.|
+979.0|also|adverb|so|Also, was wollen wir heute machen?|So, what do we want to do today?|
 981.0|ok|adjective|ok|Das Ergebnis war zwar nicht perfekt, aber ok.|The result wasn’t perfect, but it was ok.|der;Ergebnis;sein;zwar;nicht;perfekt;aber;ok
+982.0|He|interjection|hey|He, komm zurück, ich habe dir etwas zu sagen!|Hey, come back, I have something to tell you!|
+984.0|wirklich|adverb|really|Das war wirklich ein großartiger Abend.|That was really a great evening.|
+985.0|der Magen|noun|stomach|Der Magen knurrte vor lauter Hunger.|The stomach growled out of hunger.|
+986.0|der Sommer|noun|summer|Der Sommer war heiß und voller Abenteuer.|The summer was hot and full of adventures.|
+987.0|mitbringen|Verb|bring along|Kannst du Getränke mitbringen?|Can you bring along drinks?|
+988.0|außerdem|Adverb|besides|Außerdem hat er das Problem gelöst.|Besides, he solved the problem.|
+989.0|gestehen|Verb|confess|Er musste seine Schuld gestehen.|He had to confess his guilt.|
+990.0|tschüß|interjection|bye|Tschüß, bis morgen in der Schule!|Bye, see you tomorrow at school!|
+992.0|willen|Noun|sake|Um des Friedens willen schweigte sie.|For the sake of peace, she remained silent.|
 993.0|das Ghetto|noun|ghetto|Das Buch erzählt die Geschichte eines Ghettos.|The book tells the story of a ghetto.|der;Buch;erzählen;der;Geschichte;ein;Ghetto
+993.001|der Ghetto|Noun|ghetto|Das Ghetto war voller Leben und Musik.|The ghetto was full of life and music.|
+995.0|der Alter|Noun|age|Der Alter des Hauses zeigte sich deutlich.|The age of the house was clearly visible.|
+995.001|das Alter|Noun|age|Das Alter bringt oft Weisheit mit sich.|Age often brings wisdom with it.|
+997.0|der Schlaf|Noun|sleep|Der Schlaf war tief und erholsam.|The sleep was deep and restful.|
+998.0|etwas|Pronoun|something|Ich habe etwas für dich vorbereitet.|I prepared something for you.|
 1000.0|die Fliese|noun|the tile|Die kaputte Fliese wurde umgehend ersetzt.|The broken tile was promptly replaced.|der;kaputt;Fliese;werden;umgehend;ersetzen
 1001.0|der Modergeruch|noun|the musty smell|Der Keller hatte einen unangenehmen Modergeruch.|The basement had an unpleasant musty smell.|der;Keller;haben;ein;unangenehm;Modergeruch
 1002.0|das Leichentuch|noun|the shroud|Das Leichentuch wurde in der Kirche gesegnet.|The shroud was blessed in the church.|der;Leichentuch;werden;in;der;Kirche;segnen
+1003.0|schlimm|Adjective|bad|Es war eine schlimme Entscheidung.|It was a bad decision.|
+1005.0|schmerzen|Verb|ache|Mein Rücken beginnt zu schmerzen.|My back is starting to ache.|
 1007.0|der Henker|noun|executioner|Der Henker hob die Axt mit schwerem Herzen.|The executioner raised the axe with a heavy heart.|der;Henker;heben;der;Axt;mit;schwer;Herz
 1008.0|der Rosenkranz|noun|the rosary|Der Rosenkranz wird feierlich im Gebet verwendet.|The rosary is solemnly used in prayer.|der;Rosenkranz;werden;feierlich;in;Gebet;verwenden
 1011.0|die Leichenhalle|noun|the morgue|Die Leichenhalle war kalt und unheimlich still.|The morgue was cold and eerily quiet.|der;Leichenhalle;sein;kalt;und;unheimlich;still
+1012.0|die Lage|Noun|situation|Die Lage spitzte sich gefährlich zu.|The situation became dangerously tense.|
 1013.0|fatal|adjective|fatal|Der Arzt sprach von einer fatalen Diagnose.|The doctor spoke of a fatal diagnosis.|der;Arzt;sprechen;von;ein;fatal;Diagnose
 1014.0|die Schminke|noun|makeup|Ihre Schminke betonte ihre natürlichen Züge.|Her makeup accentuated her natural features.|ihr;Schminke;betonen;ihr;natürlich;Zug
 1015.0|der Kajal|noun|the kohl|Ihr Kajal war verschmiert nach dem langen Abend.|Her kohl was smudged after the long evening.|ihr;Kajal;sein;verschmieren;nach;der;lang;Abend
+1015.001|das Kajal|Noun|kohl|Das Kajal betonte ihre Augen stark.|The kohl emphasized her eyes strongly.|
 1016.0|der Todesengel|noun|the angel of death|Der Todesengel wurde oft in der Kunst dargestellt.|The angel of death was often depicted in art.|der;Todesengel;werden;oft;in;der;Kunst;darstellen
 1017.0|der Kuss|noun|the kiss|Ihr erster Kuss war auf einer Sommerparty.|Their first kiss was at a summer party.|ihr;erst;Kuss;sein;auf;ein;die Sommerparty
+1019.0|spitz|Adjective|sharp|Das Messer war unglaublich spitz.|The knife was incredibly sharp.|
+1020.0|der Schuh|Noun|shoe|Der Schuh drückte an der Ferse.|The shoe pinched at the heel.|
 1021.0|der Drudenfuß|noun|the pentagram|Der Drudenfuß war in den Stein gemeißelt.|The pentagram was carved into the stone.|der;Drudenfuß;sein;in;der;Stein;meißeln
 1022.0|beisammen|adjective|together|Die Familie war an Weihnachten endlich beisammen.|The family was finally together at Christmas.|der;Familie;sein;an;Weihnachten;endlich;beisammen
+1023.0|die Leiche|Noun|corpse|Die Leiche lag am Ufer des Flusses.|The corpse lay on the riverbank.|
+1024.0|herum|Adverb|around|Sie lief nervös im Zimmer herum.|She nervously walked around the room.|
+1025.0|frisch|adjective|fresh|Das Brot schmeckt heute besonders frisch.|The bread tastes especially fresh today.|
+1026.0|das Sagen|Noun|say|Er hatte das Sagen in der Gruppe.|He had the say in the group.|
+1029.0|das Ach|Interjection|oh|Ach, das hätte ich wissen sollen.|Oh, I should have known that.|
 1031.0|der Fick|noun|f***|Solche Vulgärsprache passt nicht in den Diskurs.|Such vulgar language does not belong in the discourse.|solch;Vulgärsprache;passen;nicht;in;der;Diskurs
+1032.0|Michi|Proper noun|Michi|Michi rief laut nach seiner Katze.|Michi called loudly for his cat.|
 1033.0|ficken|verb|to copulate|Dieser Roman vermeidet es, trivial zu ficken.|This novel avoids being trivial in its copulation.|dieser;Roman;vermeiden;es;trivial;zu;ficken
+1034.0|Michael|Proper noun|Michael|Michael präsentierte seine Arbeit stolz.|Michael proudly presented his work.|
+1035.0|fehlen|Verb|lack|Es fehlen noch ein paar Details.|A few details are still missing.|
 1036.0|ihm|pronoun|him|Ich werde ihm die Neuigkeiten morgen mitteilen.|I will inform him of the news tomorrow.|ich;werden;ihm;der;Neuigkeit;morgen;mitteilen
 1037.0|der Schopf|noun|tuft|Ein Vogel landete auf seinem Schopf.|A bird landed on his tuft of hair.|ein;Vogel;landen;auf;sein;Schopf
 1038.0|prächtig|adjective|magnificent|Das prächtige Schloss war eine Augenweide.|The magnificent castle was a feast for the eyes.|der;prächtig;Schloss;sein;ein;Augenweide
+1040.0|das Fräulein|Noun|Miss|Das Fräulein wartete geduldig am Tisch.|The Miss waited patiently at the table.|
 1042.0|die Liebeskunst|noun|the art of love|Die Liebeskunst erfordert Geduld und Empathie.|The art of love requires patience and empathy.|der;Liebeskunst;erfordern;Geduld;und;Empathie
+1043.0|bekannt|Adjective|famous|Er ist für seine Kunst bekannt.|He is famous for his art.|
+1044.0|der Ort|Noun|place|Der Ort war voller Erinnerungen.|The place was full of memories.|
+1044.001|das Ort|Noun|place|Das Ort auf der Karte ist markiert.|The place on the map is marked.|
 1045.0|fort|adverb|away|Der Wanderer zog frühmorgens still und leise fort.|The hiker quietly went away early in the morning.|der;Wanderer;ziehen;frühmorgens;still;und;leise;fort
 1046.0|der G-Punkt|noun|G-spot|Das Buch erklärt die Mythen rund um den G-Punkt.|The book explains the myths surrounding the G-spot.|der;Buch;erklären;der;Mythus;rund;um;der;G-Punkt
+1048.0|das I|Noun|I|Das I war in der Schrift schlecht lesbar.|The I was hard to read in the font.|
 1049.0|m|noun|meter|Der Läufer erreichte die letzten hundert Meter.|The runner reached the last hundred meters.|der;Läufer;erreichen;der;der Letzte;hundert;Meter
+1053.0|a|Letter|a|Das Wort begann mit einem großen A.|The word started with a capital A.|
+1055.0|der Zyklus|Noun|cycle|Der Zyklus wiederholte sich ständig.|The cycle kept repeating.|
+1058.0|happy|Adjective|happy|Sie fühlte sich nach der Prüfung happy.|She felt happy after the exam.|
+1062.0|übrig|Adjective|remaining|Es blieben nur wenige Minuten übrig.|Only a few minutes remained.|
 1069.0|verkommen|verb|to deteriorate|Das Haus begann langsam zu verkommen.|The house slowly began to deteriorate.|der;Haus;beginnen;langsam;zu;verkommen
+1071.0|Südafrika|Proper noun|South Africa|Südafrika ist reich an Kultur und Natur.|South Africa is rich in culture and nature.|
+1072.0|der Wind|Noun|wind|Der Wind trug den Duft von Blumen.|The wind carried the scent of flowers.|
+1073.0|wehen|Verb|blow|Die Fahne begann im Wind zu wehen.|The flag began to blow in the wind.|
+1074.0|leise|Adjective|quiet|Seine Stimme war kaum hörbar, so leise.|His voice was barely audible, so quiet.|
+1075.0|das Meer|Noun|sea|Das Meer glitzerte im Sonnenlicht.|The sea sparkled in the sunlight.|
+1076.0|der Berg|Noun|mountain|Der Berg war von Schnee bedeckt.|The mountain was covered in snow.|
+1077.0|der Kunde|Noun|customer|Der Kunde wartete ungeduldig an der Kasse.|The customer waited impatiently at the checkout.|
+1077.001|die Kunde|Noun|tidings|Die Kunde von seiner Rückkehr verbreitete sich.|The tidings of his return spread.|
+1078.0|Afrika|Proper noun|Africa|Afrika begeistert mit seiner Wildnis.|Africa captivates with its wilderness.|
+1079.0|das A|Letter|A|Das A war in roter Farbe geschrieben.|The A was written in red.|
+1092.0|dry|Adjective|dry|Die Erde war nach der Dürre völlig dry.|The soil was completely dry after the drought.|
+1095.0|falls|Conjunction|if|Falls du Zeit hast, komm vorbei.|If you have time, come by.|
+1098.0|oberhalb|Preposition|above|Oberhalb des Hügels lag eine alte Burg.|Above the hill lay an old castle.|
+1104.0|love|noun|love|Their love for nature is truly inspiring.|Ihre Liebe zur Natur ist wirklich inspirierend.|
+1112.0|die Materie|noun|matter|Die Materie im Universum bleibt ein Rätsel.|The matter in the universe remains a mystery.|
+1114.0|nahe|adjective|near|Die Lösung war überraschend nahe.|The solution was surprisingly near.|
 1116.0|der Querdenker|noun|the lateral thinker|Ein Querdenker brachte neue Ideen ins Team.|A lateral thinker brought new ideas to the team.|ein;Querdenker;bringen;neu;Idee;in;Team
+1117.0|klatschen|verb|to clap|Die Zuschauer klatschten begeistert mit.|The audience clapped enthusiastically along.|
 1118.0|der Pazifist|noun|pacifist|Ein Pazifist setzt sich stets für den Frieden ein.|A pacifist always advocates for peace.|ein;Pazifist;setzen;sich;stets;für;der;Frieden;ein
+1119.0|marschieren|verb|to march|Die Soldaten marschieren durch die Stadt.|The soldiers march through the city.|
+1120.0|Naziparole|noun|Nazi slogan|Die Naziparole wurde von allen verurteilt.|The Nazi slogan was condemned by everyone.|
+1122.0|der Spaziergang|noun|walk|Der Spaziergang durch den Park war erholsam.|The walk through the park was relaxing.|
+1123.0|die Gewalt|noun|violence|Die Gewalt in Filmen nimmt immer mehr zu.|The violence in movies is increasing.|
+1124.0|sogenannt|adjective|so-called|Der sogenannte Experte machte viele Fehler.|The so-called expert made many mistakes.|
+1125.0|das Volk|noun|people|Das Volk forderte Reformen und Gerechtigkeit.|The people demanded reforms and justice.|
+1127.0|die Gesellschaft|noun|society|Die Gesellschaft verändert sich rasant.|The society is changing rapidly.|
+1128.0|spalten|verb|to split|Die Debatte spaltet die Meinungen im Land.|The debate splits opinions in the country.|
+1129.0|der Idiot|noun|idiot|Nur ein Idiot würde so eine Entscheidung treffen.|Only an idiot would make such a decision.|
+1130.0|wichtig|adjective|important|Es ist wichtig, die Fakten zu überprüfen.|It is important to check the facts.|
 1131.0|die Million|noun|the million|Der Vertrag umfasst eine Summe von zehn Millionen.|The contract involves a sum of ten million.|der;Vertrag;umfassen;ein;Summe;von;zehn;Million
+1133.0|easy|adjective|easy|Das Spiel war überraschend easy zu gewinnen.|The game was surprisingly easy to win.|
 1134.0|impfen|verb|to vaccinate|Der Arzt plant, die Patienten bald zu impfen.|The doctor plans to vaccinate the patients soon.|der;Arzt;planen;der;Patient;bald;zu;impfen
+1136.0|die Rechte|noun|rights|Die Rechte aller Menschen müssen geschützt werden.|The rights of all people must be protected.|
 1137.0|der Hippie|noun|hippie|Ein Hippie mit einer Gitarre sang am Lagerfeuer.|A hippie with a guitar sang by the campfire.|ein;Hippie;mit;ein;Gitarre;singen;an;Lagerfeuer
+1138.0|überzeugen|verb|to convince|Er konnte sie mit Argumenten überzeugen.|He was able to convince her with arguments.|
+1140.0|die Überraschung|noun|surprise|Die Überraschungsparty war ein voller Erfolg.|The surprise party was a complete success.|
+1142.0|Fascho|noun|fascist|Der Fascho wurde lautstark ausgebuht.|The fascist was loudly booed.|
+1144.0|euch|pronoun|you (plural)|Ich wünsche euch viel Erfolg bei der Prüfung.|I wish you all the best for the exam.|
+1145.0|der Grund|noun|reason|Der Grund für sein Verhalten bleibt unklar.|The reason for his behavior remains unclear.|
 1147.0|der Nazi|noun|the Nazi|Der Film dokumentiert die Verbrechen der Nazis.|The film documents the crimes of the Nazis.|der;Film;dokumentieren;der;Verbrechen;der;Nazi
+1148.0|Hool|noun|hooligan|Ein Hool wurde wegen Randale festgenommen.|A hooligan was arrested for rioting.|
+1153.0|verdienen|verb|to earn|Er verdient Respekt für seine Arbeit.|He earns respect for his work.|
+1154.0|kritisieren|verb|to criticize|Der Reporter kritisierte die Entscheidung scharf.|The reporter sharply criticized the decision.|
 1155.0|das Patent|noun|the patent|Das Patent auf die Erfindung wurde erteilt.|The patent for the invention was granted.|der;Patent;auf;der;Erfindung;werden;erteilen
+1156.0|blockieren|verb|to block|Die Demonstranten blockierten den Verkehr.|The protesters blocked the traffic.|
+1157.0|profitieren|verb|to benefit|Die Firma profitiert von steigenden Preisen.|The company benefits from rising prices.|
+1159.0|das Verständnis|noun|understanding|Das Verständnis zwischen den Parteien wächst.|The understanding between the parties is growing.|
+1160.0|euer|pronoun|your (plural)|Euer Engagement wird sehr geschätzt.|Your commitment is greatly appreciated.|
+1161.0|welcher|pronoun|which|Welcher Weg ist der kürzeste zum Ziel?|Which path is the shortest to the goal?|
 1162.0|taktieren|verb|to strategize|Er musste klug taktieren, um den Deal zu sichern.|He had to strategize wisely to secure the deal.|er;müssen;klug;taktieren;um;der;Deal;zu;sichern
+1163.0|überschreiten|verb|to exceed|Die Kosten überschreiten das Budget deutlich.|The costs clearly exceed the budget.|
+1164.0|weißen|verb|to whiten|Die Sonne weißen die alten Fassaden aus.|The sun whitens the old facades.|
 1166.0|die Impfung|noun|the vaccination|Die Impfung wird für alle Altersgruppen empfohlen.|The vaccination is recommended for all age groups.|der;Impfung;werden;für;aller;Altersgruppe;empfehlen
 1167.0|der Arztbesuch|noun|doctor's visit|Sein Arztbesuch dauerte nur zehn Minuten.|His doctor's visit lasted only ten minutes.|sein;Arztbesuch;dauern;nur;zehn;Minute
+1169.0|die AfD|noun|AfD|Die AfD sorgt oft für hitzige Debatten.|The AfD often sparks heated debates.|
+1171.0|die Bewegung|noun|movement|Die Bewegung für Gleichberechtigung wächst stetig.|The movement for equality is steadily growing.|
+1172.0|lächerlich|adjective|ridiculous|Seine Ausrede war einfach lächerlich.|His excuse was simply ridiculous.|
+1173.0|scheiß|adjective|crappy|Dieses scheiß Wetter ruiniert den Tag.|This crappy weather ruins the day.|
+1174.0|das Dorf|noun|village|Das Dorf liegt idyllisch in den Bergen.|The village is idyllically located in the mountains.|
+1176.0|demonstrieren|verb|to demonstrate|Die Menschen demonstrieren für ihre Rechte.|The people demonstrate for their rights.|
 1179.0|zusammen|adverb|together|Sie arbeiteten eng zusammen an dem Projekt.|They worked closely together on the project.|sie;arbeiten;eng;zusammen;an;der;Projekt
+1180.0|miteinander|adverb|together|Wir sollten miteinander mehr kommunizieren.|We should communicate more with each other.|
+1181.0|zueinander|adverb|to each other|Sie fanden zueinander trotz aller Hindernisse.|They found their way to each other despite all obstacles.|
 1182.0|die Treue|noun|the loyalty|Seine Treue zu alten Freunden war bewundernswert.|His loyalty to old friends was admirable.|sein;Treue;zu;alt;Freund;sein;bewundernswert
+1183.0|die Regel|noun|rule|Die Regel ist klar und muss beachtet werden.|The rule is clear and must be followed.|
+1184.0|regeln|verb|to regulate|Die Regierung regelt die Einwanderung neu.|The government is regulating immigration anew.|
 1185.0|der Haifisch|noun|the shark|Ein riesiger Haifisch schwamm nah am Boot vorbei.|A giant shark swam close to the boat.|ein;riesig;Haifisch;der Schwamm;nah;an;Boot;vorbei
+1186.0|laufen|verb|to run|Das Projekt läuft besser als erwartet.|The project is running better than expected.|
+1187.0|das Wasser|noun|water|Das Wasser im See ist angenehm warm.|The water in the lake is pleasantly warm.|
+1188.0|das Tempo|noun|speed|Das Tempo des Rennens war atemberaubend.|The speed of the race was breathtaking.|
+1188.001|der Tempo|noun|tissue|Ein Tempo rettete die Situation bei der Träne.|A tissue saved the situation with the tear.|
 1189.0|mithalten|verb|to keep up|Er konnte beim Marathon nicht lange mithalten.|He couldn’t keep up in the marathon for long.|er;können;bei;Marathon;nicht;lange;mithalten
+1190.0|sofort|adverb|immediately|Kommen Sie bitte sofort ins Büro!|Please come to the office immediately!|
+1191.0|offen|adjective|open|Die Tür blieb die ganze Nacht offen.|The door remained open all night.|
+1193.0|warm|adjective|warm|Die Sonne machte den Tag angenehm warm.|The sun made the day pleasantly warm.|
+1194.0|einsam|adjective|lonely|Der alte Mann fühlte sich oft einsam.|The old man often felt lonely.|
 1195.0|die Zähre|noun|tear|Eine einsame Zähre rollte über seine Wange.|A solitary tear rolled down his cheek.|ein;einsam;die Zähre;rollen;über;sein;Wange
+1196.0|fließen|verb|flow|Das Wasser begann wieder ruhig zu fließen.|The water began to flow calmly again.|
 1197.0|salzig|adjective|salty|Das Meerwasser schmeckte ungewohnt salzig.|The seawater tasted unusually salty.|der;Meerwasser;schmecken;ungewohnt;salzig
 1198.0|schadlos|adjective|unharmed|Das Unternehmen kam aus der Krise schadlos heraus.|The company emerged from the crisis unharmed.|der;Unternehmen;kommen;aus;der;Krise;schadlos;heraus
+1200.0|ziemlich|adverb|quite|Das Konzert war ziemlich beeindruckend.|The concert was quite impressive.|
 1202.0|schick|adjective|chic|Das neue Kleid ist schlicht und schick.|The new dress is simple and chic.|der;neu;Kleid;sein;schlicht;und;schick
+1203.0|setzen|verb|to sit|Er setzte sich auf den alten Holzstuhl.|He sat down on the old wooden chair.|
+1204.0|der Hut|noun|the hat|Sein schwarzer Hut lag auf dem Tisch.|His black hat was lying on the table.|
+1204.001|die Hut|noun|the guard|Sie blieb stets unter der Hut ihres Mentors.|She always stayed under the guard of her mentor.|
+1205.0|Rolex|noun|Rolex|Er trug eine glänzende Rolex am Handgelenk.|He wore a shiny Rolex on his wrist.|
 1206.0|ticken|verb|to tick|Die alte Uhr im Wohnzimmer tickte gleichmäßig.|The old clock in the living room ticked steadily.|der;alt;Uhr;in;Wohnzimmer;ticken;gleichmäßig
+1208.0|Hol|verb|fetch|Hol bitte die Jacke aus dem Auto.|Please fetch the jacket from the car.|
 1209.0|kicken|verb|to kick|Der Spieler konnte den Ball präzise kicken.|The player was able to kick the ball precisely.|der;Spieler;können;der;Ball;präzise;kicken
+1210.0|absolut|adverb|absolutely|Das war absolut die beste Entscheidung.|That was absolutely the best decision.|
+1217.0|nett|adjective|nice|Die nette Nachbarin brachte frischen Kuchen.|The nice neighbor brought fresh cake.|
+1219.0|der Rauch|noun|the smoke|Der Rauch stieg aus dem Kamin in den Himmel.|The smoke rose from the chimney into the sky.|
+1220.0|Shit|noun|shit|Er rief laut: „Shit, das darf nicht passieren!“|"He shouted loudly: ""Shit, that must not happen!"""|
 1221.0|die Braut|noun|bride|Die Braut trug ein atemberaubendes Kleid.|The bride wore a stunning dress.|der;Braut;tragen;ein;atemberaubend;Kleid
+1223.0|der Club|noun|the club|Der Club war voller tanzender Menschen.|The club was full of dancing people.|
+1224.0|genießen|verb|to enjoy|Wir genießen den Ausblick auf die Berge.|We enjoy the view of the mountains.|
+1225.0|der Ausblick|noun|the view|Der Ausblick von der Terrasse war atemberaubend.|The view from the terrace was breathtaking.|
 1228.0|der Schmuck|noun|jewelry|Ihr Schmuck war schlicht, aber elegant.|Her jewelry was simple yet elegant.|ihr;Schmuck;sein;schlicht;aber;elegant
+1230.0|Hook|noun|hook|Der Hook des Songs blieb im Ohr hängen.|The hook of the song got stuck in the ear.|
 1231.0|austicken|verb|to flip out|Als er die Rechnung sah, ist er ausgetickt.|When he saw the bill, he flipped out.|als;er;der;Rechnung;sehen;sein;er;austicken
+1232.0|gucken|verb|to look|Wir gucken aus dem Fenster auf die Stadt.|We look out of the window at the city.|
 1233.0|krass|adjective|stark|Die Veränderung der Landschaft war krass sichtbar.|The change in the landscape was starkly visible.|der;Veränderung;der;Landschaft;sein;krass;sichtbar
 1234.0|rauskriegen|verb|to figure out|Es ist schwer, das genaue Problem rauszukriegen.|It’s hard to figure out the exact problem.|es;sein;schwer;der;genau;Problem;rauskriegen
+1235.0|mm|interjection|mm|Mm, das Essen riecht köstlich!|Mm, the food smells delicious!|
+1236.0|der Ausgang|noun|the exit|Der Ausgang war durch eine rote Tür markiert.|The exit was marked by a red door.|
 1237.0|drin|adverb|inside|Alles Nötige war bereits im Koffer drin.|Everything necessary was already inside the suitcase.|alle;das Nötige;sein;bereits;in;Koffer;drin
 1238.0|der Hausmann|noun|househusband|Der Hausmann organisierte den Haushalt tadellos.|The househusband organized the household flawlessly.|der;Hausmann;organisieren;der;Haushalt;tadellos
+1239.0|unbedingt|adverb|absolutely|Das musst du unbedingt ausprobieren!|You absolutely have to try this!|
 1240.0|der Drink|noun|the drink|Der Drink schmeckte erfrischend und fruchtig.|The drink tasted refreshing and fruity.|der;Drink;schmecken;erfrischen;und;fruchtig
 1241.0|taugen|verb|to be suitable|Dieses Werkzeug taugt nicht für feine Arbeiten.|This tool is not suitable for fine work.|dieser;Werkzeug;taugen;nicht;für;fein;Arbeit
+1242.0|ran|adverb|on|Komm ran, die Show hat schon begonnen.|Come on, the show has already started.|
+1243.0|das Bar|noun|the bar|Das Bar bot eine Vielzahl an Cocktails an.|The bar offered a variety of cocktails.|
+1243.001|die Bar|noun|the bar|Die Bar war modern und gut besucht.|The bar was modern and well-frequented.|
 1244.0|labern|verb|to prattle|Bitte labere nicht, sondern komme auf den Punkt.|Please don’t prattle; get to the point.|Bitte;labern;nicht;sondern;kommen;auf;der;Punkt
+1245.0|die Lady|noun|the lady|Die Lady trug ein elegantes Kleid.|The lady wore an elegant dress.|
+1246.0|sieben|number|seven|Um sieben Uhr beginnt der Film im Kino.|The movie at the cinema starts at seven o'clock.|
+1248.0|der Tanz|noun|the dance|Der Tanz auf der Bühne war faszinierend.|The dance on the stage was fascinating.|
+1249.0|sogar|adverb|even|Er hat es sogar ohne Hilfe geschafft.|He even managed it without help.|
+1250.0|der Song|noun|the song|Der neue Song lief auf allen Radiostationen.|The new song played on all radio stations.|
 1251.0|das Placebo|noun|the placebo|Das Placebo zeigte keine messbare Wirkung.|The placebo showed no measurable effect.|der;Placebo;zeigen;kein;messbar;Wirkung
+1252.0|blau|adjective|blue|Der Himmel war klar und strahlend blau.|The sky was clear and bright blue.|
 1253.0|dito|adverb|same here|Dito, ich stimme Ihrer Analyse vollständig zu.|Same here, I fully agree with your analysis.|dito;ich;stimmen;ihr;Analyse;vollständig;zu
+1255.0|hübsch|adjective|pretty|Sie trug ein hübsches rotes Kleid.|She wore a pretty red dress.|
+1256.0|das Ding|noun|the thing|Das Ding auf dem Tisch sah seltsam aus.|The thing on the table looked strange.|
+1257.0|verstecken|verb|to hide|Sie versteckte den Schlüssel unter der Matte.|She hid the key under the mat.|
 1258.0|der Ehering|noun|wedding ring|Sein Ehering glänzt immer noch im Sonnenlicht.|His wedding ring still glistens in the sunlight.|sein;Ehering;glänzen;immer;noch;in;Sonnenlicht
 1261.0|nuckeln|verb|to suckle|Das Baby begann ruhig an der Flasche zu nuckeln.|The baby began to suckle quietly on the bottle.|der;Baby;beginnen;ruhig;an;der;Flasche;zu;nuckeln
+1262.0|die Queen|noun|the queen|Die Queen sprach zu ihrem Volk mit Würde.|The queen spoke to her people with dignity.|
+1263.0|der King|noun|the king|Der King regierte mit starker Hand über das Land.|The king ruled the land with a strong hand.|
+1267.0|das Thing|noun|the thing|Das Thing war mysteriös und faszinierend zugleich.|The thing was mysterious and fascinating at the same time.|
+1268.0|das Kid|noun|the kid|Das Kid spielte fröhlich im Garten.|The kid played happily in the garden.|
+1269.0|der Augenblick|noun|the moment|Der Augenblick war voller Spannung und Erwartung.|The moment was full of tension and anticipation.|
+1270.0|bekämpfen|verb|to fight|Er musste seine Ängste mutig bekämpfen.|He had to fight his fears bravely.|
 1271.0|blitzen|verb|to flash|Die Kamera blitzte, als das Foto gemacht wurde.|The camera flashed when the photo was taken.|der;Kamera;blitzen;als;der;Foto;machen;werden
+1272.0|daraus|adverb|from it|Daraus konnte er viele wichtige Lektionen lernen.|From it, he could learn many important lessons.|
+1273.0|loslegen|verb|to start|Wir legen morgen früh mit dem Projekt los.|We will start the project early tomorrow.|
+1274.0|gewinnen|verb|to win|Sie wollen das große Turnier gewinnen.|They want to win the big tournament.|
 1276.0|einreden|verb|to convince|Er wollte ihr einreden, dass alles in Ordnung sei.|He wanted to convince her that everything was fine.|er;wollen;ihr;einreden;dass;alle;in;Ordnung;sein
 1278.0|bechern|verb|to drink heavily|Nach der Feier becherte er mit seinen Freunden.|After the party, he drank heavily with his friends.|nach;der;Feier;bechern;er;mit;sein;Freund
 1279.0|der Barkeeper|noun|the bartender|Der Barkeeper mixte einen starken Cocktail.|The bartender mixed a strong cocktail.|der;Barkeeper;mixen;ein;stark;Cocktail
+1280.0|hauen|verb|to hit|Er haute mit voller Kraft gegen die Wand.|He hit the wall with full force.|
+1281.0|das Fass|noun|the barrel|Das Fass war randvoll mit frischem Wasser.|The barrel was filled to the brim with fresh water.|
+1282.0|stecken|verb|to stick|Er steckte den Schlüssel in das Schloss.|He stuck the key into the lock.|
 1283.0|saufen|verb|to drink heavily|Sie beschlossen, den Abend mit Wein zu saufen.|They decided to spend the evening drinking wine heavily.|sie;beschließen;der;Abend;mit;Wein;zu;saufen
 1285.0|besessen|adjective|obsessed|Er ist völlig besessen von dieser Idee.|He is completely obsessed with this idea.|er;sein;völlig;besessen;von;dieser;Idee
 1286.0|die Offensive|noun|the offensive|Die Offensive begann mit einem gezielten Angriff.|The offensive started with a targeted attack.|der;Offensive;beginnen;mit;ein;gezielt;Angriff
 1287.0|besoffen|adjective|drunk|Er kam völlig besoffen nach Hause.|He came home completely drunk.|er;kommen;völlig;besoffen;nach;Haus
 1288.0|schielen|verb|to squint|Er schielt durch das Fernglas auf die Vögel.|He squints through the binoculars at the birds.|er;schielen;durch;der;Fernglas;auf;der;der Vogel
+1289.0|darauf|adverb|on it|Darauf kannst du dich wirklich verlassen.|You can really rely on it.|
+1290.0|neben|adverb|next to|Sie stand neben mir und lächelte freundlich.|She stood next to me and smiled kindly.|
+1291.0|die Toilette|noun|the toilet|Die Toilette war sauber und gut ausgestattet.|The toilet was clean and well-equipped.|
 1292.0|wetten|verb|to bet|Er wettete eine hohe Summe auf das Pferd.|He bet a large sum on the horse.|er;wetten;ein;hoch;Summe;auf;der;Pferd
 1293.0|kotzen|verb|to vomit|Dieses Wort wird nicht für gehobene Texte genutzt.|This word is not used for refined texts.|dieser;Wort;werden;nicht;für;gehoben;Text;nutzen
+1294.0|die Ehe|noun|the marriage|Die Ehe der beiden war von Liebe geprägt.|Their marriage was marked by love.|
+1303.0|das Top|noun|the top|Das Top passte perfekt zu ihrer Jeans.|The top fit perfectly with her jeans.|
 1306.0|saftig|adjective|juicy|Der Kuchen war überraschend saftig und aromatisch.|The cake was surprisingly juicy and aromatic.|der;Kuchen;sein;überraschend;saftig;und;aromatisch
+1308.0|die Mitte|noun|the middle|Die Brücke markiert die Mitte der Stadt.|The bridge marks the middle of the city.|
+1311.0|das Netz|noun|the net|Das Netz spannt sich über das ganze Spielfeld.|The net stretches across the entire field.|
+1314.0|stop|verb|stop|Er rief laut „Stop!“, bevor etwas passierte.|"He shouted ""Stop!"" before something happened."|
+1315.0|Take|verb|take|Take deine Tasche und folge mir schnell.|Take your bag and follow me quickly.|
+1316.0|das Gehirn|noun|brain|Das Gehirn speichert unglaubliche Mengen an Daten.|The brain stores incredible amounts of data.|
+1317.0|wenden|verb|turn|Bitte wenden Sie am nächsten Kreisverkehr.|Please turn at the next roundabout.|
+1319.0|off|adjective|off|Das Licht war plötzlich komplett off.|The light was suddenly completely off.|
 1322.0|die Schande|noun|the disgrace|Korruption ist eine Schande für jede Gesellschaft.|Corruption is a disgrace for any society.|Korruption;sein;ein;Schande;für;jeder;Gesellschaft
+1323.0|die More|noun|the more|Die More eines klaren Morgens ist beeindruckend.|The more of a clear morning is impressive.|
 1324.0|der Champagner|noun|the champagne|Der Champagner floss in Strömen auf der Party.|The champagne flowed freely at the party.|der;Champagner;fließen;in;Strom;auf;der;Party
+1331.0|Do|verb|do|Do einfach, was dir am wichtigsten erscheint.|Do simply what seems most important to you.|
 1333.0|ruinieren|verb|to ruin|Eine Fehlentscheidung kann die Karriere ruinieren.|A wrong decision can ruin the career.|ein;Fehlentscheidung;können;der;Karriere;ruinieren
+1339.0|die Ehefrau|noun|the wife|Seine Ehefrau überraschte ihn mit einem Geschenk.|His wife surprised him with a gift.|
+1344.0|real|adjective|real|Das ist keine Theorie, das ist real passiert.|This is no theory; this really happened.|
+1347.0|gedacht|adjective|thought|Die Lösung war einfacher, als gedacht.|The solution was easier than thought.|
 1351.0|gewollt|adjective|deliberate|Die gewollte Verzögerung sorgte für Verwirrung.|The deliberate delay caused confusion.|der;gewollt;Verzögerung;sorgen;für;Verwirrung
+1352.0|die Freude|noun|the joy|Die Freude über das neue Zuhause war groß.|The joy about the new home was great.|
+1362.0|dies|pronoun|this|Dies ist der Moment, auf den wir gewartet haben.|This is the moment we have been waiting for.|
+1364.0|der Zug|noun|the train|Der Zug kam pünktlich am Hauptbahnhof an.|The train arrived on time at the main station.|
+1365.0|bluten|verb|bleed|Er begann stark zu bluten nach dem Unfall.|He started bleeding heavily after the accident.|
+1366.0|atmen|verb|breathe|Bitte tief atmen und die Luft kurz anhalten.|Please breathe deeply and hold the air briefly.|
 1367.0|winden|verb|to wind|Der Pfad windet sich durch dichte Wälder.|The path winds through dense forests.|der;Pfad;winden;sich;durch;dicht;Wald
 1368.0|wehren|verb|to defend|Sie wehrte sich tapfer gegen die Vorwürfe.|She bravely defended herself against the accusations.|sie;wehren;sich;tapfer;gegen;der;Vorwurf
+1369.0|verbinden|verb|connect|Das Kabel verbindet die beiden Geräte perfekt.|The cable connects the two devices perfectly.|
 1370.0|gierig|adjective|greedy|Die gierigen Blicke verrieten seine Absichten.|The greedy glances revealed his intentions.|der;gierig;Blick;verraten;sein;Absicht
+1372.0|schwierig|adjective|difficult|Die Prüfung war wirklich sehr schwierig.|The exam was really very difficult.|
+1374.0|die Größe|noun|size|Die Größe des Pakets hat uns überrascht.|The size of the package surprised us.|
 1375.0|obszön|adjective|obscene|Die obszöne Geste wurde nicht toleriert.|The obscene gesture was not tolerated.|der;obszön;Geste;werden;nicht;tolerieren
+1376.0|außen|adverb|outside|Außen glänzt das Auto, innen ist es staubig.|Outside the car shines, inside it’s dusty.|
 1377.0|die Schar|noun|the flock|Eine Schar Vögel zog am Abendhimmel vorbei.|A flock of birds passed through the evening sky.|ein;Schar;Vogel;ziehen;an;Abendhimmel;vorbei
+1377.001|das Schar|noun|the flock|Eine Schar Vögel zog am Horizont vorbei.|A flock of birds passed by on the horizon.|
 1379.0|das Erbarmen|noun|the mercy|Das Erbarmen des Königs rettete das Dorf.|The mercy of the king saved the village.|der;Erbarmen;der;König;retten;der;Dorf
 1383.0|der Untergang|noun|the downfall|Der Film zeigt den Untergang einer Dynastie.|The movie depicts the downfall of a dynasty.|der;Film;zeigen;der;Untergang;ein;Dynastie
+1384.0|vermissen|verb|miss|Ich vermisse meine alte Heimatstadt.|I miss my old hometown.|
+1385.0|die Glocke|noun|the bell|Die Glocke läutete pünktlich um zwölf Uhr.|The bell rang punctually at twelve o’clock.|
+1386.0|die Fahne|noun|the flag|Die Fahne wehte im Wind vor dem Rathaus.|The flag waved in the wind in front of the town hall.|
 1387.0|hissen|verb|to hoist|Sie werden die Flagge bei Sonnenaufgang hissen.|They will hoist the flag at sunrise.|sie;werden;der;Flagge;bei;Sonnenaufgang;hissen
 1388.0|der Tod|noun|death|Der plötzliche Tod des Autors erschütterte viele.|The sudden death of the author shocked many.|der;plötzlich;Tod;der;Autor;erschüttern;viel
 1389.0|verklären|verb|to glorify|Man sollte die Vergangenheit nicht verklären.|One should not glorify the past.|man;sollen;der;Vergangenheit;nicht;verklären
+1390.0|nennen|verb|call|Wie willst du dein neues Projekt nennen?|What do you want to call your new project?|
 1391.0|die Urne|noun|urn|Die Urne wurde in einem stillen Garten beigesetzt.|The urn was buried in a quiet garden.|der;Urne;werden;in;ein;still;Garten;beisetzen
 1392.0|leeren|verb|to empty|Bitte leeren Sie den Briefkasten vor Ihrer Reise.|Please empty the mailbox before your trip.|Bitte;leeren;sie;der;Briefkasten;vor;ihr;Reise
+1394.0|kriegen|verb|get|Ich hoffe, wir kriegen morgen die Ergebnisse.|I hope we get the results tomorrow.|
+1395.0|der Stein|noun|stone|Der Stein rollte den Hang hinunter.|The stone rolled down the hill.|
 1396.0|die Trauerfeier|noun|funeral service|Die Trauerfeier war würdevoll und gut besucht.|The funeral service was dignified and well-attended.|der;Trauerfeier;sein;würdevoll;und;gut;besuchen
+1397.0|gewiss|adjective|certain|Ich bin mir gewiss, dass wir gewinnen werden.|I am certain that we will win.|
+1398.0|kreisen|verb|circle|Die Vögel begannen über der Stadt zu kreisen.|The birds started circling above the city.|
 1399.0|der Geier|noun|vulture|Ein Geier kreiste hoch über der Wüste.|A vulture circled high above the desert.|ein;Geier;kreisen;hoch;über;der;Wüste
 1400.0|der Menschenfresser|noun|the cannibal|Die Legende vom Menschenfresser weckt alte Ängste.|The legend of the cannibal evokes old fears.|der;Legende;von;Menschenfresser;wecken;alt;Angst
+1403.0|der Professor|noun|professor|Der Professor erklärte die Theorie detailliert.|The professor explained the theory in detail.|
 1404.0|der Penner|noun|the bum|Ein Penner schlief auf der Parkbank im Schatten.|A bum slept on the park bench in the shade.|ein;Penner;schlafen;auf;der;Parkbank;in;Schatten
+1406.0|riechen|verb|smell|Die Blumen riechen wunderbar nach Frühling.|The flowers smell wonderfully of spring.|
+1408.0|gerne|adverb|gladly|Ich helfe dir gerne bei der Aufgabe.|I will gladly help you with the task.|
+1409.0|meistens|adverb|mostly|Meistens trinke ich morgens nur Kaffee.|I mostly just drink coffee in the morning.|
+1410.0|gesund|adjective|healthy|Eine ausgewogene Ernährung hält den Körper gesund.|A balanced diet keeps the body healthy.|
+1411.0|manchmal|adverb|sometimes|Manchmal brauchen wir einfach eine Pause.|Sometimes we just need a break.|
 1412.0|vegetarisch|adjective|vegetarian|Das vegetarische Gericht war überraschend würzig.|The vegetarian dish was surprisingly spicy.|der;vegetarisch;Gericht;sein;überraschend;würzig
+1413.0|blond|adjective|blonde|Das kleine Mädchen hatte lange, blonde Haare.|The little girl had long, blonde hair.|
 1414.0|arisch|adjective|Aryan|Die Ideologie glorifizierte das arische Ideal.|The ideology glorified the Aryan ideal.|der;Ideologie;glorifizieren;der;arisch;Ideal
+1416.0|ihnen|pronoun|them|Ich habe ihnen bereits alle Dokumente geschickt.|I have already sent them all the documents.|
+1417.0|schrecklich|adjective|terrible|Der Film war schrecklich und langweilig zugleich.|The movie was terrible and boring at the same time.|
+1418.0|leid|noun|suffering|Das Leid der Tiere im Sturm war unvorstellbar.|The suffering of the animals in the storm was unimaginable.|
+1420.0|ändern|verb|change|Wir sollten die Strategie schnellstens ändern.|We should change the strategy as soon as possible.|
+1421.0|halt|adverb|just|Es war halt ein Fehler, das zu tun.|It was just a mistake to do that.|
+1422.0|normal|adjective|normal|Das ist bei uns ein ganz normaler Ablauf.|That’s a completely normal procedure for us.|
+1423.0|meist|adverb|mostly|Er verbringt die meiste Zeit im Büro.|He spends most of the time in the office.|
+1424.0|fleißig|adjective|diligent|Sie war immer fleißig und wurde dafür belohnt.|She was always diligent and was rewarded for it.|
+1426.0|erst|adverb|only|Er kam erst, als die Party schon vorbei war.|He only came when the party was already over.|
+1428.0|oft|adverb|often|Ich gehe oft im Park spazieren, um zu entspannen.|I often take walks in the park to relax.|
+1430.0|selber|pronoun|self|Er hat das Bild ganz alleine selber gemalt.|He painted the picture all by himself.|
+1431.0|tausend|adjective|thousand|In der Halle waren fast tausend Zuschauer.|There were almost a thousand spectators in the hall.|
+1432.0|der Helfer|noun|helper|Der Helfer fand schnell eine Lösung.|The helper quickly found a solution.|
+1433.0|ruhen|verb|rest|Nach der Wanderung wollte er nur ruhen.|After the hike, he just wanted to rest.|
+1434.0|das Tennis|noun|tennis|Das Tennis hat sie fit und glücklich gemacht.|Tennis has made her fit and happy.|
+1435.0|spielen|verb|play|Kinder spielen oft bis spät am Abend.|Children often play until late in the evening.|
+1436.0|reiten|verb|ride|Er liebt es, früh morgens zu reiten.|He loves to ride early in the morning.|
+1437.0|die Seite|noun|side|Die Seite des Buches war eingerissen.|The side of the book was torn.|
+1440.0|der Präsident|noun|president|Der Präsident hielt eine inspirierende Rede.|The president gave an inspiring speech.|
+1441.0|fast|adverb|almost|Er hat fast den Bus verpasst heute Morgen.|He almost missed the bus this morning.|
+1443.0|der Tresen|noun|counter|Am Tresen standen die Gäste dicht gedrängt.|The guests stood crowded at the counter.|
+1444.0|das Intro|noun|intro|Das Intro des Films war spektakulär gestaltet.|The intro of the movie was spectacularly designed.|
 1445.0|der Kummer|noun|the sorrow|Der Kummer über den Verlust war kaum zu ertragen.|The sorrow over the loss was hard to bear.|der;Kummer;über;der;Verlust;sein;kaum;zu;ertragen
+1446.0|Part|noun|part|Dieser Part des Songs hat viele beeindruckt.|This part of the song impressed many.|
+1447.0|eins|numeral|one|Nur eins ist sicher in diesem Chaos.|Only one thing is certain in this chaos.|
+1449.0|halb|adjective|half|Das Glas ist nur halb voll geblieben.|The glass remained only half full.|
+1452.0|irgendein|adjective|any|Hast du irgendein Buch über das Thema gelesen?|Have you read any book on the topic?|
+1453.0|der Text|noun|text|Der Text war voller versteckter Botschaften.|The text was full of hidden messages.|
+1455.0|der Trost|noun|comfort|Sein Trost war nach der Tragödie wichtig.|His comfort was important after the tragedy.|
 1456.0|spenden|verb|to donate|Sie spendeten großzügig für die humanitäre Hilfe.|They donated generously to humanitarian aid.|sie;spenden;großzügig;für;der;humanitär;Hilfe
 1457.0|trostlos|adjective|desolate|Nach dem Sturm war die Landschaft völlig trostlos.|After the storm, the landscape was completely desolate.|nach;der;Sturm;sein;der;Landschaft;völlig;trostlos
+1458.0|das Gegenteil|noun|opposite|Das Gegenteil von Liebe ist nicht immer Hass.|The opposite of love is not always hate.|
+1459.0|die Zeile|noun|line|Die Zeile des Gedichts bleibt unvergesslich.|The line of the poem remains unforgettable.|
+1460.0|handeln|verb|act|Wir müssen schnell handeln, bevor es zu spät ist.|We need to act quickly before it's too late.|
+1461.0|negativ|adjective|negative|Die negative Kritik wurde sachlich beantwortet.|The negative criticism was addressed objectively.|
+1464.0|sicken|verb|seep|Das Wasser sickert langsam durch den Boden.|The water seeps slowly through the ground.|
 1465.0|der Flow|noun|flow|Sein Flow beim Rappen war beeindruckend.|His flow while rapping was impressive.|sein;Flow;bei;Rappe;sein;beeindrucken
 1467.0|der Hit|noun|the hit|Der neue Song wurde sofort ein großer Hit.|The new song instantly became a big hit.|der;neu;Song;werden;sofort;ein;groß;Hit
 1468.0|die Strophe|noun|the verse|Die Strophe des Gedichts war voller Metaphern.|The verse of the poem was full of metaphors.|der;Strophe;der;Gedicht;sein;voll;Metapher
+1469.0|die Stimmung|noun|mood|Die Stimmung auf der Feier war ausgelassen.|The mood at the party was exuberant.|
+1470.0|kippen|verb|tilt|Der Stuhl begann gefährlich zu kippen.|The chair started to tilt dangerously.|
 1472.0|die Zuversicht|noun|confidence|Mit Zuversicht begann sie ihr neues Projekt.|With confidence, she started her new project.|mit;Zuversicht;beginnen;sie;ihr;neu;Projekt
+1473.0|der Jemand|noun|someone|Da war ein Jemand, der uns helfen wollte.|There was someone who wanted to help us.|
+1474.0|die Zukunft|noun|future|Die Zukunft der Technik bleibt faszinierend.|The future of technology remains fascinating.|
+1475.0|blicken|verb|look|Er konnte kaum über den Horizont blicken.|He could barely look over the horizon.|
+1476.0|schaffen|verb|create|Sie schaffen eine Atmosphäre der Zusammenarbeit.|They create an atmosphere of collaboration.|
+1477.0|ertragen|verb|endure|Solchen Schmerz konnte niemand lange ertragen.|No one could endure such pain for long.|
 1479.0|der Rabe|noun|the raven|Ein Rabe saß still auf dem schneebedeckten Ast.|A raven sat silently on the snow-covered branch.|ein;Rabe;sitzen;still;auf;der;schneebedeckt;Ast
+1480.0|das System|noun|system|Das System wurde komplett überarbeitet.|The system was completely revised.|
+1481.0|defekt|adjective|defective|Das defekte Gerät wurde sofort ersetzt.|The defective device was replaced immediately.|
+1482.0|versagen|verb|fail|Er wollte nicht wieder im Test versagen.|He didn’t want to fail the test again.|
 1483.0|die Scherbe|noun|the shard|Eine Scherbe lag gefährlich nah am Gehweg.|A shard lay dangerously close to the sidewalk.|ein;Scherbe;liegen;gefährlich;nah;an;Gehweg
+1484.0|flammen|verb|flame|Die Kerzen flammen in der dunklen Kapelle.|The candles flame in the dark chapel.|
+1486.0|der Großvater|noun|grandfather|Der Großvater erzählte spannende Geschichten.|The grandfather told exciting stories.|
+1487.0|fünfzehn|numeral|fifteen|Fünfzehn Minuten reichen für eine Pause.|Fifteen minutes are enough for a break.|
+1488.0|irgendwie|adverb|somehow|Er hat es irgendwie geschafft, pünktlich zu sein.|He somehow managed to be on time.|
+1489.0|holen|verb|fetch|Ich muss noch schnell die Post holen.|I still need to fetch the mail quickly.|
+1490.0|der Krebs|noun|cancer|Der Krebs wurde frühzeitig erkannt.|The cancer was detected early.|
+1491.0|straight|adverb|straight|Gehe straight durch die Tür und dann links.|Go straight through the door and then left.|
+1492.0|back|adverb|back|Er ging sofort wieder back zum Laden.|He immediately went back to the store.|
+1493.0|die Realität|noun|reality|Die Realität des Lebens ist oft hart.|The reality of life is often harsh.|
+1494.0|Geile|adjective|cool|Das war eine echt geile Idee von dir!|That was a really cool idea of yours!|
+1495.0|das Thema|noun|topic|Das Thema wurde intensiv diskutiert.|The topic was intensely discussed.|
+1500.0|der Satz|noun|sentence|Der Satz war grammatikalisch perfekt.|The sentence was grammatically perfect.|
 1501.0|aufmuntern|verb|to cheer up|Der Clown versuchte, die Kinder aufzumuntern.|The clown tried to cheer up the children.|der;Clown;versuchen;der;Kind;aufmuntern
+1502.0|Track|noun|track|Dieser Track läuft ständig im Radio.|This track is constantly playing on the radio.|
+1503.0|runter|adverb|down|Sie stieg vorsichtig die Treppe runter.|She carefully went down the stairs.|
 1506.0|der Verleger|noun|the publisher|Der Verleger präsentierte das neue Buch stolz.|The publisher proudly presented the new book.|der;Verleger;präsentieren;der;neu;Buch;stolz
+1507.0|der Brief|noun|letter|Der Brief enthielt überraschende Neuigkeiten.|The letter contained surprising news.|
+1509.0|mitteilen|verb|inform|Er wollte ihr etwas Wichtiges mitteilen.|He wanted to inform her of something important.|
+1510.0|das Buch|noun|book|Das Buch hat ein überraschendes Ende.|The book has a surprising ending.|
+1511.0|mögen|verb|like|Ich mag es, neue Rezepte auszuprobieren.|I like trying out new recipes.|
+1512.0|komplett|adjective|complete|Das Puzzle war endlich komplett.|The puzzle was finally complete.|
+1513.0|die Spur|noun|trace|Die Spur im Schnee führte direkt zum Haus.|The trace in the snow led directly to the house.|
 1515.0|der Ernst|noun|seriousness|Sein Gesichtsausdruck zeigte den Ernst der Lage.|His facial expression showed the seriousness of the situation.|sein;Gesichtsausdruck;zeigen;der;Ernst;der;Lage
+1517.0|nein|adverb|no|Er sagte nein und verließ den Raum sofort.|He said no and left the room immediately.|
+1518.0|das Kapitel|noun|chapter|Das Kapitel endete mit einem überraschenden Twist.|The chapter ended with a surprising twist.|
+1519.0|der Typ|noun|guy|Der Typ am Tresen sah ziemlich nervös aus.|The guy at the counter looked pretty nervous.|
+1520.0|gerade|adverb|just|Ich habe gerade die letzte Seite gelesen.|I just read the last page.|
+1521.0|das Bongo|noun|bongo drum|Das Bongo erzeugte einen rhythmischen Klang.|The bongo drum produced a rhythmic sound.|
+1521.001|die Bongo|noun|bongo antelope|Die Bongo bewegt sich schnell durch den Wald.|The bongo antelope moves swiftly through the forest.|
+1521.002|der Bongo|noun|bongo player|Der Bongo spielte ein beeindruckendes Solo.|The bongo player performed an impressive solo.|
 1522.0|schwarz-weiß-rot|adjective|black-white-red|Die Flagge des Vereins war schwarz-weiß-rot.|The club's flag was black-white-red.|der;Flagge;der;Verein;sein;schwarz-weiß-rot
 1523.0|die Flagge|noun|the flag|Die Flagge wehte stolz im Wind auf dem Gipfel.|The flag waved proudly in the wind on the summit.|der;Flagge;wehen;stolz;in;Wind;auf;der;Gipfel
 1524.0|der Umhang|noun|the cloak|Der Magier zog einen roten Umhang an.|The magician put on a red cloak.|der;Magier;ziehen;ein;rot;Umhang;an
 1526.0|der Brandenburger|noun|the Brandenburger|Der Brandenburger kennt alle Ecken seiner Stadt.|The Brandenburger knows every corner of his city.|der;Brandenburger;kennen;aller;Ecke;sein;Stadt
+1527.0|das Tor|noun|goal|Das Tor in der letzten Minute entschied das Spiel.|The goal in the last minute decided the game.|
+1527.001|der Tor|noun|fool|Der Tor glaubte jeder noch so absurden Geschichte.|The fool believed every absurd story.|
 1528.0|makaber|adjective|macabre|Der Roman erzählt eine makabere Geschichte.|The novel tells a macabre story.|der;Roman;erzählen;ein;makaber;Geschichte
 1530.0|lila|adjective|purple|Die Blumen im Garten leuchteten in kräftigem Lila.|The flowers in the garden glowed in vibrant purple.|der;Blume;in;Garten;leuchten;in;kräftig;Lila
+1531.0|Leggings|noun|leggings|Die Leggings passten perfekt zu ihrem Outfit.|The leggings matched her outfit perfectly.|
+1535.0|der Schild|noun|shield|Der Schild schützte den Ritter vor den Pfeilen.|The shield protected the knight from arrows.|
 1535.001|das Schild|noun|sign|Das Schild wies auf die nächste Ausfahrt hin.|The sign pointed to the next exit.|der;Schild;weisen;auf;der;der Nächste;Ausfahrt;hin
 1537.0|hetzen|verb|to rush|Hör auf, die Mitarbeiter ständig zu hetzen.|Stop constantly rushing the employees.|hören;auf;der;Mitarbeiter;ständig;zu;hetzen
 1538.0|zwinkern|verb|to wink|Er zwinkerte ihr verschwörerisch zu.|He winked at her conspiratorially.|er;zwinkern;ihr;verschwörerisch;zu
 1539.0|entzücken|verb|to delight|Die Aufführung entzückte das gesamte Publikum.|The performance delighted the entire audience.|der;Aufführung;entzücken;der;gesamt;Publikum
+1540.0|lesen|verb|to read|Ich werde das Buch später noch einmal lesen.|I will read the book again later.|
+1541.0|die Geschichte|noun|story|Die Geschichte des alten Hauses ist faszinierend.|The story of the old house is fascinating.|
+1542.0|wohl|adverb|probably|Er wird wohl bald ankommen, denke ich.|He will probably arrive soon, I think.|
+1543.0|Bezugspunkt|noun|reference point|Der Bezugspunkt war entscheidend für die Analyse.|The reference point was crucial for the analysis.|
+1544.0|Schundliteratur|noun|pulp fiction|Schundliteratur ist nicht jedermanns Geschmack.|Pulp fiction is not to everyone's taste.|
 1545.0|der Groschenroman|noun|pulp fiction|Ein Groschenroman lag auf dem Nachtisch ihrer Oma.|A pulp fiction book lay on her grandma's nightstand.|ein;Groschenroman;liegen;auf;der;Nachtisch;ihr;Oma
 1546.0|wirr|adjective|confused|Die wirren Gedanken hinderten ihn am Arbeiten.|The confused thoughts prevented him from working.|der;wirr;Gedanke;hindern;ihn;an;arbeiten
+1547.0|ausdenken|verb|to invent|Ich muss mir eine gute Ausrede ausdenken.|I have to invent a good excuse.|
 1548.0|der Lack|noun|the varnish|Der Lack auf dem Auto glänzt in der Sonne.|The varnish on the car shines in the sun.|der;Lack;auf;der;Auto;glänzen;in;der;Sonne
+1550.0|der Zweiter|noun|second|Der Zweiter erhielt trotzdem viel Applaus.|The second still received a lot of applause.|
+1551.0|das Kapital|noun|capital|Das Kapital wurde für das neue Projekt investiert.|The capital was invested in the new project.|
+1552.0|beide|pronoun|both|Beide Kinder freuten sich über das Geschenk.|Both children were delighted with the gift.|
+1553.0|die Figur|noun|character|Die Figur im Roman war äußerst mysteriös.|The character in the novel was extremely mysterious.|
+1554.0|der Platz|noun|place|Der Platz vor dem Museum war voller Touristen.|The place in front of the museum was full of tourists.|
+1555.0|achtzehn|number|eighteen|Er wurde gestern achtzehn Jahre alt.|He turned eighteen yesterday.|
+1556.0|der März|noun|March|Im März blühen die ersten Blumen des Jahres.|In March, the first flowers of the year bloom.|
+1557.0|der Koch|noun|cook|Der Koch bereitete ein exquisites Menü zu.|The cook prepared an exquisite menu.|
+1557.001|das Koch|noun|cooking|Das Koch war eine Kunst, die er meisterte.|The cooking was an art he mastered.|
+1558.0|die Bühne|noun|stage|Die Bühne wurde für die Aufführung dekoriert.|The stage was decorated for the performance.|
 1559.0|empören|verb|to outrage|Das unfaire Urteil empörte die Bürger zutiefst.|The unfair verdict deeply outraged the citizens.|der;unfair;Urteil;empören;der;Bürger;zutiefst
 1561.0|der Satan|noun|the Satan|Der Roman beschreibt den ewigen Kampf gegen Satan.|The novel depicts the eternal struggle against Satan.|der;Roman;beschreiben;der;ewig;Kampf;gegen;Satan
+1562.0|das Museum|noun|museum|Das Museum zeigt eine beeindruckende Sammlung.|The museum displays an impressive collection.|
+1563.0|spät|adjective|late|Es war schon spät, als wir endlich ankamen.|It was already late when we finally arrived.|
+1564.0|dort|adverb|there|Dort liegt der Schlüssel, den du gesucht hast.|There lies the key you were looking for.|
 1565.0|einbrechen|verb|to break in|Die Diebe versuchten, ins Museum einzubrechen.|The thieves tried to break into the museum.|der;Dieb;versuchen;in;Museum;einbrechen
 1566.0|randalieren|verb|to riot|Nach dem Spiel begannen die Fans zu randalieren.|After the game, the fans started to riot.|nach;der;Spiel;beginnen;der;Fan;zu;randalieren
 1567.0|der Grundschullehrer|noun|the primary school teacher|Ein Grundschullehrer prägt viele junge Leben.|A primary school teacher shapes many young lives.|ein;Grundschullehrer;prägen;viel;jung;Leben
+1568.0|erzählen|verb|to tell|Er wollte mir eine spannende Geschichte erzählen.|He wanted to tell me an exciting story.|
 1569.0|irgendwas|pronoun|something|Da ist irgendwas, das ich nicht erklären kann.|There’s something I can’t explain.|da;sein;irgendwann;der;ich;nicht;erklären;können
+1570.0|die GmbH|noun|LLC|Die GmbH eröffnete eine neue Filiale in der Stadt.|The LLC opened a new branch in the city.|
 1571.0|der Friedensvertrag|noun|peace treaty|Der Friedensvertrag wurde gestern unterzeichnet.|The peace treaty was signed yesterday.|der;Friedensvertrag;werden;gestern;unterzeichnen
+1573.0|deutsch|adjective|German|Die deutsche Kultur ist vielfältig und spannend.|German culture is diverse and exciting.|
 1574.0|das Kaiserreich|noun|empire|Das Kaiserreich endete nach dem Ersten Weltkrieg.|The empire ended after the First World War.|der;Kaiserreich;enden;nach;der;erst;Weltkrieg
 1576.0|peilen|verb|to gauge|Er versucht, die Entfernung genau zu peilen.|He is trying to gauge the distance precisely.|er;versuchen;der;Entfernung;genau;zu;peilen
+1577.0|das Finale|noun|final|Das Finale der Serie war unglaublich spannend.|The final of the series was incredibly exciting.|
 1581.0|stürmen|verb|to storm|Die Fans stürmten das Stadion nach dem Siegtor.|The fans stormed the stadium after the winning goal.|der;Fan;stürmen;der;Stadion;nach;der;Siegtor
+1582.0|die Treppe|noun|stairs|Die Treppe knarrte bei jedem Schritt.|The stairs creaked with every step.|
+1583.0|der Bundestag|noun|parliament|Der Bundestag diskutierte über neue Gesetze.|The parliament discussed new laws.|
+1584.0|drei|number|three|Die drei Hunde spielten fröhlich im Garten.|The three dogs played happily in the garden.|
+1585.0|der Polizist|noun|policeman|Der Polizist regelte den Verkehr an der Kreuzung.|The policeman directed traffic at the intersection.|
 1586.0|versperren|verb|to block|Ein umgestürzter Baum versperrte die Straße.|A fallen tree blocked the road.|ein;umstürzen;Baum;versperren;der;Straße
+1587.0|die Revolution|noun|revolution|Die Revolution brachte grundlegende Veränderungen.|The revolution brought fundamental changes.|
+1588.0|der Scheiß|noun|crap|Dieser Scheiß macht einfach keinen Sinn.|This crap just doesn’t make sense.|
+1589.0|lieber|adverb|rather|Ich würde lieber zu Hause bleiben.|I would rather stay at home.|
+1590.0|der Irrtum|noun|mistake|Der Irrtum wurde schnell aufgeklärt.|The mistake was quickly clarified.|
+1591.0|das Manuskript|noun|manuscript|Das Manuskript war unleserlich geschrieben.|The manuscript was written illegibly.|
+1593.0|wünschen|verb|to wish|Ich wünsche dir alles Gute zum Geburtstag.|I wish you all the best for your birthday.|
+1596.0|der Kollege|noun|colleague|Der Kollege unterstützte mich bei dem Projekt.|The colleague supported me with the project.|
 1597.0|das Sachbuch|noun|non-fiction book|Das Sachbuch erklärt komplexe Themen verständlich.|The non-fiction book explains complex topics clearly.|der;Sachbuch;erklären;komplex;Thema;verständlich
 1598.0|spekulativ|adjective|speculative|Das Investment war riskant und spekulativ.|The investment was risky and speculative.|der;Investment;sein;riskant;und;spekulativ
 1601.0|besingen|verb|to sing about|Das Lied besingt die Schönheit der Natur.|The song sings about the beauty of nature.|der;Lied;besingen;der;Schönheit;der;Natur
 1602.0|höchstpersönlich|adverb|personally|Der Direktor begrüßte die Gäste höchstpersönlich.|The director personally welcomed the guests.|der;Direktor;begrüßen;der;Gast;höchstpersönlich
+1604.0|Jürgen|proper noun|Jürgen|Jürgen ging früh am Morgen zum Markt.|Jürgen went to the market early in the morning.|
 1606.0|der Antisemit|noun|antisemite|Ein Antisemit verbreitet gefährliche Ideologien.|An antisemite spreads dangerous ideologies.|ein;Antisemit;verbreiten;gefährlich;Ideologie
+1608.0|der Erster|noun|first|Der Erster erhielt den Hauptpreis des Wettbewerbs.|The first received the competition’s main prize.|
+1610.0|der Bogen|noun|the bow|Der Bogen wird sorgsam gespannt.|The bow is carefully tightened.|
+1611.0|spannen|verb|to tighten|Man muss die Sehne stark spannen.|You must tighten the string firmly.|
+1612.0|meinen|verb|to mean|Was meinen Sie mit dieser Aussage?|What do you mean by this statement?|
 1613.0|rhetorisch|adjective|rhetorical|Die rhetorische Frage blieb unbeantwortet.|The rhetorical question remained unanswered.|der;rhetorisch;Frage;bleiben;unbeantwortet
+1614.0|sondern|conjunction|but rather|Nicht Kritik, sondern Lob ist hier gefragt.|Not criticism, but rather praise is needed here.|
 1615.0|das Sportgerät|noun|sports equipment|Das neue Sportgerät ist perfekt für das Training.|The new sports equipment is perfect for training.|der;neu;Sportgerät;sein;perfekt;für;der;Training
+1616.0|der Pfeil|noun|the arrow|Der Pfeil traf direkt ins Ziel.|The arrow hit directly in the target.|
+1617.0|schießen|verb|to shoot|Er lernt, präzise mit dem Bogen zu schießen.|He is learning to shoot accurately with the bow.|
+1618.0|juristisch|adjective|legal|Der Streit wird juristisch geklärt.|The dispute will be clarified legally.|
 1619.0|die Grauzone|noun|gray area|In der Grauzone der Gesetze entstehen Konflikte.|Conflicts arise in the gray area of the law.|in;der;Grauzone;der;Gesetz;entstehen;Konflikt
+1620.0|erreichen|verb|to achieve|Das Ziel kann nur gemeinsam erreicht werden.|The goal can only be achieved together.|
+1621.0|das Gericht|noun|the court|Das Gericht hat eine klare Entscheidung getroffen.|The court made a clear decision.|
 1622.0|der Sekt|noun|sparkling wine|Der Sekt wurde bei der Feier großzügig verteilt.|The sparkling wine was generously served at the party.|der;Sekt;werden;bei;der;Feier;großzügig;verteilen
+1623.0|Kunstfreiheit|noun|artistic freedom|Die Kunstfreiheit ist ein wichtiges Grundrecht.|Artistic freedom is an important fundamental right.|
+1624.0|decken|verb|to cover|Das Dach deckt das Haus vollständig.|The roof covers the house completely.|
+1625.0|nutzen|verb|to use|Wir sollten die Chance effektiv nutzen.|We should use the opportunity effectively.|
+1626.0|bewusst|adjective|conscious|Er trifft eine bewusst nachhaltige Wahl.|He makes a consciously sustainable choice.|
 1628.0|der Konjunktiv|noun|the subjunctive|Im Konjunktiv klingt der Satz höflicher.|The sentence sounds more polite in the subjunctive.|in;Konjunktiv;klingen;der;Satz;höflich
+1629.0|der Konflikt|noun|the conflict|Der Konflikt zwischen den Parteien eskaliert.|The conflict between the parties is escalating.|
+1630.0|das Gesetz|noun|the law|Das Gesetz schützt die Rechte aller Bürger.|The law protects the rights of all citizens.|
+1631.0|behaupten|verb|to claim|Sie behaupten, die Wahrheit zu kennen.|They claim to know the truth.|
 1633.0|der Reptiloid|noun|the reptiloid|Ein Buch beschreibt geheime Pläne der Reptiloiden.|A book describes secret plans of the reptiloids.|ein;Buch;beschreiben;geheim;Plan;der;Reptiloid
 1634.0|gipfeln|verb|to culminate|Die Verhandlungen gipfelten in einem Erfolg.|The negotiations culminated in success.|der;Verhandlung;gipfeln;in;ein;Erfolg
 1636.0|der Aufruf|noun|call|Der Aufruf zur Hilfe wurde überall gehört.|The call for help was heard everywhere.|der;Aufruf;zu;Hilfe;werden;überall;hören
 1637.0|der Faschist|noun|fascist|Der Faschist wurde in der Rede stark kritisiert.|The fascist was heavily criticized in the speech.|der;Faschist;werden;in;der;Rede;stark;kritisieren
 1640.0|anstatt|preposition|instead of|Anstatt zu gehen, blieb er noch eine Stunde.|Instead of leaving, he stayed for another hour.|anstatt;zu;gehen;bleiben;er;noch;ein;Stunde
+1641.0|vielleicht|adverb|perhaps|Vielleicht finden wir morgen eine Lösung.|Perhaps we will find a solution tomorrow.|
+1642.0|das Ken|noun|the Ken|Das Ken ist ein Begriff aus der Popkultur.|The Ken is a term from pop culture.|
 1644.0|die Zensur|noun|censorship|Die Zensur unterdrückte jede kritische Stimme.|Censorship suppressed every critical voice.|der;Zensur;unterdrücken;jeder;kritisch;Stimme
+1645.0|laut|adjective|loud|Das Konzert war extrem laut und energiegeladen.|The concert was extremely loud and energetic.|
+1646.0|beschweren|verb|to complain|Er beschwert sich ständig über das Wetter.|He constantly complains about the weather.|
+1647.0|das Band|noun|the ribbon|Das Band hält das Geschenk zusammen.|The ribbon holds the gift together.|
+1647.001|der Band|noun|the volume|Der Band enthält spannende Kapitel zur Geschichte.|The volume contains exciting chapters on history.|
+1647.002|die Band|noun|the band|Die Band spielte bis spät in die Nacht.|The band played until late at night.|
+1648.0|erwähnen|verb|to mention|Bitte erwähnen Sie das Problem im Bericht.|Please mention the issue in the report.|
 1649.0|beschimpfen|verb|to insult|Er beschimpfte den Fahrer wegen der Verspätung.|He insulted the driver because of the delay.|er;beschimpfen;der;Fahrer;wegen;der;Verspätung
+1650.0|zerren|verb|to tug|Er zerrte an der schweren Tür, bis sie aufging.|He tugged at the heavy door until it opened.|
+1651.0|natürlich|adverb|naturally|Natürlich helfe ich dir bei den Vorbereitungen.|Naturally, I’ll help you with the preparations.|
+1652.0|das Recht|noun|the right|Jeder hat das Recht auf freie Meinungsäußerung.|Everyone has the right to free expression.|
+1653.0|die Gerichtskosten|noun|court costs|Die Gerichtskosten wurden vom Kläger übernommen.|The court costs were borne by the plaintiff.|
 1654.0|die Anwältin|noun|the lawyer (female)|Die Anwältin gewann den wichtigen Fall.|The lawyer won the important case.|der;Anwältin;gewinnen;der;wichtig;Fall
+1655.0|bezahlen|verb|to pay|Kannst du die Rechnung heute bezahlen?|Can you pay the bill today?|
+1657.0|hoffentlich|adverb|hopefully|Hoffentlich kommt der Zug pünktlich an.|Hopefully, the train arrives on time.|
+1658.0|passieren|verb|to happen|Was ist hier letzte Nacht passiert?|What happened here last night?|
+1659.0|die Gefahr|noun|the danger|Die Gefahr wurde rechtzeitig erkannt.|The danger was recognized in time.|
+1660.0|der Dan|noun|the Dan|Der Dan ist ein Meistertitel im Kampfsport.|The Dan is a master title in martial arts.|
+1661.0|das Experiment|noun|the experiment|Das Experiment verlief völlig unerwartet.|The experiment went completely unexpectedly.|
 1662.0|ausloten|verb|to sound out|Man sollte die Optionen vorab ausloten.|You should sound out the options beforehand.|man;sollen;der;Option;vorab;ausloten
+1663.0|erlauben|verb|to allow|Die Regeln erlauben keine Ausnahmen.|The rules do not allow any exceptions.|
+1665.0|die Meinung|noun|the opinion|Seine Meinung war klar und gut begründet.|His opinion was clear and well-founded.|
+1666.0|das Glück|noun|the luck|Mit etwas Glück gewinnen wir das Spiel.|With a bit of luck, we’ll win the game.|
+1669.0|wahnsinnig|adjective|crazy|Das Tempo der Arbeit war wahnsinnig hoch.|The pace of the work was insanely high.|
+1670.0|wirken|verb|to appear|Die Lösung wirkt einfach, ist aber komplex.|The solution appears simple, but it’s complex.|
+1671.0|eher|adverb|rather|Das ist eher eine Ausnahme als die Regel.|This is rather an exception than the rule.|
+1672.0|der Nationalsozialist|noun|the National Socialist|Der Nationalsozialist wird historisch analysiert.|The National Socialist is analyzed historically.|
+1673.0|vertrauen|verb|to trust|Man muss ihm in schwierigen Zeiten vertrauen.|You have to trust him in difficult times.|
+1674.0|Polizeiapparat|noun|police apparatus|Der Polizeiapparat arbeitet effizient im Einsatz.|The police apparatus works efficiently in operations.|
 1675.0|der Verfassungsschutz|noun|the constitutional protection|Der Verfassungsschutz warnte vor Extremismus.|The constitutional protection warned of extremism.|der;Verfassungsschutz;warnen;vor;Extremismus
+1677.0|aufbauen|verb|to build up|Die Firma plant, ein neues Werk aufzubauen.|The company plans to build up a new factory.|
+1678.0|die Polizei|noun|the police|Die Polizei klärte den Fall in kurzer Zeit.|The police solved the case in a short time.|
+1679.0|durchsetzen|verb|to enforce|Er konnte seine Ideen erfolgreich durchsetzen.|He was able to successfully enforce his ideas.|
+1683.0|anzünden|verb|to ignite|Er wollte das Lagerfeuer schnell anzünden.|He wanted to ignite the campfire quickly.|
+1684.0|friedlich|adjective|peaceful|Die Versammlung verlief völlig friedlich.|The assembly was completely peaceful.|
+1685.0|ankommen|verb|to arrive|Der Zug wird pünktlich am Hauptbahnhof ankommen.|The train will arrive on time at the main station.|
 1686.0|die Militanz|noun|the militancy|Die Militanz der Gruppe sorgte für Besorgnis.|The militancy of the group caused concern.|der;Militanz;der;Gruppe;sorgen;für;Besorgnis
 1688.0|alles|pronoun|everything|Alles im Raum wurde ordentlich aufgeräumt.|Everything in the room was neatly tidied up.|alle;in;Raum;werden;ordentlich;aufräumen
 1694.0|vermarkten|verb|to market|Das Produkt wurde weltweit erfolgreich vermarktet.|The product was successfully marketed worldwide.|der;Produkt;werden;weltweit;erfolgreich;vermarkten
@@ -1895,1009 +2891,13 @@
 8040.0|einstürzen|verb|to collapse|Das Gebäude stürzte nach dem Erdbeben ein.|The building collapsed after the earthquake.|der;Gebäude;stürzen;nach;der;Erdbeben;ein
 8196.0|die Beste|noun|the best (female)|Sie war die Beste ihrer Klasse in Mathematik.|She was the best in her class in mathematics.|sie;sein;der;Beste;ihr;Klasse;in;Mathematik
 8354.0|stehenbleiben|verb|to stop|Beim Alarm musste jeder sofort stehenbleiben.|During the alarm, everyone had to stop immediately.|bei;Alarm;müssen;jeder;sofort;stehenbleiben
-0.0|mein
-1.0|das Schicksal
-2.0|sein
-4.0|leer
-5.0|das Blatt
-6.0|das Papier
-7.0|können
-8.0|so
-10.0|ich
-11.0|haben
-12.0|dieser
-13.0|warten
-14.0|satt
-15.0|seit
-16.0|die Woche
-17.0|fallen
-18.0|mir
-19.0|nichts
-20.0|mehr
-21.0|starren
-22.0|in
-23.0|der
-25.0|der Raum
-26.0|nach
-27.0|die Stunde
-28.0|schlafen
-29.0|endlich
-31.0|kommen
-32.0|aus
-33.0|die Tiefe
-34.0|der Traum
-35.0|und
-36.0|kriechen
-37.0|das Herz
-38.0|hinein
-39.0|plötzlich
-40.0|die Phantasie
-41.0|doch
-43.0|der Preis
-44.0|sehen
-46.0|nicht
-47.0|der Geist
-48.0|rufen
-50.0|die Nacht
-51.0|während
-53.0|hier
-54.0|viel
-55.0|zu
-56.0|groß
-57.0|lassen
-58.0|mich
-59.0|los
-59.0001|los lassen
-60.0|man
-61.0|schlagen
-61.0001|vorschlagen
-62.0|der Handel
-63.0|vor
-64.0|willigen
-65.0|nur
-66.0|zögern
-67.0|auch
-68.0|wenn
-69.0|der Verstand
-70.0|verlieren
-72.0|berühmt
-73.0|dafür
-74.0|geben
-76.0|immer
-77.0|neu
-78.0|Guß
-79.0|bringen
-81.0|die Tausend
-81.001|das Tausend
-81.002|der Tausend
-82.0|schwarz
-83.0|Fluß
-84.0|stürzen
-85.0|auf
-86.0|hören
-87.0|an
-88.0|oh
-89.0|der Meister
-90.0|die Not
-92.0|nie
-93.0|wieder
-96.0|schön
-99.0|uns
-101.0|gehen
-103.0002|die Hose
-104.0|alle
-105.0|sollen
-110.0001|die Rose
-111.0|bald
-112.0|schon
-114.0|dir
-116.0|fern
-119.0|der Hafen
-120.0|gern
-121.0|bleiben
-122.0|bei
-123.0|heute
-124.0|müssen
-125.0|lang
-126.0|dich
-127.0|das Feuer
-129.0|allein
-133.0|der Kauf
-134.0|paar
-136.0|der Junge
-137.0|treu
-138.0|zeigen
-139.0|dein
-140.001|die Mast
-141.0|werfen
-143.0|schnell
-147.0|voll
-148.0|die Kraft
-156.0|schleichen
-157.0|sich
-158.0|der Mensch
-158.001|das Mensch
-159.0|die Menge
-160.0|ganz
-162.0|hin
-163.0|lieben
-164.0|die Stadt
-165.0|der Lärm
-167.0|Jagen
-170.0|übernehmen
-171.0|ihn
-173.0|der Jäger
-174.0|greifen
-175.0|von
-176.0|hinten
-177.0|denn
-178.0|suchen
-179.0|die Liebe
-181.0|sonst
-182.0|nirgends
-183.0|finden
-184.0|das Fleisch
-185.0|das Fell
-186.0|das Haar
-186.001|die Haar
-187.0|die Haut
-188.0|das Glied
-189.0|das Blut
-192.0|tun
-193.0|die Großstadt
-195.0|hell
-196.0|liegen
-197.0|da
-198.0|eng
-200.0|der Mann
-201.0|das Tier
-203.0|eindringen
-206.0|flüstern
-207.0|sanft
-209.0|das Ohr
-211.0|freuen
-212.0|heut
-213.0|unser
-214.0|der Kampf
-216.0|morgen
-217.0|jagen
-218.0|erneut
-220.0|morgens
-221.0|der Spiegel
-222.0|schauen
-223.0|dann
-224.0|die Träne
-225.0|das Gesicht
-226.0|wahr
-227.0|lieb
-228.0|glauben
-231.0|kennen
-233.0|fühlen
-234.0|jeder
-235.0|der Tisch
-237.0|still
-238.0|starr
-239.0|ohne
-241.0|der Schädel
-242.0|die Brust
-244.0|der Leib
-249.0|mit
-250.0|das Fett
-251.0|das Hirn
-252.0|der Gott
-253.0|der Tempel
-254.0|der Teufel
-255.0|der Stall
-256.0|der Kopf
-258.0|der Boden
-259.0|das Paradies
-261.0|der Rest
-262.001|die Eimer
-263.0|lauter
-266.0|das Mädchen
-267.0|einst
-268.0|verkaufen
-269.0|fett
-270.0|die Antwort
-272.0|quälen
-274.0|sterben
-276.0|für
-277.0|kurz
-278.0|die Zeit
-282.0|verbrennen
-283.0|kalt
-284.0|die Tür
-286.0|verlassen
-288.0|was
-289.0|früh
-290.0|Groß
-291.0|winzig
-292.0|klein
-296.0|Lauter
-298.0|tanzen
-305.0|der Faden
-307.0|reich
-308.0|gestern
-309.0|nun
-311.0|süß
-312.0|der Mund
-312.001|die Mund
-313.0|das Auge
-320.0|schenken
-321.0|tief
-322.0|Herzensgrund
-324.0|ewig
-325.0|fromm
-326.0|der Wunsch
-327.0|fahren
-329.0|sagen
-330.0|warum
-331.0|der Tag
-334.0|befreien
-340.0|arm
-342.0|die Hand
-343.0|weich
-344.0|die Welt
-345.0|aller
-347.0|als
-348.0|der Garten
-349.0|wo
-350.0|bunt
-351.0|die Blume
-352.0|blühen
-356.0|bis
-357.0|jung
-358.0|brennen
-359.0|heiß
-360.0|ach
-361.0|geschehen
-362.0|das Kind
-363.0|alt
-364.0|rechnen
-365.0|noch
-367.0|wissen
-368.0|ohnehin
-369.0|weil
-372.0|cool
-373.0|hart
-376.0|smart
-377.0|überlegen
-380.0|der Sinn
-380.001|die Sinn
-381.0|dass
-383.0|ob
-384.0|oder
-385.0|mittlerweile
-386.0|fragen
-387.0|jemand
-388.0|niemand
-390.0|halten
-391.0|das Ende
-393.0|überstehen
-394.0|überall
-395.0|stellen
-396.0|irgendwann
-397.0|der Weg
-398.0|der Mir
-399.0|egal
-401.0|wohnen
-403.0|der Sex
-404.0|die Macht
-406.0|das Geld
-408.0|die Ewigkeit
-409.0|genau
-411.0|umgeben
-413.0|schwer
-415.0|schreien
-417.0|der Abgrund
-418.0|sechs
-419.0|der Fuß
-421.0|das Mal
-422.0|dasselbe
-423.0|das Spiel
-424.0|längst
-425.0|das Ziel
-426.0|die Erde
-428.0|leicht
-429.0|scheinbar
-430.0|Drum
-431.0|nehmen
-434.0|erwarten
-435.0|das Grab
-436.0|der Tunnel
-437.0|die Freiheit
-439.0|bös
-440.0|das Opfer
-441.0|der Gang
-442.0|Jung
-444.0|Basecap
-446.0|schwul
-447.001|der Getto
-450.0|unten
-451.0|drunter
-452.0|tragen
-453.0|heimlich
-455.0|Wolfgang
-459.0|darum
-460.0|weinen
-461.0|zittern
-462.0|das Knie
-463.0|der Lauf
-464.0|weg
-465.0|selbst
-466.0|drehen
-467.0|stark
-471.0|unter
-473.0|überhaupt
-474.0|der Rock
-475.0|der Ring
-477.0|essen
-480.0|das Bild
-481.0|Udo
-482.0|Kier
-487.0|selten
-488.0|rein
-489.0|konzentrieren
-490.0|der Ball
-491.0|dürfen
-492.0|die Mannschaft
-493.0|die Dusche
-497.0|der Wein
-498.0|ruhig
-499.0|der Schrei
-501.0|das Gold
-503.0|die Sehnsucht
-504.0|spüren
-506.0|davor
-507.0|die Seele
-508.0|drücken
-511.0|benutzen
-515.0|der Gewinn
-517.0|der Verlust
-518.0|jetzt
-520.0|der Inhalt
-521.0|das Loch
-521.001|der Loch
-522.0|gleich
-523.0|gehören
-527.0|das E
-529.0|das D
-534.0|vorbei
-535.0|knapp
-537.0|nochmal
-540.0|gegen
-542.0|ab
-543.0|zählen
-544.0|der Versuch
-545.0|kämpfen
-546.0|frei
-548.0|fertig
-550.0|bereit
-551.0|bisschen
-553.0|wenig
-554.0|leben
-556.0|dabei
-557.0|drauf
-560.0|vorn
-561.0|zurück
-562.0|umdrehen
-563.0|weitergehen
-564.0|um
-565.0|das Universum
-570.0|annehmen
-571.0|der Körper
-575.0|passen
-577.0|ja
-579.0|der Gedanke
-580.0|der Arm
-582.0|weiter
-586.0|leider
-587.0|die Wirklichkeit
-588.0|weit
-589.0|aber
-591.0|einmal
-592.0|biologisch
-593.0|das Argument
-594.0|interessieren
-597.0|heraus
-598.0|befinden
-599.0|eigentlich
-600.0|der Kopp
-601.0|der Arsch
-602.0|hinter
-603.0|stehen
-604.0|hinaus
-605.0|durch
-609.0|die Schau
-611.0|schau
-613.0|der Schein
-614.0|existieren
-615.0|tot
-616.0|das Teil
-617.0|schleppen
-620.0|öd
-621.0|das Land
-622.0|der Baum
-623.0|über
-624.0|zweihundert
-625.0|das Jahr
-629.0|unendlich
-630.0|müde
-632.0|das Ufer
-635.0|verzweifelt
-637.0|damit
-638.001|die Wolf
-639.0|fressen
-641.0|ziehen
-642.0|kein
-643.0|der Feind
-646.0|das Haus
-648.0|steigen
-649.0|der See
-649.001|die See
-652.0|grün
-653.0|das Licht
-655.0|der Pilger
-657.0|niemals
-658.0|sprechen
-659.0|heilig
-660.0|einhundert
-661.0|glücklich
-662.0|stumm
-663.0|blass
-666.0|der Schmerz
-668.0|das Wort
-669.0|legen
-670.0|das Lied
-671.0|bewegen
-672.0|verlangen
-676.0|hoch
-677.0|die Hacke
-678.0|pudern
-679.0|die Wange
-680.0|rot
-681.0|gefallen
-682.0|hoffen
-684.0|stören
-686.0|die Lippe
-688.0|berühren
-690.0|entscheiden
-691.0|bi
-692.0|schaden
-694.0|der Hode
-694.001|die Hode
-696.0|das Bein
-698.0|kleben
-699.0|falsch
-701.0|der Star
-705.0|je
-706.0|lass
-707.0|die Lust
-708.0|regieren
-709.0|der Engel
-711.0|der König
-713.0|tauschen
-714.0|erinnern
-715.0|der Freund
-716.0|reden
-717.0|lachen
-719.0|manch
-722.0|weh
-723.0|treiben
-725.0|dahin
-726.0|erfüllen
-727.0|einzig
-728.0|die Sache
-730.0|gegenüber
-731.0|der Vater
-732.0|der Mörder
-734.0|hundert
-736.0|der Hass
-738.0|machen
-739.0|der Schluss
-740.0|das Leid
-741.0|wagen
-742.0|der Schritt
-743.0|richtig
-744.0|die Richtung
-746.0|der Sieg
-746.001|die Sieg
-747.0|die Vernunft
-748.0|unterdrücken
-749.0|vereinen
-750.0|verschließen
-751.0|denken
-752.0|öffnen
-753.0|gar
-754.0|verbieten
-756.0|stattdessen
-760.0|töten
-762.0|das Deutschland
-764.0|die Schlange
-765.0|krank
-766.0|die Angst
-767.0|verstehen
-770.0|La
-773.0|der Mond
-774.0|drum
-778.0|Chorus
-780.0|das Mach
-781.0|die Wahrheit
-785.0|der Sand
-786.0|wecken
-787.0|zwei
-788.0|die Arme
-789.0|langsam
-790.0|der Hund
-791.0|das Reich
-792.0|wann
-793.0|der Spaß
-794.0|vergehen
-798.0|die Lunge
-800.0|der Hunger
-802.0|sitzen
-803.0|eigen
-804.0|das Boot
-804.001|der Boot
-805.0|der Wohlstand
-807.0|vergessen
-808.0|brauchen
-810.0|davon
-814.0|zuwenig
-815.0|Hab
-816.0|wozu
-818.0|zwar
-819.0|reichen
-821.0|recht
-823.0|schlecht
-825.0|zufrieden
-827.0|genug
-828.0|zuviel
-829.0|all
-830.0|das Haben
-834.0|zerfallen
-835.0|die Krise
-836.0|der Krieg
-838.0|der Terror
-839.0|Brüssel
-840.0|der Paris
-841.0|der Pole
-841.001|die Pole
-843.0|die Regierung
-844.0|die Grenze
-845.0|dicht
-846.0|Xavier
-847.0|singen
-848.0|die Europa
-849.0|rechts
-850.0|rücken
-851.0|echt
-852.0|verrückt
-853.0|Leute
-854.0|nötig
-855.0|der Frieden
-856.0|möglich
-857.0|Ah
-858.0|yeah
-859.0|Gleiche
-860.0|beweisen
-861.0|klingeln
-864.0|das Symbol
-866.0|die Hoffnung
-867.0|die Scheibe
-869.0|die Menschheit
-870.0|gebacken
-872.0|fest
-873.0|daran
-875.0|retten
-877.0|das Baby
-878.0|bestellen
-880.0|das Gewehr
-881.0|die Herkunft
-883.0|die Religion
-884.0|die Hauptsache
-885.0|dünn
-887.0|der Käse
-888.0|grade
-890.0|der Kontinent
-891.0|die Kultur
-893.0|sowas
-895.0|dazu
-896.0|Tansania
-897.0|der Münchner
-900.0|schreiben
-902.0|die Wand
-905.0|das Hoch
-906.0|die Calzone
-907.0|die Flamme
-909.0|das Problem
-911.0|seIn
-913.0|wunderbar
-915.0|erwischen
-918.0|der Richter
-920.0|klappen
-921.0|die Fähre
-923.0|einfach
-925.0|backen
-926.0|das Mittel
-926.001|die Mittel
-927.0|der Staat
-929.0|bitte
-932.0|neulich
-934.0|lange
-935.0|her
-936.0|treffen
-937.0|sehr
-938.0|die Dame
-941.0|der Name
-942.0|wunderschön
-947.0|der Moment
-947.001|das Moment
-948.0|akzeptieren
-949.0|drüber
-950.0|diskutieren
-953.0|probieren
-957.0|die Frau
-958.0|nee
-959.0|die Niere
-962.0|Starallüre
-963.0|blind
-965.0|trinken
-967.0|das Bier
-976.0|die Lampe
-977.0|danach
-978.0|vier
-979.0|also
-982.0|He
-984.0|wirklich
-985.0|der Magen
-986.0|der Sommer
-987.0|mitbringen
-988.0|außerdem
-989.0|gestehen
-990.0|tschüß
-992.0|willen
-993.001|der Ghetto
-995.0|der Alter
-995.001|das Alter
-997.0|der Schlaf
-998.0|etwas
-1003.0|schlimm
-1005.0|schmerzen
-1012.0|die Lage
-1015.001|das Kajal
-1019.0|spitz
-1020.0|der Schuh
-1023.0|die Leiche
-1024.0|herum
-1025.0|frisch
-1026.0|das Sagen
-1029.0|das Ach
-1032.0|Michi
-1034.0|Michael
-1035.0|fehlen
-1040.0|das Fräulein
-1043.0|bekannt
-1044.0|der Ort
-1044.001|das Ort
-1048.0|das I
-1053.0|a
-1055.0|der Zyklus
-1058.0|happy
-1062.0|übrig
-1071.0|Südafrika
-1072.0|der Wind
-1073.0|wehen
-1074.0|leise
-1075.0|das Meer
-1076.0|der Berg
-1077.0|der Kunde
-1077.001|die Kunde
-1078.0|Afrika
-1079.0|das A
-1092.0|dry
-1095.0|falls
-1098.0|oberhalb
-1104.0|love
-1112.0|die Materie
-1114.0|nahe
-1117.0|klatschen
-1119.0|marschieren
-1120.0|Naziparole
-1122.0|der Spaziergang
-1123.0|die Gewalt
-1124.0|sogenannt
-1125.0|das Volk
-1127.0|die Gesellschaft
-1128.0|spalten
-1129.0|der Idiot
-1130.0|wichtig
-1133.0|easy
-1136.0|die Rechte
-1138.0|überzeugen
 1139.0|die Politik
-1140.0|die Überraschung
-1142.0|Fascho
-1144.0|euch
-1145.0|der Grund
-1148.0|Hool
 1149.0|die Maßnahme
-1153.0|verdienen
-1154.0|kritisieren
-1156.0|blockieren
-1157.0|profitieren
-1159.0|das Verständnis
-1160.0|euer
-1161.0|welcher
-1163.0|überschreiten
-1164.0|weißen
-1169.0|die AfD
 1170.0|Identitäre
-1171.0|die Bewegung
-1172.0|lächerlich
-1173.0|scheiß
-1174.0|das Dorf
-1176.0|demonstrieren
-1180.0|miteinander
-1181.0|zueinander
-1183.0|die Regel
-1184.0|regeln
-1186.0|laufen
-1187.0|das Wasser
-1188.0|das Tempo
-1188.001|der Tempo
-1190.0|sofort
-1191.0|offen
-1193.0|warm
-1194.0|einsam
-1196.0|fließen
-1200.0|ziemlich
-1203.0|setzen
-1204.0|der Hut
-1204.001|die Hut
-1205.0|Rolex
-1208.0|Hol
-1210.0|absolut
-1217.0|nett
-1219.0|der Rauch
-1220.0|Shit
-1223.0|der Club
-1224.0|genießen
-1225.0|der Ausblick
-1230.0|Hook
-1232.0|gucken
-1235.0|mm
-1236.0|der Ausgang
-1239.0|unbedingt
-1242.0|ran
-1243.0|das Bar
-1243.001|die Bar
-1245.0|die Lady
-1246.0|sieben
-1248.0|der Tanz
-1249.0|sogar
-1250.0|der Song
-1252.0|blau
-1255.0|hübsch
-1256.0|das Ding
-1257.0|verstecken
-1262.0|die Queen
-1263.0|der King
-1267.0|das Thing
-1268.0|das Kid
-1269.0|der Augenblick
-1270.0|bekämpfen
-1272.0|daraus
-1273.0|loslegen
-1274.0|gewinnen
-1280.0|hauen
-1281.0|das Fass
-1282.0|stecken
-1289.0|darauf
-1290.0|neben
-1291.0|die Toilette
-1294.0|die Ehe
-1303.0|das Top
-1308.0|die Mitte
-1311.0|das Netz
-1314.0|stop
-1315.0|Take
-1316.0|das Gehirn
-1317.0|wenden
-1319.0|off
-1323.0|die More
-1331.0|Do
-1339.0|die Ehefrau
-1344.0|real
-1347.0|gedacht
-1352.0|die Freude
-1362.0|dies
-1364.0|der Zug
-1365.0|bluten
-1366.0|atmen
-1369.0|verbinden
-1372.0|schwierig
-1374.0|die Größe
-1376.0|außen
-1377.001|das Schar
-1384.0|vermissen
-1385.0|die Glocke
-1386.0|die Fahne
-1390.0|nennen
-1394.0|kriegen
-1395.0|der Stein
-1397.0|gewiss
-1398.0|kreisen
-1403.0|der Professor
-1406.0|riechen
-1408.0|gerne
-1409.0|meistens
-1410.0|gesund
-1411.0|manchmal
-1413.0|blond
-1416.0|ihnen
-1417.0|schrecklich
-1418.0|leid
-1420.0|ändern
-1421.0|halt
-1422.0|normal
-1423.0|meist
-1424.0|fleißig
-1426.0|erst
-1428.0|oft
 1429.0|Überzeugungstäter
-1430.0|selber
-1431.0|tausend
-1432.0|der Helfer
-1433.0|ruhen
-1434.0|das Tennis
-1435.0|spielen
-1436.0|reiten
-1437.0|die Seite
-1440.0|der Präsident
-1441.0|fast
-1443.0|der Tresen
-1444.0|das Intro
-1446.0|Part
-1447.0|eins
-1449.0|halb
-1452.0|irgendein
-1453.0|der Text
-1455.0|der Trost
-1458.0|das Gegenteil
-1459.0|die Zeile
-1460.0|handeln
-1461.0|negativ
-1464.0|sicken
-1469.0|die Stimmung
-1470.0|kippen
-1473.0|der Jemand
-1474.0|die Zukunft
-1475.0|blicken
-1476.0|schaffen
-1477.0|ertragen
-1480.0|das System
-1481.0|defekt
-1482.0|versagen
-1484.0|flammen
-1486.0|der Großvater
-1487.0|fünfzehn
-1488.0|irgendwie
-1489.0|holen
-1490.0|der Krebs
-1491.0|straight
-1492.0|back
-1493.0|die Realität
-1494.0|Geile
-1495.0|das Thema
-1500.0|der Satz
-1502.0|Track
-1503.0|runter
-1507.0|der Brief
-1509.0|mitteilen
-1510.0|das Buch
-1511.0|mögen
-1512.0|komplett
-1513.0|die Spur
-1517.0|nein
-1518.0|das Kapitel
-1519.0|der Typ
-1520.0|gerade
-1521.0|das Bongo
-1521.001|die Bongo
-1521.002|der Bongo
-1527.0|das Tor
-1527.001|der Tor
-1531.0|Leggings
-1535.0|der Schild
-1540.0|lesen
-1541.0|die Geschichte
-1542.0|wohl
-1543.0|Bezugspunkt
-1544.0|Schundliteratur
-1547.0|ausdenken
-1550.0|der Zweiter
-1551.0|das Kapital
-1552.0|beide
-1553.0|die Figur
-1554.0|der Platz
-1555.0|achtzehn
-1556.0|der März
-1557.0|der Koch
-1557.001|das Koch
-1558.0|die Bühne
-1562.0|das Museum
-1563.0|spät
-1564.0|dort
-1568.0|erzählen
-1570.0|die GmbH
 1572.0|die Demokratie
-1573.0|deutsch
-1577.0|das Finale
-1582.0|die Treppe
-1583.0|der Bundestag
-1584.0|drei
-1585.0|der Polizist
-1587.0|die Revolution
-1588.0|der Scheiß
-1589.0|lieber
-1590.0|der Irrtum
-1591.0|das Manuskript
-1593.0|wünschen
-1596.0|der Kollege
-1604.0|Jürgen
 1605.0|der Elsässer
-1608.0|der Erster
-1610.0|der Bogen
-1611.0|spannen
-1612.0|meinen
-1614.0|sondern
-1616.0|der Pfeil
-1617.0|schießen
-1618.0|juristisch
-1620.0|erreichen
-1621.0|das Gericht
-1623.0|Kunstfreiheit
-1624.0|decken
-1625.0|nutzen
-1626.0|bewusst
-1629.0|der Konflikt
-1630.0|das Gesetz
-1631.0|behaupten
-1641.0|vielleicht
-1642.0|das Ken
-1645.0|laut
-1646.0|beschweren
-1647.0|das Band
-1647.001|der Band
-1647.002|die Band
-1648.0|erwähnen
-1650.0|zerren
-1651.0|natürlich
-1652.0|das Recht
-1653.0|Gerichtskosten
-1655.0|bezahlen
-1657.0|hoffentlich
-1658.0|passieren
-1659.0|die Gefahr
-1660.0|der Dan
-1661.0|das Experiment
-1663.0|erlauben
-1665.0|die Meinung
-1666.0|das Glück
-1669.0|wahnsinnig
-1670.0|wirken
-1671.0|eher
-1672.0|der Nationalsozialist
-1673.0|vertrauen
-1674.0|Polizeiapparat
-1677.0|aufbauen
-1678.0|die Polizei
-1679.0|durchsetzen
 1682.0|fesseln
-1683.0|anzünden
-1684.0|friedlich
-1685.0|ankommen
 1689.0|der Job
 1690.0|flexibel
 1691.0|die Arbeitszeit
