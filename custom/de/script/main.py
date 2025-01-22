@@ -327,7 +327,36 @@ update_lemmas_correct()
 # %%
 
 
-def copy_correct_lemmas_to_deck():
+def partition_deck_for_generation():
+    deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
+
+    has_data_cond = deck["part_of_speech"].notna()
+    has_data = deck[has_data_cond].sort_index()
+    has_no_data = deck[~has_data_cond].sort_index()
+
+    is_correct_sentence_length_cond = has_data["sentence_de"].map(
+        lambda x: SENTENCE_LENGTH.MIN <= len(x) <= SENTENCE_LENGTH.MAX
+    )
+
+    has_correct_sentence = has_data[is_correct_sentence_length_cond]
+    has_incorrect_sentence = has_data[~is_correct_sentence_length_cond]
+    has_incorrect_sentence = has_incorrect_sentence["word_de"]
+
+    has_no_data = pd.concat([has_incorrect_sentence, has_no_data]).sort_index()
+
+    deck = pd.concat([has_correct_sentence, has_no_data])
+
+    deck.to_csv(PATH.DECK, sep="|")
+
+    remove_separators(path=PATH.DECK, n=5)
+
+
+partition_deck_for_generation()
+
+# %%
+
+
+def update_deck():
     lemmas = pd.read_csv(PATH.LYRICS_WORDS_LEMMAS, sep="|", index_col=0)
     deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
 
@@ -363,39 +392,10 @@ def copy_correct_lemmas_to_deck():
 
     deck.to_csv(PATH.DECK, sep="|")
 
-    remove_separators(path=PATH.DECK, n=5)
+    partition_deck_for_generation()
 
 
-copy_correct_lemmas_to_deck()
-
-# %%
-
-
-def partition_deck_for_generation():
-    deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
-
-    has_data_cond = deck["part_of_speech"].notna()
-    has_data = deck[has_data_cond].sort_index()
-    has_no_data = deck[~has_data_cond].sort_index()
-
-    is_correct_sentence_length_cond = has_data["sentence_de"].map(
-        lambda x: SENTENCE_LENGTH.MIN <= len(x) <= SENTENCE_LENGTH.MAX
-    )
-
-    has_correct_sentence = has_data[is_correct_sentence_length_cond]
-    has_incorrect_sentence = has_data[~is_correct_sentence_length_cond]
-    has_incorrect_sentence = has_incorrect_sentence["word_de"]
-
-    has_no_data = pd.concat([has_incorrect_sentence, has_no_data]).sort_index()
-
-    deck = pd.concat([has_correct_sentence, has_no_data])
-
-    deck.to_csv(PATH.DECK, sep="|")
-
-    remove_separators(path=PATH.DECK, n=5)
-
-
-partition_deck_for_generation()
+update_deck()
 
 # %%
 
