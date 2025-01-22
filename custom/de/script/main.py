@@ -128,9 +128,21 @@ def update_lemmatized_sources():
         columns=["author", "title", "text"],
     ).astype(pd.StringDtype())
 
-    sources_new = sources_new[~sources_new.index.isin(sources_lemmatized.index)]
+    sources = sources_new.merge(
+        right=sources_lemmatized,
+        on=["author", "title"],
+        how="left",
+    )
 
-    sources_new["text"] = sources_new["text"].map(
+    is_lemmatized_right_cond = sources["text_y"].notna()
+    sources.loc[is_lemmatized_right_cond, "text_x"] = sources.loc[
+        is_lemmatized_right_cond, "text_y"
+    ]
+    sources = sources[["author", "title", "text_x"]].rename(columns={"text_x": "text"})
+
+    sources_new_not_lemmatized = pd.DataFrame(sources[~is_lemmatized_right_cond])
+
+    sources_new_not_lemmatized["text"] = sources_new_not_lemmatized["text"].map(
         lambda x: "".join(
             [
                 y
@@ -140,13 +152,11 @@ def update_lemmatized_sources():
         )
     )
 
-    sources_new["text"] = sources_new["text"].map(
-        lambda x: (LYRICS_LEMMATIZED_SEP.join(find_tokens(x)))
-    )
+    sources.loc[sources_new_not_lemmatized.index, "text"] = sources_new_not_lemmatized[
+        "text"
+    ].map(lambda x: LYRICS_LEMMATIZED_SEP.join(find_tokens(x)))
 
-    sources_lemmatized = pd.concat([sources_lemmatized, sources_new])
-
-    sources_lemmatized.to_csv(PATH.SOURCES_LEMMATIZED, sep="|")
+    sources.to_csv(PATH.SOURCES_LEMMATIZED, sep="|")
 
 
 update_lemmatized_sources()
