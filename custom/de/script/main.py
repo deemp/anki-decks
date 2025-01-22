@@ -19,12 +19,12 @@ class PATH:
     DATA = Path("data")
     PWD = Path(".")
     DECK = PWD / "deck.csv"
-    LYRICS = DATA / "lyrics"
-    LYRICS_LEMMATIZED = LYRICS / "lemmatized.csv"
-    LYRICS_TEXTS = LYRICS / "texts.yaml"
-    LYRICS_WORDS_LEMMAS = LYRICS / "words-lemmas.csv"
-    LYRICS_WORDS_NOT_LEMMAS = LYRICS / "words-not-lemmas.csv"
-    LYRICS_WORDS = LYRICS / "words.csv"
+    SOURCES = DATA / "sources"
+    SOURCES_LEMMATIZED = SOURCES / "lemmatized.csv"
+    SOURCES_TEXTS = SOURCES / "texts.yaml"
+    SOURCES_WORDS_LEMMAS = SOURCES / "words-lemmas.csv"
+    SOURCES_WORDS_NOT_LEMMAS = SOURCES / "words-not-lemmas.csv"
+    SOURCES_WORDS = SOURCES / "words.csv"
 
 
 class INDEX_SUFFIX:
@@ -117,20 +117,20 @@ def find_tokens(sentence: str):
 # %%
 
 
-def update_lemmatized_lyrics():
-    lemmatized = pd.read_csv(PATH.LYRICS_LEMMATIZED, sep="|", index_col=0)
+def update_lemmatized_sources():
+    sources_lemmatized = pd.read_csv(PATH.SOURCES_LEMMATIZED, sep="|", index_col=0)
 
-    with open(PATH.LYRICS_TEXTS, mode="r", encoding="UTF-8") as f:
-        lyrics = yaml.safe_load(f)
+    with open(PATH.SOURCES_TEXTS, mode="r", encoding="UTF-8") as f:
+        sources = yaml.safe_load(f)
 
-    new = pd.DataFrame(
-        lyrics,
+    sources_new = pd.DataFrame(
+        sources,
         columns=["author", "title", "text"],
     ).astype(pd.StringDtype())
 
-    new = new[~new.index.isin(lemmatized.index)]
+    sources_new = sources_new[~sources_new.index.isin(sources_lemmatized.index)]
 
-    new["text"] = new["text"].map(
+    sources_new["text"] = sources_new["text"].map(
         lambda x: "".join(
             [
                 y
@@ -140,23 +140,23 @@ def update_lemmatized_lyrics():
         )
     )
 
-    new["text"] = new["text"].map(
+    sources_new["text"] = sources_new["text"].map(
         lambda x: (LYRICS_LEMMATIZED_SEP.join(find_tokens(x)))
     )
 
-    lemmatized = pd.concat([lemmatized, new])
+    sources_lemmatized = pd.concat([sources_lemmatized, sources_new])
 
-    lemmatized.to_csv(PATH.LYRICS_LEMMATIZED, sep="|")
+    sources_lemmatized.to_csv(PATH.SOURCES_LEMMATIZED, sep="|")
 
 
-update_lemmatized_lyrics()
+update_lemmatized_sources()
 # %%
 
 
 def update_word_lists():
     # save all words
 
-    lyrics_lemmatized = pd.read_csv(PATH.LYRICS_LEMMATIZED, sep="|", index_col=0)
+    lyrics_lemmatized = pd.read_csv(PATH.SOURCES_LEMMATIZED, sep="|", index_col=0)
 
     texts = lyrics_lemmatized[["text"]]
     texts.loc[:, "text"] = texts.loc[:, "text"].map(
@@ -167,7 +167,7 @@ def update_word_lists():
     words = texts.explode("word")
     words.reset_index(names="song_id", inplace=True)
     words = words[["song_id", "word"]]
-    words.to_csv(PATH.LYRICS_WORDS, sep="|")
+    words.to_csv(PATH.SOURCES_WORDS, sep="|")
 
     words = words.loc[~words.duplicated("word"), ["word"]]
 
@@ -177,7 +177,7 @@ def update_word_lists():
 
     words_not_lemmas_new = pd.DataFrame(words[~is_lemma_cond])
     words_not_lemmas_existing = pd.read_csv(
-        PATH.LYRICS_WORDS_NOT_LEMMAS, sep="|", index_col=0
+        PATH.SOURCES_WORDS_NOT_LEMMAS, sep="|", index_col=0
     )
     words_not_lemmas = words_not_lemmas_new.join(
         other=words_not_lemmas_existing.set_index("word"), on="word"
@@ -194,14 +194,14 @@ def update_word_lists():
         ]
     )
 
-    words_not_lemmas.to_csv(PATH.LYRICS_WORDS_NOT_LEMMAS, sep="|")
+    words_not_lemmas.to_csv(PATH.SOURCES_WORDS_NOT_LEMMAS, sep="|")
 
     # update lemmas
 
     lemmas_new = pd.DataFrame(words[is_lemma_cond])
     lemmas_new = lemmas_new.rename(columns={"word": "lemma"})
 
-    lemmas_existing = pd.read_csv(PATH.LYRICS_WORDS_LEMMAS, sep="|", index_col=0)
+    lemmas_existing = pd.read_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|", index_col=0)
 
     lemmas = lemmas_new.join(
         lemmas_existing.reset_index().set_index("lemma"),
@@ -221,7 +221,7 @@ def update_word_lists():
         ]
     )
 
-    lemmas.to_csv(PATH.LYRICS_WORDS_LEMMAS, sep="|")
+    lemmas.to_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|")
 
 
 update_word_lists()
@@ -230,18 +230,18 @@ update_word_lists()
 
 
 def copy_lemmas_from_words_not_lemmas():
-    words_not_lemmas = pd.read_csv(PATH.LYRICS_WORDS_NOT_LEMMAS, sep="|", index_col=0)
+    words_not_lemmas = pd.read_csv(PATH.SOURCES_WORDS_NOT_LEMMAS, sep="|", index_col=0)
 
     words = pd.DataFrame(words_not_lemmas["lemma"].map(mk_word, na_action="ignore"))
     lemmas_new = words[mk_is_lemma_cond(words["lemma"])]
-    lemmas_existing = pd.read_csv(PATH.LYRICS_WORDS_LEMMAS, sep="|", index_col=0)
+    lemmas_existing = pd.read_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|", index_col=0)
 
     lemmas = pd.concat([lemmas_existing, lemmas_new])
     lemmas.sort_index(inplace=True)
     lemmas = lemmas[~lemmas["lemma"].isna()]
     lemmas = lemmas[~lemmas.duplicated("lemma")]
 
-    lemmas.to_csv(PATH.LYRICS_WORDS_LEMMAS, sep="|")
+    lemmas.to_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|")
 
 
 copy_lemmas_from_words_not_lemmas()
@@ -251,12 +251,12 @@ copy_lemmas_from_words_not_lemmas()
 
 def update_lemmas_correct():
     # copy fixed lemmas
-    words_not_lemmas = pd.read_csv(PATH.LYRICS_WORDS_NOT_LEMMAS, sep="|", index_col=0)
+    words_not_lemmas = pd.read_csv(PATH.SOURCES_WORDS_NOT_LEMMAS, sep="|", index_col=0)
 
     words = pd.DataFrame(words_not_lemmas["lemma"].map(mk_word, na_action="ignore"))
     lemmas_new = words[mk_is_lemma_cond(words["lemma"])]
 
-    lemmas_existing = pd.read_csv(PATH.LYRICS_WORDS_LEMMAS, sep="|", index_col=0)
+    lemmas_existing = pd.read_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|", index_col=0)
 
     lemmas = pd.concat([lemmas_existing, lemmas_new])
     lemmas.sort_index(inplace=True)
@@ -319,7 +319,7 @@ def update_lemmas_correct():
         no_lemma_correct_cond, "lemma"
     ]
 
-    lemmas.to_csv(PATH.LYRICS_WORDS_LEMMAS, sep="|")
+    lemmas.to_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|")
 
 
 update_lemmas_correct()
@@ -357,7 +357,7 @@ partition_deck_for_generation()
 
 
 def update_deck():
-    lemmas = pd.read_csv(PATH.LYRICS_WORDS_LEMMAS, sep="|", index_col=0)
+    lemmas = pd.read_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|", index_col=0)
     deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
 
     words_de = pd.DataFrame(lemmas["lemma_correct"]).rename(
