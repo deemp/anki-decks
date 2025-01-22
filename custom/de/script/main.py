@@ -77,6 +77,15 @@ def get_lemmas_articles(nouns: pd.DataFrame):
 lemmata = pd.read_csv("data/dwds_lemmata_2025-01-15.csv")
 
 
+# %%
+
+import spacy
+
+nlp = spacy.load("de_dep_news_trf")
+
+# %%
+
+
 def find_tokens(sentence: str):
     doc = nlp(sentence)
     tokens = [tok.lemma_ for tok in doc]
@@ -88,16 +97,10 @@ def find_tokens(sentence: str):
             prefix = token.text
             tokens[token.head.i] = prefix + verb_stem
 
-    tokens = [tok for tok in tokens if tok not in ["--", " ", "  "]]
+    tokens = [tok for tok in tokens if tok not in ["-", "--", " ", "  "]]
 
     return tokens
 
-
-# %%
-
-import spacy
-
-nlp = spacy.load("de_dep_news_trf")
 
 # %%
 
