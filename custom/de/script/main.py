@@ -32,6 +32,11 @@ class INDEX_SUFFIX:
     NEW_WORD = 0.0001
 
 
+class SENTENCE_LENGTH:
+    MIN = 30
+    MAX = 50
+
+
 def mk_word(word: str):
     if word in ARTICLES_FULL:
         return word
@@ -302,6 +307,38 @@ def copy_correct_lemmas_to_deck():
 
 copy_correct_lemmas_to_deck()
 
+# %%
+
+
+def partition_deck_for_generation():
+    deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
+
+    has_data_cond = deck["part_of_speech"].notna()
+    has_data = deck[has_data_cond].sort_index()
+    has_no_data = deck[~has_data_cond].sort_index()
+
+    is_correct_sentence_length_cond = has_data["sentence_de"].map(
+        lambda x: SENTENCE_LENGTH.MIN <= len(x) <= SENTENCE_LENGTH.MAX
+    )
+
+    has_correct_sentence = has_data[is_correct_sentence_length_cond]
+    has_incorrect_sentence = has_data[~is_correct_sentence_length_cond]
+    has_incorrect_sentence = has_incorrect_sentence["word_de"]
+
+    has_no_data = pd.concat([has_incorrect_sentence, has_no_data]).sort_index()
+
+    deck = pd.concat([has_correct_sentence, has_no_data])
+
+    deck.to_csv(PATH.DECK, sep="|")
+
+    with open(PATH.DECK, "r", encoding="UTF-8") as d:
+        deck_text = d.read()
+
+    with open(PATH.DECK, "w", encoding="UTF-8") as d:
+        d.write(deck_text.replace("|||||", ""))
+
+
+partition_deck_for_generation()
 
     # lyrics_list = "\n".join(lyrics_split)
 
