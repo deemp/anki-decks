@@ -81,6 +81,14 @@ def mk_is_lemma_cond(df: pd.DataFrame):
     return df.isin(lemmata["lemma"]) | df.isin(dewiki_noun_articles["lemma"])
 
 
+def remove_separators(path: Path, n: int):
+    with open(path, "r", encoding="UTF-8") as d:
+        deck_text = d.read()
+
+    with open(path, "w", encoding="UTF-8") as d:
+        d.write(deck_text.replace("|" * n, ""))
+
+
 # %%
 
 import spacy
@@ -346,11 +354,7 @@ def copy_correct_lemmas_to_deck():
 
     deck.to_csv(PATH.DECK, sep="|")
 
-    with open(PATH.DECK, "r", encoding="UTF-8") as d:
-        deck_text = d.read()
-
-    with open(PATH.DECK, "w", encoding="UTF-8") as d:
-        d.write(deck_text.replace("|||||", ""))
+    remove_separators(path=PATH.DECK, n=5)
 
 
 copy_correct_lemmas_to_deck()
@@ -379,11 +383,7 @@ def partition_deck_for_generation():
 
     deck.to_csv(PATH.DECK, sep="|")
 
-    with open(PATH.DECK, "r", encoding="UTF-8") as d:
-        deck_text = d.read()
-
-    with open(PATH.DECK, "w", encoding="UTF-8") as d:
-        d.write(deck_text.replace("|||||", ""))
+    remove_separators(path=PATH.DECK, n=5)
 
 
 partition_deck_for_generation()
