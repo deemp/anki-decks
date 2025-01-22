@@ -141,57 +141,73 @@ update_lemmatized_lyrics()
 # %%
 
 
-def get_word_lists():
+def update_word_lists():
+    # save all words
+
     lyrics_lemmatized = pd.read_csv(PATH.LYRICS_LEMMATIZED, sep="|", index_col=0)
-    lyrics_lemmatized["text"] = lyrics_lemmatized["text"].map(
+
+    lyrics_words = lyrics_lemmatized[["text"]]
+    lyrics_words.loc[:, "text"] = lyrics_words.loc[:, "text"].map(
         lambda x: str(x).split(LYRICS_LEMMATIZED_SEP)
     )
-    lyrics_lemmatized = lyrics_lemmatized.explode("text")
-    lyrics_lemmatized = lyrics_lemmatized.rename(columns={"text": "word"})
-    lyrics_lemmatized = lyrics_lemmatized[~lyrics_lemmatized["word"].duplicated()]
-    lyrics_lemmatized = lyrics_lemmatized.reset_index(drop=True)
+    lyrics_words = lyrics_words.explode("text")
+    lyrics_words = lyrics_words.rename(columns={"text": "word"})
+    lyrics_words.reset_index(names="song_id", inplace=True)
+    lyrics_words = lyrics_words[["song_id", "word"]]
+    lyrics_words.to_csv(PATH.LYRICS_WORDS, sep="|")
 
-    lyrics_lemmatized.to_csv(PATH.LYRICS_WORDS, sep="|")
+    words = lyrics_words.loc[~lyrics_words.duplicated("word"), ["word"]]
 
-    words = lyrics_lemmatized["word"].map(mk_word)
-    is_lemma_cond = words.isin(lemmata["lemma"]) | words.isin(
+    is_lemma_cond = words["word"].isin(lemmata["lemma"]) | words["word"].isin(
         dewiki_noun_articles["lemma"]
     )
 
-    words_not_lemmas = lyrics_lemmatized[~is_lemma_cond]
+    # update non-lemmas
+
+    words_not_lemmas_new = pd.DataFrame(words[~is_lemma_cond])
     words_not_lemmas_existing = pd.read_csv(
         PATH.LYRICS_WORDS_NOT_LEMMAS, sep="|", index_col=0
     )
-
-    words_not_lemmas = words_not_lemmas[["word"]].join(
-        words_not_lemmas_existing[["word", "lemma"]], how="outer", rsuffix="_r"
+    words_not_lemmas = words_not_lemmas_new.join(
+        other=words_not_lemmas_existing.set_index("word"), on="word"
     )
-    is_not_na_word_cond = ~words_not_lemmas["word_r"].isna()
-    words_not_lemmas.loc[is_not_na_word_cond, "word"] = words_not_lemmas.loc[
-        is_not_na_word_cond, "word_r"
-    ]
-    words_not_lemmas.drop(columns=["word_r"], inplace=True)
     words_not_lemmas.sort_index(inplace=True)
-    words_not_lemmas = words_not_lemmas[~words_not_lemmas["word"].duplicated()]
+    words_not_lemmas = words_not_lemmas[~words_not_lemmas.duplicated("word")]
+
+    has_lemma_cond = words_not_lemmas["lemma"].notna()
+
+    words_not_lemmas = pd.concat(
+        [
+            words_not_lemmas[has_lemma_cond].sort_index(),
+            words_not_lemmas[~has_lemma_cond].sort_index(),
+        ]
+    )
+
     words_not_lemmas.to_csv(PATH.LYRICS_WORDS_NOT_LEMMAS, sep="|")
 
-    words_lemmas = lyrics_lemmatized[is_lemma_cond]
-    words_lemmas = words_lemmas.rename(columns={"word": "lemma"})
+    # update lemmas
+
+    words_lemmas_new = words[is_lemma_cond]
+    words_lemmas_new = words_lemmas_new.rename(columns={"word": "lemma"})
+
     words_lemmas_existing = pd.read_csv(PATH.LYRICS_WORDS_LEMMAS, sep="|", index_col=0)
-    words_lemmas = words_lemmas.join(words_lemmas_existing, how="outer", rsuffix="_r")
-    words_lemmas.loc[~words_lemmas["lemma_r"].isna(), "lemma"] = words_lemmas.loc[
-        ~words_lemmas["lemma_r"].isna(), "lemma_r"
-    ]
-    words_lemmas.drop(columns=["author", "title", "lemma_r"], inplace=True)
-    words_lemmas["lemma"] = words_lemmas["lemma"]
-    words_lemmas.sort_index(inplace=True)
-    words_lemmas = words_lemmas[
-        ~words_lemmas["lemma"].map(mk_word, na_action="ignore").duplicated()
-    ]
+
+    words_lemmas = words_lemmas_new.join(
+        words_lemmas_existing.set_index("lemma"), on="lemma"
+    ).sort_index()
+
+    has_lemma_correct_cond = words_lemmas["lemma_correct"].notna()
+    words_lemmas = pd.concat(
+        [
+            words_lemmas[has_lemma_correct_cond],
+            words_lemmas[~has_lemma_correct_cond],
+        ]
+    )
+
     words_lemmas.to_csv(PATH.LYRICS_WORDS_LEMMAS, sep="|")
 
 
-get_word_lists()
+update_word_lists()
 
 # %%
 
