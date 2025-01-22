@@ -81,7 +81,7 @@ def mk_is_lemma_cond(df: pd.DataFrame):
     return df.isin(lemmata["lemma"]) | df.isin(dewiki_noun_articles["lemma"])
 
 
-def remove_separators(path: Path, n: int):
+def remove_separators_in_file(path: Path, n: int):
     with open(path, "r", encoding="UTF-8") as d:
         deck_text = d.read()
 
@@ -98,7 +98,7 @@ nlp = spacy.load("de_dep_news_trf")
 # %%
 
 
-def find_tokens(sentence: str):
+def tokenize_sentence(sentence: str):
     doc = nlp(sentence)
     tokens = [tok.lemma_ for tok in doc]
 
@@ -154,7 +154,7 @@ def update_lemmatized_sources():
 
     sources.loc[sources_new_not_lemmatized.index, "text"] = sources_new_not_lemmatized[
         "text"
-    ].map(lambda x: LYRICS_LEMMATIZED_SEP.join(find_tokens(x)))
+    ].map(lambda x: LYRICS_LEMMATIZED_SEP.join(tokenize_sentence(x)))
 
     sources.to_csv(PATH.SOURCES_LEMMATIZED, sep="|")
 
@@ -358,7 +358,7 @@ def partition_deck_for_generation():
 
     deck.to_csv(PATH.DECK, sep="|")
 
-    remove_separators(path=PATH.DECK, n=5)
+    remove_separators_in_file(path=PATH.DECK, n=5)
 
 
 partition_deck_for_generation()
