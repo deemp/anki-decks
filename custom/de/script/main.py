@@ -328,13 +328,22 @@ update_lemmas_correct()
 
 
 def copy_correct_lemmas_to_deck():
-    words_lemmas = pd.read_csv(PATH.LYRICS_WORDS_LEMMAS, sep="|", index_col=0)
+    lemmas = pd.read_csv(PATH.LYRICS_WORDS_LEMMAS, sep="|", index_col=0)
     deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
 
-    words = pd.DataFrame(words_lemmas["lemma_correct"])
-    words.rename(columns={"lemma_correct": "word_de"}, inplace=True)
+    words_de = pd.DataFrame(lemmas["lemma_correct"]).rename(
+        columns={"lemma_correct": "word_de"}
+    )
 
-    deck = pd.concat([deck, words])
+    deck = words_de.join(
+        deck.reset_index().set_index("word_de"), how="outer", on="word_de"
+    ).sort_index()
+
+    deck.loc[deck["index"].isna(), "index"] = deck.index[deck["index"].isna()]
+    deck = deck.reset_index(drop=True).set_index("index", drop=True)
+    deck.rename_axis(index=None, inplace=True)
+    deck = deck[deck.index.notna()]
+
     deck = deck[~deck.index.duplicated()].sort_index()
     deck = deck[~deck["word_de"].duplicated()]
 
