@@ -77,6 +77,22 @@ def get_lemmas_articles(nouns: pd.DataFrame):
 lemmata = pd.read_csv("data/dwds_lemmata_2025-01-15.csv")
 
 
+def find_tokens(sentence: str):
+    doc = nlp(sentence)
+    tokens = [tok.lemma_ for tok in doc]
+
+    # separable verbs
+    for token in doc:
+        if token.dep_ == "svp" and token.head.pos_ == "VERB":
+            verb_stem = token.head.lemma_
+            prefix = token.text
+            tokens[token.head.i] = prefix + verb_stem
+
+    tokens = [tok for tok in tokens if tok not in ["--", " ", "  "]]
+
+    return tokens
+
+
 # %%
 
 import spacy
@@ -86,12 +102,20 @@ nlp = spacy.load("de_dep_news_trf")
 # %%
 
 
-def get_lemmatized_lyrics():
+def update_lemmatized_lyrics():
+    lemmatized = pd.read_csv(PATH.LYRICS_LEMMATIZED, sep="|", index_col=0)
+
     with open(PATH.LYRICS_TEXTS, mode="r", encoding="UTF-8") as f:
         lyrics = yaml.safe_load(f)
 
-    df = pd.DataFrame(lyrics, columns=["author", "title", "text"])
-    df["text"] = df["text"].map(
+    new = pd.DataFrame(
+        lyrics,
+        columns=["author", "title", "text"],
+    ).astype(pd.StringDtype())
+
+    new = new[~new.index.isin(lemmatized.index)]
+
+    new["text"] = new["text"].map(
         lambda x: "".join(
             [
                 y
@@ -101,21 +125,16 @@ def get_lemmatized_lyrics():
         )
     )
 
-    df["text"] = df["text"].map(
-        lambda x: (
-            x
-            # not lemmatized
-            if LYRICS_LEMMATIZED_SEP not in x
-            else LYRICS_LEMMATIZED_SEP.join(
-                [tok.lemma_ for tok in nlp(x) if tok.lemma_ != "--"]
-            )
-        )
+    new["text"] = new["text"].map(
+        lambda x: (LYRICS_LEMMATIZED_SEP.join(find_tokens(x)))
     )
 
-    df.to_csv(PATH.LYRICS_LEMMATIZED, sep="|")
+    lemmatized = pd.concat([lemmatized, new])
+
+    lemmatized.to_csv(PATH.LYRICS_LEMMATIZED, sep="|")
 
 
-get_lemmatized_lyrics()
+update_lemmatized_lyrics()
 # %%
 
 
