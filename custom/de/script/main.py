@@ -25,6 +25,7 @@ class PATH:
     SOURCES_WORDS_LEMMAS = SOURCES / "words-lemmas.csv"
     SOURCES_WORDS_NOT_LEMMAS = SOURCES / "words-not-lemmas.csv"
     SOURCES_WORDS = SOURCES / "words.csv"
+    WORD_COUNT = DATA / "word-count.csv"
 
 
 class INDEX_SUFFIX:
@@ -33,25 +34,30 @@ class INDEX_SUFFIX:
 
 
 class SENTENCE_LENGTH:
-    MIN = 30
+    MIN = 40
     MAX = 50
 
 
-def mk_word(word: str):
+def make_baseform(word: str):
+    # article
     if word in ARTICLES_FULL:
         return word
-    if any(x.isupper() for x in word):
+    # noun or name
+    if word[0].isupper():
+        return word
+    if word[:3] in ARTICLES_FULL and word[3] == " ":
         k = 0
         for i, j in enumerate(word):
             k = i
             if j.isupper():
                 break
-        word = word[k:]
-    return word
+        return word[k:]
+    # anything else
+    return word.lower()
 
 
 def is_noun(word: str):
-    return mk_word(word)[0].isupper()
+    return make_baseform(word)[0].isupper()
 
 
 ARTICLES_DICT = dict(zip(ARTICLES_SHORT, ARTICLES_FULL))
@@ -67,7 +73,7 @@ dewiki_noun_articles = pd.read_csv("data/dewiki-noun-articles.csv", sep="|")
 
 def get_lemmas_articles(nouns: pd.DataFrame):
     lemma = "lemma"
-    lemmas_initial = pd.DataFrame(nouns[lemma].map(mk_word))
+    lemmas_initial = pd.DataFrame(nouns[lemma].map(make_baseform))
     lemmas_with_articles = lemmas_initial.join(
         other=dewiki_noun_articles.set_index(lemma), on=lemma
     )
@@ -160,12 +166,11 @@ def update_lemmatized_sources():
 
 
 update_lemmatized_sources()
+
 # %%
 
 
-def update_word_lists():
-    # save all words
-
+def update_sources_words() -> pd.DataFrame():
     lyrics_lemmatized = pd.read_csv(PATH.SOURCES_LEMMATIZED, sep="|", index_col=0)
 
     texts = lyrics_lemmatized[["text"]]
@@ -179,13 +184,10 @@ def update_word_lists():
     words = words[["song_id", "word"]]
     words.to_csv(PATH.SOURCES_WORDS, sep="|")
 
-    words = words.loc[~words.duplicated("word"), ["word"]]
+    return pd.DataFrame(words.loc[~words.duplicated("word"), ["word"]])
 
-    is_lemma_cond = mk_is_lemma_cond(words["word"])
 
-    # update non-lemmas
-
-    words_not_lemmas_new = pd.DataFrame(words[~is_lemma_cond])
+def update_words_not_lemmas(words_not_lemmas_new: pd.DataFrame()):
     words_not_lemmas_existing = pd.read_csv(
         PATH.SOURCES_WORDS_NOT_LEMMAS, sep="|", index_col=0
     )
@@ -206,87 +208,55 @@ def update_word_lists():
 
     words_not_lemmas.to_csv(PATH.SOURCES_WORDS_NOT_LEMMAS, sep="|")
 
-    # update lemmas
+    return words_not_lemmas
 
-    lemmas_new = pd.DataFrame(words[is_lemma_cond])
-    lemmas_new = lemmas_new.rename(columns={"word": "lemma"})
 
+def copy_lemmas_from_words_not_lemmas_to_words_lemmas(
+    words_lemmas_new: pd.DataFrame(), words_not_lemmas: pd.DataFrame()
+):
     lemmas_existing = pd.read_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|", index_col=0)
 
-    lemmas = lemmas_new.join(
-        lemmas_existing.reset_index().set_index("lemma"),
-        how="outer",
+    words_lemmas_new = words_lemmas_new.join(
+        lemmas_existing.reset_index(drop=True).set_index("lemma"),
         on="lemma",
-        rsuffix="_r",
+    )
+    words_lemmas_new.index = words_lemmas_new.index.map(float)
+
+    lemmas_from_words_not_lemmas = pd.DataFrame(
+        words_not_lemmas.dropna()["lemma"].map(make_baseform)
     )
 
-    lemmas.loc[lemmas.index.notna(), "index"] = lemmas.index[lemmas.index.notna()]
-    lemmas = lemmas.reset_index(drop=True).set_index("index").rename_axis(index=None)
+    lemmas_from_words_not_lemmas = lemmas_from_words_not_lemmas[
+        mk_is_lemma_cond(lemmas_from_words_not_lemmas["lemma"])
+    ]
 
-    has_lemma_correct_cond = lemmas["lemma_correct"].notna()
-    lemmas = pd.concat(
-        [
-            lemmas[has_lemma_correct_cond],
-            lemmas[~has_lemma_correct_cond],
-        ]
-    )
+    words_lemmas = pd.concat(
+        [words_lemmas_new, lemmas_from_words_not_lemmas]
+    ).sort_index()
 
-    lemmas.to_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|")
+    words_lemmas = words_lemmas[~words_lemmas["lemma"].duplicated()]
 
+    words_lemmas.to_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|")
 
-update_word_lists()
-
-# %%
+    return words_lemmas
 
 
-def copy_lemmas_from_words_not_lemmas():
-    words_not_lemmas = pd.read_csv(PATH.SOURCES_WORDS_NOT_LEMMAS, sep="|", index_col=0)
-
-    words = pd.DataFrame(words_not_lemmas["lemma"].map(mk_word, na_action="ignore"))
-    lemmas_new = words[mk_is_lemma_cond(words["lemma"])]
-    lemmas_existing = pd.read_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|", index_col=0)
-
-    lemmas = pd.concat([lemmas_existing, lemmas_new])
-    lemmas.sort_index(inplace=True)
-    lemmas = lemmas[~lemmas["lemma"].isna()]
-    lemmas = lemmas[~lemmas.duplicated("lemma")]
-
-    lemmas.to_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|")
-
-
-copy_lemmas_from_words_not_lemmas()
-
-# %%
-
-
-def update_lemmas_correct():
-    # copy fixed lemmas
-    words_not_lemmas = pd.read_csv(PATH.SOURCES_WORDS_NOT_LEMMAS, sep="|", index_col=0)
-
-    words = pd.DataFrame(words_not_lemmas["lemma"].map(mk_word, na_action="ignore"))
-    lemmas_new = words[mk_is_lemma_cond(words["lemma"])]
-
-    lemmas_existing = pd.read_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|", index_col=0)
-
-    lemmas = pd.concat([lemmas_existing, lemmas_new])
-    lemmas.sort_index(inplace=True)
-    lemmas = lemmas[~lemmas["lemma"].isna()]
-    lemmas = lemmas[~lemmas.duplicated("lemma")]
-
-    nouns = lemmas[
-        lemmas.apply(
+def update_lemmas_correct(words_lemmas: pd.DataFrame, words_not_lemmas: pd.DataFrame):
+    nouns = words_lemmas[
+        words_lemmas.apply(
             lambda x: float(int(x.name)) == x.name
             and is_noun(str(x["lemma"]))
-            and is_noun(str(x["lemma_correct"])),
+            and (pd.isna(x["lemma_correct"]) or is_noun(str(x["lemma_correct"]))),
             axis=1,
         )
     ]
-    noun_articles = get_lemmas_articles(nouns)
-    nouns = nouns.join(noun_articles, rsuffix="_r")
+
+    nouns_articles = get_lemmas_articles(nouns)
+    nouns = nouns.join(nouns_articles, rsuffix="_r")
 
     nouns.drop(columns=["lemma_r"], inplace=True)
 
-    has_articles_cond = ~noun_articles["articles"].isna()
+    has_articles_cond = ~nouns_articles["articles"].isna()
     nouns.loc[has_articles_cond, "articles"] = nouns.loc[
         has_articles_cond, "articles"
     ].map(lambda x: x.split(DEWIKI_ARTICLES_SEP))
@@ -308,31 +278,45 @@ def update_lemmas_correct():
         lambda x: (
             x["articles"]
             if pd.isna(x["articles"])
-            else f"{ARTICLES_DICT[x["articles"]]} {mk_word(x["lemma"])}"
+            else f"{ARTICLES_DICT[x["articles"]]} {make_baseform(x["lemma"])}"
         ),
         axis=1,
     )
 
     nouns.drop(columns=["articles"], inplace=True)
 
-    lemmas = lemmas.join(nouns, how="outer", rsuffix="_r").sort_index()
+    words_lemmas = words_lemmas.join(nouns, how="outer", rsuffix="_r").sort_index()
 
-    has_lemma_cond = lemmas["lemma_r"].notna()
-    lemmas.loc[has_lemma_cond, ["lemma", "lemma_correct"]] = lemmas.loc[
+    has_lemma_cond = words_lemmas["lemma_correct_r"].notna()
+    words_lemmas.loc[has_lemma_cond, ["lemma", "lemma_correct"]] = words_lemmas.loc[
         has_lemma_cond, ["lemma_r", "lemma_correct_r"]
     ].values
 
-    lemmas.drop(columns=["lemma_r", "lemma_correct_r"], inplace=True)
+    words_lemmas.drop(columns=["lemma_r", "lemma_correct_r"], inplace=True)
 
-    no_lemma_correct_cond = lemmas["lemma_correct"].isna()
-    lemmas.loc[no_lemma_correct_cond, "lemma_correct"] = lemmas.loc[
+    no_lemma_correct_cond = words_lemmas["lemma_correct"].isna()
+    words_lemmas.loc[no_lemma_correct_cond, "lemma_correct"] = words_lemmas.loc[
         no_lemma_correct_cond, "lemma"
     ]
 
-    lemmas.to_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|")
+    words_lemmas.to_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|")
 
 
-update_lemmas_correct()
+def update_word_lists():
+    words = update_sources_words()
+    words_not_lemmas = update_words_not_lemmas(
+        words_not_lemmas_new=words[~mk_is_lemma_cond(words["word"])]
+    )
+    words_lemmas = copy_lemmas_from_words_not_lemmas_to_words_lemmas(
+        words_lemmas_new=words[mk_is_lemma_cond(words["word"])].rename(
+            columns={"word": "lemma"}
+        ),
+        words_not_lemmas=words_not_lemmas,
+    )
+    update_lemmas_correct(words_lemmas=words_lemmas, words_not_lemmas=words_not_lemmas)
+
+
+update_word_lists()
 
 # %%
 
@@ -392,8 +376,8 @@ def update_deck():
         idx_suffix = round(idx % 1, ndigits=4)
         if idx_suffix >= INDEX_SUFFIX.ALTERNATIVE_MEANING and (
             idx_rounded not in deck.index
-            or mk_word(deck.loc[idx, "word_de"])
-            != mk_word(deck.loc[idx_rounded, "word_de"])
+            or make_baseform(deck.loc[idx, "word_de"])
+            != make_baseform(deck.loc[idx_rounded, "word_de"])
         ):
             continue
         new_index.append(idx)
