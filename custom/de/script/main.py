@@ -46,8 +46,7 @@ class SENTENCE_LENGTH:
     MAX = 60
 
 
-# TODO "Morgen" at the beginning of a sentence -> "morgen"?
-def make_baseform(word: str):
+def make_baseform(word: str) -> str:
     # article
     if word in ARTICLES_FULL:
         return word
@@ -166,8 +165,16 @@ def update_sources_words() -> pd.DataFrame():
 
 
 def update_words_not_lemmas(words_not_lemmas_new: pd.DataFrame()):
+    if not Path(PATH.SOURCES_WORDS_NOT_LEMMAS).is_file():
+        pd.DataFrame(columns=["word", "lemma", "lemma_correct"]).to_csv(
+            PATH.SOURCES_WORDS_NOT_LEMMAS, sep="|"
+        )
+
     words_not_lemmas_existing = pd.read_csv(
-        PATH.SOURCES_WORDS_NOT_LEMMAS, sep="|", index_col=0
+        PATH.SOURCES_WORDS_NOT_LEMMAS,
+        sep="|",
+        index_col=0,
+        dtype={"word": str, "lemma": str, "lemma_correct": str},
     )
     words_not_lemmas = words_not_lemmas_new.join(
         other=words_not_lemmas_existing.set_index("word"), on="word"
@@ -184,9 +191,26 @@ def update_words_not_lemmas(words_not_lemmas_new: pd.DataFrame()):
         ]
     )
 
+    has_lemma_correct_cond = words_not_lemmas["lemma_correct"].notna()
+    words_not_lemmas.loc[~has_lemma_correct_cond, "lemma_correct"] = (
+        words_not_lemmas.loc[~has_lemma_correct_cond, "lemma"]
+    )
+
     words_not_lemmas.to_csv(PATH.SOURCES_WORDS_NOT_LEMMAS, sep="|")
 
     return words_not_lemmas
+
+
+# words: Puh
+# words-not-lemmas: Puh|puh
+# words-lemmas: puh|Puh
+# puh comes from words-not-lemmas because it isn't a lemma
+# hence, it's not available after join of words and words-lemmas
+
+# Allow custom lemmas in a separate file
+# words-not-lemmas-whitelist.csv
+# list only lemmas there
+# take indices from words-not-lemmas
 
 
 def copy_lemmas_from_words_not_lemmas_to_words_lemmas(
@@ -195,13 +219,20 @@ def copy_lemmas_from_words_not_lemmas_to_words_lemmas(
     words_lemmas_existing = pd.read_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|", index_col=0)
 
     words_lemmas_new = words_lemmas_new.join(
-        words_lemmas_existing.reset_index(drop=True).set_index("lemma"),
-        on="lemma",
+        words_lemmas_existing.reset_index(drop=True).set_index("lemma"), on="lemma"
     )
     words_lemmas_new.index = words_lemmas_new.index.map(float)
 
-    lemmas_from_words_not_lemmas = pd.DataFrame(
-        words_not_lemmas.dropna()["lemma"].map(make_baseform)
+    lemmas_from_words_not_lemmas = (
+        pd.DataFrame(
+            words_not_lemmas[["lemma", "lemma_correct"]],
+        )
+        .dropna()
+        .astype({"lemma": str, "lemma_correct": str})
+    )
+
+    lemmas_from_words_not_lemmas["lemma"] = lemmas_from_words_not_lemmas["lemma"].map(
+        make_baseform, na_action="ignore"
     )
 
     lemmas_from_words_not_lemmas = lemmas_from_words_not_lemmas[
@@ -212,7 +243,11 @@ def copy_lemmas_from_words_not_lemmas_to_words_lemmas(
         [words_lemmas_new, lemmas_from_words_not_lemmas]
     ).sort_index()
 
-    words_lemmas = words_lemmas[~words_lemmas["lemma"].duplicated()]
+    words_lemmas = words_lemmas[
+        ~words_lemmas["lemma_correct"]
+        .map(make_baseform, na_action="ignore")
+        .duplicated()
+    ]
 
     words_lemmas.to_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|")
 
@@ -271,11 +306,6 @@ def update_lemmas_correct(words_lemmas: pd.DataFrame) -> pd.DataFrame:
     ].values
 
     words_lemmas.drop(columns=["lemma_r", "lemma_correct_r"], inplace=True)
-
-    no_lemma_correct_cond = words_lemmas["lemma_correct"].isna()
-    words_lemmas.loc[no_lemma_correct_cond, "lemma_correct"] = words_lemmas.loc[
-        no_lemma_correct_cond, "lemma"
-    ]
 
     words_lemmas.to_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|")
 
