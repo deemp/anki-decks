@@ -78,7 +78,7 @@ def get_lemmas_articles(nouns: pd.DataFrame):
     return lemmas_with_articles
 
 
-def mk_is_lemma_cond(df: pd.DataFrame):
+def make_is_lemma_cond(df: pd.DataFrame):
     return df.isin(LEMMATA["lemma"]) | df.isin(DEWIKI_NOUN_ARTICLES["lemma"])
 
 
@@ -192,10 +192,10 @@ def update_words_not_lemmas(words_not_lemmas_new: pd.DataFrame()):
 def copy_lemmas_from_words_not_lemmas_to_words_lemmas(
     words_lemmas_new: pd.DataFrame(), words_not_lemmas: pd.DataFrame()
 ):
-    lemmas_existing = pd.read_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|", index_col=0)
+    words_lemmas_existing = pd.read_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|", index_col=0)
 
     words_lemmas_new = words_lemmas_new.join(
-        lemmas_existing.reset_index(drop=True).set_index("lemma"),
+        words_lemmas_existing.reset_index(drop=True).set_index("lemma"),
         on="lemma",
     )
     words_lemmas_new.index = words_lemmas_new.index.map(float)
@@ -205,7 +205,7 @@ def copy_lemmas_from_words_not_lemmas_to_words_lemmas(
     )
 
     lemmas_from_words_not_lemmas = lemmas_from_words_not_lemmas[
-        mk_is_lemma_cond(lemmas_from_words_not_lemmas["lemma"])
+        make_is_lemma_cond(lemmas_from_words_not_lemmas["lemma"])
     ]
 
     words_lemmas = pd.concat(
@@ -437,10 +437,10 @@ def update_word_lists():
     
     words = update_sources_words()
     words_not_lemmas = update_words_not_lemmas(
-        words_not_lemmas_new=words[~mk_is_lemma_cond(words["word"])]
+        words_not_lemmas_new=words[~make_is_lemma_cond(words["word"])]
     )
     words_lemmas = copy_lemmas_from_words_not_lemmas_to_words_lemmas(
-        words_lemmas_new=words[mk_is_lemma_cond(words["word"])].rename(
+        words_lemmas_new=words[make_is_lemma_cond(words["word"])].rename(
             columns={"word": "lemma"}
         ),
         words_not_lemmas=words_not_lemmas,
