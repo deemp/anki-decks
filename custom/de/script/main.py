@@ -282,6 +282,11 @@ def update_lemmas_correct(words_lemmas: pd.DataFrame) -> pd.DataFrame:
     return words_lemmas
 
 
+def write_deck(deck: pd.DataFrame()):
+    deck.to_csv(PATH.DECK, sep="|")
+    remove_separators_in_file(path=PATH.DECK, n=5)
+
+
 def copy_words_lemmas_to_deck(words_lemmas: pd.DataFrame()):
     deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
 
@@ -315,7 +320,7 @@ def copy_words_lemmas_to_deck(words_lemmas: pd.DataFrame()):
 
     deck = deck.loc[new_index]
 
-    deck.to_csv(PATH.DECK, sep="|")
+    write_deck(deck=deck)
 
     return deck
 
@@ -327,12 +332,12 @@ def update_deck_lemmatized_sentences(deck: pd.DataFrame()):
         not_lemmatized_cond, "sentence_de"
     ].map(tokenize_sentence, na_action="ignore")
 
-    deck.to_csv(PATH.DECK, sep="|")
+    write_deck(deck=deck)
 
     return deck
 
 
-def update_word_stats(deck=pd.DataFrame()):
+def update_word_counts(deck=pd.DataFrame()):
     deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
     words = pd.DataFrame(
         deck["sentence_lemmatized_de"]
@@ -349,10 +354,6 @@ def update_word_stats(deck=pd.DataFrame()):
 def check_is_correct_sentence(row: pd.Series(), word_stats: pd.DataFrame()) -> bool:
     word_de = make_baseform(row["word_de"])
 
-    is_correct_length = (
-        SENTENCE_LENGTH.MIN <= len(row["sentence_de"]) <= SENTENCE_LENGTH.MAX
-    )
-
     sentence_lemmatized_de = row["sentence_lemmatized_de"].split(LYRICS_LEMMATIZED_SEP)
 
     word_is_in_the_sentence = word_de in sentence_lemmatized_de
@@ -368,7 +369,7 @@ def check_is_correct_sentence(row: pd.Series(), word_stats: pd.DataFrame()) -> b
         (word_counts["word_de"] != word_de) & (word_counts["count"] <= MAX_OCCURENCES)
     )
 
-    result = is_correct_length & word_is_in_the_sentence & sentence_contains_rare_words
+    result = word_is_in_the_sentence & sentence_contains_rare_words
 
     # I subtract to correctly analyze other rows
     if not result:
@@ -378,19 +379,47 @@ def check_is_correct_sentence(row: pd.Series(), word_stats: pd.DataFrame()) -> b
     return result
 
 
-def partition_deck_simply(deck: pd.DataFrame()):
+def partition_deck_by_having_data(deck: pd.DataFrame()):
     has_data_cond = deck["part_of_speech"].notna()
     rows_with_data = deck[has_data_cond].sort_index()
     rows_without_data = deck[~has_data_cond].sort_index()
 
-    pd.concat([rows_with_data, rows_without_data]).to_csv(PATH.DECK, sep="|")
+    deck = pd.concat([rows_with_data, rows_without_data])
+
+    write_deck(deck=deck)
 
     return rows_with_data, rows_without_data
 
 
-def partition_deck_for_generation(deck: pd.DataFrame(), word_stats: pd.DataFrame()):
-    word_stats = pd.DataFrame(word_stats)
-    rows_with_data, rows_without_data = partition_deck_simply(deck=deck)
+def filter_deck_by_sentence_length(deck: pd.DataFrame()):
+    rows_with_data, rows_without_data = partition_deck_by_having_data(deck=deck)
+
+    is_good_sentence_length_cond = rows_with_data["sentence_de"].map(
+        lambda x: SENTENCE_LENGTH.MIN <= len(x) <= SENTENCE_LENGTH.MAX
+    )
+    rows_with_good_sentence_length = rows_with_data[is_good_sentence_length_cond]
+    rows_with_bad_sentence_length = pd.DataFrame(
+        rows_with_data.loc[
+            ~is_good_sentence_length_cond, ["word_de", "part_of_speech", "word_en"]
+        ]
+    )
+
+    rows_without_data = pd.concat(
+        [rows_with_bad_sentence_length, rows_without_data]
+    ).sort_index()
+
+    deck = pd.concat([rows_with_good_sentence_length, rows_without_data])
+
+    write_deck(deck=deck)
+
+    return deck
+
+
+def partition_deck_for_generation(deck: pd.DataFrame()):
+    deck = filter_deck_by_sentence_length(deck=deck)
+    deck = update_deck_lemmatized_sentences(deck=deck)
+    word_stats = update_word_counts(deck=deck)
+    rows_with_data, rows_without_data = partition_deck_by_having_data(deck=deck)
 
     # prefer removing rows with a larger index
     # to change rows with smaller index less frequently
@@ -419,22 +448,19 @@ def partition_deck_for_generation(deck: pd.DataFrame(), word_stats: pd.DataFrame
 
     deck = pd.concat([has_correct_sentence, rows_without_data])
 
-    deck.to_csv(PATH.DECK, sep="|")
+    write_deck(deck=deck)
 
     return deck
 
 
 def update_deck():
     deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
-    deck = update_deck_lemmatized_sentences(deck=deck)
-    word_stats = update_word_stats(deck=deck)
-    partition_deck_for_generation(deck=deck, word_stats=word_stats)
-    remove_separators_in_file(path=PATH.DECK, n=5)
+    partition_deck_for_generation(deck=deck)
 
 
 def update_word_lists():
     # Fix overwrites some custom values ("puh")
-    
+
     words = update_sources_words()
     words_not_lemmas = update_words_not_lemmas(
         words_not_lemmas_new=words[~make_is_lemma_cond(words["word"])]
@@ -449,8 +475,7 @@ def update_word_lists():
 
     deck = copy_words_lemmas_to_deck(words_lemmas=words_lemmas)
 
-    partition_deck_simply(deck=deck)
-    remove_separators_in_file(path=PATH.DECK, n=5)
+    filter_deck_by_sentence_length(deck=deck)
 
 
 def update_all():
@@ -505,7 +530,7 @@ update_dewiki_articles_dictionary()
 
 # %%
 
-update_word_stats()
+update_word_counts()
 
 # %%
 
