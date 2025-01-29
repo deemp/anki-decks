@@ -531,27 +531,3 @@ update_dewiki_articles_dictionary()
 # %%
 
 update_word_counts()
-
-# %%
-
-
-# %%
-
-
-def analyze_word_stats():
-    path = "data/not-in-deck.csv"
-    deck = pd.read_csv(path, sep="|", index_col=0)
-
-    word_count = pd.DataFrame(
-        deck.loc[:1782.001, "sentence_lemmatized_de"]
-        .map(lambda x: x.split(";"))
-        .explode()
-        .value_counts()
-    )
-
-    word_count["word_de"] = word_count.index
-
-    word_count.to_csv("data/word-statistics.csv", sep="|", index=None)
-
-
-analyze_word_stats()
