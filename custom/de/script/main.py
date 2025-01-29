@@ -62,7 +62,7 @@ def make_baseform(word: str):
                 break
         return word[k:]
     # anything else
-    return word.lower()
+    return word
 
 
 def is_noun(word: str):
