@@ -21,6 +21,7 @@ class PATH:
     DATA = PWD / "de-en" / "data"
     DECK = DE_EN / "deck.csv"
     EXTRA = DATA / "extra.csv"
+    GENERATION_DATA = DATA / "generation.csv"
 
 
 class DECK_PART_START_INDEX:
@@ -218,6 +219,27 @@ def add_rows_for_alternative_translations():
 
     extra = pd.concat([deck_custom_rows, extra_rows])
     extra.to_csv(PATH.EXTRA, sep="|")
+
+
+def copy_data_for_generation():
+    deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
+
+    columns = [
+        "word_de",
+        "part_of_speech_short",
+        "word_en",
+        "sentence_de",
+        "sentence_en",
+    ]
+    if not Path(PATH.GENERATION_DATA).is_file():
+        pd.DataFrame(columns=columns).to_csv(PATH.GENERATION_DATA, sep="|")
+
+    generation_data = pd.read_csv(PATH.GENERATION_DATA, sep="|", index_col=0)
+
+    generation_data[columns] = deck[columns]
+
+    generation_data.to_csv(PATH.GENERATION_DATA, sep="|")
+
 
 # %%
 
