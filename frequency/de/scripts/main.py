@@ -2,21 +2,222 @@
 
 import os
 import re
+from functools import cmp_to_key
+from pathlib import Path
 import pandas as pd
 from IPython.display import display
 
 os.chdir(f'{os.environ["ROOT_DIR"]}/frequency/de')
 
+# %%
+
 FREQUENCY_CUTOFF_1 = 1700
 FREQUENCY_CUTOFF_2 = 3400
 
 
+class PATH:
+    PWD = Path(".")
+    DE_EN = PWD / "de-en"
+    DATA = PWD / "de-en" / "data"
+    DECK = DE_EN / "deck.csv"
+    EXTRA = DATA / "extra.csv"
+
+
+class DECK_PART_START_INDEX:
+    P1 = 0
+    P2 = 1701
+    P3 = 3401
+
+
+class INDEX_SUFFIX:
+    ALTERNATIVE_MEANING = 0.001
+    NEW_WORD = 0.0001
+
+
+MAX_OCCURENCES = 5
+
+DEWIKI_NOUN_ARTICLES = pd.read_csv(
+    "../../custom/de/data/dewiki-noun-articles.csv", sep="|"
+)
+LEMMATA = pd.read_csv("../../custom/de/data/dwds_lemmata_2025-01-15.csv")
+
+
+def normalize_index_single(index: float):
+    return index if index % 1 != 0 else f"{int(index)}"
+
+
 def normalize_index(df: pd.DataFrame):
-    def go(index_val: float):
-        return index_val if index_val % 1 != 0 else f"{int(index_val)}"
+    df.index = df.index.map(normalize_index_single)
 
-    df.index = df.index.map(go)
 
+def remove_separators_in_file(path: Path, n: int):
+    with open(path, "r", encoding="UTF-8") as d:
+        deck_text = d.read()
+
+    with open(path, "w", encoding="UTF-8") as d:
+        d.write(deck_text.replace("|" * n, ""))
+
+
+def write_deck(deck: pd.DataFrame()):
+    normalize_index(deck)
+    deck.to_csv(PATH.DECK, sep="|")
+    remove_separators_in_file(path=PATH.DECK, n=5)
+
+
+def normalize_verb(x: pd.DataFrame):
+    word_en = x["word_en"]
+    return (
+        f"to {word_en}"
+        if x["part_of_speech"] == "verb"
+        and not pd.isna(word_en)
+        and not word_en.startswith("to ")
+        else word_en
+    )
+
+
+def cmp(x, y):
+    if x < y:
+        return -1
+    elif x > y:
+        return 1
+    else:
+        return 0
+
+
+def leq(x, y):
+
+    if int(x) != int(y):
+        return cmp(x, y)
+
+    x = round(x % 1, 6)
+    y = round(y % 1, 6)
+
+    if x == 0 or y == 0:
+        return cmp(x, y)
+
+    while x < 1 and y < 1:
+        x *= 10
+        y *= 10
+
+    if x >= 1 and y >= 1:
+        return cmp(x, y)
+    else:
+        return cmp(y, x)
+
+
+def add_rows_for_alternative_translations():
+    deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
+
+    custom_row_cond = deck.index.map(
+        lambda x: INDEX_SUFFIX.NEW_WORD
+        <= round(x % 1, ndigits=4)
+        < INDEX_SUFFIX.ALTERNATIVE_MEANING
+    )
+    deck_custom_rows = deck[custom_row_cond]
+    deck_not_custom_rows = deck[~custom_row_cond]
+
+    multiple_translations_cond = deck_not_custom_rows["word_translations_en"].map(
+        lambda x: pd.notna(x) and "," in x,
+    )
+    deck_single_translation_rows = deck_not_custom_rows[~multiple_translations_cond]
+    deck_multiple_translations_rows = pd.DataFrame(
+        deck_not_custom_rows[multiple_translations_cond]
+    )
+    deck_multiple_translations_rows["word_en"] = deck_multiple_translations_rows.apply(
+        normalize_verb, axis=1
+    )
+
+    main_translation_cond = deck_multiple_translations_rows.index.map(
+        lambda x: round(x % 1, ndigits=4) == 0
+    )
+    deck_main_translation_rows = deck_multiple_translations_rows[main_translation_cond]
+
+    deck_all_translations_rows = pd.DataFrame(deck_main_translation_rows)
+    deck_all_translations_rows["word_en"] = deck_all_translations_rows[
+        "word_translations_en"
+    ].map(lambda x: [y.strip() for y in x.split(",")], na_action="ignore")
+    deck_all_translations_rows = deck_all_translations_rows.explode("word_en")
+    deck_all_translations_rows["word_en"] = deck_all_translations_rows.apply(
+        normalize_verb, axis=1
+    )
+
+    index_new = []
+    counts = {}
+    for idx in deck_all_translations_rows.index:
+        if idx not in counts:
+            counts[idx] = 0
+            index_new.append(idx)
+        else:
+            counts[idx] += 1
+            index_new.append(idx + INDEX_SUFFIX.ALTERNATIVE_MEANING * counts[idx])
+
+    deck_all_translations_rows.index = index_new
+
+    extra_rows = deck_all_translations_rows[
+        deck_all_translations_rows.index.map(lambda x: False)
+    ]
+
+    for idx in deck_main_translation_rows.index:
+        block_all_translations_cond = (idx <= deck_all_translations_rows.index) & (
+            deck_all_translations_rows.index < idx + 1
+        )
+
+        block_all_translations = deck_all_translations_rows.loc[
+            block_all_translations_cond
+        ]
+
+        block_existing_translations = deck_multiple_translations_rows.loc[
+            (idx <= deck_multiple_translations_rows.index)
+            & (deck_multiple_translations_rows.index < idx + 1)
+        ]
+
+        block_existing_translations = block_existing_translations[
+            ~block_existing_translations.index.duplicated()
+        ]
+
+        block_existing_translations_unique = block_existing_translations[
+            ["word_en", "sentence_de", "sentence_en"]
+        ].set_index("word_en")
+
+        block_existing_translations_unique = block_existing_translations_unique[
+            ~block_existing_translations_unique.index.duplicated()
+        ]
+
+        block_all_translations = block_all_translations.join(
+            block_existing_translations_unique,
+            on="word_en",
+            rsuffix="_r",
+        )
+
+        block_all_translations.loc[:, ["sentence_de", "sentence_en"]] = (
+            block_all_translations.loc[:, ["sentence_de_r", "sentence_en_r"]].values
+        )
+
+        block_all_translations.drop(
+            columns=["sentence_de_r", "sentence_en_r"], inplace=True
+        )
+
+        deck_all_translations_rows.loc[block_all_translations_cond] = (
+            block_all_translations
+        )
+
+        block_extra_translations = block_existing_translations[
+            ~block_existing_translations["sentence_de"].isin(
+                block_all_translations["sentence_de"]
+            )
+        ]
+
+        extra_rows = pd.concat([extra_rows, block_extra_translations])
+
+    deck_updated = pd.concat([deck_single_translation_rows, deck_all_translations_rows])
+
+    sorted_index = pd.Index(sorted(deck_updated.index, key=cmp_to_key(leq)))
+    deck_updated = deck_updated.reindex(sorted_index)
+
+    write_deck(deck=deck_updated)
+
+    extra = pd.concat([deck_custom_rows, extra_rows])
+    extra.to_csv(PATH.EXTRA, sep="|")
 
 # %%
 
