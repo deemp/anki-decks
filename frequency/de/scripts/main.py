@@ -23,9 +23,10 @@ class PATH:
     DATA = PWD / "de-en" / "data"
     DECK = DE_EN / "deck.csv"
     EXTRA = DATA / "extra.csv"
-    GENERATION_DATA = DATA / "generation.csv"
+    DECK_RAW = DATA / "deck-raw.csv"
     WORD_COUNT = DATA / "word-count.csv"
     WORDS_BAD_BASEFORM = DATA / "words-bad-baseform.csv"
+    WORDS_TOO_FREQUENT = DATA / "words-too-frequent.csv"
 
 
 class DECK_PART_START_INDEX:
@@ -55,7 +56,7 @@ ARTICLES_FULL = ["die", "der", "das"]
 
 LEMMATIZED_SEP = ";"
 
-MAX_OCCURENCES = 5
+MAX_OCCURENCES = 4
 
 
 def normalize_index_single(index: float):
@@ -66,23 +67,28 @@ def normalize_index(df: pd.DataFrame):
     df.index = df.index.map(normalize_index_single)
 
 
-def remove_separators_in_file(path: Path, n: int):
+def remove_separators_in_file(path: Path):
     with open(path, "r", encoding="UTF-8") as d:
-        deck_text = d.read()
+        deck_lines = d.readlines()
+
+    for i, line in enumerate(deck_lines):
+        for j in range(1, 10):
+            if line[-j] not in ["|", "\n"]:
+                deck_lines[i] = line[: -j + 1] + "\n"
+                break
 
     with open(path, "w", encoding="UTF-8") as d:
-        d.write(deck_text.replace("|" * n, ""))
-
+        d.writelines(deck_lines)
 
 def write_deck(deck: pd.DataFrame()):
     normalize_index(deck)
     deck.to_csv(PATH.DECK, sep="|")
-    remove_separators_in_file(path=PATH.DECK, n=5)
+    remove_separators_in_file(path=PATH.DECK)
 
 
 def write_gen_data(gen_data: pd.DataFrame()):
-    gen_data.to_csv(PATH.GENERATION_DATA, sep="|")
-    remove_separators_in_file(path=PATH.GENERATION_DATA, n=3)
+    gen_data.to_csv(PATH.DECK_RAW, sep="|")
+    remove_separators_in_file(path=PATH.DECK_RAW)
 
 
 def normalize_verb(x: pd.DataFrame):
@@ -241,7 +247,7 @@ def add_rows_for_alternative_translations():
     extra.to_csv(PATH.EXTRA, sep="|")
 
 
-def copy_data_for_generation():
+def copy_deck_to_deck_raw():
     deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
 
     columns = [
@@ -249,18 +255,18 @@ def copy_data_for_generation():
         "part_of_speech",
         "word_en",
     ]
-    if not Path(PATH.GENERATION_DATA).is_file():
-        pd.DataFrame(columns=columns).to_csv(PATH.GENERATION_DATA, sep="|")
+    if not Path(PATH.DECK_RAW).is_file():
+        pd.DataFrame(columns=columns).to_csv(PATH.DECK_RAW, sep="|")
 
-    generation_data = pd.read_csv(PATH.GENERATION_DATA, sep="|", index_col=0)
+    deck_raw = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
 
-    deck_missing_rows = deck.loc[~deck.index.isin(generation_data.index), columns]
+    deck_missing_rows = deck.loc[~deck.index.isin(deck_raw.index), columns]
 
-    generation_data.loc[:, columns] = deck.loc[generation_data.index, columns].values
+    deck_raw.loc[:, columns] = deck.loc[deck_raw.index, columns].values
 
-    generation_data = pd.concat([generation_data, deck_missing_rows])
+    deck_raw = pd.concat([deck_raw, deck_missing_rows])
 
-    write_gen_data(gen_data=generation_data)
+    write_gen_data(gen_data=deck_raw)
 
 
 def make_baseform(word: str) -> str:
@@ -330,7 +336,10 @@ def update_word_counts(gen_data=pd.DataFrame()):
 
 
 def check_is_correct_sentence(
-    row: pd.Series(), word_stats: pd.DataFrame(), words_bad_wordforms: pd.DataFrame()
+    row: pd.Series(),
+    word_stats: pd.DataFrame(),
+    words_bad_wordforms: pd.DataFrame(),
+    words_too_frequent: pd.DataFrame(),
 ) -> bool:
     word_de = row["word_de"]
     word_de = (
@@ -360,7 +369,10 @@ def check_is_correct_sentence(
         (word_counts["word_de"] != word_de) & (word_counts["count"] <= MAX_OCCURENCES)
     )
 
+    # sentence_contains_no_too_frequent_words = [x for x in sentence_lemmatized_de if x in words_too_frequent.index] == []
+
     result = sentence_contains_rare_words & word_is_in_the_sentence
+    # & sentence_contains_no_too_frequent_words
 
     # I subtract to correctly analyze other rows
     if not result:
@@ -419,7 +431,7 @@ def filter_gen_data_by_sentence_length(gen_data: pd.DataFrame()):
     return gen_data
 
 
-def partition_gen_data_for_generation(gen_data: pd.DataFrame()):
+def partition_deck_raw(gen_data: pd.DataFrame()):
     gen_data = filter_gen_data_by_sentence_length(gen_data=gen_data)
     gen_data = update_gen_data_lemmatized_sentences(gen_data=gen_data)
     word_stats = update_word_counts(gen_data=gen_data)
@@ -428,6 +440,7 @@ def partition_gen_data_for_generation(gen_data: pd.DataFrame()):
     )
 
     words_bad_wordforms = pd.read_csv(PATH.WORDS_BAD_BASEFORM, sep="|", index_col=0)
+    words_too_frequent = pd.read_csv(PATH.WORDS_TOO_FREQUENT, sep="|", index_col=0)
 
     # prefer removing rows with a larger index
     # to change rows with smaller index less frequently
@@ -441,7 +454,10 @@ def partition_gen_data_for_generation(gen_data: pd.DataFrame()):
         rows_with_data.iloc[::-1]
         .apply(
             lambda row: check_is_correct_sentence(
-                row=row, word_stats=word_stats, words_bad_wordforms=words_bad_wordforms
+                row=row,
+                word_stats=word_stats,
+                words_bad_wordforms=words_bad_wordforms,
+                words_too_frequent=words_too_frequent,
             ),
             axis=1,
         )
@@ -467,16 +483,37 @@ def partition_gen_data_for_generation(gen_data: pd.DataFrame()):
 
 
 def update_gen_data():
-    gen_data = pd.read_csv(PATH.GENERATION_DATA, sep="|", index_col=0)
-    partition_gen_data_for_generation(gen_data=gen_data)
+    gen_data = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
+    partition_deck_raw(gen_data=gen_data)
+
+
+def copy_generated_to_deck():
+    gen_data = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
+    deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
+    has_sentence_cond = gen_data["sentence_de"].notna()
+    columns = ["sentence_de", "sentence_en", "sentence_lemmatized_de"]
+
+    display(
+        deck.index[~deck.index.isin(gen_data.index)],
+        gen_data.index[~gen_data.index.isin(deck.index)],
+    )
+
+    deck.loc[has_sentence_cond, columns] = gen_data.loc[
+        has_sentence_cond, columns
+    ].values
+
+    write_deck(deck=deck)
 
 
 # %%
-copy_data_for_generation()
+copy_deck_to_deck_raw()
 
 # %%
 update_gen_data()
 
+# %%
+
+copy_generated_to_deck()
 # %%
 
 
