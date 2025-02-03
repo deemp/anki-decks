@@ -1,5 +1,5 @@
 |word_de|part_of_speech|word_en|sentence_de|sentence_en|sentence_lemmatized_de
-0.0|die|article|the|Die Masse beeinflusst die Beschleunigung eines Körpers.|The mass influences the acceleration of a body.|der;Masse;beeinflussen;der;Beschleunigung;ein;Körper
+0.0|die|article|the|Die Zellen im Körper haben unterschiedliche Funktionen.|The cells in the body have different functions.|der;Zelle;in;Körper;haben;unterschiedlich;Funktion
 1.0|der|pronoun|the one|Der, der immer lacht, wird bald aufhören.|The one who always laughs will stop soon.|der;der;immer;lachen;werden;bald;aufhören
 1.001|der|pronoun|that|Der Mann, der dort steht, ist mein Nachbar.|The man that is standing there is my neighbor.|der;Mann;der;dort;stehen;sein;mein;Nachbar
 1.002|der|pronoun|those|Ich habe all die Bücher gesehen, die du magst.|I saw all those books you like.|ich;haben;all;der;Buch;sehen;der;du;magen
@@ -19,7 +19,7 @@
 11.001|sie|pronoun|her|Er gab ihr das Geschenk und sie lächelte zufrieden.|He gave her the gift and she smiled happily.|er;geben;ihr;der;Geschenk;und;sie;lächeln;zufrieden
 12.0|sie|pronoun|they|Sie haben das neue Restaurant ausprobiert.|They tried the new restaurant.|sie;haben;der;neu;Restaurant;ausprobieren
 12.001|sie|pronoun|them|Ich habe sie nicht gehört, als sie riefen.|I didn’t hear them when they called.|ich;haben;sie;nicht;hören;als;sie;rufen
-13.0|Sie|pronoun|you|Sie messen die Geschwindigkeit der Teilchen.|You measure the velocity of the particles.|sie;messen;der;Geschwindigkeit;der;Teilchum
+13.0|Sie|pronoun|you|Sie sollten Ihre Medikamente regelmäßig einnehmen.|You should take your medications regularly.|sie;sollen;ihr;Medikament;regelmäßig;einnehmen
 14.0|werden (Futur)|auxiliary verb|(future tense)|Wir werden morgen die Ausstellung besuchen.|We will visit the exhibition tomorrow.|wir;werden;morgen;der;Ausstellung;besuchen
 15.0|werden (Passivform)|auxiliary verb|(passive voice)|Die Ergebnisse werden in Kürze veröffentlicht.|The results will be published shortly.|der;Ergebnis;werden;in;Kürze;veröffentlichen
 16.0|werden|verb|to become|Er wird bald der Direktor des Instituts.|He will soon become the director of the institute.|er;werden;bald;der;Direktor;der;Institut
@@ -49,8 +49,8 @@
 33.0|als|particle|than|Das Problem ist größer, als wir zunächst angenommen hatten.|The problem is bigger than we initially thought.|der;Problem;sein;groß;als;wir;zunächst;annehmen;haben
 34.0|können|verb|to be able to|Er kann endlich seine Träume verwirklichen.|He is finally able to make his dreams come true.|er;können;endlich;sein;Traum;verwirklichen
 34.001|können|verb|to can|Er kann nicht kommen, weil er krank ist.|He cannot come because he is sick.|er;können;nicht;kommen;weil;er;krank;sein
-35.0|dies|pronoun|this|Dies erklärt die Beschleunigung bei konstantem Kraftaufwand.|This explains acceleration under constant force.|dieser;erklären;der;Beschleunigung;bei;konstant;Kraftaufwand
-35.001|dies|pronoun|that|Dies ist das Enzym, das die Zellteilung reguliert.|This is the enzyme that regulates cell division.|dieser;sein;der;Enzym;der;der;Zellteilung;regulieren
+35.0|dies|pronoun|this|Dies ist eine neue Entdeckung in der Molekularbiologie.|This is a new discovery in molecular biology.|dieser;sein;ein;neu;Entdeckung;in;der;Molekularbiologie
+35.001|dies|pronoun|that|Dies ist ein wichtiges Konzept in der Immunologie.|That is an important concept in immunology.|dieser;sein;ein;wichtig;Konzept;in;der;Immunologie
 36.0|wie|particle|as|Er arbeitet genauso hart wie sein Bruder.|He works as hard as his brother.|er;arbeiten;genauso;hart;wie;sein;Bruder
 37.0|wie|pronoun|how|Weißt du, wie man diesen Computer repariert?|Do you know how to fix this computer?|Weißt;du;wie;man;dieser;Computer;reparieren
 38.0|wir|pronoun|we|Wir haben uns entschieden, den Park zu besuchen.|We decided to visit the park.|wir;haben;sich;entscheiden;der;Park;zu;besuchen
@@ -60,7 +60,7 @@
 39.003|ihr|pronoun|theirs|Das ist ihr Haus, das sie gerade renovieren.|That house is theirs, the one they're currently renovating.|der;sein;ihr;Haus;der;sie;gerade;renovieren
 40.0|ihr|pronoun|you|Ihr habt das Ziel in Rekordzeit erreicht.|You reached the goal in record time.|ihr;haben;der;Ziel;in;Rekordzeit;erreichen
 40.001|ihr|pronoun|her|Ich kenne ihre Geschichte und finde sie sehr berührend.|I know her story, and I find it very touching.|ich;kennen;ihr;Geschichte;und;finden;sie;sehr;berührend
-41.0|Ihr|pronoun|your|Ihr Experiment misst die Geschwindigkeit von Elektronen.|Your experiment measures the speed of electrons.|ihr;Experiment;missen;der;Geschwindigkeit;von;Elektron
+41.0|Ihr|pronoun|your|Ihr Herz pumpt täglich Millionen von Litern Blut.|Your heart pumps millions of liters of blood daily.|ihr;Herz;pumpen;täglich;Million;von;Liter;Blut
 42.0|so|adverb|thus|Sie reagierte so schnell, dass ich kaum mitkam.|She reacted so quickly that I could barely keep up.|sie;reagieren;so;schnell;dass;ich;kaum;mitkommen
 42.001|so|adverb|the way|So, wie er spricht, könnte er ein Redner werden.|The way he speaks, he could become a speaker.|so;wie;er;sprechen;können;er;ein;Redner;werden
 42.002|so|adverb|such|Er hat so viel Arbeit, dass er kaum schlafen kann.|He has so much work that he can hardly sleep.|er;haben;so;viel;Arbeit;dass;er;kaum;schlafen;können
@@ -99,7 +99,7 @@
 61.002|um|preposition|about|Wir haben um den richtigen Zeitpunkt gestritten.|We argued about the right timing.|wir;haben;um;der;richtig;Zeitpunkt;streiten
 62.0|ja|particle|yes|Ja, ich habe die E-Mail schon beantwortet.|Yes, I've already answered the email.|ja;ich;haben;der;E-Mail;schon;beantworten
 62.001|ja|particle|of course|Du weißt ja, dass er immer pünktlich ist.|You know, of course, that he is always on time.|du;weißen;ja;dass;er;immer;pünktlich;sein
-63.0|keine|pronoun|no (one)|Keine Kraft wirkt auf den ruhenden Körper.|No force acts on the stationary body.|kein;Kraft;wirken;auf;der;ruhend;Körper
+63.0|keine|pronoun|no (one)|Es gibt keine bekannten Nebenwirkungen dieses Medikaments.|There are no known side effects of this medication.|es;geben;kein;bekannt;Nebenwirkung;dieser;Medikament
 64.0|über|preposition|above|Die Lampe hängt über dem großen Esstisch.|The lamp hangs above the large dining table.|der;Lampe;hängen;über;der;groß;Esstisch
 64.001|über|preposition|over|Der Vogel flog über das Dach, bevor er verschwand.|The bird flew over the roof before it disappeared.|der;Vogel;fliegen;über;der;Dach;bevor;er;verschwinden
 64.002|über|preposition|about|Das Buch handelt über die Geschichte Europas.|The book is about the history of Europe.|der;Buch;handeln;über;der;Geschichte;Europa
@@ -121,7 +121,7 @@
 75.0|wollen|verb|to want to|Sie wollen bald eine Reise nach Japan machen.|They want to take a trip to Japan soon.|sie;wollen;bald;ein;Reise;nach;Japan;machen
 76.0|machen|verb|to do|Er wollte etwas Besonderes für sie machen.|He wanted to do something special for her.|er;wollen;etwas;Besonderes;für;sie;machen
 76.001|machen|verb|to make|Er wollte einen Unterschied machen und die Dinge verändern.|He wanted to make a difference and change things.|er;wollen;ein;Unterschied;machen;und;der;Ding;verändern
-77.0|andere|pronoun|other|Die anderen Teilchen bewegen sich schneller.|The other particles move faster.|der;anderer;Teilchum;bewegen;sich;schnell
+77.0|andere|pronoun|other|Andere Zellen im Körper reagieren unterschiedlich auf Viren.|Other cells in the body react differently to viruses.|anderer;Zelle;in;Körper;reagieren;unterschiedlich;auf;Viro
 78.0|sollen|verb|to should|Wir sollten sicherstellen, dass alles korrekt ist.|We should ensure everything is correct. |wir;sollen;sicherstellen;dass;alle;korrekt;sein
 78.001|sollen|verb|to ought to|Wir sollen das Projekt bis Freitag abschließen.|We ought to finish the project by Friday.|wir;sollen;der;Projekt;bis;Freitag;abschließen
 79.0|schon|adverb|already|Ich habe das Buch schon zweimal gelesen.|I have already read the book twice.|ich;haben;der;Buch;schon;zweimal;lesen
@@ -166,7 +166,7 @@
 109.0|neu|adjective|new|Das neue Restaurant hat ein innovatives Menü.|The new restaurant has an innovative menu.|der;neu;Restaurant;haben;ein;innovativ;Menü
 110.0|stehen|verb|to stand|Er stand lange am Fenster und schaute nach draußen.|He stood by the window for a long time, looking outside.|er;stehen;lange;an;Fenster;und;schauen;nach;draußen
 111.0|unser|pronoun|our|Unser Team hat die höchste Punktzahl erreicht.|Our team achieved the highest score.|unser;Team;haben;der;hoch;Punktzahl;erreichen
-112.0|jede|pronoun|every|Jede Kraft hat eine unterschiedliche Wirkung auf den Körper.|Every force has a different effect on the body.|jeder;Kraft;haben;ein;unterschiedlich;Wirkung;auf;der;Körper
+112.0|jede|pronoun|every|Jede Zelle hat eine spezifische Funktion im Körper.|Every cell has a specific function in the body.|jeder;Zelle;haben;ein;spezifisch;Funktion;in;Körper
 113.0|weil|conjunction|because|Ich bleibe zu Hause, weil ich mich nicht gut fühle.|I’m staying at home because I don’t feel well.|ich;bleiben;zu;Haus;weil;ich;sich;nicht;gut;fühlen
 114.0|unter|preposition|under|Der Hund lag unter dem Tisch, um sich auszuruhen.|The dog lay under the table to rest.|der;Hund;liegen;unter;der;Tisch;um;sich;ausruhen
 115.0|der Mensch|noun|human being|Der Mensch ist von Natur aus neugierig und erfindungsreich.|The human being is naturally curious and inventive.|der;Mensch;sein;von;Natur;aus;neugierig;und;erfindungsreich
@@ -175,7 +175,7 @@
 118.0|denn|conjunction|because|Er ist müde, denn er hat nicht geschlafen.|He’s tired because he didn’t sleep.|er;sein;müde;denn;er;haben;nicht;schlafen
 119.0|denn|particle|anyway|Wir können den Termin verschieben, denn es gibt keine Eile.|We can postpone the meeting anyway, as there is no rush.|wir;können;der;Termin;verschieben;denn;es;geben;kein;Eile
 120.0|das Beispiel|noun|example|Das Beispiel zeigt, wie man eine Matrix transponiert.|The example shows how to transpose a matrix.|der;Beispiel;zeigen;wie;man;ein;Matrix;transponieren
-121.0|erste|adjective|first|Die erste Bewegung zeigt die Wechselwirkung der Kräfte.|The first movement shows the interaction of forces.|der;erster;Bewegung;zeigen;der;Wechselwirkung;der;Kraft
+121.0|erste|adjective|first|Die erste Immunantwort ist entscheidend für den Schutz.|The first immune response is crucial for protection.|der;erster;Immunantwort;sein;entscheidend;für;der;Schutz
 122.0|die Zeit|noun|time|Die Zeit vergeht schnell, wenn man in etwas vertieft ist.|Time passes quickly when you are immersed in something.|der;Zeit;vergehen;schnell;wenn;man;in;etwas;vertiefen;sein
 123.0|lang|adjective|long|Es war ein langer Tag, und ich war erschöpft.|It was a long day, and I was exhausted.|es;sein;ein;lang;Tag;und;ich;sein;erschöpft
 124.0|lang|adverb|for a long time|Er hatte lange Zeit nach einem passenden Ort gesucht.|He had searched for a suitable place for a long time.|er;haben;lang;Zeit;nach;ein;passend;Ort;suchen
@@ -189,8 +189,8 @@
 128.0|selbst|particle|even|Er hat selbst die komplexeste Aufgabe erledigt.|He even completed the most complex task.|er;haben;selbst;der;komplexe;Aufgabe;erledigen
 129.0|selbst|pronoun|-self|Sie tat alles selbst, ohne um Hilfe zu bitten.|She did everything by herself without asking for help.|sie;tun;alle;selbst;ohne;um;Hilfe;zu;bitten
 130.0|wenig|adjective|few|Es gab nur wenig Zeit, um das Projekt zu vollenden.|There was little time to finish the project.|es;geben;nur;wenig;Zeit;um;der;Projekt;zu;vollenden
-131.0|wenige|pronoun|little|Wenige Patienten zeigen eine positive Reaktion.|Few patients show a positive reaction.|weniger;Patient;zeigen;ein;positiv;Reaktion
-131.001|wenige|pronoun|few|Nur wenige Teilchen haben genug Energie, um zu entweichen.|Few particles have enough energy to escape.|nur;weniger;Teilchen;haben;genug;Energie;um;zu;entweichen
+131.0|wenige|pronoun|little|Es gibt nur wenige Beweise für die Hypothese.|There is little evidence for the hypothesis.|es;geben;nur;weniger;Beweis;für;der;Hypothese
+131.001|wenige|pronoun|few|Nur wenige Patienten zeigten eine Reaktion auf die Therapie.|Few patients showed a response to the therapy.|nur;weniger;Patient;zeigen;ein;Reaktion;auf;der;Therapie
 132.0|finden|verb|to find|Ich konnte keinen Platz finden, um das Auto zu parken.|I couldn’t find a place to park the car.|ich;können;kein;Platz;finden;um;der;Auto;zu;parken
 133.0|gegen|preposition|against|Er kämpfte gegen die stärksten Gegner der Welt.|He fought against the strongest opponents in the world.|er;kämpfen;gegen;der;stärk;Gegner;der;Welt
 134.0|zwischen|preposition|between|Die Grenze liegt zwischen den beiden Ländern.|The border lies between the two countries.|der;Grenze;liegen;zwischen;der;beide;Land
@@ -219,7 +219,7 @@
 154.0|tun|verb|to do|Was soll ich tun, wenn der Computer nicht startet?|What should I do if the computer doesn’t start?|was;sollen;ich;tun;wenn;der;Computer;nicht;starten
 155.0|einmal|adverb|once|Ich war einmal in Paris und es war wunderschön.|I was once in Paris and it was beautiful.|ich;sein;einmal;in;Paris;und;es;sein;wunderschön
 156.0|ihnen|pronoun|them|Ich habe ihnen die Neuigkeiten mitgeteilt.|I shared the news with them.|ich;haben;ihnen;der;Neuigkeit;mitteilen
-157.0|Ihnen|pronoun|you|Ich werde Ihnen die neuesten Daten zusenden.|I will send you the latest data.|ich;werden;ihnen;der;neu;Datum;zusenden
+157.0|Ihnen|pronoun|you|Ich habe Ihnen die neuesten Forschungsergebnisse gesendet.|I have sent you the latest research findings.|ich;haben;ihnen;der;neu;Forschungsergebnis;senden
 158.0|heißen|verb|to be called|Mein Hund heißt Max und ist sehr verspielt.|My dog is called Max and is very playful.|mein;Hund;heißen;Max;und;sein;sehr;verspielen
 159.0|ob|conjunction|whether|Ich weiß nicht, ob er die Einladung erhalten hat.|I don’t know whether he received the invitation.|ich;wissen;nicht;ob;er;der;Einladung;erhalten;haben
 159.001|ob|conjunction|if|Ich frage mich, ob er heute zur Party kommt.|I wonder if he is coming to the party today.|ich;fragen;sich;ob;er;heute;zu;Party;kommen
@@ -247,8 +247,8 @@
 172.0|natürlich|adverb|naturally|Das war natürlich eine unerwartete Überraschung.|That was naturally an unexpected surprise.|der;sein;natürlich;ein;unerwartet;Überraschung
 172.001|natürlich|adverb|of course|Er kam zu spät, aber natürlich entschuldigte er sich.|He came late, but of course, he apologized.|er;kommen;zu;spät;aber;natürlich;entschuldigen;er;sich
 173.0|alt|adjective|old|Das alte Buch hatte einen einzigartigen Geruch.|The old book had a unique smell.|der;alt;Buch;haben;ein;einzigartig;Geruch
-174.0|dort drüben|adverb|over there|Das Experiment findet dort drüben im Labor statt.|The experiment is taking place over there in the lab.|der;Experiment;stattfinden;dort;drüben;in;Labor;statt
-174.001|dort drüben|adverb|there|Der Wert der Spannung ist dort drüben messbar.|The voltage value is measurable there.|der;Wert;der;Spannung;sein;dort;drüben;messbar
+174.0|dort drüben|adverb|over there|Dort drüben sehen wir die Zellwand in der Mikroskopaufnahme.|Over there, we see the cell wall in the microscope image.|dort;drüben;sehen;wir;der;Zellwand;in;der;Mikroskopaufnahme
+174.001|dort drüben|adverb|there|Dort drüben beginnt der experimentelle Bereich.|There, the experimental area begins.|dort;drüben;beginnen;der;experimentell;Bereich
 175.0|Deutschland|noun|Germany|Deutschland hat eine reiche Geschichte und Kultur.|Germany has a rich history and culture.|Deutschland;haben;ein;reich;Geschichte;und;Kultur
 176.0|gleich|adjective|same|Wir verwenden die gleiche Methode, um das Problem zu lösen.|We use the same method to solve the problem.|wir;verwenden;der;gleich;Methode;um;der;Problem;zu;lösen
 176.001|gleich|adjective|right away|Ich komme gleich, warte noch eine Sekunde!|I’ll be there right away, wait a second!|ich;gleichkommen;gleich;warten;noch;ein;Sekunde
@@ -274,7 +274,7 @@
 187.001|eigentlich|adjective|real|Die eigentliche Todesursache ist unbekannt.|The actual cause of death is unknown.|der;eigentlich;Todesursache;sein;unbekannt
 188.0|eigentlich|adverb|actually|Eigentlich wollte ich heute Abend ausgehen.|Actually, I wanted to go out tonight.|eigentlich;wollen;ich;heute;Abend;ausgehen
 189.0|eigentlich|particle||Eigentlich war die Software bereits vor einer Woche fertig.|Actually, the software was ready a week ago.|eigentlich;sein;der;Software;bereits;vor;ein;Woche;fertig
-190.0|letzte|adjective|last|Die letzte Messung zeigt eine abnehmende Spannung.|The last measurement shows a decreasing voltage.|der;letzter;Messung;zeigen;ein;abnehmend;Spannung
+190.0|letzte|adjective|last|Die letzte Studie zeigte einen Anstieg der Genexpression.|The last study showed an increase in gene expression.|der;letzter;Studie;zeigen;ein;Anstieg;der;Genexpression
 191.0|fragen|verb|to ask|Du solltest den Lehrer fragen, ob er dir helfen kann.|You should ask the teacher if he can help you.|du;solltest;der;Lehrer;fragen;ob;er;dir;helfen;können
 192.0|der Herr|noun|Mr.|Herr Müller ist der Lehrer unserer Klasse.|Mr. Müller is the teacher of our class.|Herr;Müller;sein;der;Lehrer;unser;Klasse
 193.0|halten|verb|to stop|Der Bus hält an der nächsten Haltestelle.|The bus stops at the next stop.|der;Bus;halten;an;der;nächster;Haltestelle
@@ -320,8 +320,8 @@
 223.0|etwa|adverb|about|Etwa 20% der Teilnehmer zeigten eine positive Reaktion.|About 20% of the participants showed a positive reaction.|etwa;20;%;der;Teilnehmer;zeigen;ein;positiv;Reaktion
 223.001|etwa|adverb|approximately|Es dauert etwa zwei Stunden, um dorthin zu fahren.|It takes approximately two hours to get there.|es;dauern;etwa;zwei;Stunde;um;dorthin;zu;fahren
 224.0|etwa|particle|(expressing surprise)|Es dauert etwa eine Stunde, um dorthin zu gelangen.|It takes about an hour to get there. |es;dauern;etwa;ein;Stunde;um;dorthin;zu;gelangen
-225.0|weitere|adjective|additional|Für die Berechnung benötigen wir weitere Daten.|For the calculation, we need additional data.|für;der;Berechnung;benötigen;wir;weit;Datum
-225.001|weitere|adjective|further|Weitere Tests sind notwendig, um die Diagnose zu bestätigen.|Further tests are needed to confirm the diagnosis.|weit;Test;sein;notwendig;um;der;Diagnose;zu;bestätigen
+225.0|weitere|adjective|additional|Wir benötigen weitere Tests, um dies zu bestätigen.|We need additional tests to confirm this.|wir;benötigen;weit;Test;um;dieser;zu;bestätigen
+225.001|weitere|adjective|further|Für genauere Ergebnisse sind weitere Analysen nötig.|Further analysis is needed for more accurate results.|für;genau;Ergebnis;sein;weit;Analyse;nötig
 226.0|das Ende|noun|end|Am Ende des Films gab es eine überraschende Wendung.|At the end of the movie, there was a surprising twist.|an;Ende;der;Film;geben;es;ein;überraschend;Wendung
 227.0|schreiben|verb|to write|Er schreibt einen Brief an seine Mutter.|He is writing a letter to his mother.|er;schreiben;ein;Brief;an;sein;Mutter
 228.0|solch|pronoun|such|Er hat solch ein großes Talent für Musik.|He has such a great talent for music.|er;haben;solch;ein;groß;Talent;für;Musik
@@ -335,9 +335,7 @@
 232.001|wirklich|adjective|actual|Das war die wirkliche Ursache des Problems.|That was the actual cause of the problem.|der;sein;der;wirklich;Ursache;der;Problem
 233.0|wirklich|adverb|really|Ich habe wirklich keine Ahnung, was passiert ist.|I really have no idea what happened.|ich;haben;wirklich;kein;Ahnung;was;passieren;sein
 233.001|wirklich|adverb|actually|Er ist wirklich ein talentierter Musiker.|He is actually a talented musician.|er;sein;wirklich;ein;talentiert;Musiker
-234.0|denen (pl, Dativ)|pronoun|whom|Die Ärzte vertrauten den Patienten, denen sie behandelten.|The doctors trusted those patients whom they treated.|der;Arzt;vertrauen;der;Patient;der;sie;behandeln
-234.001|denen (pl, Dativ)|pronoun|that|Die Messwerte, denen wir vertrauen, sind genau.|The measurements that we trust are accurate.|der;Messwert;der;wir;vertrauen;sein;genau
-234.002|denen (pl, Dativ)|pronoun|those|Die Patienten, denen geholfen wurde, erholten sich schnell.|The patients to whom help was given recovered quickly.|der;Patient;der;helfen;werden;erholen;sich;schnell
+234.001|denen (pl, Dativ)|pronoun|that|Die Forscher, denen wir die Daten gaben, reagierten positiv.|The researchers to whom we gave the data responded positively.|der;Forscher;der;wir;der;Datum;geben;reagieren;positiv
 235.0|nennen|verb|to name|Sie nannte ihren Hund Max, weil er so lebendig war.|She named her dog Max because he was so lively.|sie;nennen;ihr;Hund;Max;weil;er;so;lebendig;sein
 235.001|nennen|verb|to call|Wie nennst du diesen Berg in deiner Sprache?|What do you call this mountain in your language?|wie;nennen;du;dieser;Berg;in;dein;Sprache
 236.0|warum|adverb|why|Er wusste nicht, warum der Plan so scheiterte.|He didn’t know why the plan failed like that.|er;wusste;nicht;warum;der;Plan;so;scheitern
@@ -354,7 +352,7 @@
 243.0|das Teil|noun|part|Er gab mir das Teil, das ich reparieren musste.|He gave me the part I needed to fix.|er;geben;mir;der;Teil;der;ich;reparieren;musste
 244.0|jung|adjective|young|Die junge Künstlerin malt beeindruckende Bilder.|The young artist paints impressive pictures.|der;jung;Künstlerin;malen;beeindruckend;Bild
 245.0|vier|number|four|Ich habe vier Karten für das Konzert gekauft.|I bought four tickets for the concert.|ich;haben;vier;Karte;für;der;Konzert;kaufen
-246.0|besser|adjective|better|Ein besserer Draht würde den Widerstand verringern.|A better wire would reduce the resistance.|ein;bess;Draht;werden;der;Widerstand;verringern
+246.0|besser|adjective|better|Die neue Therapie hat sich als viel besser wirksam erwiesen.|The new therapy has proven to be much more effective.|der;neu;Therapie;haben;sich;als;viel;gut;wirksam;erweisen
 247.0|fast|adverb|almost|Ich habe fast alle Hausaufgaben erledigt.|I almost finished all my homework.|ich;haben;fast;aller;Hausaufgabe;erledigen
 248.0|schnell|adjective|quick|Mit einem schnellen Griff fing er den Ball.|With a quick grab, he caught the ball.|mit;ein;schnell;Griff;fing;er;der;Ball
 248.001|schnell|adjective|fast|Das Internet hier ist unglaublich schnell.|The internet here is incredibly fast.|der;Internet;hier;sein;unglaublich;schnell
@@ -410,13 +408,13 @@
 281.0|das Geld|noun|money|Sie hat viel Geld gespart, um die Reise zu finanzieren.|She saved a lot of money to fund the trip.|sie;haben;viel;Geld;sparen;um;der;Reise;zu;finanzieren
 282.0|das Unternehmen|noun|enterprise|Das Unternehmen expandiert in neue Märkte.|The enterprise is expanding into new markets.|der;Unternehmen;expandieren;in;neu;Markt
 282.001|das Unternehmen|noun|company|Das Unternehmen hat seine Gewinne in diesem Jahr verdoppelt.|The company doubled its profits this year.|der;Unternehmen;haben;sein;Gewinn;in;dieser;Jahr;verdoppeln
-283.0|nächste|adjective|next|Die nächste Messung erfolgt in einem anderen Bereich.|The next measurement is taken in a different range.|der;nächster;Messung;erfolgen;in;ein;anderer;Bereich
+283.0|nächste|adjective|next|Die nächste Phase des Experiments beginnt in zwei Tagen.|The next phase of the experiment starts in two days.|der;nächster;Phase;der;Experiment;beginnen;in;zwei;Tag
 284.0|erklären|verb|to explain|Kannst du mir das Konzept noch einmal erklären?|Can you explain the concept to me again?|Kannst;du;mir;der;Konzept;noch;einmal;erklären
 285.0|klar|adjective|clear|Seine Meinung war von Anfang an ganz klar.|His opinion was clear from the beginning.|sein;Meinung;sein;von;Anfang;an;ganz;klar
 286.0|der Doktor|noun|doctor|Der Doktor erklärte mir die Behandlung ausführlich.|The doctor explained the treatment to me in detail.|der;Doktor;erklären;mir;der;Behandlung;ausführlich
 287.0|das Paar|noun|pair|Das Paar tanzte elegant, als ob niemand zusah.|The pair danced elegantly, as if no one was watching.|der;Paar;tanzen;elegant;als;ob;niemand;zusehen
 287.001|das Paar|noun|couple|Das Paar tanzte glücklich durch den Park.|The couple danced happily through the park.|der;Paar;tanzen;glücklich;durch;der;Park
-288.0|ein paar|pronoun|a few|Ein paar Teilchen haben den Zustand gewechselt.|A few particles have changed state.|ein;paar;Teilchen;haben;der;Zustand;wechseln
+288.0|ein paar|pronoun|a few|Ein paar Patienten erholten sich rasch nach der Operation.|A few patients recovered quickly after surgery.|ein;paar;Patient;erholen;sich;rasch;nach;der;Operation
 289.0|recht|adjective|(all) right|Ist es Ihnen recht, oder haben Sie Einwände?|Is that all right with you, or do you have any objections?|sein;es;ihnen;recht;oder;haben;sie;Einwand
 289.001|recht|adjective|be fine (with)|Mir ist es recht, wenn du das entscheidest.|I’m fine with you deciding that.|mir;sein;es;recht;wenn;du;der;entscheideen
 290.0|das Recht|noun|right|Jeder hat das Recht auf freie Meinungsäußerung.|Everyone has the right to free speech.|jeder;haben;der;Recht;auf;frei;Meinungsäußerung
@@ -492,7 +490,6 @@
 332.0|der Professor|noun|professor|Der Professor erklärte das Thema sehr detailliert.|The professor explained the topic very thoroughly.|der;Professor;erklären;der;Thema;sehr;detailliert
 333.0|darüber|pronoun|above it|Ich habe den Vogel gesehen, der darüber flog.|I saw the bird that flew above it.|ich;haben;der;Vogel;sehen;der;darüber;flog
 333.001|darüber|pronoun|about it|Ich habe noch nie darüber nachgedacht, was es bedeutet.|I have never thought about it before. |ich;haben;noch;nie;darüber;nachdenken;was;es;bedeuten
-334.0|deren|pronoun|whose|Die Patienten, deren Werte abwichen, wurden isoliert.|The patients, whose values deviated, were isolated.|der;Patient;der;Wert;abwichen;werden;isolieren
 335.0|schaffen|verb|to manage|Er hat es endlich geschafft, sein Buch zu beenden.|He finally managed to finish his book.|er;haben;es;endlich;schaffen;sein;Buch;zu;beenden
 335.001|schaffen|verb|to create|Wir haben es geschafft, die Daten korrekt zu analysieren.|We managed to create an accurate analysis of the data.|wir;haben;es;schaffen;der;Datum;korrekt;zu;analysieren
 336.0|damals|pronoun|back then|Damals war die Technologie noch nicht so fortgeschritten.|Back then, the technology wasn’t as advanced.|damals;sein;der;Technologie;noch;nicht;so;fortgeschritten
@@ -519,7 +516,7 @@
 351.0|handeln|verb|to deal|Das Unternehmen handelt mit hochwertigen Produkten.|The company deals in high-quality products.|der;Unternehmen;handeln;mit;hochwertig;Produkt
 351.001|handeln|verb|to trade|Er handelt mit seltenen Büchern und Manuskripten.|He trades rare books and manuscripts.|er;handeln;mit;selten;Büchern;und;Manuskript
 352.0|das Buch|noun|book|Er hat das Buch in einem Rutsch gelesen.|He read the book in one go.|er;haben;der;Buch;in;ein;Rutsch;lesen
-353.0|ein bisschen|pronoun|a little|Ein bisschen Energie wird in Wärme umgewandelt.|A little energy is converted into heat.|ein;bisschen;Energie;werden;in;Wärme;umwandeln
+353.0|ein bisschen|pronoun|a little|Die Therapie half nur ein bisschen bei der Schmerzlinderung.|The therapy helped just a little with pain relief.|der;Therapie;helfen;nur;ein;bisschen;bei;der;Schmerzlinderung
 354.0|deutlich|adjective|clear|Seine Anweisungen waren sehr deutlich und verständlich.|His instructions were very clear and understandable.|sein;Anweisung;sein;sehr;deutlich;und;verständlich
 355.0|anders|adverb|different|Wir müssen die Herangehensweise anders wählen.|We must choose the approach differently.|wir;müssen;der;Herangehensweise;anders;wählen
 355.001|anders|adverb|differently|Ältere Patienten reagieren anders auf die Therapie.|Older patients respond differently to the therapy.|Ältere;Patient;reagieren;anders;auf;der;Therapie
@@ -543,7 +540,7 @@
 365.0|je ..., desto|conjunction|the more ...|Je länger er wartete, desto nervöser wurde er.|The longer he waited, the more nervous he became.|je;lang;er;warten;desto;nervös;werden;er
 365.001|je ..., desto|conjunction|the|Je später wir gehen, desto weniger Menschen sind da.|The later we go, the fewer people will be there.|je;spät;wir;gehen;desto;weniger;Mensch;sein;da
 366.0|verlieren|verb|to lose|Er hat den Wettkampf verloren, aber nicht den Mut.|He lost the competition, but not his courage.|er;haben;der;Wettkampf;verlieren;aber;nicht;der;Mut
-367.0|beste|adjective|best|Die beste Methode zur Messung ist die Thermografie.|The best method for measurement is thermography.|der;gut;Methode;zu;Messung;sein;der;Thermografie
+367.0|beste|adjective|best|Die beste Methode zur Diagnose ist molekulare Bildgebung.|The best method for diagnosis is molecular imaging.|der;gut;Methode;zu;Diagnose;sein;molekular;Bildgebung
 368.0|bilden|verb|to form|Die Schüler bildeten einen Kreis im Klassenzimmer.|The students formed a circle in the classroom.|der;Schüler;bilden;ein;Kreis;in;Klassenzimmer
 368.001|bilden|verb|to educate|Der Lehrer bildet die Klasse in kritischem Denken.|The teacher educates the class in critical thinking.|der;Lehrer;bilden;der;Klasse;in;kritisch;denken
 369.0|der Monat|noun|month|Der Monat März war besonders kalt in diesem Jahr.|The month of March was especially cold this year.|der;Monat;März;sein;besonders;kalt;in;dieser;Jahr
@@ -573,7 +570,6 @@
 383.0|die Familie|noun|family|Die Familie versammelte sich am Tisch für das Abendessen.|The family gathered at the table for dinner.|der;Familie;versammeln;sich;an;Tisch;für;der;Abendessen
 384.0|jemand|pronoun|someone|Jemand hat das Licht im Büro ausgeschaltet.|Someone turned off the light in the office.|jemand;haben;der;Licht;in;Büro;ausschalten
 384.001|jemand|pronoun|somebody|Ich habe jemanden gesehen, der dir sehr ähnlich sah.|I saw somebody who looked very much like you.|ich;haben;jemand;sehen;der;dir;sehr;ähnlich;sehen
-385.0|dessen|pronoun|whose|Das Experiment zeigt die Bewegung dessen, was passiert.|The experiment shows the motion of what happens.|der;Experiment;zeigen;der;Bewegung;der;wer;passieren
 386.0|fallen|verb|to fall|Die Blätter fallen im Herbst von den Bäumen.|The leaves fall from the trees in autumn.|der;Blatt;fallen;in;Herbst;von;der;Baum
 387.0|zehn|number|ten|Der Code hat zehn Variablen, die optimiert werden müssen.|The code has ten variables that need to be optimized.|der;Code;haben;zehn;Variabl;der;optimieren;werden;müssen
 388.0|der Preis|noun|price|Der Preis für das Konzertticket ist ziemlich hoch.|The price for the concert ticket is quite high.|der;Preis;für;der;Konzertticket;sein;ziemlich;hoch
@@ -647,7 +643,6 @@
 430.0|die Tür|noun|door|Die Tür quietschte, als sie langsam aufging.|The door creaked as it slowly opened.|der;Tür;quietschen;als;sie;langsam;aufgehen
 431.0|der Schritt|noun|step|Er macht einen großen Schritt nach vorn.|He takes a big step forward.|er;machen;ein;groß;Schritt;nach;vorn
 432.0|entwickeln|verb|to develop|Sie arbeitet hart daran, ihre Fähigkeiten zu entwickeln.|She works hard to develop her skills.|sie;arbeiten;hart;daran;ihr;Fähigkeit;zu;entwickeln
-433.0|meiste|adjective|most|Die meisten Proben zeigen einen positiven Befund.|Most samples show a positive result.|der;meister;Probe;zeigen;ein;positiv;Befund
 434.0|die Möglichkeit|noun|possibility|Wir haben die Möglichkeit zu verhandeln.|We have the possibility to negotiate.|wir;haben;der;Möglichkeit;zu;verhandeln
 434.001|die Möglichkeit|noun|chance|Die Möglichkeit eines Gewinns war gering.|The chance of winning was low.|der;Möglichkeit;ein;Gewinn;sein;gering
 435.0|der Sinn|noun|sense|Der Sinn dieser Regelung ist nicht klar.|The sense of this regulation is unclear.|der;Sinn;dieser;Regelung;sein;nicht;klar
@@ -668,11 +663,8 @@
 447.0|die Angst|noun|fear|Die Angst vor dem Unbekannten lähmte sie.|The fear of the unknown paralyzed her.|der;Angst;vor;der;Unbekannten;lähmen;sie
 448.0|allgemein|adjective|general|In allgemeiner Hinsicht war die Entscheidung richtig.|In general terms, the decision was right.|in;allgemein;Hinsicht;sein;der;Entscheidung;richtig
 449.0|fühlen|verb|to feel|Ich fühle mich besser, seitdem wir das Problem gelöst haben.|I feel better since we solved the problem. |ich;fühlen;sich;gut;seitdem;wir;der;Problem;lösen;haben
-450.0|jene|pronoun|that|Jene Teilchen bewegen sich in einem elektrischen Feld.|Those particles move in an electric field.|Jene;Teilchen;bewegen;sich;in;ein;elektrisch;Feld
-450.001|jene|pronoun|those|Jene, die behandelt wurden, erholten sich schneller.|Those who were treated recovered faster.|Jener;der;behandeln;werden;erholen;sich;schnell
 451.0|erinnern|verb|to remind|Er erinnerte mich daran, die E-Mail zu senden.|He reminded me to send the email.|er;erinnern;mich;daran;der;E-Mail;zu;senden
-452.0|oh|particle|oh|Oh, das erklärt den Unterschied in der Geschwindigkeit.|Oh, that explains the difference in speed.|Oh;der;erklären;der;Unterschied;in;der;Geschwindigkeit
-452.001|oh|particle|aw|Oh, das ist eine unerwartete Entdeckung!|Aw, that’s an unexpected discovery!|Oh;der;sein;ein;unerwartet;Entdeckung
+452.0|oh|particle|oh|Oh, die neuesten Ergebnisse sind sehr aufschlussreich.|Oh, the latest results are very insightful.|Oh;der;neu;Ergebnis;sein;sehr;aufschlussreich
 453.0|bedeuten|verb|to mean|Was bedeutet dieses Wort in diesem Kontext?|What does this word mean in this context?|was;bedeuten;dieser;Wort;in;dieser;Kontext
 454.0|die Stimme|noun|voice|Die Stimme hallte durch den leeren Raum.|The voice echoed across the empty space.|der;Stimme;hallen;durch;der;leer;Raum
 454.001|die Stimme|noun|vote|Jeder Bürger hat eine Stimme bei der Wahl.|Every citizen has one vote in the election.|jeder;Bürger;haben;ein;Stimme;bei;der;Wahl
@@ -697,7 +689,7 @@
 464.0|die USA (Vereinigte Staaten von Amerika)|noun|USA|Er hat seine ganze Kindheit in den USA verbracht.|He spent his entire childhood in the USA.|er;haben;sein;ganz;Kindheit;in;der;USA;verbringen
 464.001|die USA (Vereinigte Staaten von Amerika)|noun|United States of America|Ich plane, die USA nächsten Sommer zu besuchen.|I plan to visit the United States of America next summer.|ich;planen;der;USA;nächster;Sommer;zu;besuchen
 465.0|der Flüchtling|noun|refugee|Der Flüchtling fand Zuflucht in einem sicheren Land.|The refugee found shelter in a safe country.|der;Flüchtling;finden;Zuflucht;in;ein;sicher;Land
-466.0|früher|adverb|in the past|Früher war die Diagnostik dieser Krankheit schwieriger.|In the past, diagnosing this disease was harder.|Früher;sein;der;Diagnostik;dieser;Krankheit;schwierig
+466.0|früher|adverb|in the past|Früher wurde diese Krankheit oft übersehen.|In the past, this disease was often overlooked.|Früher;werden;dieser;Krankheit;oft;übersehen
 467.0|das Pro|noun|pro|Der Pro der Idee war, dass sie leicht umzusetzen war.|The pro of the idea was that it was easy to implement.|der;Pro;der;Idee;sein;dass;sie;leicht;umsetzen;sein
 468.0|pro|preposition|per|Wir zahlen zehn Euro pro Person für den Eintritt.|We pay ten euros per person for entry.|wir;zahlen;zehn;Euro;pro;Person;für;der;Eintritt
 469.0|ergeben|verb|to result in|Das richtige Backen der Torte ergibt ein perfektes Ergebnis.|Baking the cake correctly results in a perfect outcome.|der;richtig;Backen;der;Torte;ergeben;ein;perfekt;Ergebnis
@@ -729,8 +721,8 @@
 487.0|die Folge|noun|result|Die Folge seiner Entscheidung war ein kompletter Erfolg.|The result of his decision was a complete success.|der;Folge;sein;Entscheidung;sein;ein;komplett;Erfolg
 487.001|die Folge|noun|consequences|Die Folgen des Unfalls waren für alle spürbar.|The consequences of the accident were felt by everyone.|der;Folge;der;Unfall;sein;für;alle;spürbar
 488.0|der Satz|noun|sentence|Der Satz war klar, aber schwer zu akzeptieren.|The sentence was clear, but hard to accept.|der;Satz;sein;klar;aber;schwer;zu;akzeptieren
-489.0|manche|pronoun|some|Manche Tumoren wachsen schneller als andere.|Some tumors grow faster than others.|mancher;Tumor;wachsen;schnell;als;anderer
-489.001|manche|pronoun|many a|Manche Experimente haben überraschende Ergebnisse gezeigt.|Many a experiment has shown surprising results.|mancher;Experiment;haben;überraschend;Ergebnis;zeigen
+489.0|manche|pronoun|some|Manche Medikamente haben unerwünschte Nebenwirkungen.|Some medications have unwanted side effects.|mancher;Medikament;haben;unerwünscht;Nebenwirkung
+489.001|manche|pronoun|many a|Manche Krankheiten entwickeln sich ohne sichtbare Symptome.|Many a disease develops without visible symptoms.|mancher;Krankheit;entwickeln;sich;ohne;sichtbar;Symptom
 490.0|die Verbindung|noun|connection|Wir haben eine gute Verbindung zum Internet.|We have a good internet connection.|wir;haben;ein;gut;Verbindung;zu;Internet
 490.001|die Verbindung|noun|link|Die Verbindung zwischen den beiden Firmen wurde verstärkt.|The link between the two companies has been strengthened. |der;Verbindung;zwischen;der;beide;Firma;werden;verstärken
 491.0|beschreiben|verb|to describe|Sie konnte den Ort detailliert und lebendig beschreiben.|She was able to describe the place in detail and vividly.|sie;können;der;Ort;detailliert;und;lebendig;beschreiben
@@ -829,7 +821,6 @@
 555.0|anfangen|verb|to begin|Lass uns jetzt anfangen, den Raum zu dekorieren.|Let’s start decorating the room now.|Lass;sich;jetzt;anfangen;der;Raum;zu;dekorieren
 555.001|anfangen|verb|to start|Wir fangen um 9 Uhr mit der Besprechung an.|We start the meeting at 9 AM.|wir;anfangen;um;9;Uhr;mit;der;Besprechung;an
 556.0|genug|adverb|enough|Ich habe genug zu essen für das ganze Wochenende.|I have enough food for the whole weekend.|ich;haben;genug;zu;essen;für;der;ganz;Wochenende
-557.0|das Deutsche|noun|German|Das Deutsche Institut forscht an neuen Medikamenten.|The German institute researches new drugs.|der;deutsch;Institut;forschen;an;neu;Medikament
 558.0|verändern|verb|to change|Der Wind kann den Verlauf eines Flusses verändern.|The wind can change the course of a river.|der;Wind;können;der;Verlauf;ein;Fluß;verändern
 559.0|die Wohnung|noun|apartment|Sie hat eine wunderschöne Wohnung im Stadtzentrum.|She has a beautiful apartment in the city center.|sie;haben;ein;wunderschön;Wohnung;in;Stadtzentrum
 559.001|die Wohnung|noun|flat|Die Wohnung hat drei Zimmer und einen Balkon.|The flat has three rooms and a balcony.|der;Wohnung;haben;drei;Zimmer;und;ein;Balkon
@@ -847,7 +838,6 @@
 567.0|die Musik|noun|music|Die Musik im Hintergrund schuf eine entspannte Atmosphäre.|The music in the background created a relaxed atmosphere.|der;Musik;in;Hintergrund;schaffen;ein;entspannt;Atmosphäre
 568.0|schauen|verb|to look|Sie schauten aus dem Fenster und sahen den Sonnenuntergang.|They looked out the window and saw the sunset.|sie;schauen;aus;der;Fenster;und;sehen;der;Sonnenuntergang
 569.0|das Stück|noun|piece|Das Stück Kuchen war groß genug, um es zu teilen.|The piece of cake was big enough to share.|der;Stück;Kuchen;sein;groß;genug;um;es;zu;teilen
-570.0|besondere|adjective|special|Diese besondere Therapie zeigt gute Ergebnisse.|This special therapy shows good results.|dieser;besonderer;Therapie;zeigen;gut;Ergebnis
 571.0|tot|adjective|dead|Der Baum war nach dem Sturm tot und verwelkt.|The tree was dead and withered after the storm.|der;Baum;sein;nach;der;Sturm;tot;und;verwelkt
 572.0|der Gott|noun|God|Viele Menschen glauben an Gott, um Trost zu finden.|Many people believe in God to find comfort.|vieler;Mensch;glauben;an;Gott;um;Trost;zu;finden
 573.0|völlig|adjective|completely|Sie war völlig erschöpft nach der langen Reise.|She was completely exhausted after the long journey.|sie;sein;völlig;erschöpfen;nach;der;lang;Reise
@@ -903,7 +893,6 @@
 605.0|holen|verb|to get|Er holt die Zeitung aus dem Briefkasten.|He gets the newspaper from the mailbox.|er;holen;der;Zeitung;aus;der;Briefkasten
 605.001|holen|verb|to fetch|Er musste schnell seine Jacke holen, bevor er ging.|He had to quickly fetch his jacket before leaving.|er;musste;schnell;sein;Jacke;holen;bevor;er;gehen
 606.0|der Junge|noun|boy|Der Junge spielte den ganzen Nachmittag im Garten.|The boy played in the garden all afternoon.|der;Junge;spielen;der;ganz;Nachmittag;in;Garten
-607.0|sogenannt|adjective|so-called|"Das sogenannte ""Dunkle Materie""-Modell wird getestet."|"The so-called ""dark matter"" model is being tested."|"der;sogenannter;Dunkle;Materie""-Modell;werden;testen"
 608.0|die Polizei|noun|police|Die Polizei ist sofort zum Tatort gerufen worden.|The police were immediately called to the crime scene.|der;Polizei;sein;sofort;zu;Tatort;rufen;werden
 609.0|die Chance|noun|chance|Er hatte nur eine Chance, den Wettkampf zu gewinnen.|He had only one chance to win the competition.|er;haben;nur;ein;Chance;der;Wettkampf;zu;gewinnen
 610.0|gewiss|adjective|certain|Es ist gewiss, dass der Algorithmus optimiert werden muss.|It is certain that the algorithm needs to be optimized.|es;sein;gewiss;dass;der;Algorithmus;optimieren;werden;muss
@@ -944,7 +933,7 @@
 629.0|relativ|adjective|relative|Die Antwort war relativ einfach, wenn man genau hinsah.|The answer was relatively easy if you looked closely.|der;Antwort;sein;relativ;einfach;wenn;man;genau;hinsah
 630.0|laut|preposition|according to|Laut dem Bericht gibt es keine weiteren Änderungen.|According to the report, there are no further changes.|laut;der;Bericht;geben;es;kein;weit;Änderung
 631.0|der Fuß|noun|foot|Er trat mit seinem Fuß auf einen spitzen Stein.|He stepped on a sharp stone with his foot.|er;treten;mit;sein;Fuß;auf;ein;spitz;Stein
-632.0|die Daten (pl)|noun|data|Die Daten aus der Studie sind vielversprechend.|The data from the study is promising.|der;Datum;aus;der;Studie;sein;vielversprechend
+632.0|die Daten (pl)|noun|data|Die Daten zeigen einen signifikanten Zusammenhang.|The data show a significant correlation.|der;Datum;zeigen;ein;signifikant;Zusammenhang
 633.0|der Krieg|noun|war|Der Krieg dauerte Jahre, aber die Hoffnung blieb immer.|The war lasted years, but hope remained strong.|der;Krieg;dauern;Jahr;aber;der;Hoffnung;bleiben;immer
 634.0|der Gast|noun|guest|Der Gast war sehr freundlich und brachte ein Geschenk mit.|The guest was very friendly and brought a gift.|der;Gast;sein;sehr;freundlich;und;mitbringen;ein;Geschenk;mit
 635.0|die Aussage|noun|statement|Die Aussage des Zeugen wurde genau überprüft.|The statement of the witness was thoroughly checked.|der;Aussage;der;Zeuge;werden;genau;überprüfen
@@ -980,7 +969,7 @@
 658.0|studieren|verb|to study|Sie studiert Medizin an der Universität.|She is studying medicine at the university.|sie;studieren;Medizin;an;der;Universität
 659.0|gefallen|verb|to please|Das neue Design gefiel allen Anwesenden.|The new design pleased everyone present.|der;neu;Design;gefallen;aller;Anwesenden
 660.0|das Mädchen|noun|girl|Das Mädchen trug ein rotes Kleid und lachte laut.|The girl wore a red dress and laughed loudly.|der;Mädchen;tragen;ein;rot;Kleid;und;lachen;laut
-661.0|das Verhalten|noun|behavior|Das Verhalten der Zellen ändert sich bei Infektionen.|Cell behavior changes during infections.|der;verhalten;der;Zelle;ändern;sich;bei;Infektion
+661.0|das Verhalten|noun|behavior|Das Verhalten der Zellen ändert sich bei Virusbefall.|The behavior of the cells changes with viral infection.|der;verhalten;der;Zelle;ändern;sich;bei;Virusbefall
 662.0|verhalten|verb|to behave|Kinder sollten sich respektvoll verhalten.|Children should behave respectfully.|Kind;sollen;sich;respektvoll;verhalten
 662.001|verhalten|verb|to act|Er verhält sich höflich zu den Vorgesetzten.|He behaves politely toward the superiors.|er;verhalten;sich;höflich;zu;der;vorgesetzter
 663.0|mindestens|adverb|at least|Wir müssen mindestens fünfzig Teilnehmer haben.|We need at least fifty participants.|wir;müssen;mindestens;fünfzig;Teilnehmer;haben
@@ -1063,10 +1052,7 @@
 713.0|stattfinden|verb|to take place|Das Konzert wird nächsten Samstag stattfinden.|The concert will take place next Saturday.|der;Konzert;werden;nächster;Samstag;stattfinden
 713.001|stattfinden|verb|to occur|Die Besprechung wird morgen Nachmittag stattfinden.|The meeting will occur tomorrow afternoon.|der;Besprechung;werden;morgen;Nachmittag;stattfinden
 714.0|ankommen|verb|to arrive|Der Zug wird pünktlich um acht Uhr ankommen.|The train will arrive punctually at eight o’clock.|der;Zug;werden;pünktlich;um;acht;Uhr;ankommen
-715.0|das Auftreten|noun|behavior|Das Auftreten von Magnetismus hängt von der Temperatur ab.|The appearance of magnetism depends on the temperature.|der;auftreten;von;Magnetismus;abhängen;von;der;Temperatur;ab
-715.001|das Auftreten|noun|conduct|Das Auftreten von Symptomen ist häufig nach der Behandlung.|The occurrence of symptoms is common after treatment.|der;auftreten;von;Symptom;sein;häufig;nach;der;Behandlung
-715.002|das Auftreten|noun|occurrence|Das Auftreten von Resonanzfrequenzen beeinflusst den Klang.|The occurrence of resonance frequencies affects the sound.|der;auftreten;von;Resonanzfrequenz;beeinflussen;der;Klang
-715.003|das Auftreten|noun|appearance|Das Auftreten der Nebenwirkungen war mild.|The appearance of side effects was mild.|der;auftreten;der;Nebenwirkung;sein;mild
+715.003|das Auftreten|noun|appearance|Das Auftreten von Hautausschlägen ist ein häufiges Symptom.|The appearance of rashes is a common symptom.|der;auftreten;von;Hautausschlag;sein;ein;häufig;Symptom
 716.0|auftreten|verb|to appear|Ein Fehler tritt bei der Appinstallation auf.|An error occurs during the app installation.|ein;Fehler;auftreten;bei;der;Appinstallation;auf
 716.001|auftreten|verb|to occur|Unerwartete Probleme traten während des Tests auf.|Unexpected problems occurred during the test.|Unerwartete;Problem;auftreten;während;der;Test;auf
 717.0|insbesondere|adverb|especially|Die letzte Szene war insbesondere emotional.|The last scene was especially emotional.|der;letzter;Szene;sein;insbesondere;emotional
@@ -1093,7 +1079,7 @@
 731.0|das Verhältnis|noun|relationship|Ihr Verhältnis zu den Kollegen ist von Vertrauen geprägt.|Her relationship with her colleagues is based on trust.|ihr;Verhältnis;zu;der;Kollege;sein;von;vertrauen;prägen
 732.0|selten|adjective|rare|Seltene Tiere findet man oft in abgelegenen Gebieten.|Rare animals are often found in remote areas.|selten;Tier;finden;man;oft;in;abgelegen;Gebiet
 733.0|die Zeitung|noun|newspaper|Ich lese jeden Morgen die Zeitung, um informiert zu bleiben.|I read the newspaper every morning to stay informed.|ich;lesen;jeder;Morgen;der;Zeitung;um;informieren;zu;bleiben
-734.0|innere|adjective|internal|Die Analyse der inneren Organe zeigte keine Auffälligkeiten.|The analysis of the internal organs showed no abnormalities.|der;Analyse;der;innerer;Organ;zeigen;kein;Auffälligkeit
+734.0|innere|adjective|internal|Die innere Struktur der Zellen bestimmt ihre Funktion.|The internal structure of the cells determines their function.|der;innerer;Struktur;der;Zelle;bestimmen;ihr;Funktion
 735.0|beispielsweise|adverb|for example|Es gibt viele Faktoren, beispielsweise das Wetter.|There are many factors, for example, the weather.|es;geben;vieler;Faktor;beispielsweise;der;Wetter
 735.001|beispielsweise|adverb|such as|Er mag viele Sportarten, beispielsweise Fußball und Tennis.|He likes many sports, such as football and tennis.|er;mögen;vieler;Sportart;beispielsweise;Fußball;und;Tennis
 736.0|die Bedingung|noun|condition|Die Bedingung für die Teilnahme war ein gültiger Pass.|The condition for participation was a valid passport.|der;Bedingung;für;der;Teilnahme;sein;ein;gültig;Pass
@@ -1277,7 +1263,6 @@
 848.002|die Erde|noun|soil|Die Erde in diesem Garten ist sehr fruchtbar.|The soil in this garden is very fertile.|der;Erde;in;dieser;Garten;sein;sehr;fruchtbar
 849.0|die Studie|noun|study|Die Studie zeigt interessante Ergebnisse über Ernährung.|The study shows interesting results about nutrition.|der;Studie;zeigen;interessant;Ergebnis;über;Ernährung
 850.0|vorne|adverb|at/to the front|Die Tische sind vorne im Raum aufgestellt.|The tables are arranged at the front of the room.|der;Tisch;sein;vorne;in;Raum;aufstellen
-851.0|rechte|adjective|right|Die rechte Seite des Raumes hat eine höhere Temperatur.|The right side of the room has a higher temperature.|der;rechter;Seite;der;Raum;haben;ein;hoch;Temperatur
 852.0|die Meinung|noun|opinion|Ihre Meinung zu den Änderungen ist sehr wertvoll.|Your opinion on the changes is very valuable.|ihr;Meinung;zu;der;Änderung;sein;sehr;wertvoll
 853.0|drehen|verb|to turn|Er drehte den Schlüssel im Schloss und trat ein.|He turned the key in the lock and entered.|er;drehen;der;Schlüssel;in;Schloss;und;eintreten;ein
 854.0|der Künstler|noun|artist|Der Künstler malte ein beeindruckendes Porträt.|The artist painted an impressive portrait.|der;Künstler;malen;ein;beeindruckend;Porträt
@@ -1305,7 +1290,6 @@
 869.0|der Sonntag|noun|Sunday|Am Sonntag gehen wir meistens im Park spazieren.|On Sunday, we usually take a walk in the park.|an;Sonntag;gehen;wir;meistens;in;Park;spazieren
 870.0|das Internet|noun|internet|Das Internet ermöglicht es uns, weltweit zu kommunizieren.|The internet allows us to communicate worldwide.|der;Internet;ermöglichen;es;uns;weltweit;zu;kommunizieren
 871.0|die Nummer|noun|number|Die Nummer des Tickets ist auf dem Beleg vermerkt.|The number of the ticket is noted on the receipt.|der;Nummer;der;Ticket;sein;auf;der;Beleg;vermerken
-872.0|das Lächeln|noun|smile|Ein echtes Lächeln kann den Blutdruck senken.|A genuine smile can lower blood pressure.|ein;echt;lächeln;können;der;Blutdruck;senken
 873.0|lächeln|verb|to smile|Er konnte nicht aufhören, über den Witz zu lächeln.|He couldn’t stop smiling about the joke.|er;können;nicht;aufhören;über;der;Witz;zu;lächeln
 874.0|genauso|adverb|just as|Er ist genauso talentiert wie sein Bruder.|He is just as talented as his brother.|er;sein;genauso;talentiert;wie;sein;Bruder
 875.0|überzeugen|verb|to convince|Er konnte mich überzeugen, die neue Methode auszuprobieren.|He was able to convince me to try the new method.|er;können;mich;überzeugen;der;neu;Methode;ausprobieren
@@ -1392,7 +1376,7 @@
 936.0|die Verfügung|noun|disposal|Die Daten stehen uns jederzeit zur Verfügung.|The data is at our disposal at any time.|der;Datum;stehen;uns;jederzeit;zu;Verfügung
 937.0|feiern|verb|to celebrate|Wir feiern heute Abend den Geburtstag von Anna.|We are celebrating Anna's birthday tonight.|wir;feiern;heute;Abend;der;Geburtstag;von;Anna
 938.0|das Programm|noun|program|Das neue Programm verbessert die Nutzererfahrung.|The new program improves the user experience.|der;neu;Programm;verbessern;der;Nutzererfahrung
-939.0|linke|adjective|left|Die linke Niere zeigt eine leichte Vergrößerung.|The left kidney shows slight enlargement.|der;linker;Niere;zeigen;ein;leicht;Vergrößerung
+939.0|linke|adjective|left|Die linke Niere zeigte eine signifikante Vergrößerung.|The left kidney showed significant enlargement.|der;linker;Niere;zeigen;ein;signifikant;Vergrößerung
 940.0|der Einfluss|noun|influence|Musik hat großen Einfluss auf unsere Stimmung.|Music has a great influence on our mood.|Musik;haben;groß;Einfluss;auf;unser;Stimmung
 941.0|die Temperatur|noun|temperature|Die Temperatur sinkt nachts deutlich ab.|The temperature drops significantly at night.|der;Temperatur;absinken;nachts;deutlich;ab
 942.0|leer|adjective|empty|Das Glas war leer, also füllte ich es nach.|The glass was empty, so I refilled it.|der;Glas;sein;leer;also;nachfülln;ich;es;nach
@@ -1477,9 +1461,6 @@
 997.0|die Hälfte|noun|half|Die Hälfte des Kuchens war bereits gegessen.|Half of the cake had already been eaten.|der;Hälfte;der;Kuchen;sein;bereits;gegessen
 998.0|der Kontakt|noun|contact|Ich werde den Kontakt zu den Kunden pflegen.|I will maintain contact with the clients.|ich;werden;der;Kontakt;zu;der;Kunde;pflegen
 999.0|das Interview|noun|interview|Das Interview mit dem Entwickler wurde aufgezeichnet.|The interview with the developer was recorded.|der;Interview;mit;der;Entwickler;werden;aufzeichnen
-1000.0|es ist egal|adverb|(it’s all) the same|Es ist egal, ob die Masse konstant bleibt oder nicht.|It doesn't matter if the mass remains constant or not.|es;sein;egal;ob;der;Masse;konstant;bleiben;oder;nicht
-1000.001|es ist egal|adverb|indifferent|Es ist egal, wann die Behandlung beginnt.|It doesn't matter when the treatment starts.|es;sein;egal;wann;der;Behandlung;beginnen
-1000.002|es ist egal|adverb|doesn't matter|Es ist egal, wie oft der Test gemacht wird.|It doesn't matter how often the test is done.|es;sein;egal;wie;oft;der;Test;machen;werden
 1001.0|reisen|verb|to travel|Ich plane, nächstes Jahr nach Asien zu reisen.|I’m planning to travel to Asia next year.|ich;planen;nächster;Jahr;nach;Asien;zu;reisen
 1002.0|der Berg|noun|hill|Wir wanderten den ganzen Tag auf dem Berg.|We hiked on the hill all day.|wir;wandern;der;ganz;Tag;auf;der;Berg
 1002.001|der Berg|noun|mountain|Der Berg war so hoch, dass er den Himmel berührte.|The mountain was so high, it seemed to touch the sky.|der;Berg;sein;so;hoch;dass;er;der;Himmel;berühren
@@ -1502,7 +1483,6 @@
 1017.0|anschauen|verb|to look at|Lass uns den neuen Film im Kino anschauen!|Let's go look at the new movie in the cinema!|Lass;sich;der;neu;Film;in;Kino;anschauen
 1017.001|anschauen|verb|to watch|Wir schauen uns einen Dokumentarfilm an.|We are watching a documentary movie.|wir;anschauen;sich;ein;Dokumentarfilm;an
 1018.0|teuer|adjective|expensive|Dieses Restaurant ist ziemlich teuer, aber es lohnt sich.|This restaurant is quite expensive, but it’s worth it.|dieser;Restaurant;sein;ziemlich;teuer;aber;es;lohnen;sich
-1019.0|die Medien (pl)|noun|media|Die Medien berichteten intensiv über den neuen Impfstoff.|The media reported extensively on the new vaccine.|der;Medium;berichten;intensiv;über;der;neu;Impfstoff
 1020.0|richten|verb|to direct|Er richtete seine Worte an das Publikum.|He directed his words to the audience.|er;richten;sein;Wort;an;der;Publikum
 1020.001|richten|verb|to follow|Bitte richten Sie sich nach den Anweisungen.|Please follow the instructions.|Bitte;richten;sie;sich;nach;der;Anweisung
 1021.0|das Institut|noun|institute|Das Institut für Technik ist sehr renommiert in Europa.|The Institute of Technology is very renowned in Europe.|der;Institut;für;Technik;sein;sehr;renommiert;in;Europa
@@ -1542,7 +1522,6 @@
 1039.0|geraten|verb|to get into|Er ist in Schwierigkeiten geraten, als er die Regeln brach.|He got into trouble when he broke the rules.|er;sein;in;Schwierigkeit;geraten;als;er;der;Regel;brechen
 1040.0|toll|adjective|great|Das Konzert war toll, alle hatten viel Spaß.|The concert was great, everyone had a lot of fun.|der;Konzert;sein;toll;alle;haben;viel;Spaß
 1040.001|toll|adjective|terrific|Du hast einen tollen Job gemacht, es sieht fantastisch aus.|You did a terrific job, it looks fantastic.|du;haben;ein;toll;Job;machen;es;aussehen;fantastisch;aus
-1041.0|das Schweigen|noun|silence|Das Schweigen im Operationssaal war bemerkenswert.|The silence in the operating room was remarkable.|der;schweigen;in;Operationssaal;sein;bemerkenswert
 1042.0|schweigen|verb|to remain silent|Er schwieg gewöhnlich während Sitzungen.|He usually remained silent during meetings.|er;schweigen;gewöhnlich;während;Sitzung
 1043.0|die Schwester|noun|sister|Meine Schwester studiert Medizin in Berlin.|My sister is studying medicine in Berlin.|mein;Schwester;studieren;Medizin;in;Berlin
 1044.0|der Chef|noun|head|Der Chef gab klare Anweisungen für das Projekt.|The head gave clear instructions for the project.|der;Chef;geben;klar;Anweisung;für;der;Projekt
@@ -1614,7 +1593,6 @@
 1088.0|die Bevölkerung|noun|population|Die Bevölkerung der Stadt wächst stetig.|The population of the city is steadily growing.|der;Bevölkerung;der;Stadt;wachsen;stetig
 1088.001|die Bevölkerung|noun|people|Die Bevölkerung der Stadt wächst stetig.|The population of the city is steadily growing.|der;Bevölkerung;der;Stadt;wachsen;stetig
 1089.0|der Finger|noun|finger|Er hob seinen Finger, um eine Frage zu stellen.|He raised his finger to ask a question.|er;heben;sein;Finger;um;ein;Frage;zu;stellen
-1090.0|die Grüne|noun|the Greens|Die Grüne Partei fordert eine bessere Gesundheitsversorgung.|The Greens party demands better healthcare.|der;grün;Partei;fordern;ein;gut;Gesundheitsversorgung
 1091.0|total|adjective|total|Der Schaden war total, das Haus war unbewohnbar.|The damage was total, the house was uninhabitable.|der;Schaden;sein;total;der;Haus;sein;unbewohnbar
 1091.001|total|adjective|complete|Der Raum war total unordentlich nach der Party.|The room was completely messy after the party.|der;Raum;sein;total;unordentlich;nach;der;Party
 1092.0|der Abstand|noun|distance|Halte bitte genug Abstand zum nächsten Auto.|Please keep enough distance from the next car.|Halte;bitte;genug;Abstand;zu;nächster;Auto
@@ -1627,9 +1605,7 @@
 1097.0|die Band|noun|band (musical)|Die Band spielt heute Abend ein Live-Konzert.|The band is playing a live concert tonight.|der;Band;spielen;heute;Abend;ein;Live-Konzert
 1098.0|darunter|pronoun|under it|Der Hund schlief unter dem Tisch, verborgen darunter.|The dog slept under the table, hidden under it.|der;Hund;schlief;unter;der;Tisch;verbergen;darunter
 1098.001|darunter|pronoun|underneath|Der Tisch war voll, und darunter lagen noch mehr Dokumente.|The table was full, and underneath it, there were even more documents. |der;Tisch;sein;voll;und;darunter;liegen;noch;mehr;Dokument
-1099.0|diejenige|pronoun|the one who|Diejenige, die den Bericht verfasst hat, ist Expertin.|The one who wrote the report is an expert.|dejeniger;der;der;Bericht;verfassn;haben;sein;Expertin
 1099.001|diejenige|pronoun|the one that|Ich mag diejenige, die immer hilfsbereit ist.|I like the one that is always helpful.|ich;mögen;diejenige;der;immer;hilfsbereit;sein
-1099.002|diejenige|pronoun|that|Diejenige, die den Test leitet, ist erfahren.|The one who conducts the test is experienced.|dejeniger;der;der;Test;leiten;sein;erfahren
 1100.0|der Wald|noun|forest|Der Wald ist ein wunderbarer Ort zum Wandern.|The forest is a wonderful place for hiking.|der;Wald;sein;ein;wunderbar;Ort;zu;wandern
 1100.001|der Wald|noun|woods|Der Wald ist dicht und voller Wildtiere.|The woods are dense and full of wildlife.|der;Wald;sein;dicht;und;voll;Wildtier
 1101.0|die Insel|noun|island|Die Insel war abgelegen und voller exotischer Pflanzen.|The island was secluded and full of exotic plants.|der;Insel;sein;abgelegen;und;voll;exotisch;Pflanze
@@ -1705,7 +1681,6 @@
 1147.006|riesig|adjective|enormous|Der Schaden an der Brücke war einfach riesig.|The damage to the bridge was simply enormous.|der;Schaden;an;der;Brücke;sein;einfach;riesig
 1148.0|heutig|adjective|present-day|Die heutigen Herausforderungen sind komplexer als je zuvor.|Present-day challenges are more complex than ever.|der;heutig;Herausforderung;sein;komplex;als;je;zuvor
 1148.001|heutig|adjective|today’s|Die heutige Technologie entwickelt sich rasant.|Today's technology is evolving rapidly.|der;heutig;Technologie;entwickeln;sich;rasant
-1149.0|hallo|particle|hello|Hallo, haben Sie die neuesten Forschungsdaten gesehen?|Hello, have you seen the latest research data?|Hallo;haben;sie;der;neu;Forschungsdatum;sehen
 1150.0|das Museum|noun|museum|Das Museum für moderne Kunst ist einen Besuch wert.|The modern art museum is worth a visit.|der;Museum;für;modern;Kunst;sein;ein;Besuch;wert
 1151.0|die Farbe|noun|color|Die Farbe des Himmels bei Sonnenuntergang war spektakulär.|The color of the sky at sunset was spectacular.|der;Farbe;der;Himmel;bei;Sonnenuntergang;sein;spektakulär
 1152.0|zwölf|number|twelve|Es waren zwölf Gäste bei der Feier anwesend.|Twelve guests were present at the party.|es;sein;zwölf;Gast;bei;der;Feier;anwesend
@@ -1713,7 +1688,6 @@
 1153.001|per|preposition|per|Die Lieferung erfolgt per Expressversand in zwei Tagen.|The delivery is made per express shipping in two days.|der;Lieferung;erfolgen;per;Expressversand;in;zwei;Tag
 1154.0|regelmäßig|adjective|regular|Er geht regelmäßig ins Fitnessstudio, um fit zu bleiben.|He goes to the gym regularly to stay fit.|er;gehen;regelmäßig;in;Fitnessstudio;um;fit;zu;bleiben
 1155.0|her|adverb|from (something)|Der Geruch kam von der Küche her und machte mich hungrig.|The smell came from the kitchen and made me hungry.|der;Geruch;herkommen;von;der;Küche;her;und;machen;mich;hungrig
-1155.001|her|adverb|ago|Vor einer Stunde haben wir die Temperatur gemessen.|An hour ago, we measured the temperature.|vor;ein;Stunde;haben;wir;der;Temperatur;messen
 1156.0|wechseln|verb|to change|Es war an der Zeit, die Batterien zu wechseln.|It was time to change the batteries.|es;sein;an;der;Zeit;der;Batterie;zu;wechseln
 1157.0|einstellen|verb|to adjust|Du musst den Sessel einstellen, damit er bequemer ist.|You need to adjust the chair so it’s more comfortable.|du;musen;der;Sessel;einstellen;damit;er;bequem;sein
 1157.001|einstellen|verb|to employ|Die Personalabteilung stellt neue Mitarbeiter ein.|The HR department hires new employees.|der;Personalabteilung;einstellen;neu;Mitarbeiter;ein
@@ -1773,8 +1747,6 @@
 1192.0|irgendetwas|pronoun|something|Ich brauche irgendetwas zu essen, ich bin hungrig.|I need something to eat, I am hungry.|ich;brauchen;irgendetwas;zu;essen;ich;sein;hungrig
 1192.001|irgendetwas|pronoun|anything|Ich habe nicht irgendetwas Interessantes gehört.|I didn’t hear anything interesting.|ich;haben;nicht;irgendetwas;Interessantes;hören
 1193.0|teilweise|adverb|partly|Der Film war teilweise spannend, aber auch langatmig.|The movie was partly exciting, but also dragged on.|der;Film;sein;teilweise;spannend;aber;auch;langatmig
-1194.0|das Vertrauen|noun|trust|Das Vertrauen des Patienten in den Arzt ist essenziell.|The trust of the patient in the doctor is essential.|der;vertrauen;der;Patient;in;der;Arzt;sein;essenziell
-1194.001|das Vertrauen|noun|faith|Wir müssen Vertrauen in die wissenschaftliche Methode haben.|We must have faith in the scientific method.|wir;müssen;vertrauen;in;der;wissenschaftlich;Methode;haben
 1195.0|vertrauen|verb|to trust|Es ist schwer, Menschen zu vertrauen, die lügen.|It’s hard to trust people who lie.|es;sein;schwer;Mensch;zu;vertrauen;der;lügen
 1196.0|das Jahrzehnt|noun|decade|Das Jahrzehnt war geprägt von technologischem Fortschritt.|The decade was marked by technological progress.|der;Jahrzehnt;sein;prägen;von;technologisch;Fortschritt
 1197.0|der Wind|noun|wind|Der Wind wehte stark, und die Bäume bogen sich im Sturm.|The wind blew hard, and the trees bent in the storm.|der;Wind;wehen;stark;und;der;Baum;bogen;sich;in;Sturm
@@ -1804,7 +1776,7 @@
 1212.002|der Gang|noun|course|Der Gang zum Büro dauert nur fünf Minuten.|The walk to the office takes only five minutes.|der;Gang;zu;Büro;dauern;nur;fünf;Minute
 1213.0|der Politiker|noun|politician|Der Politiker hielt eine leidenschaftliche Rede.|The politician gave a passionate speech.|der;Politiker;halten;ein;leidenschaftlich;Rede
 1214.0|die Unterstützung|noun|support|Die technische Unterstützung hat das Problem schnell gelöst.|The technical support solved the issue quickly.|der;technisch;Unterstützung;haben;der;Problem;schnell;lösen
-1215.0|hey|particle|hey|Hey, hast du die Daten zur Beschleunigung der Teilchen?|Hey, do you have the data on the acceleration of the particles?|Hey;haben;du;der;Datum;zu;Beschleunigung;der;Teilche
+1215.0|hey|particle|hey|Hey, hast du die neuesten Forschungsergebnisse gesehen?|Hey, have you seen the latest research findings?|Hey;haben;du;der;neu;Forschungsergebnis;sehen
 1216.0|brechen|verb|to break|Er brach das Glas aus Versehen, als er es abstellte.|He broke the glass by accident when he set it down.|er;brechen;der;Glas;aus;Versehen;als;er;es;abstellen
 1217.0|fassen|verb|to grab|Er fasste die Tasche schnell und rannte los.|He grabbed the bag quickly and ran off.|er;fassen;der;Tasche;schnell;und;losrannen;los
 1217.001|fassen|verb|to grasp|Es fällt mir schwer, diesen Gedanken zu fassen.|I find it hard to grasp this idea.|es;schwerfallen;mir;schwer;dieser;Gedanke;zu;fassen
@@ -1856,14 +1828,12 @@
 1251.0|tausend|number|thousand|Das Stadion fasst über tausend Zuschauer.|The stadium holds over a thousand spectators.|der;Stadion;fassen;über;tausend;Zuschauer
 1252.0|die Tat|noun|deed|Seine Tat wird lange in Erinnerung bleiben.|His deed will be remembered for a long time.|sein;Tat;werden;lange;in;Erinnerung;bleiben
 1252.001|die Tat|noun|action|Die Tat des Helden wurde von allen bewundert.|The action of the hero was admired by everyone.|der;Tat;der;Held;werden;von;alle;bewundern
-1253.0|obere|adjective|upper|Die obere Schicht des Materials hat eine höhere Temperatur.|The upper layer of the material has a higher temperature.|der;oberer;Schicht;der;Material;haben;ein;hoch;Temperatur
+1253.0|obere|adjective|upper|Die obere Schicht der Haut enthält viele Nervenzellen.|The upper layer of the skin contains many nerve cells.|der;oberer;Schicht;der;Haut;enthalten;vieler;Nervenzelle
 1254.0|die Gleichung|noun|equation|Die Lösung der Gleichung ist ziemlich kompliziert.|The solution to the equation is quite complicated.|der;Lösung;der;Gleichung;sein;ziemlich;kompliziert
 1255.0|der Stein|noun|rock|Der Stein am Strand war glatt und glänzend.|The rock on the beach was smooth and shiny.|der;Stein;an;Strand;sein;glatt;und;glänzend
 1255.001|der Stein|noun|stone|Er hob einen schweren Stein vom Boden auf.|He lifted a heavy stone from the ground.|er;aufheben;ein;schwer;Stein;von;Boden;auf
 1256.0|kümmern (sich)|verb|to take care of|Er kümmert sich um die Organisation der Veranstaltung.|He takes care of the organization of the event.|er;kümmern;sich;um;der;Organisation;der;Veranstaltung
 1256.001|kümmern (sich)|verb|to be concerned|Er kümmert sich um das Wohl seiner Familie.|He is concerned about the well-being of his family.|er;kümmern;sich;um;der;Wohl;sein;Familie
-1257.0|mittlere|adjective|middle|Die mittlere Geschwindigkeit der Moleküle ist konstant.|The average speed of the molecules is constant.|der;mittlerer;Geschwindigkeit;der;Molekül;sein;konstant
-1257.001|mittlere|adjective|average|Die mittlere Temperatur des Systems bleibt stabil.|The average temperature of the system remains stable.|der;mittlerer;Temperatur;der;System;bleiben;stabil
 1258.0|erheben|verb|to raise|Er erhob seine Hand, um eine Frage zu stellen.|He raised his hand to ask a question.|er;erheben;sein;Hand;um;ein;Frage;zu;stellen
 1259.0|die Erklärung|noun|explanation|Die Erklärung des Managers war klar und überzeugend.|The explanation from the manager was clear and convincing.|der;Erklärung;der;Manager;sein;klar;und;überzeugend
 1260.0|das Konzept|noun|concept|Einvernehmlicher Sex ist ein zeitgemässes Konzept.|Consensual sex is a contemporary concept.|einvernehmlich;Sex;sein;ein;zeitgemäss;Konzept
@@ -1902,7 +1872,7 @@
 1281.0|der Hintergrund|noun|background|Der Hintergrund des Bildes war sehr detailreich.|The background of the picture was very detailed.|der;Hintergrund;der;Bild;sein;sehr;detailreich
 1282.0|der Osten, Ost-|noun|east|Im Osten gibt es weniger medizinische Einrichtungen.|In the east, there are fewer medical facilities.|in;Osten;geben;es;weniger;medizinisch;Einrichtung
 1283.0|Amerika|noun|America|Er träumt davon, eines Tages nach Amerika zu ziehen.|He dreams of moving to America one day.|er;träumen;davon;ein;Tag;nach;Amerika;zu;ziehen
-1284.0|geboren|adjective|born|Das Experiment wurde vor 10 Jahren geboren.|The experiment was conceived 10 years ago.|der;Experiment;werden;vor;10;Jahr;gebären
+1284.0|geboren|adjective|born|Er wurde mit einer seltenen genetischen Störung geboren.|He was born with a rare genetic disorder.|er;werden;mit;ein;selten;genetisch;Störung;gebären
 1285.0|gefährlich|adjective|dangerous|Diese Bergstraße ist besonders gefährlich im Winter.|This mountain road is particularly dangerous in winter.|dieser;Bergstraße;sein;besonders;gefährlich;in;Winter
 1286.0|zwingen|verb|to force|Er zwang sie, das Geheimnis zu verraten.|He forced her to reveal the secret.|er;zwingen;sie;der;Geheimnis;zu;verraten
 1287.0|das Bier|noun|beer|Er trank ein kaltes Bier nach der langen Wanderung.|He drank a cold beer after the long hike.|er;trinken;ein;kalt;Bier;nach;der;lang;Wanderung
@@ -1953,7 +1923,6 @@
 1314.001|eintreten|verb|to join|Möchtest du uns beim nächsten Meeting eintreten?|Would you like to join us at the next meeting?|Möchtest;du;uns;bei;nächster;Meeting;eintreten
 1314.002|eintreten|verb|to occur|Etwas Unerwartetes könnte jederzeit eintreten.|Something unexpected could occur at any moment.|etwas;Unerwartetes;können;jederzeit;eintreten
 1315.0|kritisch|adjective|critical|Der kritische Fehler im System muss sofort behoben werden.|The critical error in the system must be fixed immediately.|der;kritisch;Fehler;in;System;muss;sofort;behoben;werden
-1316.0|äh|particle|um|Äh, können Sie die Ergebnisse noch einmal zeigen?|Um, can you show the results again?|Äh;können;sie;der;Ergebnis;noch;einmal;zeigen
 1317.0|das Wochenende|noun|weekend|Am Wochenende fahren wir immer ins Grüne.|We always go to the countryside on the weekend.|an;Wochenende;fahren;wir;immer;in;grüne
 1318.0|der Donnerstag|noun|Thursday|Donnerstag ist der beste Tag für unser Teammeeting.|Thursday is the best day for our team meeting.|Donnerstag;sein;der;gut;Tag;für;unser;Teammeeting
 1319.0|die Saison|noun|season|Die Saison für frische Erdbeeren dauert nur einen Monat.|The season for fresh strawberries lasts only a month.|der;Saison;für;frisch;Erdbeere;dauern;nur;ein;Monat
@@ -2029,7 +1998,6 @@
 1372.0|bemerken|verb|to notice|Ich bemerkte einen Fehler, den niemand sonst sah.|I noticed a mistake that no one else saw.|ich;bemerken;ein;Fehler;der;niemand;sonst;sehen
 1373.0|der Kaffee|noun|coffee|Er hat den Kaffee ohne Zucker getrunken.|He drank the coffee without sugar.|er;haben;der;Kaffee;ohne;Zucker;trunken
 1374.0|leid|adverb|(be) tired (of)|Ich bin leid, immer wieder dieselben Fragen zu beantworten.|I’m tired of answering the same questions over and over.|ich;sein;leid;immer;wieder;derselbe;Frage;zu;beantworten
-1375.0|das Leid|noun|sorrow|Sein Herz war voller Leid, als er von der Nachricht hörte.|His heart was filled with sorrow when he heard the news.|sein;Herz;sein;voll;Leid;als;er;von;der;Nachricht;hören
 1375.001|das Leid|noun|grief|Sie trugen das Leid des Krieges tief in ihren Herzen.|They carried the grief of war deep in their hearts.|sie;tragen;der;Leid;der;Krieg;tief;in;ihr;Herz
 1376.0|still|adjective|still|Der Raum war still, nur das Ticken der Uhr war zu hören.|The room was still, only the ticking of the clock could be heard.|der;Raum;sein;still;nur;der;Ticken;der;Uhr;sein;zu;hören
 1376.001|still|adjective|quiet|Es war eine stille Nacht, ohne ein einziges Geräusch.|It was a quiet night with not a single sound.|es;sein;ein;still;Nacht;ohne;ein;einzig;Geräusch
@@ -2065,7 +2033,7 @@
 1398.0|die Fähigkeit|noun|ability|Seine Fähigkeit, Probleme zu lösen, ist außergewöhnlich.|His ability to solve problems is exceptional. |sein;Fähigkeit;Problem;zu;lösen;sein;außergewöhnlich
 1398.001|die Fähigkeit|noun|capability|Sie hat eine besondere Fähigkeit zum Zeichnen.|She has a special capability for drawing.|sie;haben;ein;besonderer;Fähigkeit;zu;Zeichnen
 1399.0|finanziell|adjective|financial|Er steckt in einer finanziellen Notlage.|He is in financial hardship.|er;stecken;in;ein;finanziell;Notlage
-1400.0|die Jugendliche|noun|adolescent|Die Jugendliche reagierte gut auf die Therapie.|The adolescent responded well to the therapy.|der;jugendliche;reagieren;gut;auf;der;Therapie
+1400.0|die Jugendliche|noun|adolescent|Die Jugendliche zeigte Symptome einer Autoimmunerkrankung.|The adolescent showed symptoms of an autoimmune disease.|der;jugendliche;zeigen;Symptom;ein;Autoimmunerkrankung
 1401.0|das Netz|noun|net|Der Fisch schwamm durch das Netz, bevor er gefangen wurde.|The fish swam through the net before being caught.|der;Fisch;schwamm;durch;der;Netz;bevor;er;gefangen;werden
 1401.001|das Netz|noun|network|Das Rezept wurde im Netz weit verbreitet und hat viele Fans.|The recipe spread widely on the network and gained many fans.|der;Rezept;werden;in;Netz;weit;verbreiten;und;haben;vieler;Fan
 1402.0|die Änderung|noun|change|Die Änderung des Codes wurde im letzten Update vorgenommen.|The change to the code was made in the last update.|der;Änderung;der;Code;werden;in;letzter;Update;vornehmen
@@ -2108,8 +2076,7 @@
 1425.0|rasch|adjective|quick|Er reagierte rasch auf die Notwendigkeit einer Lösung.|He responded quickly to the need for a solution.|er;reagieren;rasch;auf;der;Notwendigkeit;ein;Lösung
 1426.0|real|adjective|real|Er hatte einen realen Grund, sich Sorgen zu machen.|He had a real reason to worry.|er;haben;ein;real;Grund;sich;Sorge;zu;machen
 1426.001|real|adjective|real|Das war ein realer Notfall, keine Übung.|That was a real emergency, not a drill.|der;sein;ein;real;Notfall;kein;Übung
-1427.0|die Abgeordnete|noun|member of parliament|Die Abgeordnete sprach über Gesundheitsreformen.|The member of parliament spoke about health reforms.|der;abgeordneter;sprechen;über;Gesundheitsreform
-1427.001|die Abgeordnete|noun|congress|Die Abgeordnete hielt eine Rede im Kongress.|The congresswoman gave a speech in congress.|der;abgeordneter;halten;ein;Rede;in;Kongress
+1427.0|die Abgeordnete|noun|member of parliament|Die Abgeordnete forderte eine bessere Gesundheitsversorgung.|The member of parliament called for better healthcare.|der;abgeordneter;fordern;ein;gut;Gesundheitsversorgung
 1428.0|verstärken|verb|to strengthen|Sie beschlossen, ihre Partnerschaft zu verstärken.|They decided to strengthen their partnership.|sie;beschließen;ihr;Partnerschaft;zu;verstärken
 1428.001|verstärken|verb|to reinforce|Er verstärkt die Mauer mit Stahlträgern.|He reinforces the wall with steel beams.|er;verstärken;der;Mauer;mit;Stahlträger
 1429.0|ausschließen|verb|to exclude|Die Entscheidung, ihn auszuschließen, war unumgänglich.|The decision to exclude him was inevitable.|der;Entscheidung;ihn;ausschließen;sein;unumgänglich
@@ -2160,7 +2127,6 @@
 1460.0|diesmal|adverb|this time|Diesmal werde ich die Entscheidung alleine treffen.|This time, I will make the decision alone.|diesmal;werden;ich;der;Entscheidung;alleine;treffen
 1461.0|das Gehirn|noun|brain|Das Gehirn verarbeitet Informationen auf erstaunliche Weise.|The brain processes information in amazing ways.|der;Gehirn;verarbeiten;Information;auf;erstaunlich;Weise
 1462.0|das Gebäude|noun|building|Das Gebäude wurde durch das Feuer zerstört.|The building was destroyed by the fire.|der;Gebäude;werden;durch;der;Feuer;zerstören
-1463.0|langfristig|adjective|long-term|Langfristig wird die Therapie hilfreich sein.|In the long term, the therapy will be helpful.|Langfristig;werden;der;Therapie;hilfreich;sein
 1464.0|herzlich|adjective|cordial|Wir bedanken uns herzlich für die Einladung.|We offer our cordial thanks for the invitation.|wir;bedanken;sich;herzlich;für;der;Einladung
 1464.001|herzlich|adjective|warm|Ihr herzliches Lachen erfüllte den Raum.|Her warm laughter filled the room.|ihr;herzlich;Lachen;erfüllen;der;Raum
 1465.0|sichern|verb|to secure|Er konnte das Auto erfolgreich sichern, bevor es wegging.|He was able to secure the car before it drove off.|er;können;der;Auto;erfolgreich;sichern;bevor;es;weggehen
@@ -2203,7 +2169,6 @@
 1487.0|hell|adjective|light|Das Zimmer war hell und freundlich gestaltet.|The room was designed to be light and welcoming.|der;Zimmer;sein;hell;und;freundlich;gestalten
 1487.001|hell|adjective|bright|Die hellen Lichter der Stadt spiegelten sich im Wasser.|The bright lights of the city reflected in the water.|der;hell;Licht;der;Stadt;spiegeln;sich;in;Wasser
 1488.0|mitten|adverb|in the middle|Mitten in der Nacht begann es zu schneien.|In the middle of the night, it started snowing.|mitten;in;der;Nacht;beginnen;es;zu;schneien
-1489.0|zufolge|preposition|according to|Laut der Studie steigt die Heilungsrate.|According to the study, the cure rate increases.|laut;der;Studie;steigen;der;Heilungsrate
 1490.0|der Konflikt|noun|conflict|Der Konflikt zwischen den beiden Ländern eskalierte schnell.|The conflict between the two countries escalated quickly.|der;Konflikt;zwischen;der;beide;Land;eskalieren;schnell
 1491.0|die Bahn|noun|train|Die Bahn ist heute aufgrund des Sturms verspätet.|The train is delayed today due to the storm.|der;Bahn;sein;heute;aufgrund;der;Sturm;verspätet
 1491.001|die Bahn|noun|railway|Die Bahn führt direkt in die Innenstadt.|The railway leads directly to the city center.|der;Bahn;führen;direkt;in;der;Innenstadt
@@ -2458,7 +2423,6 @@
 1666.002|die Bestimmung|noun|fate|Er konnte der Bestimmung nicht entkommen, die ihn führte.|He couldn’t escape the fate that led him.|er;können;der;Bestimmung;nicht;entkommen;der;ihn;führen
 1667.0|vermeiden|verb|to avoid|Um Ärger zu vermeiden, gingen wir lieber früh nach Hause.|To avoid trouble, we went home early.|um;Ärger;zu;vermeiden;gehen;wir;lieber;früh;nach;Haus
 1668.0|ehrlich|adjective|honest|Sie war immer ehrlich zu mir, selbst in schwierigen Zeiten.|She was always honest with me, even in difficult times.|sie;sein;immer;ehrlich;zu;mir;selbst;in;schwierig;Zeit
-1669.0|beachten|verb|to pay attention|Wir müssen besonders auf die genetischen Faktoren achten.|We must especially pay attention to the genetic factors.|wir;müssen;besonders;auf;der;genetisch;Faktor;achten
 1669.001|beachten|verb|to observe|Man sollte die Verkehrsregeln genau beachten.|One should closely observe the traffic rules.|man;sollen;der;Verkehrsregel;genau;beachten
 1670.0|statistisch|adjective|statistical|Die statistischen Daten zeigen einen Rückgang der Zahlen.|The statistical data shows a decline in the numbers.|der;statistisch;Datum;zeigen;ein;Rückgang;der;Zahl
 1671.0|der Hals|noun|neck|Der Hals des Flusses war von Bäumen gesäumt.|The neck of the river was lined with trees.|der;Hals;der;Fluss;sein;von;Baum;säumen
@@ -2611,11 +2575,47 @@
 1773.0|die Führung|noun|management|Die Führung des Unternehmens hat klare Ziele gesetzt.|The management of the company has set clear goals.|der;Führung;der;Unternehmen;haben;klar;Ziel;setzen
 1773.001|die Führung|noun|command|Die Führung der Armee muss schnell auf die Krise reagieren.|The command of the army must respond quickly to the crisis.|der;Führung;der;Armee;muss;schnell;auf;der;Krise;reagieren
 1773.002|die Führung|noun|leadership|Ihre Führung in der Krise war bemerkenswert.|Her leadership in the crisis was remarkable.|ihr;Führung;in;der;Krise;sein;bemerkenswert
-1774.0|untere|adjective|lower|Die untere Schicht des Materials ist dichter.|The lower layer of the material is denser.|der;unterer;Schicht;der;Material;sein;dicht
+1774.0|untere|adjective|lower|Die untere Wirbelsäule ist oft von Verletzungen betroffen.|The lower spine is often affected by injuries.|der;unterer;Wirbelsäule;sein;oft;von;Verletzung;betreffen
 1775.0|das Handy|noun|mobile phone|Sie benutzte ihr Handy, um das Rezept zu finden.|She used her mobile phone to find the recipe.|sie;benutzen;ihr;Handy;um;der;Rezept;zu;finden
 1776.0|die Hauptstadt|noun|capital city|Die Hauptstadt ist das politische Zentrum des Landes.|The capital city is the political center of the country.|der;Hauptstadt;sein;der;politisch;Zentrum;der;Land
 1777.0|das Experiment|noun|experiment|Das Experiment hat neue, wichtige Erkenntnisse geliefert.|The experiment has provided new, important insights.|der;Experiment;haben;neu;wichtig;Erkenntnis;liefern
 1778.0|der Frieden|noun|peace|Frieden ist für die Gesellschaft wichtig.|Peace is important for society.|Frieden;sein;für;der;Gesellschaft;wichtig
+234.0|denen (pl, Dativ)|pronoun|whom
+234.002|denen (pl, Dativ)|pronoun|those
+334.0|deren|pronoun|whose
+385.0|dessen|pronoun|whose
+433.0|meiste|adjective|most
+450.0|jene|pronoun|that
+450.001|jene|pronoun|those
+452.001|oh|particle|aw
+557.0|das Deutsche|noun|German language
+570.0|besondere|adjective|special
+607.0|sogenannt|adjective|so-called
+715.0|das Auftreten|noun|behavior
+715.001|das Auftreten|noun|conduct
+715.002|das Auftreten|noun|occurrence
+851.0|rechte|adjective|right
+872.0|das Lächeln|noun|smile
+1000.0|es ist egal|adverb|(it’s all) the same
+1000.001|es ist egal|adverb|indifferent
+1000.002|es ist egal|adverb|doesn't matter
+1019.0|die Medien (pl)|noun|media
+1041.0|das Schweigen|noun|silence
+1090.0|die Grüne|noun|the Greens
+1099.0|diejenige|pronoun|the one who
+1099.002|diejenige|pronoun|that
+1149.0|hallo|particle|hello
+1155.001|her|adverb|ago
+1194.0|das Vertrauen|noun|trust
+1194.001|das Vertrauen|noun|faith
+1257.0|mittlere|adjective|middle
+1257.001|mittlere|adjective|average
+1316.0|äh|particle|um
+1375.0|das Leid|noun|sorrow
+1427.001|die Abgeordnete|noun|congress
+1463.0|langfristig|adjective|long-term
+1489.0|zufolge|preposition|according to
+1669.0|beachten|verb|to pay attention
 1779.0|der Verlauf|noun|course
 1780.0|das Potenzial|noun|potential
 1781.0|der Verlag|noun|publishing company
