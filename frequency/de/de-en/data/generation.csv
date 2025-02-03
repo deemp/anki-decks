@@ -48,7 +48,7 @@
 32.001|als|conjunction|when|Als ich dort ankam, war es schon dunkel.|When I arrived there, it was already dark.|als;ich;dort;ankommen;sein;es;schon;dunkel
 33.0|als|particle|than|Das Verhalten war stärker als erwartet ausgeprägt.|The behavior was more pronounced than expected.|der;verhalten;sein;stark;als;erwarten;ausgeprägt
 34.0|können|verb|to be able to|Er kann endlich seine Träume verwirklichen.|He is finally able to make his dreams come true.|er;können;endlich;sein;Traum;verwirklichen
-34.001|können|verb|to can|Er kann nicht kommen, weil er krank ist.|He cannot come because he is sick.|er;können;nicht;kommen;weil;er;krank;sein
+34.001|können|verb|to can|Man kann das Spiel echt schnell durchzocken, wenn man will.|You can finish the game really quickly if you want.|man;können;der;Spiel;echt;schnell;durchzocken;wenn;man;wollen
 35.0|dies|pronoun|this|Dies ist eine neue Entdeckung in der Molekularbiologie.|This is a new discovery in molecular biology.|dieser;sein;ein;neu;Entdeckung;in;der;Molekularbiologie
 35.001|dies|pronoun|that|Dies ist ein wichtiges Konzept in der Immunologie.|That is an important concept in immunology.|dieser;sein;ein;wichtig;Konzept;in;der;Immunologie
 36.0|wie|particle|as|Er arbeitet genauso hart wie sein Bruder.|He works as hard as his brother.|er;arbeiten;genauso;hart;wie;sein;Bruder
@@ -71,7 +71,7 @@
 45.0|sein|pronoun|his|Das ist sein Lieblingsbuch aus der Kindheit.|This is his favorite book from childhood.|der;sein;sein;Lieblingsbuch;aus;der;Kindheit
 45.001|sein|pronoun|its|Der Baum verlor sein Laub im kalten Winter.|The tree lost its leaves in the cold winter.|der;Baum;verlieren;sein;Laub;in;kalt;Winter
 46.0|aber|conjunction|but|Die Theorie ist gut, aber die Daten widersprechen ihr.|The theory is good, but the data contradict it.|der;Theorie;sein;gut;aber;der;Datum;widersprechen;ihr
-47.0|aber|particle||du;aussiehen;aber;ziemlich;müde;aus;heute||du;aussiehen;aber;ziemlich;müde;aus;heute
+47.0|aber|particle|(emphasis)|Du siehst aber echt müde aus, hast du wenig geschlafen?|You look pretty tired, did you sleep little?|du;aussiehst;aber;echt;müde;aus;haben;du;wenig;schlafen
 48.0|man|pronoun|one|Man sollte immer ehrlich zu sich selbst sein.|One should always be honest with oneself.|man;sollen;immer;ehrlich;zu;sich;selbst;sein
 48.001|man|pronoun|you|Man sollte jeden Tag etwas Neues lernen.|You should learn something new every day.|man;sollen;jeder;Tag;etwas;neue;lernen
 48.002|man|pronoun|they|Man sollte immer auf seine Gesundheit achten.|They should always pay attention to their health.|man;sollen;immer;auf;sein;Gesundheit;achten
@@ -788,7 +788,7 @@
 528.0|weiß|adjective|white|Das weiße Hemd war perfekt für den Sommer.|The white shirt was perfect for summer.|der;weiß;Hemd;sein;perfekt;für;der;Sommer
 529.0|der Text|noun|text|Der Text, den Sie mir geschickt haben, ist sehr hilfreich.|The text you sent me is very helpful.|der;Text;der;sie;mir;schicken;haben;sein;sehr;hilfreich
 530.0|schwarz|adjective|black|Der schwarze Hund lag ruhig im Schatten des Baumes.|The black dog lay calmly in the shade of the tree.|der;schwarz;Hund;liegen;ruhig;in;Schatten;der;Baum
-531.0|sterben|verb|to die|Die Blumen sind gestorben, weil sie zu wenig Wasser hatten.|The flowers died because they had too little water.|der;Blume;sein;sterben;weil;sie;zu;wenig;Wasser;haben
+531.0|sterben|verb|to die|Es ist hart, jemanden zu sehen, der so schnell sterben muss.|It's hard to see someone who has to die so quickly.|es;sein;hart;jemand;zu;sehen;der;so;schnell;sterben;muss
 532.0|der Markt|noun|market|Der Markt für biologische Produkte wächst jedes Jahr.|The market for organic products grows every year.|der;Markt;für;biologisch;Produkt;wachsen;jeder;Jahr
 533.0|rot|adjective|red|Die Blumen im Garten sind leuchtend rot.|The flowers in the garden are brightly red.|der;Blume;in;Garten;sein;leuchtend;rot
 534.0|halt|particle|just|Das ist halt das Leben, man muss sich anpassen.|That’s just life, you have to adapt.|der;sein;halt;der;Leben;man;muss;sich;anpassen
@@ -984,7 +984,7 @@
 662.0|verhalten|verb|to behave|Kinder sollten sich respektvoll verhalten.|Children should behave respectfully.|Kind;sollen;sich;respektvoll;verhalten
 662.001|verhalten|verb|to act|Er verhält sich höflich zu den Vorgesetzten.|He behaves politely toward the superiors.|er;verhalten;sich;höflich;zu;der;vorgesetzter
 663.0|mindestens|adverb|at least|Wir müssen mindestens fünfzig Teilnehmer haben.|We need at least fifty participants.|wir;müssen;mindestens;fünfzig;Teilnehmer;haben
-664.0|ziemlich|adverb|quite|Es war ziemlich laut, aber ich konnte trotzdem schlafen.|It was quite loud, but I could still sleep.|es;sein;ziemlich;laut;aber;ich;können;trotzdem;schlafen
+664.0|ziemlich|adverb|quite|Der neue Game-Release ist ziemlich krank, echt fett.|The new game release is quite awesome, really sick.|der;neu;Game-Release;sein;ziemlich;krank;echt;fett
 664.001|ziemlich|adverb|fairly|Er war ziemlich überrascht von der Nachricht.|He was fairly surprised by the news.|er;sein;ziemlich;überraschen;von;der;Nachricht
 664.002|ziemlich|adverb|pretty|Die Aussicht von hier oben ist ziemlich beeindruckend.|The view from here is pretty impressive.|der;Aussicht;von;hier;oben;sein;ziemlich;beeindruckend
 665.0|das Interesse|noun|interest|Sein Interesse an Geschichte ist ungebrochen.|His interest in history is unbroken.|sein;Interesse;an;Geschichte;sein;ungebrochen
