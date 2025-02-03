@@ -6,8 +6,10 @@ from functools import cmp_to_key
 from pathlib import Path
 import pandas as pd
 from IPython.display import display
+import spacy
 
 os.chdir(f'{os.environ["ROOT_DIR"]}/frequency/de')
+nlp = spacy.load("de_dep_news_trf")
 
 # %%
 
@@ -22,12 +24,16 @@ class PATH:
     DECK = DE_EN / "deck.csv"
     EXTRA = DATA / "extra.csv"
     GENERATION_DATA = DATA / "generation.csv"
+    WORD_COUNT = DATA / "word-count.csv"
+    WORDS_BAD_BASEFORM = DATA / "words-bad-baseform.csv"
 
 
 class DECK_PART_START_INDEX:
     P1 = 0
-    P2 = 1701
-    P3 = 3401
+    # frequency rank 1700
+    P2 = 1783
+    # frequency rank 3400
+    P3 = 3501
 
 
 class INDEX_SUFFIX:
@@ -35,12 +41,21 @@ class INDEX_SUFFIX:
     NEW_WORD = 0.0001
 
 
-MAX_OCCURENCES = 5
+class SENTENCE_LENGTH:
+    # min and max for each deck part
+    MIN1 = 40
+    MAX1 = 60
+    MIN2 = 60
+    MAX2 = 80
+    MIN3 = 80
+    MAX3 = 100
 
-DEWIKI_NOUN_ARTICLES = pd.read_csv(
-    "../../custom/de/data/dewiki-noun-articles.csv", sep="|"
-)
-LEMMATA = pd.read_csv("../../custom/de/data/dwds_lemmata_2025-01-15.csv")
+
+ARTICLES_FULL = ["die", "der", "das"]
+
+LEMMATIZED_SEP = ";"
+
+MAX_OCCURENCES = 5
 
 
 def normalize_index_single(index: float):
@@ -63,6 +78,11 @@ def write_deck(deck: pd.DataFrame()):
     normalize_index(deck)
     deck.to_csv(PATH.DECK, sep="|")
     remove_separators_in_file(path=PATH.DECK, n=5)
+
+
+def write_gen_data(gen_data: pd.DataFrame()):
+    gen_data.to_csv(PATH.GENERATION_DATA, sep="|")
+    remove_separators_in_file(path=PATH.GENERATION_DATA, n=3)
 
 
 def normalize_verb(x: pd.DataFrame):
@@ -226,20 +246,236 @@ def copy_data_for_generation():
 
     columns = [
         "word_de",
-        "part_of_speech_short",
+        "part_of_speech",
         "word_en",
-        "sentence_de",
-        "sentence_en",
     ]
     if not Path(PATH.GENERATION_DATA).is_file():
         pd.DataFrame(columns=columns).to_csv(PATH.GENERATION_DATA, sep="|")
 
     generation_data = pd.read_csv(PATH.GENERATION_DATA, sep="|", index_col=0)
 
-    generation_data[columns] = deck[columns]
+    deck_missing_rows = deck.loc[~deck.index.isin(generation_data.index), columns]
 
-    generation_data.to_csv(PATH.GENERATION_DATA, sep="|")
+    generation_data.loc[:, columns] = deck.loc[generation_data.index, columns].values
 
+    generation_data = pd.concat([generation_data, deck_missing_rows])
+
+    write_gen_data(gen_data=generation_data)
+
+
+def make_baseform(word: str) -> str:
+    # article
+    if word in ARTICLES_FULL:
+        return word
+    for i, j in enumerate(word):
+        if j in [".", "(", ","]:
+            word = word[:i].strip()
+            break
+    # noun or name
+    if word[0].isupper():
+        return word
+    # noun with an article
+    if word[:3] in ARTICLES_FULL and word[3] == " ":
+        for i, j in enumerate(word):
+            if j.isupper():
+                word = word[i:]
+                break
+        return word
+    return word
+
+
+def is_noun(word: str):
+    return make_baseform(word)[0].isupper()
+
+
+def tokenize_sentence(sentence: str):
+    doc = nlp(sentence)
+    tokens = [tok.lemma_ for tok in doc]
+
+    # separable verbs
+    for token in doc:
+        if token.dep_ == "svp" and token.head.pos_ == "VERB":
+            verb_stem = token.head.lemma_
+            prefix = token.text
+            tokens[token.head.i] = prefix + verb_stem
+
+    tokens = [tok for tok in tokens if tok not in ["-", "--", " ", "  "]]
+
+    return LEMMATIZED_SEP.join(tokens)
+
+
+def update_gen_data_lemmatized_sentences(gen_data: pd.DataFrame()):
+    not_lemmatized_cond = gen_data["sentence_lemmatized_de"].isna()
+
+    gen_data.loc[not_lemmatized_cond, "sentence_lemmatized_de"] = gen_data.loc[
+        not_lemmatized_cond, "sentence_de"
+    ].map(tokenize_sentence, na_action="ignore")
+
+    write_gen_data(gen_data=gen_data)
+
+    return gen_data
+
+
+def update_word_counts(gen_data=pd.DataFrame()):
+    words = pd.DataFrame(
+        gen_data["sentence_lemmatized_de"]
+        .map(lambda x: x.split(";"), na_action="ignore")
+        .explode("sentence_lemmatized_de")
+    ).rename(columns={"sentence_lemmatized_de": "word_de"})
+
+    word_counts = pd.DataFrame(words.value_counts())
+    word_counts.to_csv(PATH.WORD_COUNT, sep="|")
+
+    return word_counts
+
+
+def check_is_correct_sentence(
+    row: pd.Series(), word_stats: pd.DataFrame(), words_bad_wordforms: pd.DataFrame()
+) -> bool:
+    word_de = row["word_de"]
+    word_de = (
+        make_baseform(word_de)
+        if row.name not in words_bad_wordforms.index
+        else words_bad_wordforms.loc[
+            words_bad_wordforms["word"] == word_de, "baseform"
+        ].values[0]
+    )
+
+    sentence_lemmatized_de = row["sentence_lemmatized_de"].split(LEMMATIZED_SEP)
+
+    word_is_in_the_sentence = (
+        # True
+        word_de
+        in sentence_lemmatized_de
+    )
+
+    words = pd.DataFrame(data=sentence_lemmatized_de, columns=["word_de"])
+
+    word_counts = words.join(word_stats, on="word_de", rsuffix="r")
+
+    # run this check on all sentences
+    # because the number of sentences will grow
+    # and the word counts will grow too
+    sentence_contains_rare_words = any(
+        (word_counts["word_de"] != word_de) & (word_counts["count"] <= MAX_OCCURENCES)
+    )
+
+    result = sentence_contains_rare_words & word_is_in_the_sentence
+
+    # I subtract to correctly analyze other rows
+    if not result:
+        for word in words["word_de"]:
+            word_stats.loc[word, "count"] -= 1
+
+    return result
+
+
+def partition_gen_data_by_having_sentence_de(gen_data: pd.DataFrame()):
+    has_data_cond = gen_data["sentence_de"].notna()
+    rows_with_data = gen_data[has_data_cond].sort_index()
+    rows_without_data = gen_data[~has_data_cond].sort_index()
+
+    gen_data = pd.concat([rows_with_data, rows_without_data])
+    write_gen_data(gen_data=gen_data)
+
+    return rows_with_data, rows_without_data
+
+
+def get_sentence_length_bounds(idx: float):
+    if idx < DECK_PART_START_INDEX.P2:
+        return SENTENCE_LENGTH.MIN1, SENTENCE_LENGTH.MAX1
+    if idx < DECK_PART_START_INDEX.P3:
+        return SENTENCE_LENGTH.MIN2, SENTENCE_LENGTH.MAX2
+    return SENTENCE_LENGTH.MIN3, SENTENCE_LENGTH.MAX3
+
+
+def check_sentence_length(x: pd.Series()):
+    idx = x.name
+    mini, maxi = get_sentence_length_bounds(idx=idx)
+    return pd.notna(x["sentence_de"]) and mini <= len(x["sentence_de"]) <= maxi
+
+
+def filter_gen_data_by_sentence_length(gen_data: pd.DataFrame()):
+    rows_with_data, rows_without_data = partition_gen_data_by_having_sentence_de(
+        gen_data=gen_data
+    )
+
+    is_good_sentence_length_cond = rows_with_data.apply(check_sentence_length, axis=1)
+    rows_with_good_sentence_length = rows_with_data[is_good_sentence_length_cond]
+    rows_with_bad_sentence_length = pd.DataFrame(
+        rows_with_data.loc[
+            ~is_good_sentence_length_cond, ["word_de", "part_of_speech", "word_en"]
+        ]
+    )
+
+    rows_without_data = pd.concat(
+        [rows_with_bad_sentence_length, rows_without_data]
+    ).sort_index()
+
+    gen_data = pd.concat([rows_with_good_sentence_length, rows_without_data])
+
+    write_gen_data(gen_data=gen_data)
+
+    return gen_data
+
+
+def partition_gen_data_for_generation(gen_data: pd.DataFrame()):
+    gen_data = filter_gen_data_by_sentence_length(gen_data=gen_data)
+    gen_data = update_gen_data_lemmatized_sentences(gen_data=gen_data)
+    word_stats = update_word_counts(gen_data=gen_data)
+    rows_with_data, rows_without_data = partition_gen_data_by_having_sentence_de(
+        gen_data=gen_data
+    )
+
+    words_bad_wordforms = pd.read_csv(PATH.WORDS_BAD_BASEFORM, sep="|", index_col=0)
+
+    # prefer removing rows with a larger index
+    # to change rows with smaller index less frequently
+    # to preserve progress
+    #
+    # rows with smaller indices may get removed
+    # if we leave rows with larger indices that introduced some words
+    # that increased word counts
+    # and hence disallowed rows with smaller indices to stay
+    is_correct_sentence_cond = (
+        rows_with_data.iloc[::-1]
+        .apply(
+            lambda row: check_is_correct_sentence(
+                row=row, word_stats=word_stats, words_bad_wordforms=words_bad_wordforms
+            ),
+            axis=1,
+        )
+        .iloc[::-1]
+    )
+
+    has_correct_sentence = rows_with_data[is_correct_sentence_cond]
+    has_incorrect_sentence = rows_with_data[~is_correct_sentence_cond]
+    has_incorrect_sentence = has_incorrect_sentence[
+        ["word_de", "part_of_speech", "word_en"]
+    ]
+
+    rows_without_data = pd.concat(
+        [has_incorrect_sentence, rows_without_data]
+    ).sort_index()
+
+    gen_data = pd.concat([has_correct_sentence, rows_without_data])
+    gen_data = gen_data[~gen_data.index.duplicated()]
+
+    write_gen_data(gen_data=gen_data)
+
+    return gen_data
+
+
+def update_gen_data():
+    gen_data = pd.read_csv(PATH.GENERATION_DATA, sep="|", index_col=0)
+    partition_gen_data_for_generation(gen_data=gen_data)
+
+
+# %%
+copy_data_for_generation()
+
+# %%
+update_gen_data()
 
 # %%
 
