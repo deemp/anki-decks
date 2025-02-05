@@ -2,6 +2,9 @@
 
 import os
 import re
+import math
+from io import StringIO
+import json
 from functools import cmp_to_key
 from pathlib import Path
 import pandas as pd
@@ -27,6 +30,9 @@ class PATH:
     WORD_COUNT = DATA / "word-count.csv"
     WORDS_BAD_BASEFORM = DATA / "words-bad-baseform.csv"
     WORDS_TOO_FREQUENT = DATA / "words-too-frequent.csv"
+    PARALLEL_REQUESTS = DATA / "parallel-requests.jsonl"
+    PARALLEL_RESPONSES = DATA / "parallel-responses.jsonl"
+    PARALLEL_RESPONSES_CONCATENATED = DATA / "parallel-responses-concatenated.csv"
 
 
 class DECK_PART_START_INDEX:
@@ -44,19 +50,19 @@ class INDEX_SUFFIX:
 
 class SENTENCE_LENGTH:
     # min and max for each deck part
-    MIN1 = 40
-    MAX1 = 60
-    MIN2 = 60
-    MAX2 = 80
-    MIN3 = 80
-    MAX3 = 100
+    MIN1 = 50
+    MAX1 = 70
+    MIN2 = 50
+    MAX2 = 70
+    MIN3 = 50
+    MAX3 = 70
 
 
 ARTICLES_FULL = ["die", "der", "das"]
 
 LEMMATIZED_SEP = ";"
 
-MAX_OCCURENCES = 4
+MAX_OCCURENCES = 3
 
 
 def normalize_index_single(index: float):
@@ -79,6 +85,7 @@ def remove_separators_in_file(path: Path):
 
     with open(path, "w", encoding="UTF-8") as d:
         d.writelines(deck_lines)
+
 
 def write_deck(deck: pd.DataFrame()):
     normalize_index(deck)
@@ -505,6 +512,143 @@ def copy_generated_to_deck():
     write_deck(deck=deck)
 
 
+def prepare_requests():
+    prompt = """
+        Act as a true German.
+    
+        ## Input Table
+
+        Column 1 - index
+        Column 2 - German word
+        Column 3 - part of speech
+        Column 4 - English word
+
+        ## Guidelines for the German sentence:
+
+        The sentence MUST:
+
+        - sound natural
+        - make sense
+        - be engaging
+        - contain the German word (column 2)
+        - be complete (have subject and verb)
+        - be not too long, 50 to 70 characters long
+        - contain separable verbs, concrete nouns, expressive verbs
+        - be specific, concrete
+        - have no parasite words like "besonders"
+
+        ## Avoid
+
+        repetitive, common, simple words, non-specialized vocabulary
+
+        ## Task
+
+        - Add column 5 - the sentence in German following the sentence guidelines. The sentence must contain the German word (column 2)
+        - Add column 6 - translation of the German sentence to English. The translation must contain the English word (column 5).
+
+        Print the table as markdown code block CSV with "|" as separator.
+        Never print a header.
+        Never skip an input row.
+        Never analyze, just output.
+        Avoid philosophical thoughts. Just concrete situations.
+        
+        Use sophisticated vivid vocabulary.
+
+        I'll provide input in the next messages.
+        """
+    deck_raw = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
+    deck_raw_no_data = deck_raw[deck_raw["sentence_de"].isna()]
+    PART_SIZE = 50
+    requests = []
+    for i in range(math.floor((deck_raw_no_data.shape[0] + PART_SIZE) / PART_SIZE)):
+        deck_block = deck_raw_no_data.iloc[i * PART_SIZE : (i + 1) * PART_SIZE]
+        deck_str_buff = StringIO()
+        deck_block.to_csv(deck_str_buff, sep="|", header=None)
+        deck_str = deck_str_buff.getvalue().replace("|||", "")
+        request = {
+            "model": "gpt-4o-mini",
+            "messages": [
+                {"role": "user", "content": prompt},
+                {"role": "user", "content": deck_str},
+            ],
+        }
+        requests.append(request)
+
+    with open(PATH.PARALLEL_REQUESTS, "w") as r:
+        r.writelines([json.dumps(x) + "\n" for x in requests])
+
+    with open(PATH.PARALLEL_RESPONSES, "w") as r:
+        r.write("")
+
+
+def write_parallel_responses():
+    parallel_responses = None
+
+    with open(PATH.PARALLEL_RESPONSES, "r") as r:
+        parallel_responses = [json.loads(x) for x in r.readlines()]
+
+    parallel_responses = [
+        x[1]["choices"][0]["message"]["content"]
+        .replace("```csv\n", "")
+        .replace("```\n", "")
+        .replace("\n```", "")
+        .strip()
+        for x in parallel_responses
+    ]
+
+    parallel_responses_clean = [
+        x.strip().strip("|").strip().replace(" | ", "|")
+        for x in "\n".join(parallel_responses).split("\n")
+    ]
+    parallel_responses_clean = [x for x in parallel_responses_clean if x[0].isdecimal()]
+
+    parallel_responses_concatenated = "\n".join(parallel_responses_clean)
+
+    with open(PATH.PARALLEL_RESPONSES_CONCATENATED, "w") as r:
+        r.write(parallel_responses_concatenated)
+
+
+def write_responses_to_deck_raw():
+    with open(PATH.PARALLEL_RESPONSES_CONCATENATED, "r") as r:
+        df = pd.read_csv(
+            PATH.PARALLEL_RESPONSES_CONCATENATED, sep="|", index_col=0, header=None
+        )
+
+    deck_raw = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
+    df = df[~df.index.duplicated()]
+    in_deck_raw_cond = df.index[df.index.isin(deck_raw.index)]
+    df["sentence_lemmatized_de"] = None
+    df.columns = deck_raw.columns
+
+    deck_raw.loc[in_deck_raw_cond] = df.loc[in_deck_raw_cond]
+
+    deck_raw.to_csv(PATH.DECK_RAW, sep="|")
+
+
+# %%
+
+
+def update_deck():
+    print("Starting update")
+
+    copy_deck_to_deck_raw()
+    prepare_requests()
+    os.system(
+        f"poetry run python scripts/api_request_parallel_processor.py --api_key $OPENAI_API_KEY --max_attempts 2 --requests_filepath {PATH.DATA}/parallel-requests.jsonl --save_filepath {PATH.DATA}/parallel-responses.jsonl --request_url https://api.openai.com/v1/chat/completions"
+    )
+    write_parallel_responses()
+    write_responses_to_deck_raw()
+    update_gen_data()
+
+    print("Update completed")
+
+
+for i in range(20):
+    try:
+        update_deck()
+    except:
+        continue
+
 # %%
 copy_deck_to_deck_raw()
 
@@ -512,8 +656,8 @@ copy_deck_to_deck_raw()
 update_gen_data()
 
 # %%
-
 copy_generated_to_deck()
+
 # %%
 
 
