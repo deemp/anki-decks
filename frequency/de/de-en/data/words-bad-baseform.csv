@@ -10,10 +10,13 @@
 121.0|erste|erster
 131.0|wenige|weniger
 131.001|wenige|weniger
+153.0|welche|welcher
 157.0|Ihnen|ihnen
 174.0|dort drüben|dort
 174.001|dort drüben|dort
 190.0|letzte|letzter
+216.0|einige|einiger
+216.001|einige|einiger
 225.0|weitere|weit
 225.001|weitere|weit
 234.0|denen (pl, Dativ)|der
@@ -39,11 +42,13 @@
 607.0|sogenannt|sogenannter
 632.0|die Daten (pl)|Datum
 661.0|das Verhalten|verhalten
+680.0|morgens|Morgens
 715.0|das Auftreten|auftreten
 715.001|das Auftreten|auftreten
 715.002|das Auftreten|auftreten
 715.003|das Auftreten|auftreten
 734.0|innere|innerer
+816.0|morgen|Morgen
 851.0|rechte|rechter
 872.0|das Lächeln|lächeln
 939.0|linke|linker
@@ -53,7 +58,8 @@
 1019.0|die Medien (pl)|Medium
 1041.0|das Schweigen|schweigen
 1090.0|die Grüne|grüne
-1099.0|diejenige|diejeniger
+1099.0|diejenige|derjenige
+1099.001|diejenige|derjenige
 1099.002|diejenige|diejeniger
 1149.0|hallo|Hallo
 1194.0|das Vertrauen|vertrauen
@@ -69,3 +75,56 @@
 1427.001|die Abgeordnete|abgeordneter
 1463.0|langfristig|Langfristig
 1774.0|untere|unterer
+1805.0|gemäß|Gemäß
+1846.0|sämtlich|sämtlicher
+1878.0|ah|Ah
+1888.0|die Beamte|Beamter
+1888.001|die Beamte|der Zivilbeamter
+1921.0|-jährig|100-jährig
+1928.0|etc.|etc.
+1993.0|irgendwelche|irgendwelcher
+1993.001|irgendwelche|irgendwelcher
+1995.0|die Vorsitzende|vorsitzend
+2007.0|aha|Aha
+2007.001|aha|Aha
+2135.0|das Rennen|rennen
+2320.0|äußere|äußerer
+2320.001|äußere|äußerer
+2364.0|selbe|selber
+2385.0|eventuell|Eventuell
+2452.0|hoffentlich|Hoffentlich
+2453.0|die Erwachsene|erwachsene
+2453.001|die Erwachsene|erwachsene
+2577.0|die Angehörige|angehörige
+2577.001|die Angehörige|angehörige
+2712.0|die Erste|erster
+2741.0|die Angestellte|angestellter
+2800.0|die Beschäftigte|beschäftigter
+2941.0|die Verwandte|verwandte
+2945.0|die Schulden (pl)|Schuld
+3032.0|das Vorgehen|vorgehen
+3110.0|zurzeit|Zurzeit
+3123.0|die Linke|linke
+3123.001|die Linke|linke
+3160.0|etliche|etlicher
+3171.0|siehe|sehen
+3172.0|verheiratet|verheiraten
+3205.0|ha|Ha
+3226.0|hintere|hinter
+3280.0|vordere|vorderer
+3373.0|Hunderte|Hundert
+3378.0|tja|Tja
+3523.0|hi|Hi
+3693.0|letztendlich|Letztendlich
+3752.0|jegliche|Jegliche
+3785.0|finale|final
+3856.0|die Unterlagen (pl)|Unterlage
+3868.0|tschüss|Tschüss
+4036.0|au|Au
+4435.0|mmh|Mmh
+4541.0|letztere|letzterer
+4588.0|die Finanzen|Finanz
+4588.001|die Finanzen|Finanz
+4714.0|neuerdings|Neuerdings
+4888.0|die Verletzte|verletzter
+5077.0|die Delegierte|delegierter
