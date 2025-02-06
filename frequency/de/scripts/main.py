@@ -99,8 +99,8 @@ def write_deck(deck: pd.DataFrame()):
     remove_separators_in_file(path=PATH.DECK)
 
 
-def write_gen_data(gen_data: pd.DataFrame()):
-    gen_data.to_csv(PATH.DECK_RAW, sep="|")
+def write_deck_raw(deck_raw: pd.DataFrame()):
+    deck_raw.to_csv(PATH.DECK_RAW, sep="|")
     remove_separators_in_file(path=PATH.DECK_RAW)
 
 
@@ -279,7 +279,7 @@ def copy_deck_to_deck_raw():
 
     deck_raw = pd.concat([deck_raw, deck_missing_rows])
 
-    write_gen_data(gen_data=deck_raw)
+    write_deck_raw(deck_raw=deck_raw)
 
 
 def make_baseform(word: str) -> str:
@@ -323,21 +323,21 @@ def tokenize_sentence(sentence: str):
     return LEMMATIZED_SEP.join(tokens)
 
 
-def update_gen_data_lemmatized_sentences(gen_data: pd.DataFrame()):
-    not_lemmatized_cond = gen_data["sentence_lemmatized_de"].isna()
+def update_deck_raw_lemmatized_sentences(deck_raw: pd.DataFrame()):
+    not_lemmatized_cond = deck_raw["sentence_lemmatized_de"].isna()
 
-    gen_data.loc[not_lemmatized_cond, "sentence_lemmatized_de"] = gen_data.loc[
+    deck_raw.loc[not_lemmatized_cond, "sentence_lemmatized_de"] = deck_raw.loc[
         not_lemmatized_cond, "sentence_de"
     ].map(tokenize_sentence, na_action="ignore")
 
-    write_gen_data(gen_data=gen_data)
+    write_deck_raw(deck_raw=deck_raw)
 
-    return gen_data
+    return deck_raw
 
 
-def update_word_counts(gen_data=pd.DataFrame()):
+def update_word_counts(deck_raw=pd.DataFrame()):
     words = pd.DataFrame(
-        gen_data["sentence_lemmatized_de"]
+        deck_raw["sentence_lemmatized_de"]
         .map(lambda x: x.split(";"), na_action="ignore")
         .explode("sentence_lemmatized_de")
     ).rename(columns={"sentence_lemmatized_de": "word_de"})
@@ -395,13 +395,13 @@ def check_is_correct_sentence(
     return result
 
 
-def partition_gen_data_by_having_sentence_de(gen_data: pd.DataFrame()):
-    has_data_cond = gen_data["sentence_de"].notna()
-    rows_with_data = gen_data[has_data_cond].sort_index()
-    rows_without_data = gen_data[~has_data_cond].sort_index()
+def partition_deck_raw_by_having_sentence_de(deck_raw: pd.DataFrame()):
+    has_data_cond = deck_raw["sentence_de"].notna()
+    rows_with_data = deck_raw[has_data_cond].sort_index()
+    rows_without_data = deck_raw[~has_data_cond].sort_index()
 
-    gen_data = pd.concat([rows_with_data, rows_without_data])
-    write_gen_data(gen_data=gen_data)
+    deck_raw = pd.concat([rows_with_data, rows_without_data])
+    write_deck_raw(deck_raw=deck_raw)
 
     return rows_with_data, rows_without_data
 
@@ -420,9 +420,9 @@ def check_sentence_length(x: pd.Series()):
     return pd.notna(x["sentence_de"]) and mini <= len(x["sentence_de"]) <= maxi
 
 
-def filter_gen_data_by_sentence_length(gen_data: pd.DataFrame()):
-    rows_with_data, rows_without_data = partition_gen_data_by_having_sentence_de(
-        gen_data=gen_data
+def filter_deck_raw_by_sentence_length(deck_raw: pd.DataFrame()):
+    rows_with_data, rows_without_data = partition_deck_raw_by_having_sentence_de(
+        deck_raw=deck_raw
     )
 
     is_good_sentence_length_cond = rows_with_data.apply(check_sentence_length, axis=1)
@@ -437,19 +437,19 @@ def filter_gen_data_by_sentence_length(gen_data: pd.DataFrame()):
         [rows_with_bad_sentence_length, rows_without_data]
     ).sort_index()
 
-    gen_data = pd.concat([rows_with_good_sentence_length, rows_without_data])
+    deck_raw = pd.concat([rows_with_good_sentence_length, rows_without_data])
 
-    write_gen_data(gen_data=gen_data)
+    write_deck_raw(deck_raw=deck_raw)
 
-    return gen_data
+    return deck_raw
 
 
-def partition_deck_raw(gen_data: pd.DataFrame()):
-    gen_data = filter_gen_data_by_sentence_length(gen_data=gen_data)
-    gen_data = update_gen_data_lemmatized_sentences(gen_data=gen_data)
-    word_stats = update_word_counts(gen_data=gen_data)
-    rows_with_data, rows_without_data = partition_gen_data_by_having_sentence_de(
-        gen_data=gen_data
+def partition_deck_raw(deck_raw: pd.DataFrame()):
+    deck_raw = filter_deck_raw_by_sentence_length(deck_raw=deck_raw)
+    deck_raw = update_deck_raw_lemmatized_sentences(deck_raw=deck_raw)
+    word_stats = update_word_counts(deck_raw=deck_raw)
+    rows_with_data, rows_without_data = partition_deck_raw_by_having_sentence_de(
+        deck_raw=deck_raw
     )
 
     words_bad_wordforms = pd.read_csv(PATH.WORDS_BAD_BASEFORM, sep="|", index_col=0)
@@ -487,31 +487,31 @@ def partition_deck_raw(gen_data: pd.DataFrame()):
         [has_incorrect_sentence, rows_without_data]
     ).sort_index()
 
-    gen_data = pd.concat([has_correct_sentence, rows_without_data])
-    gen_data = gen_data[~gen_data.index.duplicated()]
+    deck_raw = pd.concat([has_correct_sentence, rows_without_data])
+    deck_raw = deck_raw[~deck_raw.index.duplicated()]
 
-    write_gen_data(gen_data=gen_data)
+    write_deck_raw(deck_raw=deck_raw)
 
-    return gen_data
+    return deck_raw
 
 
-def update_gen_data():
-    gen_data = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
-    partition_deck_raw(gen_data=gen_data)
+def update_deck_raw():
+    deck_raw = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
+    partition_deck_raw(deck_raw=deck_raw)
 
 
 def copy_generated_to_deck():
-    gen_data = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
+    deck_raw = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
     deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
-    has_sentence_cond = gen_data["sentence_de"].notna()
+    has_sentence_cond = deck_raw["sentence_de"].notna()
     columns = ["sentence_de", "sentence_en", "sentence_lemmatized_de"]
 
     display(
-        deck.index[~deck.index.isin(gen_data.index)],
-        gen_data.index[~gen_data.index.isin(deck.index)],
+        deck.index[~deck.index.isin(deck_raw.index)],
+        deck_raw.index[~deck_raw.index.isin(deck.index)],
     )
 
-    deck.loc[has_sentence_cond, columns] = gen_data.loc[
+    deck.loc[has_sentence_cond, columns] = deck_raw.loc[
         has_sentence_cond, columns
     ].values
 
@@ -646,7 +646,7 @@ def update_deck():
     )
     write_parallel_responses()
     write_responses_to_deck_raw()
-    update_gen_data()
+    update_deck_raw()
 
     print("Update completed")
 
@@ -661,7 +661,7 @@ for i in range(20):
 copy_deck_to_deck_raw()
 
 # %%
-update_gen_data()
+update_deck_raw()
 
 # %%
 copy_generated_to_deck()
