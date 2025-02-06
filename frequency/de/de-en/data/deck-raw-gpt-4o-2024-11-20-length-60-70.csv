@@ -113,7 +113,7 @@
 69.001|mein|pronoun|mine|Das alte Fotoalbum ist mein einziger Schatz aus der Kindheit.|The old photo album is my only treasure from childhood.|der;alt;Fotoalbum;sein;mein;einzig;Schatz;aus;der;Kindheit
 70.0|mehr|adverb|more|Mehr Menschen besuchen die Bibliothek während der Prüfungszeit.|More people visit the library during exam periods.|mehr;Mensch;besuchen;der;Bibliothek;während;der;Prüfungszeit
 71.0|das Jahr|noun|year|Jedes Jahr begeistert die blühende Kirschallee unzählige Besucher.|Every year, the blooming cherry avenue delights countless visitors.|jeder;Jahr;begeisteren;der;blühend;Kirschallee;unzählig;Besucher
-72.0|du|pronoun|you|"In diesem Satz steht kein Pronomen, weil ""du"" zu vermeiden war."|"In this sentence there is no pronoun, as ""you"" was to be avoided."|in;dieser;Satz;stehen;kein;Pronomen;weil;du;zu;vermeiden;sein
+72.0|du|pronoun|you|In diesem Satz steht kein Pronomen, weil „du“ zu vermeiden war.|In this sentence there is no pronoun, as „you“ was to be avoided.|in;dieser;Satz;stehen;kein;Pronomen;weil;du;zu;vermeiden;sein
 73.0|durch|preposition|through|Die Wanderer gingen durch die dichten Wälder des Naturschutzgebiets.|The hikers walked through the dense forests of the nature reserve.|der;Wanderer;gehen;durch;der;dicht;Wald;der;Naturschutzgebiet
 74.0|viel|pronoun|much|In dem kleinen Café gibt es viel zu entdecken und probieren.|In the little café, there is much to discover and try.|in;der;klein;Café;geben;es;viel;zu;entdecken;und;probieren
 74.001|viel|pronoun|a lot|Viel von dem Erfolg hing von der sorgfältigen Planung des Teams ab.|A lot of the success depended on the team's careful planning.|viel;von;der;Erfolg;abhing;von;der;sorgfältig;Planung;der;Team;ab
@@ -220,7 +220,7 @@
 155.0|einmal|adverb|once|Einmal verpasste er den entscheidenden Moment und bereute es sofort.|Once he missed the decisive moment and regretted it immediately.|einmal;verpassen;er;der;entscheidend;Moment;und;bereuen;es;sofort
 156.0|ihnen|pronoun|them|Ich habe ihnen die Karte gegeben, damit sie nicht verloren gehen.|I gave them the map so they won’t get lost.|ich;haben;ihnen;der;Karte;geben;damit;sie;nicht;verlieren;verlorengehen
 157.0|Ihnen|pronoun|you|Ich möchte Ihnen für Ihre großartige Unterstützung herzlich danken.|I would like to sincerely thank you for your great support.|ich;möchten;ihnen;für;ihr;großartig;Unterstützung;herzlich;danken
-158.0|heißen|verb|to be called|"Das neue Café heißt ""Sonnenschein"" und bietet frischen Kuchen."|"The new café is called ""Sonnenschein"" and offers fresh cake."|der;neu;Café;heißen;Sonnenschein;und;bieten;frisch;Kuchen
+158.0|heißen|verb|to be called|Das neue Café heißt „Sonnenschein“ und bietet frischen Kuchen.|The new café is called „Sonnenschein“ and offers fresh cake.|der;neu;Café;heißen;Sonnenschein;und;bieten;frisch;Kuchen
 159.0|ob|conjunction|whether|Ob er den schwierigen Gipfel erreichte, blieb lange ungewiss.|Whether he reached the difficult summit remained uncertain for a long time.|ob;er;der;schwierig;Gipfel;erreichen;bleiben;lange;ungewiss
 159.001|ob|conjunction|if|Die Frage war, ob die Kabine groß genug für die ganze Ausrüstung wäre.|The question was if the booth was big enough for all the equipment.|der;Frage;sein;ob;der;Kabine;groß;genug;für;der;ganz;Ausrüstung;sein
 160.0|denken|verb|to think|Man sollte beim Planen auch langfristiger an mögliche Folgen denken.|When planning, one should also think long-term about possible consequences.|man;sollen;bei;Planen;auch;langfristig;an;möglich;Folge;denken
@@ -339,13 +339,13 @@
 234.001|denen (pl, Dativ)|pronoun|that|Den Büchern, denen der Autor treu blieb, verdankt er seinen Ruhm.|The books that the author stayed true to are the reason for his fame.|der;Büchern;der;der;Autor;treu;bleiben;verdanken;er;sein;Ruhm
 234.002|denen (pl, Dativ)|pronoun|those|Denen, die den Preis gewonnen haben, wurde großer Beifall gespendet.|Those who won the prize were given great applause.|dener;der;der;Preis;gewinnen;haben;werden;groß;Beifall;spenden
 235.0|nennen|verb|to name|Die Mitarbeiter konnten alle Neuheiten des Systems schnell nennen.|The employees could quickly name all the new features of the system.|der;Mitarbeiter;können;aller;Neuheit;der;System;schnell;nennen
-235.001|nennen|verb|to call|"Die Bewohner nennen den alten Baum die ""Eiche der Weisheit""."|"The locals call the old tree the ""Oak of Wisdom."""|der;Bewohner;nennen;der;alt;Baum;der;Eiche;der;Weisheit
+235.001|nennen|verb|to call|Die Bewohner nennen den alten Baum die „Eiche der Weisheit“.|The locals call the old tree the „Oak of Wisdom.“|der;Bewohner;nennen;der;alt;Baum;der;Eiche;der;Weisheit
 236.0|warum|adverb|why|Warum liegt die alte Karte auf dem Schreibtisch zerknittert? |Why is the old map crumpled on the desk?|warum;liegen;der;alt;Karte;auf;der;Schreibtisch;zerknitteren
 237.0|ziehen|verb|to pull|Der Bauer musste den schweren Wagen über den Feldweg ziehen.|The farmer had to pull the heavy cart along the dirt road.|der;Bauer;musste;der;schwer;Wagen;über;der;Feldweg;ziehen
 237.001|ziehen|verb|to move|Am frühen Morgen sieht man die Krähen in geraden Linien ziehen.|In the early morning, you can see crows move in straight lines.|an;früh;Morgen;sehen;man;der;Krähe;in;gerade;Linie;ziehen
 238.0|das Wort|noun|word|Kein einziges Wort konnte die tiefe Bedeutung jener Geste ersetzen.|Not a single word could replace the profound meaning of that gesture.|kein;einzig;Wort;können;der;tief;Bedeutung;jener;Geste;ersetzen
 239.0|darauf|pronoun|on it|Die Vase stürzte vom Tisch, und er trat versehentlich darauf.|The vase fell from the table, and he accidentally stepped on it.|der;Vase;stürzen;von;Tisch;und;er;treten;versehentlich;darauf
-239.001|darauf|pronoun|to it|Er zeigte auf den Schalter und sagte: „Drück einfach darauf.“|"He pointed to the switch and said: ""Just press on it."""|er;zeigen;auf;der;Schalter;und;sagen;„;Drück;einfach;darauf
+239.001|darauf|pronoun|to it|Er zeigte auf den Schalter und sagte: „Drück einfach darauf.“|He pointed to the switch and said: „Just press on it.“|er;zeigen;auf;der;Schalter;und;sagen;Drück;einfach;darauf
 240.0|eben|adverb|just|Eben noch konnte man das alte Fischerboot am Horizont erkennen.|Just now, one could see the old fishing boat on the horizon.|eben;noch;können;man;der;alt;Fischerboot;an;Horizont;erkennen
 241.0|eben|particle|just|Das ist eben der Unterschied zwischen Mut und reiner Tollkühnheit.|That is just the difference between courage and sheer recklessness.|der;sein;eben;der;Unterschied;zwischen;Mut;und;rein;Tollkühnheit
 241.001|eben|particle|exactly|Das ist eben der Grund, warum wir mehr Sorgfalt walten lassen müssen.|That's exactly the reason why we need to take more care.|der;sein;eben;der;Grund;warum;wir;mehr;Sorgfalt;walten;lassen;müssen
@@ -515,7 +515,7 @@
 349.0|die Zahl|noun|number|Die Zahl der Teilnehmenden am Marathon stieg dieses Jahr deutlich an.|The number of participants in the marathon increased significantly this year.|der;Zahl;der;Teilnehmenden;an;Marathon;ansteigen;dieser;Jahr;deutlich;an
 350.0|das Thema|noun|subject|Das Thema der Diskussion weckte reges Interesse bei allen Teilnehmern.|The subject of the discussion aroused lively interest among all participants.|der;Thema;der;Diskussion;wecken;rege;Interesse;bei;aller;Teilnehmer
 350.001|das Thema|noun|topic|Das Thema Umwelt stand im Fokus des internationalen Kongresses.|The topic of the environment was the focus of the international congress.|der;Thema;Umwelt;stehen;in;Fokus;der;international;Kongreß
-350.002|das Thema|noun|theme|Das Thema des diesjährigen Festivals war „Farben des Lebens“.|"The theme of this year's festival was ""Colors of Life""."|der;Thema;der;diesjährig;Festival;sein;Farbe;der;Leben
+350.002|das Thema|noun|theme|Das Thema des diesjährigen Festivals war „Farben des Lebens“.|The theme of this year's festival was „Colors of Life“.|der;Thema;der;diesjährig;Festival;sein;Farbe;der;Leben
 351.0|handeln|verb|to deal|Man muss klug handeln, um den Markt erfolgreich zu durchdringen.|One must deal wisely to penetrate the market successfully.|man;muss;klug;handeln;um;der;Markt;erfolgreich;zu;durchdringen
 351.001|handeln|verb|to trade|Die Händler handeln exotische Gewürze auf dem bunten Lokalmarkt.|The traders deal in exotic spices at the vibrant local market.|der;Händler;handeln;exotisch;Gewürz;auf;der;bunt;Lokalmarkt
 352.0|das Buch|noun|book|Im hinteren Regal fand ich das Buch mit den vergilbten Seiten.|In the back shelf, I found the book with the yellowed pages.|in;hinterer;Regal;finden;ich;der;Buch;mit;der;vergilbt;Seite
@@ -1257,7 +1257,7 @@
 837.0|das Hotel|noun|hotel|Das Hotel am Berghang bietet einen grandiosen Blick auf das Tal.|The hotel on the mountainside offers a grand view of the valley.|der;Hotel;an;Berghang;bieten;ein;grandios;Blick;auf;der;Tal
 838.0|laut|adjective|loudly|Das Kind lachte laut, als der Clown einen Purzelbaum schlug.|The child laughed loudly as the clown did a somersault.|der;Kind;lachen;laut;als;der;Clown;ein;Purzelbaum;schlagen
 838.001|laut|preposition|according to|Laut des Reiseleiters erreichten wir bald die historische Altstadt.|According to the tour guide, we will soon reach the historic old town.|laut;der;Reiseleiter;erreichen;wir;bald;der;historisch;Altstadt
-839.0|eins|number|one|Nur eine eins fehlt noch, um die Telefonnummer vollständig zu haben.|"Only one ""one"" is missing to complete the phone number."|nur;einer;eins;fehlen;noch;um;der;Telefonnummer;vollständig;zu;haben
+839.0|eins|number|one|Nur eine eins fehlt noch, um die Telefonnummer vollständig zu haben.|Only one „one“ is missing to complete the phone number.|nur;einer;eins;fehlen;noch;um;der;Telefonnummer;vollständig;zu;haben
 840.0|das Alter|noun|age|Im Alter von neunzig Jahren veröffentlichte sie ihr letztes Buch.|At the age of ninety, she published her last book.|in;Alter;von;neunzig;Jahr;veröffentlichen;sie;ihr;letzter;Buch
 841.0|die Sicherheit|noun|security|Strenge Kontrollen gewährleisten die Sicherheit am Flughafen.|Strict controls ensure security at the airport.|streng;Kontrolle;gewährleisten;der;Sicherheit;an;Flughafen
 841.001|die Sicherheit|noun|safety|Die Sicherheit der Passagiere hat oberste Priorität beim Fliegen.|The safety of the passengers is the highest priority in flying.|der;Sicherheit;der;Passagier;haben;oberste;Priorität;bei;Fliegen
@@ -1537,7 +1537,7 @@
 1035.003|der Absatz (Abs.)|noun|heel|Der Absatz des feinen Schuhs brach auf dem glatten Marmorboden ab.|The heel of the fine shoe broke on the slippery marble floor.|der;Absatz;der;fein;Schuh;abbrechen;auf;der;glatt;Marmorboden;ab
 1036.0|unterwegs|adverb|on the way|Der Händler verlor sein Gepäck unterwegs beim Umsteigen in die Bahn.|The merchant lost his luggage on the way while changing trains.|der;Händler;verlieren;sein;Gepäck;unterwegs;bei;umsteigen;in;der;Bahn
 1037.0|der Vertrag|noun|contract|Der Vertrag wurde mit einem feierlichen Handschlag abgeschlossen.|The contract was sealed with a ceremonial handshake.|der;Vertrag;werden;mit;ein;feierlich;Handschlag;abschließen
-1038.0|der Ausdruck|noun|term|Der Ausdruck „digital natives“ beschreibt die heutige Jugend treffend.|"The term ""digital natives"" aptly describes today's youth."|der;Ausdruck;digital;natives;beschreiben;der;heutig;Jugend;treffend
+1038.0|der Ausdruck|noun|term|Der Ausdruck „digital natives“ beschreibt die heutige Jugend treffend.|The term „digital natives“ aptly describes today's youth.|der;Ausdruck;digital;natives;beschreiben;der;heutig;Jugend;treffend
 1038.001|der Ausdruck|noun|expression|Sein Gesicht zeigte einen Ausdruck von stolz gemischter Freude.|His face showed an expression of pride mixed with joy.|sein;Gesicht;zeigen;ein;Ausdruck;von;stolz;gemischt;Freude
 1039.0|geraten|verb|to get into|Die Expedition geriet unvermittelt in einen heftigen Schneesturm.|The expedition unexpectedly got into a heavy snowstorm.|der;Expedition;geraten;unvermittelt;in;ein;heftig;Schneesturm
 1040.0|toll|adjective|great|Das Konzert gestern Abend war eine toll inszenierte Veranstaltung.|The concert last night was a great production.|der;Konzert;gestern;Abend;sein;ein;toll;inszeniert;Veranstaltung
@@ -2421,7 +2421,7 @@
 1640.001|anhand|preposition|with the aid of|Die Diagnose erfolgte anhand präziser Laboranalysen und Befunde.|The diagnosis was made with the aid of precise lab analyses and findings.|der;Diagnose;erfolgen;anhand;präzis;Laboranalyse;und;Befund
 1641.0|der Bus|noun|bus|Der gelbe Bus hielt pünktlich an der überfüllten Haltestelle.|The yellow bus stopped punctually at the crowded bus stop.|der;gelb;Bus;halten;pünktlich;an;der;überfüllt;Haltestelle
 1642.0|der Franken (Fr.)|noun|(Swiss) franc|Die Rechnung wurde in Schweizer Franken bezahlt und quittiert.|The bill was paid and receipted in Swiss francs.|der;Rechnung;werden;in;Schweizer;Franken;bezahlen;und;quittieren
-1643.0|die Kategorie|noun|category|Das Foto gewann in der Kategorie „Beste Landschaftsaufnahme“.|"The photo won in the category ""Best Landscape Shot."""|der;Foto;gewinnen;in;der;Kategorie;Beste;Landschaftsaufnahme
+1643.0|die Kategorie|noun|category|Das Foto gewann in der Kategorie „Beste Landschaftsaufnahme“.|The photo won in the category „Best Landscape Shot.“|der;Foto;gewinnen;in;der;Kategorie;Beste;Landschaftsaufnahme
 1644.0|nett|adjective|nice|Ein nett gemeinter Gruß bereitete allen Anwesenden eine kleine Freude.|A nice greeting brought a small joy to everyone present.|ein;nett;gemeint;Gruß;bereiten;aller;Anwesenden;ein;klein;Freude
 1645.0|freundlich|adjective|kind|Die freundliche Gärtnerin brachte frisch geerntetes Obst vorbei.|The kind gardener brought freshly harvested fruit by.|der;freundlich;Gärtnerin;vorbeibringen;frisch;geerntet;Obst;vorbei
 1645.001|freundlich|adjective|nice|Der Verkäufer im kleinen Laden war äußerst freundlich und hilfsbereit.|The shopkeeper in the small store was extremely nice and helpful.|der;Verkäufer;in;klein;Laden;sein;äußerst;freundlich;und;hilfsbereit
@@ -4394,7 +4394,7 @@
 3014.0|der Gehalt|noun|meaning|Der Gehalt seiner Worte wurde durch die Gestik unterstrichen.|The meaning of his words was emphasized by the gesture.|der;Gehalt;sein;Wort;werden;durch;der;Gestik;unterstrichen
 3014.001|der Gehalt|noun|contents|Der Gehalt des Briefes ließ keinen Zweifel an seiner Absicht.|The contents of the letter left no doubt about his intention.|der;Gehalt;der;Brief;lassen;kein;Zweifel;an;sein;Absicht
 3015.0|indes|adverb|meanwhile|Indes brauen sich über der Küste dichte Regenwolken zusammen.|Meanwhile, dense rain clouds are forming over the coast.|indes;zusammenbrauen;sich;über;der;Küste;dicht;Regenwolke;zusammen
-3016.0|das Motto|noun|motto|"Das diesjährige Motto des Wettbewerbs lautete ""Innovation für morgen""."|"This year's competition motto was ""Innovation for tomorrow."""|der;diesjährig;Motto;der;Wettbewerb;lauten;Innovation;für;morgen
+3016.0|das Motto|noun|motto|Das diesjährige Motto des Wettbewerbs lautete „Innovation für morgen“.|This year's competition motto was „Innovation for tomorrow.“|der;diesjährig;Motto;der;Wettbewerb;lauten;Innovation;für;morgen
 3017.0|die Philosophie|noun|philosophy|Die Philosophie des Autors spiegelte sich in seinen Essays wider.|The philosophy of the author was reflected in his essays.|der;Philosophie;der;Autor;widerspiegeln;sich;in;sein;Essay;wider
 3018.0|der Sender|noun|broadcasting station|Der neue Sender strahlt Programme für junge Zielgruppen aus.|The new broadcasting station broadcasts programs for young audiences.|der;neu;Sender;ausstrahlen;Programm;für;jung;Zielgruppe;aus
 3019.0|das Talent|noun|talent|Das Talent des jungen Pianisten zeigte sich in jedem einzelnen Ton.|The talent of the young pianist was evident in every single note.|der;Talent;der;jung;Pianist;zeigen;sich;in;jeder;einzeln;Ton
@@ -5586,7 +5586,7 @@
 3849.0|reizen|verb|to annoy|Das ständige Piepen des Geräts begann die Zuhörer im Saal zu reizen.|The constant beeping of the piece of equipment began to annoy the audience in the hall.|der;ständig;Piepen;der;Gerät;beginnen;der;Zuhörer;in;Saal;zu;reizen
 3849.001|reizen|verb|to provoke|Das Verhalten des Hundes schien den Kater bewusst zu reizen.|The dog's behavior seemed to deliberately provoke the cat.|der;verhalten;der;Hund;scheinen;der;Kater;bewusst;zu;reizen
 3849.002|reizen|verb|to tempt|Das neue Abenteuer würde selbst den zögerlichsten Entdecker reizen.|The new adventure would tempt even the most hesitant explorer.|der;neu;Abenteuer;werden;selbst;der;zögerlich;Entdecker;reizen
-3850.0|das Attribut|noun|adjunct|Das Attribut “scharfsinnig” passte perfekt zu seinem Charakter.|"The adjunct ""keen"" fit his character perfectly."|der;Attribut;“;scharfsinnig;”;passen;perfekt;zu;sein;Charakter
+3850.0|das Attribut|noun|adjunct|Das Attribut “scharfsinnig” passte perfekt zu seinem Charakter.|The adjunct „keen“ fit his character perfectly.|der;Attribut;scharfsinnig;”;passen;perfekt;zu;sein;Charakter
 3850.001|das Attribut|noun|attribute|Zuverlässigkeit ist ein wichtiges Attribut in der Arbeitswelt.|Reliability is an important attribute in the workplace.|Zuverlässigkeit;sein;ein;wichtig;Attribut;in;der;Arbeitswelt
 3851.0|aufreißen|verb|to tear open|Er musste den schweren Karton mit beiden Händen gewaltsam aufreißen.|He had to tear open the heavy cardboard box with both hands.|er;musste;der;schwer;Karton;mit;beide;Hand;gewaltsam;aufreißen
 3852.0|die Diagnose|noun|diagnosis|Die Diagnose bestätigte den Verdacht auf eine seltene Krankheit.|The diagnosis confirmed the suspicion of a rare disease.|der;Diagnose;bestätigen;der;Verdacht;auf;ein;selten;Krankheit
@@ -6733,7 +6733,7 @@
 4657.001|stechen|verb|to prick|Die Dornen konnten leicht die zarte Haut der Finger stechen.|The thorns could easily prick the delicate skin of the fingers.|der;Dorn;können;leicht;der;zart;Haut;der;Finger;stechen
 4657.002|stechen|verb|to stab|Die Biene kann mit ihrem scharfen Stachel schmerzhaft stechen.|The bee can painfully stab with its sharp stinger.|der;Biene;können;mit;ihr;scharf;Stachel;schmerzhaft;stechen
 4658.0|der Tempel|noun|temple|Der imposante Tempel war ein Zentrum für spirituelle Rituale.|The imposing temple was a center for spiritual rituals.|der;imposant;Tempel;sein;ein;Zentrum;für;spirituell;Ritual
-4659.0|das Verb|noun|verb|Das Verb „ausbreiten“ wird oft in geographischen Texten genutzt.|"The verb ""to spread"" is often used in geographical texts."|der;Verb;ausbreiten;werden;oft;in;geographisch;Text;nutzen
+4659.0|das Verb|noun|verb|Das Verb „ausbreiten“ wird oft in geographischen Texten genutzt.|The verb „to spread“ is often used in geographical texts.|der;Verb;ausbreiten;werden;oft;in;geographisch;Text;nutzen
 4660.0|die Verlängerung|noun|extension|Eine Verlängerung der Projektfrist wurde einstimmig bewilligt.|An extension of the project deadline was unanimously approved.|ein;Verlängerung;der;Projektfrist;werden;einstimmig;bewilligen
 4661.0|verwechseln|verb|to confuse|Man darf diese beiden ähnlich klingenden Begriffe nicht verwechseln.|One must not confuse these two similarly sounding terms.|man;dürfen;dieser;beide;ähnlich;klingend;Begriff;nicht;verwechseln
 4661.001|verwechseln|verb|to mix up|Er konnte die Zwillinge ständig verwechseln, trotz ihrer Unterschiede.|He constantly managed to mix up the twins, despite their differences.|er;können;der;Zwilling;ständig;verwechseln;trotz;ihr;Unterschied
