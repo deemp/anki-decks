@@ -1,4 +1,389 @@
 |word_de|part_of_speech|word_en|sentence_de|sentence_en|sentence_lemmatized_de
+18.0|ich|pronoun|I|Ich pflanzte erfolgreich die kleinen Kräutersamen im Garten.|I successfully planted the small herb seeds in the garden.|ich;pflanzen;erfolgreich;der;klein;Kräutersame;in;Garten
+20.0|es|pronoun|it|Es war unmöglich, das zerstörte Dokument zu retten.|It was impossible to recover the destroyed document.|es;sein;unmöglich;der;zerstört;Dokument;zu;retten
+36.0|wie|particle|as|Wie ein Blitz fiel die Entscheidung in letzter Sekunde.|The decision fell like lightning at the last second.|wie;ein;Blitz;fallen;der;Entscheidung;in;letzter;Sekunde
+40.0|ihr|pronoun|you|Euer Ziel erreicht ihr nur mit gemeinsamer Anstrengung.|You will reach your goal only through joint effort.|euer;Ziel;erreichen;ihr;nur;mit;gemeinsam;Anstrengung
+74.002|viel|pronoun|many|Viel Mühe steckte in dem handgeschnitzten Schrank aus Eiche.|Many efforts went into the hand-carved oak cabinet.|viel;Mühe;stecken;in;der;handgeschnitzt;Schrank;aus;Eiche
+75.0|wollen|verb|to want to|Die Schüler wollen gemeinsam einen aufregenden Ausflug planen.|The students want to plan an exciting trip together.|der;Schüler;wollen;gemeinsam;ein;aufregend;Ausflug;planen
+76.0|machen|verb|to do|Die Mechaniker machen schnelle Fortschritte bei den Reparaturen.|The mechanics are making rapid progress with the repairs.|der;Mechaniker;machen;schnell;Fortschritt;bei;der;Reparatur
+100.001|bis|preposition|till|Bis zum Ende des Films blieb sie gebannt vor der Leinwand.|Till the end of the movie, she remained captivated by the screen.|bis;zu;Ende;der;Film;bleiben;sie;bannen;vor;der;Leinwand
+103.0|einer|pronoun|(some)one|Einer der Gäste brachte eine Flasche seltenen Weins.|One of the guests brought a bottle of rare wine.|einer;der;Gast;bringen;ein;Flasche;selten;Wein
+106.001|das Mal|noun|mark|Ein altes Mal an der Wand erzählte von vergangenen Zeiten.|An old mark on the wall told of times long past.|ein;alt;Mal;an;der;Wand;erzählen;von;vergangen;Zeit
+109.0|neu|adjective|new|Sie kaufte ein neu gestaltetes Buch im Kunstladen.|She bought a newly designed book in the art store.|sie;kaufen;ein;neu;gestaltet;Buch;in;Kunstladen
+122.0|die Zeit|noun|time|Die Zeit fliegt, wenn man sich auf ein Ziel konzentriert.|Time flies when you focus on a goal.|der;Zeit;fliegen;wenn;man;sich;auf;ein;Ziel;konzentrieren
+154.0|tun|verb|to do|Was tun, wenn der Sturm die Dächer krachend abdeckt?|What to do when the storm loudly rips off the roofs?|was;tun;wenn;der;Sturm;der;Dach;krachend;abdecken
+163.001|einfach|adjective|easy|Das einfache Rezept führte zu einem köstlichen Abendessen.|The easy recipe led to a delicious dinner.|der;einfach;Rezept;führen;zu;ein;köstlich;Abendessen
+179.0|wichtig|adjective|important|Das Treffen war ein wichtiger Schritt für zukünftige Entscheidungen.|The meeting was an important step for future decisions.|der;Treffen;sein;ein;wichtig;Schritt;für;zukünftig;Entscheidung
+186.004|dazu|pronoun|of that|Er fügte noch ein Buch dazu, um das Geschenk zu ergänzen.|He added a book to that to complete the gift.|er;fügen;noch;ein;Buch;dazu;um;der;Geschenk;zu;ergänzen
+208.0|spät|adverb|late|Spät in der Nacht tanzten sie noch im schimmernden Licht.|Late at night, they still danced in the shimmering light.|spät;in;der;Nacht;tanzen;sie;noch;in;schimmernd;Licht
+262.001|dich|pronoun|yourself|Manchmal musst du dich selbst herausfordern, um zu wachsen.|Sometimes you have to challenge yourself to grow.|manchmal;mussen;du;dich;selbst;herausfordern;um;zu;wachsen
+274.0|setzen|verb|to sit down|Er setzte sich auf die Bank unter der alten Linde.|He sat down on the bench under the old linden tree.|er;setzen;sich;auf;der;Bank;unter;der;alt;Linde
+286.0|der Doktor|noun|doctor|Der erfahrene Doktor bereitete die komplizierte Operation ruhig vor.|The experienced doctor calmly prepared the complicated surgery.|der;erfahren;Doktor;vorbereiten;der;kompliziert;Operation;ruhig;vor
+289.0|recht|adjective|(all) right|Alles ist recht in diesem Moment, solange die Stimmung positiv bleibt.|Everything is all right at this moment, as long as the mood remains positive.|alle;sein;recht;in;dieser;Moment;solange;der;Stimmung;positiv;bleiben
+290.0|das Recht|noun|right|Das Recht auf freie Rede wurde hier stets verteidigt.|The right to free speech was always defended here.|der;Recht;auf;frei;Rede;werden;hier;stets;verteidigen
+328.0|gern|adverb|(with a verb) love to|Die Kinder spielen gern draußen bei sonnigem Wetter Ball.|The children love to play ball outside in sunny weather.|der;Kind;spielen;gern;draußen;bei;sonnig;Wetter;Ball
+338.0|lernen|verb|to learn|Er lernte die komplexen Schritte mühsam auswendig.|He learned the complex steps by heart with difficulty.|er;lernen;der;komplex;Schritt;mühsam;auswendig
+339.001|frei|adjective|free|Die Plätze an der Universität für die neuen Kurse sind endlich frei.|The spots at the university for the new courses are finally free.|der;Platz;an;der;Universität;für;der;neu;Kurs;sein;endlich;frei
+352.0|das Buch|noun|book|Das Buch enthält seltene Illustrationen historischer Ereignisse.|The book contains rare illustrations of historical events.|der;Buch;enthalten;selten;Illustration;historisch;Ereignis
+365.001|je ..., desto|conjunction|the|Je länger der Sommer dauert, desto heißer wird es.|The longer the summer lasts, the hotter it gets.|je;lang;der;Sommer;dauern;desto;heiß;werden;es
+375.003|eher|adverb|rather|Eher versuchte sie, das Problem durch ein Gespräch zu klären.|Rather, she tried to resolve the issue through a conversation.|eher;versuchen;sie;der;Problem;durch;ein;Gespräch;zu;klären
+395.001|der Ort|noun|location|Der Ort am See bietet eine ruhige Kulisse für das Picknick.|The location by the lake provides a serene backdrop for the picnic.|der;Ort;an;See;bieten;ein;ruhig;Kulisse;für;der;Picknick
+399.0|die Stelle|noun|place|An der Stelle des alten Baumes wurde eine Bank gebaut.|At the place of the old tree, a bench was built.|an;der;Stelle;der;alt;Baum;werden;ein;Bank;bauen
+409.001|daher|pronoun|therefore|Das Wetter war kalt, daher blieb die Gruppe im Haus.|The weather was cold; therefore, the group stayed indoors.|der;Wetter;sein;kalt;daher;bleiben;der;Gruppe;in;Haus
+444.0|erwarten|verb|to expect|Wir erwarten sehnsüchtig die Ankunft des neuen Zugmodells.|We eagerly expect the arrival of the new train model.|wir;erwarten;sehnsüchtig;der;Ankunft;der;neu;Zugmodell
+455.0|die Reaktion|noun|reaction|Die Reaktion des Publikums war überwältigend positiv.|The reaction of the audience was overwhelmingly positive.|der;Reaktion;der;Publikum;sein;überwältigend;positiv
+456.001|wirken|verb|to take effect|Die Kräuter aus dem Garten wirken bei Husten sofort lindernd.|The herbs from the garden take effect immediately for coughs.|der;Kräuter;aus;der;Garten;wirken;bei;Husten;sofort;lindernd
+459.0|die Eltern (pl)|noun|parents|Die Eltern warteten geduldig vor der Schule auf ihre Kinder.|The parents waited patiently outside the school for their children.|der;Eltern;warten;geduldig;vor;der;Schule;auf;ihr;Kind
+460.0|bezeichnen|verb|to call|Die Experten bezeichnen dieses Phänomen als außergewöhnlich wichtig.|The experts call this phenomenon extraordinarily important.|der;Experte;bezeichnen;dieser;Phänomen;als;außergewöhnlich;wichtig
+470.0|entscheiden|verb|to decide|Sie mussten schnell über den Kauf des Hauses entscheiden.|They had to decide quickly about buying the house.|sie;mussten;schnell;über;der;Kauf;der;Haus;entscheiden
+478.0|das Produkt|noun|product|Das innovative Produkt gewann sofort die Aufmerksamkeit der Kunden.|The innovative product immediately captured the customers' attention.|der;innovativ;Produkt;gewinnen;sofort;der;Aufmerksamkeit;der;Kunde
+500.0|lachen|verb|to laugh|Die Kinder lachen laut über die lustigen Clownstreiche.|The children laugh loudly at the funny clown tricks.|der;Kind;lachen;laut;über;der;lustig;Clownstreich
+516.0|gehören|verb|to belong|Diese wertvollen Bücher gehören zur historischen Sammlung.|These valuable books belong to the historical collection.|dieser;wertvoll;Buch;gehören;zu;historisch;Sammlung
+588.0|rufen|verb|to call|Die Kinder riefen laut nach ihrer Katze im dichten Wald.|The children called loudly for their cat in the dense forest.|der;Kind;rufen;laut;nach;ihr;Katze;in;dicht;Wald
+609.0|die Chance|noun|chance|Die unerwartete Einladung war eine einmalige Chance für ihn.|The unexpected invitation was a unique chance for him.|der;unerwartet;Einladung;sein;ein;einmalig;Chance;für;ihn
+619.0|bewegen|verb|to move|Die Maschine bewegte die Kisten kraftvoll nach vorn.|The machine moved the boxes powerfully forward.|der;Maschine;bewegen;der;Kiste;kraftvoll;nach;vorn
+620.0|enthalten|verb|to contain|Das Paket sollte alle Teile zur Montage enthalten, doch etwas fehlte.|The package was supposed to contain all parts for assembly, but something was missing.|der;Paket;sollen;aller;Teil;zu;Montage;enthalten;doch;etwas;fehlen
+636.0|das Gesetz|noun|law|Ein neues Gesetz wurde zum Schutz von Wanderwegen erlassen.|A new law was passed to protect hiking trails.|ein;neu;Gesetz;werden;zu;Schutz;von;Wanderweg;erlassen
+637.0|planen|verb|to plan|Die Ingenieure planen aufwändig eine neue Zugstrecke.|The engineers are meticulously planning a new train route.|der;Ingenieur;planen;aufwändig;ein;neu;Zugstrecke
+710.001|die Beziehung|noun|relationship|Die Beziehung zwischen den Geschwistern war herzlich und tief.|The relationship between the siblings was warm and deep.|der;Beziehung;zwischen;der;Geschwister;sein;herzlich;und;tief
+715.0|das Auftreten|noun|behavior|Sein Auftreten beeindruckte die gesamte Belegschaft.|His behavior impressed the entire staff.|sein;auftreten;beeindrucken;der;gesamt;Belegschaft
+715.002|das Auftreten|noun|occurrence|Das Auftreten des seltenen Vogels begeistert alle Ornithologen.|The occurrence of the rare bird excites all ornithologists.|der;auftreten;der;selten;Vogel;begeistern;aller;Ornithologe
+748.0|echt|adjective|genuine|Sein echtes Interesse an der Kunst begeistert alle Teilnehmer.|His genuine interest in art excites all participants.|sein;echt;Interesse;an;der;Kunst;begeistern;aller;Teilnehmer
+752.0|hoffen|verb|to hope (for)|Wir hoffen auf ein baldiges Ende der schwierigen Zeiten.|We hope for a swift end to the difficult times.|wir;hoffen;auf;ein;baldig;Ende;der;schwierig;Zeit
+753.001|erfahren|verb|to find out|In den Bergen erfährt man oft die wahre Stille der Natur.|In the mountains, one often finds out the true silence of nature.|in;der;Berg;erfahren;man;oft;der;wahr;Stille;der;Natur
+763.001|klingen|verb|to sound|Die Glocken der alten Kirche klingen tief und harmonisch.|The bells of the old church sound deep and harmonious.|der;Glocke;der;alt;Kirche;klingen;tief;und;harmonisch
+764.0|lieben|verb|to love|Er liebte den Duft von frischem Brot in der kleinen Bäckerei.|He loved the smell of fresh bread in the small bakery.|er;lieben;der;Duft;von;frisch;Brot;in;der;klein;Bäckerei
+768.001|meist|adverb|usually|Meist dauert der Morgenverkehr quälend lange in der Großstadt.|Usually, the morning traffic drags on painfully long in the city.|meist;dauern;der;Morgenverkehr;quälend;lange;in;der;Großstadt
+775.001|hin|adverb|there|Die dampfende Suppe schob er vorsichtig hin zur hungrigen Frau.|He carefully pushed the steaming soup there to the hungry woman.|der;dampfend;Suppe;schieben;er;vorsichtig;hin;zu;hungrig;Frau
+776.0|aufgrund|preposition|on the basis of|Aufgrund neuer Erkenntnisse änderten sie die Strategie.|On the basis of new insights, they changed the strategy.|aufgrund;neu;Erkenntnis;ändern;sie;der;Strategie
+798.0|erfolgreich|adjective|successful|Die Kampagne war durch die kluge Strategie erfolgreich.|The campaign was successful due to the clever strategy.|der;Kampagne;sein;durch;der;klug;Strategie;erfolgreich
+808.001|dauern|verb|to take (time)|Das Meeting sollte nicht länger als eine Stunde dauern.|The meeting should not take more than an hour.|der;Meeting;sollen;nicht;lang;als;ein;Stunde;dauern
+815.0|unabhängig|adjective|independent|Das unabhängige Team löste das Problem eigenhändig.|The independent team solved the problem on their own.|der;unabhängig;Team;lösen;der;Problem;eigenhändig
+829.001|irgendwann|adverb|some day|Irgendwann wird der verrostete Zug wieder fahren können.|Some day, the rusty train will be able to run again.|irgendwann;werden;der;verrostet;Zug;wieder;fahren;können
+851.0|rechte|adjective|right|Die rechte Seite des Raumes war prunkvoll dekoriert.|The right side of the room was lavishly decorated.|der;rechter;Seite;der;Raum;sein;prunkvoll;dekorieren
+860.0|längst|adverb|long since|Die verlassene Mühle war längst von der Natur zurückgeholt.|The abandoned mill had long since been reclaimed by nature.|der;verlassen;Mühle;sein;längst;von;der;Natur;zurückholen
+888.0|gestern|adverb|yesterday|Gestern betrachteten wir die beeindruckende Ausstellung.|Yesterday we viewed the impressive exhibition.|gestern;betrachten;wir;der;beeindruckend;Ausstellung
+889.0|der Spieler|noun|player|Der Spieler trainiert täglich, um besser zu werden.|The player trains daily to become better.|der;Spieler;trainieren;täglich;um;gut;zu;werden
+896.0|rechts|adverb|on/to the right|Der Weg gabelt sich rechts neben dem alten, moosbedeckten Baum.|The path forks to the right next to the old moss-covered tree.|der;Weg;gabeln;sich;rechts;neben;der;alt;moosbedeckt;Baum
+915.0|breit|adjective|wide|Die breite Straße führte durch das Zentrum der Altstadt.|The wide street led through the center of the old town.|der;breit;Straße;führen;durch;der;Zentrum;der;Altstadt
+921.0|die Anzahl|noun|number|Die Anzahl der Steine auf dem Weg macht das Wandern beschwerlich.|The number of stones on the path makes hiking difficult.|der;Anzahl;der;Stein;auf;der;Weg;machen;der;wandern;beschwerlich
+925.0|berechnen|verb|to calculate|Der Ingenieur musste präzise Werte für die Brücke berechnen.|The engineer had to calculate precise values for the bridge.|der;Ingenieur;musste;präzise;Wert;für;der;Brücke;berechnen
+944.0|das Verfahren|noun|method|Das Verfahren zur Datenanalyse ist äußerst effektiv.|The method for data analysis is extremely effective.|der;Verfahren;zu;Datenanalyse;sein;äußerst;effektiv
+982.0|überraschen|verb|to surprise|Das Geschenk sollte den Jubilar völlig überraschen.|The gift was meant to completely surprise the celebrant.|der;Geschenk;sollen;der;Jubilar;völlig;überraschen
+984.001|bewusst|adjective|deliberate|Sein bewusster Entschluss stärkte sein Selbstvertrauen.|His deliberate decision strengthened his self-confidence.|sein;bewusst;Entschluss;stärken;sein;Selbstvertrauen
+996.0|schicken|verb|to send|Man musste den Brief per Kutsche schicken, da keine Bahn fuhr.|One had to send the letter by carriage since no train was running.|man;musste;der;Brief;per;Kutsche;schicken;da;kein;Bahn;fahren
+1012.0|die Position|noun|position|Die Position des Baumes war perfekt für den Schatten.|The position of the tree was perfect for the shade.|der;Position;der;Baum;sein;perfekt;für;der;Schatten
+1028.0|eignen (sich)|verb|to be suitable|Die neuen Möbel eignen sich hervorragend für das kleine Zimmer.|The new furniture is suitable for the small room.|der;neu;Möbel;eignen;sich;hervorragend;für;der;klein;Zimmer
+1050.0|der Freitag|noun|Friday|Am Freitag schlenderte sie durch den lebhaften Markt.|On Friday, she strolled through the lively market.|an;Freitag;schlendern;sie;durch;der;lebhaft;Markt
+1063.001|behandeln|verb|to address|Der Arzt wird die gesundheitlichen Probleme umfassend behandeln.|The doctor will comprehensively address the health issues.|der;Arzt;werden;der;gesundheitlich;Problem;umfassend;behandeln
+1079.0|vorhanden|adjective|available|Die vorhandenen Ressourcen reichten für den gesamten Bau.|The available resources were sufficient for the entire construction.|der;vorhanden;Ressource;reichen;für;der;gesamt;Bau
+1119.002|überlegen|verb|to think of|Ich musste lange überlegen, ob ich das Angebot annehme.|I had to think of it for a long time whether to accept the offer.|ich;musste;lange;überlegen;ob;ich;der;Angebot;annehmen
+1142.001|glücklich|adjective|fortunate|Er war glücklich, den letzten Zug noch erreicht zu haben.|He was fortunate to have caught the last train.|er;sein;glücklich;der;letzter;Zug;noch;erreichen;zu;haben
+1167.002|einfallen|verb|to come to mind|Diese Idee fiel ihm beim Lesen eines Gedichts ein.|This idea came to his mind while reading a poem.|dieser;Idee;einfallen;ihm;bei;Lesen;ein;Gedicht;ein
+1183.001|die Behörde|noun|authorities|Die Behörde genehmigte endlich den lang erwarteten Antrag.|The authorities finally approved the long-awaited request.|der;Behörde;genehmigen;endlich;der;lang;erwartet;Antrag
+1194.0|das Vertrauen|noun|trust|Ehrliche Worte bauten zögerlich das verlorene Vertrauen auf.|Honest words slowly rebuilt the lost trust.|Ehrliche;Wort;aufbauen;zögerlich;der;verloren;vertrauen;auf
+1199.002|der Bund|noun|bunch|Ein Bund frischer Kräuter hängt an der Holzwand der Hütte.|A bunch of fresh herbs hangs on the wooden wall of the hut.|ein;Bund;frisch;Kraut;hängen;an;der;Holzwand;der;Hütte
+1206.0|die Voraussetzung|noun|condition|Die Voraussetzung für die Teilnahme ist ein abgeschlossenes Studium.|The condition for participation is a completed degree.|der;Voraussetzung;für;der;Teilnahme;sein;ein;abgeschlossen;Studium
+1239.0|angesichts|preposition|in view of|Angesichts der Lage wurde das Konzert sicherheitshalber abgesagt.|In view of the situation, the concert was canceled as a precaution.|angesichts;der;Lage;werden;der;Konzert;sicherheitshalber;absagen
+1243.0|heraus|adverb|out|Das Kind zog vorsichtig den Zettel aus der Schublade heraus.|The child carefully pulled the note out of the drawer.|der;Kind;herausziehen;vorsichtig;der;Zettel;aus;der;Schublade;heraus
+1246.0|der Partner|noun|partner|Ihr Partner unterstützte sie während des schwierigen Projekts.|Her partner supported her during the difficult project.|ihr;Partner;unterstützen;sie;während;der;schwierig;Projekt
+1255.0|der Stein|noun|rock|Ein ungewöhnlich geformter Stein lag am Ufer des stillen Flusses.|An unusually shaped rock lay on the bank of the quiet river.|ein;ungewöhnlich;geformt;Stein;liegen;an;Ufer;der;still;Fluss
+1260.002|das Konzept|noun|plan|Das Konzept der Ausstellung überraschte mit futuristischen Skulpturen.|The plan of the exhibition surprised with futuristic sculptures.|der;Konzept;der;Ausstellung;überraschen;mit;futuristisch;Skulptur
+1282.0|der Osten, Ost-|noun|east|Der Osten des Landes ist für seine Naturwunder bekannt.|The east of the country is famous for its natural wonders.|der;Osten;der;Land;sein;für;sein;Naturwunder;bekannt
+1293.001|sammeln|verb|to gather|Die Forscher sammeln Daten für ihre neueste Studie.|The researchers gather data for their latest study.|der;Forscher;sammeln;Datum;für;ihr;neue;Studie
+1294.0|ablehnen|verb|to refuse|Die Bürger lehnten den neuen Vorschlag des Rates deutlich ab.|The citizens clearly refused the council's new proposal.|der;Bürger;ablehnen;der;neu;Vorschlag;der;Rat;deutlich;ab
+1295.0|stoßen|verb|to bump|Beim Eilen stieß er hart gegen die schwere Eichentür.|While hurrying, he bumped hard against the heavy oak door.|bei;Eilen;stoßen;er;hart;gegen;der;schwer;Eichentür
+1300.0|verlaufen|verb|to proceed|Die Diskussion sollte ruhig und strukturiert verlaufen.|The discussion should proceed calmly and structured.|der;Diskussion;sollen;ruhig;und;strukturiert;verlaufen
+1304.0|auslösen|verb|to set off|Der Fehlalarm löste Panik in der überfüllten Bahnstation aus.|The false alarm set off panic in the crowded train station.|der;Fehlalarm;auslösen;Panik;in;der;überfüllt;Bahnstation;aus
+1313.0|ausmachen|verb|to put out|Er musste die Kerze leise ausmachen, um niemanden zu wecken.|He had to quietly put out the candle to avoid waking anyone.|er;musste;der;Kerze;leise;ausmachen;um;niemand;zu;wecken
+1315.0|kritisch|adjective|critical|Die kritische Analyse entblößt die Schwächen des Plans.|The critical analysis exposes the weaknesses of the plan.|der;kritisch;Analyse;entblößen;der;Schwäche;der;Plan
+1358.0|maximal|adjective|maximum|Die Maschine läuft auf maximaler Leistung für die Produktion.|The machine operates at maximum capacity for production.|der;Maschine;laufen;auf;maximal;Leistung;für;der;Produktion
+1391.0|landen|verb|to land|Das Flugzeug landete sicher auf der frostigen Landebahn.|The plane landed safely on the frosty runway.|der;Flugzeug;landen;sicher;auf;der;frostig;Landebahn
+1404.001|die Erkenntnis|noun|discovery|Die Erkenntnis brachte eine Lösung für das komplexe Problem.|The discovery brought a solution to the complex problem.|der;Erkenntnis;bringen;ein;Lösung;für;der;komplex;Problem
+1405.001|selbstverständlich|adjective|self-evident|Es ist selbstverständlich, Müll ordentlich zu entsorgen.|It is self-evident to dispose of waste properly.|es;sein;selbstverständlich;Müll;ordentlich;zu;entsorgen
+1409.0|die Basis|noun|basis|Die Basis unseres Projekts ist ein klarer Handlungsplan.|The basis of our project is a clear action plan.|der;Basis;unser;Projekt;sein;ein;klar;Handlungsplan
+1418.0|das Enzym|noun|enzyme|Dieses neue Enzym beschleunigt die Reaktion im Labor immens.|This new enzyme accelerates the reaction in the lab immensely.|dieser;neu;Enzym;beschleunigen;der;Reaktion;in;Labor;immens
+1429.0|ausschließen|verb|to exclude|Man sollte niemanden aus wichtigen Gesprächen ausschließen.|One should not exclude anyone from important conversations.|man;sollen;niemand;aus;wichtig;Gespräch;ausschließen
+1439.0|der Anschlag|noun|attack|Der Anschlag setzte die ganze Stadt in Alarmbereitschaft.|The attack put the entire city on high alert.|der;Anschlag;setzen;der;ganz;Stadt;in;Alarmbereitschaft
+1455.0|berühmt|adjective|famous|Der berühmte Maler stellte sein Werk in Paris aus.|The famous painter exhibited his work in Paris.|der;berühmt;Maler;ausstellen;sein;Werk;in;Paris;aus
+1464.0|herzlich|adjective|cordial|Die Gastgeber boten uns einen herzlich warmen Empfang.|The hosts gave us a cordial warm welcome.|der;Gastgeber;boten;uns;ein;herzlich;warm;Empfang
+1464.001|herzlich|adjective|warm|Ein herzliches Lächeln begrüßte die Gäste im Saal.|A warm smile welcomed the guests in the hall.|ein;herzlich;lächeln;begrüßen;der;Gast;in;Saal
+1478.0|niemals|adverb|never|Er hätte niemals geglaubt, dass so etwas passieren könnte.|He would never have believed that something like this could happen.|er;haben;niemals;glauben;dass;so;etwas;passieren;können
+1506.001|aufweisen|verb|to exhibit|Das Kunstwerk weist eine faszinierende Farbauswahl auf.|The artwork exhibits a fascinating color selection.|der;Kunstwerk;aufweisen;ein;faszinierend;Farbauswahl;auf
+1533.001|die Praxis|noun|doctor’s office|In der Praxis hat der Arzt viele Patienten pro Tag.|In the doctor's office, the doctor sees many patients daily.|in;der;Praxis;haben;der;Arzt;vieler;Patient;pro;Tag
+1537.0|übertragen|verb|to transfer|Die Daten wurden auf das tragbare Gerät direkt übertragen.|The data was transferred directly to the portable device.|der;Datum;werden;auf;der;tragbar;Gerät;direkt;übertragen
+1551.0|arm|adjective|poor|Der arme Mann fand Schutz in einer alten Hütte im Wald.|The poor man found shelter in an old hut in the forest.|der;arm;Mann;finden;Schutz;in;ein;alt;Hütte;in;Wald
+1574.0|tanzen|verb|to dance|In der Halle tanzen hunderte Gäste ausgelassen bis spät.|In the hall, hundreds of guests dance exuberantly until late.|in;der;Halle;tanzen;hundert;Gast;ausgelassen;bis;spät
+1598.0|solange|conjunction|as long as|Solange es sicher ist, können wir weiter am Projekt arbeiten.|As long as it is safe, we can continue working on the project.|solange;es;sicher;sein;können;wir;weiter;an;Projekt;arbeiten
+1604.002|günstig|adjective|good|Der günstige Preis für das neue Smartphone zieht Käufer an.|The good price for the new smartphone attracts buyers.|der;günstig;Preis;für;der;neu;Smartphone;anziehen;Käufer;an
+1605.0|der Dezember|noun|December|Im Dezember erstrahlt die Stadt in festlichem Licht.|In December, the city shines in festive light.|in;Dezember;erstrahlen;der;Stadt;in;festlich;Licht
+1607.0|das Krankenhaus|noun|hospital|Das moderne Krankenhaus wurde in wenigen Monaten gebaut.|The modern hospital was built in a few months.|der;modern;Krankenhaus;werden;in;weniger;Monat;bauen
+1630.0|der Service|noun|service|Der Service in dem kleinen Gasthof war herzlich und unschlagbar.|The service in the small guesthouse was warm and unbeatable.|der;Service;in;der;klein;Gasthof;sein;herzlich;und;unschlagbar
+1632.0|bisherig|adjective|so far|Die bisherige Strategie brachte kaum Fortschritte im Projekt.|The strategy so far brought little progress to the project.|der;bisherig;Strategie;bringen;kaum;Fortschritt;in;Projekt
+1640.0|anhand|preposition|on the basis of|Anhand der Umfrageergebnisse werden Entscheidungen getroffen.|Decisions are made on the basis of the survey results.|anhand;der;Umfrageergebnis;werden;Entscheidung;treffen
+1653.001|die Gegend|noun|region|In der friedlichen Gegend wachsen die besten Weintrauben.|In the peaceful region, the best grapes grow.|in;der;friedlich;Gegend;wachsen;der;gut;Weintraube
+1660.0|tauchen|verb|to dive|Die Taucher möchten tief in das klare Wasser tauchen.|The divers want to dive deep into the clear water.|der;Taucher;möchten;tief;in;der;klar;Wasser;tauchen
+1666.001|die Bestimmung|noun|purpose|Die Bestimmung des Plans war von Anfang an klar definiert.|The purpose of the plan was clearly defined from the beginning.|der;Bestimmung;der;Plan;sein;von;Anfang;an;klar;definieren
+1684.0|wunderbar|adjective|wonderful|Der Sonnenuntergang am Strand war einfach wunderbar.|The sunset at the beach was simply wonderful.|der;Sonnenuntergang;an;Strand;sein;einfach;wunderbar
+1698.0|der Lehrstuhl|noun|professorship|Der Lehrstuhl für alte Geschichte wird neu besetzt.|The professorship for ancient history is being refilled.|der;Lehrstuhl;für;alt;Geschichte;werden;neu;besetzen
+1733.0|brennen|verb|to burn|Die Kerzen brennen leise im dunklen Raum vor sich hin.|The candles burn quietly in the dark room.|der;Kerze;brennen;leise;in;dunkel;Raum;vor;sich;hin
+1763.001|die Schicht|noun|shift|Die Schicht am Fließband war heute besonders anstrengend.|The shift at the assembly line was particularly exhausting today.|der;Schicht;an;Fließband;sein;heute;besonders;anstrengend
+1795.0|die Regelung|noun|regulation|Die neue Regelung der Stadtwerke betrifft Müllabholung bei Nacht.|The new regulation by the city services concerns nighttime garbage collection.|der;neu;Regelung;der;Stadtwerk;betreffen;Müllabholung;bei;Nacht
+1795.001|die Regelung|noun|settlement|Die Regelung des Streits erfolgte durch einen neutralen Schlichter.|The settlement of the dispute was handled by a neutral mediator.|der;Regelung;der;Streit;erfolgen;durch;ein;neutral;Schlichter
+1797.0|überwiegen|verb|to outweigh|Die Vorteile dieses Plans überwiegen die möglichen Risiken.|The advantages of this plan outweigh the possible risks.|der;Vorteil;dieser;Plan;überwiegen;der;möglich;Risiko
+1798.0|bedingen|verb|to cause|Die hohen Kosten bedingen eine genaue Planung des Projekts.|The high costs cause a need for precise project planning.|der;hoch;Kosten;bedingen;ein;genau;Planung;der;Projekt
+1799.001|die Gestalt|noun|form|Die Gestalt des Gebäudes beeindruckt alle Besucher.|The form of the building impresses all visitors.|der;Gestalt;der;Gebäude;beeindrucken;aller;Besucher
+1804.0|fließen|verb|to flow|Der Fluss fließen ruhig durch das Tal und die Felder.|The river flows calmly through the valley and fields.|der;Fluss;fließen;ruhig;durch;der;Tal;und;der;Feld
+1805.0|gemäß|preposition|according to|Gemäß der Studie steigen die Zahlen jährlich um fünf Prozent.|According to the study, the numbers increase by five percent annually.|Gemäß;der;Studie;steigen;der;Zahl;jährlich;um;fünf;Prozent
+1811.0|zufällig|adjective|accidental|Zufällig entdeckte er die alte Landkarte auf dem Dachboden.|He accidentally discovered the old map in the attic.|zufällig;entdecken;er;der;alt;Landkarte;auf;der;Dachboden
+1827.0|ab|adverb|off|Der Wanderer bog ab und nahm den schattigen Waldrandweg.|The hiker turned off and took the shady forest trail.|der;Wanderer;abbiegen;ab;und;nehmen;der;schattig;Waldrandweg
+1856.0|die Erzählung|noun|narration|Seine Erzählung über die Reise war fesselnd und detailreich.|His narration of the journey was captivating and detailed.|sein;Erzählung;über;der;Reise;sein;fesselnd;und;detailreich
+1863.0|zeitlich|adjective|in time|Die zeitlich begrenzte Ausstellung füllte schnell die Galerieräume.|The limited-time exhibition quickly filled the gallery rooms.|der;zeitlich;begrenzt;Ausstellung;füllen;schnell;der;Galerieraum
+1885.0|wandern|verb|to (go on a) walk or hike|Am Wochenende wollen wir durch die Wälder wandern.|On the weekend, we want to hike through the woods.|an;Wochenende;wollen;wir;durch;der;Wald;wandern
+1897.001|insofern|adverb|insofar|Insofern der Raum leer ist, nutzen sie ihn für die Ausstellung.|Insofar as the room is empty, they use it for the exhibition.|insofern;der;Raum;leer;sein;nutzen;sie;ihn;für;der;Ausstellung
+1925.001|die Ausgabe|noun|edition|Die neue Ausgabe des Buchs enthält exklusive Kapitel.|The new edition of the book contains exclusive chapters.|der;neu;Ausgabe;der;Buch;enthalten;exklusiv;Kapitel
+1941.0|beeindrucken|verb|to impress|Der Redner beeindruckte mit klaren, kraftvollen Worten.|The speaker impressed with clear, powerful words.|der;Redner;beeindrucken;mit;klar;kraftvoll;Wort
+1945.0|schwimmen|verb|to swim|Die Kinder schwimmen jeden Sommer im klaren, blauen See.|The children swim every summer in the clear, blue lake.|der;Kind;schwimmen;jeder;Sommer;in;klar;blau;See
+1954.001|aussprechen|verb|to express|Es fiel ihr schwer, ihre Dankbarkeit in Worte auszusprechen.|It was difficult for her to express her gratitude in words.|es;schwerfallen;ihr;schwer;ihr;Dankbarkeit;in;Wort;aussprechen
+1955.0|beliebt|adjective|popular|Der kleine Laden ist bei Einheimischen äußerst beliebt.|The small shop is extremely popular among locals.|der;klein;Laden;sein;bei;einheimische;äußerst;beliebt
+1983.0|das Engagement|noun|commitment|Sein Engagement für den Umweltschutz ist bewundernswert.|His commitment to environmental protection is admirable.|sein;Engagement;für;der;Umweltschutz;sein;bewundernswert
+1984.001|erschrecken|verb|to be startled|Beim lauten Knall konnte niemand verhindern, zu erschrecken.|At the loud bang, no one could avoid being startled.|bei;laut;Knall;können;niemand;verhindern;zu;erschrecken
+1986.001|das Wesen|noun|creature|Das geheimnisvolle Wesen lebt tief im dunklen Wald.|The mysterious creature lives deep in the dark forest.|der;geheimnisvoll;Wesen;leben;tief;in;dunkel;Wald
+1995.0|die Vorsitzende|noun|chairperson|Die Vorsitzende eröffnete die Sitzung mit klaren Worten.|The chairperson opened the meeting with clear words.|der;vorsitzend;eröffnen;der;Sitzung;mit;klar;Wort
+2005.0|vorhaben|verb|to have in mind|Für den Sommer hat der Architekt großen Umbau vor.|The architect has a major renovation in mind for the summer.|für;der;Sommer;vorhaben;der;Architekt;groß;Umbau;vor
+2026.0|verrückt|adjective|crazy|Ihr verrückter Plan zur Weltreise fasziniert jeden in der Gruppe.|Her crazy plan for a world trip fascinates everyone in the group.|ihr;verrückt;Plan;zu;Weltreise;faszinieren;jeder;in;der;Gruppe
+2071.0|die Einrichtung|noun|institution|Die Einrichtung bietet viele Programme für benachteiligte Kinder.|The institution offers many programs for disadvantaged children.|der;Einrichtung;bieten;vieler;Programm;für;benachteiligt;Kind
+2086.0|Wiener|adjective|Viennese|Die Wiener Küche ist für ihre köstlichen Spezialitäten berühmt.|The Viennese cuisine is famous for its delicious specialties.|der;Wiener;Küche;sein;für;ihr;köstlich;Spezialität;berühmt
+2104.0|die Dauer|noun|duration|Die Dauer der Führung durch das Schloss betrug drei Stunden.|The duration of the tour through the castle was three hours.|der;Dauer;der;Führung;durch;der;Schloss;betragen;drei;Stunde
+2124.0|der Direktor|noun|director|Der Direktor hielt eine leidenschaftliche Rede zur Eröffnung.|The director delivered a passionate speech at the opening.|der;Direktor;halten;ein;leidenschaftlich;Rede;zu;Eröffnung
+2133.0|einrichten|verb|to furnish|Ich möchte mein neues Zimmer gemütlich einrichten.|I want to furnish my new room comfortably.|ich;möchten;mein;neu;Zimmer;gemütlich;einrichten
+2139.0|die Bezeichnung|noun|name|Die neue Bezeichnung irritierte viele Kunden des Produkts.|The new name confused many customers of the product.|der;neu;Bezeichnung;irritieren;vieler;Kunde;der;Produkt
+2144.0|der Hersteller|noun|manufacturer|Der Hersteller liefert erstklassige Maschinen aus Deutschland.|The manufacturer delivers top-quality machines from Germany.|der;Hersteller;liefern;erstklassig;Maschine;aus;Deutschland
+2150.001|der Rang|noun|status|Sein hoher Rang brachte ihm viele Privilegien und Neider.|His high status brought him many privileges and envy.|sein;hoch;Rang;bringen;ihm;vieler;Privileg;und;Neider
+2160.0|integrieren|verb|to integrate|Die neuen Bewohner integriert sich schnell in die Nachbarschaft.|The new residents integrate quickly into the neighborhood.|der;neu;Bewohner;integrieren;sich;schnell;in;der;Nachbarschaft
+2163.0|gerecht|adjective|just|Ein gerechter Handel stärkt das Vertrauen beider Seiten.|A just trade strengthens both sides' trust.|ein;gerecht;Handel;stärken;der;vertrauen;beide;Seite
+2167.0|das Bewusstsein|noun|consciousness|Das Bewusstsein für Umweltschutz wächst in der Stadt.|The consciousness for environmental protection is growing in the city.|der;Bewusstsein;für;Umweltschutz;wachsen;in;der;Stadt
+2171.0|ungewöhnlich|adjective|unusual|Die Ausstellung bot ungewöhnlich kreative Kunstwerke.|The exhibition featured unusually creative artworks.|der;Ausstellung;bieten;ungewöhnlich;kreativ;Kunstwerk
+2176.003|vorgehen|verb|to have priority|In diesem Falle müssen die Sicherheit und das Wohlbefinden vorgehen.|In this case, safety and well-being must have priority.|in;dieser;Fall;müssen;der;Sicherheit;und;der;Wohlbefinden;vorgehen
+2184.0|der Graf|noun|count|Der Graf zählte akribisch die Münzen aus dem Tresor.|The count meticulously counted the coins from the vault.|der;Graf;zählen;akribisch;der;Münze;aus;der;Tresor
+2188.0|militärisch|adjective|military|Das militärische Training ist eine harte, aber wertvolle Erfahrung.|Military training is a tough but valuable experience.|der;militärisch;Training;sein;ein;hart;aber;wertvoll;Erfahrung
+2209.0|die Beobachtung|noun|observation|Die präzise Beobachtung des Verhaltens fördert Erkenntnisse.|The precise observation of behavior fosters insights.|der;präzise;Beobachtung;der;verhalten;fördern;Erkenntnis
+2229.001|vorwerfen|verb|to reproach|Die Kritiker werfen dem Regisseur mangelnde Kreativität vor.|The critics reproach the director for a lack of creativity.|der;Kritiker;vorwerfen;der;Regisseur;mangelnd;Kreativität;vor
+2244.001|mischen|verb|to blend|Der Künstler begann, die kräftigen Farben auf der Palette zu mischen.|The artist started to blend the vibrant colors on the palette.|der;Künstler;beginnen;der;kräftig;Farbe;auf;der;Palette;zu;mischen
+2262.0|die Probe|noun|sample|Die Probe aus dem Labor wurde zur Analyse geschickt.|The sample from the lab was sent for analysis.|der;Probe;aus;der;Labor;werden;zu;Analyse;schicken
+2291.0|der Standort|noun|site|Der Standort für das neue Gebäude wurde sorgfältig gewählt.|The site for the new building was carefully chosen.|der;Standort;für;der;neu;Gebäude;werden;sorgfältig;wählen
+2308.0|der Impuls|noun|stimulus|Ein kreativer Impuls führte zur Gestaltung des neuen Designs.|A creative stimulus led to the creation of the new design.|ein;kreativ;Impuls;führen;zu;Gestaltung;der;neu;Design
+2311.001|vorgeben|verb|to set in advance|Das Budget war für den Bau klar vorgegeben vom Chef.|The budget for construction was clearly set in advance by the boss.|der;Budget;sein;für;der;Bau;klar;vorgeben;von;Chef
+2311.002|vorgeben|verb|to pretend|Die Kinder geben vor, sie wären Piraten auf einem Abenteuer.|The children pretend they are pirates on an adventure.|der;Kind;vorgeben;vor;sie;sein;Pirate;auf;ein;Abenteuer
+2329.0|die Verwaltung|noun|administration|Die Verwaltung beschleunigte den Prozess durch klare Richtlinien.|The administration sped up the process with clear guidelines.|der;Verwaltung;beschleunigen;der;Prozess;durch;klar;Richtlinie
+2332.002|ordentlich|adjective|orderly|Der Schreibtisch sieht nach dem Aufräumen ordentlichen aus.|The desk looks orderly after cleaning.|der;Schreibtisch;aussehen;nach;der;aufräumen;ordentlich;aus
+2338.002|großartig|adjective|superb|Das Orchester spielte ein großartiges Konzert für das Publikum.|The orchestra played a superb concert for the audience.|der;Orchester;spielen;ein;großartig;Konzert;für;der;Publikum
+2343.001|beliebig|adjective|as you like|Wähle einfach eine beliebige Farbe für die Zimmerwand aus.|Just choose any color for the room wall as you like.|ausWähle;einfach;ein;beliebig;Farbe;für;der;Zimmerwand;aus
+2345.0|versetzen|verb|to move|Die Bauarbeiter mussten die schweren Steine mühsam versetzen.|The construction workers had to laboriously move the heavy stones.|der;Bauarbeiter;mussten;der;schwer;Stein;mühsam;versetzen
+2349.0|die Kommune|noun|municipality|Die Kommune plant, den Park im Stadtzentrum zu renovieren.|The municipality plans to renovate the park in the city center.|der;Kommune;planen;der;Park;in;Stadtzentrum;zu;renovieren
+2353.0|stetig|adjective|constant|Seine stetige Bereitschaft, zu helfen, beeindruckt alle Kollegen.|His constant willingness to help impresses all colleagues.|sein;stetig;Bereitschaft;zu;helfen;beeindrucken;aller;Kollege
+2362.002|unternehmen|verb|to take action|Die Bergleute unternehmen mutige Schritte für die Rettung.|The miners take courageous steps for the rescue.|der;Bergleute;unternehmen;mutig;Schritt;für;der;Rettung
+2373.0|widmen|verb|to dedicate|Sie wollte ihr Leben der Pflege kranker Kinder widmen.|She wanted to dedicate her life to caring for sick children.|sie;wollen;ihr;Leben;der;Pflege;krank;Kind;widmen
+2382.0|die Sitzung|noun|meeting|Die Sitzung im Rathaus dauerte bis in die späte Nacht.|The meeting in the town hall lasted until late at night.|der;Sitzung;in;Rathaus;dauern;bis;in;der;spät;Nacht
+2461.0|abholen|verb|to get|Er musste das bestellte Paket aus der Filiale abholen.|He had to get the ordered package from the branch.|er;musste;der;bestellt;Paket;aus;der;Filiale;abholen
+2470.0|grinsen|verb|to grin|Er konnte nicht anders, als vor Freude zu grinsen.|He couldn’t help but grin with joy.|er;können;nicht;anders;als;vor;Freude;zu;grinsen
+2473.001|erstellen|verb|to draw up|Die Architekten mussten die Pläne neu erstellen gestern.|The architects had to draw up the plans anew yesterday.|der;Architekt;mussten;der;Plan;neu;erstellen;gestern
+2481.0|die Ableitung|noun|derivation|Die Ableitung der Formel erforderte stundenlange Arbeit.|The derivation of the formula required hours of work.|der;Ableitung;der;Formel;erfordern;stundenlang;Arbeit
+2482.0|aussteigen|verb|to get off|Die Touristen mussten beim Aussichtspunkt aus dem Bus aussteigen.|The tourists had to get off the bus at the viewpoint.|der;Tourist;mussten;bei;Aussichtspunkt;aus;der;Bus;aussteigen
+2529.001|das Geschlecht|noun|gender|Das Geschlecht des Vogels erkennt man am bunten Gefieder.|The gender of the bird is identified by its colorful feathers.|der;Geschlecht;der;Vogel;erkennen;man;an;bunt;Gefieder
+2543.0|hingehen|verb|to go (there)|Lass uns hingehen und das neue Restaurant ausprobieren.|Let's go there and try the new restaurant.|Lass;sich;hingehen;und;der;neu;Restaurant;ausprobieren
+2577.001|die Angehörige|noun|relative|Die Angehörige brachten Blumen zum Krankenbesuch mit.|The relatives brought flowers for the hospital visit.|der;angehörige;mitbringen;Blume;zu;Krankenbesuch;mit
+2602.0|ausüben|verb|to practice|Ich möchte jeden Tag meinen Lieblingssport im Freien ausüben.|I want to practice my favorite sport outdoors every day.|ich;möchten;jeder;Tag;mein;Lieblingssport;in;Freien;ausüben
+2612.0|der Wechsel|noun|change|Der Wechsel der Jahreszeiten bringt neue Farben in die Landschaft.|The change of seasons brings new colors to the landscape.|der;Wechsel;der;Jahreszeit;bringen;neu;Farbe;in;der;Landschaft
+2622.001|einbringen|verb|to contribute|Jeder sollte seine Ideen einbringen, um das Projekt zu verbessern.|Everyone should contribute their ideas to improve the project.|jeder;sollen;sein;Idee;einbringen;um;der;Projekt;zu;verbessern
+2624.0|das Personal|noun|staff|Das freundliche Personal servierte frischgebackene Butterbrezeln.|The friendly staff served freshly baked butter pretzels.|der;freundlich;Personal;servieren;frischgebacken;Butterbrezel
+2625.0|scheinbar|adjective|apparent|Die scheinbare Ruhe wurde vom entfernten Donner durchbrochen.|The apparent calm was disrupted by the distant thunder.|der;scheinbar;Ruhe;werden;von;entfernt;Donner;durchbrechen
+2635.0|der Arbeitsmarkt|noun|labor market|Der Arbeitsmarkt verändert sich ständig und fordert neue Fähigkeiten.|The labor market is constantly changing and demands new skills.|der;Arbeitsmarkt;verändern;sich;ständig;und;fordern;neu;Fähigkeit
+2647.0|der Austausch|noun|exchange|Der Austausch von Ideen bereicherte das Team enorm.|The exchange of ideas greatly enriched the team.|der;Austausch;von;Idee;bereichern;der;Team;enorm
+2674.0|christlich|adjective|Christian|Die christlichen Werte leiten ihre Entscheidungen im Leben stets.|The Christian values guide their decisions in life consistently.|der;christlich;Wert;leiten;ihr;Entscheidung;in;Leben;stets
+2691.001|bereiten|verb|to cause|Das unerwartete Geschenk bereitete ihr große Freude.|The unexpected gift caused her great joy.|der;unerwartet;Geschenk;bereiten;ihr;groß;Freude
+2701.0|namens|adverb|by the name of|Ein Mann namens Klaus fertigt kunstvolle Glaskugeln am Marktstand an.|A man by the name of Klaus crafts artistic glass spheres at the market stall.|ein;Mann;namens;Klaus;anfertigen;kunstvoll;Glaskugel;an;Marktstand;an
+2701.001|namens|adverb|called|Im Park lebt ein Schwan namens Ludwig majestätisch.|In the park resides a majestic swan called Ludwig.|in;Park;leben;ein;Schwan;namens;Ludwig;majestätisch
+2706.0|der Zeuge|noun|witness|Der Zeuge schilderte detailliert den Vorfall im Gerichtssaal.|The witness described the incident in detail in the courtroom.|der;Zeuge;schildern;detailliert;der;Vorfall;in;Gerichtssaal
+2770.0|der Ärger|noun|annoyance|Der verlorene Schlüssel brachte großen Ärger mit sich.|The lost key brought great annoyance.|der;verloren;Schlüssel;bringen;groß;Ärger;mit;sich
+2777.001|abbilden|verb|to portray|Der Künstler will das Leben der Stadt lebhaft abbilde.|The artist wants to vividly portray the life of the city.|der;Künstler;wollen;der;Leben;der;Stadt;lebhaft;abbilden
+2796.0|quer|adverb|diagonally|Er schnitt die Äpfel quer und legte sie auf den Kuchen.|He sliced the apples diagonally and placed them on the cake.|er;schnitt;der;Äpfel;quer;und;legen;sie;auf;der;Kuchen
+2796.001|quer|adverb|sideways|Das Brett wurde quer gelegt, um den Durchgang zu verhindern.|The board was placed sideways to block the passage.|der;Brett;werden;quer;legen;um;der;Durchgang;zu;verhindern
+2810.0|das Milligramm|noun|milligram|Nur ein einziges Milligramm Gift kann gefährlich sein.|Only a single milligram of poison can be dangerous.|nur;ein;einzig;Milligramm;Gift;können;gefährlich;sein
+2818.0|experimentell|adjective|experimental|Das experimentelle Verfahren ergab überraschend präzise Werte.|The experimental process delivered surprisingly precise results.|der;experimentell;Verfahren;ergeben;überraschend;präzise;Wert
+2840.0|der Europäer|noun|European|Der Europäer diskutierte leidenschaftlich über Politik.|The European passionately discussed politics.|der;Europäer;diskutieren;leidenschaftlich;über;Politik
+2843.001|die Stille|noun|silence|Die Stille im Wald wurde nur durch das Rascheln der Blätter gebrochen.|The silence in the forest was only broken by the rustling of leaves.|der;Stille;in;Wald;werden;nur;durch;der;Rascheln;der;Blatt;brechen
+2878.0|klagen|verb|to complain|Die Gäste klagen über den Lärm von der Baustelle nebenan.|The guests complain about the noise from the nearby construction site.|der;Gast;klagen;über;der;Lärm;von;der;Baustelle;nebenan
+2930.0|der Besitzer|noun|owner|Der Besitzer des Cafés begrüßt seine Gäste stets herzlich.|The owner of the café always greets his guests warmly.|der;Besitzer;der;Café;begrüßen;sein;Gast;stets;herzlich
+2937.001|die Einschätzung|noun|assessment|Die Einschätzung der Lage war korrekt und detailliert im Bericht.|The assessment of the situation was accurate and detailed in the report.|der;Einschätzung;der;Lage;sein;korrekt;und;detailliert;in;Bericht
+2959.0|der Arbeitgeber|noun|employer|Der Arbeitgeber bot flexible Arbeitszeiten für alle Angestellten an.|The employer offered flexible working hours for all employees.|der;Arbeitgeber;anbieten;flexibel;Arbeitszeit;für;aller;angestellter;an
+2967.0|charakteristisch|adjective|characteristic|Die charakteristische Tür des Hauses war leuchtend rot gestrichen.|The characteristic door of the house was painted bright red.|der;charakteristisch;Tür;der;Haus;sein;leuchtend;rot;streichen
+2968.001|die Einnahme|noun|receipts|Die Einnahme durch das Konzert übertraf alle Erwartungen.|The receipts from the concert exceeded all expectations.|der;Einnahme;durch;der;Konzert;übertreffen;aller;Erwartung
+3009.001|entnehmen|verb|to remove|Der Mechaniker musste das alte Ventil vorsichtig entnehmen.|The mechanic had to carefully remove the old valve.|der;Mechaniker;musste;der;alt;Ventil;vorsichtig;entnehmen
+3014.001|der Gehalt|noun|contents|Der Gehalt des Buches bietet viele wertvolle Informationen.|The contents of the book offer many valuable pieces of information.|der;Gehalt;der;Buch;bieten;vieler;wertvoll;Information
+3035.0|der Nutzer|noun|user|Der Nutzer des neuen Programms lobte dessen intuitive Bedienung.|The user of the new software praised its intuitive interface.|der;Nutzer;der;neu;Programm;loben;der;intuitiv;Bedienung
+3060.002|ausgeprägt|adjective|remarkable|Ihre ausgeprägte Stimme hallte durch den vollen Hörsaal.|Her remarkable voice echoed through the crowded lecture hall.|ihr;ausgeprägt;Stimme;halln;durch;der;voll;Hörsaal
+3091.0|nachfolgend|adjective|following|Die nachfolgende Diskussion beleuchtet wichtige Themen.|The following discussion highlights important topics.|der;nachfolgend;Diskussion;beleuchten;wichtig;Thema
+3109.0|zugänglich|adjective|accessible|Ein steiler Pfad machte die Hofruine endlich zugänglich.|A steep path finally made the farm ruins accessible.|ein;steil;Pfad;machen;der;Hofruine;endlich;zugänglich
+3115.0|langweilig|adjective|boring|Dieser Vortrag ist so langweilig, dass viele einschlafen.|This lecture is so boring that many people fall asleep.|dieser;Vortrag;sein;so;langweilig;dass;viele;einschlafen
+3126.0|das Symptom|noun|symptom|Das Symptom der Krankheit zeigte sich erst nach vielen Tagen.|The symptom of the illness appeared only after many days.|der;Symptom;der;Krankheit;zeigen;sich;erst;nach;vieler;Tag
+3129.0|herum|preposition|around|Kinder liefen fröhlich um den dekorierten Weihnachtsbaum herum.|Children ran joyfully around the decorated Christmas tree.|Kind;herumlaufen;fröhlich;um;der;dekoriert;Weihnachtsbaum;herum
+3132.0|der Österreicher|noun|Austrian|Der Österreicher schwärmte von den Bergen seiner Heimat.|The Austrian raved about the mountains of his homeland.|der;Österreicher;schwärmen;von;der;Berg;sein;Heimat
+3144.001|lenken|verb|to guide|Der Lehrer lenkt die Schüler durch komplexe mathematische Konzepte.|The teacher guides the students through complex mathematical concepts.|der;Lehrer;lenken;der;Schüler;durch;komplex;mathematisch;Konzept
+3168.0|effizient|adjective|efficient|Die Firma arbeitet dank neuer Methoden nun effizienter.|The company now works more efficiently thanks to new methods.|der;Firma;arbeiten;dank;neu;Methode;nun;effizient
+3176.0|diskret|adjective|discreet|Das diskrete Flüstern im Café erregte keine Aufmerksamkeit.|The discreet whispering in the café attracted no attention.|der;diskret;flüstern;in;Café;erregen;kein;Aufmerksamkeit
+3184.0|die Substitution|noun|substitution|Die Substitution der defekten Teile verlangte höchste Präzision.|The substitution of the defective parts required utmost precision.|der;Substitution;der;defekt;Teil;verlangen;hoch;Präzision
+3194.001|wunderschön|adjective|lovely|Im Garten wuchs eine wunderschön duftende Rose empor.|In the garden, a lovely fragrant rose grew tall.|in;Garten;emporwachsen;ein;wunderschön;duftend;Rose;empor
+3195.0|grüßen|verb|to greet|Die Kinder grüßen höflich jede Person, die am Schultor vorbeigeht.|The children politely greet everyone passing by the school gate.|der;Kind;grüßen;höflich;jeder;Person;der;an;Schultor;vorbeigehen
+3198.001|hinweg|adverb|for (many years)|Über Jahre hinweg hielt der Bau seine massive Standfestigkeit.|For many years, the structure maintained its solid stability.|über;Jahr;hinweg;halten;der;Bau;sein;massiv;Standfestigkeit
+3236.0|hauen|verb|to hit|Die Wellen hauen heftig gegen die Felsen an der Küste.|The waves hit violently against the rocks on the coast.|der;Welle;hauen;heftig;gegen;der;Fels;an;der;Küste
+3252.0|strecken|verb|to stretch|Nach der Wanderung muss man die müden Beine strecken.|After the hike, you need to stretch your tired legs.|nach;der;Wanderung;muss;man;der;müd;Bein;strecken
+3256.001|das Gelände|noun|site|Das verlassene Gelände wurde bald zum Treffpunkt für Forscher.|The abandoned site soon became a meeting point for researchers.|der;verlassen;Gelände;werden;bald;zu;Treffpunkt;für;Forscher
+3286.001|absolvieren|verb|to graduate|Er konnte sein Studium erfolgreich in nur drei Jahren absolvieren.|He managed to graduate successfully in just three years.|er;können;sein;Studium;erfolgreich;in;nur;drei;Jahr;absolvieren
+3300.0|wiedersehen|verb|to see again|Am Bahnhof konnte er alte Freunde überraschend wiedersehen.|At the station, he could surprisingly see old friends again.|an;Bahnhof;können;er;alt;Freund;überraschend;wiedersehen
+3309.0|quantitativ|adjective|quantitative|Die Studie erfasste quantitativ alle relevanten Datenpunkte.|The study quantitatively captured all relevant data points.|der;Studie;erfassen;quantitativ;aller;relevant;Datenpunkt
+3317.0|der Ausgang|noun|exit|Am Ausgang des Theaters warteten Taxifahrer auf Gäste.|At the exit of the theater, taxi drivers waited for guests.|an;Ausgang;der;Theater;warten;Taxifahrer;auf;Gast
+3326.001|die Behinderung|noun|handicap|Die Baustelle stellt eine erhebliche Behinderung dar.|The construction site represents a significant handicap.|der;Baustelle;darstellen;ein;erheblich;Behinderung;dar
+3333.0|die Demonstration|noun|demonstration|Die Demonstration am Samstag verspricht eine große Teilnahme.|The demonstration on Saturday promises a large turnout.|der;Demonstration;an;Samstag;versprechen;ein;groß;Teilnahme
+3334.001|die Linse|noun|lentil|Die goldgelbe Linse schmückte das würzige Curry in der Schale.|The golden lentil adorned the spicy curry in the bowl.|der;goldgelb;Linse;schmücken;der;würzig;Curry;in;der;Schale
+3346.0|der Schrank|noun|cabinet|Der Schrank in der Ecke birgt viele alte Spiele und Bücher.|The cabinet in the corner holds many old games and books.|der;Schrank;in;der;Ecke;birgen;vieler;alt;Spiel;und;Buch
+3382.0|maßgeblich|adjective|significant|Das neue Gesetz hat maßgebliche Auswirkungen auf die Bevölkerung.|The new law has significant impacts on the population.|der;neu;Gesetz;haben;maßgeblich;Auswirkung;auf;der;Bevölkerung
+3391.0|die Dichtung|noun|seal|Die Dichtung des Wasserhahns benötigt eine sofortige Erneuerung.|The seal of the faucet needs an immediate replacement.|der;Dichtung;der;Wasserhahn;benötigen;ein;sofortig;Erneuerung
+3398.0|der Ertrag|noun|yield|Der Ertrag des Feldes wurde durch die Trockenheit gefährdet.|The yield of the field was jeopardized by the drought.|der;Ertrag;der;Feld;werden;durch;der;Trockenheit;gefährden
+3409.001|biegen|verb|to turn|An der Kreuzung musst du nach rechts in die Mainstraße biegen.|At the intersection, you need to turn right onto Main Street.|an;der;Kreuzung;mussen;du;nach;rechts;in;der;Mainstraße;biegen
+3411.0|die Reihenfolge|noun|order|Die Reihenfolge der Präsentationen wurde spontan geändert.|The order of the presentations was changed spontaneously.|der;Reihenfolge;der;Präsentation;werden;spontan;ändern
+3413.0|verweigern|verb|to refuse|Der Schüler weigerte sich, die Prüfungsregeln zu verweigern.|The student refused to break the exam rules.|der;Schüler;weigern;sich;der;Prüfungsregel;zu;verweigern
+3438.0|der Klang|noun|sound|Der Klang der Geige füllte den Raum mit sanfter Musik.|The sound of the violin filled the room with gentle music.|der;Klang;der;Geige;füllen;der;Raum;mit;sanft;Musik
+3446.0|strukturell|adjective|structural|Die Talsperre benötigt dringend strukturelle Verbesserungen.|The dam urgently needs structural improvements.|der;Talsperre;benötigen;dringend;strukturell;Verbesserung
+3447.001|die Anzeige|noun|advertisement|Die Anzeige für das neue Konzert lockte zahlreiche Musikliebhaber an.|The advertisement for the new concert attracted numerous music enthusiasts.|der;Anzeige;für;der;neu;Konzert;anlocken;zahlreich;Musikliebhaber;an
+3450.001|fortfahren|verb|to proceed|Nach einer Pause konnte der Vortrag fortfahren und enden.|After a break, the presentation could proceed and conclude.|nach;ein;Pause;können;der;Vortrag;fortfahren;und;enden
+3457.0|die Hitze|noun|heat|Die Hitze des Mittags machte einen Spaziergang mühsam.|The heat of midday made a walk arduous.|der;Hitze;der;Mittag;machen;ein;Spaziergang;mühsam
+3484.0|übersehen|verb|to overlook|Die Besucher übersehen oft die alte Brücke im Tal.|Visitors often overlook the old bridge in the valley.|der;Besucher;übersehen;oft;der;alt;Brücke;in;Tal
+3486.0|die Bereitschaft|noun|willingness|Seine Bereitschaft, zu helfen, ist sehr beeindruckend.|His willingness to help is very impressive.|sein;Bereitschaft;zu;helfen;sein;sehr;beeindruckend
+3493.0|abweichen|verb|to deviate|Der neue Plan darf vom ursprünglichen Ziel nicht abweichen.|The new plan must not deviate from the original goal.|der;neu;Plan;dürfen;von;ursprünglich;Ziel;nicht;abweichen
+3548.0|die Ferien (pl)|noun|school break|Während der Ferien malte der Junge bunte Bilder vom Dorfleben.|During the school break, the boy painted colorful pictures of village life.|während;der;Ferien;malen;der;Junge;bunt;Bild;von;Dorfleben
+3551.001|scheiden|verb|to divorce|Nach langen Diskussionen beschlossen sie, sich zu scheiden.|After long discussions, they decided to divorce.|nach;lang;Diskussion;beschließen;sie;sich;zu;scheiden
+3572.001|die Werkstatt|noun|garage|In der Werkstatt summten die Maschinen unermüdlich bis Mitternacht.|In the garage, the machines hummed tirelessly until midnight.|in;der;Werkstatt;summen;der;Maschine;unermüdlich;bis;Mitternacht
+3578.0|das Unglück|noun|misfortune|Das Unglück ereignete sich plötzlich und ohne Vorwarnung.|The misfortune happened suddenly and without warning.|der;Unglück;ereignen;sich;plötzlich;und;ohne;Vorwarnung
+3579.0|verlegen|verb|to misplace|Die Sekretärin hatte wichtige Dokumente verlegt im Büro.|The secretary had misplaced important documents in the office.|der;Sekretärin;haben;wichtig;Dokument;verlegen;in;Büro
+3610.0|der Maßstab|noun|scale|Der Maßstab der Karte half den Forschern bei ihrer Expedition.|The scale of the map helped the researchers during their expedition.|der;Maßstab;der;Karte;helfen;der;Forscher;bei;ihr;Expedition
+3656.0|die Kapazität|noun|capacity|Die Werkhalle erreichte fast ihre maximale Kapazität gestern Abend.|The workshop nearly reached its maximum capacity last night.|der;Werkhalle;erreichen;fast;ihr;maximal;Kapazität;gestern;Abend
+3683.0|die Auflösung|noun|dissolving|Die Auflösung des Rätsels brachte große Erleichterung.|The dissolving of the riddle brought great relief.|der;Auflösung;der;Rätsel;bringen;groß;Erleichterung
+3692.001|erregen|verb|to attract|Der prächtige Pfau erregte sofort alle Blicke im Park.|The magnificent peacock immediately attracted all eyes in the park.|der;prächtig;Pfau;erregen;sofort;aller;Blick;in;Park
+3694.0|proportional|adjective|proportional|Der Erfolg war proportional zum geleisteten Aufwand.|The success was proportional to the effort made.|der;Erfolg;sein;proportional;zu;geleistet;Aufwand
+3699.001|der Proband|noun|test person|Der Proband trug ein Gerät, um die Herzfrequenz am Hang zu messen.|The test person wore a device to measure heart rate on the slope.|der;Proband;tragen;ein;Gerät;um;der;Herzfrequenz;an;Hang;zu;messen
+3709.0|das Möbel|noun|furniture|Das Möbel aus Kirschholz verlieh dem Raum Eleganz und Wärme.|The cherry wood furniture added elegance and warmth to the room.|der;Möbel;aus;Kirschholz;verlieh;der;Raum;Eleganz;und;Wärme
+3741.0|der Hang|noun|slope|Der steile Hang war bedeckt mit glänzendem, schneidendem Eis.|The steep slope was covered with glistening, sharp ice.|der;steil;Hang;sein;bedecken;mit;glänzend;schneidend;Eis
+3747.0|tauschen|verb|to exchange|Sie wollten das alte Buch gegen ein begehrtes Sammlerstück tauschen.|They wanted to exchange the old book for a coveted collectible.|sie;wollen;der;alt;Buch;gegen;ein;begehrt;Sammlerstück;tauschen
+3773.0|das Schaf|noun|sheep|Das Schaf suchte Schutz vor dem Regen in der engen Hütte.|The sheep sought shelter from the rain in the narrow hut.|der;Schaf;suchen;Schutz;vor;der;Regen;in;der;eng;Hütte
+3788.0|physiologisch|adjective|physiological|Die physiologische Reaktion zeigte deutliche Abweichungen.|The physiological reaction showed significant deviations.|der;physiologisch;Reaktion;zeigen;deutlich;Abweichung
+3792.001|der Bruch|noun|break|Der Bruch zwischen den beiden Freunden ist schmerzlich für beide.|The break between the two friends is painful for both.|der;Bruch;zwischen;der;beide;Freund;sein;schmerzlich;für;beide
+3808.0|die Addition|noun|addition|Die Addition der Summen fiel dank präziser Kalkulation leicht.|The addition of the totals was easy thanks to precise calculations.|der;Addition;der;Summe;leichtfallen;dank;präzis;Kalkulation;leicht
+3824.0|mutmaßlich|adjective|presumed|Der mutmaßliche Täter wurde nahe dem Flussfest verhaftet.|The presumed culprit was arrested near the river festival.|der;mutmaßlich;Täter;werden;nahe;der;Flussfest;verhaften
+3835.001|entfallen|verb|to be dropped|Die Regelung entfallen zu lassen, wurde einstimmig entschieden.|The rule to be dropped was unanimously decided.|der;Regelung;entfallen;zu;lassen;werden;einstimmig;entscheiden
+3843.0|die Krone|noun|crown|Die Krone des alten Baumes ragte in den Himmel hinein.|The crown of the old tree towered into the sky.|der;Krone;der;alt;Baum;hineinragen;in;der;Himmel;hinein
+3878.001|erhoffen|verb|to hope for|Von dem Gespräch erhoffte er sich neue Perspektiven.|From the conversation, he hoped for new perspectives.|von;der;Gespräch;erhoffen;er;sich;neu;Perspektive
+3884.001|heranziehen|verb|to draw near|Die Schüler wollen die neusten Informationen heranziehen.|The students want to draw near the latest information.|der;Schüler;wollen;der;neu;Information;heranziehen
+3885.0|das Image|noun|image|Das Image der Marke hat sich in den letzten Jahren stark verändert.|The image of the brand has changed significantly in recent years.|der;Image;der;Marke;haben;sich;in;der;letzter;Jahr;stark;verändern
+3887.0|der Stadtteil|noun|district|In diesem Stadtteil finden regelmäßige Kulturveranstaltungen statt.|Regular cultural events take place in this district.|in;dieser;Stadtteil;stattfinden;regelmäßig;Kulturveranstaltung;statt
+3905.0|blockieren|verb|to block|Die Autos blockieren den Weg zur Schule während der Stoßzeiten.|The cars block the way to the school during rush hours.|der;Auto;blockieren;der;Weg;zu;Schule;während;der;Stoßzeit
+3907.0|die Dynamik|noun|dynamics|Die Dynamik des Teams änderte sich nach seiner Beförderung.|The dynamics of the team changed after his promotion.|der;Dynamik;der;Team;ändern;sich;nach;sein;Beförderung
+3908.0|nirgendwo|adverb|nowhere|Der Schlüssel war nirgendwo im Haus zu finden, trotz der Suche.|The key was nowhere to be found in the house despite searching.|der;Schlüssel;sein;nirgendwo;in;Haus;zu;finden;trotz;der;Suche
+3918.0|die Airline|noun|airline|Die Airline versprach bessere Services auf Langstreckenflügen.|The airline promised better services on long-haul flights.|der;Airline;versprechen;gut;Service;auf;Langstreckenflug
+3926.0|unerwartet|adjective|unexpected|Die E-Mail kam unerwartet und löste Verwirrung aus.|The email arrived unexpectedly and caused confusion.|der;E-Mail;kommen;unerwartet;und;auslösen;Verwirrung;aus
+3941.001|zulegen|verb|to put on|Für den Winter muss man sich dicke Stiefel mit Fell zulegen.|For the winter, one must put on thick boots with fur.|für;der;Winter;muss;man;sich;dick;Stiefel;mit;Fell;zulegen
+3941.002|zulegen|verb|to get|Ich will mir endlich einen Hund zulegen, um Gesellschaft zu haben.|I want to get a dog finally to have company.|ich;wollen;sich;endlich;ein;Hund;zulegen;um;Gesellschaft;zu;haben
+3974.001|gemütlich|adjective|cozy|Die gemütliche Atmosphäre im Café lädt zum Verweilen ein.|The cozy atmosphere in the café invites you to linger.|der;gemütlich;Atmosphäre;in;Café;einladen;zu;verweilen;ein
+3976.001|das Zeitalter|noun|period|Das neue Zeitalter der Technologie fordert von uns stetige Anpassung.|The new period of technology demands constant adaptation from us.|der;neu;Zeitalter;der;Technologie;fordern;von;uns;stetig;Anpassung
+3979.0|irritieren|verb|to irritate|Die ständigen Fragen begannen, den Redner zu irritieren.|The constant questions began to irritate the speaker.|der;ständig;Frage;beginnen;der;Redner;zu;irritieren
+3998.001|erlangen|verb|to secure|Er musste viele Hürden überwinden, um das Diplom zu erlangen.|He had to overcome many hurdles to secure the diploma.|er;musste;vieler;Hürde;überwinden;um;der;Diplom;zu;erlangen
+4004.002|der Zwang|noun|compulsion|Der Zwang zur Perfektion raubte ihr die Freude an der Arbeit.|The compulsion for perfection took away her joy in work.|der;Zwang;zu;Perfektion;rauben;ihr;der;Freude;an;der;Arbeit
+4013.0|satt|adjective|full|Nach dem ländlichen Fest war jeder Gast satt und zufrieden.|After the rural festival, every guest was full and content.|nach;der;ländlich;Fest;sein;jeder;Gast;satt;und;zufrieden
+4031.0|die Geschwister (pl)|noun|siblings|Die Geschwister teilten den alten Familientisch nach dem Erbe.|The siblings shared the old family table after the inheritance.|der;Geschwister;teilen;der;alt;Familientisch;nach;der;Erbe
+4036.0|au|interjection|ouch|Au! Das tut wirklich weh, wenn ich auf die Verletzung drücke.|Ouch! That really hurts when I press on the injury.|Au;der;wehtun;wirklich;weh;wenn;ich;auf;der;Verletzung;drücken
+4066.0|das Camp|noun|camp|Das Camp mitten im Wald bot einfache, aber sichere Unterkünfte.|The camp in the forest offered simple but safe shelters.|der;Camp;mitten;in;Wald;bieten;einfach;aber;sicher;Unterkunft
+4072.0|der Verstand|noun|reason|Mit klarem Verstand löste er das knifflige Rätsel vor allen.|With clear reason, he solved the tricky puzzle in front of everyone.|mit;klar;Verstand;lösen;er;der;knifflig;Rätsel;vor;alle
+4081.001|die Vorlage|noun|model|Die Vorlage wurde sorgfältig erstellt, um Fehler zu vermeiden.|The model was carefully created to avoid mistakes.|der;Vorlage;werden;sorgfältig;erstellen;um;Fehler;zu;vermeiden
+4109.0|die Nacherfüllung|noun|supplementary performance|Die Nacherfüllung des Vertrags verzögerte sich wegen fehlender Teile.|The supplementary performance of the contract was delayed due to missing parts.|der;Nacherfüllung;der;Vertrag;verzögern;sich;wegen;fehlend;Teil
+4116.001|der Ausflug|noun|trip|Der Ausflug zum Wasserfall endete mit einem großen Picknick.|The trip to the waterfall ended with a grand picnic.|der;Ausflug;zu;Wasserfall;enden;mit;ein;groß;Picknick
+4119.0|der Index|noun|index|Der Index des Buches hilft, die Informationen schnell zu finden.|The index of the book helps to find the information quickly.|der;Index;der;Buch;helfen;der;Information;schnell;zu;finden
+4122.0|der Pariser|noun|Parisian|Der Pariser brachte frisches Baguette zu der Feier mit.|The Parisian brought fresh baguette to the celebration.|der;Pariser;mitbringen;frisch;Baguette;zu;der;Feier;mit
+4123.001|schimpfen|verb|to rant|Der Busfahrer begann lautstark über den dichten Verkehr zu schimpfen.|The bus driver began to rant loudly about the heavy traffic.|der;Busfahrer;beginnen;lautstark;über;der;dicht;Verkehr;zu;schimpfen
+4131.0|das Duell|noun|duel|Das Duell zweier Meisterdanzer begeisterte das Publikum.|The duel of two master dancers thrilled the audience.|der;Duell;zwei;Meisterdanzer;begeisteren;der;Publikum
+4133.002|erschließen|verb|to make out|Er konnte den Text durch genaues Lesen erschließen.|He was able to make out the text through careful reading.|er;können;der;Text;durch;genau;Lesen;erschließen
+4145.0|Pakistan|noun|Pakistan|In Pakistan wächst ein vielfältiges Sortiment an Gewürzen.|A diverse selection of spices grows in Pakistan.|in;Pakistan;wachsen;ein;vielfältig;Sortiment;an;Gewürz
+4149.0|verdächtig|adjective|suspicious|Die verdächtig wirkende Tasche sorgte am Bahnhof für Aufregung.|The suspicious-looking bag caused a stir at the station.|der;verdächtig;wirkend;Tasche;sorgen;an;Bahnhof;für;Aufregung
+4160.0|die Differenzierung|noun|differentiation|Die Differenzierung zwischen den Modellen war deutlich sichtbar.|The differentiation between the models was clearly visible.|der;Differenzierung;zwischen;der;Modell;sein;deutlich;sichtbar
+4169.0|stationär|adjective|inpatient|Die stationäre Behandlung bietet umfassende medizinische Betreuung.|The inpatient treatment offers comprehensive medical care.|der;stationär;Behandlung;bieten;umfassend;medizinisch;Betreuung
+4172.001|ehrenamtlich|adjective|voluntary|Viele Helfer engagierten sich ehrenamtlich für den Flohmarkt.|Many helpers volunteered for the flea market.|vieler;Helfer;engagieren;sich;ehrenamtlich;für;der;Flohmarkt
+4189.0|gelassen|adjective|calm|Mit gelassenem Blick beobachtete er den Himmel am Abend.|With a calm gaze, he observed the evening sky.|mit;gelassen;Blick;beobachten;er;der;Himmel;an;Abend
+4206.0|das Gramm|noun|gram|Ein Gramm des neuen Stoffes kostet das Dreifache des alten.|A gram of the new material costs three times as much as the old one.|ein;Gramm;der;neu;Stoff;kosten;der;Dreifache;der;alt
+4216.001|regulär|adjective|normal|Der reguläre Busfahrplan wird jeden Montag aktualisiert.|The normal bus schedule is updated every Monday.|der;regulär;Busfahrplan;werden;jeder;Montag;aktualisieren
+4222.0|die Bestellung|noun|order|Die Bestellung mit den Büchern wurde gestern ausgeliefert.|The order containing the books was delivered yesterday.|der;Bestellung;mit;der;Büchern;werden;gestern;ausliefern
+4228.0|die Blüte|noun|blossom|Die Blüte des uralten Apfelbaumes färbte den Garten weiß-rosa.|The blossom of the ancient apple tree colored the garden white-pink.|der;Blüte;der;uralt;Apfelbaum;färben;der;Garten;weiß-rosa
+4232.001|aufschlagen|verb|to serve|Er musste den Ball kraftvoll aufschlagen, um den Punkt zu gewinnen.|He had to serve the ball powerfully to win the point.|er;musste;der;Ball;kraftvoll;aufschlagen;um;der;Punkt;zu;gewinnen
+4264.0|die Partnerschaft|noun|partnership|Die Partnerschaft zwischen den Firmen wurde heute besiegelt.|The partnership between the companies was sealed today.|der;Partnerschaft;zwischen;der;Firma;werden;heute;besiegeln
+4267.002|zerfallen|verb|to decay|Das alte Gemäuer begann nach Jahren der Vernachlässigung zu zerfallen.|The old structure began to decay after years of neglect.|der;alt;Gemäuer;beginnen;nach;Jahr;der;Vernachlässigung;zu;zerfallen
+4286.0|anzünden|verb|to light|Ich werde das Lagerfeuer anzünden, bevor es dunkel wird.|I will light the campfire before it gets dark.|ich;werden;der;Lagerfeuer;anzünden;bevor;es;dunkel;werden
+4292.0|das Rezept|noun|recipe|Das Rezept für den Apfelkuchen ruht in Omas Küchenschublade.|The recipe for the apple pie lies in grandma's kitchen drawer.|der;Rezept;für;der;Apfelkuchen;ruhen;in;Oma;Küchenschublade
+4324.0|forschen|verb|to research|Im Labor forschen Wissenschaftler an effektiven Klimaschutztechniken.|In the lab, scientists research effective climate protection methods.|in;Labor;forschen;Wissenschaftler;an;effektiv;Klimaschutztechnik
+4363.0|der Genosse|noun|comrade|Der Genosse diskutierte eifrig über politische Themen.|The comrade eagerly discussed political topics.|der;Genosse;diskutieren;eifrig;über;politisch;Thema
+4392.0|verfallen|verb|to decay|Die alte Burg beginnt langsam zu verfallen, wenn niemand sie besucht.|The old castle begins to decay slowly if no one visits it.|der;alt;Burg;beginnen;langsam;zu;verfallen;wenn;niemand;sie;besuchen
+4406.001|die Arbeitskraft|noun|worker|Die Arbeitskraft mühte sich beim Bau des neuen Brunnens ab.|The worker toiled at constructing the new well.|der;Arbeitskraft;abmühen;sich;bei;Bau;der;neu;Brunnen;ab
+4413.002|fügen (sich)|verb|to resign oneself to|Der Arbeiter fügte sich schließlich der schwierigen Entscheidung.|The worker eventually resigned himself to the tough decision.|der;Arbeiter;fügen;sich;schließlich;der;schwierig;Entscheidung
+4430.0|die Galerie|noun|gallery|In der Galerie wurden beeindruckende Werke moderner Künstler gezeigt.|In the gallery, impressive works of modern artists were showcased.|in;der;Galerie;werden;beeindruckend;Werk;modern;Künstler;zeigen
+4496.002|die Skala|noun|range|Die Skala des Thermometers reichte bis minus vierzig Grad.|The range of the thermometer went down to minus forty degrees.|der;Skala;der;Thermometer;reichen;bis;minus;vierzig;Grad
+4506.0|soeben|adverb|just|Soeben wurde die neue Ausstellung im Museum eröffnet.|Just now, the new exhibition was opened in the museum.|soeben;werden;der;neu;Ausstellung;in;Museum;eröffnen
+4507.0|die Sportart|noun|(type of) sport|Klettern als Sportart erfordert Mut, Kraft und strikte Konzentration.|Climbing as a type of sport requires courage, strength, and focus.|Klettern;als;Sportart;erfordern;Mut;Kraft;und;strikt;Konzentration
+4511.0|die Biografie|noun|biography|Die Biografie des Künstlers enthielt viele unbekannte Anekdoten.|The biography of the artist contained many unknown anecdotes.|der;Biografie;der;Künstler;enthalten;vieler;unbekannt;Anekdote
+4516.0|römisch|adjective|Roman|Die römische Brücke überdauert den Fluss seit Jahrhunderten.|The Roman bridge has spanned the river for centuries.|der;römisch;Brücke;überdaueren;der;Fluss;seit;Jahrhundert
+4534.001|der Autofahrer|noun|motorist|Der Autofahrer hielt an, um das verletzte Tier zu helfen.|The motorist stopped to help the injured animal.|der;Autofahrer;anhalten;an;um;der;verletzt;Tier;zu;helfen
+4551.0|der Historiker|noun|historian|Der Historiker analysiert alte Dokumente im Stadtarchiv.|The historian analyzes old documents in the city archive.|der;Historiker;analysieren;alt;Dokument;in;Stadtarchiv
+4559.0|anmachen|verb|to turn on|Er musste die Taschenlampe anmachen, um den Weg zu sehen.|He had to turn on the flashlight to see the path.|er;musste;der;Taschenlampe;anmachen;um;der;Weg;zu;sehen
+4561.0|derzeitig|adjective|current|Die derzeitige Politik schafft große Forderungen nach Reformen.|The current politics create strong demands for reforms.|der;derzeitig;Politik;schaffen;groß;Forderung;nach;Reform
+4579.0|konventionell|adjective|conventional|Die konventionellen Methoden sind oft nicht mehr effektiv.|Conventional methods are often no longer effective.|der;konventionell;Methode;sein;oft;nicht;mehr;effektiv
+4585.0|vorangehen|verb|to precede|Eine sanfte Brise ließ den Läufer vorangehen trotz Müdigkeit.|A gentle breeze let the runner precede despite fatigue.|ein;sanft;Brise;lassen;der;Läufer;vorangehen;trotz;Müdigkeit
+4611.001|fließend|adjective|fluid|Die fließenden Bewegungen des Tänzers faszinierten alle.|The fluid movements of the dancer fascinated everyone.|der;fließend;Bewegung;der;Tänzer;faszinieren;alle
+4669.0|nebenan|adverb|next door|Im Café nebenan duftet es nach frisch gemahlenem Kaffee.|Next door in the café, it smells like freshly ground coffee.|in;Café;nebenan;duften;es;nach;frisch;gemahlen;Kaffee
+4705.0|der Gesetzgeber|noun|legislator|Der Gesetzgeber beschloss neue Regelungen für den Handel.|The legislator passed new regulations for commerce.|der;Gesetzgeber;beschloss;neu;Regelung;für;der;Handel
+4712.0|bekanntlich|adverb|as is well known|Bekanntlich hat jede Münze zwei Seiten, genauso wie Entscheidungen.|As is well known, every coin has two sides, just like decisions.|bekanntlich;haben;jeder;Münze;zwei;Seite;genauso;wie;Entscheidung
+4721.0|der Atomkern|noun|(atomic) nucleus|Der Atomkern ist das Zentrum eines jeden chemischen Elements.|The atomic nucleus is the center of every chemical element.|der;Atomkern;sein;der;Zentrum;ein;jeder;chemisch;Element
+4741.0|die Arbeitslosenquote|noun|unemployment rate|Die Arbeitslosenquote ist in der Stadt alarmierend hoch.|The unemployment rate is alarmingly high in the city.|der;Arbeitslosenquote;sein;in;der;Stadt;alarmierend;hoch
+4756.001|das Gutachten|noun|(expert) opinion|Das Gutachten bestätigte die Stabilität der alten Brücke.|The expert opinion confirmed the stability of the old bridge.|der;Gutachten;bestätigen;der;Stabilität;der;alt;Brücke
+4768.0|die Blase|noun|blister|Nach der Wanderung hatte er eine riesige Blase am Fuß.|After the hike, he had a huge blister on his foot.|nach;der;Wanderung;haben;er;ein;riesig;Blase;an;Fuß
+4768.001|die Blase|noun|bladder|Eine volle Blase störte ihn mitten während des Kinofilms.|A full bladder bothered him in the middle of the movie.|ein;voll;Blase;stören;ihn;mitten;während;der;Kinofilm
+4775.0|die Jagd|noun|hunt|Die Jagd nach dem Verlorenen begann noch in der Nacht.|The hunt for the lost item began during the night.|der;Jagd;nach;der;verlorener;beginnen;noch;in;der;Nacht
+4788.0|optimistisch|adjective|optimistic|Trotz Regen blieb sie optimistisch und packte den Picknickkorb.|Despite the rain, she stayed optimistic and packed the picnic basket.|trotz;Regen;bleiben;sie;optimistisch;und;packen;der;Picknickkorb
+4792.001|abgehen|verb|to go off|Die Alarmglocke ging ab, als der Wind die schwere Tür aufriss.|The alarm bell went off as the wind tore open the heavy door.|der;Alarmglocke;abgehen;ab;als;der;Wind;der;schwer;Tür;aufriss
+4802.0|der Rechtsanwalt|noun|lawyer|Ein engagierter Rechtsanwalt verteidigte die Rechte der Arbeiter.|A dedicated lawyer defended the rights of the workers.|ein;engagiert;Rechtsanwalt;verteidigen;der;Recht;der;Arbeiter
+4819.002|der Zerfall|noun|decay|Der Zerfall des alten Gebäudes ist besorgniserregend für die Anwohner.|The decay of the old building is concerning for the residents.|der;Zerfall;der;alt;Gebäude;sein;besorgniserregend;für;der;Anwohner
+4834.0|ausnutzen|verb|to exploit|Die Firma wollte die Energie der neuen Turbine maximal ausnutzen.|The company wanted to exploit the energy of the new turbine to the fullest.|der;Firma;wollen;der;Energie;der;neu;Turbine;maximal;ausnutzen
+4837.0|höflich|adjective|polite|Der höfliche Kellner brachte das Menü mit einem Lächeln.|The polite waiter brought the menu with a smile.|der;höflich;Kellner;bringen;der;Menü;mit;ein;lächeln
+4848.002|das Forum|noun|public discussion|Im Forum wurde lebhaft über die neuen Pläne diskutiert.|In the public discussion, the new plans were passionately debated.|in;Forum;werden;lebhaft;über;der;neu;Plan;diskutieren
+4854.0|verhängen|verb|to impose|Die Behörden verhängen eine strenge Ausgangssperre.|The authorities impose a strict curfew.|der;Behörde;verhängen;ein;streng;Ausgangssperre
+4858.001|zerlegen|verb|to take apart|Um das Gerät zu reparieren, müssen wir es sorgfältig zerlegen.|To repair the device, we must carefully take it apart.|um;der;Gerät;zu;reparieren;müssen;wir;es;sorgfältig;zerlegen
+4875.001|einbinden|verb|to integrate|Wir möchten die neuen Technologien in unseren Unterricht einbinden.|We want to integrate the new technologies into our teaching.|wir;möchten;der;neu;Technologie;in;unser;Unterricht;einbinden
+4879.001|kassieren|verb|to take the money|Der Verkäufer kassierte das Geld mit einem Lächeln.|The seller took the money with a smile.|der;Verkäufer;kassieren;der;Geld;mit;ein;lächeln
+4913.0|riskieren|verb|to risk|Er würde alles riskieren, um die Wahrheit aufzudecken.|He would risk everything to uncover the truth.|er;werden;alle;riskieren;um;der;Wahrheit;aufdecken
+4915.001|die Teilung|noun|separation|Die Teilung des Landes führte zu jahrelanger Unsicherheit.|The separation of the country led to years of uncertainty.|der;Teilung;der;Land;führen;zu;jahrelang;Unsicherheit
+4936.0|abschalten|verb|to switch off|Er schaltete den Motor hörbar ab und stieg aus dem Wagen.|He audibly switched off the engine and stepped out of the car.|er;abschalten;der;Motor;hörbar;ab;und;steigen;aus;der;Wagen
+4959.0|das Fell|noun|fur|Das Fell des streunenden Hundes war zottig und matt.|The fur of the stray dog was shaggy and dull.|der;Fell;der;streunend;Hund;sein;zottig;und;matt
+4981.0|die Ewigkeit|noun|eternity|Die alte Eiche schien für eine Ewigkeit fest zu stehen.|The old oak seemed to stand firm for eternity.|der;alt;Eiche;scheinen;für;ein;Ewigkeit;fest;zu;stehen
+4982.002|die Größenordnung|noun|magnitude|Die Größenordnung des Schadens war größer als gedacht.|The magnitude of the damage was greater than expected.|der;Größenordnung;der;Schaden;sein;groß;als;denken
+4988.0|das Trinken|noun|drink|Das Trinken von frischem Wasser erfrischt den Körper.|The drink of fresh water refreshes the body.|der;Trinken;von;frisch;Wasser;erfrischen;der;Körper
+4989.001|verkehren|verb|to consort|Er verkehre nur in exklusiven Kreisen der Stadtelite.|He consorts only with exclusive circles of the city elite.|er;verkehren;nur;in;exklusiv;Kreis;der;Stadtelite
+5000.0|das Kissen|noun|pillow|Das neue Kissen auf dem Sofa ist unglaublich bequem und weich.|The new pillow on the couch is incredibly comfortable and soft.|der;neu;Kissen;auf;der;Sofa;sein;unglaublich;bequem;und;weich
+5010.001|beeinträchtigen|verb|to impair|Das helle Licht könnte die Sicht im Tunnel beeinträchtigen.|The bright light could impair the vision in the tunnel.|der;hell;Licht;können;der;Sicht;in;Tunnel;beeinträchtigen
+5012.0|gläubig|adjective|religious|Der gläubige Pilger setzte seinen Weg zum Heiligtum fort.|The religious pilgrim continued his journey to the shrine.|der;gläubig;Pilger;fortsetzen;sein;Weg;zu;Heiligtum;fort
+5013.0|heilen|verb|to heal|Die Kräuterhexe kann die schlimmsten Wunden heilen.|The herbal witch can heal the worst wounds.|der;Kräuterhexe;können;der;schlimm;Wunde;heilen
+5023.0|der Kumpel|noun|pal|Der Kumpel bot ihm an, das kaputte Fahrrad zu reparieren.|The pal offered to repair his broken bike.|der;Kumpel;anbieten;ihm;an;der;kaputt;Fahrrad;zu;reparieren
+5053.0|das Referendum|noun|referendum|Das Referendum über die Reform hat die Nation gespalten.|The referendum on the reform divided the nation.|der;Referendum;über;der;Reform;haben;der;Nation;spalten
+5056.0|der Umzug|noun|move|Der Umzug der Familie nach München verlief reibungslos.|The move of the family to Munich went smoothly.|der;Umzug;der;Familie;nach;München;verlaufen;reibungslos
+5068.0|die Reiche|noun|rich|Die Reiche sammeln Gemälde in ihren opulenten Anwesen.|The rich collect paintings in their opulent estates.|der;Reiche;sammeln;Gemälde;in;ihr;opulent;Anwesen
+5072.0|Zürcher|adjective|Zurich|Die Zürcher Schokolade ist weltweit für ihre Qualität bekannt.|The Zurich chocolate is renowned worldwide for its quality.|der;Zürcher;Schokolade;sein;weltweit;für;ihr;Qualität;bekannt
+5084.0|offenbaren|verb|to reveal|Das Gemälde offenbaren die tiefen Gefühle des Künstlers.|The painting reveals the deep emotions of the artist.|der;Gemälde;offenbaren;der;tief;Gefühl;der;Künstler
+5106.0|die Ruine|noun|ruin|Die alte Ruine thront still über dem verschlafenen Tal.|The old ruin silently towers over the sleepy valley.|der;alt;Ruine;thronen;still;über;der;verschlafen;Tal
+5111.001|zuversichtlich|adjective|hopeful|Der Spieler blieb trotz Niederlage zuversichtlich und stark.|The player remained hopeful and strong despite the defeat.|der;Spieler;bleiben;trotz;Niederlage;zuversichtlich;und;stark
 0.0|die|article|the
 1.0|der|pronoun|the one
 1.001|der|pronoun|that
@@ -26,9 +411,7 @@
 16.001|werden|verb|to get
 17.0|von|preposition|from
 17.001|von|preposition|of
-18.0|ich|pronoun|I
 19.0|nicht|particle|not
-20.0|es|pronoun|it
 21.0|mit|preposition|with
 22.0|sich|pronoun|-self
 23.0|er|pronoun|he
@@ -51,14 +434,12 @@
 34.001|können|verb|to can
 35.0|dies|pronoun|this
 35.001|dies|pronoun|that
-36.0|wie|particle|as
 37.0|wie|pronoun|how
 38.0|wir|pronoun|we
 39.0|ihr|pronoun|her
 39.001|ihr|pronoun|their
 39.002|ihr|pronoun|hers
 39.003|ihr|pronoun|theirs
-40.0|ihr|pronoun|you
 40.001|ihr|pronoun|her
 41.0|Ihr|pronoun|your
 42.0|so|adverb|thus
@@ -117,9 +498,6 @@
 73.0|durch|preposition|through
 74.0|viel|pronoun|much
 74.001|viel|pronoun|a lot
-74.002|viel|pronoun|many
-75.0|wollen|verb|to want to
-76.0|machen|verb|to do
 76.001|machen|verb|to make
 77.0|andere|pronoun|other
 78.0|sollen|verb|to should
@@ -151,19 +529,15 @@
 98.0|gut|adjective|good
 99.0|bis|conjunction|until
 100.0|bis|preposition|until
-100.001|bis|preposition|till
 101.0|wissen|verb|to know
 102.0|sehen|verb|to see
-103.0|einer|pronoun|(some)one
 104.0|sehr|adverb|very
 105.0|mal|conjunction|times
 106.0|das Mal|noun|time
-106.001|das Mal|noun|mark
 107.0|mal|particle
 108.0|lassen|verb|to let
 108.001|lassen|verb|to allow
 108.002|lassen|verb|to have done
-109.0|neu|adjective|new
 110.0|stehen|verb|to stand
 111.0|unser|pronoun|our
 112.0|jede|pronoun|every
@@ -176,7 +550,6 @@
 119.0|denn|particle|anyway
 120.0|das Beispiel|noun|example
 121.0|erste|adjective|first
-122.0|die Zeit|noun|time
 123.0|lang|adjective|long
 124.0|lang|adverb|for a long time
 125.0|leben|verb|to live
@@ -216,7 +589,6 @@
 151.0|ohne|preposition|without
 152.0|der Mann|noun|man
 153.0|welche|pronoun|which
-154.0|tun|verb|to do
 155.0|einmal|adverb|once
 156.0|ihnen|pronoun|them
 157.0|Ihnen|pronoun|you
@@ -229,7 +601,6 @@
 162.0|seit|preposition|since
 162.001|seit|preposition|for
 163.0|einfach|adjective|simple
-163.001|einfach|adjective|easy
 164.0|einfach|particle|simply
 165.0|erst|adverb|first
 165.001|erst|adverb|only
@@ -255,7 +626,6 @@
 176.002|gleich|adjective|just
 177.0|nehmen|verb|to take
 178.0|dürfen|verb|to be allowed to
-179.0|wichtig|adjective|important
 180.0|vielleicht|adverb|perhaps
 180.001|vielleicht|adverb|maybe
 181.0|vielleicht|particle|quite
@@ -269,7 +639,6 @@
 186.001|dazu|pronoun|furthermore
 186.002|dazu|pronoun|to that
 186.003|dazu|pronoun|for that
-186.004|dazu|pronoun|of that
 187.0|eigentlich|adjective|actual
 187.001|eigentlich|adjective|real
 188.0|eigentlich|adverb|actually
@@ -296,7 +665,6 @@
 205.0|eigen|adjective|own
 206.0|genau|adjective|exact
 207.0|mögen|verb|to like
-208.0|spät|adverb|late
 209.0|spät|adjective|late
 210.0|bereits|adverb|already
 211.0|möglich|adjective|possible
@@ -381,7 +749,6 @@
 260.002|fahren|verb|to go
 261.0|kennen|verb|to know
 262.0|dich|pronoun|you
-262.001|dich|pronoun|yourself
 263.0|die Mutter|noun|mother
 264.0|die Woche|noun|week
 265.0|der Weg|noun|path
@@ -398,7 +765,6 @@
 272.0|jedoch|adverb|however
 273.0|setzen|verb|to place
 273.001|setzen|verb|to put
-274.0|setzen|verb|to sit down
 275.0|deshalb|adverb|so
 275.001|deshalb|adverb|therefore
 276.0|weit|adverb|widely
@@ -413,13 +779,10 @@
 283.0|nächste|adjective|next
 284.0|erklären|verb|to explain
 285.0|klar|adjective|clear
-286.0|der Doktor|noun|doctor
 287.0|das Paar|noun|pair
 287.001|das Paar|noun|couple
 288.0|ein paar|pronoun|a few
-289.0|recht|adjective|(all) right
 289.001|recht|adjective|be fine (with)
-290.0|das Recht|noun|right
 290.001|das Recht|noun|law
 291.0|recht|particle|rather
 291.001|recht|particle|quite
@@ -481,7 +844,6 @@
 326.0|die Stunde|noun|hour
 327.0|aussehen|verb|to appear
 327.001|aussehen|verb|to look
-328.0|gern|adverb|(with a verb) love to
 329.0|überhaupt|adverb|at all
 329.001|überhaupt|adverb|even
 330.0|bestimmt|adjective|special
@@ -497,9 +859,7 @@
 335.001|schaffen|verb|to create
 336.0|damals|pronoun|back then
 337.0|erhalten|verb|to receive
-338.0|lernen|verb|to learn
 339.0|frei|adjective|free
-339.001|frei|adjective|free
 339.002|frei|adjective|free
 340.0|wert|adjective|worth
 341.0|der Wert|noun|value
@@ -518,7 +878,6 @@
 350.002|das Thema|noun|theme
 351.0|handeln|verb|to deal
 351.001|handeln|verb|to trade
-352.0|das Buch|noun|book
 353.0|ein bisschen|pronoun|a little
 354.0|deutlich|adjective|clear
 355.0|anders|adverb|different
@@ -541,7 +900,6 @@
 364.0|je|adverb|ever
 364.001|je|adverb|each
 365.0|je ..., desto|conjunction|the more ...
-365.001|je ..., desto|conjunction|the
 366.0|verlieren|verb|to lose
 367.0|beste|adjective|best
 368.0|bilden|verb|to form
@@ -558,7 +916,6 @@
 375.0|eher|adverb|sooner
 375.001|eher|adverb|earlier
 375.002|eher|adverb|more likely
-375.003|eher|adverb|rather
 376.0|essen|verb|to eat
 377.0|die Minute|noun|minute
 378.0|nachts|adverb|at night
@@ -587,12 +944,10 @@
 394.0|tatsächlich|adjective|real
 394.001|tatsächlich|adjective|actual
 395.0|der Ort|noun|place
-395.001|der Ort|noun|location
 396.0|abends|adverb|in the evening
 397.0|der Abend|noun|evening
 398.0|einzig|adjective|only
 398.001|einzig|adjective|single
-399.0|die Stelle|noun|place
 400.0|unterschiedlich|adjective|different
 401.0|das Gesicht|noun|face
 402.0|die Entwicklung|noun|development
@@ -610,7 +965,6 @@
 408.0|direkt|adjective|direct
 408.001|direkt|adjective|straight
 409.0|daher|pronoun|from there
-409.001|daher|pronoun|therefore
 409.002|daher|pronoun|hence
 410.0|offen|adjective|open
 411.0|erkennen|verb|to recognize
@@ -662,7 +1016,6 @@
 441.0|das Ergebnis|noun|result
 442.0|vergleichen|verb|to compare
 443.0|voll|adjective|full
-444.0|erwarten|verb|to expect
 445.0|obwohl|conjunction|although
 446.0|die Straße|noun|street
 447.0|die Angst|noun|fear
@@ -676,9 +1029,7 @@
 453.0|bedeuten|verb|to mean
 454.0|die Stimme|noun|voice
 454.001|die Stimme|noun|vote
-455.0|die Reaktion|noun|reaction
 456.0|wirken|verb|to have an effect
-456.001|wirken|verb|to take effect
 456.002|wirken|verb|to work
 457.0|darstellen|verb|to depict
 457.001|darstellen|verb|to portray
@@ -686,8 +1037,6 @@
 457.003|darstellen|verb|to present
 458.0|der Raum|noun|room
 458.001|der Raum|noun|space
-459.0|die Eltern (pl)|noun|parents
-460.0|bezeichnen|verb|to call
 460.001|bezeichnen|verb|to refer to
 460.002|bezeichnen|verb|to describe
 460.003|bezeichnen|verb|to consider
@@ -702,7 +1051,6 @@
 468.0|pro|preposition|per
 469.0|ergeben|verb|to result in
 469.001|ergeben|verb|to produce
-470.0|entscheiden|verb|to decide
 471.0|die Universität|noun|university
 472.0|betreffen|verb|to affect
 472.001|betreffen|verb|to concern
@@ -715,7 +1063,6 @@
 476.001|fehlen|verb|to be missing
 476.002|fehlen|verb|to be absent
 477.0|die Sprache|noun|language
-478.0|das Produkt|noun|product
 479.0|die Situation|noun|situation
 480.0|außerdem|adverb|besides
 480.001|außerdem|adverb|in addition
@@ -744,7 +1091,6 @@
 497.002|bisher|adverb|yet
 498.0|tief|adjective|deep
 499.0|halb|adjective|half
-500.0|lachen|verb|to laugh
 501.0|ebenfalls|adverb|likewise
 501.001|ebenfalls|adverb|also
 501.002|ebenfalls|adverb|as well
@@ -768,7 +1114,6 @@
 514.0|die Kraft|noun|strength
 514.001|die Kraft|noun|power
 515.0|lieber|adverb|rather
-516.0|gehören|verb|to belong
 517.0|einsetzen|verb|to put in
 517.001|einsetzen|verb|to insert
 518.0|das Gefühl|noun|feeling
@@ -875,7 +1220,6 @@
 585.0|der Arm|noun|arm
 586.0|nachdem|conjunction|after
 587.0|der Tisch|noun|table
-588.0|rufen|verb|to call
 589.0|bieten|verb|to offer
 590.0|das Herz|noun|heart
 591.0|zusammen|adverb|together
@@ -905,7 +1249,6 @@
 606.0|der Junge|noun|boy
 607.0|sogenannt|adjective|so-called
 608.0|die Polizei|noun|police
-609.0|die Chance|noun|chance
 610.0|gewiss|adjective|certain
 611.0|innerhalb|preposition|within
 612.0|die Kunst|noun|art
@@ -919,8 +1262,6 @@
 616.001|der Druck|noun|printing
 617.0|verschwinden|verb|to disappear
 618.0|wohnen|verb|to live
-619.0|bewegen|verb|to move
-620.0|enthalten|verb|to contain
 621.0|aufnehmen|verb|to take in
 621.001|aufnehmen|verb|to record
 621.002|aufnehmen|verb|to include
@@ -948,8 +1289,6 @@
 633.0|der Krieg|noun|war
 634.0|der Gast|noun|guest
 635.0|die Aussage|noun|statement
-636.0|das Gesetz|noun|law
-637.0|planen|verb|to plan
 638.0|schwierig|adjective|difficult
 638.001|schwierig|adjective|hard
 638.002|schwierig|adjective|tough
@@ -1057,15 +1396,12 @@
 709.0|erfolgen|verb|to take place
 709.001|erfolgen|verb|to occur
 710.0|die Beziehung|noun|relation
-710.001|die Beziehung|noun|relationship
 711.0|zunehmen|verb|to increase
 712.0|das Molekül|noun|molecule
 713.0|stattfinden|verb|to take place
 713.001|stattfinden|verb|to occur
 714.0|ankommen|verb|to arrive
-715.0|das Auftreten|noun|behavior
 715.001|das Auftreten|noun|conduct
-715.002|das Auftreten|noun|occurrence
 715.003|das Auftreten|noun|appearance
 716.0|auftreten|verb|to appear
 716.001|auftreten|verb|to occur
@@ -1110,7 +1446,6 @@
 745.0|grün|adjective|green
 746.0|der Bürger|noun|citizen
 747.0|dienen|verb|to serve
-748.0|echt|adjective|genuine
 748.001|echt|adjective|real
 748.002|echt|adjective|really
 749.0|die Firma|noun|firm
@@ -1118,10 +1453,8 @@
 750.0|die Wirtschaft|noun|economy
 751.0|stecken|verb|to put
 751.001|stecken|verb|to be (inserted or stuck into something)
-752.0|hoffen|verb|to hope (for)
 752.001|hoffen|verb|to hope
 753.0|erfahren|verb|to experience
-753.001|erfahren|verb|to find out
 754.0|das Mittel|noun|means
 755.0|die Folie|noun|slide
 755.001|die Folie|noun|foil
@@ -1138,13 +1471,10 @@
 762.0|das Element|noun|element
 762.001|das Element|noun|element
 763.0|klingen|verb|to sound
-763.001|klingen|verb|to sound
-764.0|lieben|verb|to love
 765.0|die Dame|noun|lady
 766.0|die Vorlesung|noun|lecture
 767.0|zählen|verb|to count
 768.0|meist|adverb|mostly
-768.001|meist|adverb|usually
 769.0|dunkel|adjective|dark
 770.0|Österreich|noun|Austria
 771.0|das Modell|noun|model
@@ -1153,8 +1483,6 @@
 773.0|unten|adverb|down
 774.0|die Mitte|noun|middle
 775.0|hin|adverb|there
-775.001|hin|adverb|there
-776.0|aufgrund|preposition|on the basis of
 776.001|aufgrund|preposition|because of
 777.0|beschäftigen|verb|to employ
 777.001|beschäftigen|verb|to be busy
@@ -1188,7 +1516,6 @@
 796.002|angeben|verb|to show off
 797.0|die Reise|noun|journey
 797.001|die Reise|noun|trip
-798.0|erfolgreich|adjective|successful
 799.0|der Zustand|noun|condition
 799.001|der Zustand|noun|state
 800.0|wahr|adjective|true
@@ -1207,7 +1534,6 @@
 806.0|notwendig|adjective|necessary
 807.0|entdecken|verb|to discover
 808.0|dauern|verb|to last
-808.001|dauern|verb|to take (time)
 809.0|wirtschaftlich|adjective|economic
 809.001|wirtschaftlich|adjective|financial
 810.0|privat|adjective|private
@@ -1218,7 +1544,6 @@
 814.0|spüren|verb|to sense
 814.001|spüren|verb|to notice
 814.002|spüren|verb|to feel
-815.0|unabhängig|adjective|independent
 816.0|morgen|adverb|tomorrow
 817.0|der Rahmen|noun|frame
 817.001|der Rahmen|noun|framework
@@ -1242,7 +1567,6 @@
 827.0|schlimm|adjective|worse
 828.0|die Schweiz|noun|Switzerland
 829.0|irgendwann|adverb|sometime
-829.001|irgendwann|adverb|some day
 830.0|das Geschäft|noun|business
 830.001|das Geschäft|noun|shop
 831.0|weder|conjunction|neither ... nor
@@ -1277,7 +1601,6 @@
 848.002|die Erde|noun|soil
 849.0|die Studie|noun|study
 850.0|vorne|adverb|at/to the front
-851.0|rechte|adjective|right
 852.0|die Meinung|noun|opinion
 853.0|drehen|verb|to turn
 854.0|der Künstler|noun|artist
@@ -1289,7 +1612,6 @@
 857.002|somit|adverb|thus
 858.0|bezahlen|verb|to pay
 859.0|die Eigenschaft|noun|quality
-860.0|längst|adverb|long since
 860.001|längst|adverb|a long time ago
 861.0|die Methode|noun|method
 862.0|die Ordnung|noun|order
@@ -1323,8 +1645,6 @@
 886.0|die Ebene|noun|plane
 886.001|die Ebene|noun|level
 887.0|besuchen|verb|to visit
-888.0|gestern|adverb|yesterday
-889.0|der Spieler|noun|player
 890.0|absolut|adjective|absolute(ly)
 890.001|absolut|adjective|complete(ly)
 891.0|fliegen|verb|to fly
@@ -1333,7 +1653,6 @@
 894.0|weiterhin|adverb|still
 894.001|weiterhin|adverb|furthermore
 895.0|die Wand|noun|wall
-896.0|rechts|adverb|on/to the right
 897.0|konkret|adjective|concrete
 898.0|russisch|adjective|Russian
 899.0|das Russisch|noun|Russian
@@ -1356,7 +1675,6 @@
 912.0|die Liebe|noun|love
 913.0|der Beginn|noun|beginning
 914.0|China|noun|China
-915.0|breit|adjective|wide
 915.001|breit|adjective|broad
 915.002|breit|adjective|general
 916.0|draußen|adverb|outside
@@ -1364,13 +1682,11 @@
 918.0|die Bildung|noun|education
 919.0|das Blut|noun|blood
 920.0|das Meer|noun|sea
-921.0|die Anzahl|noun|number
 922.0|die Veränderung|noun|change
 923.0|durchaus|adverb|absolutely
 923.001|durchaus|adverb|quite
 923.002|durchaus|adverb|certainly
 924.0|der Mund|noun|mouth
-925.0|berechnen|verb|to calculate
 925.001|berechnen|verb|to charge
 926.0|betragen|verb|to amount
 927.0|fremd|adjective|foreign
@@ -1398,7 +1714,6 @@
 942.0|leer|adjective|empty
 943.0|mitteilen|verb|to inform
 943.001|mitteilen|verb|to share
-944.0|das Verfahren|noun|method
 944.001|das Verfahren|noun|process
 944.002|das Verfahren|noun|technique
 945.0|danke|adverb|thanks
@@ -1450,11 +1765,9 @@
 980.0|die Bindung|noun|relationship
 980.001|die Bindung|noun|attachment
 981.0|die Literatur|noun|literature
-982.0|überraschen|verb|to surprise
 983.0|bestätigen|verb|to confirm
 983.001|bestätigen|verb|to endorse
 984.0|bewusst|adjective|conscious
-984.001|bewusst|adjective|deliberate
 985.0|der Abschnitt|noun|section
 985.001|der Abschnitt|noun|paragraph
 985.002|der Abschnitt|noun|chapter
@@ -1473,7 +1786,6 @@
 993.0|drohen|verb|to threaten
 994.0|die Linie|noun|line
 995.0|das Gas|noun|gas
-996.0|schicken|verb|to send
 997.0|die Hälfte|noun|half
 998.0|der Kontakt|noun|contact
 999.0|das Interview|noun|interview
@@ -1494,7 +1806,6 @@
 1009.0|der Dollar|noun|dollar
 1010.0|leiden|verb|to suffer
 1011.0|der Anspruch|noun|claim
-1012.0|die Position|noun|position
 1013.0|der Sport|noun|sport
 1014.0|das BGB (Bürgerliches Gesetzbuch)|noun|civil code
 1015.0|die Nachfrage|noun|demand
@@ -1514,7 +1825,6 @@
 1025.001|der Betrieb|noun|operation
 1026.0|komplex|adjective|complex
 1027.0|das Dorf|noun|village
-1028.0|eignen (sich)|verb|to be suitable
 1029.0|die Klasse|noun|class
 1029.001|die Klasse|noun|classroom
 1029.002|die Klasse|noun|grade
@@ -1556,7 +1866,6 @@
 1048.001|die Tabelle|noun|chart
 1049.0|ermöglichen|verb|to enable
 1049.001|ermöglichen|verb|to allow
-1050.0|der Freitag|noun|Friday
 1051.0|der Hinweis|noun|instruction
 1051.001|der Hinweis|noun|hint
 1052.0|der Vorteil|noun|advantage
@@ -1575,7 +1884,6 @@
 1061.0|ruhig|particle|really
 1062.0|der Traum|noun|dream
 1063.0|behandeln|verb|to treat
-1063.001|behandeln|verb|to address
 1064.0|stets|adverb|always
 1065.0|aufhören|verb|to stop
 1066.0|schützen|verb|to protect
@@ -1599,7 +1907,6 @@
 1077.001|das Opfer|noun|victim
 1078.0|hinaus|adverb|out
 1078.001|hinaus|adverb|beyond
-1079.0|vorhanden|adjective|available
 1079.001|vorhanden|adjective|existing
 1080.0|der Westen|noun|west
 1081.0|der Titel|noun|title
@@ -1658,7 +1965,6 @@
 1118.0|herstellen|verb|to produce
 1119.0|überlegen|verb|to consider
 1119.001|überlegen|verb|to think about
-1119.002|überlegen|verb|to think of
 1120.0|der Mai|noun|May
 1121.0|umfassen|verb|to include
 1121.001|umfassen|verb|to consist of
@@ -1689,7 +1995,6 @@
 1140.0|lediglich|adverb|merely
 1141.0|organisch|adjective|organic
 1142.0|glücklich|adjective|happy
-1142.001|glücklich|adjective|fortunate
 1143.0|der Rest|noun|rest
 1143.001|der Rest|noun|remainder
 1144.0|der Wunsch|noun|wish
@@ -1735,7 +2040,6 @@
 1166.002|durchführen|verb|to run
 1167.0|einfallen|verb|to occur
 1167.001|einfallen|verb|to remember
-1167.002|einfallen|verb|to come to mind
 1167.003|einfallen|verb|to collapse
 1168.0|verletzen|verb|to injure
 1169.0|die Kontrolle|noun|inspection
@@ -1760,7 +2064,6 @@
 1182.001|das Gebiet|noun|area
 1182.002|das Gebiet|noun|territory
 1183.0|die Behörde|noun|department
-1183.001|die Behörde|noun|authorities
 1184.0|der Samstag|noun|Saturday
 1185.0|die Organisation|noun|organization
 1186.0|die Summe|noun|sum
@@ -1773,7 +2076,6 @@
 1192.0|irgendetwas|pronoun|something
 1192.001|irgendetwas|pronoun|anything
 1193.0|teilweise|adverb|partly
-1194.0|das Vertrauen|noun|trust
 1194.001|das Vertrauen|noun|faith
 1195.0|vertrauen|verb|to trust
 1196.0|das Jahrzehnt|noun|decade
@@ -1782,7 +2084,6 @@
 1198.001|unmittelbar|adjective|direct
 1199.0|der Bund|noun|association
 1199.001|der Bund|noun|alliance
-1199.002|der Bund|noun|bunch
 1200.0|extrem|adjective|extreme
 1201.0|das Merkmal|noun|feature
 1202.0|theoretisch|adjective|theoretical
@@ -1791,7 +2092,6 @@
 1204.0|der Papa|noun|daddy
 1205.0|die Krankheit|noun|illness
 1205.001|die Krankheit|noun|disease
-1206.0|die Voraussetzung|noun|condition
 1206.001|die Voraussetzung|noun|requirement
 1207.0|töten|verb|to kill
 1208.0|formulieren|verb|to formulate
@@ -1835,17 +2135,14 @@
 1236.0|verteilen|verb|to distribute
 1237.0|das Papier|noun|paper
 1238.0|physikalisch|adjective|physical
-1239.0|angesichts|preposition|in view of
 1240.0|leise|adjective|quiet
 1240.001|leise|adjective|soft
 1241.0|vermutlich|adverb|probably
 1242.0|eindeutig|adjective|clear
-1243.0|heraus|adverb|out
 1243.001|heraus|adverb|outside
 1244.0|falls|conjunction|in case
 1244.001|falls|conjunction|if
 1245.0|erstmals|adverb|for the first time
-1246.0|der Partner|noun|partner
 1247.0|nachdenken|verb|to think about
 1247.001|nachdenken|verb|to reflect
 1248.0|die Ausbildung|noun|training
@@ -1858,7 +2155,6 @@
 1252.001|die Tat|noun|action
 1253.0|obere|adjective|upper
 1254.0|die Gleichung|noun|equation
-1255.0|der Stein|noun|rock
 1255.001|der Stein|noun|stone
 1256.0|kümmern (sich)|verb|to take care of
 1256.001|kümmern (sich)|verb|to be concerned
@@ -1868,7 +2164,6 @@
 1259.0|die Erklärung|noun|explanation
 1260.0|das Konzept|noun|concept
 1260.001|das Konzept|noun|idea
-1260.002|das Konzept|noun|plan
 1261.0|der Mittwoch|noun|Wednesday
 1262.0|stören|verb|to disturb
 1262.001|stören|verb|to bother
@@ -1900,7 +2195,6 @@
 1279.003|der Kern|noun|main focus
 1280.0|der Winter|noun|winter
 1281.0|der Hintergrund|noun|background
-1282.0|der Osten, Ost-|noun|east
 1283.0|Amerika|noun|America
 1284.0|geboren|adjective|born
 1285.0|gefährlich|adjective|dangerous
@@ -1915,11 +2209,8 @@
 1292.0|die Nachricht|noun|news
 1292.001|die Nachricht|noun|message
 1293.0|sammeln|verb|to collect
-1293.001|sammeln|verb|to gather
-1294.0|ablehnen|verb|to refuse
 1294.001|ablehnen|verb|to reject
 1294.002|ablehnen|verb|to turn down
-1295.0|stoßen|verb|to bump
 1295.001|stoßen|verb|to push
 1296.0|konstant|adjective|constant
 1297.0|der Oktober|noun|October
@@ -1927,7 +2218,6 @@
 1298.001|umgehen|verb|to handle
 1299.0|angehen|verb|to concern
 1299.001|angehen|verb|to go on
-1300.0|verlaufen|verb|to proceed
 1300.001|verlaufen|verb|to get lost
 1301.0|demnach|adverb|therefore
 1302.0|auftauchen|verb|to surface
@@ -1935,7 +2225,6 @@
 1303.0|böse|adjective|bad
 1303.001|böse|adjective|mad
 1303.002|böse|adjective|bitter
-1304.0|auslösen|verb|to set off
 1304.001|auslösen|verb|to provoke
 1305.0|weitergehen|verb|to go on
 1305.001|weitergehen|verb|to continue
@@ -1947,12 +2236,10 @@
 1310.001|reduzieren|verb|to decrease
 1311.0|die Maschine|noun|machine
 1312.0|linear|adjective|linear
-1313.0|ausmachen|verb|to put out
 1313.001|ausmachen|verb|to agree
 1314.0|eintreten|verb|to enter
 1314.001|eintreten|verb|to join
 1314.002|eintreten|verb|to occur
-1315.0|kritisch|adjective|critical
 1316.0|äh|particle|um
 1317.0|das Wochenende|noun|weekend
 1318.0|der Donnerstag|noun|Thursday
@@ -2008,7 +2295,6 @@
 1356.0|die Integration|noun|integration
 1356.001|die Integration|noun|integration
 1357.0|der Nachbar|noun|neighbor
-1358.0|maximal|adjective|maximum
 1359.0|die Figur|noun|figure
 1360.0|die Freude|noun|joy
 1361.0|offiziell|adjective|official
@@ -2053,7 +2339,6 @@
 1388.0|enden|verb|to end
 1389.0|vielmehr|adverb|rather
 1390.0|konzentrieren|verb|to concentrate
-1391.0|landen|verb|to land
 1392.0|der See|noun|lake
 1393.0|die See|noun|sea
 1394.0|der Tourist|noun|tourist
@@ -2074,16 +2359,13 @@
 1403.0|abschließen|verb|to lock
 1403.001|abschließen|verb|to conclude
 1404.0|die Erkenntnis|noun|realization
-1404.001|die Erkenntnis|noun|discovery
 1405.0|selbstverständlich|adjective|natural
-1405.001|selbstverständlich|adjective|self-evident
 1405.002|selbstverständlich|adjective|obvious
 1405.003|selbstverständlich|adjective|of course
 1406.0|erzeugen|verb|to produce
 1406.001|erzeugen|verb|to generate
 1407.0|die Ursache|noun|cause
 1408.0|ursprünglich|adjective|original
-1409.0|die Basis|noun|basis
 1410.0|erzielen|verb|to achieve
 1410.001|erzielen|verb|to reach
 1411.0|die Forschung|noun|research
@@ -2096,7 +2378,6 @@
 1416.0|die Ahnung|noun|suspicion
 1416.001|die Ahnung|noun|idea
 1417.0|ankündigen|verb|to announce
-1418.0|das Enzym|noun|enzyme
 1419.0|individuell|adjective|individual
 1420.0|intensiv|adjective|intensive
 1420.001|intensiv|adjective|intensive
@@ -2112,7 +2393,6 @@
 1427.001|die Abgeordnete|noun|congress
 1428.0|verstärken|verb|to strengthen
 1428.001|verstärken|verb|to reinforce
-1429.0|ausschließen|verb|to exclude
 1429.001|ausschließen|verb|to rule out
 1430.0|sinnvoll|adjective|sensible
 1430.001|sinnvoll|adjective|meaningful
@@ -2130,7 +2410,6 @@
 1437.0|die Gewalt|noun|violence
 1437.001|die Gewalt|noun|force
 1438.0|gucken|verb|to look
-1439.0|der Anschlag|noun|attack
 1440.0|beeinflussen|verb|to influence
 1441.0|riechen|verb|to smell
 1442.0|außerhalb|preposition|outside
@@ -2150,7 +2429,6 @@
 1453.001|der Lauf|noun|run
 1453.002|der Lauf|noun|race
 1454.0|der Artikel|noun|article
-1455.0|berühmt|adjective|famous
 1455.001|berühmt|adjective|famous
 1456.0|ersetzen|verb|to replace
 1456.001|ersetzen|verb|to reimburse
@@ -2161,8 +2439,6 @@
 1461.0|das Gehirn|noun|brain
 1462.0|das Gebäude|noun|building
 1463.0|langfristig|adjective|long-term
-1464.0|herzlich|adjective|cordial
-1464.001|herzlich|adjective|warm
 1465.0|sichern|verb|to secure
 1465.001|sichern|verb|to safeguard
 1466.0|das Material|noun|material
@@ -2187,7 +2463,6 @@
 1476.0|präsentieren|verb|to present
 1476.001|präsentieren|verb|to show
 1477.0|die Demokratie|noun|democracy
-1478.0|niemals|adverb|never
 1479.0|die Aufnahme|noun|reception
 1479.001|die Aufnahme|noun|recording
 1479.002|die Aufnahme|noun|snapshot
@@ -2229,7 +2504,6 @@
 1505.0|zuständig|adjective|appropriate
 1505.001|zuständig|adjective|responsible
 1506.0|aufweisen|verb|to show
-1506.001|aufweisen|verb|to exhibit
 1506.002|aufweisen|verb|to contain
 1507.0|springen|verb|to jump
 1508.0|der Hof|noun|courtyard
@@ -2272,11 +2546,9 @@
 1532.0|die Strecke|noun|distance
 1532.001|die Strecke|noun|route
 1533.0|die Praxis|noun|practice
-1533.001|die Praxis|noun|doctor’s office
 1534.0|ungefähr|adjective|approximately
 1535.0|mitnehmen|verb|to take (along)
 1536.0|üblich|adjective|usual
-1537.0|übertragen|verb|to transfer
 1538.0|die Wissenschaft|noun|science
 1539.0|global|adjective|global
 1540.0|der Nachmittag|noun|afternoon
@@ -2296,7 +2568,6 @@
 1550.0|die Karte|noun|card
 1550.001|die Karte|noun|ticket
 1550.002|die Karte|noun|menu
-1551.0|arm|adjective|poor
 1552.0|die Krise|noun|crisis
 1553.0|die Strategie|noun|strategy
 1554.0|die Debatte|noun|debate
@@ -2325,7 +2596,6 @@
 1571.001|woher|pronoun|how
 1572.0|der Zweifel|noun|doubt
 1573.0|der Konzern|noun|corporation
-1574.0|tanzen|verb|to dance
 1575.0|überleben|verb|to survive
 1576.0|spezifisch|adjective|specific
 1577.0|stabil|adjective|stable
@@ -2356,7 +2626,6 @@
 1595.0|zufrieden|adjective|satisfied
 1596.0|reißen|verb|to tear
 1597.0|dahin|adverb|there
-1598.0|solange|conjunction|as long as
 1599.0|der Wissenschaftler|noun|scholar
 1599.001|der Wissenschaftler|noun|scientist
 1600.0|die Kommunikation|noun|communication
@@ -2366,10 +2635,7 @@
 1603.0|angeblich|adjective|alleged
 1604.0|günstig|adjective|cheap
 1604.001|günstig|adjective|favorable
-1604.002|günstig|adjective|good
-1605.0|der Dezember|noun|December
 1606.0|der Flughafen|noun|airport
-1607.0|das Krankenhaus|noun|hospital
 1608.0|wenden|verb|to turn around
 1609.0|türkisch|adjective|Turkish
 1610.0|das Türkisch|noun|Turkish
@@ -2403,9 +2669,7 @@
 1629.0|einst|adverb|once
 1629.001|einst|adverb|at one time
 1629.002|einst|adverb|one day
-1630.0|der Service|noun|service
 1631.0|sprachlich|adjective|linguistic
-1632.0|bisherig|adjective|so far
 1633.0|der Fahrer|noun|driver
 1634.0|traditionell|adjective|traditional
 1635.0|weinen|verb|to cry
@@ -2417,7 +2681,6 @@
 1638.0|das Lager|noun|camp
 1638.001|das Lager|noun|storeroom
 1639.0|grau|adjective|gray
-1640.0|anhand|preposition|on the basis of
 1640.001|anhand|preposition|with the aid of
 1641.0|der Bus|noun|bus
 1642.0|der Franken (Fr.)|noun|(Swiss) franc
@@ -2437,7 +2700,6 @@
 1652.0|fern|adjective|far
 1652.001|fern|adjective|distant
 1653.0|die Gegend|noun|area
-1653.001|die Gegend|noun|region
 1654.0|verstecken|verb|to hide
 1655.0|das Feuer|noun|fire
 1656.0|bemühen (sich)|verb|to make an effort
@@ -2445,7 +2707,6 @@
 1658.0|die AfD (Alternative für Deutschland)|noun|AfD
 1658.001|die AfD (Alternative für Deutschland)|noun|Alternative für Deutschland
 1659.0|die Bakterie|noun|bacterium
-1660.0|tauchen|verb|to dive
 1660.001|tauchen|verb|to dip
 1661.0|die Konsequenz|noun|consequence
 1662.0|schuld|adjective|guilty
@@ -2454,7 +2715,6 @@
 1665.0|anhaben|verb|to wear
 1665.001|anhaben|verb|to damage
 1666.0|die Bestimmung|noun|regulation
-1666.001|die Bestimmung|noun|purpose
 1666.002|die Bestimmung|noun|fate
 1667.0|vermeiden|verb|to avoid
 1668.0|ehrlich|adjective|honest
@@ -2479,7 +2739,6 @@
 1681.0|der Bürgermeister|noun|mayor
 1682.0|entlang|preposition|along
 1683.0|die Flasche|noun|bottle
-1684.0|wunderbar|adjective|wonderful
 1685.0|der Zweck|noun|purpose
 1686.0|ehren|verb|to honor
 1687.0|die Verwendung|noun|use
@@ -2499,7 +2758,6 @@
 1696.0|der Umgang|noun|dealing
 1696.001|der Umgang|noun|interaction
 1697.0|überprüfen|verb|to check
-1698.0|der Lehrstuhl|noun|professorship
 1698.001|der Lehrstuhl|noun|chair
 1699.0|schenken|verb|to give (as a present)
 1700.0|der Vorschlag|noun|suggestion
@@ -2551,7 +2809,6 @@
 1730.0|sicherlich|adverb|certainly
 1731.0|weisen|verb|to point
 1732.0|die Tradition|noun|tradition
-1733.0|brennen|verb|to burn
 1734.0|freiwillig|adjective|voluntary
 1735.0|umso|conjunction|the (more ... the)
 1736.0|der Antrag|noun|application
@@ -2592,7 +2849,6 @@
 1761.0|das Knie|noun|knee
 1762.0|null (0)|number|zero
 1763.0|die Schicht|noun|layer
-1763.001|die Schicht|noun|shift
 1763.002|die Schicht|noun|class
 1764.0|unglaublich|adjective|incredible
 1765.0|zurück|adverb|back
@@ -2640,13 +2896,8 @@
 1793.001|der Verband|noun|bandage
 1794.0|betreten|verb|to enter
 1794.001|betreten|verb|to walk into/onto
-1795.0|die Regelung|noun|regulation
-1795.001|die Regelung|noun|settlement
 1796.0|teilnehmen|verb|to take part
-1797.0|überwiegen|verb|to outweigh
-1798.0|bedingen|verb|to cause
 1799.0|die Gestalt|noun|shape
-1799.001|die Gestalt|noun|form
 1799.002|die Gestalt|noun|figure
 1800.0|zukommen|verb|to come toward
 1800.001|zukommen|verb|to be in store
@@ -2654,8 +2905,6 @@
 1801.001|ablaufen|verb|to expire
 1802.0|der Minister|noun|minister
 1803.0|das Fahrzeug|noun|vehicle
-1804.0|fließen|verb|to flow
-1805.0|gemäß|preposition|according to
 1806.0|der Vorwurf|noun|reproach
 1806.001|der Vorwurf|noun|accusation
 1807.0|erforderlich|adjective|required
@@ -2665,7 +2914,6 @@
 1809.0|der Schriftsteller|noun|writer
 1810.0|die Stimmung|noun|mood
 1810.001|die Stimmung|noun|atmosphere
-1811.0|zufällig|adjective|accidental
 1811.001|zufällig|adjective|by chance
 1812.0|enorm|adjective|enormous
 1813.0|das Fach|noun|compartment
@@ -2687,7 +2935,6 @@
 1824.0|der Anbieter|noun|supplier
 1825.0|die Industrie|noun|industry
 1826.0|Spanien|noun|Spain
-1827.0|ab|adverb|off
 1827.001|ab|adverb|away
 1828.0|der Jude|noun|Jew
 1829.0|der Vorgang|noun|procedure
@@ -2726,7 +2973,6 @@
 1854.0|super|adjective|super
 1854.001|super|adjective|great
 1855.0|ökonomisch|adjective|economic
-1856.0|die Erzählung|noun|narration
 1856.001|die Erzählung|noun|story
 1857.0|die Initiative|noun|initiative
 1858.0|das Flugzeug|noun|airplane
@@ -2735,7 +2981,6 @@
 1860.0|die Flüssigkeit|noun|liquid
 1861.0|der Geburtstag|noun|birthday
 1862.0|das Kleid|noun|dress
-1863.0|zeitlich|adjective|in time
 1864.0|der Ball|noun|ball
 1865.0|die Brust|noun|breast
 1865.001|die Brust|noun|chest
@@ -2762,7 +3007,6 @@
 1883.0|die Perspektive|noun|perspective
 1883.001|die Perspektive|noun|prospects
 1884.0|das Restaurant|noun|restaurant
-1885.0|wandern|verb|to (go on a) walk or hike
 1885.001|wandern|verb|to migrate
 1886.0|die Tasche|noun|pocket
 1886.001|die Tasche|noun|bag
@@ -2783,7 +3027,6 @@
 1896.001|regeln|verb|to regulate
 1896.002|regeln|verb|to direct
 1897.0|insofern|adverb|as far as that goes
-1897.001|insofern|adverb|insofar
 1897.002|insofern|adverb|therefore
 1898.0|die Zigarette|noun|cigarette
 1899.0|bunt|adjective|colorful
@@ -2826,7 +3069,6 @@
 1924.0|pflegen|verb|to care
 1924.001|pflegen|verb|to cultivate
 1925.0|die Ausgabe|noun|distribution
-1925.001|die Ausgabe|noun|edition
 1925.002|die Ausgabe|noun|issue
 1925.003|die Ausgabe|noun|expense
 1926.0|online|adverb|online
@@ -2854,11 +3096,9 @@
 1939.0|der Übergang|noun|crossing
 1939.001|der Übergang|noun|transition
 1940.0|zusammenfassen|verb|to summarize
-1941.0|beeindrucken|verb|to impress
 1942.0|einnehmen|verb|to take (up/in)
 1943.0|das Loch|noun|hole
 1944.0|das Management|noun|management
-1945.0|schwimmen|verb|to swim
 1946.0|die Erwartung|noun|expectation
 1947.0|beantworten|verb|to answer
 1948.0|der Beweis|noun|proof
@@ -2869,8 +3109,6 @@
 1952.0|die Behandlung|noun|treatment
 1953.0|der Zahn|noun|tooth
 1954.0|aussprechen|verb|to pronounce
-1954.001|aussprechen|verb|to express
-1955.0|beliebt|adjective|popular
 1956.0|das Eis|noun|ice
 1956.001|das Eis|noun|ice cream
 1957.0|komisch|adjective|funny
@@ -2913,13 +3151,10 @@
 1981.001|die Hochschule|noun|university
 1982.0|die Umsetzung|noun|transfer
 1982.001|die Umsetzung|noun|implementation
-1983.0|das Engagement|noun|commitment
 1984.0|erschrecken|verb|to frighten
-1984.001|erschrecken|verb|to be startled
 1985.0|erwerben|verb|to acquire
 1985.001|erwerben|verb|to purchase
 1986.0|das Wesen|noun|being
-1986.001|das Wesen|noun|creature
 1986.002|das Wesen|noun|nature (of sth)
 1987.0|parallel|adjective|parallel
 1988.0|hierbei|adverb|while doing this
@@ -2935,7 +3170,6 @@
 1993.0|irgendwelche|pronoun|some
 1993.001|irgendwelche|pronoun|any
 1994.0|korrekt|adjective|correct
-1995.0|die Vorsitzende|noun|chairperson
 1996.0|verraten|verb|to tell a secret
 1996.001|verraten|verb|to give away
 1996.002|verraten|verb|to betray
@@ -2949,7 +3183,6 @@
 2002.0|das Spanisch|noun|Spanish
 2003.0|der Teilnehmer|noun|participant
 2004.0|die Veranstaltung|noun|event
-2005.0|vorhaben|verb|to have in mind
 2005.001|vorhaben|verb|to be planning
 2005.002|vorhaben|verb|to intend
 2006.0|verbergen|verb|to hide
@@ -2978,7 +3211,6 @@
 2023.0|das Gewicht|noun|weight
 2024.0|beruhigen|verb|to calm
 2025.0|ansonsten|adverb|otherwise
-2026.0|verrückt|adjective|crazy
 2026.001|verrückt|adjective|insane
 2027.0|versorgen|verb|to supply
 2027.001|versorgen|verb|to provide
@@ -3043,7 +3275,6 @@
 2069.001|aufregen|verb|to upset
 2069.002|aufregen|verb|to annoy
 2070.0|die Abhängigkeit|noun|dependence
-2071.0|die Einrichtung|noun|institution
 2071.001|die Einrichtung|noun|furnishings
 2072.0|vereinigen|verb|to unite
 2073.0|vereinbaren|verb|to agree
@@ -3064,7 +3295,6 @@
 2084.0|sparen|verb|to save
 2085.0|quasi|adverb|almost
 2085.001|quasi|adverb|virtually
-2086.0|Wiener|adjective|Viennese
 2087.0|blöd|adjective|stupid
 2087.001|blöd|adjective|dumb
 2088.0|die Soziologie|noun|sociology
@@ -3087,7 +3317,6 @@
 2102.0|berühren|verb|to touch
 2103.0|das Kino|noun|cinema
 2103.001|das Kino|noun|movie theater
-2104.0|die Dauer|noun|duration
 2104.001|die Dauer|noun|length
 2105.0|klappen|verb|to fold
 2105.001|klappen|verb|to go smoothly
@@ -3122,7 +3351,6 @@
 2121.001|aufpassen|verb|to take care
 2122.0|die Verletzung|noun|injury
 2123.0|die CSU (Christlich-Soziale Union)|noun|CSU
-2124.0|der Direktor|noun|director
 2125.0|enttäuschen|verb|to disappoint
 2126.0|fangen|verb|to catch
 2127.0|die Träne|noun|tear
@@ -3132,7 +3360,6 @@
 2131.0|die Pflicht|noun|duty
 2132.0|realisieren|verb|to realize
 2132.001|realisieren|verb|to bring about
-2133.0|einrichten|verb|to furnish
 2134.0|der Käufer|noun|buyer
 2135.0|das Rennen|noun|race
 2136.0|der Täter|noun|culprit
@@ -3140,7 +3367,6 @@
 2137.0|befreien|verb|to free
 2138.0|ordnen|verb|to arrange
 2138.001|ordnen|verb|to sort
-2139.0|die Bezeichnung|noun|name
 2139.001|die Bezeichnung|noun|term
 2140.0|verteidigen|verb|to defend
 2141.0|der Anlass|noun|occasion
@@ -3148,7 +3374,6 @@
 2142.0|medial|adjective|media
 2143.0|hauptsächlich|adjective|mainly
 2143.001|hauptsächlich|adjective|mostly
-2144.0|der Hersteller|noun|manufacturer
 2144.001|der Hersteller|noun|producer
 2145.0|normalerweise|adverb|normally
 2145.001|normalerweise|adverb|usually
@@ -3159,7 +3384,6 @@
 2149.0|mehrfach|adjective|multiple
 2149.001|mehrfach|adjective|several
 2150.0|der Rang|noun|standing
-2150.001|der Rang|noun|status
 2151.0|rennen|verb|to run
 2152.0|herausfinden|verb|to find out
 2153.0|nahezu|adverb|nearly
@@ -3174,24 +3398,20 @@
 2158.001|die Kurve|noun|turn
 2159.0|der Auftritt|noun|appearance
 2159.001|der Auftritt|noun|entrance
-2160.0|integrieren|verb|to integrate
 2161.0|die Saga|noun|saga
 2162.0|anmelden|verb|to register
 2162.001|anmelden|verb|to sign up
-2163.0|gerecht|adjective|just
 2163.001|gerecht|adjective|fair
 2164.0|unendlich|adjective|endless
 2164.001|unendlich|adjective|infinite
 2165.0|der Bundestag|noun|Bundestag
 2166.0|literarisch|adjective|literary
-2167.0|das Bewusstsein|noun|consciousness
 2168.0|die Stiftung|noun|foundation
 2168.001|die Stiftung|noun|institute
 2168.002|die Stiftung|noun|donation
 2169.0|die Erhöhung|noun|increase
 2170.0|die GmbH|noun|limited liability company
 2170.001|die GmbH|noun|Ltd
-2171.0|ungewöhnlich|adjective|unusual
 2172.0|das Fest|noun|festival
 2172.001|das Fest|noun|celebration
 2173.0|die Anforderung|noun|requirement
@@ -3202,7 +3422,6 @@
 2176.0|vorgehen|verb|to go on
 2176.001|vorgehen|verb|to go ahead
 2176.002|vorgehen|verb|to be fast
-2176.003|vorgehen|verb|to have priority
 2177.0|die Arbeitslosigkeit|noun|unemployment
 2178.0|das Brot|noun|bread
 2179.0|die Geburt|noun|birth
@@ -3211,13 +3430,11 @@
 2182.0|das Umfeld|noun|milieu
 2182.001|das Umfeld|noun|environment
 2183.0|allzu|adverb|overly
-2184.0|der Graf|noun|count
 2184.001|der Graf|noun|earl
 2185.0|Indien|noun|India
 2186.0|lohnen (sich)|verb|to be worth it
 2187.0|optisch|adjective|optical
 2187.001|optisch|adjective|visual
-2188.0|militärisch|adjective|military
 2189.0|die Mühe|noun|effort
 2189.001|die Mühe|noun|trouble
 2190.0|unterbrechen|verb|to interrupt
@@ -3250,7 +3467,6 @@
 2208.001|der Umfang|noun|size
 2208.002|der Umfang|noun|extent
 2208.003|der Umfang|noun|length
-2209.0|die Beobachtung|noun|observation
 2210.0|erfinden|verb|to invent
 2211.0|erfordern|verb|to require
 2211.001|erfordern|verb|to demand
@@ -3274,7 +3490,6 @@
 2227.0|starren|verb|to stare
 2228.0|verpassen|verb|to miss
 2229.0|vorwerfen|verb|to accuse
-2229.001|vorwerfen|verb|to reproach
 2230.0|der Bauch|noun|belly
 2231.0|der Verkauf|noun|sale
 2232.0|die Vorbereitung|noun|preparation
@@ -3301,7 +3516,6 @@
 2242.001|arabisch|adjective|Arabic
 2243.0|das Arabisch|noun|Arabic
 2244.0|mischen|verb|to mix
-2244.001|mischen|verb|to blend
 2245.0|beruhen|verb|to be based
 2246.0|Japan|noun|Japan
 2247.0|die City|noun|city center
@@ -3321,7 +3535,6 @@
 2260.0|die Umfrage|noun|survey
 2261.0|die Operation|noun|operation
 2261.001|die Operation|noun|surgery
-2262.0|die Probe|noun|sample
 2262.001|die Probe|noun|test
 2262.002|die Probe|noun|rehearsal
 2263.0|bedienen|verb|to serve
@@ -3365,7 +3578,6 @@
 2288.0|das Organ|noun|organ
 2289.0|besprechen|verb|to discuss
 2290.0|die Oberfläche|noun|surface
-2291.0|der Standort|noun|site
 2291.001|der Standort|noun|location
 2292.0|der Zufall|noun|chance
 2292.001|der Zufall|noun|coincidence
@@ -3388,14 +3600,11 @@
 2307.0|die Förderung|noun|support
 2307.001|die Förderung|noun|promotion
 2307.002|die Förderung|noun|funding
-2308.0|der Impuls|noun|stimulus
 2308.001|der Impuls|noun|impulse
 2309.0|die Planung|noun|planning
 2309.001|die Planung|noun|plan
 2310.0|der Verdacht|noun|suspicion
 2311.0|vorgeben|verb|to use as an excuse
-2311.001|vorgeben|verb|to set in advance
-2311.002|vorgeben|verb|to pretend
 2312.0|der Witz|noun|joke
 2313.0|aufmerksam|adjective|attentive
 2314.0|der Mangel|noun|lack
@@ -3426,13 +3635,11 @@
 2328.0|das Vermögen|noun|assets
 2328.001|das Vermögen|noun|fortune
 2328.002|das Vermögen|noun|ability
-2329.0|die Verwaltung|noun|administration
 2330.0|zumal|conjunction|particularly
 2330.001|zumal|conjunction|especially
 2331.0|das Kohlenstoffdioxid|noun|carbon dioxide
 2332.0|ordentlich|adjective|neat
 2332.001|ordentlich|adjective|proper
-2332.002|ordentlich|adjective|orderly
 2333.0|stoppen|verb|to stop
 2334.0|der Bundeskanzler|noun|federal chancellor
 2335.0|der Rat|noun|advice
@@ -3442,7 +3649,6 @@
 2337.0|gewöhnlich|adjective|usual
 2338.0|großartig|adjective|great
 2338.001|großartig|adjective|splendid
-2338.002|großartig|adjective|superb
 2338.003|großartig|adjective|terrific
 2339.0|trainieren|verb|to train
 2339.001|trainieren|verb|to coach
@@ -3452,9 +3658,7 @@
 2341.001|das Medikament|noun|drug
 2342.0|der Ring|noun|ring
 2343.0|beliebig|adjective|any
-2343.001|beliebig|adjective|as you like
 2344.0|das HGB (Handelsgesetzbuch)|noun|Commercial Code
-2345.0|versetzen|verb|to move
 2345.001|versetzen|verb|to transfer
 2346.0|verurteilen|verb|to condemn
 2347.0|das Vorjahr|noun|previous year
@@ -3462,12 +3666,10 @@
 2348.001|gezielt|adjective|purposeful
 2348.002|gezielt|adjective|pointed
 2348.003|gezielt|adjective|well-aimed
-2349.0|die Kommune|noun|municipality
 2349.001|die Kommune|noun|local authority
 2350.0|der Mord|noun|murder
 2351.0|extern|adjective|external
 2352.0|die Partie|noun|game
-2353.0|stetig|adjective|constant
 2354.0|dumm|adjective|stupid
 2355.0|erwidern|verb|to reply
 2356.0|die Identität|noun|identity
@@ -3479,7 +3681,6 @@
 2361.0|die Tiefe|noun|depth
 2362.0|unternehmen|verb|to undertake
 2362.001|unternehmen|verb|to do
-2362.002|unternehmen|verb|to take action
 2363.0|moralisch|adjective|moral
 2364.0|selbe|pronoun|same
 2365.0|stärken|verb|to strengthen
@@ -3492,7 +3693,6 @@
 2371.001|verwandeln|verb|to turn into
 2372.0|streiten|verb|to quarrel
 2372.001|streiten|verb|to argue
-2373.0|widmen|verb|to dedicate
 2374.0|bereitstellen|verb|to provide
 2374.001|bereitstellen|verb|to put on
 2375.0|hinterlassen|verb|to leave
@@ -3504,7 +3704,6 @@
 2380.0|vertraut|adjective|familiar
 2380.001|vertraut|adjective|close
 2381.0|das Baby|noun|baby
-2382.0|die Sitzung|noun|meeting
 2382.001|die Sitzung|noun|session
 2383.0|sportlich|adjective|athletic
 2384.0|die Wärme|noun|warmth
@@ -3613,7 +3812,6 @@
 2459.0|vernünftig|adjective|sensible
 2459.001|vernünftig|adjective|reasonable
 2460.0|die Matrix|noun|matrix
-2461.0|abholen|verb|to get
 2461.001|abholen|verb|to fetch
 2461.002|abholen|verb|to pick up
 2462.0|gegenwärtig|adjective|present
@@ -3629,11 +3827,9 @@
 2467.002|vorlegen|verb|to produce
 2468.0|wahnsinnig|adjective|insane
 2469.0|erstaunlich|adjective|astonishing
-2470.0|grinsen|verb|to grin
 2471.0|der Koffer|noun|suitcase
 2472.0|emotional|adjective|emotional
 2473.0|erstellen|verb|to build
-2473.001|erstellen|verb|to draw up
 2473.002|erstellen|verb|to produce
 2474.0|fünfzig|number|fifty
 2475.0|die Kugel|noun|ball
@@ -3651,8 +3847,6 @@
 2479.001|der Schwerpunkt|noun|main emphasis
 2479.002|der Schwerpunkt|noun|center of gravity
 2480.0|die Überzeugung|noun|conviction
-2481.0|die Ableitung|noun|derivation
-2482.0|aussteigen|verb|to get off
 2482.001|aussteigen|verb|to get out
 2483.0|das Chromosom|noun|chromosome
 2484.0|vergleichbar|adjective|comparable
@@ -3720,7 +3914,6 @@
 2527.001|sauer|adjective|angry
 2528.0|vermissen|verb|to miss
 2529.0|das Geschlecht|noun|sex
-2529.001|das Geschlecht|noun|gender
 2530.0|attraktiv|adjective|attractive
 2531.0|die Aussicht|noun|prospect
 2531.001|die Aussicht|noun|view
@@ -3737,7 +3930,6 @@
 2540.0|die Ehre|noun|honor
 2541.0|entschließen (sich)|verb|to decide
 2542.0|gewöhnen|verb|to get used to
-2543.0|hingehen|verb|to go (there)
 2544.0|zittern|verb|to tremble
 2544.001|zittern|verb|to shiver
 2545.0|der Dialog|noun|dialogue
@@ -3782,7 +3974,6 @@
 2575.0|identisch|adjective|identical
 2576.0|rollen|verb|to roll
 2577.0|die Angehörige|noun|member
-2577.001|die Angehörige|noun|relative
 2578.0|das Café|noun|coffeehouse
 2578.001|das Café|noun|coffee shop
 2578.002|das Café|noun|café
@@ -3817,7 +4008,6 @@
 2599.0|verhandeln|verb|to negotiate
 2600.0|der Wandel|noun|change
 2601.0|der Ast|noun|branch
-2602.0|ausüben|verb|to practice
 2602.001|ausüben|verb|to exercise
 2602.002|ausüben|verb|to exert
 2603.0|jenseits|preposition|beyond
@@ -3830,7 +4020,6 @@
 2609.0|bedürfen|verb|to require
 2610.0|das Gefängnis|noun|prison
 2611.0|die Überraschung|noun|surprise
-2612.0|der Wechsel|noun|change
 2613.0|die Wurzel|noun|root
 2613.001|die Wurzel|noun|root
 2614.0|formell|adjective|formal
@@ -3846,10 +4035,7 @@
 2620.0|der Arbeitnehmer|noun|employee
 2621.0|beugen|verb|to bend
 2622.0|einbringen|verb|to bring in
-2622.001|einbringen|verb|to contribute
 2623.0|die Materie|noun|matter
-2624.0|das Personal|noun|staff
-2625.0|scheinbar|adjective|apparent
 2626.0|die Frequenz|noun|frequency
 2627.0|lehren|verb|to teach
 2628.0|selbstständig|adjective|independent
@@ -3862,7 +4048,6 @@
 2633.0|schlicht|adjective|simple
 2633.001|schlicht|adjective|plain
 2634.0|angemessen|adjective|appropriate
-2635.0|der Arbeitsmarkt|noun|labor market
 2636.0|der Pass|noun|pass
 2636.001|der Pass|noun|passport
 2637.0|der Bedarf|noun|need
@@ -3880,7 +4065,6 @@
 2644.001|die Leitung|noun|leadership
 2645.0|strahlen|verb|to shine
 2646.0|der Zucker|noun|sugar
-2647.0|der Austausch|noun|exchange
 2648.0|gleichen|verb|to be alike
 2648.001|gleichen|verb|to be just like
 2649.0|die Station|noun|station
@@ -3922,7 +4106,6 @@
 2672.0|der Star|noun|star
 2672.001|der Star|noun|starling
 2673.0|wütend|adjective|furious
-2674.0|christlich|adjective|Christian
 2675.0|Hamburger|adjective|Hamburg
 2676.0|der Hamburger|noun|hamburger
 2677.0|die Leiche|noun|corpse
@@ -3944,7 +4127,6 @@
 2690.0|der Mittelpunkt|noun|midpoint
 2690.001|der Mittelpunkt|noun|center of attention
 2691.0|bereiten|verb|to make
-2691.001|bereiten|verb|to cause
 2691.002|bereiten|verb|to give
 2692.0|die Entstehung|noun|origin
 2693.0|konservativ|adjective|conservative
@@ -3958,15 +4140,12 @@
 2700.0|erkennbar|adjective|recognizable
 2700.001|erkennbar|adjective|apparent
 2700.002|erkennbar|adjective|visible
-2701.0|namens|adverb|by the name of
-2701.001|namens|adverb|called
 2702.0|die Achse|noun|axle
 2702.001|die Achse|noun|axis
 2703.0|klingeln|verb|to ring
 2704.0|speichern|verb|to store
 2704.001|speichern|verb|to save
 2705.0|der Tee|noun|tea
-2706.0|der Zeuge|noun|witness
 2707.0|der Aufwand|noun|expense
 2707.001|der Aufwand|noun|effort
 2708.0|die Kooperation|noun|cooperation
@@ -4056,7 +4235,6 @@
 2767.0|blind|adjective|blind
 2768.0|einschlafen|verb|to fall asleep
 2769.0|die Flüchtlingskrise|noun|refugee crisis
-2770.0|der Ärger|noun|annoyance
 2770.001|der Ärger|noun|trouble
 2771.0|allmählich|adjective|gradual
 2772.0|der Führer|noun|leader
@@ -4067,7 +4245,6 @@
 2775.0|der Hafen|noun|harbor
 2776.0|die Niere|noun|kidney
 2777.0|abbilden|verb|to copy
-2777.001|abbilden|verb|to portray
 2778.0|der Rezeptor|noun|receptor
 2779.0|etablieren|verb|to establish
 2780.0|das Messer|noun|knife
@@ -4093,8 +4270,6 @@
 2794.0|die Wut|noun|rage
 2794.001|die Wut|noun|fury
 2795.0|aufrufen|verb|to call out/up/upon
-2796.0|quer|adverb|diagonally
-2796.001|quer|adverb|sideways
 2796.002|quer|adverb|across
 2797.0|der Kapitän|noun|captain
 2798.0|zusammenhängen|verb|to be connected
@@ -4111,7 +4286,6 @@
 2807.0|die Strahlung|noun|radiation
 2808.0|das Virus|noun|virus
 2809.0|der Kontinent|noun|continent
-2810.0|das Milligramm|noun|milligram
 2811.0|schwedisch|adjective|Swedish
 2812.0|das Schwedisch|noun|Swedish
 2813.0|sexuell|adjective|sexual
@@ -4119,7 +4293,6 @@
 2815.0|ironisch|adjective|ironic
 2816.0|der Sprung|noun|jump
 2817.0|vorerst|adverb|for the present
-2818.0|experimentell|adjective|experimental
 2819.0|kühl|adjective|cool
 2820.0|der Maler|noun|painter
 2821.0|die Opposition|noun|opposition
@@ -4144,13 +4317,11 @@
 2837.0|zusammenarbeiten|verb|to cooperate
 2838.0|der Parameter|noun|parameter
 2839.0|steil|adjective|steep
-2840.0|der Europäer|noun|European
 2841.0|heimisch|adjective|indigenous
 2841.001|heimisch|adjective|native
 2841.002|heimisch|adjective|at home
 2842.0|interkulturell|adjective|intercultural
 2843.0|die Stille|noun|peace
-2843.001|die Stille|noun|silence
 2844.0|der Bildschirm|noun|screen
 2844.001|der Bildschirm|noun|monitor
 2845.0|erwischen|verb|to catch
@@ -4200,7 +4371,6 @@
 2875.0|die Emotion|noun|emotion
 2876.0|die Armut|noun|poverty
 2877.0|Australien|noun|Australia
-2878.0|klagen|verb|to complain
 2879.0|schade|adverb|it’s a pity
 2880.0|die Scheibe|noun|disk
 2880.001|die Scheibe|noun|slice
@@ -4278,7 +4448,6 @@
 2927.0|Tibet|noun|Tibet
 2928.0|die Webseite|noun|website
 2929.0|widersprechen|verb|to contradict
-2930.0|der Besitzer|noun|owner
 2931.0|japanisch|adjective|Japanese
 2932.0|das Japanisch|noun|Japanese
 2933.0|ärgern|verb|to annoy
@@ -4288,7 +4457,6 @@
 2935.001|die Truppe|noun|unit
 2936.0|ausdrücklich|adjective|explicit
 2937.0|die Einschätzung|noun|opinion
-2937.001|die Einschätzung|noun|assessment
 2937.002|die Einschätzung|noun|evaluation
 2938.0|funktionell|adjective|functional
 2939.0|das Gewebe|noun|fabric
@@ -4315,7 +4483,6 @@
 2956.0|das Dänisch|noun|Danish
 2957.0|die Einladung|noun|invitation
 2958.0|die Vielzahl|noun|multitude
-2959.0|der Arbeitgeber|noun|employer
 2960.0|die Höhle|noun|cave
 2961.0|die Lücke|noun|gap
 2962.0|mehrmals|adverb|repeatedly
@@ -4324,9 +4491,7 @@
 2965.0|das Wirtschaftsforum|noun|economic forum
 2966.0|die Angelegenheit|noun|matter
 2966.001|die Angelegenheit|noun|affair
-2967.0|charakteristisch|adjective|characteristic
 2968.0|die Einnahme|noun|income
-2968.001|die Einnahme|noun|receipts
 2968.002|die Einnahme|noun|revenue
 2969.0|der Islam|noun|Islam
 2970.0|basieren|verb|to be based on
@@ -4383,7 +4548,6 @@
 3008.0|der Akteur|noun|player
 3008.001|der Akteur|noun|actor
 3009.0|entnehmen|verb|to take from
-3009.001|entnehmen|verb|to remove
 3009.002|entnehmen|verb|to withdraw
 3009.003|entnehmen|verb|to infer
 3010.0|räumen|verb|to clear
@@ -4392,7 +4556,6 @@
 3012.001|bekämpfen|verb|to combat
 3013.0|das Gehalt|noun|salary
 3014.0|der Gehalt|noun|meaning
-3014.001|der Gehalt|noun|contents
 3015.0|indes|adverb|meanwhile
 3016.0|das Motto|noun|motto
 3017.0|die Philosophie|noun|philosophy
@@ -4420,7 +4583,6 @@
 3032.001|das Vorgehen|noun|approach
 3033.0|drüben|adverb|over there
 3034.0|erschießen|verb|to shoot
-3035.0|der Nutzer|noun|user
 3036.0|die Stabilität|noun|stability
 3037.0|verringern|verb|to reduce
 3038.0|juristisch|adjective|legal
@@ -4458,7 +4620,6 @@
 3059.0|die Anerkennung|noun|recognition
 3060.0|ausgeprägt|adjective|distinct
 3060.001|ausgeprägt|adjective|pronounced
-3060.002|ausgeprägt|adjective|remarkable
 3061.0|die Autobahn|noun|expressway
 3061.001|die Autobahn|noun|motorway
 3062.0|die Formulierung|noun|formulation
@@ -4503,7 +4664,6 @@
 3089.0|die Abstimmung|noun|vote
 3089.001|die Abstimmung|noun|coordination
 3090.0|der Geschmack|noun|taste
-3091.0|nachfolgend|adjective|following
 3091.001|nachfolgend|adjective|subsequently
 3092.0|nachfolgen|verb|to follow
 3092.001|nachfolgen|verb|to succeed
@@ -4529,7 +4689,6 @@
 3107.001|das Skript|noun|lecture notes
 3108.0|vertreiben|verb|to drive out
 3108.001|vertreiben|verb|to sell
-3109.0|zugänglich|adjective|accessible
 3110.0|zurzeit|adverb|at the moment
 3111.0|versterben|verb|to pass away
 3112.0|zurückhalten|verb|to hold back
@@ -4538,7 +4697,6 @@
 3113.001|die Abweichung|noun|deviation
 3113.002|die Abweichung|noun|tolerance
 3114.0|aufsetzen|verb|to put on
-3115.0|langweilig|adjective|boring
 3116.0|nachgehen|verb|to follow
 3116.001|nachgehen|verb|to pursue
 3116.002|nachgehen|verb|to be slow
@@ -4554,14 +4712,11 @@
 3123.001|die Linke|noun|Left Party
 3124.0|neunzig|number|ninety
 3125.0|der Sänger|noun|singer
-3126.0|das Symptom|noun|symptom
 3127.0|einig|adjective|agreed
 3128.0|die Auffassung|noun|point of view
-3129.0|herum|preposition|around
 3130.0|das Kunstwerk|noun|work of art
 3131.0|das Ministerium|noun|ministry
 3131.001|das Ministerium|noun|department
-3132.0|der Österreicher|noun|Austrian
 3133.0|stellvertretend|adjective|on behalf
 3134.0|der Ursprung|noun|origin
 3135.0|mündlich|adjective|oral
@@ -4577,7 +4732,6 @@
 3142.002|die Besonderheit|noun|unique characteristic
 3143.0|das Fett|noun|fat
 3144.0|lenken|verb|to steer
-3144.001|lenken|verb|to guide
 3145.0|vorbeikommen|verb|to pass
 3146.0|cool|adjective|cool
 3147.0|kleben|verb|to stick
@@ -4611,7 +4765,6 @@
 3166.0|die Anfrage|noun|inquiry
 3166.001|die Anfrage|noun|request
 3167.0|auswirken (sich)|verb|to have an effect
-3168.0|effizient|adjective|efficient
 3169.0|erarbeiten|verb|to work for/out
 3170.0|die Platte|noun|disk
 3170.001|die Platte|noun|record
@@ -4621,7 +4774,6 @@
 3173.0|vorübergehend|adjective|temporary
 3174.0|vorübergehen|verb|to pass by
 3175.0|angucken|verb|to look
-3176.0|diskret|adjective|discreet
 3176.001|diskret|adjective|confidential
 3177.0|erstaunen|verb|to astonish
 3178.0|das Gymnasium|noun|secondary school
@@ -4633,7 +4785,6 @@
 3182.0|ökologisch|adjective|ecological
 3182.001|ökologisch|adjective|organic
 3183.0|problematisch|adjective|problematic
-3184.0|die Substitution|noun|substitution
 3184.001|die Substitution|noun|replacement
 3185.0|der Tipp|noun|tip
 3185.001|der Tipp|noun|hint
@@ -4650,13 +4801,10 @@
 3193.0|das Tempo|noun|pace
 3193.001|das Tempo|noun|speed
 3194.0|wunderschön|adjective|wonderful
-3194.001|wunderschön|adjective|lovely
-3195.0|grüßen|verb|to greet
 3196.0|der Weltmeister|noun|world champion
 3197.0|der Duft|noun|(pleasant) smell
 3197.001|der Duft|noun|fragrance
 3198.0|hinweg|adverb|(be) over
-3198.001|hinweg|adverb|for (many years)
 3199.0|aufzeigen|verb|to show
 3199.001|aufzeigen|verb|to point out
 3200.0|ausstatten|verb|to furnish
@@ -4703,7 +4851,6 @@
 3233.0|die Aktivierung|noun|activation
 3234.0|aussuchen|verb|to choose
 3235.0|die Dunkelheit|noun|darkness
-3236.0|hauen|verb|to hit
 3236.001|hauen|verb|to hew
 3236.002|hauen|verb|to slap
 3237.0|das Stadion|noun|stadium
@@ -4728,12 +4875,10 @@
 3249.001|versammeln|verb|to gather
 3250.0|wach|adjective|awake
 3251.0|der Hass|noun|hatred
-3252.0|strecken|verb|to stretch
 3253.0|telefonieren|verb|to (make a telephone) call
 3254.0|ertragen|verb|to bear
 3255.0|die Ferne|noun|distance
 3256.0|das Gelände|noun|ground
-3256.001|das Gelände|noun|site
 3257.0|das Grundstück|noun|plot of land
 3258.0|wofür|pronoun|for what
 3259.0|jederzeit|adverb|anytime
@@ -4772,7 +4917,6 @@
 3284.0|der Teller|noun|plate
 3285.0|unterrichten|verb|to teach
 3286.0|absolvieren|verb|to complete
-3286.001|absolvieren|verb|to graduate
 3287.0|einbeziehen|verb|to include
 3288.0|die Fettsäure|noun|fatty acid
 3289.0|herrlich|adjective|marvelous
@@ -4789,7 +4933,6 @@
 3297.0|radioaktiv|adjective|radioactive
 3298.0|unsicher|adjective|uncertain
 3299.0|das Wiedersehen|noun|reunion
-3300.0|wiedersehen|verb|to see again
 3301.0|das Datum|noun|date
 3302.0|der Kellner|noun|waiter
 3302.001|der Kellner|noun|waitress
@@ -4801,7 +4944,6 @@
 3306.0|fröhlich|adjective|cheerful
 3307.0|das Grab|noun|grave
 3308.0|motivieren|verb|to motivate
-3309.0|quantitativ|adjective|quantitative
 3310.0|spalten|verb|to split
 3311.0|das Vorhaben|noun|plan
 3311.001|das Vorhaben|noun|project
@@ -4811,7 +4953,6 @@
 3314.001|der Pilz|noun|fungus
 3315.0|die Route|noun|route
 3316.0|der Supermarkt|noun|supermarket
-3317.0|der Ausgang|noun|exit
 3317.001|der Ausgang|noun|outcome
 3317.002|der Ausgang|noun|starting point
 3318.0|der Beschluss|noun|decision
@@ -4827,7 +4968,6 @@
 3324.0|symmetrisch|adjective|symmetrical
 3325.0|anklagen|verb|to accuse
 3326.0|die Behinderung|noun|obstruction
-3326.001|die Behinderung|noun|handicap
 3327.0|das Dokument|noun|document
 3328.0|staunen|verb|to be astonished
 3329.0|die Varianz|noun|variance
@@ -4835,9 +4975,7 @@
 3330.001|zuwenden|verb|to devote oneself to
 3331.0|abschneiden|verb|to cut off
 3332.0|anscheinend|adjective|apparent
-3333.0|die Demonstration|noun|demonstration
 3334.0|die Linse|noun|lens
-3334.001|die Linse|noun|lentil
 3335.0|polnisch|adjective|Polish
 3336.0|das Polnisch|noun|Polish
 3337.0|der Posten|noun|post
@@ -4852,7 +4990,6 @@
 3343.0|gleiten|verb|to glide
 3344.0|Norwegen|noun|Norway
 3345.0|schildern|verb|to describe
-3346.0|der Schrank|noun|cabinet
 3346.001|der Schrank|noun|wardrobe
 3347.0|der Terrorismus|noun|terrorism
 3348.0|der Wechselkurs|noun|exchange rate
@@ -4898,7 +5035,6 @@
 3379.0|der Zaun|noun|fence
 3380.0|der Empfänger|noun|recipient
 3381.0|die Hochzeit|noun|wedding
-3382.0|maßgeblich|adjective|significant
 3382.001|maßgeblich|adjective|decisive
 3383.0|das Quartal|noun|quarter
 3384.0|die Spalte|noun|fissure
@@ -4915,7 +5051,6 @@
 3389.002|übereinstimmen|verb|to agree
 3390.0|die Unterscheidung|noun|differentiation
 3390.001|die Unterscheidung|noun|distinction
-3391.0|die Dichtung|noun|seal
 3391.001|die Dichtung|noun|literature
 3391.002|die Dichtung|noun|poetry
 3392.0|einhalten|verb|to observe
@@ -4927,7 +5062,6 @@
 3396.001|unterhalb|preposition|underneath
 3397.0|verdeutlichen|verb|to clarify
 3397.001|verdeutlichen|verb|to explain
-3398.0|der Ertrag|noun|yield
 3399.0|der Finanzminister|noun|finance minister
 3400.0|der Vormittag|noun|morning
 3401.0|achtzig|number|eighty
@@ -4946,12 +5080,9 @@
 3408.0|ausweisen|verb|to identify
 3408.001|ausweisen|verb|to expel
 3409.0|biegen|verb|to bend
-3409.001|biegen|verb|to turn
 3410.0|die Notwendigkeit|noun|necessity
-3411.0|die Reihenfolge|noun|order
 3412.0|spazieren|verb|to (go for a) walk
 3412.001|spazieren|verb|to stroll
-3413.0|verweigern|verb|to refuse
 3414.0|die Zahlung|noun|payment
 3415.0|argumentieren|verb|to argue
 3416.0|der Athlet|noun|athlete
@@ -4981,7 +5112,6 @@
 3435.0|abstrakt|adjective|abstract
 3436.0|ästhetisch|adjective|aesthetic
 3437.0|einschalten|verb|to switch on
-3438.0|der Klang|noun|sound
 3438.001|der Klang|noun|tone
 3439.0|qualifizieren|verb|to qualify
 3440.0|die Säule|noun|column
@@ -4994,14 +5124,11 @@
 3443.0|buchen|verb|to book
 3444.0|die Depression|noun|depression
 3445.0|kündigen|verb|to terminate
-3446.0|strukturell|adjective|structural
 3447.0|die Anzeige|noun|display
-3447.001|die Anzeige|noun|advertisement
 3448.0|der Chinese|noun|Chinese
 3449.0|festnehmen|verb|to arrest
 3449.001|festnehmen|verb|to detain
 3450.0|fortfahren|verb|to continue
-3450.001|fortfahren|verb|to proceed
 3450.002|fortfahren|verb|to carry on
 3451.0|realistisch|adjective|realistic
 3452.0|tödlich|adjective|fatal
@@ -5009,7 +5136,6 @@
 3454.0|verhaften|verb|to arrest
 3455.0|die Bombe|noun|bomb
 3456.0|heutzutage|adverb|nowadays
-3457.0|die Hitze|noun|heat
 3458.0|die Kammer|noun|chamber
 3458.001|die Kammer|noun|(small) room
 3459.0|notieren|verb|to note
@@ -5051,9 +5177,7 @@
 3483.0|der Schein|noun|light
 3483.001|der Schein|noun|appearance
 3483.002|der Schein|noun|certificate
-3484.0|übersehen|verb|to overlook
 3485.0|die Bedrohung|noun|threat
-3486.0|die Bereitschaft|noun|willingness
 3487.0|der Blutdruck|noun|blood pressure
 3488.0|die Front|noun|front
 3489.0|physisch|adjective|physical
@@ -5063,7 +5187,6 @@
 3491.001|die Verschiebung|noun|postponement
 3492.0|zugrunde|adverb|(form) the basis
 3492.001|zugrunde|adverb|(go) to ruin
-3493.0|abweichen|verb|to deviate
 3493.001|abweichen|verb|to differ
 3494.0|die Empfehlung|noun|recommendation
 3495.0|gespannt|adjective|eager
@@ -5148,13 +5271,11 @@
 3546.001|der Bogen|noun|arc
 3546.002|der Bogen|noun|sheet
 3547.0|die Entdeckung|noun|discovery
-3548.0|die Ferien (pl)|noun|school break
 3548.001|die Ferien (pl)|noun|vacation
 3549.0|der General|noun|general
 3550.0|die Messe|noun|(trade) fair
 3550.001|die Messe|noun|mass
 3551.0|scheiden|verb|to separate
-3551.001|scheiden|verb|to divorce
 3552.0|schlucken|verb|to swallow
 3553.0|südlich|adjective|southern
 3554.0|zurücklegen|verb|to put back
@@ -5184,7 +5305,6 @@
 3570.0|reiten|verb|to ride
 3571.0|das Smartphone|noun|smartphone
 3572.0|die Werkstatt|noun|workshop
-3572.001|die Werkstatt|noun|garage
 3573.0|die Kälte|noun|cold
 3574.0|das Kloster|noun|monastery
 3574.001|das Kloster|noun|convent
@@ -5192,9 +5312,7 @@
 3576.0|nachfragen|verb|to ask (sb)
 3576.001|nachfragen|verb|to inquire
 3577.0|die Toilette|noun|toilet
-3578.0|das Unglück|noun|misfortune
 3578.001|das Unglück|noun|disaster
-3579.0|verlegen|verb|to misplace
 3579.001|verlegen|verb|to postpone
 3580.0|die Eröffnung|noun|opening
 3581.0|die Fragestellung|noun|problem
@@ -5234,7 +5352,6 @@
 3607.0|düster|adjective|gloomy
 3608.0|freisetzen|verb|to release
 3609.0|der Kompromiss|noun|compromise
-3610.0|der Maßstab|noun|scale
 3610.001|der Maßstab|noun|yardstick
 3610.002|der Maßstab|noun|standard
 3611.0|skizzieren|verb|to outline
@@ -5303,7 +5420,6 @@
 3654.001|aufwendig|adjective|costly
 3655.0|einschätzen|verb|to judge
 3655.001|einschätzen|verb|to assess
-3656.0|die Kapazität|noun|capacity
 3657.0|der Regierungschef|noun|head of government
 3658.0|regnen|verb|to rain
 3659.0|der Rohstoff|noun|raw material
@@ -5335,7 +5451,6 @@
 3680.0|der Vorfall|noun|incident
 3681.0|das Vorfeld|noun|advance
 3682.0|die Ankunft|noun|arrival
-3683.0|die Auflösung|noun|dissolving
 3683.001|die Auflösung|noun|dissolution
 3683.002|die Auflösung|noun|breaking up
 3684.0|ausweichen|verb|to make way
@@ -5352,17 +5467,14 @@
 3691.0|der Berater|noun|advisor
 3691.001|der Berater|noun|consultant
 3692.0|erregen|verb|to arouse
-3692.001|erregen|verb|to attract
 3692.002|erregen|verb|to excite
 3693.0|letztendlich|adverb|ultimately
-3694.0|proportional|adjective|proportional
 3695.0|erschöpfen|verb|to exhaust
 3696.0|die Frist|noun|time period
 3696.001|die Frist|noun|deadline
 3697.0|gegenüberstehen|verb|to face
 3698.0|operativ|adjective|operative
 3699.0|der Proband|noun|subject
-3699.001|der Proband|noun|test person
 3700.0|die Qualifikation|noun|qualification
 3701.0|die Schlange|noun|snake
 3701.001|die Schlange|noun|line
@@ -5377,7 +5489,6 @@
 3707.001|gefangen|adjective|captured
 3707.002|gefangen|adjective|caught
 3708.0|das Hobby|noun|hobby
-3709.0|das Möbel|noun|furniture
 3710.0|nerven|verb|to annoy
 3711.0|restlich|adjective|remaining
 3712.0|die Sanktion|noun|sanction
@@ -5419,7 +5530,6 @@
 3739.0|werten|verb|to rate
 3739.001|werten|verb|to judge
 3740.0|geographisch|adjective|geographic
-3741.0|der Hang|noun|slope
 3741.001|der Hang|noun|inclination
 3742.0|Ägypten|noun|Egypt
 3743.0|der Applaus|noun|applause
@@ -5429,7 +5539,6 @@
 3746.0|rauschen|verb|to rustle
 3746.001|rauschen|verb|to roar
 3746.002|rauschen|verb|to rush
-3747.0|tauschen|verb|to exchange
 3747.001|tauschen|verb|to change
 3747.002|tauschen|verb|to swap
 3747.003|tauschen|verb|to switch
@@ -5474,7 +5583,6 @@
 3770.001|der Hörer|noun|receiver
 3771.0|der Prinz|noun|prince
 3772.0|der Radius|noun|radius
-3773.0|das Schaf|noun|sheep
 3774.0|schuldig|adjective|guilty
 3775.0|das Tagebuch|noun|diary
 3776.0|zielen|verb|to aim
@@ -5497,14 +5605,12 @@
 3787.0|hierzulande|adverb|in these parts
 3787.001|hierzulande|adverb|in this country
 3787.002|hierzulande|adverb|round here
-3788.0|physiologisch|adjective|physiological
 3789.0|die Unternehmung|noun|company
 3789.001|die Unternehmung|noun|venture
 3789.002|die Unternehmung|noun|enterprise
 3790.0|vorlesen|verb|to read sth to sb
 3791.0|berechtigen|verb|to entitle
 3792.0|der Bruch|noun|fracture
-3792.001|der Bruch|noun|break
 3793.0|endlos|adjective|endless
 3793.001|endlos|adjective|infinite
 3794.0|die Erweiterung|noun|expansion
@@ -5529,7 +5635,6 @@
 3806.001|der Strich|noun|line
 3807.0|der Wirt|noun|host
 3807.001|der Wirt|noun|innkeeper
-3808.0|die Addition|noun|addition
 3808.001|die Addition|noun|summation
 3809.0|besagen|verb|to say
 3810.0|die Geduld|noun|patience
@@ -5552,7 +5657,6 @@
 3821.0|eigenständig|adjective|independent
 3822.0|elegant|adjective|elegant
 3823.0|die Haftung|noun|liability
-3824.0|mutmaßlich|adjective|presumed
 3824.001|mutmaßlich|adjective|suspected
 3825.0|vergleichsweise|adverb|comparatively
 3826.0|vermehrt|adjective|increased
@@ -5569,7 +5673,6 @@
 3833.0|asymmetrisch|adjective|asymmetric
 3834.0|bescheiden|adjective|modest
 3835.0|entfallen|verb|to slip (sb’s mind)
-3835.001|entfallen|verb|to be dropped
 3836.0|die FIFA|noun|FIFA
 3837.0|die Hemmung|noun|inhibition
 3838.0|das Schlafzimmer|noun|bedroom
@@ -5577,7 +5680,6 @@
 3840.0|die Wunde|noun|wound
 3841.0|achtzehn|number|eighteen
 3842.0|das Chaos|noun|chaos
-3843.0|die Krone|noun|crown
 3844.0|reiben|verb|to rub
 3845.0|der Reporter|noun|reporter
 3846.0|der Schluck|noun|sip
@@ -5624,7 +5726,6 @@
 3876.0|ausprobieren|verb|to try out
 3877.0|bewerben (sich)|verb|to apply
 3878.0|erhoffen|verb|to expect
-3878.001|erhoffen|verb|to hope for
 3879.0|die Feder|noun|feather
 3880.0|die Feuerwehr|noun|fire brigade
 3881.0|fixieren|verb|to fixate on sb/sth
@@ -5632,10 +5733,7 @@
 3883.0|das Heim|noun|home
 3883.001|das Heim|noun|institution
 3884.0|heranziehen|verb|to consult
-3884.001|heranziehen|verb|to draw near
-3885.0|das Image|noun|image
 3886.0|der Koch|noun|cook
-3887.0|der Stadtteil|noun|district
 3888.0|der Träger|noun|strap
 3888.001|der Träger|noun|holder
 3888.002|der Träger|noun|responsible body
@@ -5660,10 +5758,7 @@
 3902.001|der Stoß|noun|shock
 3903.0|der Unsinn|noun|nonsense
 3904.0|die Wahlperiode|noun|term
-3905.0|blockieren|verb|to block
 3906.0|das Defizit|noun|deficit
-3907.0|die Dynamik|noun|dynamics
-3908.0|nirgendwo|adverb|nowhere
 3909.0|umarmen|verb|to embrace
 3910.0|die Vernunft|noun|reason
 3911.0|die Anregung|noun|stimulus
@@ -5674,7 +5769,6 @@
 3915.0|der Krebs|noun|cancer
 3916.0|der Kühlschrank|noun|fridge
 3917.0|lächerlich|adjective|ridiculous
-3918.0|die Airline|noun|airline
 3919.0|der Akt|noun|act
 3920.0|außerordentlich|adjective|extraordinary
 3921.0|der Empfang|noun|reception
@@ -5682,7 +5776,6 @@
 3923.0|der Nacken|noun|neck
 3924.0|der Republikaner|noun|Republican
 3925.0|der Rhythmus|noun|rhythm
-3926.0|unerwartet|adjective|unexpected
 3927.0|die Unterschrift|noun|signature
 3928.0|anfallen|verb|to attack
 3928.001|anfallen|verb|to accumulate
@@ -5706,8 +5799,6 @@
 3940.001|schleichen|verb|to prowl
 3940.002|schleichen|verb|to sneak
 3941.0|zulegen|verb|to gain
-3941.001|zulegen|verb|to put on
-3941.002|zulegen|verb|to get
 3942.0|der Aktionär|noun|shareholder
 3943.0|auseinandersetzen|verb|to deal with
 3944.0|bestrafen|verb|to punish
@@ -5748,13 +5839,10 @@
 3972.002|überziehen|verb|to overdraw
 3973.0|zumeist|adverb|for the most part
 3974.0|gemütlich|adjective|comfortable
-3974.001|gemütlich|adjective|cozy
 3975.0|der Spanier|noun|Spaniard
 3976.0|das Zeitalter|noun|age
-3976.001|das Zeitalter|noun|period
 3977.0|ausstrecken|verb|to stretch (out)
 3978.0|blass|adjective|pale
-3979.0|irritieren|verb|to irritate
 3979.001|irritieren|verb|to confuse
 3980.0|der Jurist|noun|jurist
 3980.001|der Jurist|noun|lawyer
@@ -5779,7 +5867,6 @@
 3996.0|romantisch|adjective|romantic
 3997.0|das Substrat|noun|substrate
 3998.0|erlangen|verb|to obtain
-3998.001|erlangen|verb|to secure
 3999.0|zumachen|verb|to close
 3999.001|zumachen|verb|to shut down
 4000.0|ausstellen|verb|to display
@@ -5791,7 +5878,6 @@
 4003.0|zart|adjective|tender
 4004.0|der Zwang|noun|force
 4004.001|der Zwang|noun|pressure
-4004.002|der Zwang|noun|compulsion
 4005.0|der Engländer|noun|Englishman
 4005.001|der Engländer|noun|English
 4006.0|die Münze|noun|coin
@@ -5802,7 +5888,6 @@
 4010.0|der Beobachter|noun|observer
 4011.0|der Durchmesser|noun|diameter
 4012.0|die Oper|noun|opera
-4013.0|satt|adjective|full
 4013.001|satt|adjective|fed up
 4014.0|die SPÖ (Sozialdemokratische Partei Österreichs)|noun
 4015.0|symbolisch|adjective|symbolic
@@ -5826,13 +5911,11 @@
 4029.0|ermorden|verb|to murder
 4029.001|ermorden|verb|to kill
 4030.0|geometrisch|adjective|geometric
-4031.0|die Geschwister (pl)|noun|siblings
 4032.0|kleiden|verb|to dress
 4033.0|ragen|verb|to protrude
 4034.0|der Staub|noun|dust
 4035.0|unwahrscheinlich|adjective|improbable
 4035.001|unwahrscheinlich|adjective|unlikely
-4036.0|au|interjection|ouch
 4037.0|aufgreifen|verb|to take up
 4038.0|beauftragen|verb|to give sb the task of doing sth
 4038.001|beauftragen|verb|to hire (a firm)
@@ -5875,7 +5958,6 @@
 4064.0|ablenken|verb|to distract
 4064.001|ablenken|verb|to deflect
 4065.0|bemerkenswert|adjective|remarkable
-4066.0|das Camp|noun|camp
 4067.0|der Daumen|noun|thumb
 4068.0|einseitig|adjective|one-sided
 4069.0|lauschen|verb|to listen
@@ -5883,7 +5965,6 @@
 4070.0|nachvollziehen|verb|to understand
 4070.001|nachvollziehen|verb|to relate to sth
 4071.0|Nordrhein-Westfalen|noun|North Rhine-Westphalia
-4072.0|der Verstand|noun|reason
 4073.0|zugunsten|preposition|in favor of
 4074.0|anmerken|verb|to remark
 4074.001|anmerken|verb|to notice
@@ -5899,7 +5980,6 @@
 4080.001|die Quote|noun|quota
 4080.002|die Quote|noun|ratio
 4081.0|die Vorlage|noun|draft
-4081.001|die Vorlage|noun|model
 4081.002|die Vorlage|noun|submission
 4082.0|das Vorzeichen|noun|sign
 4082.001|das Vorzeichen|noun|omen
@@ -5937,7 +6017,6 @@
 4106.001|gewissermaßen|adverb|as it were
 4107.0|der Ingenieur|noun|engineer
 4108.0|das Manuskript|noun|manuscript
-4109.0|die Nacherfüllung|noun|supplementary performance
 4110.0|sachlich|adjective|objective
 4110.001|sachlich|adjective|matter-of-fact
 4111.0|der Ausschuss|noun|committee
@@ -5949,19 +6028,15 @@
 4115.001|anweisen|verb|to instruct
 4115.002|anweisen|verb|to direct
 4116.0|der Ausflug|noun|excursion
-4116.001|der Ausflug|noun|trip
 4117.0|außergewöhnlich|adjective|unusual
 4117.001|außergewöhnlich|adjective|extraordinary
 4118.0|die Baustelle|noun|building site
 4118.001|die Baustelle|noun|construction site
-4119.0|der Index|noun|index
 4120.0|der Kasten|noun|box
 4120.001|der Kasten|noun|crate
 4121.0|Kölner|adjective|Cologne
-4122.0|der Pariser|noun|Parisian
 4122.001|der Pariser|noun|condom
 4123.0|schimpfen|verb|to scold
-4123.001|schimpfen|verb|to rant
 4124.0|die Sicherung|noun|protection
 4124.001|die Sicherung|noun|fuse
 4125.0|die Steigung|noun|ascent
@@ -5971,12 +6046,10 @@
 4128.0|der Balkon|noun|balcony
 4129.0|bar|adjective|cash
 4130.0|das Business|noun|business
-4131.0|das Duell|noun|duel
 4132.0|erfreuen|verb|to please
 4132.001|erfreuen|verb|to delight
 4133.0|erschließen|verb|to develop
 4133.001|erschließen|verb|to tap
-4133.002|erschließen|verb|to make out
 4134.0|das Gewehr|noun|rifle
 4134.001|das Gewehr|noun|shotgun
 4135.0|das Mittelmeer|noun|Mediterranean Sea
@@ -5992,12 +6065,10 @@
 4142.0|die Geographie|noun|geography
 4143.0|das Lebewesen|noun|living being
 4144.0|der Ozean|noun|ocean
-4145.0|Pakistan|noun|Pakistan
 4146.0|Rheinland-Pfalz|noun|Rhineland-Palatinate
 4147.0|der Sektor|noun|sector
 4148.0|umsonst|adverb|for free
 4148.001|umsonst|adverb|in vain
-4149.0|verdächtig|adjective|suspicious
 4150.0|zuverlässig|adjective|reliable
 4151.0|abheben|verb|to take off
 4151.001|abheben|verb|to withdraw
@@ -6017,7 +6088,6 @@
 4157.001|der Mediziner|noun|physician
 4158.0|der Tunnel|noun|tunnel
 4159.0|der Assistent|noun|assistant
-4160.0|die Differenzierung|noun|differentiation
 4161.0|drastisch|adjective|drastic
 4162.0|gleichmäßig|adjective|regular
 4162.001|gleichmäßig|adjective|even
@@ -6028,13 +6098,11 @@
 4166.0|molekular|adjective|molecular
 4167.0|die Nachbarschaft|noun|neighborhood
 4168.0|der Siedepunkt|noun|boiling point
-4169.0|stationär|adjective|inpatient
 4169.001|stationär|adjective|fixed
 4169.002|stationär|adjective|stationary
 4170.0|die Taliban (pl)|noun|Taliban
 4171.0|brutal|adjective|brutal
 4172.0|ehrenamtlich|adjective|honorary
-4172.001|ehrenamtlich|adjective|voluntary
 4173.0|großzügig|adjective|generous
 4174.0|die Redaktion|noun|editorial work
 4174.001|die Redaktion|noun|editorial staff
@@ -6059,7 +6127,6 @@
 4186.001|die Sorte|noun|variety
 4187.0|zueinander|adverb|to one another
 4188.0|der Container|noun|container
-4189.0|gelassen|adjective|calm
 4189.001|gelassen|adjective|composed
 4190.0|live|adjective|live
 4191.0|die Mutation|noun|mutation
@@ -6086,7 +6153,6 @@
 4204.0|der Eintritt|noun|entry
 4204.001|der Eintritt|noun|admission
 4205.0|die Geliebte|noun|lover
-4206.0|das Gramm|noun|gram
 4207.0|die Hüfte|noun|hip
 4208.0|neulich|adverb|recently
 4208.001|neulich|adverb|the other day
@@ -6103,7 +6169,6 @@
 4214.0|der Gründer|noun|founder
 4215.0|das Orchester|noun|orchestra
 4216.0|regulär|adjective|regular
-4216.001|regulär|adjective|normal
 4217.0|der Türke|noun|Turk
 4218.0|ukrainisch|adjective|Ukrainian
 4219.0|unterdrücken|verb|to suppress
@@ -6112,7 +6177,6 @@
 4220.002|unterteilen|verb|to partition
 4221.0|verziehen|verb|to distort
 4221.001|verziehen|verb|to twist
-4222.0|die Bestellung|noun|order
 4222.001|die Bestellung|noun|reservation
 4223.0|einschließlich|preposition|including
 4224.0|das Glied|noun|limb
@@ -6121,13 +6185,11 @@
 4225.0|die Migration|noun|migration
 4226.0|der Roboter|noun|robot
 4227.0|die Bitte|noun|request
-4228.0|die Blüte|noun|blossom
 4229.0|elektromagnetisch|adjective|electromagnetic
 4230.0|inmitten|adverb|in the midst of
 4231.0|abschließend|adverb|concluding
 4231.001|abschließend|adverb|final
 4232.0|aufschlagen|verb|to open
-4232.001|aufschlagen|verb|to serve
 4232.002|aufschlagen|verb|to pitch
 4233.0|die Glocke|noun|bell
 4234.0|die Informatik|noun|computer science
@@ -6173,13 +6235,11 @@
 4261.0|variieren|verb|to vary
 4262.0|der Löwe|noun|lion
 4263.0|der Operator|noun|operator
-4264.0|die Partnerschaft|noun|partnership
 4265.0|das Pfund|noun|pound
 4266.0|die Unterhaltung|noun|entertainment
 4266.001|die Unterhaltung|noun|conversation
 4267.0|zerfallen|verb|to fall apart
 4267.001|zerfallen|verb|to disintegrate
-4267.002|zerfallen|verb|to decay
 4267.003|zerfallen|verb|to decline
 4268.0|zustande|adverb|(come/bring) about
 4269.0|ablösen|verb|to take over
@@ -6209,13 +6269,11 @@
 4283.0|die UNO (Vereinte Nationen)|noun|UN
 4284.0|woanders|adverb|somewhere else
 4285.0|ablesen|verb|to read
-4286.0|anzünden|verb|to light
 4287.0|ärztlich|adjective|medical
 4288.0|der Fürst|noun|prince
 4289.0|geschickt|adjective|skilled
 4290.0|mittelalterlich|adjective|medieval
 4291.0|repräsentieren|verb|to represent
-4292.0|das Rezept|noun|recipe
 4292.001|das Rezept|noun|prescription
 4293.0|der Sack|noun|sack
 4293.001|der Sack|noun|bag
@@ -6264,7 +6322,6 @@
 4322.001|die Terrasse|noun|patio
 4323.0|aufsuchen|verb|to see
 4323.001|aufsuchen|verb|to visit
-4324.0|forschen|verb|to research
 4324.001|forschen|verb|to do research
 4325.0|der Gesetzentwurf|noun|bill
 4325.001|der Gesetzentwurf|noun|draft law
@@ -6319,7 +6376,6 @@
 4361.002|vernehmen|verb|to question
 4362.0|erstrecken (sich)|verb|to extend
 4362.001|erstrecken (sich)|verb|to include
-4363.0|der Genosse|noun|comrade
 4364.0|öh|interjection|uh
 4365.0|Thüringer|adjective|Thuringian
 4366.0|vortragen|verb|to present
@@ -6359,7 +6415,6 @@
 4390.0|irren (sich)|verb|to err
 4390.001|irren (sich)|verb|to be wrong
 4391.0|kriminell|adjective|criminal
-4392.0|verfallen|verb|to decay
 4392.001|verfallen|verb|to deteriorate
 4392.002|verfallen|verb|to expire
 4393.0|vorzeitig|adjective|early
@@ -6384,7 +6439,6 @@
 4404.001|spürbar|adjective|perceptible
 4405.0|der Stall|noun|stable
 4406.0|die Arbeitskraft|noun|manpower
-4406.001|die Arbeitskraft|noun|worker
 4407.0|die Bibel|noun|Bible
 4408.0|die Gemeinsamkeit|noun|commonality
 4408.001|die Gemeinsamkeit|noun|common feature
@@ -6394,7 +6448,6 @@
 4412.0|eilen|verb|to hurry
 4413.0|fügen (sich)|verb|to comply
 4413.001|fügen (sich)|verb|to defer to
-4413.002|fügen (sich)|verb|to resign oneself to
 4414.0|heuer|adverb|this year
 4415.0|die Hölle|noun|hell
 4416.0|quadratisch|adjective|square
@@ -6418,7 +6471,6 @@
 4427.002|nachkommen|verb|to come after
 4428.0|der Diabetes|noun|diabetes
 4429.0|die Fotografie|noun|photography
-4430.0|die Galerie|noun|gallery
 4431.0|die Haft|noun|detention
 4431.001|die Haft|noun|confinement
 4432.0|die Malerei|noun|painting
@@ -6509,7 +6561,6 @@
 4495.0|der Rentner|noun|pensioner
 4496.0|die Skala|noun|scale
 4496.001|die Skala|noun|dial
-4496.002|die Skala|noun|range
 4497.0|sogleich|adverb|immediately
 4498.0|das Substantiv|noun|noun
 4499.0|das Testament|noun|will
@@ -6521,20 +6572,16 @@
 4503.0|gänzlich|adjective|entirely
 4504.0|das Gremium|noun|committee
 4505.0|hinunter|adverb|down
-4506.0|soeben|adverb|just
-4507.0|die Sportart|noun|(type of) sport
 4507.001|die Sportart|noun|discipline
 4508.0|Tirol|noun|Tyrol
 4509.0|die Zuordnung|noun|classification
 4509.001|die Zuordnung|noun|assignment
 4510.0|asiatisch|adjective|Asian
-4511.0|die Biografie|noun|biography
 4512.0|blutig|adjective|bloody
 4513.0|der Erwerb|noun|acquisition
 4513.001|der Erwerb|noun|purchase
 4514.0|das Hindernis|noun|obstacle
 4515.0|inwieweit|adverb|to what extent
-4516.0|römisch|adjective|Roman
 4517.0|weitaus|adverb|much
 4517.001|weitaus|adverb|far
 4518.0|die Wiedervereinigung|noun|reunification
@@ -6558,7 +6605,6 @@
 4533.0|zwischendurch|adverb|occasionally
 4533.001|zwischendurch|adverb|in between
 4534.0|der Autofahrer|noun|driver
-4534.001|der Autofahrer|noun|motorist
 4535.0|benehmen|verb|to behave
 4536.0|der Einzelfall|noun|individual case
 4537.0|gängig|adjective|common
@@ -6578,7 +6624,6 @@
 4548.0|Brandenburg|noun|Brandenburg
 4549.0|das Diagramm|noun|diagram
 4550.0|die Erleichterung|noun|relief
-4551.0|der Historiker|noun|historian
 4552.0|innovativ|adjective|innovative
 4553.0|kollektiv|adjective|collective
 4554.0|nüchtern|adjective|sober
@@ -6589,9 +6634,7 @@
 4558.0|das Zeugnis|noun|report
 4558.001|das Zeugnis|noun|certificate
 4558.002|das Zeugnis|noun|testimony
-4559.0|anmachen|verb|to turn on
 4560.0|die App|noun|app
-4561.0|derzeitig|adjective|current
 4562.0|der Einblick|noun|insight
 4563.0|eingeben|verb|to enter
 4563.001|eingeben|verb|to input
@@ -6619,14 +6662,12 @@
 4576.0|anstelle|preposition|instead of
 4577.0|beleidigen|verb|to insult
 4578.0|der Diener|noun|servant
-4579.0|konventionell|adjective|conventional
 4580.0|das Neutron|noun|neutron
 4581.0|organisatorisch|adjective|organizational
 4582.0|reif|adjective|ripe
 4583.0|der Stab|noun|staff
 4584.0|überholen|verb|to pass
 4584.001|überholen|verb|to overhaul
-4585.0|vorangehen|verb|to precede
 4585.001|vorangehen|verb|to lead (the way)
 4586.0|anderswo|adverb|elsewhere
 4587.0|empfindlich|adjective|sensitive
@@ -6668,7 +6709,6 @@
 4609.0|rational|adjective|rational
 4610.0|das Vergnügen|noun|pleasure
 4611.0|fließend|adjective|fluent
-4611.001|fließend|adjective|fluid
 4611.002|fließend|adjective|flowing
 4612.0|konsumieren|verb|to consume
 4613.0|naturwissenschaftlich|adjective|scientific
@@ -6750,7 +6790,6 @@
 4668.0|nachlassen|verb|to decrease
 4668.001|nachlassen|verb|to decline
 4668.002|nachlassen|verb|to let up
-4669.0|nebenan|adverb|next door
 4670.0|das TV|noun|TV
 4671.0|bestens|adverb|optimally
 4671.001|bestens|adverb|very well
@@ -6810,7 +6849,6 @@
 4702.002|ausdenken|verb|to make up
 4703.0|fähig|adjective|able
 4704.0|füttern|verb|to feed
-4705.0|der Gesetzgeber|noun|legislator
 4705.001|der Gesetzgeber|noun|legislature
 4706.0|koppeln|verb|to couple
 4706.001|koppeln|verb|to link
@@ -6823,7 +6861,6 @@
 4711.0|austreten|verb|to resign
 4711.001|austreten|verb|to leave
 4711.002|austreten|verb|to leak out
-4712.0|bekanntlich|adverb|as is well known
 4713.0|der Main|noun|Main (river)
 4714.0|neuerdings|adverb|recently
 4715.0|die Pension|noun|pension
@@ -6834,7 +6871,6 @@
 4719.0|unterdessen|adverb|meanwhile
 4719.001|unterdessen|adverb|in the meantime
 4720.0|willen|preposition|for the sake of
-4721.0|der Atomkern|noun|(atomic) nucleus
 4722.0|ausgesprochen|adjective|pronounced
 4722.001|ausgesprochen|adjective|expressed
 4722.002|ausgesprochen|adjective|exceptional
@@ -6862,7 +6898,6 @@
 4738.0|der Sozialdemokrat|noun|Social Democrat
 4739.0|strukturieren|verb|to structure
 4740.0|die Allianz|noun|alliance
-4741.0|die Arbeitslosenquote|noun|unemployment rate
 4742.0|backen|verb|to bake
 4743.0|der Benutzer|noun|user
 4744.0|das Ehepaar|noun|(married) couple
@@ -6882,7 +6917,6 @@
 4755.0|färben|verb|to color
 4755.001|färben|verb|to dye
 4756.0|das Gutachten|noun|report
-4756.001|das Gutachten|noun|(expert) opinion
 4757.0|der Kämpfer|noun|fighter
 4757.001|der Kämpfer|noun|combatant
 4758.0|das Klo|noun|toilet
@@ -6899,8 +6933,6 @@
 4767.0|der Beleg|noun|proof
 4767.001|der Beleg|noun|evidence
 4767.002|der Beleg|noun|receipt
-4768.0|die Blase|noun|blister
-4768.001|die Blase|noun|bladder
 4768.002|die Blase|noun|bubble
 4769.0|die Energiewirtschaft|noun|energy industry
 4770.0|das Halbfinale|noun|semi-final
@@ -6910,7 +6942,6 @@
 4772.0|die Rezeption|noun|reception
 4773.0|das Tennis|noun|tennis
 4774.0|das Entwicklungsland|noun|developing nation
-4775.0|die Jagd|noun|hunt
 4775.001|die Jagd|noun|chase
 4776.0|die Puppe|noun|doll
 4776.001|die Puppe|noun|puppet
@@ -6932,12 +6963,10 @@
 4785.001|glänzen|verb|to glisten
 4786.0|die Instanz|noun|instance
 4787.0|meiden|verb|to avoid
-4788.0|optimistisch|adjective|optimistic
 4789.0|das Segment|noun|segment
 4790.0|widerspiegeln|verb|to reflect
 4791.0|der Zyklus|noun|cycle
 4792.0|abgehen|verb|to come off
-4792.001|abgehen|verb|to go off
 4792.002|abgehen|verb|to exit
 4792.003|abgehen|verb|to leave
 4793.0|die Ähnlichkeit|noun|similarity
@@ -6955,7 +6984,6 @@
 4800.0|nächtlich|adjective|nocturnal
 4801.0|die Realisierung|noun|implementation
 4801.001|die Realisierung|noun|realization
-4802.0|der Rechtsanwalt|noun|lawyer
 4803.0|der Rekord|noun|record
 4804.0|wiedergeben|verb|to report
 4804.001|wiedergeben|verb|to reproduce
@@ -6980,7 +7008,6 @@
 4818.0|worüber|pronoun|what about
 4819.0|der Zerfall|noun|disintegration
 4819.001|der Zerfall|noun|collapse
-4819.002|der Zerfall|noun|decay
 4820.0|der Zweig|noun|branch
 4820.001|der Zweig|noun|twig
 4821.0|abreisen|verb|to depart
@@ -7000,11 +7027,9 @@
 4832.0|zusammenbrechen|verb|to collapse
 4832.001|zusammenbrechen|verb|to break down
 4833.0|die Attacke|noun|attack
-4834.0|ausnutzen|verb|to exploit
 4834.001|ausnutzen|verb|to take advantage of
 4835.0|der Demonstrant|noun|demonstrator
 4836.0|die Ehefrau|noun|wife
-4837.0|höflich|adjective|polite
 4838.0|das Insekt|noun|insect
 4839.0|die Konjunktur|noun|economy
 4839.001|die Konjunktur|noun|economic situation
@@ -7023,18 +7048,15 @@
 4847.002|die Festlegung|noun|fixing
 4848.0|das Forum|noun|forum
 4848.001|das Forum|noun|audience
-4848.002|das Forum|noun|public discussion
 4849.0|das Geschäftsjahr|noun|financial year
 4850.0|das Mitleid|noun|pity
 4851.0|muslimisch|adjective|Muslim
 4852.0|der Spezialist|noun|specialist
 4853.0|üblicherweise|adverb|usually
-4854.0|verhängen|verb|to impose
 4855.0|verstummen|verb|to fall silent
 4856.0|visuell|adjective|visual
 4857.0|das Wohl|noun|well-being
 4858.0|zerlegen|verb|to dismantle
-4858.001|zerlegen|verb|to take apart
 4859.0|abzeichnen (sich)|verb|to emerge
 4860.0|antreffen|verb|to find
 4860.001|antreffen|verb|to encounter
@@ -7062,13 +7084,11 @@
 4873.0|ausschalten|verb|to turn off
 4874.0|dreizehn|number|thirteen
 4875.0|einbinden|verb|to involve
-4875.001|einbinden|verb|to integrate
 4876.0|das Fieber|noun|fever
 4877.0|gießen|verb|to water
 4877.001|gießen|verb|to pour
 4878.0|die Hauptsache|noun|main thing
 4879.0|kassieren|verb|to collect
-4879.001|kassieren|verb|to take the money
 4880.0|der Komponist|noun|composer
 4881.0|die Korrektur|noun|correction
 4881.001|die Korrektur|noun|adjustment
@@ -7117,10 +7137,8 @@
 4911.0|legal|adjective|legal
 4912.0|der Pfad|noun|path
 4912.001|der Pfad|noun|trail
-4913.0|riskieren|verb|to risk
 4914.0|silbern|adjective|silver
 4915.0|die Teilung|noun|division
-4915.001|die Teilung|noun|separation
 4915.002|die Teilung|noun|partition
 4916.0|die Überwachung|noun|surveillance
 4917.0|die Anatomie|noun|anatomy
@@ -7148,7 +7166,6 @@
 4934.0|ungleich|adjective|dissimilar
 4934.001|ungleich|adjective|unequal
 4935.0|verlässlich|adjective|reliable
-4936.0|abschalten|verb|to switch off
 4936.001|abschalten|verb|to turn off
 4937.0|blättern|verb|to turn
 4937.001|blättern|verb|to flip
@@ -7187,7 +7204,6 @@
 4956.002|aufziehen|verb|to wind (up)
 4957.0|einreichen|verb|to submit
 4958.0|faul|adjective|lazy
-4959.0|das Fell|noun|fur
 4959.001|das Fell|noun|coat
 4959.002|das Fell|noun|skin
 4960.0|mitspielen|verb|to play
@@ -7224,10 +7240,8 @@
 4979.0|behindern|verb|to obstruct
 4979.001|behindern|verb|to impede
 4980.0|beträchtlich|adjective|considerable
-4981.0|die Ewigkeit|noun|eternity
 4982.0|die Größenordnung|noun|scale
 4982.001|die Größenordnung|noun|size
-4982.002|die Größenordnung|noun|magnitude
 4983.0|hinfahren|verb|to go
 4983.001|hinfahren|verb|to drive there
 4984.0|die Metropole|noun|metropolis
@@ -7237,10 +7251,8 @@
 4986.001|der Reiter|noun|rider
 4987.0|spinnen|verb|to spin
 4987.001|spinnen|verb|to be crazy
-4988.0|das Trinken|noun|drink
 4988.001|das Trinken|noun|drinking
 4989.0|verkehren|verb|to socialize
-4989.001|verkehren|verb|to consort
 4990.0|verwundern|verb|to surprise
 4990.001|verwundern|verb|to amaze
 4990.002|verwundern|verb|to astonish
@@ -7257,7 +7269,6 @@
 4998.0|der Irrtum|noun|error
 4998.001|der Irrtum|noun|misconception
 4999.0|das Isotop|noun|isotope
-5000.0|das Kissen|noun|pillow
 5000.001|das Kissen|noun|cushion
 5001.0|der Römer|noun|Roman
 5002.0|der Specht|noun|woodpecker
@@ -7274,11 +7285,8 @@
 5009.0|ausstrahlen|verb|to radiate
 5009.001|ausstrahlen|verb|to broadcast
 5010.0|beeinträchtigen|verb|to affect
-5010.001|beeinträchtigen|verb|to impair
 5011.0|die Fluggesellschaft|noun|airline
-5012.0|gläubig|adjective|religious
 5012.001|gläubig|adjective|devout
-5013.0|heilen|verb|to heal
 5013.001|heilen|verb|to cure
 5014.0|die Kündigung|noun|termination
 5014.001|die Kündigung|noun|cancellation
@@ -7293,7 +7301,6 @@
 5020.001|die Ergänzung|noun|addition
 5021.0|ernten|verb|to harvest
 5022.0|die Jury|noun|jury
-5023.0|der Kumpel|noun|pal
 5024.0|nominal|adjective|nominal
 5025.0|die Ratte|noun|rat
 5026.0|sechzehn|number|sixteen
@@ -7336,11 +7343,9 @@
 5050.0|jüngst|adverb|recent
 5051.0|die Kopie|noun|copy
 5052.0|die Population|noun|population
-5053.0|das Referendum|noun|referendum
 5054.0|simpel|adjective|simple
 5055.0|tasten|verb|to fumble
 5055.001|tasten|verb|to feel
-5056.0|der Umzug|noun|move
 5057.0|uralt|adjective|ancient
 5058.0|zusammenhalten|verb|to hold together
 5058.001|zusammenhalten|verb|to stick together
@@ -7355,12 +7360,10 @@
 5065.0|der Funke|noun|spark
 5066.0|fürchterlich|adjective|terrible
 5067.0|norwegisch|adjective|Norwegian
-5068.0|die Reiche|noun|rich
 5069.0|die Skulptur|noun|sculpture
 5070.0|der Stadtrat|noun|city council
 5071.0|der Verweis|noun|reference
 5071.001|der Verweis|noun|reprimand
-5072.0|Zürcher|adjective|Zurich
 5073.0|die Beachtung|noun|attention
 5073.001|die Beachtung|noun|consideration
 5073.002|die Beachtung|noun|compliance
@@ -7379,7 +7382,6 @@
 5082.0|das Obst|noun|fruit
 5083.0|der Ofen|noun|oven
 5083.001|der Ofen|noun|furnace
-5084.0|offenbaren|verb|to reveal
 5085.0|der Redakteur|noun|editor
 5086.0|die Sehne|noun|tendon
 5087.0|der Spalt|noun|crack
@@ -7412,7 +7414,6 @@
 5104.001|das Präparat|noun|compound
 5105.0|die Rettung|noun|rescue
 5105.001|die Rettung|noun|salvation
-5106.0|die Ruine|noun|ruin
 5107.0|die Tablette|noun|tablet
 5107.001|die Tablette|noun|pill
 5108.0|verdecken|verb|to cover
@@ -7420,4 +7421,3 @@
 5109.0|verzögern|verb|to delay
 5110.0|die Zivilisation|noun|civilization
 5111.0|zuversichtlich|adjective|confident
-5111.001|zuversichtlich|adjective|hopeful
