@@ -26,7 +26,7 @@ class PATH:
     DATA = PWD / "de-en" / "data"
     DECK = DE_EN / "deck.csv"
     EXTRA = DATA / "extra.csv"
-    DECK_RAW = DATA / "deck-raw.csv"
+    DECK_RAW = DATA / "deck-raw-4o.csv"
     WORD_COUNT = DATA / "word-count.csv"
     WORDS_BAD_BASEFORM = DATA / "words-bad-baseform.csv"
     WORDS_TOO_FREQUENT = DATA / "words-too-frequent.csv"
@@ -63,6 +63,12 @@ ARTICLES_FULL = ["die", "der", "das"]
 LEMMATIZED_SEP = ";"
 
 MAX_OCCURENCES = 3
+
+PART_SIZE = 80
+
+PART_COUNT_PER_ITERATION = 15
+
+MODEL = "gpt-4o-mini"
 
 
 def normalize_index_single(index: float):
@@ -556,9 +562,11 @@ def prepare_requests():
 
         I'll provide input in the next messages.
         """
+    
     deck_raw = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
     deck_raw_no_data = deck_raw[deck_raw["sentence_de"].isna()]
-    PART_SIZE = 50
+    deck_raw_no_data = deck_raw_no_data.iloc[:PART_SIZE*PART_COUNT_PER_ITERATION]
+
     requests = []
     for i in range(math.floor((deck_raw_no_data.shape[0] + PART_SIZE) / PART_SIZE)):
         deck_block = deck_raw_no_data.iloc[i * PART_SIZE : (i + 1) * PART_SIZE]
@@ -566,7 +574,7 @@ def prepare_requests():
         deck_block.to_csv(deck_str_buff, sep="|", header=None)
         deck_str = deck_str_buff.getvalue().replace("|||", "")
         request = {
-            "model": "gpt-4o-mini",
+            "model": MODEL,
             "messages": [
                 {"role": "user", "content": prompt},
                 {"role": "user", "content": deck_str},
