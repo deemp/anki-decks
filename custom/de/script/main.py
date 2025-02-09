@@ -703,12 +703,35 @@ async def get_texts(df: type[pd.DataFrame], path: str, titles_no_lyrics: [str]):
 
         df.to_csv(path, sep="|")
 
+
 def strip_texts(df: type[pd.DataFrame]):
-    df["text"] = df["text"].map(lambda x: x.strip('"').strip())
+    df.loc[:,"text"] = df.loc[:,"text"].map(lambda x: x.strip('"').strip())
     return df
 
+
+def copy_texts(path_yaml: str, df: type[pd.DataFrame]):
+    yaml = YAML()
+
+    def LS(s):
+        return LiteralScalarString(textwrap.dedent(s))
+
+    data = []
+    for idx in df.index:
+        x = df.loc[idx]
+        text = x["text"]
+        if pd.notna(text):
+            l = [line.rstrip() for line in text.split("\\n")]
+            text = "\n".join(l)
+            text = text.strip()
+            text = LS(text)
+        data.append({"title": x["title"], "author": x["author"], "text": text})
+
+    with open(path_yaml, mode="w") as p:
+        yaml.dump(data=data, stream=p)
+
+
 async def update_songs():
-    path = "data/songs.csv"
+    path = SONGS_PATH
     df = pd.read_csv(path, sep="|", index_col=0)
     titles_no_lyrics = ["##@@@ (zeig mir was neues)"]
     await get_texts(df=df, path=path, titles_no_lyrics=titles_no_lyrics)
@@ -717,20 +740,22 @@ async def update_songs():
     has_text_cond = df["text"].notna()
 
     df_has_text = df[has_text_cond]
-    
+
     df_has_text = strip_texts(df_has_text)
-    
+
     df_no_newline_in_text = df_has_text[
         df_has_text["text"].map(lambda x: r"\n" not in x)
     ]
 
     for idx in df_no_newline_in_text.index:
         x = df_has_text.loc[idx]
-        if x["text"]:
-            print(f"Bad formatting: {x.name}) {x["title"]} by {x["author"]}")
+        print(f"Bad formatting: {x.name}) {x["title"]} by {x["author"]}")
 
-    df = pd.concat([df_has_text, df[~has_text_cond]]).reindex().reset_index(drop=True)    
+    df = pd.concat([df_has_text, df[~has_text_cond]]).reindex().reset_index(drop=True)
+
     df.to_csv(path, sep="|")
+
+    copy_texts(path_yaml="data/sources/songs.yaml", df=df)
 
 
 # %%
