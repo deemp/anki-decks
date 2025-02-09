@@ -4,13 +4,16 @@ import os
 from pathlib import Path
 import pandas as pd
 from IPython.display import display
-import yaml
 import spacy
 from bs4 import BeautifulSoup
 import asyncio
 import aiohttp
 import math
+from ruamel.yaml import YAML
+from ruamel.yaml.scalarstring import LiteralScalarString
+import textwrap
 
+yaml = YAML()
 os.chdir(f'{os.environ["ROOT_DIR"]}/custom/de')
 nlp = spacy.load("de_dep_news_trf")
 
