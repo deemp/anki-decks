@@ -573,8 +573,6 @@ from typing import Type
 # Genius API access token (replace this with your own token)
 ACCESS_TOKEN = os.getenv("GENIUS_CLIENT_ACCESS_TOKEN")
 BASE_URL = "https://api.genius.com"
-headers = {"Authorization": f"Bearer {ACCESS_TOKEN}"}
-
 
 def read_json(response):
     return response.json()
@@ -610,7 +608,6 @@ async def get_song_info(session: type[aiohttp.ClientSession], title: str, author
         session=session,
         url=search_url,
         params=params,
-        headers=headers,
         read_body=read_json,
     )
 
@@ -677,6 +674,7 @@ async def get_texts(df: type[pd.DataFrame], path: str):
     block_size = 10
     df_na = df[df["lyrics"].isna()]
     block_count = math.ceil(df_na.shape[0] / block_size)
+    headers = {"Authorization": f"Bearer {ACCESS_TOKEN}"}
 
     for i in range(block_count):
         print(f"{i=}")
