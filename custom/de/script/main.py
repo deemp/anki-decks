@@ -574,6 +574,7 @@ from typing import Type
 ACCESS_TOKEN = os.getenv("GENIUS_CLIENT_ACCESS_TOKEN")
 BASE_URL = "https://api.genius.com"
 
+
 def read_json(response):
     return response.json()
 
@@ -668,44 +669,64 @@ async def gather_concurrently(n, *coros):
     return await asyncio.gather(*(sem_coro(c) for c in coros))
 
 
-async def get_texts(df: type[pd.DataFrame], path: str):
+async def get_texts(df: type[pd.DataFrame], path: str, titles_no_lyrics: [str]):
     block_size = 10
-    df_na = df[df["lyrics"].isna()]
+    df_na = df[df["text"].isna()]
     block_count = math.ceil(df_na.shape[0] / block_size)
     headers = {"Authorization": f"Bearer {ACCESS_TOKEN}"}
 
     for i in range(block_count):
         print(f"{i=}")
         block_df = df_na.iloc[i * block_size : (i + 1) * block_size]
-        titles = block_df[["title", "author"]].to_numpy().tolist()
+        title_authors = block_df[["title", "author"]].to_numpy().tolist()
 
         async with aiohttp.ClientSession(headers=headers) as session:
             texts = await gather_concurrently(
                 block_size,
                 *(
                     get_lyrics_by_title(session=session, title=title, author=author)
-                    for title, author in titles
+                    for title, author in title_authors
                 ),
             )
 
-        for idx, text in zip(block_df.index.tolist(), texts):
-            df.loc[idx, "lyrics"] = repr(text)
+        for idx, text, title_author in zip(
+            block_df.index.tolist(), texts, title_authors
+        ):
+            title, author = title_author
+            if df.loc[idx, "title"] not in titles_no_lyrics:
+                df.loc[idx, "text"] = repr(text)
+            else:
+                print(f"Ignoring lyrics: {title} by {author}")
 
         df.to_csv(path, sep="|")
 
+def strip_texts(df: type[pd.DataFrame]):
+    df["text"] = df["text"].map(lambda x: x.strip('"').strip())
+    return df
 
 async def update_songs():
-    path = "data/song-titles.csv"
+    path = "data/songs.csv"
     df = pd.read_csv(path, sep="|", index_col=0)
-    await get_texts(df=df, path=path)
+    titles_no_lyrics = ["##@@@ (zeig mir was neues)"]
+    await get_texts(df=df, path=path, titles_no_lyrics=titles_no_lyrics)
 
     df = pd.read_csv(path, sep="|", index_col=0)
-    has_lyrics_cond = df["lyrics"].notna()
-    df = (
-        pd.concat([df[has_lyrics_cond], df[~has_lyrics_cond]])
-        .reindex()
-        .reset_index(drop=True)
-    )
+    has_text_cond = df["text"].notna()
+
+    df_has_text = df[has_text_cond]
+    
+    df_has_text = strip_texts(df_has_text)
+    
+    df_no_newline_in_text = df_has_text[
+        df_has_text["text"].map(lambda x: r"\n" not in x)
+    ]
+
+    for idx in df_no_newline_in_text.index:
+        x = df_has_text.loc[idx]
+        if x["text"]:
+            print(f"Bad formatting: {x.name}) {x["title"]} by {x["author"]}")
+
+    df = pd.concat([df_has_text, df[~has_text_cond]]).reindex().reset_index(drop=True)    
     df.to_csv(path, sep="|")
 
 
