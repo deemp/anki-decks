@@ -585,8 +585,8 @@ def read_text(response):
 async def get(
     session: type[aiohttp.ClientSession],
     url: str,
-    params={},
-    headers={},
+    params=None,
+    headers=None,
     read_body=read_text,
 ):
     try:
