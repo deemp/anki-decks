@@ -6,6 +6,10 @@ import pandas as pd
 from IPython.display import display
 import yaml
 import spacy
+from bs4 import BeautifulSoup
+import asyncio
+import aiohttp
+import math
 
 os.chdir(f'{os.environ["ROOT_DIR"]}/custom/de')
 nlp = spacy.load("de_dep_news_trf")
@@ -561,3 +565,152 @@ update_dewiki_articles_dictionary()
 # %%
 
 update_word_counts()
+
+# %%
+
+# Genius API access token (replace this with your own token)
+ACCESS_TOKEN = os.getenv("GENIUS_CLIENT_ACCESS_TOKEN")
+BASE_URL = "https://api.genius.com"
+headers = {"Authorization": f"Bearer {ACCESS_TOKEN}"}
+
+
+def read_json(response):
+    return response.json()
+
+
+def read_text(response):
+    return response.text()
+
+
+async def get(
+    session: aiohttp.ClientSession(),
+    url: str,
+    params={},
+    headers={},
+    read_body=read_text,
+):
+    try:
+        async with session.get(url=url, params=params, headers=headers) as response:
+            resp = await read_body(response)
+        return resp
+    except Exception as e:
+        print("Unable to get url {} due to {}.".format(url, e))
+    return None
+
+
+async def get_song_info(session: aiohttp.ClientSession(), title: str, author: str):
+    # Step 1: Search for the song on Genius using song title and artist name
+    search_url = f"{BASE_URL}/search"
+
+    params = {"q": f"{title} {author}"}
+
+    response = await get(
+        session=session,
+        url=search_url,
+        params=params,
+        headers=headers,
+        read_body=read_json,
+    )
+
+    if not response:
+        return None, None
+
+    search_results = response
+
+    if search_results["response"]["hits"]:
+        # Get the first song result
+        song_hit = search_results["response"]["hits"][0]["result"]
+        song_url = song_hit["url"]
+        song_id = song_hit["id"]
+        return song_url, song_id
+
+    return None, None
+
+
+async def get_lyrics(session: aiohttp.ClientSession(), song_url: str):
+    # Step 3: Scrape the lyrics from the Genius song page using BeautifulSoup
+    response = await get(session=session, url=song_url, read_body=read_text)
+
+    if not response:
+        return None
+
+    soup = BeautifulSoup(response, "html.parser")
+
+    # Find the lyrics section
+    lyrics = soup.find_all("div", {"data-lyrics-container": True})
+
+    if lyrics:
+        return "\n\n".join([x.get_text(separator="\n").strip() for x in lyrics])
+
+    return None
+
+
+async def get_lyrics_by_title(
+    session: aiohttp.ClientSession(), title: str, author: str
+):
+    song_url, _ = await get_song_info(session=session, title=title, author=author)
+
+    if song_url:
+        lyrics = await get_lyrics(session=session, song_url=song_url)
+        if lyrics:
+            print(f"Found lyrics: {title} by {author}")
+            return lyrics
+        print(f"Lyrics not found: {title} by {author}")
+    else:
+        print(f"No info found: {title} by {author}")
+    return None
+
+
+async def gather_concurrently(n, *coros):
+    semaphore = asyncio.Semaphore(n)
+
+    async def sem_coro(coro):
+        async with semaphore:
+            return await coro
+
+    return await asyncio.gather(*(sem_coro(c) for c in coros))
+
+
+async def get_texts(df: pd.DataFrame(), path: str):
+    block_size = 10
+    df_na = df[df["lyrics"].isna()]
+    block_count = math.ceil(df_na.shape[0] / block_size)
+
+    for i in range(block_count):
+        print(f"{i=}")
+        block_df = df_na.iloc[i * block_size : (i + 1) * block_size]
+        titles = block_df[["title", "author"]].to_numpy().tolist()
+
+        async with aiohttp.ClientSession(headers=headers) as session:
+            texts = await gather_concurrently(
+                block_size,
+                *(
+                    get_lyrics_by_title(session=session, title=title, author=author)
+                    for title, author in titles
+                ),
+            )
+
+        for idx, text in zip(block_df.index.tolist(), texts):
+            df.loc[idx, "lyrics"] = repr(text)
+
+        df.to_csv(path, sep="|")
+
+
+async def update_songs():
+    path = "data/song-titles.csv"
+    df = pd.read_csv(path, sep="|", index_col=0)
+    await get_texts(df=df, path=path)
+
+    df = pd.read_csv(path, sep="|", index_col=0)
+    has_lyrics_cond = df["lyrics"].notna()
+    df = (
+        pd.concat([df[has_lyrics_cond], df[~has_lyrics_cond]])
+        .reindex()
+        .reset_index(drop=True)
+    )
+    df.to_csv(path, sep="|")
+
+
+# %%
+
+await update_songs()
