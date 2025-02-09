@@ -604,17 +604,15 @@ async def get_song_info(session: type[aiohttp.ClientSession], title: str, author
 
     params = {"q": f"{title} {author}"}
 
-    response = await get(
+    search_results = await get(
         session=session,
         url=search_url,
         params=params,
         read_body=read_json,
     )
 
-    if not response:
+    if not search_results:
         return None, None
-
-    search_results = response
 
     if search_results["response"]["hits"]:
         # Get the first song result
