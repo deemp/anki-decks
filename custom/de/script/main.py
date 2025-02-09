@@ -568,6 +568,8 @@ update_word_counts()
 
 # %%
 
+from typing import Type
+
 # Genius API access token (replace this with your own token)
 ACCESS_TOKEN = os.getenv("GENIUS_CLIENT_ACCESS_TOKEN")
 BASE_URL = "https://api.genius.com"
@@ -583,7 +585,7 @@ def read_text(response):
 
 
 async def get(
-    session: aiohttp.ClientSession(),
+    session: type[aiohttp.ClientSession],
     url: str,
     params={},
     headers={},
@@ -598,7 +600,7 @@ async def get(
     return None
 
 
-async def get_song_info(session: aiohttp.ClientSession(), title: str, author: str):
+async def get_song_info(session: type[aiohttp.ClientSession], title: str, author: str):
     # Step 1: Search for the song on Genius using song title and artist name
     search_url = f"{BASE_URL}/search"
 
@@ -627,7 +629,7 @@ async def get_song_info(session: aiohttp.ClientSession(), title: str, author: st
     return None, None
 
 
-async def get_lyrics(session: aiohttp.ClientSession(), song_url: str):
+async def get_lyrics(session: type[aiohttp.ClientSession], song_url: str):
     # Step 3: Scrape the lyrics from the Genius song page using BeautifulSoup
     response = await get(session=session, url=song_url, read_body=read_text)
 
@@ -646,7 +648,7 @@ async def get_lyrics(session: aiohttp.ClientSession(), song_url: str):
 
 
 async def get_lyrics_by_title(
-    session: aiohttp.ClientSession(), title: str, author: str
+    session: type[aiohttp.ClientSession], title: str, author: str
 ):
     song_url, _ = await get_song_info(session=session, title=title, author=author)
 
@@ -671,7 +673,7 @@ async def gather_concurrently(n, *coros):
     return await asyncio.gather(*(sem_coro(c) for c in coros))
 
 
-async def get_texts(df: pd.DataFrame(), path: str):
+async def get_texts(df: type[pd.DataFrame], path: str):
     block_size = 10
     df_na = df[df["lyrics"].isna()]
     block_count = math.ceil(df_na.shape[0] / block_size)
