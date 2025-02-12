@@ -571,11 +571,14 @@ update_word_counts()
 
 # %%
 
-from typing import Type
 
 # Genius API access token (replace this with your own token)
 ACCESS_TOKEN = os.getenv("GENIUS_CLIENT_ACCESS_TOKEN")
 BASE_URL = "https://api.genius.com"
+
+PLAYLIST_DATA_PATH = "data/sources/playlist/data.csv"
+PLAYLIST_DATA_YAML_PATH = "data/sources/playlist/data.yaml"
+PLAYLIST_RAW_PATH = "data/sources/playlist/raw.csv"
 
 
 def read_json(response):
@@ -697,24 +700,25 @@ async def get_texts(df: type[pd.DataFrame], path: str, titles_no_lyrics: [str]):
         ):
             title, author = title_author
             if df.loc[idx, "title"] not in titles_no_lyrics:
-                df.loc[idx, "text"] = repr(text)
+                df.loc[idx, "text"] = text
             else:
                 print(f"Ignoring lyrics: {title} by {author}")
 
+        df = df.replace(r"\n", r"\\n", regex=True)
+        
         df.to_csv(path, sep="|")
 
 
 def strip_texts(df: type[pd.DataFrame]):
-    df.loc[:,"text"] = df.loc[:,"text"].map(lambda x: x.strip('"').strip())
+    df.loc[:, "text"] = df.loc[:, "text"].map(lambda x: x.strip('"').strip())
     return df
 
 
-def copy_texts(path_yaml: str, df: type[pd.DataFrame]):
-    yaml = YAML()
+def LS(s):
+    return LiteralScalarString(textwrap.dedent(s))
 
-    def LS(s):
-        return LiteralScalarString(textwrap.dedent(s))
 
+def copy_texts_from_df_to_yaml(df: type[pd.DataFrame], path_yaml: str):
     data = []
     for idx in df.index:
         x = df.loc[idx]
@@ -726,20 +730,50 @@ def copy_texts(path_yaml: str, df: type[pd.DataFrame]):
             text = LS(text)
         data.append({"title": x["title"], "author": x["author"], "text": text})
 
-    with open(path_yaml, mode="w") as p:
+    with open(path_yaml, mode="w", encoding="UTF-8") as p:
         yaml.dump(data=data, stream=p)
 
 
+def copy_texts_from_yaml_to_df(path_yaml: str):
+    data = yaml.load(Path(path_yaml))
+    for i, _ in enumerate(data):
+        if pd.notna(data[i]["text"]):
+            data[i]["text"] = data[i]["text"]
+    return pd.DataFrame(data, columns=["title", "author", "text"])
+
+
 async def update_songs():
-    path = SONGS_PATH
-    df = pd.read_csv(path, sep="|", index_col=0)
-    titles_no_lyrics = ["##@@@ (zeig mir was neues)"]
-    await get_texts(df=df, path=path, titles_no_lyrics=titles_no_lyrics)
+    playlist_raw = pd.read_csv(PLAYLIST_RAW_PATH, sep="|")
+    playlist_data = copy_texts_from_yaml_to_df(path_yaml=PLAYLIST_DATA_YAML_PATH)
 
-    df = pd.read_csv(path, sep="|", index_col=0)
-    has_text_cond = df["text"].notna()
+    playlist_data = (
+        playlist_raw.join(
+            playlist_data.set_index(["title", "author"]),
+            on=["title", "author"],
+            rsuffix="_r",
+        )
+        .reset_index()
+        .drop(columns=["index"])
+    )
 
-    df_has_text = df[has_text_cond]
+    titles_no_lyrics = [
+        "Das Schaf",
+        "##@@@ (zeig mir was neues)",
+        "Böhmermann ist Schuld",
+        "To Do Liste",
+        "Hegendary",
+    ]
+
+    await get_texts(
+        df=playlist_data, path=PLAYLIST_DATA_PATH, titles_no_lyrics=titles_no_lyrics
+    )
+
+    playlist_data = pd.read_csv(PLAYLIST_DATA_PATH, sep="|", index_col=0)
+
+    has_text_cond = playlist_data["text"].notna()
+
+    df_has_text = playlist_data[has_text_cond]
+    df_has_no_text = playlist_data[~has_text_cond]
 
     df_has_text = strip_texts(df_has_text)
 
@@ -751,12 +785,13 @@ async def update_songs():
         x = df_has_text.loc[idx]
         print(f"Bad formatting: {x.name}) {x["title"]} by {x["author"]}")
 
-    df = pd.concat([df_has_text, df[~has_text_cond]]).reindex().reset_index(drop=True)
+    playlist_data = (
+        pd.concat([df_has_text, df_has_no_text]).reindex().reset_index(drop=True)
+    )
 
-    df.to_csv(path, sep="|")
+    playlist_data.to_csv(PLAYLIST_DATA_PATH, sep="|")
 
-    copy_texts(path_yaml="data/sources/songs.yaml", df=df)
-
+    copy_texts_from_df_to_yaml(df=playlist_data, path_yaml=PLAYLIST_DATA_YAML_PATH)
 
 # %%
 
