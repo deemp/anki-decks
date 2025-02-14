@@ -2,31 +2,40 @@
 
 import os
 from pathlib import Path
+import asyncio
+import math
+import textwrap
+import importlib
 import pandas as pd
 from IPython.display import display
 import spacy
 from bs4 import BeautifulSoup
-import asyncio
 import aiohttp
-import math
 from ruamel.yaml import YAML
 from ruamel.yaml.scalarstring import LiteralScalarString
-import textwrap
+
+os.chdir(f'{os.environ["ROOT_DIR"]}/custom/de')
+
+from custom.de.script.lib import (
+    DEWIKI_ARTICLES_SEP,
+    ARTICLES_DICT,
+    DEWIKI_NOUN_ARTICLES,
+    LEMMATA,
+    make_baseform,
+    tokenize_sentence,
+    remove_separators_in_file,
+    make_is_lemma_cond,
+)
+
+import custom.de.script.lib as lib
+
+importlib.reload(lib)
 
 yaml = YAML()
-os.chdir(f'{os.environ["ROOT_DIR"]}/custom/de')
-nlp = spacy.load("de_dep_news_trf")
 
-# %%
+#%%
 
-ARTICLES_SHORT = ["f", "m", "n"]
-ARTICLES_FULL = ["die", "der", "das"]
-ARTICLES_SEP = "/"
-DEWIKI_ARTICLES_SEP = ";"
 LYRICS_LEMMATIZED_SEP = ";"
-ARTICLES_DICT = dict(zip(ARTICLES_SHORT, ARTICLES_FULL))
-DEWIKI_NOUN_ARTICLES = pd.read_csv("data/dewiki-noun-articles.csv", sep="|")
-LEMMATA = pd.read_csv("data/dwds_lemmata_2025-01-15.csv")
 MAX_OCCURENCES = 5
 
 
@@ -35,8 +44,13 @@ class PATH:
     PWD = Path(".")
     DECK = PWD / "deck.csv"
     SOURCES = DATA / "sources"
+    PLAYLIST = SOURCES / "playlist"
+    WORDS = SOURCES / "words"
+    KNOWN = WORDS / "known.csv"
     SOURCES_LEMMATIZED = SOURCES / "lemmatized.csv"
-    SOURCES_TEXTS = SOURCES / "texts.yaml"
+    PLAYLIST_DATA = PLAYLIST / "data.csv"
+    PLAYLIST_DATA_YAML = PLAYLIST / "data.yaml"
+    SOURCES_TEXTS = SOURCES / "data.yaml"
     SOURCES_WORDS_LEMMAS = SOURCES / "words-lemmas.csv"
     SOURCES_WORDS_NOT_LEMMAS = SOURCES / "words-not-lemmas.csv"
     SOURCES_WORDS = SOURCES / "words.csv"
@@ -53,24 +67,7 @@ class SENTENCE_LENGTH:
     MAX = 60
 
 
-def make_baseform(word: str) -> str:
-    # article
-    if word in ARTICLES_FULL:
-        return word
-    # noun or name
-    if word[0].isupper():
-        return word
-    if word[:3] in ARTICLES_FULL and word[3] == " ":
-        k = 0
-        for i, j in enumerate(word):
-            k = i
-            if j.isupper():
-                break
-        return word[k:]
-    # anything else
-    return word
-
-
+# TODO use the list of nouns and the list of lemmata (uppercase)
 def is_noun(word: str):
     return make_baseform(word)[0].isupper()
 
@@ -84,39 +81,11 @@ def get_lemmas_articles(nouns: pd.DataFrame):
     return lemmas_with_articles
 
 
-def make_is_lemma_cond(df: pd.DataFrame):
-    return df.isin(LEMMATA["lemma"]) | df.isin(DEWIKI_NOUN_ARTICLES["lemma"])
-
-
-def remove_separators_in_file(path: Path, n: int):
-    with open(path, "r", encoding="UTF-8") as d:
-        deck_text = d.read()
-
-    with open(path, "w", encoding="UTF-8") as d:
-        d.write(deck_text.replace("|" * n, ""))
-
-
-def tokenize_sentence(sentence: str):
-    doc = nlp(sentence)
-    tokens = [tok.lemma_ for tok in doc]
-
-    # separable verbs
-    for token in doc:
-        if token.dep_ == "svp" and token.head.pos_ == "VERB":
-            verb_stem = token.head.lemma_
-            prefix = token.text
-            tokens[token.head.i] = prefix + verb_stem
-
-    tokens = [tok for tok in tokens if tok not in ["-", "--", " ", "  "]]
-
-    return LYRICS_LEMMATIZED_SEP.join(tokens)
-
-
-def update_lemmatized_sources():
+def update_lemmatized_sources(path_yaml: Path):
     sources_lemmatized = pd.read_csv(PATH.SOURCES_LEMMATIZED, sep="|", index_col=0)
 
-    with open(PATH.SOURCES_TEXTS, mode="r", encoding="UTF-8") as f:
-        sources = yaml.safe_load(f)
+    with open(path_yaml, mode="r", encoding="UTF-8") as f:
+        sources = yaml.load(f)
 
     sources_new = pd.DataFrame(
         sources,
@@ -144,12 +113,13 @@ def update_lemmatized_sources():
                 for y in x.replace("\n", " ")
                 if y.isalpha() or y.isnumeric() or y in [" ", "-"]
             ]
-        )
+        ),
+        na_action="ignore",
     )
 
     sources.loc[sources_new_not_lemmatized.index, "text"] = sources_new_not_lemmatized[
         "text"
-    ].map(tokenize_sentence)
+    ].map(tokenize_sentence, na_action="ignore")
 
     sources.to_csv(PATH.SOURCES_LEMMATIZED, sep="|")
 
@@ -173,51 +143,61 @@ def update_sources_words() -> pd.DataFrame():
 
 def update_words_not_lemmas(words_not_lemmas_new: pd.DataFrame()):
     if not Path(PATH.SOURCES_WORDS_NOT_LEMMAS).is_file():
-        pd.DataFrame(columns=["word", "lemma", "lemma_correct"]).to_csv(
-            PATH.SOURCES_WORDS_NOT_LEMMAS, sep="|"
-        )
+        pd.DataFrame(
+            columns=["word", "lemma", "part_of_speech", "lemma_correct", "is_lemma"]
+        ).to_csv(PATH.SOURCES_WORDS_NOT_LEMMAS, sep="|")
 
     words_not_lemmas_existing = pd.read_csv(
         PATH.SOURCES_WORDS_NOT_LEMMAS,
         sep="|",
         index_col=0,
-        dtype={"word": str, "lemma": str, "lemma_correct": str},
+        dtype={
+            "word": str,
+            "part_of_speech": str,
+            "lemma": str,
+            "lemma_correct": str,
+            "is_lemma": str,
+        },
     )
+
+    no_lemma_correct_cond = words_not_lemmas_existing["lemma_correct"].isna()
+    words_not_lemmas_existing.loc[no_lemma_correct_cond, "lemma_correct"] = (
+        words_not_lemmas_existing.loc[no_lemma_correct_cond, "lemma"]
+    )
+
     words_not_lemmas = words_not_lemmas_new.join(
         other=words_not_lemmas_existing.set_index("word"), on="word"
     )
+
+    words_not_lemmas = words_not_lemmas[~words_not_lemmas["word"].isin(["null", "nan"])]
+
     words_not_lemmas.sort_index(inplace=True)
-    words_not_lemmas = words_not_lemmas[~words_not_lemmas.duplicated("word")]
-
-    has_lemma_cond = words_not_lemmas["lemma"].notna()
-
-    words_not_lemmas = pd.concat(
-        [
-            words_not_lemmas[has_lemma_cond].sort_index(),
-            words_not_lemmas[~has_lemma_cond].sort_index(),
-        ]
-    )
+    words_not_lemmas = words_not_lemmas[~words_not_lemmas["word"].duplicated()]
 
     has_lemma_correct_cond = words_not_lemmas["lemma_correct"].notna()
     words_not_lemmas.loc[~has_lemma_correct_cond, "lemma_correct"] = (
         words_not_lemmas.loc[~has_lemma_correct_cond, "lemma"]
     )
 
+    is_lemma_cond = make_is_lemma_cond(words_not_lemmas["lemma_correct"])
+
+    not_lemma = words_not_lemmas.loc[~is_lemma_cond]
+
+    words_not_lemmas = pd.concat(
+        [
+            words_not_lemmas[is_lemma_cond],
+            not_lemma[not_lemma["lemma"].notna()],
+            not_lemma[not_lemma["lemma"].isna()],
+        ]
+    )
+
+    words_not_lemmas.loc[is_lemma_cond, "is_lemma"] = True
+    words_not_lemmas.loc[~is_lemma_cond, "is_lemma"] = False
+    words_not_lemmas.loc[words_not_lemmas["lemma"].isna(), "is_lemma"] = None
+
     words_not_lemmas.to_csv(PATH.SOURCES_WORDS_NOT_LEMMAS, sep="|")
 
     return words_not_lemmas
-
-
-# words: Puh
-# words-not-lemmas: Puh|puh
-# words-lemmas: puh|Puh
-# puh comes from words-not-lemmas because it isn't a lemma
-# hence, it's not available after join of words and words-lemmas
-
-# Allow custom lemmas in a separate file
-# words-not-lemmas-whitelist.csv
-# list only lemmas there
-# take indices from words-not-lemmas
 
 
 def copy_lemmas_from_words_not_lemmas_to_words_lemmas(
@@ -236,10 +216,6 @@ def copy_lemmas_from_words_not_lemmas_to_words_lemmas(
         )
         .dropna()
         .astype({"lemma": str, "lemma_correct": str})
-    )
-
-    lemmas_from_words_not_lemmas["lemma"] = lemmas_from_words_not_lemmas["lemma"].map(
-        make_baseform, na_action="ignore"
     )
 
     lemmas_from_words_not_lemmas = lemmas_from_words_not_lemmas[
@@ -272,14 +248,17 @@ def update_lemmas_correct(words_lemmas: pd.DataFrame) -> pd.DataFrame:
     ]
 
     nouns_articles = get_lemmas_articles(nouns)
+
     nouns = nouns.join(nouns_articles, rsuffix="_r")
 
     nouns.drop(columns=["lemma_r"], inplace=True)
 
-    has_articles_cond = ~nouns_articles["articles"].isna()
+    has_articles_cond = nouns["articles"].notna()
+
     nouns.loc[has_articles_cond, "articles"] = nouns.loc[
         has_articles_cond, "articles"
     ].map(lambda x: x.split(DEWIKI_ARTICLES_SEP))
+
     nouns = nouns.explode("articles")
 
     new_index = []
@@ -321,41 +300,49 @@ def update_lemmas_correct(words_lemmas: pd.DataFrame) -> pd.DataFrame:
 
 def write_deck(deck: pd.DataFrame()):
     deck.to_csv(PATH.DECK, sep="|")
-    remove_separators_in_file(path=PATH.DECK, n=5)
+    remove_separators_in_file(path=PATH.DECK)
 
 
 def copy_words_lemmas_to_deck(words_lemmas: pd.DataFrame()):
     deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
 
+    deck_custom_rows = deck[
+        deck.index.map(
+            lambda x: 0
+            < round(float(x) % 1, ndigits=4)
+            < INDEX_SUFFIX.ALTERNATIVE_MEANING
+        )
+    ]
+
+    known = pd.read_csv(PATH.KNOWN, sep="|", index_col=0)
+
+    deck = deck.set_index("word_de")
+
     words_de = pd.DataFrame(words_lemmas["lemma_correct"]).rename(
         columns={"lemma_correct": "word_de"}
     )
 
-    deck = words_de.join(
-        deck.reset_index().set_index("word_de"), how="outer", on="word_de"
-    ).sort_index()
+    is_word_de_known_cond = words_de["word_de"].isin(known["word_de"])
 
-    deck.loc[deck["index"].isna(), "index"] = deck.index[deck["index"].isna()]
-    deck = deck.reset_index(drop=True).set_index("index", drop=True)
-    deck.rename_axis(index=None, inplace=True)
-    deck = deck[deck.index.notna()]
+    words_de_unknown = words_de[~is_word_de_known_cond]
 
-    deck = deck[~deck.index.duplicated()].sort_index()
+    deck = words_de_unknown.join(
+        deck,
+        on="word_de",
+    )
+
+    deck = pd.concat([deck, deck_custom_rows]).sort_index()
+
+    deck = deck[~deck.index.duplicated()]
     deck = deck[~deck["word_de"].duplicated()]
+    deck = deck[~deck["word_de"].str.startswith("-")]
 
-    new_index = []
-    for idx in deck.index:
-        idx_rounded = float(int(idx))
-        idx_suffix = round(idx % 1, ndigits=4)
-        if idx_suffix >= INDEX_SUFFIX.ALTERNATIVE_MEANING and (
-            idx_rounded not in deck.index
-            or make_baseform(deck.loc[idx, "word_de"])
-            != make_baseform(deck.loc[idx_rounded, "word_de"])
-        ):
-            continue
-        new_index.append(idx)
-
-    deck = deck.loc[new_index]
+    deck = pd.concat(
+        [
+            deck[deck["word_en"].notna()].sort_index(),
+            deck[deck["word_en"].isna()].sort_index(),
+        ]
+    )
 
     write_deck(deck=deck)
 
@@ -375,7 +362,8 @@ def update_deck_lemmatized_sentences(deck: pd.DataFrame()):
 
 
 def update_word_counts(deck=pd.DataFrame()):
-    deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
+    # Why read deck here?
+    # deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
     words = pd.DataFrame(
         deck["sentence_lemmatized_de"]
         .map(lambda x: x.split(";"), na_action="ignore")
@@ -417,7 +405,7 @@ def check_is_correct_sentence(row: pd.Series(), word_stats: pd.DataFrame()) -> b
 
 
 def partition_deck_by_having_data(deck: pd.DataFrame()):
-    has_data_cond = deck["part_of_speech"].notna()
+    has_data_cond = deck["word_en"].notna()
     rows_with_data = deck[has_data_cond].sort_index()
     rows_without_data = deck[~has_data_cond].sort_index()
 
@@ -432,7 +420,11 @@ def filter_deck_by_sentence_length(deck: pd.DataFrame()):
     rows_with_data, rows_without_data = partition_deck_by_having_data(deck=deck)
 
     is_good_sentence_length_cond = rows_with_data["sentence_de"].map(
-        lambda x: SENTENCE_LENGTH.MIN <= len(x) <= SENTENCE_LENGTH.MAX
+        lambda x: (
+            SENTENCE_LENGTH.MIN <= len(x) <= SENTENCE_LENGTH.MAX
+            if isinstance(x, str)
+            else False
+        )
     )
     rows_with_good_sentence_length = rows_with_data[is_good_sentence_length_cond]
     rows_with_bad_sentence_length = pd.DataFrame(
@@ -441,11 +433,13 @@ def filter_deck_by_sentence_length(deck: pd.DataFrame()):
         ]
     )
 
-    rows_without_data = pd.concat(
-        [rows_with_bad_sentence_length, rows_without_data]
-    ).sort_index()
-
-    deck = pd.concat([rows_with_good_sentence_length, rows_without_data])
+    deck = pd.concat(
+        [
+            rows_with_good_sentence_length,
+            rows_with_bad_sentence_length,
+            rows_without_data,
+        ]
+    )
 
     write_deck(deck=deck)
 
@@ -496,9 +490,8 @@ def update_deck():
 
 
 def update_word_lists():
-    # Fix overwrites some custom values ("puh")
-
     words = update_sources_words()
+
     words_not_lemmas = update_words_not_lemmas(
         words_not_lemmas_new=words[~make_is_lemma_cond(words["word"])]
     )
@@ -547,7 +540,8 @@ def update_dewiki_articles_dictionary():
 
 # %%
 
-update_lemmatized_sources()
+# TODO reuse words, not indices in deck
+update_lemmatized_sources(path_yaml=PATH.PLAYLIST_DATA_YAML)
 
 # %%
 
@@ -705,7 +699,7 @@ async def get_texts(df: type[pd.DataFrame], path: str, titles_no_lyrics: [str]):
                 print(f"Ignoring lyrics: {title} by {author}")
 
         df = df.replace(r"\n", r"\\n", regex=True)
-        
+
         df.to_csv(path, sep="|")
 
 
@@ -792,6 +786,7 @@ async def update_songs():
     playlist_data.to_csv(PLAYLIST_DATA_PATH, sep="|")
 
     copy_texts_from_df_to_yaml(df=playlist_data, path_yaml=PLAYLIST_DATA_YAML_PATH)
+
 
 # %%
 
