@@ -28,6 +28,7 @@
 61.0|die Wange|noun|cheek|Ein Kuss landete sanft auf seiner Wange.|A kiss landed softly on his cheek.|ein;Kuss;landen;sanft;auf;sein;Wange
 63.0|sprechen|verb|speak|Sie sprechen über wichtige Themen in der Sitzung.|They speak about important topics in the meeting.|sie;sprechen;über;wichtig;Thema;in;der;Sitzung
 64.0|von|preposition|from|Er bekam das Geschenk von seiner Schwester.|He received the gift from his sister.|er;bekommen;der;Geschenk;von;sein;Schwester
+65.0|das Teilchen|noun|particle
 68.0|manchmal|adverb|sometimes|Manchmal brauchen wir einfach eine Pause.|Sometimes we just need a break.|manchmal;brauchen;wir;einfach;ein;Pause
 72.0|auf|preposition|on|Die Welt liegt still auf dem zerbrochenen Spiegel.|The world lies still on the shattered mirror.|der;Welt;liegen;still;auf;der;zerbrochen;Spiegel
 73.0|ihr|possessive pronoun|her|Ihr Ziel war klar: den Gipfel erreichen.|Her goal was clear: to reach the summit.|ihr;Ziel;sein;klar;der;Gipfel;erreichen
@@ -88,6 +89,7 @@
 209.0|hören|verb|to hear|Man konnte das Rauschen des Flusses hören.|You could hear the rushing of the river.|man;können;der;Rauschen;der;Fluß;hören
 211.0|jeder|Pronoun|everyone|Jeder hat das Recht, seine Meinung zu äußern.|Everyone has the right to express their opinion.|jeder;haben;der;Recht;sein;Meinung;zu;äußern
 214.0|denn|conjunction|because|Ich bleibe zu Hause, denn draußen tobt ein Sturm.|I am staying home because a storm is raging outside.|ich;bleiben;zu;Haus;denn;draußen;toben;ein;Sturm
+221.0|der Joke|noun|joke
 228.0|mal|adverb|once|Komm doch mal vorbei, wenn du Zeit hast.|Come by once if you have time.|vorbeiKomm;doch;mal;vorbei;wenn;du;Zeit;haben
 231.0|aber|conjunction|but|Sie wollte mitkommen, aber der Regen hielt sie ab.|She wanted to come along, but the rain stopped her.|sie;wollen;mitkommen;aber;der;Regen;abhalten;sie;ab
 233.0|schämen|verb|to be ashamed|Man sollte sich nie für seine Herkunft schämen.|One should never be ashamed of their origin.|man;sollen;sich;nie;für;sein;Herkunft;schämen
@@ -142,6 +144,7 @@
 411.0|das Mal|noun|time (occurrence)|Das erste Mal bleibt oft unvergessen in Erinnerung.|The first time often remains unforgettable in memory.|der;erster;Mal;bleiben;oft;unvergessen;in;Erinnerung
 412.0|entsprechen|Verb|to correspond|Das Angebot muss den Standards entsprechen.|The offer must correspond to the standards.|der;Angebot;muss;der;Standard;entsprechen
 419.0|eher|adverb|rather|Das ist eher eine Ausnahme als die Regel.|This is rather an exception than the rule.|der;sein;eher;ein;Ausnahme;als;der;Regel
+423.0|der Grizzlybär|noun|grizzly bear
 428.0|die Mischung|noun|mixture|Die Mischung aus Farben war einzigartig.|The mixture of colors was unique.|der;Mischung;aus;Farbe;sein;einzigartig
 429.0|zählen|verb|to count|Er begann, die verbliebenen Tropfen zu zählen.|He began to count the remaining drops.|er;beginnen;der;verblieben;Tropfen;zu;zählen
 439.0|gegen|preposition|against|Die Mannschaft spielt heute gegen den Favoriten.|The team is playing against the favorite today.|der;Mannschaft;spielen;heute;gegen;der;Favorit
@@ -751,6 +754,7 @@
 4148.0|wegwollen|Verb|to want to leave
 4155.0|der Flug|noun|the flight|Der Flug nach Madrid war überraschend angenehm.|The flight to Madrid was surprisingly pleasant.|der;Flug;nach;Madrid;sein;überraschend;angenehm
 4165.0|woanders|adverb|elsewhere|Ich suche woanders nach besseren Optionen.|I am looking elsewhere for better options.|ich;suchen;woanders;nach;gut;Option
+4176.0|das Déjà-vu|noun|déjà vu
 4179.0|der Boden|Noun|floor|Der Boden war mit weichem Teppich bedeckt.|The floor was covered with soft carpet.|der;Boden;sein;mit;weich;Teppich;bedecken
 4180.0|wachsen|verb|to grow|Die Pflanzen wachsen schnell im Frühling.|The plants grow quickly in spring.|der;Pflanze;wachsen;schnell;in;Frühling
 4190.0|der Mond|noun|moon|Der Mond tauchte die Landschaft in Silber.|The moon bathed the landscape in silver.|der;Mond;tauchen;der;Landschaft;in;Silber
@@ -1140,6 +1144,7 @@
 8525.0|schlimm|adjective|bad|Der Schaden am Auto war zum Glück nicht schlimm.|The damage to the car was luckily not bad.|der;Schaden;an;Auto;sein;zu;Glück;nicht;schlimm
 8534.0|drinbleiben|verb|stay inside|Wenn es regnet, möchte sie lieber drinbleiben.|When it rains, she prefers to stay inside.|wenn;es;regnen;möchten;sie;lieber;drinbleiben
 8536.0|drin|adverb|inside|Alles Nötige war bereits im Koffer drin.|Everything necessary was already inside the suitcase.|alle;Nötige;sein;bereits;in;Koffer;drin
+8589.0|der Erythrozyt|noun|erythrocyte
 8591.0|der Thrombozyt|noun|thrombocyte|Ein Thrombozyt hilft bei der Blutgerinnung.|A thrombocyte helps with blood clotting.|ein;Thrombozyt;helfen;bei;der;Blutgerinnung
 8597.0|das Essen|noun|meal|Das Essen wurde in aller Eile zubereitet.|The meal was prepared in great haste.|der;Essen;werden;in;aller;Eile;zubereiten
 8671.0|woher|adverb|from where|Woher stammt dieser beeindruckende Akzent?|From where does this impressive accent originate?|woher;stammen;dieser;beeindruckend;Akzent
@@ -1207,6 +1212,7 @@
 9316.0|golden|adjective|golden|Die Stadt erstrahlt im goldenen Abendlicht.|The city shines in the golden evening light.|der;Stadt;erstrahlen;in;golden;Abendlicht
 9321.0|die Ewigkeit|noun|eternity|Manche Dinge dauern einfach eine Ewigkeit.|Some things just take an eternity.|mancher;Ding;dauern;einfach;ein;Ewigkeit
 9398.0|pennen|verb|to sleep|Er pennte auf dem Sofa, während der Fernseher lief.|He slept on the sofa while the TV was on.|er;pennen;auf;der;Sofa;während;der;Fernseher;laufen
+9406.0|wann|adverb|when
 9435.0|der Kaffee|noun|the coffee|Der Kaffee auf dem Tisch war noch dampfend heiß.|The coffee on the table was still steaming hot.|der;Kaffee;auf;der;Tisch;sein;noch;dampfend;heiß
 9435.001|das Kaffee|noun|coffee|Das Kaffee schmeckte frisch und aromatisch.|The coffee tasted fresh and aromatic.|der;Kaffee;schmecken;frisch;und;aromatisch
 9486.0|der Affe|noun|monkey|Der Affe kletterte geschickt auf den Baum.|The monkey climbed the tree skillfully.|der;Affe;klettern;geschickt;auf;der;Baum
@@ -1587,8 +1593,12 @@
 14986.0|Hessen|noun|Hesse|Hessen ist bekannt für seine malerischen Fachwerkstädte.|Hesse is known for its picturesque half-timbered towns.|Hessen;sein;bekannt;für;sein;malerisch;Fachwerkstadt
 14993.0|winken|verb|to wave|Sie winkte ihm zum Abschied aus dem Fenster.|She waved goodbye to him from the window.|sie;winken;ihm;zu;Abschied;aus;der;Fenster
 14995.0|der Schwabe|noun|Swabian|Ein Schwabe ist bekannt für seine Sparsamkeit.|A Swabian is known for their frugality.|ein;Schwabe;sein;bekannt;für;sein;Sparsamkeit
+14998.0|die Leberwurst|noun|liver sausage
 15022.0|der Pilz|Noun|Mushroom|Der Pilz im Wald leuchtete giftig orange.|The mushroom in the forest glowed toxic orange.|der;Pilz;in;Wald;leuchten;giftig;orange
+15031.0|das Törtchen|noun|small cake
 15037.0|die Asche|noun|the ash|Die Asche der Zigarette fiel auf den Boden.|The ash from the cigarette fell to the ground.|der;Asche;der;Zigarette;fallen;auf;der;Boden
+15039.0|das Sandwich|noun|sandwich
+15039.001|der Sandwich|noun|sandwich
 15089.0|Rolex|noun|Rolex|Er trug eine glänzende Rolex am Handgelenk.|He wore a shiny Rolex on his wrist.|er;tragen;ein;glänzend;Rolex;an;Handgelenk
 15102.0|absolut|adjective|absolute|Das war ein absolut fantastisches Konzert.|That was an absolutely fantastic concert.|der;sein;ein;absolut;fantastisch;Konzert
 15115.0|nett|adjective|nice|Die nette Nachbarin brachte frischen Kuchen.|The nice neighbor brought fresh cake.|der;nett;Nachbarin;bringen;frisch;Kuchen
@@ -1625,6 +1635,7 @@
 15438.0|off|adverb|off|Der Schalter war plötzlich off geschaltet.|The switch was suddenly turned off.|der;Schalter;sein;plötzlich;off;schalten
 15445.0|die More|Nomen|the moor|Die More lag still unter dem bleichen Mond.|The moor lay still under the pale moon.|der;More;liegen;still;unter;der;bleich;Mond
 15446.0|die Champagne|Noun|champagne
+15449.0|das Game|noun|game
 15455.0|Do|noun|do|Das Do im Karate symbolisiert den Weg des Lebens.|"The ""Do"" in karate symbolizes the way of life."|der;Do;in;Karate;symbolisieren;der;Weg;der;Leben
 15472.0|real|adjective|real|Ihre Angst vor der Prüfung war sehr real und greifbar.|Her fear of the exam was very real and tangible.|ihr;Angst;vor;der;Prüfung;sein;sehr;real;und;greifbar
 15474.0|das I|Noun|I|Das I war in der Schrift schlecht lesbar.|The I was hard to read in the font.|der;I;sein;in;der;Schrift;schlecht;lesbar
@@ -1828,6 +1839,7 @@
 19363.0|der Witz|noun|the joke|Der Witz über die Bürokratie brachte alle zum Lachen.|The joke about bureaucracy made everyone laugh.|der;Witz;über;der;Bürokratie;bringen;alle;zu;Lachen
 19376.0|die Tanzbewegung|noun|dance move|Die neue Tanzbewegung eroberte die Clubs.|The new dance move conquered the clubs.|der;neu;Tanzbewegung;erobern;der;Club
 19382.0|die Fläche|noun|the area|Die Fläche des Parks erstreckt sich über fünf Hektar.|The area of the park spans five hectares.|der;Fläche;der;Park;erstrecken;sich;über;fünf;Hektar
+19387.0|die Combo|noun|combo
 19401.0|die Körpersprache|noun|body language|Ihre Körpersprache verriet ihre Unsicherheit.|Her body language revealed her insecurity.|ihr;Körpersprache;verraten;ihr;Unsicherheit
 19419.0|matchen|verb|to match|Die Farben matchten perfekt mit dem Designkonzept.|The colors matched perfectly with the design concept.|der;Farbe;matchen;perfekt;mit;der;Designkonzept
 19422.0|Mindset|Noun|mindset|Ein positives Mindset hilft, Herausforderungen zu meistern.|A positive mindset helps to overcome challenges.|ein;positiv;Mindset;helfen;Herausforderung;zu;meistern
@@ -1885,6 +1897,7 @@
 20380.0|Rapmusik|Noun|rap music
 20469.0|wichtig|adjective|important|Es ist wichtig, die Fakten zu überprüfen.|It is important to check the facts.|es;sein;wichtig;der;Fakt;zu;überprüfen
 20473.0|der Musiker|noun|musician|Der Musiker legte eine fesselnde Melodie aufs Klavier.|The musician placed a captivating melody on the piano.|der;Musiker;legen;ein;fesselnd;Melodie;auf;Klavier
+20561.0|das Bedürfnis|noun|need
 20575.0|flüstern|verb|to whisper|Die Blätter flüstern von vergangenen Träumen.|The leaves whisper of past dreams.|der;Blatt;flüstern;von;vergangen;Träum
 20646.0|meistens|adverb|mostly|Meistens bleibe ich abends zu Hause und lese.|I mostly stay at home in the evenings and read.|meistens;bleiben;ich;abends;zu;Haus;und;lesen
 20677.0|blind|adjective|blind|Er vertraute ihr blind, ohne ihre Absichten zu hinterfragen.|He trusted her blindly, without questioning her intentions.|er;vertrauen;ihr;blind;ohne;ihr;Absicht;zu;hinterfragen
@@ -2004,6 +2017,7 @@
 22773.0|komisch|adjective|strange|Die komisch Szene sorgte für Verwirrung.|The strange scene caused confusion.|der;komisch;Szene;sorgen;für;Verwirrung
 22780.0|günstig|Adjective|inexpensive
 22794.0|die Waschmaschine|Noun|washing machine
+22982.0|die Blondine|noun|blonde (female)
 23013.0|der Balkon|noun|balcony|Der Balkon bot einen Blick auf die belebte Straße darunter.|The balcony offered a view of the busy street below.|der;Balkon;bieten;ein;Blick;auf;der;belebt;Straße;darunter
 23015.0|Ali|noun|Ali|Ali spielte die Hauptrolle in diesem Drama.|Ali played the main role in this drama.|Ali;spielen;der;Hauptrolle;in;dieser;Drama
 23026.0|die Hautfarbe|noun|the skin color|Die Hautfarbe des Porträts wurde akribisch angepasst.|The skin color of the portrait was meticulously adjusted.|der;Hautfarbe;der;Porträt;werden;akribisch;anpassen
@@ -2126,6 +2140,7 @@
 25893.0|unbequem|adjective|uncomfortable|Der unbequeme Stuhl verursachte Rückenschmerzen.|The uncomfortable chair caused back pain.|der;unbequem;Stuhl;verursachen;Rückenschmerz
 25903.0|das Dreirad|noun|the tricycle|Das Dreirad des Kindes stand im Vorgarten.|The child's tricycle was in the front yard.|der;Dreirad;der;Kind;stehen;in;Vorgarten
 25921.0|dazwischen|adverb|in between|Er schob sich leise dazwischen, um zu helfen.|He quietly slid in between to help.|er;schieben;sich;leise;dazwischen;um;zu;helfen
+25932.0|die Bundesliga|noun|Bundesliga
 25976.0|die Türkei|noun|Turkey|Die Türkei ist bekannt für ihre Gastfreundschaft.|Turkey is known for its hospitality.|der;Türkei;sein;bekannt;für;ihr;Gastfreundschaft
 25982.0|die Partei|noun|party|Die Partei hielt eine hitzige Debatte im Rathaus ab.|The party held a heated debate at the town hall.|der;Partei;abhalten;ein;hitzig;Debatte;in;Rathaus;ab
 25996.0|der Versuch|noun|the attempt|Der Versuch, zu fliehen, scheiterte in der Nacht.|The attempt to flee failed in the night.|der;Versuch;zu;fliehen;scheitern;in;der;Nacht
@@ -2197,8 +2212,13 @@
 27215.0|früher|Adverb|earlier
 27239.0|der Smalltalk|noun|small talk|Er hasst Smalltalk bei langweiligen Partys.|He hates small talk at boring parties.|er;hassen;Smalltalk;bei;langweilig;Party
 27239.001|das Smalltalk|noun|small talk|Der Smalltalk brach das Eis bei der Vernissage.|The small talk broke the ice at the art exhibition.|der;Smalltalk;brechen;der;Eis;bei;der;Vernissage
+27424.0|die News|noun|news
+27429.0|die Speech|noun|speech
 27433.0|der Deepfake|Noun|deepfake
 27433.001|das Deepfake|Noun|deepfake
+27440.0|das Spam|noun|spam
+27440.001|der Spam|noun|spam
+27440.002|die Spam|noun|spam
 27484.0|die Termite|noun|the termite|Die Termite zerstörte langsam das alte Holzhaus.|The termite slowly destroyed the old wooden house.|der;Termite;zerstören;langsam;der;alt;Holzhaus
 27488.0|universell|adjective|universal|Das Konzept ist universell und anpassungsfähig.|The concept is universal and adaptable.|der;Konzept;sein;universell;und;anpassungsfähig
 27494.0|das Omega|noun|omega|Das Omega symbolisiert das Ende von etwas.|The omega symbolizes the end of something.|der;Omega;symbolisieren;der;Ende;von;etwas
@@ -2496,6 +2516,7 @@
 35082.0|grillen|verb|to barbecue|Am Samstag wollen wir im Garten gemütlich grillen.|On Saturday, we want to barbecue in the garden.|an;Samstag;wollen;wir;in;Garten;gemütlich;grillen
 35104.0|der Dancefloor|noun|dance floor|Der Dancefloor vibrierte unter den schweren Beats.|The dance floor vibrated under the heavy beats.|der;Dancefloor;vibrieren;unter;der;schwer;Beat
 35115.0|der Zigarettenrauch|noun|cigarette smoke|Der Zigarettenrauch füllte die stickige Bar.|The cigarette smoke filled the stuffy bar.|der;Zigarettenrauch;füllen;der;stickig;Bar
+35132.0|die Zitrone|noun|lemon
 35135.0|blasen|verb|to blow
 35150.0|die Box|noun|box|Die Box mit den alten Fotos stand auf dem Dachboden.|The box with old photos was in the attic.|der;Box;mit;der;alt;Foto;stehen;auf;der;Dachboden
 35155.0|das Stereotyp|noun|stereotype|Das Stereotyp wurde durch die Werbung verstärkt.|The stereotype was reinforced by the advertisement.|der;Stereotyp;werden;durch;der;Werbung;verstärken
@@ -2752,6 +2773,8 @@
 40654.0|der Teller|noun|the plate|Der Teller war mit frischen Früchten dekoriert.|The plate was decorated with fresh fruits.|der;Teller;sein;mit;frisch;Frucht;dekorieren
 40654.001|das Teller|noun|the plate|Das Teller klapperte laut auf dem Boden.|The plate clattered loudly on the floor.|der;Teller;klappern;laut;auf;der;Boden
 40662.0|der Keller|noun|cellar|Im Keller stapeln sich verstaubte Kisten.|Dusty boxes are piled up in the cellar.|in;Keller;stapeln;sich;verstaubt;Kiste
+40668.0|das Mosaik|noun|mosaic
+40668.001|die Mosaik|noun|mosaic
 40770.0|diesmal|adverb|this time|Diesmal schaffte er es, den Rekord zu brechen.|This time, he managed to break the record.|diesmal;schaffen;er;es;der;Rekord;zu;brechen
 40779.0|verlieben|verb|to fall in love|Er verliebte sich unsterblich in die Sängerin.|He fell madly in love with the singer.|er;verlieben;sich;unsterblich;in;der;Sängerin
 40859.0|zwo|numeral|two|Er wiederholte die Zahl: eins, zwo, drei.|He repeated the number: one, two, three.|er;wiederholen;der;Zahl;eins;zwo;drei
@@ -2987,6 +3010,7 @@
 47860.0|autsch|interjection|ouch
 47878.0|Barfuß|Adjective|barefoot
 47937.0|barfuß|Adjective|barefoot
+48007.0|die Pokerrunde|noun|poker round
 48121.0|meditieren|verb|to meditate
 48166.0|die Couch|Noun|the couch
 48166.001|der Couch|Noun|the couch
@@ -3050,6 +3074,7 @@
 49744.0|der Start|noun|start|Der Start der Rakete verlief ohne Komplikationen.|The start of the rocket went off without complications.|der;Start;der;Rakete;verlaufen;ohne;Komplikation
 49752.0|ungerecht|Adjective|unfair
 49782.0|die Monotonie|Noun|monotony
+49827.0|der Phallus|noun|phallus
 49989.0|auffrischen|verb|to refresh
 50033.0|der Kontakt|Noun|the contact
 50159.0|der Status|Noun|the status
@@ -3343,6 +3368,7 @@
 60685.001|das Tram|noun|tram
 60685.002|der Tram|noun|tram
 60689.0|das Hotel|noun|the hotel|Das Hotel hatte eine fantastische Aussicht.|The hotel had a fantastic view.|der;Hotel;haben;ein;fantastisch;Aussicht
+60694.0|die Pussy|noun|pussy
 60698.0|der Abschied|noun|farewell|Der Abschied fiel ihm schwer nach all den Jahren.|The farewell was hard for him after all those years.|der;Abschied;schwerfallen;ihm;schwer;nach;all;der;Jahr
 60707.0|das Sofa|noun|sofa|Das Sofa im Wohnzimmer ist bequem und modern.|The sofa in the living room is comfortable and modern.|der;Sofa;in;Wohnzimmer;sein;bequem;und;modern
 60746.0|das Mondlicht|noun|moonlight
@@ -3429,17 +3455,26 @@
 62948.0|der Farbfilm|noun|color film
 63055.0|addieren|verb|to add
 63061.0|dividieren|verb|to divide
+63089.0|die Mathematik|noun|mathematics
 63129.0|hä|interjection|huh
+63130.0|die Integration|noun|integration
+63131.0|die Geometrie|noun|geometry
 63133.0|diese|pronoun|this
+63134.0|der Quotient|noun|quotient
 63139.0|später|adjective|later
+63177.0|der Hash|noun|hash
 63229.0|Ex-Frau|noun|ex-wife
+63316.0|der Dollar|noun|dollar
 63483.0|fix|adjective|quick
 63504.0|Emma|noun|Emma (a person's name)
 63817.0|die Algebra|noun|algebra
 63818.0|not|Adverb|not|Ich wusste nicht, ob er not lügen musste.|I didn't know if he had to lie urgently.|ich;wusste;nicht;ob;er;not;lügen;musste
 63819.0|important|adjective|important
 63857.0|der Joint|noun|joint (cannabis)
+63891.0|das Porträt|noun|portrait
+63912.0|die Ferien|noun|vacation
 63915.0|happy|adjective|happy|Sie wirkte trotz allem auffallend happy bei der Feier.|She seemed remarkably happy at the celebration despite everything.|sie;wirken;trotz;alle;auffallend;happy;bei;der;Feier
+63919.0|die Adresse|noun|address
 63949.0|die Back|noun|the oven|Die Back im Restaurant ist immer auf Hochtouren.|The oven in the restaurant is always running at full speed.|der;Back;in;Restaurant;sein;immer;auf;Hochtour
 63949.001|der Back|noun|the bake|Der Back im Ofen verströmte einen köstlichen Duft.|The bake in the oven emitted a delicious scent.|der;Back;in;Ofen;verströmen;ein;köstlich;Duft
 63999.0|Bye|noun|bye
@@ -3451,6 +3486,7 @@
 64251.0|das Kindheitstrauma|noun|childhood trauma
 64293.0|die Weihnachtsgans|noun|Christmas goose
 64308.0|das Fach|noun|subject (school)
+64308.0|die Frikadelle|noun|meatball
 64400.0|das Plusquamperfekt|noun|pluperfect
 64418.0|Russisch|adjective|Russian
 64451.0|prophylaktisch|adjective|prophylactic
@@ -3486,6 +3522,7 @@
 65232.0|exekutieren|verb|to execute
 65238.0|der Gleichschritt|noun|marching in step
 65242.0|Attention|noun|attention
+65255.0|die Manieren|noun|manners
 65294.0|der Superstar|noun|superstar
 65315.0|die Philosophie|noun|philosophy
 65336.0|Message|noun|message
@@ -3536,6 +3573,7 @@
 67013.0|das Gleichgewicht|noun|balance
 67112.0|das Talent|noun|talent
 67117.0|rastlos|adjective|restless
+67222.0|die Physionomie|noun|physiognomy
 67315.0|stattdessen|adverb|instead|Stattdessen blieb er stehen und lauschte dem Wind.|Instead, he stood still and listened to the wind.|stattdessen;stehenbleiben;er;stehen;und;lauschen;der;Wind
 67316.0|die Polonaise|noun|Polonaise (dance)
 67350.0|das Hashtag|noun|hashtag|Das Hashtag ging innerhalb von Stunden viral.|The hashtag went viral within hours.|der;Hashtag;gehen;innerhalb;von;Stunde;viral
@@ -3610,6 +3648,7 @@
 68891.0|der Fake|noun|fake|Das war ein offensichtlicher Fake, den jeder sah.|That was an obvious fake that everyone saw.|der;sein;ein;offensichtlich;Fake;der;jeder;sehen
 68909.0|Günther|noun|Günther
 68913.0|der Guido|noun|Guido
+68913.0|die Forderung|noun|demand
 68936.0|offensichtlich|adjective|obvious
 68953.0|hmm|interjection|hmm
 68962.0|Beatrix|noun|Beatrix
@@ -3625,6 +3664,7 @@
 69117.002|die Clickbait|noun|clickbait|Die Clickbait hat viele Leser getäuscht.|The clickbait misled many readers.|der;Clickbait;haben;vieler;Leser;täuschen
 69125.0|grüßen|verb|to greet
 69172.0|der Krankenwagen|noun|ambulance
+69242.0|das Wassermolekül|noun|water molecule
 69243.0|das Streichholz|noun|matchstick
 69245.0|der Kanister|noun|canister
 69280.0|der Neuanfang|noun|new beginning
@@ -3636,6 +3676,9 @@
 69605.0|die Saison|noun|season
 69614.0|mild|adjective|mild
 69622.0|Ok|interjection|ok
+69647.0|die Xenophobie|noun|xenophobia
+69651.0|die Banalität|noun|banality
+69657.0|die Tendenz|noun|tendency
 69671.0|fanatisieren|verb|to fanatize
 69681.0|das Kostüm|noun|the costume|Das Kostüm für die Party war ein echter Hingucker.|The costume for the party was a real eye-catcher.|der;Kostüm;für;der;Party;sein;ein;echt;Hingucker
 69687.0|propagieren|verb|to propagate
@@ -3644,6 +3687,7 @@
 69737.0|retro|adjective|retro
 69893.0|dosieren|verb|to dose
 69931.0|der Augenkontakt|noun|eye contact
+69960.0|das Space|noun|space
 69972.0|stalken|verb|to stalk
 70167.0|die Epoche|noun|epoch
 70201.0|gleichzeitig|adjective|simultaneous
@@ -3779,6 +3823,7 @@
 73215.0|das Morphium|noun|morphine
 73217.0|Schlafengehen|noun|going to bed
 73322.0|die Hypnose|noun|hypnosis
+73324.0|die Diät|noun|diet
 73378.0|die Apotheke|noun|pharmacy
 73383.0|die Palette|noun|palette
 73387.0|der Apotheker|noun|pharmacist
@@ -3816,6 +3861,7 @@
 74646.0|sorglos|adjective|carefree
 74647.0|relaxen|verb|to relax
 74722.0|die Chemnitz|noun|Chemnitz
+74809.0|das Hi-Fi|noun|hi-fi
 74809.0|der VW|noun|the VW|Der VW steht seit Stunden im Halteverbot.|The VW has been in the no-parking zone for hours.|der;VW;stehen;seit;Stunde;in;Halteverbot
 74848.0|das Schwimmbad|noun|swimming pool
 75011.0|das Chlorophyll|noun|chlorophyll
@@ -3878,6 +3924,7 @@
 76353.0|der Shitstorm|noun|shitstorm
 76358.0|Comeback-Tour|noun|comeback tour
 76453.0|Shortcut|noun|shortcut
+76518.0|die Cloud|noun|cloud
 76526.0|das Paradies|noun|paradise|Das Paradies lag in einer versteckten Bucht.|The paradise was in a hidden bay.|der;Paradies;liegen;in;ein;versteckt;Bucht
 76527.0|das Gift|noun|poison
 76527.001|die Gift|noun|poison (female)
@@ -3890,11 +3937,13 @@
 76746.0|der Check|noun|check
 76763.0|stärken|verb|to strengthen
 76767.0|der Caesar|noun|Caesar
+76778.0|der Botschafter|noun|ambassador
 76784.0|editieren|verb|to edit
 76792.0|der Hundehalter|noun|dog owner
 76798.0|der Katzenhalter|noun|cat owner
 76832.0|der Labrador|noun|Labrador
 76832.0|niedrig|adjective|low
+76839.0|die Kolonie|noun|colony
 76861.0|der Drache|noun|dragon
 76906.0|Kalifornien|noun|California
 76921.0|außergewöhnlich|adjective|extraordinary
@@ -3964,6 +4013,7 @@
 78905.0|Riesenrakete|noun|giant rocket
 78938.0|beben|verb|to quake|Der Boden begann zu beben, als das Erdbeben einsetzte.|The ground started to quake as the earthquake began.|der;Boden;beginnen;zu;beben;als;der;Erdbeben;einsetzen
 79004.0|exotisch|adjective|exotic
+79007.0|die Schönheitskönigin|noun|beauty queen
 79048.0|Schwesterlein|noun|little sister
 79075.0|das LSD|noun|LSD
 79095.0|die Reisefreiheit|noun|freedom of travel
@@ -4332,6 +4382,7 @@
 92573.0|beibringen|verb|teach|Kannst du mir das Programmieren beibringen?|Can you teach me programming?|Kannst;du;mir;der;Programmieren;beibringen
 92610.0|auswählen|verb|to select
 92618.0|die Bourgeoisie|noun|bourgeoisie
+92664.0|die Sexszene|noun|sex scene
 92831.0|aufwachen|verb|to wake up
 92908.0|bam|interjection|bam
 92926.0|die Chaotin|noun|chaotic person (female)
@@ -4340,6 +4391,7 @@
 92970.0|die Prinzessin|noun|princess
 92972.0|der Doc|noun|doctor
 92973.0|Martens|noun|Martens
+92998.0|die Odyssee|noun|odyssey
 93007.0|beschäftigt|adjective|busy
 93018.0|profitieren|verb|to profit
 93034.0|der Liebesbrief|noun|love letter
@@ -4588,6 +4640,7 @@
 105527.0|projizieren|verb|to project
 105558.0|bedeutend|adjective|significant
 105573.0|Amerika|noun|America
+105596.0|der Psychopath|noun|psychopath
 105621.0|Werner|proper noun|Werner|Werner arbeitete unermüdlich an seinem Lebenswerk.|Werner worked tirelessly on his life's work.|Werner;arbeiten;unermüdlich;an;sein;Lebenswerk
 105724.0|die Praxis|noun|the practice|Die Praxis ist heute wegen Krankheit geschlossen.|The practice is closed today due to illness.|der;Praxis;sein;heute;wegen;Krankheit;schließen
 105847.0|das T|noun|T|Das T in seinem Namen steht für Theodor.|The T in his name stands for Theodor.|der;T;in;sein;Name;stehen;für;Theodor
@@ -4597,12 +4650,15 @@
 105966.0|ums|preposition|around (in context: a time or place)
 106033.0|der Cheerleader|noun|cheerleader
 106050.0|militärisch|adjective|military
+106053.0|der Irak|noun|Iraq
 106067.0|dies|pronoun|this
+106073.0|der Diktator|noun|dictator
 106085.0|der Besen|noun|broom
 106087.0|arabisch|adjective|Arabic
 106099.0|magisch|adjective|magical
 106163.0|die Belladonna|noun|belladonna
 106369.0|die Empathie|noun|empathy|Empathie ist in der sozialen Arbeit unverzichtbar.|Empathy is indispensable in social work.|Empathie;sein;in;der;sozial;Arbeit;unverzichtbar
+106375.0|das Bataillon|noun|battalion
 106376.0|die Frische|noun|the freshness|Die Frische des Morgenwinds belebt die Sinne.|The freshness of the morning breeze invigorates the senses.|der;Frische;der;Morgenwind;beleben;der;Sinn
 106385.0|kreativ|adjective|creative|Ihr kreativer Ansatz löste das Problem schnell.|Her creative approach quickly solved the issue.|ihr;kreativ;Ansatz;lösen;der;Problem;schnell
 106404.0|der Profit|noun|the profit|Der Profit des Unternehmens stieg um 20 Prozent.|The company's profit increased by 20 percent.|der;Profit;der;Unternehmen;steigen;um;20;Prozent
@@ -4628,6 +4684,8 @@
 107039.0|Nikolas|proper noun|Nikolas
 107115.0|Niklas|proper noun|Niklas
 107136.0|der Rock|noun|skirt|Der Rock passte perfekt zu ihrer neuen Bluse.|The skirt matched her new blouse perfectly.|der;Rock;passen;perfekt;zu;ihr;neu;Bluse
+107417.0|der Plot|noun|plot
+107417.001|das Plot|noun|plot
 107468.0|autoritär|adjective|authoritarian
 107469.0|nationalistisch|adjective|nationalistic
 107484.0|der Reiter|noun|rider|Der Reiter galoppierte durch die endlose, staubige Steppe.|The rider galloped through the endless, dusty steppe.|der;Reiter;galoppieren;durch;der;endlos;staubig;Steppe
@@ -4637,9 +4695,12 @@
 107529.0|Klare|adjective|clear|Die Klare Antwort brachte Erleichterung.|The clear answer brought relief.|der;Klare;Antwort;bringen;Erleichterung
 107555.0|vernünftig|adjective|reasonable
 107609.0|teutonisch|adjective|Teutonic
+107610.0|die Expertise|noun|expertise
+107631.0|der IQ-Test|noun|IQ test
 107652.0|multikulturell|adjective|multicultural
 107654.0|modest|adjective|modest
 107697.0|lehrbar|adjective|teachable
+107703.0|der Vandale|noun|vandal
 107722.0|News|noun|news|Die News verbreiteten sich rasend schnell.|The news spread incredibly fast.|der;News;verbreiten;sich;rasend;schnell
 107728.0|der Einfluss|noun|the influence|Sein Einfluss auf die Kunstszene war von unschätzbarem Wert.|His influence on the art scene was invaluable.|sein;Einfluss;auf;der;Kunstszene;sein;von;unschätzbar;Wert
 107758.0|visionär|adjective|visionary|Seine Ideen waren visionär und revolutionär.|His ideas were visionary and revolutionary.|sein;Idee;sein;visionär;und;revolutionär
@@ -4647,8 +4708,12 @@
 107783.0|imperativ|adjective|imperative
 107800.0|recyclen|verb|to recycle
 107817.0|europäisch|adjective|European
+107819.0|die Einheit|noun|unit
+107823.0|die Vielfalt|noun|diversity
 107825.0|selbstlos|adjective|selfless
+107959.0|die Luftmatratze|noun|air mattress
 108037.0|Mexiko|proper noun|Mexico
+108046.0|die Luftpumpe|noun|air pump
 108061.0|Martin|proper noun|Martin
 108247.0|der November|noun|November
 108307.0|tough|adjective|tough|Sie zeigte in der Verhandlung eine tough Haltung.|She showed a tough attitude during the negotiation.|sie;zeigen;in;der;Verhandlung;ein;tough;Haltung
@@ -4762,6 +4827,7 @@
 114130.0|sonntags|adverb|on Sundays
 114132.0|der Zombie|noun|zombie
 114155.0|immun|adjective|immune
+114217.0|der Pythagoras|noun|Pythagoras
 114294.0|die Kriegszeit|noun|wartime
 114313.0|der Fremder|noun|stranger
 114329.0|das Flüchtlingsheim|noun|refugee shelter
@@ -4783,6 +4849,7 @@
 115236.0|trivial|adjective|trivial
 115337.0|vernichten|verb|to destroy
 115350.0|eingraben|verb|to bury
+115416.0|die Obdachlose|noun|homeless woman
 115425.0|der Ignorant|noun|ignorant person
 115547.0|beruflich|adjective|professional
 115720.0|ander|adjective|other|Die ander Perspektive half bei der Problemlösung.|The other perspective helped with the solution.|der;ander;Perspektive;helfen;bei;der;Problemlösung
@@ -4819,6 +4886,7 @@
 117080.0|Simon|noun|Simon (name)
 117081.0|der Freitag|noun|Friday
 117131.0|der Ballon|noun|balloon
+117227.0|die Hündin|noun|female dog
 117233.0|das Fernsehstudio|noun|TV studio
 117242.0|der Sandmann|noun|the sandman|Der Sandmann schlich durch die Schatten der Nacht.|The sandman crept through the shadows of the night.|der;Sandmann;schlich;durch;der;Schatten;der;Nacht
 117318.0|das Gähnen|noun|yawning
@@ -4964,6 +5032,7 @@
 124657.0|das Morgenlicht|noun|morning light
 124668.0|die Heimkehr|noun|homecoming
 124777.0|die Taverne|noun|tavern
+124806.0|der Rächer|noun|avenger
 124826.0|Helfe|noun|help (archaic)
 124855.0|mütterlich|adjective|motherly
 124858.0|die Heldentat|noun|heroic deed
@@ -5121,6 +5190,7 @@
 134179.0|die Sinfonie|noun|symphony
 134210.0|die Komposition|noun|composition
 134271.0|das Podium|noun|podium
+134483.0|der Prank|noun|prank
 134495.0|die Loyalität|noun|loyalty
 134507.0|der Säugling|noun|infant
 134525.0|die Gemeinschaft|noun|community
