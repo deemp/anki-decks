@@ -20,7 +20,6 @@ ARTICLES_SHORT = ["f", "m", "n"]
 ARTICLES_FULL = ["die", "der", "das"]
 ARTICLES_DICT = dict(zip(ARTICLES_SHORT, ARTICLES_FULL))
 DEWIKI_ARTICLES_SEP = ";"
-LEMMATIZED_SEP = ";"
 
 data_path = Path(f'{os.environ["ROOT_DIR"]}/custom/de/data')
 
@@ -28,9 +27,70 @@ DEWIKI_NOUN_ARTICLES = pd.read_csv(data_path / "dewiki-noun-articles.csv", sep="
 LEMMATA = pd.read_csv(data_path / "dwds_lemmata_2025-01-15.csv")
 
 
-class MODEL(StrEnum):
+class Model(StrEnum):
     CHATGPT_4O_MINI = "gpt-4o-mini"
     CHATGPT_4O = "chatgpt-4o"
+
+
+@dataclass
+class ConstRareWords:
+    min_count_in_sentence: int = 2
+    max_occurences_in_deck: int = 3
+
+
+@dataclass
+class ConstGenerationSettings:
+    iterations: int = 20
+    block_size: int = 70
+    blocks_per_iteration: int = 20
+
+
+@dataclass
+class ConstSentenceLength:
+    mini: int = 60
+    maxi: int = 70
+
+
+@dataclass
+class ConstPath:
+    word_counts: type[Path]
+    deck_raw: type[Path]
+    words_bad_baseform: type[Path]
+    parallel_requests: type[Path]
+    parallel_responses: type[Path]
+    parallel_responses_concatenated: type[Path]
+
+
+@dataclass
+class ConstPromptSettings:
+    has_part_of_speech: bool
+    has_word_en: bool
+
+
+@dataclass
+class ApiRequestsArgs:
+    requests_filepath: Optional[str] = None
+    save_filepath: Optional[str] = None
+    request_url: Optional[str] = None
+    api_key: str = OPENAI_API_KEY
+    max_requests_per_minute: float = 3_000 * 0.5
+    max_tokens_per_minute: float = 250_000 * 0.5
+    token_encoding_name: str = "cl100k_base"
+    max_attempts: int = 5
+    logging_level: int = logging.INFO
+
+
+@dataclass
+class ConstConfig:
+    rare_words: type[ConstRareWords]
+    generation_settings: type[ConstGenerationSettings]
+    sentence_length: type[ConstSentenceLength]
+    path: type[ConstPath]
+    model: type[Model]
+    prompt_settings: type[ConstPromptSettings]
+    nlp: type[spacy.Language]
+    api_requests_args: type[ApiRequestsArgs]
+    lemmatized_sep: str
 
 
 def read_csv(path: type[Path]):
@@ -63,8 +123,8 @@ def make_baseform(word: str) -> str:
     return word
 
 
-def tokenize_sentence(sentence: str, nlp: type[spacy.Language]):
-    doc = nlp(sentence)
+def tokenize_sentence(config: type[ConstConfig], sentence: str):
+    doc = config.nlp(sentence)
     tokens = [tok.lemma_ for tok in doc]
 
     # separable verbs
@@ -76,7 +136,7 @@ def tokenize_sentence(sentence: str, nlp: type[spacy.Language]):
 
     tokens = [tok for tok in tokens if tok not in ["-", "--", " ", "  ", "„", "“"]]
 
-    return LEMMATIZED_SEP.join(tokens)
+    return config.lemmatized_sep.join(tokens)
 
 
 def remove_separators_in_file(path: type[Path]):
@@ -123,12 +183,27 @@ def leq(x, y):
         return cmp(y, x)
 
 
+def leq_test():
+    statements = [
+        not leq(2.003, 1.002),
+        leq(2.001, 2.002),
+        leq(2.001, 2.001),
+        not leq(2.001, 2.0002),
+        not leq(2.00132, 2.00130),
+        leq(2.00132, 2.00132),
+        leq(2.00132, 2.00135),
+    ]
+
+    for i in statements:
+        assert i
+
+
 def make_is_lemma_cond(s: type[pd.Series]):
     s = s.map(lambda x: make_baseform(x) if isinstance(x, str) else False)
     return s.isin(LEMMATA["lemma"]) | s.isin(DEWIKI_NOUN_ARTICLES["lemma"])
 
 
-def make_prompt(has_part_of_speech: bool, has_word_en: bool):
+def make_prompt(config: type[ConstConfig]):
     column_part_of_speech = "Column 3 - part of speech"
     column_word_en = "Column 4 - English word"
 
@@ -144,10 +219,10 @@ def make_prompt(has_part_of_speech: bool, has_word_en: bool):
     
         ## Input Table
 
-        Column 1 - index
-        Column 2 - German word
-        {column_part_of_speech if has_part_of_speech else ""}
-        {column_word_en if has_word_en else ""}
+        Column 1 - Index. YOU MUST KEEP THIS COLUMN
+        Column 2 - German word. YOU MUST KEEP THIS COLUMN
+        {column_part_of_speech if config.prompt_settings.has_part_of_speech else ""}
+        {column_word_en if config.prompt_settings.has_word_en else ""}
 
         ## Guidelines for the German sentence:
 
@@ -158,7 +233,7 @@ def make_prompt(has_part_of_speech: bool, has_word_en: bool):
         - be engaging
         - contain the German word (column 2)
         - be complete (have subject and verb)
-        - be not too long, 60 to 65 characters long
+        - be not too long, {config.sentence_length.mini} to {config.sentence_length.maxi} characters long
         - contain separable expressive verbs, concrete nouns
         - be specific, concrete
         - have no parasite words like "besonders"
@@ -169,57 +244,76 @@ def make_prompt(has_part_of_speech: bool, has_word_en: bool):
 
         ## Task
         
-        {add_column_part_of_speech if not has_part_of_speech else ""}
-        {add_column_word_en if not has_word_en else ""}
+        {add_column_part_of_speech if not config.prompt_settings.has_part_of_speech else ""}
+        {add_column_word_en if not config.prompt_settings.has_word_en else ""}
         - Add column 5 - the sentence in German following the sentence guidelines. The sentence must contain the German word (column 2)
         - Add column 6 - translation of the German sentence to English. The translation must contain the English word (column 4).
 
-        Print the table as markdown code block CSV with "|" as separator.
+        Print the table as markdown code block CSV. 
+        Use "|" as separator.
         Never print a header.
         Never skip an input row.
         Never analyze, just output.
+        
+        YOU MUST KEEP THE INDEX COLUMN
+        YOU MUST KEEP THE GERMAN WORD COLUMN
         
         Avoid philosophical and abstract thoughts. 
         Prefer concrete situations and topics.
         Use sophisticated vivid thematic vocabulary.
 
-        I'll provide input in the next messages.
+        ## Examples:
+        
+        Input example:
+        
+        ```csv
+        135894.0|abzweigen
+        135902.0|der Schwangerschaftsstreifen
+        135972.0|feuchtkalt
+        ```
+        
+        Output example:
+        
+        ```csv
+        135894.0|abzweigen|verb|to branch off|Der Weg wird an der nächsten Gabelung abzweigen und führt weiter.|The path will branch off at the next fork and continues onward.
+        135902.0|der Schwangerschaftsstreifen|noun|the stretch mark|Die Schwangerschaftsstreifen sind ganz normal nach der Geburt.|The stretch marks are completely normal after giving birth.
+        135972.0|feuchtkalt|adjective|damp and cold|Der feuchtkalte Wind ließ die Spaziergänger schnell ins Café flüchten.|The damp and cold wind made the strollers quickly flee into the café.
+        ```
         """
 
 
 def prepare_requests(
+    config: type[ConstConfig],
     deck_raw: type[pd.DataFrame],
-    part_count_per_iteration: int,
-    part_size: int,
-    model: MODEL,
-    parallel_requests_path: type[Path],
-    parallel_responses_path: type[Path],
-    has_part_of_speech: bool,
-    has_word_en: bool,
 ):
-    prompt = make_prompt(has_part_of_speech=has_part_of_speech, has_word_en=has_word_en)
+    prompt = make_prompt(config=config)
 
-    deck_raw_no_data = deck_raw[deck_raw["sentence_de"].isna()]
+    deck_raw_no_data = deck_raw.loc[deck_raw["sentence_de"].isna(), "word_de"]
 
     if deck_raw_no_data.empty:
         raise Exception("No empty rows to generate data for!")
 
-    part_count_per_iteration = min(
-        part_count_per_iteration, math.ceil(deck_raw_no_data.shape[0] / part_size)
+    blocks_per_iteration = min(
+        config.generation_settings.blocks_per_iteration,
+        math.ceil(deck_raw_no_data.shape[0] / config.generation_settings.block_size),
     )
 
     deck_raw_no_data = deck_raw_no_data.sample(frac=1).iloc[
-        : part_size * part_count_per_iteration
+        : config.generation_settings.block_size * blocks_per_iteration
     ]
 
     requests = []
-    for i in range(part_count_per_iteration):
-        deck_block = deck_raw_no_data.iloc[i * part_size : (i + 1) * part_size]
+    for i in range(blocks_per_iteration):
+        deck_block = deck_raw_no_data.iloc[
+            i
+            * config.generation_settings.block_size : (i + 1)
+            * config.generation_settings.block_size
+        ]
         deck_str_buff = StringIO()
         deck_block.to_csv(deck_str_buff, sep="|", header=None)
-        deck_str = deck_str_buff.getvalue().replace("|||", "")
+        deck_str = deck_str_buff.getvalue()
         request = {
-            "model": model,
+            "model": config.model,
             "messages": [
                 {"role": "user", "content": prompt},
                 {"role": "user", "content": deck_str},
@@ -227,20 +321,17 @@ def prepare_requests(
         }
         requests.append(request)
 
-    with open(parallel_requests_path, "w", encoding="UTF-8") as r:
+    with open(config.path.parallel_requests, "w", encoding="UTF-8") as r:
         r.writelines([json.dumps(x) + "\n" for x in requests])
 
-    with open(parallel_responses_path, "w", encoding="UTF-8") as r:
+    with open(config.path.parallel_responses, "w", encoding="UTF-8") as r:
         r.write("")
 
 
-def write_parallel_responses(
-    parallel_responses_path: type[Path],
-    parallel_responses_concatenated_path: type[Path],
-):
+def write_parallel_responses(config: type[ConstConfig]):
     parallel_responses = None
 
-    with open(parallel_responses_path, "r", encoding="UTF-8") as r:
+    with open(config.path.parallel_responses, "r", encoding="UTF-8") as r:
         parallel_responses = [json.loads(x) for x in r.readlines()]
 
     parallel_responses = [
@@ -263,36 +354,35 @@ def write_parallel_responses(
 
     parallel_responses_concatenated = "\n".join(parallel_responses_clean)
 
-    with open(parallel_responses_concatenated_path, "w", encoding="UTF-8") as r:
+    with open(config.path.parallel_responses_concatenated, "w", encoding="UTF-8") as r:
         r.write(parallel_responses_concatenated)
 
 
-def write_responses_to_deck_raw(
-    parallel_responses_concatenated_path: type[Path], deck_raw_path: type[Path]
-):
+def write_responses_to_deck_raw(config: type[ConstConfig]):
+    deck_raw = read_csv(config.path.deck_raw)
+
     df_responses = pd.read_csv(
-        parallel_responses_concatenated_path, sep="|", index_col=0, header=None
+        config.path.parallel_responses_concatenated,
+        sep="|",
+        index_col=0,
+        names=["index"] + list(deck_raw.columns),
     )
 
-    deck_raw = pd.read_csv(deck_raw_path, sep="|", index_col=0)
-
     df_responses = df_responses[~df_responses.index.duplicated()]
+
+    df_responses = df_responses[
+        df_responses["word_de"].notna()
+        & df_responses["word_de"].map(lambda x: x.strip(), na_action='ignore')
+    ]
+
     in_deck_raw_cond = df_responses.index[df_responses.index.isin(deck_raw.index)]
-    df_responses["sentence_lemmatized_de"] = None
-    df_responses.columns = deck_raw.columns
 
     deck_raw.loc[in_deck_raw_cond] = df_responses.loc[in_deck_raw_cond]
 
-    columns_strip = [
-        "word_de",
-        "part_of_speech",
-        "word_en",
-        "sentence_de",
-        "sentence_en",
-    ]
+    columns_strip = deck_raw.columns
     deck_raw[columns_strip] = deck_raw[columns_strip].apply(lambda x: x.str.strip())
 
-    deck_raw.to_csv(deck_raw_path, sep="|")
+    write_deck_raw(config=config, deck_raw=deck_raw)
 
     return deck_raw
 
@@ -301,26 +391,29 @@ def is_noun(word: str):
     return make_baseform(word)[0].isupper()
 
 
-def write_deck_raw(deck_raw_path: type[Path], deck_raw: type[pd.DataFrame]):
-    deck_raw.to_csv(deck_raw_path, sep="|")
-    remove_separators_in_file(path=deck_raw_path)
+def write_deck_raw(config: type[ConstConfig], deck_raw: type[pd.DataFrame]):
+    deck_raw.to_csv(config.path.deck_raw, sep="|")
+    remove_separators_in_file(path=config.path.deck_raw)
 
 
 def update_deck_raw_lemmatized_sentences(
-    deck_raw: type[pd.DataFrame], deck_raw_path: type[Path], nlp: type[spacy.Language]
+    config: type[ConstConfig], deck_raw: type[pd.DataFrame]
 ):
     not_lemmatized_cond = deck_raw["sentence_lemmatized_de"].isna()
 
     deck_raw.loc[not_lemmatized_cond, "sentence_lemmatized_de"] = deck_raw.loc[
         not_lemmatized_cond, "sentence_de"
-    ].map(lambda x: tokenize_sentence(sentence=x, nlp=nlp), na_action="ignore")
+    ].map(
+        lambda sentence: tokenize_sentence(config=config, sentence=sentence),
+        na_action="ignore",
+    )
 
-    write_deck_raw(deck_raw=deck_raw, deck_raw_path=deck_raw_path)
+    write_deck_raw(config=config, deck_raw=deck_raw)
 
     return deck_raw
 
 
-def update_word_counts(deck_raw: type[pd.DataFrame], word_counts_path: type[Path]):
+def update_word_counts(config: type[ConstConfig], deck_raw: type[pd.DataFrame]):
     words = pd.DataFrame(
         deck_raw["sentence_lemmatized_de"]
         .map(lambda x: x.split(";"), na_action="ignore")
@@ -328,17 +421,16 @@ def update_word_counts(deck_raw: type[pd.DataFrame], word_counts_path: type[Path
     ).rename(columns={"sentence_lemmatized_de": "word_de"})
 
     word_counts = pd.DataFrame(words.value_counts())
-    word_counts.to_csv(word_counts_path, sep="|")
+    word_counts.to_csv(config.path.word_counts, sep="|")
 
     return word_counts
 
 
 def check_is_correct_sentence(
+    config: type[ConstConfig],
     row: type[pd.Series],
     word_stats: type[pd.DataFrame],
     words_bad_wordforms: type[pd.DataFrame],
-    rare_words_max_occurences: int,
-    rare_words_min_count: int,
 ) -> bool:
     word_de = row["word_de"]
     word_de = (
@@ -349,7 +441,7 @@ def check_is_correct_sentence(
         ].values[0]
     )
 
-    sentence_lemmatized_de = row["sentence_lemmatized_de"].split(LEMMATIZED_SEP)
+    sentence_lemmatized_de = row["sentence_lemmatized_de"].split(config.lemmatized_sep)
 
     word_is_in_the_sentence = (
         # True
@@ -367,9 +459,9 @@ def check_is_correct_sentence(
     sentence_contains_rare_words = (
         sum(
             (word_counts["word_de"] != word_de)
-            & (word_counts["count"] <= rare_words_max_occurences)
+            & (word_counts["count"] <= config.rare_words.max_occurences_in_deck)
         )
-        >= rare_words_min_count
+        >= config.rare_words.min_count_in_sentence
     )
 
     result = sentence_contains_rare_words & word_is_in_the_sentence
@@ -384,43 +476,37 @@ def check_is_correct_sentence(
 
 
 def partition_deck_raw_by_having_sentence_de(
-    deck_raw: type[pd.DataFrame], deck_raw_path: type[Path]
+    config: type[ConstConfig], deck_raw: type[pd.DataFrame]
 ):
     has_data_cond = deck_raw["sentence_de"].notna()
     rows_with_data = deck_raw[has_data_cond].sort_index()
     rows_without_data = deck_raw[~has_data_cond].sort_index()
 
     deck_raw = pd.concat([rows_with_data, rows_without_data])
-    write_deck_raw(deck_raw=deck_raw, deck_raw_path=deck_raw_path)
+    write_deck_raw(config=config, deck_raw=deck_raw)
 
     return rows_with_data, rows_without_data
 
 
-def check_sentence_length(
-    x: pd.Series(), sentence_length_min: int, sentence_length_max: int
-):
+def check_sentence_length(config: type[ConstConfig], row: pd.Series()):
     return (
-        pd.notna(x["sentence_de"])
-        and sentence_length_min <= len(x["sentence_de"]) <= sentence_length_max
+        pd.notna(row["sentence_de"])
+        and config.sentence_length.mini
+        <= len(row["sentence_de"])
+        <= config.sentence_length.maxi
     )
 
 
 def filter_deck_raw_by_sentence_length(
+    config: type[ConstConfig],
     deck_raw: type[pd.DataFrame],
-    deck_raw_path: type[Path],
-    sentence_length_min: int,
-    sentence_length_max: int,
 ):
     rows_with_data, rows_without_data = partition_deck_raw_by_having_sentence_de(
-        deck_raw=deck_raw, deck_raw_path=deck_raw_path
+        config=config, deck_raw=deck_raw
     )
 
     is_good_sentence_length_cond = rows_with_data.apply(
-        lambda x: check_sentence_length(
-            x=x,
-            sentence_length_min=sentence_length_min,
-            sentence_length_max=sentence_length_max,
-        ),
+        lambda row: check_sentence_length(config=config, row=row),
         axis=1,
     )
     rows_with_good_sentence_length = rows_with_data[is_good_sentence_length_cond]
@@ -432,19 +518,17 @@ def filter_deck_raw_by_sentence_length(
 
     rows_without_data = pd.concat(
         [rows_with_bad_sentence_length, rows_without_data]
-    ).sort_index()
+    ).sort_index()["word_de"]
 
     deck_raw = pd.concat([rows_with_good_sentence_length, rows_without_data])
 
-    write_deck_raw(deck_raw=deck_raw, deck_raw_path=deck_raw_path)
+    write_deck_raw(config=config, deck_raw=deck_raw)
 
     return deck_raw
 
 
-def update_words_bad_baseform(
-    deck_raw: type[pd.DataFrame], words_bad_baseform_path: type[Path]
-):
-    words_bad_baseform = read_csv(words_bad_baseform_path)
+def update_words_bad_baseform(config: type[ConstConfig], deck_raw: type[pd.DataFrame]):
+    words_bad_baseform = read_csv(config.path.words_bad_baseform)
 
     words_bad_baseform = words_bad_baseform.join(
         deck_raw["word_de"].reset_index().set_index("word_de"),
@@ -463,44 +547,26 @@ def update_words_bad_baseform(
 
     words_bad_baseform.index.name = None
 
-    words_bad_baseform.to_csv(words_bad_baseform_path, sep="|")
+    words_bad_baseform.to_csv(config.path.words_bad_baseform, sep="|")
 
     return words_bad_baseform
 
 
 def partition_deck_raw(
+    config: type[ConstConfig],
     deck_raw: type[pd.DataFrame],
-    word_counts_path: type[Path],
-    rare_words_max_occurences: int,
-    rare_words_min_count: int,
-    words_bad_baseform_path: type[Path],
-    deck_raw_path: type[Path],
-    nlp: type[spacy.Language],
-    sentence_length_min: int,
-    sentence_length_max: int,
 ):
-    deck_raw = filter_deck_raw_by_sentence_length(
-        deck_raw=deck_raw,
-        deck_raw_path=deck_raw_path,
-        sentence_length_min=sentence_length_min,
-        sentence_length_max=sentence_length_max,
-    )
+    deck_raw = filter_deck_raw_by_sentence_length(config=config, deck_raw=deck_raw)
 
-    deck_raw = update_deck_raw_lemmatized_sentences(
-        deck_raw=deck_raw, deck_raw_path=deck_raw_path, nlp=nlp
-    )
+    deck_raw = update_deck_raw_lemmatized_sentences(config=config, deck_raw=deck_raw)
 
-    word_stats = update_word_counts(
-        deck_raw=deck_raw, word_counts_path=word_counts_path
-    )
+    word_stats = update_word_counts(config=config, deck_raw=deck_raw)
 
     rows_with_data, rows_without_data = partition_deck_raw_by_having_sentence_de(
-        deck_raw=deck_raw, deck_raw_path=deck_raw_path
+        config=config, deck_raw=deck_raw
     )
 
-    words_bad_baseform = update_words_bad_baseform(
-        deck_raw=deck_raw, words_bad_baseform_path=words_bad_baseform_path
-    )
+    words_bad_baseform = update_words_bad_baseform(config=config, deck_raw=deck_raw)
 
     # TODO
 
@@ -516,11 +582,10 @@ def partition_deck_raw(
         rows_with_data.iloc[::-1]
         .apply(
             lambda row: check_is_correct_sentence(
+                config=config,
                 row=row,
                 word_stats=word_stats,
                 words_bad_wordforms=words_bad_baseform,
-                rare_words_max_occurences=rare_words_max_occurences,
-                rare_words_min_count=rare_words_min_count,
             ),
             axis=1,
         )
@@ -533,107 +598,56 @@ def partition_deck_raw(
         ["word_de", "part_of_speech", "word_en"]
     ]
 
-    rows_without_data = pd.concat(
-        [has_incorrect_sentence, rows_without_data]
-    ).sort_index()
+    has_no_data = pd.concat([has_incorrect_sentence, rows_without_data]).sort_index()
 
-    deck_raw = pd.concat([has_correct_sentence, rows_without_data])
+    deck_raw = pd.concat([has_correct_sentence, has_no_data])
     deck_raw = deck_raw[~deck_raw.index.duplicated()]
 
-    write_deck_raw(deck_raw=deck_raw, deck_raw_path=deck_raw_path)
+    write_deck_raw(config=config, deck_raw=deck_raw)
 
     return deck_raw
 
 
-@dataclass
-class APIRequestsArgs:
-    requests_filepath: Optional[str] = None
-    save_filepath: Optional[str] = None
-    request_url: Optional[str] = None
-    api_key: str = OPENAI_API_KEY
-    max_requests_per_minute: float = 3_000 * 0.5
-    max_tokens_per_minute: float = 250_000 * 0.5
-    token_encoding_name: str = "cl100k_base"
-    max_attempts: int = 5
-    logging_level: int = logging.INFO
-
-
 async def update_deck_raw(
-    word_counts_path: type[Path],
-    deck_raw_path: type[Path],
-    rare_words_max_occurences: int,
-    rare_words_min_count: int,
-    words_bad_baseform_path: type[Path],
-    part_count_per_iteration: int,
-    part_size: int,
-    parallel_requests_path: type[Path],
-    parallel_responses_path: type[Path],
-    parallel_responses_concatenated_path: type[Path],
-    api_requests_args: type[APIRequestsArgs],
-    model: MODEL,
-    nlp: type[spacy.Language],
-    sentence_length_min: int,
-    sentence_length_max: int,
-    has_part_of_speech: bool,
-    has_word_en: bool,
+    config: type[ConstConfig], update_word_lists: Callable[[], [None]]
 ):
+    update_word_lists(config=config)
+    
     def partition(deck_raw: type[pd.DataFrame]):
-        return partition_deck_raw(
-            deck_raw=deck_raw,
-            word_counts_path=word_counts_path,
-            deck_raw_path=deck_raw_path,
-            rare_words_max_occurences=rare_words_max_occurences,
-            rare_words_min_count=rare_words_min_count,
-            words_bad_baseform_path=words_bad_baseform_path,
-            nlp=nlp,
-            sentence_length_min=sentence_length_min,
-            sentence_length_max=sentence_length_max,
-        )
+        return partition_deck_raw(config=config, deck_raw=deck_raw)
 
-    deck_raw = read_csv(deck_raw_path)
+    deck_raw = read_csv(config.path.deck_raw)
 
     deck_raw = partition(deck_raw=deck_raw)
 
     prepare_requests(
+        config=config,
         deck_raw=deck_raw,
-        part_count_per_iteration=part_count_per_iteration,
-        part_size=part_size,
-        model=model,
-        parallel_requests_path=parallel_requests_path,
-        parallel_responses_path=parallel_responses_path,
-        has_part_of_speech=has_part_of_speech,
-        has_word_en=has_word_en,
     )
 
     await process_api_requests_from_file(
-        requests_filepath=api_requests_args.requests_filepath,
-        save_filepath=api_requests_args.save_filepath,
-        request_url=api_requests_args.request_url,
-        api_key=api_requests_args.api_key,
-        max_requests_per_minute=api_requests_args.max_requests_per_minute,
-        max_tokens_per_minute=api_requests_args.max_tokens_per_minute,
-        token_encoding_name=api_requests_args.token_encoding_name,
-        max_attempts=api_requests_args.max_attempts,
-        logging_level=api_requests_args.logging_level,
+        requests_filepath=config.api_requests_args.requests_filepath,
+        save_filepath=config.api_requests_args.save_filepath,
+        request_url=config.api_requests_args.request_url,
+        api_key=config.api_requests_args.api_key,
+        max_requests_per_minute=config.api_requests_args.max_requests_per_minute,
+        max_tokens_per_minute=config.api_requests_args.max_tokens_per_minute,
+        token_encoding_name=config.api_requests_args.token_encoding_name,
+        max_attempts=config.api_requests_args.max_attempts,
+        logging_level=config.api_requests_args.logging_level,
     )
 
-    write_parallel_responses(
-        parallel_responses_path=parallel_responses_path,
-        parallel_responses_concatenated_path=parallel_responses_concatenated_path,
-    )
+    write_parallel_responses(config=config)
 
-    deck_raw = write_responses_to_deck_raw(
-        parallel_responses_concatenated_path=parallel_responses_concatenated_path,
-        deck_raw_path=deck_raw_path,
-    )
+    deck_raw = write_responses_to_deck_raw(config=config)
 
     partition(deck_raw=deck_raw)
 
 
 async def generate_deck_data_iteratively(
-    generate_deck_data: Callable[[], Awaitable[None]], iterations: int
+    config: type[ConstConfig],
+    generate_deck_data: Callable[[], Awaitable[None]],
 ):
-    for i in range(iterations):
+    for i in range(config.generation_settings.iterations):
         print(f"Iteration: {i}")
-
         await generate_deck_data()

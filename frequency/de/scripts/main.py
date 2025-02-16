@@ -23,9 +23,16 @@ from custom.de.script.lib import (
     leq,
     update_deck_raw,
     write_deck_raw,
-    APIRequestsArgs,
-    MODEL,
+    ApiRequestsArgs,
     generate_deck_data_iteratively,
+    Model,
+    ConstConfig,
+    ConstPath,
+    ConstRareWords,
+    ConstGenerationSettings,
+    ConstPromptSettings,
+    ConstSentenceLength,
+    ARTICLES_FULL,
 )
 
 
@@ -33,19 +40,19 @@ FREQUENCY_CUTOFF_1 = 1700
 FREQUENCY_CUTOFF_2 = 3400
 
 
-class PATH:
-    PWD = Path(".")
-    DE_EN = PWD / "de-en"
-    DATA = PWD / "de-en" / "data"
-    DECK = DE_EN / "deck.csv"
-    EXTRA = DATA / "extra.csv"
-    DECK_RAW = DATA / "deck-raw.csv"
-    WORD_COUNT = DATA / "word-count.csv"
-    WORDS_BAD_BASEFORM = DATA / "words-bad-baseform.csv"
-    WORDS_TOO_FREQUENT = DATA / "words-too-frequent.csv"
-    PARALLEL_REQUESTS = DATA / "parallel-requests.jsonl"
-    PARALLEL_RESPONSES = DATA / "parallel-responses.jsonl"
-    PARALLEL_RESPONSES_CONCATENATED = DATA / "parallel-responses-concatenated.csv"
+class PATH_ALL:
+    pwd = Path(".")
+    de_en = pwd / "de-en"
+    data = pwd / "de-en" / "data"
+    deck = de_en / "deck.csv"
+    extra = data / "extra.csv"
+    deck_raw = data / "deck-raw.csv"
+    word_count = data / "word-count.csv"
+    words_bad_baseform = data / "words-bad-baseform.csv"
+    words_too_frequent = data / "words-too-frequent.csv"
+    parallel_requests = data / "parallel-requests.jsonl"
+    parallel_responses = data / "parallel-responses.jsonl"
+    parallel_responses_concatenated = data / "parallel-responses-concatenated.csv"
 
 
 class DECK_PART_START_INDEX:
@@ -61,24 +68,49 @@ class INDEX_SUFFIX:
     NEW_WORD = 0.0001
 
 
-ARTICLES_FULL = ["die", "der", "das"]
-
 LEMMATIZED_SEP = ";"
 
-class RARE_WORDS:
-    MIN_COUNT = 2
-    MAX_OCCURENCES = 3
+GENERATION_SETTINGS = ConstGenerationSettings(
+    iterations=20, block_size=70, blocks_per_iteration=20
+)
 
+PATH = ConstPath(
+    word_counts=PATH_ALL.word_count,
+    deck_raw=PATH_ALL.deck,
+    words_bad_baseform=PATH_ALL.words_bad_baseform,
+    parallel_requests=PATH_ALL.parallel_requests,
+    parallel_responses=PATH_ALL.parallel_responses,
+    parallel_responses_concatenated=PATH_ALL.parallel_responses_concatenated,
+)
 
-class PART:
-    ITERATIONS = 1
-    SIZE = 30
-    COUNT_PER_ITERATION = 2
+SENTENCE_LENGTH = ConstSentenceLength(mini=60, maxi=70)
 
+RARE_WORDS = ConstRareWords(min_count_in_sentence=2, max_occurences_in_deck=3)
 
-class SENTENCE_LENGTH:
-    MIN = 60
-    MAX = 70
+# Genius API access token (replace this with your own token)
+ACCESS_TOKEN = os.getenv("GENIUS_CLIENT_ACCESS_TOKEN")
+BASE_URL = "https://api.genius.com"
+
+API_REQUESTS_ARGS = ApiRequestsArgs(
+    requests_filepath=f"{PATH_ALL.data}/parallel-requests.jsonl",
+    save_filepath=f"{PATH_ALL.data}/parallel-responses.jsonl",
+    max_attempts=3,
+    request_url="https://api.openai.com/v1/chat/completions",
+)
+
+PROMPT_SETTINGS = ConstPromptSettings(has_part_of_speech=False, has_word_en=False)
+
+CONFIG = ConstConfig(
+    rare_words=RARE_WORDS,
+    generation_settings=GENERATION_SETTINGS,
+    sentence_length=SENTENCE_LENGTH,
+    path=PATH_ALL,
+    model=Model.CHATGPT_4O_MINI,
+    prompt_settings=PROMPT_SETTINGS,
+    nlp=nlp,
+    api_requests_args=API_REQUESTS_ARGS,
+    lemmatized_sep=LEMMATIZED_SEP,
+)
 
 
 def normalize_index_single(index: float):
@@ -91,8 +123,8 @@ def normalize_index(df: pd.DataFrame):
 
 def write_deck(deck: pd.DataFrame()):
     normalize_index(deck)
-    deck.to_csv(PATH.DECK, sep="|")
-    remove_separators_in_file(path=PATH.DECK)
+    deck.to_csv(PATH_ALL.deck, sep="|")
+    remove_separators_in_file(path=PATH_ALL.deck)
 
 
 def normalize_verb(x: pd.DataFrame):
@@ -107,7 +139,7 @@ def normalize_verb(x: pd.DataFrame):
 
 
 def add_deck_rows_for_alternative_translations():
-    deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
+    deck = pd.read_csv(PATH_ALL.deck, sep="|", index_col=0)
 
     custom_row_cond = deck.index.map(
         lambda x: INDEX_SUFFIX.NEW_WORD
@@ -218,10 +250,10 @@ def add_deck_rows_for_alternative_translations():
     write_deck(deck=deck_updated)
 
     extra = pd.concat([deck_custom_rows, extra_rows])
-    extra.to_csv(PATH.EXTRA, sep="|")
+    extra.to_csv(PATH_ALL.extra, sep="|")
 
 
-def copy_deck_to_deck_raw(deck_path: type[Path], deck_raw_path: type[Path]):
+def copy_deck_to_deck_raw(config: type[ConstConfig], deck_path: type[Path]):
     deck = pd.read_csv(deck_path, sep="|", index_col=0)
 
     columns = [
@@ -229,10 +261,10 @@ def copy_deck_to_deck_raw(deck_path: type[Path], deck_raw_path: type[Path]):
         "part_of_speech",
         "word_en",
     ]
-    if not Path(deck_raw_path).is_file():
-        pd.DataFrame(columns=columns).to_csv(deck_raw_path, sep="|")
+    if not Path(config.path.deck_raw).is_file():
+        pd.DataFrame(columns=columns).to_csv(config.path.deck_raw, sep="|")
 
-    deck_raw = pd.read_csv(deck_raw_path, sep="|", index_col=0)
+    deck_raw = pd.read_csv(config.path.deck_raw, sep="|", index_col=0)
 
     deck_missing_rows = deck.loc[~deck.index.isin(deck_raw.index), columns]
 
@@ -240,20 +272,20 @@ def copy_deck_to_deck_raw(deck_path: type[Path], deck_raw_path: type[Path]):
 
     deck_raw = pd.concat([deck_raw, deck_missing_rows])
 
-    write_deck_raw(deck_raw=deck_raw, deck_raw_path=deck_raw_path)
+    write_deck_raw(config=config, deck_raw=deck_raw)
 
     return deck_raw
 
 
 def copy_deck_raw_to_deck():
-    deck_raw = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
-    deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
+    deck_raw = pd.read_csv(PATH_ALL.deck_raw, sep="|", index_col=0)
+    deck = pd.read_csv(PATH_ALL.deck, sep="|", index_col=0)
     has_sentence_cond = deck_raw["sentence_de"].notna()
     columns = ["sentence_de", "sentence_en", "sentence_lemmatized_de"]
-    
+
     print("'deck' rows with indices not in 'deck_raw':")
     display(deck[~deck.index.isin(deck_raw.index)])
-    
+
     print("'deck_raw' rows with indices not in 'deck':")
     display(deck_raw[~deck_raw.index.isin(deck.index)])
 
@@ -267,34 +299,9 @@ def copy_deck_raw_to_deck():
 async def generate_deck_data():
     print("Starting update")
 
-    copy_deck_to_deck_raw(deck_path=PATH.DECK, deck_raw_path=PATH.DECK_RAW)
+    copy_deck_to_deck_raw(config=CONFIG, deck_path=PATH_ALL.deck)
 
-    api_requests_args = APIRequestsArgs(
-        requests_filepath=f"{PATH.DATA}/parallel-requests.jsonl",
-        save_filepath=f"{PATH.DATA}/parallel-responses.jsonl",
-        max_attempts=3,
-        request_url="https://api.openai.com/v1/chat/completions",
-    )
-
-    await update_deck_raw(
-        word_counts_path=PATH.WORD_COUNT,
-        deck_raw_path=PATH.DECK_RAW,
-        rare_words_max_occurences=RARE_WORDS.MAX_OCCURENCES,
-        rare_words_min_count=RARE_WORDS.MIN_COUNT,
-        words_bad_baseform_path=PATH.WORDS_BAD_BASEFORM,
-        part_count_per_iteration=PART.COUNT_PER_ITERATION,
-        part_size=PART.SIZE,
-        parallel_requests_path=PATH.PARALLEL_REQUESTS,
-        parallel_responses_path=PATH.PARALLEL_RESPONSES,
-        parallel_responses_concatenated_path=PATH.PARALLEL_RESPONSES_CONCATENATED,
-        api_requests_args=api_requests_args,
-        model=MODEL.CHATGPT_4O_MINI,
-        nlp=nlp,
-        sentence_length_min=SENTENCE_LENGTH.MIN,
-        sentence_length_max=SENTENCE_LENGTH.MAX,
-        has_part_of_speech=True,
-        has_word_en=True,
-    )
+    await update_deck_raw(config=CONFIG)
 
     copy_deck_raw_to_deck()
 
@@ -308,7 +315,7 @@ add_deck_rows_for_alternative_translations()
 # %%
 
 await generate_deck_data_iteratively(
-    generate_deck_data=generate_deck_data, iterations=PART.ITERATIONS
+    config=CONFIG, generate_deck_data=generate_deck_data
 )
 
 # %%
