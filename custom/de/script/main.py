@@ -40,6 +40,7 @@ from custom.de.script.lib import (
     MODEL,
     read_csv,
     update_words_bad_baseform,
+    generate_deck_data_iteratively,
 )
 
 
@@ -593,13 +594,6 @@ async def generate_deck_data():
     print("Update completed!")
 
 
-async def update_deck_data():
-    for i in range(PART.ITERATIONS):
-        print(f"Iteration: {i}")
-
-        await generate_deck_data()
-
-
 def get_response_json(response):
     return response.json()
 
@@ -828,7 +822,9 @@ update_word_lists()
 
 # %%
 
-await update_deck_data()
+await generate_deck_data_iteratively(
+    generate_deck_data=generate_deck_data, iterations=PART.ITERATIONS
+)
 
 # %%
 

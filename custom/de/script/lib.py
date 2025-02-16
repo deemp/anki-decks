@@ -10,8 +10,9 @@ from custom.de.script.api_request_parallel_processor import (
     process_api_requests_from_file,
 )
 from dataclasses import dataclass
-from typing import Optional
+from typing import Optional, Callable, Awaitable
 import logging
+from IPython.display import display
 
 OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
 
@@ -24,7 +25,7 @@ LEMMATIZED_SEP = ";"
 data_path = Path(f'{os.environ["ROOT_DIR"]}/custom/de/data')
 
 DEWIKI_NOUN_ARTICLES = pd.read_csv(data_path / "dewiki-noun-articles.csv", sep="|")
-LEMMATA = pd.read_csv("data/dwds_lemmata_2025-01-15.csv")
+LEMMATA = pd.read_csv(data_path / "dwds_lemmata_2025-01-15.csv")
 
 
 class MODEL(StrEnum):
@@ -200,6 +201,9 @@ def prepare_requests(
 
     deck_raw_no_data = deck_raw[deck_raw["sentence_de"].isna()]
 
+    if deck_raw_no_data.empty:
+        raise Exception("No empty rows to generate data for!")
+
     part_count_per_iteration = min(
         part_count_per_iteration, math.ceil(deck_raw_no_data.shape[0] / part_size)
     )
@@ -277,10 +281,15 @@ def write_responses_to_deck_raw(
     df_responses["sentence_lemmatized_de"] = None
     df_responses.columns = deck_raw.columns
 
-
     deck_raw.loc[in_deck_raw_cond] = df_responses.loc[in_deck_raw_cond]
 
-    columns_strip = ["word_de", "part_of_speech", "word_en", "sentence_de", "sentence_en"]
+    columns_strip = [
+        "word_de",
+        "part_of_speech",
+        "word_en",
+        "sentence_de",
+        "sentence_en",
+    ]
     deck_raw[columns_strip] = deck_raw[columns_strip].apply(lambda x: x.str.strip())
 
     deck_raw.to_csv(deck_raw_path, sep="|")
@@ -328,7 +337,8 @@ def check_is_correct_sentence(
     row: type[pd.Series],
     word_stats: type[pd.DataFrame],
     words_bad_wordforms: type[pd.DataFrame],
-    max_occurences: int,
+    rare_words_max_occurences: int,
+    rare_words_min_count: int,
 ) -> bool:
     word_de = row["word_de"]
     word_de = (
@@ -357,9 +367,9 @@ def check_is_correct_sentence(
     sentence_contains_rare_words = (
         sum(
             (word_counts["word_de"] != word_de)
-            & (word_counts["count"] <= max_occurences)
+            & (word_counts["count"] <= rare_words_max_occurences)
         )
-        >= 3
+        >= rare_words_min_count
     )
 
     result = sentence_contains_rare_words & word_is_in_the_sentence
@@ -461,7 +471,8 @@ def update_words_bad_baseform(
 def partition_deck_raw(
     deck_raw: type[pd.DataFrame],
     word_counts_path: type[Path],
-    max_occurences: int,
+    rare_words_max_occurences: int,
+    rare_words_min_count: int,
     words_bad_baseform_path: type[Path],
     deck_raw_path: type[Path],
     nlp: type[spacy.Language],
@@ -508,7 +519,8 @@ def partition_deck_raw(
                 row=row,
                 word_stats=word_stats,
                 words_bad_wordforms=words_bad_baseform,
-                max_occurences=max_occurences,
+                rare_words_max_occurences=rare_words_max_occurences,
+                rare_words_min_count=rare_words_min_count,
             ),
             axis=1,
         )
@@ -549,7 +561,8 @@ class APIRequestsArgs:
 async def update_deck_raw(
     word_counts_path: type[Path],
     deck_raw_path: type[Path],
-    max_occurences: int,
+    rare_words_max_occurences: int,
+    rare_words_min_count: int,
     words_bad_baseform_path: type[Path],
     part_count_per_iteration: int,
     part_size: int,
@@ -564,7 +577,22 @@ async def update_deck_raw(
     has_part_of_speech: bool,
     has_word_en: bool,
 ):
-    deck_raw = pd.read_csv(deck_raw_path, sep="|", index_col=0)
+    def partition(deck_raw: type[pd.DataFrame]):
+        return partition_deck_raw(
+            deck_raw=deck_raw,
+            word_counts_path=word_counts_path,
+            deck_raw_path=deck_raw_path,
+            rare_words_max_occurences=rare_words_max_occurences,
+            rare_words_min_count=rare_words_min_count,
+            words_bad_baseform_path=words_bad_baseform_path,
+            nlp=nlp,
+            sentence_length_min=sentence_length_min,
+            sentence_length_max=sentence_length_max,
+        )
+
+    deck_raw = read_csv(deck_raw_path)
+
+    deck_raw = partition(deck_raw=deck_raw)
 
     prepare_requests(
         deck_raw=deck_raw,
@@ -599,13 +627,13 @@ async def update_deck_raw(
         deck_raw_path=deck_raw_path,
     )
 
-    partition_deck_raw(
-        deck_raw=deck_raw,
-        word_counts_path=word_counts_path,
-        deck_raw_path=deck_raw_path,
-        max_occurences=max_occurences,
-        words_bad_baseform_path=words_bad_baseform_path,
-        nlp=nlp,
-        sentence_length_min=sentence_length_min,
-        sentence_length_max=sentence_length_max,
-    )
+    partition(deck_raw=deck_raw)
+
+
+async def generate_deck_data_iteratively(
+    generate_deck_data: Callable[[], Awaitable[None]], iterations: int
+):
+    for i in range(iterations):
+        print(f"Iteration: {i}")
+
+        await generate_deck_data()

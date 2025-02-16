@@ -39,7 +39,7 @@ class PATH:
     DATA = PWD / "de-en" / "data"
     DECK = DE_EN / "deck.csv"
     EXTRA = DATA / "extra.csv"
-    DECK_RAW = DATA / "deck-raw-gpt-4o-2024-11-20-length-60-70.csv"
+    DECK_RAW = DATA / "deck-raw.csv"
     WORD_COUNT = DATA / "word-count.csv"
     WORDS_BAD_BASEFORM = DATA / "words-bad-baseform.csv"
     WORDS_TOO_FREQUENT = DATA / "words-too-frequent.csv"
@@ -65,13 +65,13 @@ ARTICLES_FULL = ["die", "der", "das"]
 
 LEMMATIZED_SEP = ";"
 
-MIN_WORDS = 2
-
-MAX_OCCURENCES = 3
+class RARE_WORDS:
+    MIN_COUNT = 2
+    MAX_OCCURENCES = 3
 
 
 class PART:
-    ITERATIONS = 2
+    ITERATIONS = 1
     SIZE = 30
     COUNT_PER_ITERATION = 2
 
@@ -250,11 +250,12 @@ def copy_deck_raw_to_deck():
     deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
     has_sentence_cond = deck_raw["sentence_de"].notna()
     columns = ["sentence_de", "sentence_en", "sentence_lemmatized_de"]
-
-    display(
-        deck.index[~deck.index.isin(deck_raw.index)],
-        deck_raw.index[~deck_raw.index.isin(deck.index)],
-    )
+    
+    print("'deck' rows with indices not in 'deck_raw':")
+    display(deck[~deck.index.isin(deck_raw.index)])
+    
+    print("'deck_raw' rows with indices not in 'deck':")
+    display(deck_raw[~deck_raw.index.isin(deck.index)])
 
     deck.loc[has_sentence_cond, columns] = deck_raw.loc[
         has_sentence_cond, columns
@@ -278,7 +279,8 @@ async def generate_deck_data():
     await update_deck_raw(
         word_counts_path=PATH.WORD_COUNT,
         deck_raw_path=PATH.DECK_RAW,
-        max_occurences=MAX_OCCURENCES,
+        rare_words_max_occurences=RARE_WORDS.MAX_OCCURENCES,
+        rare_words_min_count=RARE_WORDS.MIN_COUNT,
         words_bad_baseform_path=PATH.WORDS_BAD_BASEFORM,
         part_count_per_iteration=PART.COUNT_PER_ITERATION,
         part_size=PART.SIZE,
