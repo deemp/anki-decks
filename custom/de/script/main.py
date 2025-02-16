@@ -16,6 +16,16 @@ from ruamel.yaml.scalarstring import LiteralScalarString
 
 os.chdir(f'{os.environ["ROOT_DIR"]}/custom/de')
 
+yaml = YAML()
+
+nlp = spacy.load("de_dep_news_trf")
+
+# %%
+
+import custom.de.script.lib as lib
+
+importlib.reload(lib)
+
 from custom.de.script.lib import (
     DEWIKI_ARTICLES_SEP,
     ARTICLES_DICT,
@@ -25,18 +35,16 @@ from custom.de.script.lib import (
     tokenize_sentence,
     remove_separators_in_file,
     make_is_lemma_cond,
+    APIRequestsArgs,
+    update_deck_raw,
+    MODEL,
+    read_csv,
+    update_words_bad_baseform,
 )
 
-import custom.de.script.lib as lib
-
-importlib.reload(lib)
-
-yaml = YAML()
-
-#%%
 
 LYRICS_LEMMATIZED_SEP = ";"
-MAX_OCCURENCES = 5
+MAX_OCCURENCES = 2
 
 
 class PATH:
@@ -55,6 +63,10 @@ class PATH:
     SOURCES_WORDS_NOT_LEMMAS = SOURCES / "words-not-lemmas.csv"
     SOURCES_WORDS = SOURCES / "words.csv"
     WORD_COUNT = DATA / "word-count.csv"
+    PARALLEL_REQUESTS = DATA / "parallel-requests.jsonl"
+    PARALLEL_RESPONSES = DATA / "parallel-responses.jsonl"
+    PARALLEL_RESPONSES_CONCATENATED = DATA / "parallel-responses-concatenated.csv"
+    WORDS_BAD_BASEFORM = DATA / "words-bad-baseform.csv"
 
 
 class INDEX_SUFFIX:
@@ -63,8 +75,23 @@ class INDEX_SUFFIX:
 
 
 class SENTENCE_LENGTH:
-    MIN = 40
-    MAX = 60
+    MIN = 60
+    MAX = 70
+
+
+class PART:
+    ITERATIONS = 2
+    SIZE = 10
+    COUNT_PER_ITERATION = 2
+
+
+# Genius API access token (replace this with your own token)
+ACCESS_TOKEN = os.getenv("GENIUS_CLIENT_ACCESS_TOKEN")
+BASE_URL = "https://api.genius.com"
+
+PLAYLIST_DATA_PATH = "data/sources/playlist/data.csv"
+PLAYLIST_DATA_YAML_PATH = "data/sources/playlist/data.yaml"
+PLAYLIST_RAW_PATH = "data/sources/playlist/raw.csv"
 
 
 # TODO use the list of nouns and the list of lemmata (uppercase)
@@ -81,10 +108,10 @@ def get_lemmas_articles(nouns: pd.DataFrame):
     return lemmas_with_articles
 
 
-def update_lemmatized_sources(path_yaml: Path):
-    sources_lemmatized = pd.read_csv(PATH.SOURCES_LEMMATIZED, sep="|", index_col=0)
+def update_lemmatized_sources():
+    sources_lemmatized = read_csv(PATH.SOURCES_LEMMATIZED)
 
-    with open(path_yaml, mode="r", encoding="UTF-8") as f:
+    with open(PATH.PLAYLIST_DATA_YAML, mode="r", encoding="UTF-8") as f:
         sources = yaml.load(f)
 
     sources_new = pd.DataFrame(
@@ -125,7 +152,7 @@ def update_lemmatized_sources(path_yaml: Path):
 
 
 def update_sources_words() -> pd.DataFrame():
-    lyrics_lemmatized = pd.read_csv(PATH.SOURCES_LEMMATIZED, sep="|", index_col=0)
+    lyrics_lemmatized = read_csv(PATH.SOURCES_LEMMATIZED)
 
     texts = lyrics_lemmatized[["text"]]
     texts.loc[:, "text"] = texts.loc[:, "text"].map(
@@ -203,7 +230,7 @@ def update_words_not_lemmas(words_not_lemmas_new: pd.DataFrame()):
 def copy_lemmas_from_words_not_lemmas_to_words_lemmas(
     words_lemmas_new: pd.DataFrame(), words_not_lemmas: pd.DataFrame()
 ):
-    words_lemmas_existing = pd.read_csv(PATH.SOURCES_WORDS_LEMMAS, sep="|", index_col=0)
+    words_lemmas_existing = read_csv(PATH.SOURCES_WORDS_LEMMAS)
 
     words_lemmas_new = words_lemmas_new.join(
         words_lemmas_existing.reset_index(drop=True).set_index("lemma"), on="lemma"
@@ -304,7 +331,7 @@ def write_deck(deck: pd.DataFrame()):
 
 
 def copy_words_lemmas_to_deck(words_lemmas: pd.DataFrame()):
-    deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
+    deck = read_csv(PATH.DECK)
 
     deck_custom_rows = deck[
         deck.index.map(
@@ -314,7 +341,7 @@ def copy_words_lemmas_to_deck(words_lemmas: pd.DataFrame()):
         )
     ]
 
-    known = pd.read_csv(PATH.KNOWN, sep="|", index_col=0)
+    known = read_csv(PATH.KNOWN)
 
     deck = deck.set_index("word_de")
 
@@ -362,8 +389,6 @@ def update_deck_lemmatized_sentences(deck: pd.DataFrame()):
 
 
 def update_word_counts(deck=pd.DataFrame()):
-    # Why read deck here?
-    # deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
     words = pd.DataFrame(
         deck["sentence_lemmatized_de"]
         .map(lambda x: x.split(";"), na_action="ignore")
@@ -404,10 +429,10 @@ def check_is_correct_sentence(row: pd.Series(), word_stats: pd.DataFrame()) -> b
     return result
 
 
-def partition_deck_by_having_data(deck: pd.DataFrame()):
-    has_data_cond = deck["word_en"].notna()
+def partition_deck_by_having_sentence(deck: pd.DataFrame()):
+    has_data_cond = deck["sentence_de"].notna()
     rows_with_data = deck[has_data_cond].sort_index()
-    rows_without_data = deck[~has_data_cond].sort_index()
+    rows_without_data = deck.loc[~has_data_cond, "word_de"].sort_index()
 
     deck = pd.concat([rows_with_data, rows_without_data])
 
@@ -417,27 +442,27 @@ def partition_deck_by_having_data(deck: pd.DataFrame()):
 
 
 def filter_deck_by_sentence_length(deck: pd.DataFrame()):
-    rows_with_data, rows_without_data = partition_deck_by_having_data(deck=deck)
+    rows_with_sentence, rows_without_sentence = partition_deck_by_having_sentence(
+        deck=deck
+    )
 
-    is_good_sentence_length_cond = rows_with_data["sentence_de"].map(
+    is_good_sentence_length_cond = rows_with_sentence["sentence_de"].map(
         lambda x: (
             SENTENCE_LENGTH.MIN <= len(x) <= SENTENCE_LENGTH.MAX
             if isinstance(x, str)
             else False
         )
     )
-    rows_with_good_sentence_length = rows_with_data[is_good_sentence_length_cond]
+    rows_with_good_sentence_length = rows_with_sentence[is_good_sentence_length_cond]
     rows_with_bad_sentence_length = pd.DataFrame(
-        rows_with_data.loc[
-            ~is_good_sentence_length_cond, ["word_de", "part_of_speech", "word_en"]
-        ]
+        rows_with_sentence.loc[~is_good_sentence_length_cond, ["word_de"]]
     )
 
     deck = pd.concat(
         [
             rows_with_good_sentence_length,
             rows_with_bad_sentence_length,
-            rows_without_data,
+            rows_without_sentence,
         ]
     )
 
@@ -450,7 +475,9 @@ def partition_deck_for_generation(deck: pd.DataFrame()):
     deck = filter_deck_by_sentence_length(deck=deck)
     deck = update_deck_lemmatized_sentences(deck=deck)
     word_stats = update_word_counts(deck=deck)
-    rows_with_data, rows_without_data = partition_deck_by_having_data(deck=deck)
+    rows_with_sentence, rows_without_sentence = partition_deck_by_having_sentence(
+        deck=deck
+    )
 
     # prefer removing rows with a larger index
     # to change rows with smaller index less frequently
@@ -461,7 +488,7 @@ def partition_deck_for_generation(deck: pd.DataFrame()):
     # that increased word counts
     # and hence disallowed rows with smaller indices to stay
     is_correct_sentence_cond = (
-        rows_with_data.iloc[::-1]
+        rows_with_sentence.iloc[::-1]
         .apply(
             lambda row: check_is_correct_sentence(row=row, word_stats=word_stats),
             axis=1,
@@ -469,24 +496,19 @@ def partition_deck_for_generation(deck: pd.DataFrame()):
         .iloc[::-1]
     )
 
-    has_correct_sentence = rows_with_data[is_correct_sentence_cond]
-    has_incorrect_sentence = rows_with_data[~is_correct_sentence_cond]
-    has_incorrect_sentence = has_incorrect_sentence["word_de"]
+    rows_with_correct_sentence = rows_with_sentence[is_correct_sentence_cond]
 
-    rows_without_data = pd.concat(
-        [has_incorrect_sentence, rows_without_data]
-    ).sort_index()
+    rows_with_incorrect_sentence = rows_with_sentence.loc[~is_correct_sentence_cond]
 
-    deck = pd.concat([has_correct_sentence, rows_without_data])
+    rows_without_sentence = pd.concat(
+        [rows_with_incorrect_sentence, rows_without_sentence]
+    ).sort_index()["word_de"]
+
+    deck = pd.concat([rows_with_correct_sentence, rows_without_sentence])
 
     write_deck(deck=deck)
 
     return deck
-
-
-def update_deck():
-    deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
-    partition_deck_for_generation(deck=deck)
 
 
 def update_word_lists():
@@ -495,22 +517,23 @@ def update_word_lists():
     words_not_lemmas = update_words_not_lemmas(
         words_not_lemmas_new=words[~make_is_lemma_cond(words["word"])]
     )
+
     words_lemmas = copy_lemmas_from_words_not_lemmas_to_words_lemmas(
         words_lemmas_new=words[make_is_lemma_cond(words["word"])].rename(
             columns={"word": "lemma"}
         ),
         words_not_lemmas=words_not_lemmas,
     )
+
     words_lemmas = update_lemmas_correct(words_lemmas=words_lemmas)
 
     deck = copy_words_lemmas_to_deck(words_lemmas=words_lemmas)
 
-    filter_deck_by_sentence_length(deck=deck)
+    deck = filter_deck_by_sentence_length(deck=deck)
 
-
-def update_all():
-    update_word_lists()
-    update_deck()
+    update_words_bad_baseform(
+        deck_raw=deck, words_bad_baseform_path=PATH.WORDS_BAD_BASEFORM
+    )
 
 
 def update_dewiki_articles_dictionary():
@@ -538,57 +561,59 @@ def update_dewiki_articles_dictionary():
     noun_articles.to_csv("data/dewiki-noun-articles.csv", sep="|")
 
 
-# %%
+async def generate_deck_data():
+    print("Starting update")
 
-# TODO reuse words, not indices in deck
-update_lemmatized_sources(path_yaml=PATH.PLAYLIST_DATA_YAML)
+    api_requests_args = APIRequestsArgs(
+        requests_filepath=f"{PATH.DATA}/parallel-requests.jsonl",
+        save_filepath=f"{PATH.DATA}/parallel-responses.jsonl",
+        max_attempts=3,
+        request_url="https://api.openai.com/v1/chat/completions",
+    )
 
-# %%
+    await update_deck_raw(
+        word_counts_path=PATH.WORD_COUNT,
+        deck_raw_path=PATH.DECK,
+        max_occurences=MAX_OCCURENCES,
+        words_bad_baseform_path=PATH.WORDS_BAD_BASEFORM,
+        part_count_per_iteration=PART.COUNT_PER_ITERATION,
+        part_size=PART.SIZE,
+        parallel_requests_path=PATH.PARALLEL_REQUESTS,
+        parallel_responses_path=PATH.PARALLEL_RESPONSES,
+        parallel_responses_concatenated_path=PATH.PARALLEL_RESPONSES_CONCATENATED,
+        api_requests_args=api_requests_args,
+        model=MODEL.CHATGPT_4O_MINI,
+        nlp=nlp,
+        sentence_length_min=SENTENCE_LENGTH.MIN,
+        sentence_length_max=SENTENCE_LENGTH.MAX,
+        has_part_of_speech=False,
+        has_word_en=False,
+    )
 
-update_word_lists()
-
-# %%
-
-update_deck()
-
-# %%
-
-update_all()
-
-# %%
-
-update_dewiki_articles_dictionary()
-
-# %%
-
-update_word_counts()
-
-# %%
-
-
-# Genius API access token (replace this with your own token)
-ACCESS_TOKEN = os.getenv("GENIUS_CLIENT_ACCESS_TOKEN")
-BASE_URL = "https://api.genius.com"
-
-PLAYLIST_DATA_PATH = "data/sources/playlist/data.csv"
-PLAYLIST_DATA_YAML_PATH = "data/sources/playlist/data.yaml"
-PLAYLIST_RAW_PATH = "data/sources/playlist/raw.csv"
+    print("Update completed!")
 
 
-def read_json(response):
+async def update_deck_data():
+    for i in range(PART.ITERATIONS):
+        print(f"Iteration: {i}")
+
+        await generate_deck_data()
+
+
+def get_response_json(response):
     return response.json()
 
 
-def read_text(response):
+def get_response_text(response):
     return response.text()
 
 
-async def get(
+async def send_get_request(
     session: type[aiohttp.ClientSession],
     url: str,
     params=None,
     headers=None,
-    read_body=read_text,
+    read_body=get_response_text,
 ):
     try:
         async with session.get(url=url, params=params, headers=headers) as response:
@@ -605,11 +630,11 @@ async def get_song_info(session: type[aiohttp.ClientSession], title: str, author
 
     params = {"q": f"{title} {author}"}
 
-    search_results = await get(
+    search_results = await send_get_request(
         session=session,
         url=search_url,
         params=params,
-        read_body=read_json,
+        read_body=get_response_json,
     )
 
     if not search_results:
@@ -627,7 +652,9 @@ async def get_song_info(session: type[aiohttp.ClientSession], title: str, author
 
 async def get_lyrics(session: type[aiohttp.ClientSession], song_url: str):
     # Step 3: Scrape the lyrics from the Genius song page using BeautifulSoup
-    response = await get(session=session, url=song_url, read_body=read_text)
+    response = await send_get_request(
+        session=session, url=song_url, read_body=get_response_text
+    )
 
     if not response:
         return None
@@ -737,7 +764,7 @@ def copy_texts_from_yaml_to_df(path_yaml: str):
 
 
 async def update_songs():
-    playlist_raw = pd.read_csv(PLAYLIST_RAW_PATH, sep="|")
+    playlist_raw = read_csv(PLAYLIST_RAW_PATH)
     playlist_data = copy_texts_from_yaml_to_df(path_yaml=PLAYLIST_DATA_YAML_PATH)
 
     playlist_data = (
@@ -762,7 +789,7 @@ async def update_songs():
         df=playlist_data, path=PLAYLIST_DATA_PATH, titles_no_lyrics=titles_no_lyrics
     )
 
-    playlist_data = pd.read_csv(PLAYLIST_DATA_PATH, sep="|", index_col=0)
+    playlist_data = read_csv(PLAYLIST_DATA_PATH)
 
     has_text_cond = playlist_data["text"].notna()
 
@@ -791,3 +818,22 @@ async def update_songs():
 # %%
 
 await update_songs()
+# %%
+
+update_lemmatized_sources()
+
+# %%
+
+update_word_lists()
+
+# %%
+
+await update_deck_data()
+
+# %%
+
+update_dewiki_articles_dictionary()
+
+# %%
+
+update_word_counts()
