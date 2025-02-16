@@ -2,11 +2,9 @@
 
 import os
 import re
-import math
-from io import StringIO
-import json
 from functools import cmp_to_key
 from pathlib import Path
+import importlib
 import pandas as pd
 from IPython.display import display
 import spacy
@@ -15,6 +13,21 @@ os.chdir(f'{os.environ["ROOT_DIR"]}/frequency/de')
 nlp = spacy.load("de_dep_news_trf")
 
 # %%
+
+import custom.de.script.lib as lib
+
+importlib.reload(lib)
+
+from custom.de.script.lib import (
+    remove_separators_in_file,
+    leq,
+    update_deck_raw,
+    write_deck_raw,
+    APIRequestsArgs,
+    MODEL,
+    generate_deck_data_iteratively,
+)
+
 
 FREQUENCY_CUTOFF_1 = 1700
 FREQUENCY_CUTOFF_2 = 3400
@@ -26,7 +39,7 @@ class PATH:
     DATA = PWD / "de-en" / "data"
     DECK = DE_EN / "deck.csv"
     EXTRA = DATA / "extra.csv"
-    DECK_RAW = DATA / "deck-raw-4o.csv"
+    DECK_RAW = DATA / "deck-raw-gpt-4o-2024-11-20-length-60-70.csv"
     WORD_COUNT = DATA / "word-count.csv"
     WORDS_BAD_BASEFORM = DATA / "words-bad-baseform.csv"
     WORDS_TOO_FREQUENT = DATA / "words-too-frequent.csv"
@@ -48,27 +61,24 @@ class INDEX_SUFFIX:
     NEW_WORD = 0.0001
 
 
-class SENTENCE_LENGTH:
-    # min and max for each deck part
-    MIN1 = 50
-    MAX1 = 70
-    MIN2 = 50
-    MAX2 = 70
-    MIN3 = 50
-    MAX3 = 70
-
-
 ARTICLES_FULL = ["die", "der", "das"]
 
 LEMMATIZED_SEP = ";"
 
+MIN_WORDS = 2
+
 MAX_OCCURENCES = 3
 
-PART_SIZE = 80
 
-PART_COUNT_PER_ITERATION = 15
+class PART:
+    ITERATIONS = 2
+    SIZE = 30
+    COUNT_PER_ITERATION = 2
 
-MODEL = "gpt-4o-mini"
+
+class SENTENCE_LENGTH:
+    MIN = 60
+    MAX = 70
 
 
 def normalize_index_single(index: float):
@@ -79,29 +89,10 @@ def normalize_index(df: pd.DataFrame):
     df.index = df.index.map(normalize_index_single)
 
 
-def remove_separators_in_file(path: Path):
-    with open(path, "r", encoding="UTF-8") as d:
-        deck_lines = d.readlines()
-
-    for i, line in enumerate(deck_lines):
-        for j in range(1, 10):
-            if line[-j] not in ["|", "\n"]:
-                deck_lines[i] = line[: -j + 1] + "\n"
-                break
-
-    with open(path, "w", encoding="UTF-8") as d:
-        d.writelines(deck_lines)
-
-
 def write_deck(deck: pd.DataFrame()):
     normalize_index(deck)
     deck.to_csv(PATH.DECK, sep="|")
     remove_separators_in_file(path=PATH.DECK)
-
-
-def write_deck_raw(deck_raw: pd.DataFrame()):
-    deck_raw.to_csv(PATH.DECK_RAW, sep="|")
-    remove_separators_in_file(path=PATH.DECK_RAW)
 
 
 def normalize_verb(x: pd.DataFrame):
@@ -115,37 +106,7 @@ def normalize_verb(x: pd.DataFrame):
     )
 
 
-def cmp(x, y):
-    if x < y:
-        return -1
-    elif x > y:
-        return 1
-    else:
-        return 0
-
-
-def leq(x, y):
-
-    if int(x) != int(y):
-        return cmp(x, y)
-
-    x = round(x % 1, 6)
-    y = round(y % 1, 6)
-
-    if x == 0 or y == 0:
-        return cmp(x, y)
-
-    while x < 1 and y < 1:
-        x *= 10
-        y *= 10
-
-    if x >= 1 and y >= 1:
-        return cmp(x, y)
-    else:
-        return cmp(y, x)
-
-
-def add_rows_for_alternative_translations():
+def add_deck_rows_for_alternative_translations():
     deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
 
     custom_row_cond = deck.index.map(
@@ -260,18 +221,18 @@ def add_rows_for_alternative_translations():
     extra.to_csv(PATH.EXTRA, sep="|")
 
 
-def copy_deck_to_deck_raw():
-    deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
+def copy_deck_to_deck_raw(deck_path: type[Path], deck_raw_path: type[Path]):
+    deck = pd.read_csv(deck_path, sep="|", index_col=0)
 
     columns = [
         "word_de",
         "part_of_speech",
         "word_en",
     ]
-    if not Path(PATH.DECK_RAW).is_file():
-        pd.DataFrame(columns=columns).to_csv(PATH.DECK_RAW, sep="|")
+    if not Path(deck_raw_path).is_file():
+        pd.DataFrame(columns=columns).to_csv(deck_raw_path, sep="|")
 
-    deck_raw = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
+    deck_raw = pd.read_csv(deck_raw_path, sep="|", index_col=0)
 
     deck_missing_rows = deck.loc[~deck.index.isin(deck_raw.index), columns]
 
@@ -279,228 +240,12 @@ def copy_deck_to_deck_raw():
 
     deck_raw = pd.concat([deck_raw, deck_missing_rows])
 
-    write_deck_raw(deck_raw=deck_raw)
-
-
-def make_baseform(word: str) -> str:
-    # article
-    if word in ARTICLES_FULL:
-        return word
-    for i, j in enumerate(word):
-        if j in [".", "(", ","]:
-            word = word[:i].strip()
-            break
-    # noun or name
-    if word[0].isupper():
-        return word
-    # noun with an article
-    if word[:3] in ARTICLES_FULL and word[3] == " ":
-        for i, j in enumerate(word):
-            if j.isupper():
-                word = word[i:]
-                break
-        return word
-    return word
-
-
-def is_noun(word: str):
-    return make_baseform(word)[0].isupper()
-
-
-def tokenize_sentence(sentence: str):
-    doc = nlp(sentence)
-    tokens = [tok.lemma_ for tok in doc]
-
-    # separable verbs
-    for token in doc:
-        if token.dep_ == "svp" and token.head.pos_ == "VERB":
-            verb_stem = token.head.lemma_
-            prefix = token.text
-            tokens[token.head.i] = prefix + verb_stem
-
-    tokens = [tok for tok in tokens if tok not in ["-", "--", " ", "  "]]
-
-    return LEMMATIZED_SEP.join(tokens)
-
-
-def update_deck_raw_lemmatized_sentences(deck_raw: pd.DataFrame()):
-    not_lemmatized_cond = deck_raw["sentence_lemmatized_de"].isna()
-
-    deck_raw.loc[not_lemmatized_cond, "sentence_lemmatized_de"] = deck_raw.loc[
-        not_lemmatized_cond, "sentence_de"
-    ].map(tokenize_sentence, na_action="ignore")
-
-    write_deck_raw(deck_raw=deck_raw)
+    write_deck_raw(deck_raw=deck_raw, deck_raw_path=deck_raw_path)
 
     return deck_raw
 
 
-def update_word_counts(deck_raw=pd.DataFrame()):
-    words = pd.DataFrame(
-        deck_raw["sentence_lemmatized_de"]
-        .map(lambda x: x.split(";"), na_action="ignore")
-        .explode("sentence_lemmatized_de")
-    ).rename(columns={"sentence_lemmatized_de": "word_de"})
-
-    word_counts = pd.DataFrame(words.value_counts())
-    word_counts.to_csv(PATH.WORD_COUNT, sep="|")
-
-    return word_counts
-
-
-def check_is_correct_sentence(
-    row: pd.Series(),
-    word_stats: pd.DataFrame(),
-    words_bad_wordforms: pd.DataFrame(),
-    words_too_frequent: pd.DataFrame(),
-) -> bool:
-    word_de = row["word_de"]
-    word_de = (
-        make_baseform(word_de)
-        if row.name not in words_bad_wordforms.index
-        else words_bad_wordforms.loc[
-            words_bad_wordforms["word"] == word_de, "baseform"
-        ].values[0]
-    )
-
-    sentence_lemmatized_de = row["sentence_lemmatized_de"].split(LEMMATIZED_SEP)
-
-    word_is_in_the_sentence = (
-        # True
-        word_de
-        in sentence_lemmatized_de
-    )
-
-    words = pd.DataFrame(data=sentence_lemmatized_de, columns=["word_de"])
-
-    word_counts = words.join(word_stats, on="word_de", rsuffix="r")
-
-    # run this check on all sentences
-    # because the number of sentences will grow
-    # and the word counts will grow too
-    sentence_contains_rare_words = any(
-        (word_counts["word_de"] != word_de) & (word_counts["count"] <= MAX_OCCURENCES)
-    )
-
-    # sentence_contains_no_too_frequent_words = [x for x in sentence_lemmatized_de if x in words_too_frequent.index] == []
-
-    result = sentence_contains_rare_words & word_is_in_the_sentence
-    # & sentence_contains_no_too_frequent_words
-
-    # I subtract to correctly analyze other rows
-    if not result:
-        for word in words["word_de"]:
-            word_stats.loc[word, "count"] -= 1
-
-    return result
-
-
-def partition_deck_raw_by_having_sentence_de(deck_raw: pd.DataFrame()):
-    has_data_cond = deck_raw["sentence_de"].notna()
-    rows_with_data = deck_raw[has_data_cond].sort_index()
-    rows_without_data = deck_raw[~has_data_cond].sort_index()
-
-    deck_raw = pd.concat([rows_with_data, rows_without_data])
-    write_deck_raw(deck_raw=deck_raw)
-
-    return rows_with_data, rows_without_data
-
-
-def get_sentence_length_bounds(idx: float):
-    if idx < DECK_PART_START_INDEX.P2:
-        return SENTENCE_LENGTH.MIN1, SENTENCE_LENGTH.MAX1
-    if idx < DECK_PART_START_INDEX.P3:
-        return SENTENCE_LENGTH.MIN2, SENTENCE_LENGTH.MAX2
-    return SENTENCE_LENGTH.MIN3, SENTENCE_LENGTH.MAX3
-
-
-def check_sentence_length(x: pd.Series()):
-    idx = x.name
-    mini, maxi = get_sentence_length_bounds(idx=idx)
-    return pd.notna(x["sentence_de"]) and mini <= len(x["sentence_de"]) <= maxi
-
-
-def filter_deck_raw_by_sentence_length(deck_raw: pd.DataFrame()):
-    rows_with_data, rows_without_data = partition_deck_raw_by_having_sentence_de(
-        deck_raw=deck_raw
-    )
-
-    is_good_sentence_length_cond = rows_with_data.apply(check_sentence_length, axis=1)
-    rows_with_good_sentence_length = rows_with_data[is_good_sentence_length_cond]
-    rows_with_bad_sentence_length = pd.DataFrame(
-        rows_with_data.loc[
-            ~is_good_sentence_length_cond, ["word_de", "part_of_speech", "word_en"]
-        ]
-    )
-
-    rows_without_data = pd.concat(
-        [rows_with_bad_sentence_length, rows_without_data]
-    ).sort_index()
-
-    deck_raw = pd.concat([rows_with_good_sentence_length, rows_without_data])
-
-    write_deck_raw(deck_raw=deck_raw)
-
-    return deck_raw
-
-
-def partition_deck_raw(deck_raw: pd.DataFrame()):
-    deck_raw = filter_deck_raw_by_sentence_length(deck_raw=deck_raw)
-    deck_raw = update_deck_raw_lemmatized_sentences(deck_raw=deck_raw)
-    word_stats = update_word_counts(deck_raw=deck_raw)
-    rows_with_data, rows_without_data = partition_deck_raw_by_having_sentence_de(
-        deck_raw=deck_raw
-    )
-
-    words_bad_wordforms = pd.read_csv(PATH.WORDS_BAD_BASEFORM, sep="|", index_col=0)
-    words_too_frequent = pd.read_csv(PATH.WORDS_TOO_FREQUENT, sep="|", index_col=0)
-
-    # prefer removing rows with a larger index
-    # to change rows with smaller index less frequently
-    # to preserve progress
-    #
-    # rows with smaller indices may get removed
-    # if we leave rows with larger indices that introduced some words
-    # that increased word counts
-    # and hence disallowed rows with smaller indices to stay
-    is_correct_sentence_cond = (
-        rows_with_data.iloc[::-1]
-        .apply(
-            lambda row: check_is_correct_sentence(
-                row=row,
-                word_stats=word_stats,
-                words_bad_wordforms=words_bad_wordforms,
-                words_too_frequent=words_too_frequent,
-            ),
-            axis=1,
-        )
-        .iloc[::-1]
-    )
-
-    has_correct_sentence = rows_with_data[is_correct_sentence_cond]
-    has_incorrect_sentence = rows_with_data[~is_correct_sentence_cond]
-    has_incorrect_sentence = has_incorrect_sentence[
-        ["word_de", "part_of_speech", "word_en"]
-    ]
-
-    rows_without_data = pd.concat(
-        [has_incorrect_sentence, rows_without_data]
-    ).sort_index()
-
-    deck_raw = pd.concat([has_correct_sentence, rows_without_data])
-    deck_raw = deck_raw[~deck_raw.index.duplicated()]
-
-    write_deck_raw(deck_raw=deck_raw)
-
-    return deck_raw
-
-
-def update_deck_raw():
-    deck_raw = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
-    partition_deck_raw(deck_raw=deck_raw)
-
-
-def copy_generated_to_deck():
+def copy_deck_raw_to_deck():
     deck_raw = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
     deck = pd.read_csv(PATH.DECK, sep="|", index_col=0)
     has_sentence_cond = deck_raw["sentence_de"].notna()
@@ -518,153 +263,51 @@ def copy_generated_to_deck():
     write_deck(deck=deck)
 
 
-def prepare_requests():
-    prompt = """
-        Act as a true German.
-    
-        ## Input Table
-
-        Column 1 - index
-        Column 2 - German word
-        Column 3 - part of speech
-        Column 4 - English word
-
-        ## Guidelines for the German sentence:
-
-        The sentence MUST:
-
-        - sound natural
-        - make sense
-        - be engaging
-        - contain the German word (column 2)
-        - be complete (have subject and verb)
-        - be not too long, 50 to 70 characters long
-        - contain separable verbs, concrete nouns, expressive verbs
-        - be specific, concrete
-        - have no parasite words like "besonders"
-
-        ## Avoid
-
-        repetitive, common, simple words, non-specialized vocabulary
-
-        ## Task
-
-        - Add column 5 - the sentence in German following the sentence guidelines. The sentence must contain the German word (column 2)
-        - Add column 6 - translation of the German sentence to English. The translation must contain the English word (column 5).
-
-        Print the table as markdown code block CSV with "|" as separator.
-        Never print a header.
-        Never skip an input row.
-        Never analyze, just output.
-        Avoid philosophical thoughts. Just concrete situations.
-        
-        Use sophisticated vivid vocabulary.
-
-        I'll provide input in the next messages.
-        """
-    
-    deck_raw = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
-    deck_raw_no_data = deck_raw[deck_raw["sentence_de"].isna()]
-    deck_raw_no_data = deck_raw_no_data.iloc[:PART_SIZE*PART_COUNT_PER_ITERATION]
-
-    requests = []
-    for i in range(math.floor((deck_raw_no_data.shape[0] + PART_SIZE) / PART_SIZE)):
-        deck_block = deck_raw_no_data.iloc[i * PART_SIZE : (i + 1) * PART_SIZE]
-        deck_str_buff = StringIO()
-        deck_block.to_csv(deck_str_buff, sep="|", header=None)
-        deck_str = deck_str_buff.getvalue().replace("|||", "")
-        request = {
-            "model": MODEL,
-            "messages": [
-                {"role": "user", "content": prompt},
-                {"role": "user", "content": deck_str},
-            ],
-        }
-        requests.append(request)
-
-    with open(PATH.PARALLEL_REQUESTS, "w") as r:
-        r.writelines([json.dumps(x) + "\n" for x in requests])
-
-    with open(PATH.PARALLEL_RESPONSES, "w") as r:
-        r.write("")
-
-
-def write_parallel_responses():
-    parallel_responses = None
-
-    with open(PATH.PARALLEL_RESPONSES, "r") as r:
-        parallel_responses = [json.loads(x) for x in r.readlines()]
-
-    parallel_responses = [
-        x[1]["choices"][0]["message"]["content"]
-        .replace("```csv\n", "")
-        .replace("```\n", "")
-        .replace("\n```", "")
-        .strip()
-        for x in parallel_responses
-    ]
-
-    parallel_responses_clean = [
-        x.strip().strip("|").strip().replace(" | ", "|")
-        for x in "\n".join(parallel_responses).split("\n")
-    ]
-    parallel_responses_clean = [x for x in parallel_responses_clean if x[0].isdecimal()]
-
-    parallel_responses_concatenated = "\n".join(parallel_responses_clean)
-
-    with open(PATH.PARALLEL_RESPONSES_CONCATENATED, "w") as r:
-        r.write(parallel_responses_concatenated)
-
-
-def write_responses_to_deck_raw():
-    with open(PATH.PARALLEL_RESPONSES_CONCATENATED, "r") as r:
-        df = pd.read_csv(
-            PATH.PARALLEL_RESPONSES_CONCATENATED, sep="|", index_col=0, header=None
-        )
-
-    deck_raw = pd.read_csv(PATH.DECK_RAW, sep="|", index_col=0)
-    df = df[~df.index.duplicated()]
-    in_deck_raw_cond = df.index[df.index.isin(deck_raw.index)]
-    df["sentence_lemmatized_de"] = None
-    df.columns = deck_raw.columns
-
-    deck_raw.loc[in_deck_raw_cond] = df.loc[in_deck_raw_cond]
-
-    deck_raw.to_csv(PATH.DECK_RAW, sep="|")
-
-
-# %%
-
-
-def update_deck():
+async def generate_deck_data():
     print("Starting update")
 
-    copy_deck_to_deck_raw()
-    prepare_requests()
-    os.system(
-        f"poetry run python scripts/api_request_parallel_processor.py --api_key $OPENAI_API_KEY --max_attempts 2 --requests_filepath {PATH.DATA}/parallel-requests.jsonl --save_filepath {PATH.DATA}/parallel-responses.jsonl --request_url https://api.openai.com/v1/chat/completions"
+    copy_deck_to_deck_raw(deck_path=PATH.DECK, deck_raw_path=PATH.DECK_RAW)
+
+    api_requests_args = APIRequestsArgs(
+        requests_filepath=f"{PATH.DATA}/parallel-requests.jsonl",
+        save_filepath=f"{PATH.DATA}/parallel-responses.jsonl",
+        max_attempts=3,
+        request_url="https://api.openai.com/v1/chat/completions",
     )
-    write_parallel_responses()
-    write_responses_to_deck_raw()
-    update_deck_raw()
 
-    print("Update completed")
+    await update_deck_raw(
+        word_counts_path=PATH.WORD_COUNT,
+        deck_raw_path=PATH.DECK_RAW,
+        max_occurences=MAX_OCCURENCES,
+        words_bad_baseform_path=PATH.WORDS_BAD_BASEFORM,
+        part_count_per_iteration=PART.COUNT_PER_ITERATION,
+        part_size=PART.SIZE,
+        parallel_requests_path=PATH.PARALLEL_REQUESTS,
+        parallel_responses_path=PATH.PARALLEL_RESPONSES,
+        parallel_responses_concatenated_path=PATH.PARALLEL_RESPONSES_CONCATENATED,
+        api_requests_args=api_requests_args,
+        model=MODEL.CHATGPT_4O_MINI,
+        nlp=nlp,
+        sentence_length_min=SENTENCE_LENGTH.MIN,
+        sentence_length_max=SENTENCE_LENGTH.MAX,
+        has_part_of_speech=True,
+        has_word_en=True,
+    )
 
+    copy_deck_raw_to_deck()
 
-for i in range(20):
-    try:
-        update_deck()
-    except:
-        continue
+    print("Update completed!")
+
 
 # %%
-copy_deck_to_deck_raw()
+
+add_deck_rows_for_alternative_translations()
 
 # %%
-update_deck_raw()
 
-# %%
-copy_generated_to_deck()
+await generate_deck_data_iteratively(
+    generate_deck_data=generate_deck_data, iterations=PART.ITERATIONS
+)
 
 # %%
 
