@@ -1,0 +1,5243 @@
+|word_de|part_of_speech|word_en
+1.0|Ho|noun|slut
+2.0|mein|possessive pronoun|my
+9.0|oh|Interjection|oh
+10.0|ah|Interjection|ah
+11.0|yeah|Interjection|yeah
+18.0001|heimkehren|verb|to return home
+25.0|reden|Verb|to talk
+26.0|schon|adverb|already
+27.0|wieder|adverb|again
+28.0|über|preposition|over
+30.0|ich|pronoun|I
+32.0|mit|Preposition|with
+35.0|ein|article|a
+36.0|das Gespräch|noun|conversation
+41.0|geben|verb|to give
+45.0|zärtlich|adjective|tender
+46.0|der Kuss|noun|the kiss
+47.0|und|conjunction|and
+48.0|danach|adverb|after that
+49.0|werden|verb|become
+50.0|in|preposition|in
+51.0|der|article|the
+53.0|der Stern|noun|star
+54.0|gucken|Verb|to look
+57.0|dann|adverb|then
+59.0|sie|pronoun|she
+61.0|die Wange|noun|cheek
+63.0|sprechen|verb|speak
+64.0|von|preposition|from
+65.0|das Teilchen|noun|particle
+68.0|manchmal|adverb|sometimes
+72.0|auf|preposition|on
+73.0|ihr|possessive pronoun|her
+74.0|nice|adjective|nice
+75.0|der Gedanke|noun|the thought
+78.0|es|pronoun|it
+79.0|nichts|pronoun|nothing
+80.0|zu|preposition|too
+83.0|wir|pronoun|we
+84.0|sein|verb|to be
+85.0|weitergehen|verb|to go on
+86.0|wie|adverb|how
+87.0|bei|preposition|at
+89.0|der Passant|noun|the passerby
+90.0|oder|conjunction|or
+92.0|die Passantin|noun|female passerby
+95.0|lieben|verb|love
+96.0|mich|pronoun|me
+97.0|nicht|adverb|not
+98.0|nur|adverb|only
+99.0|weil|conjunction|because
+101.0|sich|pronoun|oneself
+102.0|sexy|adjective|sexy
+104.0|doch|adverb|yet
+108.0|der Hintergrund|noun|the background
+109.0|wenn|conjunction|if
+113.0|drehen|verb|turn
+115.0|nehmen|verb|to take
+119.0|zahlen|verb|pay
+126.0|haben|verb|to have
+129.0|das Haar|noun|the hair
+129.001|die Haar|noun|the hair
+130.0|an|preposition|at
+131.0|der Kopf|noun|head
+135.0|kein|determiner|no
+136.0|der Engel|noun|the angel
+139.0|n|noun|n
+140.0|die Menge|noun|the crowd
+147.0|das Prozent|noun|the percent
+148.0|aus|preposition|out
+149.0|das Wasser|Nomen|the water
+153.0|dünn|adjective|thin
+160.0|gesund|adjective|healthy
+162.0|du|pronoun|you
+163.0|der Bastard|noun|bastard
+166.0|reinigen|Verb|to clean
+168.0|die Wohnung|noun|the apartment
+173.0|aha|Interjection|aha
+178.0|die Frau|noun|woman
+179.0|sondern|conjunction|but rather
+182.0|die Reihe|noun|row
+184.0|haha|Interjection|haha
+187.0|anbraten|verb|to fry
+188.0|uns|pronoun|us
+203.0|können|verb|can
+204.0|das Kommen|noun|arrival
+208.0|die Party|noun|party
+209.0|hören|verb|to hear
+211.0|jeder|Pronoun|everyone
+214.0|denn|conjunction|because
+221.0|der Joke|noun|joke
+228.0|mal|adverb|once
+231.0|aber|conjunction|but
+233.0|schämen|verb|to be ashamed
+240.0|der Fick|noun|the fuck
+243.0|der Ehrbegriff|noun|concept of honor
+250.0|die Emanzipation|noun|emancipation
+253.0|der Bruder|noun|the brother
+256.0|endlich|adverb|finally
+257.0|das Gefühl|noun|the feeling
+258.0|zeigen|verb|show
+263.0|durch|preposition|through
+265.0|die Küche|noun|the kitchen
+267.0|ohne|Preposition|without
+268.0|dass|conjunction|that
+275.0|die Zeit|noun|time
+280.0|männlich|adjective|male
+281.0|der Freundeskreis|noun|circle of friends
+287.0|die Grenze|Nomen|the border
+289.0|der Zaun|noun|fence
+295.0|scheinbar|adjective|seemingly
+296.0|denken|verb|think
+302.0|das Gefängnis|noun|the prison
+308.0|der Sex|noun|the sex
+318.0|verletzen|verb|to injure
+323.0|zwei|numeral|two
+324.0|das Ding|noun|the thing
+327.0|der Respekt|noun|respect
+335.0|Machtverteilung|noun|distribution of power
+338.0|komplett|adjective|complete
+343.0|das Konzept|noun|concept
+346.0|so|adverb|so
+352.0|die Zahl|noun|number
+353.0|zwischen|preposition|between
+354.0|eins|numeral|one
+356.0|zehn|Numeral|ten
+357.0|Bitch|noun|bitch
+361.0|außerdem|Adverb|besides
+364.0|der Punkt|Noun|the point
+367.0|wissen|verb|know
+370.0|aussehen|verb|to look like
+371.0|ja|interjection|yes
+372.0|das Auge|Noun|eye
+373.0|die Nase|Noun|nose
+374.0|der Mund|noun|mouth
+374.001|die Mund|noun|the mouth
+380.0|sonst|adverb|otherwise
+384.0|auch|adverb|also
+385.0|nix|noun|nothing
+396.0|schön|adjective|beautiful
+403.0|man|pronoun|one
+409.0|das Gesicht|noun|face
+411.0|das Mal|noun|time (occurrence)
+412.0|entsprechen|Verb|to correspond
+419.0|eher|adverb|rather
+423.0|der Grizzlybär|noun|grizzly bear
+428.0|die Mischung|noun|mixture
+429.0|zählen|verb|to count
+439.0|gegen|preposition|against
+444.0|stolz|adjective|proud
+450.0|richtig|adjective|correct
+451.0|korrekt|adjective|correct
+455.0|die Kunst|noun|art
+456.0|gut|adjective|good
+457.0|finden|verb|find
+463.0|der Text|noun|text
+464.0|noch|adverb|still
+465.0|lang|adjective|long
+469.0|ersetzen|verb|to replace
+472.0|verdammt|adjective|damned
+473.0|gerne|adverb|gladly
+474.0|sexistisch|adjective|sexist
+475.0|der Rap|noun|rap
+476.0|tja|Interjection|well
+477.0|also|Partikel|so
+478.0|jetzt|adverb|now
+480.0|ganz|adjective|whole
+481.0|spekulativ|adjective|speculative
+487.0|das Lied|noun|song
+495.0|höchstpersönlich|adverb|personally
+497.0|Jürgen|proper noun|Jürgen
+498.0|der Elsässer|noun|the Alsatian
+500.0|der Antisemit|noun|antisemite
+503.0|zweite|adjective|second
+504.0|das Teil|noun|part
+504.001|der Teil|noun|the part
+506.0|erste|adjective|first
+507.0|die Strophe|noun|the verse
+517.0|damit|conjunction|so that
+518.0|meinen|verb|to mean
+523.0|rhetorisch|adjective|rhetorical
+524.0|die Figur|noun|character
+527.0|das Sportgerät|noun|the sports equipment
+530.0|schießen|verb|to shoot
+532.0|juristisch|adjective|legal
+535.0|die Grauzone|noun|gray area
+536.0|erreichen|verb|to achieve
+538.0|vor|preposition|before
+539.0|das Gericht|Nomen|the court
+540.0|machen|verb|do
+543.0|mir|pronoun|me
+545.0|leicht|adjective|light
+551.0|öffnen|verb|open
+553.0|der Sekt|noun|sparkling wine
+556.0|alle|pronoun|all
+559.0|Kunstfreiheit|noun|artistic freedom
+560.0|decken|verb|cover
+567.0|nutzen|verb|use
+570.0|lieber|Adverb|rather
+572.0|der Konjunktiv|noun|the subjunctive
+579.0|der Konflikt|noun|the conflict
+582.0|das Gesetz|noun|law
+587.0|der Reptiloid|noun|reptiloid
+597.0|die Welt|noun|world
+600.0|der Faschist|noun|fascist
+605.0|zurück|adverb|back
+608.0|das Loch|noun|the hole
+608.001|der Loch|noun|the Loch
+614.0|ihnen|pronoun|them
+615.0|die Rose|noun|the rose
+618.0|der Weg|noun|way
+650.0|vielleicht|adverb|perhaps
+656.0|das Ken|noun|the Ken
+658.0|gehören|verb|belong
+662.0|die Zensur|noun|censorship
+663.0|immer|adverb|always
+664.0|sehr|adverb|very
+665.0|laut|adjective|loud
+666.0|beschweren|verb|complain
+672.0|das Band|noun|ribbon
+672.001|der Band|noun|volume
+672.002|die Band|noun|the band
+674.0|er|pronoun|he
+679.0|beschimpfen|verb|to insult
+688.0|natürlich|adverb|naturally
+691.0|das Recht|noun|the right
+698.0|die Anwältin|noun|lawyer
+702.0|lächerlich|adjective|ridiculous
+703.0|der Mann|Noun|man
+704.0|hoffentlich|Adverb|hopefully
+709.0|was|pronoun|what
+711.0|passieren|verb|happen
+716.0|euch|pronoun|you (plural)
+717.0|sagen|Verb|say
+747.0|nein|adverb|no
+751.0|wirklich|adverb|really
+753.0|der Dan|noun|the Dan
+757.0|die Lust|noun|desire
+761.0|das Experiment|noun|the experiment
+766.0|wer|pronoun|who
+767.0|erlauben|verb|to allow
+770.0|verbieten|verb|forbid
+773.0|wollen|verb|to want
+776.0|die Meinung|noun|the opinion
+777.0|hier|adverb|here
+785.0|das Glück|noun|luck
+793.0|glauben|Verb|believe
+797.0|wahnsinnig|adjective|crazy
+805.0|der Nationalsozialist|noun|the Nazi
+808.0|niemals|adverb|never
+814.0|diskutieren|verb|to discuss
+820.0|die Geschichte|Noun|the story
+824.0|vertrauen|verb|trust
+828.0|der Staat|noun|the state
+830.0|Polizeiapparat|noun|police apparatus
+841.0|die Polizei|noun|the police
+843.0|selbst|pronoun|self
+847.0|der Nazi|noun|the Nazi
+855.0|anzünden|verb|to ignite
+860.0|friedlich|adjective|peaceful
+863.0|die Gewalt|noun|violence
+865.0|ankommen|verb|to arrive
+874.0|bleiben|verb|stay
+875.0|die Militanz|noun|the militancy
+904.0|alles|Noun|everything
+919.0|langsam|adjective|slow
+924.0|der Club|Noun|club
+929.0|ziemlich|adverb|quite
+930.0|klar|adjective|clear
+933.0|hundertachtzig|number|one hundred eighty
+936.0|die Stadt|noun|the city
+941.0|das Dach|noun|roof
+943.0|die Woche|noun|the week
+944.0|wach|adjective|awake
+945.0|tausend|adjective|thousand
+946.0|die Flasche|noun|the bottle
+947.0|der Schnaps|noun|schnapps
+950.0|kommen|verb|to come
+953.0|die Freitagnacht|noun|Friday night
+958.0|die Früh|noun|the early hours
+958.001|der Früh|noun|early (archaic)
+958.002|das Früh|noun|the dawn
+960.0|das Bett|noun|bed
+961.0|gehen|verb|go
+965.0|der Samstag|noun|Saturday
+970.0|anfangen|Verb|to start
+973.0|einfach|adjective|simple
+976.0|das Wochenende|noun|weekend
+979.0|easy|adjective|easy
+990.0|ironisch|adjective|ironic
+994.0|pro|adjective|pro
+995.0|die Gemütlichkeit|noun|the coziness
+997.0|beginnen|verb|to begin
+999.0|harmlos|adjective|harmless
+1002.0|der Spieleabend|noun|game night
+1004.0|enden|verb|end
+1009.0|irgendwann|adverb|sometime
+1013.0|spät|adjective|late
+1014.0|um|preposition|around
+1016.0|früh|adjective|early
+1022.0|alt|adjective|old
+1026.0|jung|adjective|young
+1028.0|sterben|verb|to die
+1032.0|versuchen|verb|try
+1049.0|genug|Adjektiv|enough
+1052.0|wohnen|Verb|to live
+1056.0|wegen|preposition|because of
+1058.0|das Kind|noun|child
+1060.0|die Gegend|noun|area
+1066.0|klappen|verb|work out
+1071.0|ewig|adjective|eternal
+1073.0|sehen|verb|to see
+1076.0|Grillfest|noun|barbecue
+1077.0|die Hochzeit|noun|wedding
+1078.0|das Klassentreffen|noun|class reunion
+1079.0|die Weinverkostung|noun|wine tasting
+1080.0|das Blei|noun|lead
+1080.001|der Blei|noun|lead
+1083.0|der Silvester|noun|New Year's Eve
+1085.0|statt|preposition|instead of
+1090.0|international|adjective|international
+1091.0|für|preposition|for
+1093.0|der Bayer|noun|the Bavarian
+1098.0|bis|conjunction|until
+1102.0|mehr|adverb|more
+1103.0|all|pronoun|all
+1105.0|weit|adjective|far
+1110.0|die Politik|noun|politics
+1111.0|da|adverb|there
+1112.0|streiten|verb|to argue
+1117.0|der Freund|noun|the friend
+1170.0|dreißig|adjective|thirty
+1176.0|die Phase|noun|phase
+1180.0|vorbei|Adverb|over
+1197.0|klein|adjective|small
+1198.0|bisschen|noun|a bit
+1199.0|neidisch|adjective|envious
+1204.0|heimlich|adverb|secretly
+1208.0|das Haus|noun|house
+1210.0|das Grün|noun|green
+1212.0|fehlen|verb|to lack
+1221.0|die Bühne|noun|stage
+1228.0|dieser|pronoun|this
+1230.0|der Quatsch|noun|nonsense
+1237.0|gar|Adverb|at all
+1240.0|scheiße|noun|shit
+1242.0|der Rest|Noun|rest
+1247.0|der Baum|noun|the tree
+1248.0|hinunter|adverb|down
+1252.0|hinauf|adverb|up
+1257.0|Energiesparhaus|noun|energy-saving house
+1260.0|die Evolution|noun|evolution
+1264.0|heute|adverb|today
+1268.0|der König|noun|king
+1271.0|lange|adverb|long
+1273.0|satt|adjective|full
+1281.0|breit|adjective|wide
+1296.0|der Wald|noun|forest
+1298.0|singen|verb|to sing
+1300.0|der Chor|Noun|the choir
+1300.001|das Chor|noun|choir
+1306.0|bitte|adverb|please
+1313.0|die Schöpfung|noun|creation
+1314.0|na|interjection|well
+1319.0|nach|preposition|after
+1343.0|das Tier|Noun|animal
+1346.0|arm|adjective|poor
+1347.0|das Schwein|noun|pig
+1349.0|echt|Adjektiv|real
+1355.0|die Kernkraft|noun|nuclear energy
+1356.0|erfinden|Verb|to invent
+1359.0|das Fernsehprogramm|noun|TV program
+1365.0|geil|adjective|cool
+1367.0|als|conjunction|than
+1376.0|der Überschall|noun|the supersonic
+1377.0|reisen|verb|to travel
+1381.0|schwarz|adjective|black
+1383.0|beweisen|verb|prove
+1391.0|aller|pronoun|all
+1395.0|la|Interjection|la
+1399.0|der Ozean|noun|ocean
+1402.0|schreien|Verb|to scream
+1462.0|das Problem|noun|the problem
+1465.0|der Fehler|noun|mistake
+1468.0|die Matrix|Noun|matrix
+1471.0|das System|noun|system
+1473.0|herrschen|verb|to prevail
+1474.0|während|conjunction|while
+1476.0|der Planet|noun|planet
+1478.0|die Flamme|noun|flame
+1479.0|stehen|verb|stand
+1577.0|üben|verb|to practice
+1579.0|der Sand|noun|sand
+1583.0|schmeißen|verb|throw
+1586.0|egal|adjective|indifferent
+1591.0|drauf|adverb|on it
+1593.0|scheißen|verb|shit
+1594.0|das Abrakadabra|noun|abracadabra
+1595.0|dreimal|Adverb|three times
+1597.0|der Kater|noun|hangover
+1598.0|das Spielen|noun|the playing
+1606.0|aufwachsen|verb|to grow up
+1608.0|eine|article|a (feminine)
+1609.0|die Lebenswelt|noun|lifeworld
+1613.0|Jung|adjective|young
+1615.0|rosa|adjective|pink
+1616.0|die Kleidung|noun|clothing
+1617.0|tragen|verb|to carry
+1620.0|das Mädchen|noun|girl
+1621.0|halten|verb|to hold
+1626.0|dagegen|adverb|against it
+1632.0|der Geburtstag|noun|birthday
+1644.0|weiter|adverb|further
+1647.0|wohin|adverb|where to
+1652.0|leiten|Verb|to lead
+1657.0|spielen|verb|play
+1662.0|eigentlich|adverb|actually
+1672.0|sollen|verb|should
+1675.0|erklären|Verb|to explain
+1680.0|paar|noun|a few
+1681.0|der Unterschied|noun|difference
+1686.0|lassen|verb|let
+1691.0|ob|conjunction|whether
+1693.0|studieren|verb|to study
+1697.0|der Bau|noun|construction
+1700.0|weniger|adjective|less
+1701.0|verdienen|verb|to earn
+1712.0|wo|adverb|where
+1713.0|liegen|verb|to lie
+1720.0|oben|adverb|above
+1739.0|darüber|adverb|about it
+1744.0|unbeliebt|adjective|unpopular
+1759.0|das Wunder|Noun|miracle
+1760.0|warten|verb|to wait
+1786.0|brauchen|Verb|to need
+1788.0|die Blume|noun|the flower
+1797.0|normal|adjective|normal
+1799.0|die Liebe|noun|love
+1809.0|die Röte|noun|the redness
+1816.0|der Tag|noun|day
+1816.001|das Tag|noun|the tag
+1820.0|der Körper|noun|the body
+1821.0|reduzieren|verb|reduce
+1824.0|die Schule|noun|the school
+1827.0|die Straße|noun|the street
+1836.0|irgendwer|pronoun|somebody
+1839.0|die Ware|noun|goods
+1848.0|hässlich|adjective|ugly
+1856.0|sexuell|adjective|sexual
+1863.0|Armlänge|noun|arm's length
+1867.0|empfehlen|verb|to recommend
+1876.0|bevor|conjunction|before
+1879.0|berühren|verb|to touch
+1881.0|höflich|adjective|polite
+1883.0|fragen|verb|ask
+1887.0|die Erfahrung|noun|experience
+1889.0|der Vater|noun|father
+1891.0|die Tochter|noun|daughter
+1897.0|der Rapper|Noun|Rapper
+1906.0|das Liebeslied|noun|the love song
+1917.0|die Scheiße|noun|the crap
+1921.0|wechseln|verb|to change
+2042.0|das Fest|noun|celebration
+2046.0|kennen|Verb|know
+2050.0|der Gast|noun|the guest
+2052.0|prominent|adjective|prominent
+2059.0|rein|adverb|in
+2064.0|der Champagner|noun|champagne
+2066.0|eiskalt|adjective|ice-cold
+2067.0|der Wein|noun|wine
+2069.0|mitfeiern|verb|to celebrate together
+2070.0|dürfen|verb|to be allowed
+2076.0|kritisch|adjective|critical
+2078.0|Türpolitik|noun|door policy
+2080.0|unpolitisch|adjective|apolitical
+2095.0|marschieren|verb|to march
+2112.0|der Herr|noun|the gentleman
+2114.0|eintreten|verb|to enter
+2117.0|zuerst|adverb|first
+2120.0|der Saal|noun|hall
+2125.0|lachen|verb|laugh
+2146.0|ok|adjective|ok
+2151.0|schade|adjective|pity
+2154.0|das Buffet|noun|buffet
+2157.0|fünf|number|five
+2159.0|zwölf|noun|twelve
+2163.0|der Spaß|noun|fun
+2165.0|senken|verb|lower
+2167.0|der Blick|noun|the glance
+2169.0|erheben|verb|to raise
+2171.0|das Glas|noun|glass
+2172.0|das Licht|noun|the light
+2181.0|wegschauen|verb|to look away
+2228.0|heut|adverb|today
+2239.0|der Demokrat|noun|democrat
+2243.0|der Rassist|noun|the racist
+2253.0|krank|adjective|sick
+2256.0|der Täter|noun|perpetrator
+2258.0|das Opfer|noun|victim
+2260.0|Anne|noun|Anne
+2262.0|der Hans|noun|Hans
+2263.0|Frank|noun|Frank
+2266.0|der Bürger|noun|citizen
+2268.0|trinken|verb|to drink
+2271.0|einschenken|verb|to pour
+2277.0|hereinkommen|Verb|to come in
+2278.0|herein|adverb|in
+2289.0|unten|adverb|below
+2293.0|schließen|verb|to close
+2301.0|der Finger|noun|the finger
+2310.0|herrlich|adjective|wonderful
+2313.0|Lieben|verb|to love
+2325.0|die Moral|noun|morale
+2330.0|genau|Adverb|exactly
+2333.0|der Wahnsinn|noun|madness
+2343.0|festlich|adjective|festive
+2346.0|nie|adverb|never
+2359.0|Drum|adverb|therefore
+2382.0|die Musik|noun|the music
+2398.0|wegsehen|Verb|to look away
+2402.0|das Bier|noun|beer
+2403.0|weg|adverb|away
+2421.0|raus|adverb|out
+2446.0|dich|Pronoun|you
+2453.0|freundschaftlich|adjective|friendly
+2463.0|dein|possessive pronoun|your
+2464.0|das Wort|noun|word
+2473.0|unvermeidlich|adjective|inevitable
+2480.0|die Tür|noun|door
+2485.0|der Herbst|noun|autumn
+2488.0|das Deutschlandlied|noun|the Deutschlandlied
+2493.0|dabei|adverb|there
+2497.0|die Nacht|noun|the night
+2503.0|das Deutschland|noun|Germany
+2504.0|schlafen|verb|to sleep
+2505.0|süß|adjective|sweet
+2515.0|wärmen|verb|to warm
+2518.0|der Durst|noun|the thirst
+2531.0|damals|adverb|back then
+2546.0|gern|adverb|gladly
+2548.0|warmhalten|verb|keep warm
+2549.0|einander|Pronomen|each other
+2550.0|warm|adjective|warm
+2554.0|betrunken|adjective|drunk
+2555.0|schwer|adjective|heavy
+2557.0|der Herbstwind|noun|autumn wind
+2566.0|der Kamerad|Noun|comrade
+2567.0|gähnen|verb|yawn
+2570.0|morgen|adverb|tomorrow
+2576.0|der Schlaf|Noun|sleep
+2579.0|schrecken|Verb|to frighten
+2580.0|plötzlich|adverb|suddenly
+2585.0|hoch|adjective|high
+2588.0|die Hose|noun|pants
+2589.0|nass|adjective|wet
+2595.0|schnell|adjective|quick
+2598.0|deutsch|adjective|German
+2609.0|schlau|adjective|clever
+2610.0|das Buch|noun|book
+2616.0|Schönheitsschlaf|noun|beauty sleep
+2620.0|der Staub|noun|dust
+2629.0|der DJ|noun|the DJ
+2632.0|der Morgen|noun|morning
+2632.001|das Morgen|noun|the tomorrow
+2634.0|fein|adjective|fine
+2640.0|das Phänomen|noun|phenomenon
+2646.0|geometrisch|adjective|geometrical
+2647.0|perfekt|adjective|perfect
+2664.0|neu|adjective|new
+2667.0|schützen|verb|protect
+2671.0|lesen|verb|to read
+2678.0|negativ|adjective|negative
+2685.0|Michael|Proper noun|Michael
+2687.0|Style|noun|style
+2690.0|der Schritt|noun|the step
+2703.0|ehrlich|adjective|honest
+2704.0|die Haut|noun|skin
+2708.0|das Botox|noun|Botox
+2710.0|holen|verb|get
+2712.0|der Preis|noun|the price
+2714.0|nennen|verb|call
+2722.0|das Handy|noun|the phone
+2728.0|der King|noun|the king
+2730.0|der Spiegel|Noun|mirror
+2731.0|zögern|verb|hesitate
+2732.0|verlegen|verb|to relocate
+2742.0|dafür|adverb|for that
+2746.0|weder|conjunction|neither
+2747.0|das Lesen|Noun|reading
+2749.0|schreiben|verb|to write
+2772.0|der Frühling|noun|spring
+2775.0|Röslein|noun|little rose
+2778.0|leiden|verb|to suffer
+2792.0|die Mühe|noun|effort
+2797.0|das Kompliment|noun|compliment
+2798.0|Schöne|adjective|beautiful
+2805.0|das Angebot|noun|the offer
+2807.0|die Freude|noun|joy
+2813.0|das Äußeres|noun|appearance
+2818.0|die Sache|noun|thing
+2822.0|der Hunger|Noun|hunger
+2829.0|derselbe|pronoun|the same
+2846.0|das Kleid|noun|dress
+2859.0|Leute|noun|people
+2871.0|leider|adverb|unfortunately
+2876.0|ab|preposition|off
+2885.0|on|adjective|on
+3079.0|dir|pronoun|you
+3085.0|neun|number|nine
+3086.0|okay|adjective|okay
+3090.0|los|adverb|off
+3091.0|das Frühstück|noun|breakfast
+3096.0|der Walkman|noun|Walkman
+3100.0|die Haustür|noun|the front door
+3101.0|ran|Adverb|close
+3105.0|entlang|preposition|along
+3121.0|kurz|adjective|short
+3126.0|die Zeitung|Noun|newspaper
+3132.0|unzählig|Adjective|countless
+3133.0|die Bombe|noun|bomb
+3138.0|der Mensch|noun|the human
+3138.001|das Mensch|noun|the human (colloquial)
+3154.0|verlassen|verb|leave
+3156.0|der Bäcker|noun|the baker
+3161.0|die Lage|noun|situation
+3164.0|dramatisch|adjective|dramatic
+3165.0|verschlechtern|verb|to worsen
+3167.0|fantastisch|adjective|fantastic
+3168.0|das Wetter|noun|the weather
+3168.001|der Wetter|noun|the forecaster
+3175.0|überall|adverb|everywhere
+3179.0|erwischen|verb|catch
+3189.0|die Laune|noun|mood
+3192.0|einfallen|verb|to occur
+3206.0|das Fernsehen|noun|television
+3209.0|das Radio|noun|radio
+3209.001|der Radio|noun|radio
+3211.0|die Sonne|noun|sun
+3219.0|der Niemand|noun|the nobody
+3229.0|die Frage|noun|the question
+3232.0|gnadenlos|adjective|merciless
+3238.0|die Million|noun|the million
+3239.0|bedrohen|Verb|threaten
+3241.0|der Hungertod|noun|starvation
+3243.0|die Schätzung|noun|estimate
+3260.0|traurig|adjective|sad
+3263.0|die Fliege|Noun|fly
+3264.0|sitzen|verb|sit
+3265.0|das Weiß|noun|white
+3272.0|scheiß|Adjektiv|crappy
+3275.0|fühlen|verb|to feel
+3280.0|bloß|adverb|merely
+3288.0|möglich|adjective|possible
+3294.0|oft|adverb|often
+3299.0|beinah|adverb|almost
+3300.0|täglich|adjective|daily
+3302.0|warum|adverb|why
+3305.0|mittlerweile|adverb|meanwhile
+3310.0|erschrecken|verb|to frighten
+3312.0|irgendwo|adverb|somewhere
+3315.0|dreckig|adjective|dirty
+3322.0|die Leere|noun|the emptiness
+3337.0|zerreißen|verb|to tear
+3343.0|der Scheiß|noun|crap
+3345.0|ertragen|verb|endure
+3352.0|das Fressen|noun|food
+3356.0|der Stein|noun|stone
+3406.0|die Art|noun|type
+3409.0|brutal|adjective|brutal
+3413.0|sechs|number|six
+3419.0|der Name|noun|the name
+3422.0|die Tat|noun|deed
+3435.0|das Bild|noun|picture
+3437.0|das TV|noun|TV
+3437.001|der TV|noun|television
+3442.0|dort|Adverb|there
+3462.0|verlieren|verb|lose
+3479.0|voll|adjective|full
+3480.0|der Hass|noun|hatred
+3483.0|der Gegner|noun|opponent
+3489.0|die Familie|noun|family
+3493.0|sogar|adverb|even
+3494.0|selber|pronoun|self
+3504.0|etwas|pronoun|something
+3510.0|Eltern|noun|parents
+3512.0|das Haben|noun|possession
+3518.0|setzen|verb|to set
+3525.0|die Angst|noun|fear
+3526.0|davor|adverb|before that
+3531.0|geschehen|verb|happen
+3553.0|schweißgebadet|adjective|sweaty
+3564.0|leise|adjective|quiet
+3565.0|atmen|verb|breathe
+3582.0|niemand|pronoun|nobody
+3633.0|kapitalistisch|adjective|capitalist
+3643.0|aktuell|Adjective|current
+3668.0|der Euro|noun|euro
+3669.0|viel|adjective|much
+3683.0|mögen|verb|like
+3689.0|die Haarfarbe|noun|the hair color
+3711.0|recht|adjective|right
+3714.0|zuhören|verb|to listen
+3719.0|besonders|adverb|especially
+3736.0|daran|adverb|on it
+3741.0|ändern|verb|change
+3742.0|außer|Preposition|Except
+3743.0|jemand|pronoun|someone
+3744.0|anders|adjective|different
+3779.0|doppelt|adjective|double
+3780.0|das Geld|noun|money
+3786.0|am|Preposition|at the
+3811.0|einmal|adverb|once
+3812.0|der Platz|noun|place
+3823.0|zuhause|adverb|at home
+3827.0|die|article|the (feminine/plural)
+3913.0|hochladen|verb|to upload
+3939.0|das Netz|noun|the net
+3943.0|daheim|adverb|at home
+3945.0|bringen|verb|to bring
+3948.0|der Urlaub|noun|the vacation
+3951.0|die Kultur|noun|culture
+3952.0|nah|adjective|near
+3966.0|die Kellnerin|noun|waitress
+3968.0|Mainz|noun|Mainz
+3976.0|modern|Adjective|modern
+3983.0|greifen|verb|to grab
+3993.0|suchen|verb|to search
+3996.0|googeln|Verb|to google
+3998.0|der Ort|noun|place
+3998.001|das Ort|noun|place
+4002.0|Google|noun|Google
+4012.0|der Fuß|noun|the foot
+4025.0|das Jahrtausend|noun|millennium
+4028.0|das Ende|noun|the end
+4032.0|das Monument|noun|monument
+4041.0|bestellen|verb|to order
+4053.0|überteuert|adjective|overpriced
+4055.0|kaufen|verb|buy
+4068.0|fallen|Verb|to fall
+4076.0|stellen|verb|to place
+4085.0|die Luft|Nomen|the air
+4085.001|der Luft|noun|the air
+4099.0|der Check-in|noun|the check-in
+4099.001|das Check-in|noun|check-in
+4106.0|die Infektion|noun|infection
+4110.0|das Stresshormon|noun|stress hormone
+4112.0|der Jetpilot|noun|jet pilot
+4120.0|die Reise|noun|journey
+4125.0|die Dose|noun|the can
+4131.0|die Television|noun|the television
+4132.0|die Selbstreflexion|noun|self-reflection
+4140.0|Señor|noun|Señor
+4148.0|wegwollen|Verb|to want to leave
+4155.0|der Flug|noun|the flight
+4165.0|woanders|adverb|elsewhere
+4176.0|das Déjà-vu|noun|déjà vu
+4179.0|der Boden|Noun|floor
+4180.0|wachsen|verb|to grow
+4190.0|der Mond|noun|moon
+4193.0|hinten|adverb|behind
+4198.0|rauchen|verb|to smoke
+4211.0|rennen|verb|to run
+4214.0|müssen|verb|must
+4220.0|kämpfen|verb|to fight
+4254.0|produzieren|verb|to produce
+4255.0|die Erinnerung|noun|memory
+4259.0|die Stunde|noun|the hour
+4263.0|der Kinderwunsch|noun|child's wish
+4272.0|die Heimat|noun|the homeland
+4287.0|der Eindruck|noun|impression
+4288.0|sammeln|verb|to collect
+4292.0|äh|Interjection|uh
+4295.0|der Fisch|noun|the fish
+4296.0|karibisch|adjective|Caribbean
+4297.0|der Rhythmus|noun|the rhythm
+4298.0|die Liebesgeschichte|noun|the love story
+4304.0|posten|verb|to post
+4309.0|berichten|verb|report
+4317.0|die Geburt|noun|the birth
+4322.0|der Tattoo|noun|the tattoo
+4322.001|das Tattoo|noun|tattoo
+4336.0|ey|Interjection|hey
+4348.0|der Vegetarier|noun|the vegetarian
+4354.0|die Kuh|noun|cow
+4356.0|der Ferrari|noun|the Ferrari
+4361.0|der Sport|noun|sport
+4364.0|nächste|adjective|next
+4365.0|der Sommer|Nomen|summer
+4366.0|das Probetraining|noun|the trial training
+4371.0|der Schluss|noun|end
+4376.0|das Hobby|noun|the hobby
+4377.0|die Skulptur|noun|the sculpture
+4381.0|die Religion|Noun|religion
+4383.0|radikal|adjective|radical
+4390.0|seitdem|conjunction|since
+4416.0|erkennen|verb|recognize
+4428.0|die Ausreise|noun|the departure
+4450.0|Replikat|noun|replica
+4452.0|Drehen|verb|turn
+4459.001|das Grad|noun|the degree
+4469.0|die Weste|noun|vest
+4473.0|wechselbar|adjective|replaceable
+4474.0|schlecht|adjective|bad
+4476.0|die Hexenjagd|noun|witch hunt
+4479.0|wegrennen|verb|to run away
+4493.0|lass|Verb|let
+4497.0|hinter|preposition|behind
+4503.0|die Fähigkeit|noun|ability
+4505.0|fliegen|verb|fly
+4520.0|die Verlegenheit|noun|the embarrassment
+4538.0|Ferienparadies|noun|vacation paradise
+4541.0|mittelschwer|adjective|moderately difficult
+4546.0|die Erde|noun|earth
+4569.0|via|Preposition|via
+4570.0|die Airline|noun|airline
+4595.0|groß|adjective|big
+4620.0|das Klo|noun|toilet
+4650.0|leuchten|verb|shine
+4668.0|die Geduld|noun|patience
+4670.0|der Schmerz|noun|pain
+4677.0|blicken|verb|glance
+4681.0|der Trost|noun|comfort
+4691.0|das Herz|noun|heart
+4693.0|genauso|adverb|just as
+4701.0|der Deckel|noun|lid
+4714.0|formlos|adjective|formless
+4716.0|dahin|adverb|there
+4721.0|farblos|adjective|colorless
+4724.0|leer|Adjektiv|empty
+4728.0|treffen|verb|meet
+4729.0|erst|Adverb|only
+4732.0|bekommen|verb|to receive
+4736.0|endgültig|adjective|final
+4737.0|die Form|noun|shape
+4747.0|das Blut|noun|blood
+4801.0|die Dreißig|noun|thirty
+4802.0|die Sorte|noun|the kind
+4803.0|der Joghurt|noun|the yogurt
+4803.001|die Joghurt|noun|yogurt
+4803.002|das Joghurt|noun|the yogurt
+4806.0|das Regal|noun|the shelf
+4809.001|das Zimt|noun|cinnamon
+4813.0|die Qual|noun|the torment
+4815.0|die Wahl|noun|the choice
+4816.0|unter|preposition|under
+4820.0|das Deodorant|Noun|deodorant
+4825.0|frisch|adjective|fresh
+4832.0|die Pizza|noun|the pizza
+4833.0|das Sushi|noun|the sushi
+4835.0|die Wurst|noun|the sausage
+4836.0|die Cola|noun|the cola
+4836.001|das Cola|noun|the cola
+4844.0|welches|pronoun|which
+4846.0|welcher|pronoun|which
+4847.0|die Nummer|noun|number
+4849.0|die App|noun|app
+4849.001|das App|noun|app
+4864.0|das Meer|noun|sea
+4866.0|die Möglichkeit|noun|possibility
+4867.0|das Können|noun|skill
+4869.0|der Kopfschmerz|noun|the headache
+4870.0|bereiten|verb|prepare
+4876.0|entscheiden|verb|decide
+4905.0|Athen|noun|Athens
+4906.0|der Paris|noun|Paris
+4908.0|Madrid|noun|Madrid
+4912.0|wen|pronoun|whom
+4919.0|das Bar|noun|the bar
+4919.001|die Bar|noun|bar
+4924.0|der Hund|noun|dog
+4936.0|die Playlist|noun|the playlist
+4955.0|das Konto|Noun|the account
+4961.0|froh|adjective|glad
+5007.0|die Option|noun|option
+5011.0|die Diskussion|noun|discussion
+5014.0|lohnen|Verb|to be worth it
+5018.0|der Zweifel|noun|doubt
+5020.0|tief|adjective|deep
+5042.0|schaffen|verb|create
+5051.0|die Therapie|noun|therapy
+5055.001|der Viertel|noun|quarter
+5055.002|die Viertel|Noun|the quarter
+5058.0|siebzehn|numeral|seventeen
+5059.0|der Therapeut|noun|the therapist
+5061.0|nochmal|adverb|again
+5124.0|weiß|adjective|white
+5126.0|Polizeibeamte|Noun|police officer
+5133.0|eigen|adjective|own
+5144.0|der Polizist|noun|policeman
+5148.0|das Knie|noun|knee
+5152.0|der Bulle|noun|the bull
+5159.0|das Fenster|noun|window
+5165.0|der Fernseher|noun|television
+5176.0|ach|interjection|oh
+5191.0|drei|number|three
+5192.0|vier|noun|four
+5211.0|sodass|Conjunction|So that
+5225.0|der Amazon|noun|Amazon
+5226.0|Prime|noun|Prime
+5228.0|halt|interjection|just
+5240.0|die Chance|noun|the opportunity
+5243.0|dumm|Adjective|dumb
+5249.0|der Job|Nomen|the job
+5251.0|freiwillig|adjective|voluntary
+5260.0|das Prinzip|noun|principle
+5264.0|bestimmt|adjective|certain
+5273.0|die Idee|noun|idea
+5276.0|das Original|noun|original
+5342.0|heißen|verb|to mean
+5376.0|die Seite|noun|the side
+5380.0|automatisch|adverb|automatically
+5428.0|so dass|phrase|so that
+5446.0|die Dunkelheit|noun|darkness
+5450.0|bald|adverb|soon
+5464.0|der Gewinnertyp|noun|the winner
+5469.0|kriegen|verb|get
+5476.0|Gehaltsklasse|noun|salary grade
+5482.0|der Schulabschluss|noun|graduation
+5486.0|die Fremdsprache|noun|foreign language
+5488.0|das Klavier|noun|piano
+5495.0|einen|article|a (masculine)
+5496.0|der Blumenstrauß|noun|bouquet
+5502.0|der Typ|noun|guy
+5516.0|lügen|verb|to lie
+5520.0|sicher|adjective|safe
+5527.0|die Freundin|noun|the friend (feminine)
+5529.0|trotzdem|adverb|nevertheless
+5553.0|die Milliarde|noun|the billion
+5567.0|der Jemand|noun|someone
+5576.0|das Detail|noun|detail
+5577.0|perfektionieren|verb|to perfect
+5580.0|die Parkbank|noun|park bench
+5604.0|fürchten|verb|to fear
+5615.0|die Kritik|noun|criticism
+5646.0|klassifizierbar|adjective|classifiable
+5650.0|das Virus|noun|virus
+5650.001|der Virus|noun|the virus
+5654.0|obwohl|conjunction|although
+5657.0|einhundert|numeral|one hundred
+5676.0|der Gentleman|Noun|the gentleman
+5714.0|das Rätsel|Noun|riddle
+5719.0|der Käfig|noun|the cage
+5725.0|frei|adjective|free
+5729.0|bewegen|verb|move
+5731.0|zusammen|adverb|together
+5739.0|verwandt|adjective|related
+5750.0|entstehen|verb|to arise
+5755.0|versteckt|adjective|hidden
+5759.0|stecken|Verb|stick
+5766.0|zähmen|verb|tame
+5770.0|reiten|Verb|to ride
+5774.0|die Innenstadt|noun|the city center
+5782.0|stattfinden|verb|take place
+5809.0|laufen|verb|run
+5812.0|der Delfin|noun (masculine)|dolphin
+5818.0|die Taube|noun|the pigeon
+5820.0|tauchen|verb|dive
+5831.0|versinken|verb|to sink
+5853.0|das Lieblingswort|noun|favorite word
+5855.0|lauten|verb|state
+5856.0|das Alphabet|noun|the alphabet
+5856.001|der Alphabet|noun|the alphabet (alternative)
+5875.0|das Papier|noun|paper
+5888.0|führen|Verb|lead
+5914.0|zwar|adverb|indeed
+5917.0|das Ziel|noun|goal
+5919.0|der Beginn|noun|start
+5920.0|mitspielen|verb|to play along
+5930.0|gewinnen|verb|to win
+5941.0|reich|adjective|rich
+5965.0|falsch|adjective|wrong
+5980.0|der Lieblingsort|noun|the favorite place
+5998.0|eh|adverb|anyway
+6022.0|schwanger|adjective|pregnant
+6024.0|wem|pronoun|whom
+6026.0|die Beziehung|noun|relationship
+6035.0|der Penis|noun|the penis
+6040.0|der Bus|noun|bus
+6040.001|die Bus|noun|bus
+6050.0|der Sechster|Noun|sixth
+6051.0|der Monat|noun|the month
+6051.001|das Monat|noun|the month
+6053.0|der Glückwunsch|noun|congratulation
+6064.0|frühestens|adverb|at the earliest
+6068.0|tot|Adjektiv|dead
+6073.0|der Krieg|noun|the war
+6093.0|der Schlafanzug|noun|the pajamas
+6098.0|billig|adjective|cheap
+6103.0|der Kleiner|Noun|little one
+6107.0|peinlich|adjective|embarrassing
+6117.0|das Mischpult|Noun|mixing console
+6133.0|der Salat|noun|salad
+6137.0|verrückt|adjective|crazy
+6141.0|die Mama|noun|the mom
+6148.0|das Fahrrad|noun|the bicycle
+6150.0|intakt|adjective|intact
+6152.0|der Tabak|Noun|tobacco
+6168.0|Girl|Noun|girl
+6195.0|der Berg|noun|the mountain
+6230.0|das Baby|noun|the baby
+6301.0|die Verantwortung|noun|the responsibility
+6322.0|böse|adjective|evil
+6323.0|der Traum|noun|dream
+6325.0|wahr|adjective|true
+6337.0|der Sechser|noun|six
+6339.0|das Lotto|noun|the lottery
+6343.0|tun|Verb|to do
+6355.0|Guck|verb|look
+6448.001|der Kondom|noun|the condom
+6465.0|essen|verb|to eat
+6468.0|dick|adjective|thick
+6469.0|der Bauch|Noun|belly
+6497.0|das Kriegen|noun|get
+6514.0|das Bein|noun|leg
+6517.0|die Hand|noun|the hand
+6586.0|erzählen|verb|to tell
+6608.0|schenken|verb|to give
+6612.0|die Mutter|noun|mother
+6621.0|wegnehmen|verb|to take away
+6641.0|der Sohn|noun|son
+6644.0|der Soldat|noun|the soldier
+6647.0|die Waffe|noun|the weapon
+6657.0|das Heim|noun|the home
+6663.0|willen|noun|sake
+6667.0|riskieren|Verb|to risk
+6676.0|das Reich|noun|empire
+6707.0|das Geschwister|noun|the sibling
+6714.0|zielen|verb|aim
+6722.0|überleben|Verb|survive
+6726.0|ihn|pronoun|him
+6727.0|erschießen|verb|shoot
+6733.0|die Rache|noun|the revenge
+6734.0|das Leid|noun|sorrow
+6741.0|nieder|adverb|down
+6787.0|der Herrscher|noun|the ruler
+6789.0|zufrieden|adjective|content
+6901.0|angenehm|adjective|pleasant
+6905.0|der Arm|noun|the arm
+6908.0|leichtfallen|verb|to come easy
+6964.0|a-|prefix|a-
+6993.0|zweifelsfrei|Adverb|undoubtedly
+6994.0|die Einsamkeit|noun|the solitude
+6996.0|die Person|noun|person
+6998.0|der Vergleich|Noun|comparison
+7004.0|selten|adjective|rare
+7015.0|darin|adverb|therein
+7021.0|gemeinsam|Adjektiv|together
+7073.0|beide|pronoun|both
+7161.0|die Welle|noun|wave
+7183.0|hoffen|verb|hope
+7208.0|schlagen|verb|hit
+7217.0|der Film|noun|film
+7224.0|brechen|verb|break
+7262.0|weißen|verb|white
+7273.0|taub|adjective|deaf
+7275.0|das Salz|noun|the salt
+7280.0|die Träne|Noun|tear
+7287.0|dran|Adverb|on it
+7298.0|wellen|verb|to wave
+7310.0|leben|verb|live
+7386.0|der Sturm|noun|storm
+7513.0|steppen|verb|step
+7526.0|ne|interjection|nah
+7527.0|die Packung|noun|the package
+7529.0|die Batterie|noun|the battery
+7531.0|das Plutonium|noun|the plutonium
+7538.0|neugeboren|adjective|newborn
+7547.0|bedeutungslos|adjective|meaningless
+7549.0|stinken|verb|stink
+7565.0|einkaufen|verb|to shop
+7566.0|die Atemmaske|noun|the breathing mask
+7572.0|das Gras|noun|grass
+7575.0|der Geist|Noun|spirit
+7578.0|die Lunge|noun|the lung
+7581.0|merken|verb|to notice
+7591.0|der Vogel|noun|the bird
+7605.0|schwimmen|verb|swim
+7611.0|die Möwe|noun|seagull
+7612.0|neben|preposition|next to
+7626.0|das Porzellan|noun|the porcelain
+7640.0|der Panda|noun|the panda
+7642.0|schmecken|verb|to taste
+7673.0|strecken|verb|to stretch
+7680.0|bieten|verb|to offer
+7690.0|nötig|adjective|necessary
+7697.0|das Picknick|noun|picnic
+7701.0|der Massagesessel|noun|the massage chair
+7707.0|die Spur|noun|trace
+7710.0|die Plastikhülle|noun|plastic cover
+7719.0|der Müll|noun|the trash
+7740.0|die Mikrowelle|noun|the microwave
+7746.0|die Urlaubsreise|noun|the vacation trip
+7758.0|strahlen|verb|radiate
+7769.0|endlos|adjective|endless
+7772.0|zittern|verb|to tremble
+7782.0|die Umwelt|noun|environment
+7788.0|retten|verb|to save
+7791.0|der Gummistiefel|noun|rubber boot
+7836.0|drunter|adverb|underneath
+7867.0|der Boom|noun|boom
+7879.0|rufen|verb|to call
+7886.0|wegwerfen|verb|to throw away
+7940.0|wau|interjection|woof
+7943.0|Ah|interjection|Ah
+7991.0|schau|verb|look
+8006.0|blutrot|Adjective|blood red
+8017.0|DAX|noun|DAX index
+8019.0|das Rekordhoch|noun|the record high
+8020.0|brandneu|adjective|brand-new
+8021.0|der Chino|noun|the chino
+8040.0|links|adverb|left
+8043.0|rechts|adverb|right
+8055.0|die Diktatur|noun|dictatorship
+8056.0|die Schau|Noun|show
+8061.0|die Freiheit|noun|freedom
+8065.0|der Milliardär|noun|the billionaire
+8081.0|politisch|adjective|political
+8099.0|der Faschismus|noun|fascism
+8101.0|back|Adverb|back
+8115.0|bequem|Adjective|comfortable
+8151.0|die Seine|Noun|the seine (river)
+8156.0|her|adverb|over here
+8170.0|fünfzig|numeral|fifty
+8173.0|heiß|Adjektiv|hot
+8176.0|braun|adjective|brown
+8180.0|die Brandmauer|noun|firewall
+8181.0|brennen|verb|to burn
+8194.0|stark|adjective|strong
+8214.0|jagen|Verb|hunt
+8274.0|sinnlos|Adjective|pointless
+8303.0|der Mut|noun|courage
+8315.0|bedeuten|verb|to mean
+8352.0|linksextrem|Adjektiv|far-left
+8393.0|schließlich|adverb|finally
+8406.0|debattieren|verb|to debate
+8422.0|die Schwester|noun|the sister
+8423.0|reinkommen|verb|to come in
+8427.0|rausgehen|verb|to go out
+8438.0|der Applaus|noun|applause
+8447.0|die Leukämie|noun|leukemia
+8451.0|heilbar|adjective|curable
+8504.0|rauskommen|verb|to come out
+8525.0|schlimm|adjective|bad
+8534.0|drinbleiben|verb|stay inside
+8536.0|drin|adverb|inside
+8589.0|der Erythrozyt|noun|erythrocyte
+8591.0|der Thrombozyt|noun|thrombocyte
+8597.0|das Essen|noun|meal
+8671.0|woher|adverb|from where
+8680.0|gestern|adverb|yesterday
+8699.0|der Wind|noun|wind
+8701.0|das Blatt|noun|the leaf
+8710.0|das Ohr|Noun|ear
+8735.0|der Steuerzahler|noun|taxpayer
+8738.0|der Fortschritt|Noun|progress
+8745.0|die Firma|noun|company
+8747.0|impfen|verb|to vaccinate
+8749.0|tabu|adjective|taboo
+8750.0|Merkel|noun|Merkel
+8757.0|Xavier|Proper noun|Xavier
+8775.0|die Minute|Noun|Minute
+8778.0|die Pause|noun|break
+8784.0|dicht|adjective|dense
+8787.0|hin|adverb|there
+8805.0|ernst|adjective|serious
+8814.0|überraschen|verb|to surprise
+8829.0|das Haschisch|noun|the hashish
+8829.001|der Haschisch|noun|hashish
+8831.0|der Likör|noun|the liqueur
+8833.0|der Regen|noun|rain
+8861.0|deshalb|adverb|therefore
+8877.0|packen|verb|to pack
+8879.0|vorne|adverb|in front
+8890.0|der Schlüssel|noun|the key
+8914.0|legen|verb|lay
+8921.0|die Lippe|noun|lip
+8957.0|der Tee|noun|tea
+8957.001|das Tee|noun|the tea
+8990.0|das Schloss|noun|castle
+8992.0|wundern|verb|to wonder
+9000.0|das Erdgeschoss|noun|the ground floor
+9006.0|der Schatten|noun|shadow
+9014.0|halb|adjective|half
+9025.0|die Situation|noun|the situation
+9040.0|herkommen|verb|to come from
+9049.0|riechen|verb|smell
+9057.0|der Zorn|noun|anger
+9058.0|der Mir|noun|Mir
+9061.0|andr-|prefix|other (partial word)
+9062.0|der Ausweg|noun|way out
+9065.0|die Flucht|noun|escape
+9067.0|vorn|adverb|at the front
+9113.0|die Fahne|noun|the flag
+9126.0|die Mission|noun|mission
+9128.0|erfüllen|verb|fulfill
+9130.0|das Plakat|noun|poster
+9131.0|acht|numeral|eight
+9132.0|das Komma|noun|the comma
+9138.0|folgen|verb|follow
+9140.0|Hol|Verb|fetch
+9154.0|drüben|adverb|over there
+9165.0|Aldi|noun|Aldi
+9168.0|unser|Possessivpronomen|our
+9184.0|die Girlande|noun|the garland
+9209.0|bauen|verb|build
+9212.0|der Vollidiot|noun|the complete idiot
+9229.0|nachts|adverb|at night
+9264.0|vereinen|verb|unite
+9266.0|der Beton|noun|the concrete
+9312.0|der Schuh|noun|shoe
+9316.0|golden|adjective|golden
+9321.0|die Ewigkeit|noun|eternity
+9398.0|pennen|verb|to sleep
+9406.0|wann|adverb|when
+9435.0|der Kaffee|noun|the coffee
+9435.001|das Kaffee|noun|coffee
+9486.0|der Affe|noun|monkey
+9491.0|die Drohne|noun|drone
+9497.0|der Himmel|noun|sky
+9500.0|rot|adjective|red
+9501.0|Australien|noun|Australia
+9506.0|unweit|adverb|not far
+9509.0|das Dschungelcamp|noun|jungle camp
+9512.0|der Februar|noun|February
+9522.0|Erfurt|noun|Erfurt
+9527.0|Hanau|noun|Hanau
+9534.0|die Maske|noun|the mask
+9544.0|die Pandemie|noun|the pandemic
+9564.0|der März|noun|March
+9583.0|funktionieren|verb|to function
+9592.0|die Europa|noun|Europe
+9602.0|die Hilfe|noun|help
+9605.0|die Lufthansa|noun|Lufthansa
+9616.0|falls|conjunction|if
+9625.0|der Basketball|noun|the basketball
+9630.0|der Rassismus|noun|racism
+9631.0|bemerken|verb|notice
+9634.0|der Mai|noun|May
+9644.0|zweimal|adverb|twice
+9645.0|demonstrieren|verb|demonstrate
+9676.0|aufrecht|adjective|upright
+9679.0|völlig|adverb|completely
+9682.0|wünschen|verb|to wish
+9694.0|weggehen|verb|to leave
+9704.0|Gleiche|noun|the same
+9706.0|der September|Substantiv|September
+9772.0|die Schmerztablette|noun|the painkiller
+9779.0|die Schwäche|noun|weakness
+9783.0|die Eifersucht|noun|jealousy
+9786.0|Wanderrucksack|noun|hiking backpack
+9791.0|verliebt|adjective|in love
+9807.0|die Seele|noun|the soul
+9834.0|unmöglich|adjective|impossible
+9839.0|besitzen|verb|to own
+9848.0|der Ballast|noun|the ballast
+9870.0|der Ball|noun|ball
+9871.0|flach|adjective|flat
+9887.0|küssen|verb|kiss
+9891.0|fest|adjective|firm
+9899.0|der Masochist|noun|masochist
+9919.0|hart|adjective|hard
+9920.0|vermissen|Verb|miss
+9928.0|die Peitsche|noun|the whip
+9929.0|dressieren|verb|to train (animals)
+9940.0|das Genital|noun|genital
+9941.0|direkt|adjective|direct
+9944.0|der Kohl|noun|cabbage
+9949.0|der Gesichtsausdruck|noun|facial expression
+9950.0|der Schrei|noun|scream
+9958.0|kalt|adjective|cold
+9969.0|der Ring|noun|ring
+9977.0|der Volleyball|noun|the volleyball
+9988.0|die Vergangenheit|noun|the past
+10072.0|Ehrlich|Adjective|honest
+10086.0|der Brokkoli|noun|the broccoli
+10097.0|schneiden|verb|cut
+10098.0|klingen|verb|sound
+10184.0|der Hit|noun|the hit
+10187.0|die Nation|noun|nation
+10206.0|davon|adverb|of it
+10215.0|klug|adjective|smart
+10265.0|ziehen|verb|to pull
+10268.0|die Entschuldigung|noun|apology
+10278.0|tierisch|adjective|animalistic
+10281.0|fahren|verb|drive
+10288.0|glänzen|verb|to shine
+10310.0|der Held|noun|hero
+10404.0|das Gedicht|noun|the poem
+10492.0|der Fall|Nomen|the case
+10492.001|das Fall|noun|fall
+10502.0|der Gott|noun|god
+10504.0|der Dank|noun|thanks
+10505.0|garantiert|adjective|guaranteed
+10509.0|der Schrank|noun|cabinet
+10575.0|das Speed|noun|the speed
+10576.0|der Trainer|noun|the coach
+10581.0|die Jogginghose|noun|jogging pants
+10586.0|bezahlen|verb|to pay
+10601.0|entschieden|adjective|determined
+10604.0|das Arschloch|noun|jerk
+10612.0|der Gewinner|noun|winner
+10614.0|der Verlierer|noun|the loser
+10620.0|Louis|noun|Louis
+10628.0|rocken|verb|to rock
+10630.0|siebzig|numeral|seventy
+10635.0|die Solidarität|Nomen|solidarity
+10657.0|super|adjective|super
+10675.0|nähen|verb|sew
+10678.0|der Donnerstag|noun|the Thursday
+10683.0|der Termin|Noun|appointment
+10685.0|der Teufel|Noun|devil
+10703.0|zehntausend|numeral|ten thousand
+10709.0|ähm|interjection|uhm
+10718.0|Br|Noun|br
+10719.0|o|letter|o
+10725.0|das Outfit|noun|the outfit
+10726.0|wert|adjective|worth
+10727.0|die Nike|noun|Nike
+10785.0|der Rand|noun|edge
+10796.0|der Geschmack|Noun|taste
+10808.0|der Rucksack|noun|the backpack
+10810.0|die Jeans|Noun|the jeans
+10810.001|das Jeans|Noun|the jeans
+10815.0|die Hundert|noun|the hundred
+10815.001|das Hundert|noun|hundred
+10830.0|die Masse|Nomen|mass
+10924.0|Okay|interjection|okay
+10925.0|cool|adjective|cool
+10942.0|Lichtenberg|noun|Lichtenberg
+10957.0|tiefbraun|adjective|dark brown
+10960.0|grau|adjective|gray
+10974.0|die Mauer|noun|the wall
+10999.0|die Demokratie|noun|democracy
+11050.0|die Hoffnung|noun|the hope
+11071.0|wann|adverb|when
+11075.0|der Alex|noun|Alexanderplatz
+11078.0|der Frieden|noun|peace
+11204.0|runter|adverb|down
+11268.0|deutlich|adjective|clear
+11281.0|Kunstausstellung|noun|art exhibition
+11330.0|interpretieren|verb|to interpret
+11421.0|die Sternennacht|Noun|the starry night
+11423.0|abends|Adverb|in the evening
+11428.0|Adam|noun|Adam
+11448.0|Mona|proper noun|Mona
+11453.0|Lisa|proper noun|Lisa
+11471.0|das DIN|noun|DIN standard
+11471.001|die DIN|Noun|the DIN standard
+11533.0|glücklich|adjective|happy
+11535.0|wow|Interjection|wow
+11540.0|die Katze|noun|the cat
+11541.0|kosten|verb|cost
+11562.0|die Toilette|noun|the toilet
+11567.0|ehm|Interjection|ehm
+11615.0|die Falte|noun|the wrinkle
+11625.0|der Alter|noun|the age
+11625.001|das Alter|noun|age
+11631.0|feiern|verb|celebrate
+11644.0|das Aroma|noun|aroma
+11655.0|wenig|adjective|little
+11657.0|blühen|verb|bloom
+11658.0|die Ausnahme|noun|exception
+11676.0|selbstverliebt|adjective|self-absorbed
+11683.0|das Lächeln|Noun|the smile
+11691.0|die Entwicklung|noun|the development
+11693.0|der Prinz|noun|the prince
+11696.0|das Jahrzehnt|noun|decade
+11698.0|die Tragödie|noun|the tragedy
+11708.0|sin|noun|sine
+11717.0|Sebastian|Substantiv|Sebastian
+11721.0|vierzehn|Numeral|fourteen
+11732.0|offen|adjective|open
+11787.0|unterschätzen|verb|to underestimate
+11802.0|missverstehen|verb|to misunderstand
+11806.0|optisch|adjective|optical
+11820.0|die Antilope|noun|antelope
+11838.0|hu|Interjection|huh
+11922.0|die Aufgabe|noun|task
+11926.0|erledigen|verb|to handle
+11931.0|freundlich|adjective|friendly
+11964.0|der Charakter|noun|character
+11969.0|mitarbeiten|verb|to collaborate
+11985.0|das Holz|Noun|wood
+11992.0|loben|Verb|to praise
+12072.0|besser|adjective|better
+12094.0|das Karma|noun|karma
+12096.0|Dieter|noun|Dieter
+12102.0|abschreckend|adjective|daunting
+12109.0|der Tod|noun|death
+12125.0|der Herzinfarkt|noun|heart attack
+12135.0|der Kapitalismus|noun|capitalism
+12143.0|das Beispiel|noun|example
+12167.0|der Knoten|noun|the knot
+12172.0|der Faden|noun|thread
+12201.0|das Lernen|Noun|learning
+12224.0|die Orange|Noun|the orange
+12224.001|das Orange|Noun|the orange
+12246.0|der Luxus|Noun|the luxury
+12248.0|der Ruhm|noun|the fame
+12281.0|die Antwort|noun|answer
+12330.0|gewaltbereit|adjective|prone to violence
+12331.0|der Ausländer|noun|foreigner
+12342.0|Togo|Noun|togo
+12362.0|wunderbar|adjective|wonderful
+12363.0|der Neger|Noun|the negro
+12381.0|die Deutschlandfahne|noun|German flag
+12399.0|das Volk|noun|people
+12402.0|besorgt|adjective|concerned
+12410.0|das Rot|noun|the red
+12411.0|grün|adjective|green
+12418.0|homophob|adjective|homophobic
+12431.0|Schwule|noun|gays
+12434.0|heilen|verb|heal
+12441.0|Brownie|noun|brownie
+12442.0|backen|verb|to bake
+12447.0|teilen|verb|to share
+12462.0|überhaupt|adverb|at all
+12468.0|irgendjemand|pronoun|someone
+12473.0|der Döner|noun|kebab
+12475.0|die Soße|noun|sauce
+12491.0|das Böses|noun|evil
+12498.0|die Zukunft|noun|future
+12501.0|wahrscheinlich|adverb|probably
+12612.0|harmonieren|verb|to harmonize
+12619.0|mitmarschieren|verb|to march along
+12637.0|selbstgeschrieben|Adjective|self-written
+12639.0|ticken|verb|to tick
+12654.0|die Uhr|noun|clock
+12657.0|der Burger|noun|the burger
+12687.0|pünktlich|adjective|punctual
+12693.0|abschicken|verb|to send
+12697.0|unbedingt|adverb|absolutely
+12709.0|die Siegerin|noun|the winner
+12737.0|drüber|adverb|over it
+12756.0|dringend|adjective|urgent
+12932.0|der Adonis|noun|Adonis
+12932.001|die Adonis|noun|the Adonis
+12946.0|die Mark|noun|mark
+12946.001|das Mark|noun|marrow
+12950.0|durchschnittlich|adjective|average
+12966.0|draus|adverb|out of it
+12971.0|das T-Shirt|noun|the T-shirt
+12973.0|die Größe|noun|size
+12974.0|das M|noun|M
+12980.0|die Metapher|noun|the metaphor
+12985.0|eng|adjective|narrow
+12990.0|wobei|adverb|whereby
+12994.0|fair|adjective|fair
+13009.0|ihm|pronoun|him
+13039.0|das Schwert|noun|sword
+13043.0|wehren|verb|to defend
+13044.0|martialisch|adjective|martial
+13045.0|das Geschrei|noun|the screaming
+13081.0|der Ritter|noun|knight
+13083.0|stammen|verb|to originate
+13086.0|das Geschlecht|noun|gender
+13104.0|interessant|adjective|interesting
+13117.0|die Plastik|Noun|plastic
+13117.001|das Plastik|noun|the plastic
+13117.002|der Plastik|Noun|plastic material
+13128.0|plus|conjunction|plus
+13130.0|der Feuerschaden|Noun|fire damage
+13135.0|das Lagerfeuer|noun|the campfire
+13146.0|die Arbeit|noun|work
+13155.0|das Pappmaché|Noun|the papier-mâché
+13157.0|das Latex|noun|latex
+13160.0|das Ich|noun|self
+13171.0|die Elbe|Noun|Elbe River
+13174.0|der Zwerg|noun|the dwarf
+13228.0|der Sonntagnachmittag|noun|Sunday afternoon
+13230.0|der Lärm|noun|the noise
+13232.0|die Schlacht|Noun|battle
+13239.0|das Zelt|Noun|tent
+13239.001|der Zelt|Noun|tent (archaic)
+13244.0|der Schweiß|noun|the sweat
+13246.0|die Pubertät|noun|the puberty
+13252.0|draußen|adverb|outside
+13255.0|die Renaissance|noun|renaissance
+13268.0|tauschen|verb|exchange
+13271.0|die Rüstung|noun|armor
+13276.0|das Shirt|noun|shirt
+13285.0|zerstören|verb|to destroy
+13318.0|wütend|adjective|angry
+13326.0|die Jugend|noun|youth
+13349.0|stumm|Adjektiv|mute
+13350.0|der Protest|noun|protest
+13369.0|die Hymne|noun|anthem
+13381.0|die Sicherheit|noun|the security
+13385.0|Schuß|noun|shot
+13424.0|der Dreck|noun|dirt
+13427.0|umgeben|verb|to surround
+13434.0|zwingen|verb|to force
+13443.0|das Jahr|noun|year
+13468.0|die Karriere|noun|career
+13602.0|der Brief|noun|letter
+13612.0|mitteilen|verb|to inform
+13633.0|ausdenken|verb|to invent
+13635.0|sowas|Pronomen|such a thing
+13640.0|das Kapitel|noun|chapter
+13646.0|das Bongo|noun|bongo drum
+13646.001|die Bongo|noun|bongo
+13646.002|der Bongo|noun|bongo player
+13651.0|die Flagge|noun|the flag
+13660.0|der Brandenburger|noun|the Brandenburger
+13661.0|das Tor|noun|gate
+13677.0|lila|adjective|purple
+13678.0|Leggins|Noun|leggings
+13685.0|der Schild|noun|shield
+13685.001|das Schild|noun|sign
+13725.0|die Realität|noun|reality
+13763.0|der Koch|noun|cook
+13763.001|das Koch|Noun|the cook
+13775.0|der Thron|noun|throne
+13777.0|der Satan|noun|the Satan
+13781.0|das Museum|noun|museum
+13800.0|der Grundschullehrer|noun|the elementary school teacher
+13806.0|irgendwas|pronoun|something
+13809.0|die GmbH|noun|LLC
+13826.0|das Finale|noun|final
+13838.0|die Treppe|noun|stairs
+13841.0|der Bundestag|noun|parliament
+13847.0|die Revolution|noun|revolution
+13914.0|das Manuskript|noun|manuscript
+13934.0|der Kollege|noun|colleague
+13980.0|das Senfglas|noun|mustard jar
+13989.0|die Schlange|noun|snake
+13991.0|pinkeln|Verb|pee
+13993.0|der Sitz|noun|seat
+13998.0|die Wanne|noun|bathtub
+14034.0|der Weißwein|noun|white wine
+14040.0|lecker|adjective|delicious
+14041.0|das Dessert|noun|the dessert
+14042.0|der Lecker|Adjective|delicious
+14055.0|die Tomate|Noun|the tomato
+14056.0|der Mozzarella|Noun|mozzarella
+14064.0|Machen|noun|doing
+14082.0|das Raumschiff|noun|spaceship
+14100.0|das Brot|noun|bread
+14102.0|zumindest|adverb|at least
+14106.0|glutenfrei|adjective|gluten-free
+14130.0|finnisch|adjective|Finnish
+14131.0|der Autor|noun|author
+14174.0|das Tiramisu|noun|tiramisu
+14192.0|laktosefrei|adjective|lactose-free
+14199.0|puh|interjection|phew
+14245.0|das Rezept|noun|recipe
+14247.0|danken|verb|thank
+14259.0|die Wiederholung|noun|the repetition
+14264.0|die Mediathek|noun|the media library
+14321.0|Finnisch|noun|Finnish
+14334.0|tatsächlich|adverb|actually
+14358.0|hinkommen|verb|to get there
+14378.0|der Nudelsalat|Noun|pasta salad
+14405.0|Beate|noun|Beate
+14440.0|sofort|adverb|immediately
+14476.0|die Gelegenheit|noun|opportunity
+14496.0|das Maul|noun|mouth
+14580.0|anrufen|Verb|to call
+14583.0|versprechen|verb|promise
+14585.0|erinnern|Verb|remember
+14590.0|die Macht|noun|power
+14604.0|planen|verb|to plan
+14609.0|hängen|Verb|hang
+14623.0|aufgeben|verb|to give up
+14643.0|der Schlag|noun|the blow
+14733.0|Dong|Noun|dong
+14735.0|liefern|verb|deliver
+14740.0|der Zettel|noun|note
+14746.0|der Schneesturm|noun|snowstorm
+14748.0|das Kommando|noun|the command
+14749.0|der Bikini|noun|the bikini
+14749.001|das Bikini|Noun|the bikini
+14761.0|der Ford|noun|Ford
+14762.0|der Transit|noun|transit
+14762.001|das Transit|Noun|the transit
+14763.0|das Paket|noun|package
+14767.0|wenigstens|adverb|at least
+14769.0|obdachlos|adjective|homeless
+14770.0|der Nix|noun|the nix
+14776.0|die Selbstständigkeit|noun|independence
+14813.0|die Türe|noun|door
+14817.0|ausbeuten|verb|to exploit
+14819.0|die Baracke|noun|the barrack
+14827.0|per|preposition|via
+14831.0|der Schutz|Noun|the protection
+14834.0|befreien|verb|free
+14860.0|trennen|verb|separate
+14913.0|das Dankeschön|noun|thank you
+14949.0|servieren|verb|to serve
+14959.0|Sachsen|noun|Saxony
+14966.0|Gesundheitspolizei|Noun|health police
+14986.0|Hessen|noun|Hesse
+14993.0|winken|verb|to wave
+14995.0|der Schwabe|noun|Swabian
+14998.0|die Leberwurst|noun|liver sausage
+15022.0|der Pilz|Noun|Mushroom
+15031.0|das Törtchen|noun|small cake
+15037.0|die Asche|noun|the ash
+15039.0|das Sandwich|noun|sandwich
+15039.001|der Sandwich|noun|sandwich
+15089.0|Rolex|noun|Rolex
+15102.0|absolut|adjective|absolute
+15115.0|nett|adjective|nice
+15119.0|rauch|Noun|smoke
+15138.0|schmuck|Noun|jewelry
+15163.0|der Ausgang|noun|exit
+15164.0|das Muss|noun|the must
+15172.0|der Brauch|Noun|the custom
+15175.0|der Drink|noun|the drink
+15189.0|die Lady|noun|lady
+15193.0|sieben|Numeral|seven
+15203.0|der Tanz|noun|dance
+15206.0|der Song|noun|the song
+15208.0|das Placebo|noun|the placebo
+15210.0|blau|adjective|blue
+15213.0|die Dame|noun|lady
+15214.0|dito|adverb|same
+15217.0|hübsch|adjective|pretty
+15222.0|der Ehering|noun|wedding ring
+15239.0|die Queen|noun|the queen
+15267.0|das Kid|noun|kid
+15269.0|der Augenblick|noun|the moment
+15273.0|der Wunsch|noun|wish
+15294.0|darauf|adverb|thereupon
+15317.0|der Barkeeper|noun|the bartender
+15331.0|vergessen|verb|forget
+15341.0|die Offensive|noun|the offensive
+15365.0|die Ehe|noun|the marriage
+15413.0|Hot|Adjective|hot
+15417.0|das A|noun|the A
+15419.0|das Top|noun|top
+15432.0|stop|Verb|to stop
+15433.0|Take|verb|take
+15438.0|off|adverb|off
+15445.0|die More|Nomen|the moor
+15446.0|die Champagne|Noun|champagne
+15449.0|das Game|noun|game
+15455.0|Do|noun|do
+15472.0|real|adjective|real
+15474.0|das I|Noun|I
+15481.0|huh|Interjection|huh
+15486.0|a|letter|a
+15487.0|der Body|noun|body
+15497.0|love|noun|love
+15575.0|flexibel|adjective|flexible
+15576.0|die Arbeitszeit|noun|working hours
+15580.0|die Agentur|noun|the agency
+15591.0|die After-Work-Party|Noun|after work party
+15594.0|der Chef|noun|boss
+15612.0|sympathisch|Adjective|sympathetic
+15614.0|seriös|adjective|serious
+15615.0|das Foto|noun|photo
+15615.001|die Foto|Nomen|the photo
+15615.002|der Foto|noun|photo
+15705.0|die Tasche|noun|bag
+15708.0|der Bordeaux|noun|Bordeaux
+15718.0|ungefähr|adjective|approximately
+15722.0|verstecken|verb|to hide
+15742.0|das Auto|noun|car
+15778.0|der Juni|Nomen|June
+15790.0|das Ticket|noun|the ticket
+15810.0|tagelang|adverb|for days
+15823.0|tanzen|verb|dance
+15839.0|weinen|Verb|to cry
+15900.0|irgendein|pronoun|any
+15901.0|der Sinn|noun|sense
+15901.001|die Sinn|noun|senses
+15911.0|die Wand|noun|wall
+15917.0|der Moment|noun|moment
+15917.001|das Moment|noun|the moment
+15919.0|das Gegenteil|noun|opposite
+15934.0|sicken|verb|settle
+15991.0|der Arsch|noun|butt
+15999.0|defekt|adjective|defective
+16001.0|die Gesellschaft|noun|society
+16034.0|der Großvater|Nomen|the grandfather
+16037.0|fünfzehn|numeral|fifteen
+16056.0|irgendwie|adverb|somehow
+16062.0|der Krebs|noun|cancer
+16063.0|straight|adverb|straight
+16068.0|Geile|noun|great
+16069.0|das Thema|noun|the topic
+16092.0|der Satz|noun|sentence
+16101.0|Track|noun|track
+16252.0|die Motivation|Nomen|motivation
+16271.0|schätzen|verb|to appreciate
+16281.0|Push|noun|the push
+16293.001|das Ekel|noun|disgust
+16305.0|das Produkt|noun|product
+16308.0|achtzig|noun|eighty
+16321.0|die Generation|Noun|generation
+16324.0|Selbstoptimierer|noun|self-optimizer
+16330.0|der Sieger|Nomen|the winner
+16333.0|Siegen|Verb|to win
+16384.0|die Ahnung|Nomen|the idea
+16386.0|die Kette|noun|chain
+16392.0|Fashion|Noun|fashion
+16400.0|weich|adjective|soft
+16485.0|werfen|verb|to throw
+16487.0|der Strike|Noun|strike
+16495.0|der Winter|noun|winter
+16497.0|der Schnee|noun|the snow
+16507.0|das G|noun|the G
+16513.0|rollen|verb|roll
+16533.0|vegan|Adjective|vegan
+16552.0|dank|preposition|thanks to
+16566.0|die Ferne|noun|distance
+16577.0|der Kühlschrank|noun|refrigerator
+16644.0|der Supermarkt|noun|supermarket
+16646.0|das Eck|noun|the corner
+16648.0|der Spielplatz|noun|playground
+16653.0|der Nahverkehr|noun|the local transport
+16731.0|picken|verb|to pick
+16735.0|tragisch|adjective|tragic
+16736.0|die Beute|noun|loot
+16739.0|der Zahnzwischenraum|noun|the interdental space
+16765.0|die Großmutter|noun|grandmother
+16771.0|haarig|adjective|hairy
+16772.0|der Sack|noun|sack
+16777.0|kommentieren|verb|comment
+16801.0|die Zunge|noun|tongue
+16808.0|der Kinderchor|noun|the children's choir
+16838.0|persönlich|adjective|personal
+16846.0|die Ironie|noun|irony
+16853.0|häufig|Adjective|frequent
+16881.0|terroristisch|adjective|terrorist
+16888.0|das Grundwasser|noun|groundwater
+16891.0|das Ergebnis|noun|result
+16912.0|helfen|verb|help
+16931.0|die Bremse|noun|brake
+16989.0|ernstnehmen|verb|take seriously
+17000.0|das Album|noun|album
+17014.0|nachher|adverb|afterwards
+17027.0|trashig|adjective|trashy
+17031.0|Retro|adjective|retro
+17047.0|die Liste|Noun|list
+17062.0|Flussbad|noun|river pool
+17064.0|Indien|noun|India
+17066.0|das Brusthaar|noun|chest hair
+17067.0|trimmen|verb|to trim
+17075.0|die Bitte|noun|request
+17089.0|der Busfahrer|noun|bus driver
+17236.0|die Wolke|noun|the cloud
+17257.0|der Porsche|noun|Porsche
+17261.0|der Audi|noun|Audi
+17270.0|der Jaguar|noun|the jaguar
+17287.0|anmachen|verb|to turn on
+17303.0|das Nein|noun|the no
+17402.0|der Sextourist|noun|sex tourist
+17408.0|moralisch|adjective|moral
+17413.0|argumentieren|verb|to argue
+17425.0|die Ausbeutung|noun|the exploitation
+17427.0|kratzen|Verb|scratch
+17430.0|der Patriarchat|noun|patriarchy
+17430.001|das Patriarchat|noun|patriarchy
+17434.0|dadurch|Adverb|thereby
+17464.0|der Tourist|noun|tourist
+17497.0|Nächste|adjective|next
+17524.0|abstrakt|adjective|abstract
+17573.0|die Zweite|noun|second
+17584.0|springen|Verb|jump
+17595.0|das Tuk-Tuk|noun|tuk-tuk
+17703.0|kehren|Verb|sweep
+17707.0|Zurück|Adverb|back
+17747.0|die Hölle|noun|the hell
+17748.0|drohen|verb|to threaten
+17782.0|die Reaktion|noun|reaction
+17850.0|aufhören|verb|stop
+17891.0|das Dilemma|noun|dilemma
+17902.0|dazu|adverb|to that
+17910.0|unwahrscheinlich|adjective|unlikely
+18009.0|das Nichts|Noun|nothing
+18072.0|drinnen|adverb|inside
+18073.0|interessieren|verb|interest
+18193.0|der Man|noun|man
+18193.001|das Man|noun|the man
+18214.0|die Brünette|Noun|the brunette
+18217.0|kennenlernen|verb|get to know
+18223.0|das B|Noun|the b
+18350.0|ausatmen|Verb|to exhale
+18384.0|der Urin|noun|the urine
+18413.0|der Ofen|noun|oven
+18423.0|das Schiff|noun|ship
+18473.0|rostbraun|adjective|rust brown
+18505.0|der Tropfen|noun|drop
+18505.001|das Tropfen|Noun|dripping
+18507.0|das Parkett|noun|the parquet
+18517.0|die Etage|noun|the floor
+18523.0|die Klasse|noun|the class
+18524.0|das Möbel|noun|the furniture
+18553.0|stundenlang|adverb|for hours
+18568.0|anschauen|verb|to watch
+18571.0|der Bauer|noun|the farmer
+18571.001|das Bauer|noun|cage
+18573.0|schauen|verb|to look
+18587.0|konstruktiv|Adjektiv|constructive
+18674.0|vermutlich|adverb|presumably
+18683.0|der Kontinent|noun|continent
+18685.0|zurückkommen|verb|to come back
+18696.0|der Junge|noun|the boy
+18702.0|die Tablette|noun|tablet
+18722.0|die Socke|noun|the sock
+18745.0|darum|adverb|that's why
+18766.0|die Narbe|noun|the scar
+18841.0|das Ei|noun|the egg
+18843.0|uh|Interjection|uh
+18849.0|die Langeweile|noun|the boredom
+18907.0|der Hater|noun|hater
+18919.0|kombinieren|verb|to combine
+18922.0|konzentriert|adjective|focused
+18942.0|rausbringen|verb|to bring out
+18954.0|der Bobby|Noun|Bobby (name)
+18956.0|unterschreiben|verb|sign
+18991.0|das Parkverbot|noun|the no-parking zone
+19041.0|signieren|verb|to sign
+19043.0|der Deal|noun|deal
+19053.0|die Warnung|noun|warning
+19068.0|die Sekte|noun|the sect
+19118.0|der Feind|noun|the enemy
+19144.0|Boris|noun|Boris
+19145.0|Becker|noun|Becker
+19176.0|Haartransplantation|noun|hair transplant
+19189.0|Düsseldorf|noun|Düsseldorf
+19195.0|insgesamt|adverb|altogether
+19209.0|das Megafon|noun|megaphone
+19220.0|der Plan|noun|plan
+19271.0|töten|verb|kill
+19277.0|Latein|noun|Latin
+19278.0|die Physik|noun|physics
+19291.0|detailverliebt|adjective|detail-oriented
+19303.0|der Blackout|noun|the blackout
+19303.001|das Blackout|Noun|blackout
+19326.0|divers|adjective|diverse
+19337.0|brr|interjection|brr
+19338.0|das Hallo|noun|the hello
+19354.0|der Songtext|Noun|the lyrics
+19360.0|die Suche|noun|search
+19363.0|der Witz|noun|the joke
+19376.0|die Tanzbewegung|noun|dance move
+19382.0|die Fläche|noun|the area
+19387.0|die Combo|noun|combo
+19401.0|die Körpersprache|noun|body language
+19419.0|matchen|verb|to match
+19422.0|Mindset|Noun|mindset
+19425.0|einzig|adjective|unique
+19431.0|kleiden|verb|to dress
+19519.0|Skill|Noun|skill
+19524.0|Beach-Party|noun|beach party
+19549.0|die Statistik|noun|the statistics
+19564.0|das Liebesgefühl|noun|the feeling of love
+19566.0|die Biochemie|noun|biochemistry
+19570.0|resultieren|verb|to result
+19585.0|die Ehekrise|noun|marital crisis
+19587.0|Anwaltskosten|noun|legal fees
+19597.0|das Gehen|noun|the walking
+19615.0|Sozialverhalten|noun|social behavior
+19681.0|die Leichtigkeit|noun|the ease
+19791.0|Augenkrebs|noun|eye cancer
+19795.0|dunkel|adjective|dark
+19800.0|der Nachhauseweg|noun|way home
+19808.0|träumen|verb|to dream
+19846.0|der Sandsturm|noun|sandstorm
+19860.0|der Nebenjob|noun|the side job
+19879.0|Märchenschloss|noun|fairy tale castle
+19889.0|das Pferd|noun|horse
+19938.0|woke|adjective|woke
+19945.0|der Kunde|noun|customer
+19945.001|die Kunde|noun|the customer
+19951.0|die Höflichkeit|noun|politeness
+19958.0|stören|verb|disturb
+19961.0|der Geruch|noun|the smell
+19977.0|das Trinkgeld|noun|tip
+19979.0|extra|adverb|extra
+20085.0|das Publikum|noun|audience
+20108.0|zwanzig|number|twenty
+20111.0|die Rechnung|noun|bill
+20114.0|das Erwarten|Noun|expectation
+20118.0|die Stelle|noun|position
+20144.0|ergeben|verb|to result
+20148.0|Aachen|noun|Aachen
+20152.0|die Wikipedia|noun|Wikipedia
+20156.0|der Bekannter|noun|acquaintance
+20157.0|der Schüler|noun|student
+20188.0|der Geschädigter|Noun|the victim
+20189.0|beschreiben|verb|describe
+20192.0|die Mathe|noun|math
+20213.0|ähnlich|adjective|similar
+20217.0|das Ja|noun|yes
+20219.0|amen|Interjection|amen
+20224.0|lernen|verb|to learn
+20247.0|der Direktor|noun|director
+20249.0|präventiv|adjective|preventive
+20309.0|beobachten|verb|observe
+20327.0|das Amen|noun|the amen
+20373.0|jugendlich|adjective|youthful
+20380.0|Rapmusik|Noun|rap music
+20469.0|wichtig|adjective|important
+20473.0|der Musiker|noun|musician
+20561.0|das Bedürfnis|noun|need
+20575.0|flüstern|verb|to whisper
+20646.0|meistens|adverb|mostly
+20677.0|blind|adjective|blind
+20681.0|der Vorwurf|noun|accusation
+20693.0|unterdrücken|verb|suppress
+20699.0|die Wärme|noun|warmth
+20703.0|binden|verb|to bind
+20724.0|der Stolz|noun|pride
+20764.0|pumpen|verb|to pump
+20820.0|bedanken|verb|to thank
+20833.0|ständig|adverb|constantly
+20839.0|füttern|verb|to feed
+20854.0|die Wirklichkeit|Noun|reality
+20871.0|spüren|verb|feel
+20889.0|das Eis|noun|ice
+20902.0|enttäuschen|verb|to disappoint
+20923.0|verkaufen|Verb|to sell
+21055.0|der Park|noun|park
+21092.0|liken|verb|to like
+21142.0|französisch|Adjective|french
+21170.0|fotografieren|Verb|to photograph
+21278.0|die Brust|noun|chest
+21287.0|der Arzt|noun|doctor
+21296.0|blass|adjective|pale
+21380.0|angucken|verb|to look at
+21383.0|schief|adjective|crooked
+21388.0|joggen|verb|jog
+21464.0|ungeschminkt|adjective|barefaced
+21556.0|das Zimmer|noun|the room
+21558.0|der Mondschein|noun|moonlight
+21565.0|reflektieren|verb|to reflect
+21699.0|künstlich|adjective|artificial
+21707.0|entfernen|verb|to remove
+21732.0|wortlos|adjective|wordless
+21763.0|die Eins|noun|one
+21767.0|das Imperium|noun|the empire
+21774.0|das Helium|noun|helium
+21781.0|Mephisto|noun|Mephisto
+21803.0|die Wahrheit|noun|truth
+21809.0|die Rede|noun|the speech
+21813.0|rückwärts|adverb|backwards
+21819.0|die Lüge|noun|lie
+21827.0|der Meister|noun|master
+21841.0|Mozart|noun|Mozart
+21842.0|das Requiem|noun|requiem
+21843.0|solo|adverb|solo
+21846.0|die Flöte|noun|the flute
+21862.0|das Laufen|noun|the running
+21869.0|nun|adverb|now
+21884.0|der Schleier|noun|veil
+21890.0|der Test|noun|test
+21899.0|löschen|Verb|To delete
+21916.0|der Besitz|noun|possession
+21928.0|der Austausch|noun|exchange
+21944.0|zurückkehren|verb|to return
+21967.0|die Unendlichkeit|Noun|infinity
+21968.0|verschwenden|verb|to waste
+21984.0|das Labyrinth|noun|the labyrinth
+21991.0|verbringen|verb|to spend
+22019.0|der Einzelteil|noun|the component
+22019.001|das Einzelteil|noun|the component
+22024.0|hundert|adjective|hundred
+22032.0|eintausend|adjective|one thousand
+22046.0|begreifen|verb|to grasp
+22054.0|scheinen|verb|shine
+22075.0|der Kern|noun|core
+22077.0|die Kraft|noun|the strength
+22078.0|namens|adverb|called
+22079.0|das X|Noun|X
+22094.0|die Mitte|noun|center
+22119.0|die Zelle|noun|cell
+22134.0|zerbrechen|verb|to break
+22160.0|reimen|verb|to rhyme
+22180.0|das Fleisch|noun|the meat
+22191.0|tausendmal|adverb|a thousand times
+22258.0|die Acht|noun|the eight
+22266.0|hunderttausend|number|hundred thousand
+22274.0|das Pi|noun|Pi
+22278.0|der Zwilling|noun|twin
+22283.0|unendlich|adjective|infinite
+22298.0|der Pakt|Noun|pact
+22301.0|zyklisch|Adjective|cyclic
+22304.0|sterblich|adjective|mortal
+22306.0|welche|pronoun|which
+22309.0|Unbegrenztheit|noun|boundlessness
+22320.0|die Farbe|noun|color
+22338.0|das Monster|noun|the monster
+22364.0|die Ziffer|noun|digit
+22373.0|der Buddha|noun|Buddha
+22379.0|Hitler|proper noun|Hitler
+22390.0|der Zyklop|noun|the cyclops
+22412.0|der Kreis|noun|circle
+22416.0|unzerstörbar|adjective|indestructible
+22438.0|zirkulieren|verb|to circulate
+22469.0|die Barriere|noun|the barrier
+22471.0|Lassen|Verb|to let
+22475.0|das Wissen|noun|knowledge
+22480.0|jener|Pronoun|that one
+22499.0|das Gestern|noun|yesterday
+22524.0|unbeweglich|adjective|immobile
+22580.0|unbegrenzt|Adjective|unlimited
+22588.0|Fluß|noun|river
+22592.0|das Feuer|noun|the fire
+22594.0|der Donner|noun|the thunder
+22597.0|der Wert|noun|value
+22606.0|äußerlich|adverb|externally
+22620.0|pflanzen|verb|to plant
+22631.0|begrenzen|verb|limit
+22651.0|die Beschränkung|noun|restriction
+22663.0|die Materie|noun|matter
+22710.0|solange|conjunction|as long as
+22726.0|fremd|adjective|foreign
+22737.0|die Sonnenbrille|Noun|sunglasses
+22743.0|der Kanal|Noun|the canal
+22752.0|die Reflexion|Noun|the reflection
+22760.0|Treptow|Noun|treptow (place name)
+22773.0|komisch|adjective|strange
+22780.0|günstig|Adjective|inexpensive
+22794.0|die Waschmaschine|Noun|washing machine
+22982.0|die Blondine|noun|blonde (female)
+23013.0|der Balkon|noun|balcony
+23015.0|Ali|noun|Ali
+23026.0|die Hautfarbe|noun|the skin color
+23029.0|das Stroboskop|noun|strobe light
+23041.0|gratis|adverb|free
+23050.0|die Disko|noun|club
+23125.0|die Machete|noun|the machete
+23125.001|der Machete|noun|machete
+23134.0|die Rakete|noun|the rocket
+23161.0|die Sauna|noun|the sauna
+23163.0|Schweden|Noun|Sweden
+23448.0|genießen|verb|to enjoy
+23454.0|schneien|verb|to snow
+23458.0|die Jahreszeit|noun|season
+23460.0|morgens|Adverb|in the morning
+23463.0|lächeln|verb|to smile
+23531.0|duschen|verb|to shower
+23554.0|der Abend|noun|evening
+23693.0|das Kalenderblatt|noun|calendar page
+23694.0|herunter|Adverb|down
+23697.0|die Jalousie|noun|the blind
+23705.0|die Katastrophe|Noun|catastrophe
+23758.0|das Benzin|noun|gasoline
+23765.0|Berlin|noun|Berlin
+23771.0|die Konsequenz|Noun|consequence
+23773.0|Potsdam|proper noun|Potsdam
+23777.0|die Wannseekonferenz|noun|the Wannsee Conference
+23784.0|Beckenbauer|Noun|Beckenbauer
+23788.0|legal|Adjective|legal
+23789.0|die Raab|noun|the Raab
+23804.0|gewöhnen|verb|to get used to
+23819.0|der Rentner|noun|retiree
+23822.0|der Präsident|noun|president
+23825.0|checken|verb|to check
+23836.0|verurteilen|verb|to condemn
+23866.0|Björn|noun|Björn
+23883.0|der Superheld|noun|the superhero
+23885.0|die Not|noun|need
+23899.0|der Flatscreen|noun|flatscreen
+23906.0|brennend|adjective|burning
+23919.0|Jesus|noun|Jesus
+23939.0|different|adjective|different
+23974.0|power|noun|power
+23980.0|verantwortlich|adjective|responsible
+24018.0|höchstens|adverb|at most
+24046.0|die To|noun|the To
+24046.001|das To|noun|goal
+24141.0|Leon|noun|Leon
+24154.0|der Bizeps|noun|biceps
+24161.0|unsicher|adjective|insecure
+24162.0|Maria|noun|Maria
+24176.0|siebenstellig|adjective|seven-figure
+24200.0|der Mathematiker|noun|mathematician
+24292.0|Trading|noun|trading
+24302.0|arbeiten|verb|to work
+24307.0|der FC|noun|FC
+24308.0|Bayern|noun|Bavaria
+24309.0|München|noun|Munich
+24311.0|die Dividende|noun|dividend
+24337.0|spiegeln|verb|to reflect
+24377.0|das Halleluja|noun|hallelujah
+24378.0|halleluja|Interjection|hallelujah
+24480.0|wild|Adjektiv|wild
+24580.0|das Genie|noun|the genius
+24586.0|die Marie|noun|Marie
+24587.0|das Curie|noun|the Curie
+24590.0|die Kategorie|noun|category
+24591.0|Basiswissen|noun|basic knowledge
+24592.0|die Chemie|noun|chemistry
+24662.0|die Gruppe|Noun|group
+24738.0|der Sonntag|noun|Sunday
+24745.0|das Besonderes|noun|special thing
+24757.0|das Treffen|noun|meeting
+24762.0|die Nichte|noun|the niece
+24765.0|vierzig|number|forty
+24833.0|eskalieren|verb|to escalate
+24854.0|der Onkel|noun|uncle
+24856.0|besoffen|adjective|drunk
+24858.0|die Exfrau|noun|the ex-wife
+24859.0|kritisieren|verb|to criticize
+24873.0|die Verwandtschaft|noun|the relatives
+24880.0|der Opa|noun|the grandpa
+24890.0|die Tante|noun|the aunt
+24896.0|die Verschwörungstheorie|noun|conspiracy theory
+24934.0|zu Hause|phrase|at home
+24943.0|der Anfang|noun|beginning
+24975.0|der Graf|noun|count
+24981.0|der Nachbar|noun|the neighbor
+24984.0|der Garten|noun|garden
+24993.0|inklusiv|adjective|inclusive
+25054.0|gewohnt|adjective|accustomed
+25170.0|das Küssen|noun|kissing
+25185.0|der Samstagabend|noun|the Saturday evening
+25257.0|das Schönes|noun|something beautiful
+25457.0|schwierig|adjective|difficult
+25469.0|der Aperitif|noun|aperitif
+25473.0|still|Adjective|quiet
+25488.0|vietnamesisch|adjective|Vietnamese
+25512.0|der Alkohol|noun|alcohol
+25558.0|die Besserung|noun|improvement
+25654.0|das Gebäude|noun|building
+25658.0|lyrisch|adjective|lyrical
+25665.0|häuslich|adjective|domestic
+25671.0|die Poesie|noun|the poetry
+25681.0|der Tweet|Noun|the tweet
+25681.001|das Tweet|noun|tweet
+25688.0|Kafka|noun|Kafka
+25710.0|die Ruhe|noun|calm
+25738.0|boah|interjection|wow
+25741.0|mega|adjective|mega
+25758.0|Grundschulklasse|noun|primary school class
+25776.0|schweigen|verb|to remain silent
+25780.0|schuld|Adjective|guilty
+25784.0|der Schatz|noun|the treasure
+25802.0|fröhlich|adjective|cheerful
+25805.0|unhöflich|adjective|rude
+25856.0|der Riesenerfolg|noun|huge success
+25878.0|unterwegs|adverb|on the way
+25891.0|die Entscheidung|noun|decision
+25893.0|unbequem|adjective|uncomfortable
+25903.0|das Dreirad|noun|the tricycle
+25921.0|dazwischen|adverb|in between
+25932.0|die Bundesliga|noun|Bundesliga
+25976.0|die Türkei|noun|Turkey
+25982.0|die Partei|noun|party
+25996.0|der Versuch|noun|the attempt
+26033.0|die Pro|noun (feminine)|pro
+26033.001|der Pro|noun|the pro
+26033.002|das Pro|noun|the pro
+26035.0|Contra|noun|counterpoint
+26045.0|kompliziert|adjective|complicated
+26149.0|das Geschenk|noun|gift
+26158.0|link|noun|link
+26161.0|der Mittelfinger|noun|the middle finger
+26169.0|der Hase|noun|the hare
+26169.001|die Hase|noun|hare
+26173.0|der Komet|noun|the comet
+26175.0|der Krater|noun|the crater
+26183.0|das Air|noun|the air
+26183.001|die Air|noun|the flair
+26185.0|Harlem|noun|Harlem
+26186.0|Kommerz|noun|commerce
+26188.0|Marx|noun|Marx
+26192.001|der Militär|noun|the military officer
+26210.0|bunt|adjective|colorful
+26215.0|der Kommentar|noun|the comment
+26232.0|tolerieren|verb|to tolerate
+26235.0|kaputt|adjective|broken
+26352.0|der Piranha|noun|the piranha
+26361.0|Anja|noun|Anja
+26375.0|schlank|adjective|slim
+26376.0|die Taille|noun|the waist
+26379.0|die Medaille|Noun|the medal
+26405.0|die Trophäe|noun|the trophy
+26413.0|die Vitrine|noun|display case
+26447.0|das Netzwerk|noun|network
+26474.0|abholen|verb|pick up
+26478.0|der Kellner|noun|waiter
+26486.0|der Gruß|noun|greeting
+26585.0|der Raum|noun|the room
+26588.0|die Torte|Noun|the cake
+26682.0|ölig|adjective|oily
+26728.0|fertig|adjective|finished
+26736.0|respektieren|verb|to respect
+26741.0|lackieren|verb|to paint (a surface)
+26754.0|der Grill|noun|grill
+26757.0|der Schnitzel|noun|cutlet
+26757.001|das Schnitzel|noun|schnitzel
+26771.0|die Garage|Noun|garage
+26780.0|Kruppstahl|noun|steel
+26783.0|der Rhein|noun|Rhine
+26794.0|der Rauch|noun|the smoke
+26825.0|reiben|verb|to rub
+26827.0|das Öl|noun|oil
+26831.0|canceln|verb|to cancel
+26832.0|das Feuerwerk|noun|fireworks
+26841.0|Husch|interjection|shoo
+26928.0|verzichten|verb|give up
+27038.0|das Internet|noun|internet
+27040.0|anziehen|verb|put on
+27059.0|Will|noun|will
+27070.0|sechzehn|adjective|sixteen
+27078.0|wovon|adverb|of what
+27093.0|der Computer|noun|computer
+27114.0|zuschauen|verb|to watch
+27126.0|der Meter|Noun|the meter
+27126.001|das Meter|noun|meter
+27130.0|das Kinderbett|noun|crib
+27189.0|dazugehören|verb|to belong
+27193.0|das ISDN|noun|the ISDN
+27211.0|das DSL|noun|DSL
+27215.0|früher|Adverb|earlier
+27239.0|der Smalltalk|noun|small talk
+27239.001|das Smalltalk|noun|small talk
+27424.0|die News|noun|news
+27429.0|die Speech|noun|speech
+27433.0|der Deepfake|Noun|deepfake
+27433.001|das Deepfake|Noun|deepfake
+27440.0|das Spam|noun|spam
+27440.001|der Spam|noun|spam
+27440.002|die Spam|noun|spam
+27484.0|die Termite|noun|the termite
+27488.0|universell|adjective|universal
+27494.0|das Omega|noun|omega
+27506.0|Na|Interjection|well
+27512.0|Holland|noun|Holland
+27517.0|der Holländer|Noun|Dutchman
+27520.0|holländisch|adjective|Dutch
+27536.0|der Pinguin|noun|the penguin
+27545.0|das Insulin|noun|insulin
+27561.0|der Staatsfeind|noun|the enemy of the state
+27563.0|der Holocaust|noun|the Holocaust
+27563.001|das Holocaust|noun|the Holocaust
+27579.0|die Dicke|noun|thickness
+27676.0|Playback|noun|playback
+27733.0|der Zucker|noun|sugar
+27737.0|die Finsternis|noun|darkness
+27759.0|sabotieren|verb|to sabotage
+27766.0|Märchenwald|noun|fairy-tale forest
+27836.0|das Reiten|noun|horse riding
+27950.0|das Kamel|Noun|camel
+27955.0|die Farm|Noun|the farm
+28025.0|die Melodie|noun|the melody
+28033.0|die Ecke|noun|corner
+28063.0|der Illuminat|noun|the illuminati member
+28096.0|Flower-Power|noun|flower power
+28099.0|faul|adjective|lazy
+28100.0|der Zauber|noun|the magic
+28105.0|mysteriös|adjective|mysterious
+28114.0|die Verschwörung|noun|the conspiracy
+28128.0|die Presse|noun|the press
+28142.001|die Eimer|Noun|buckets
+28148.0|geheim|adjective|secret
+28149.0|Geheimagent|Noun|secret agent
+28150.0|die CIA|noun|the CIA
+28150.001|der CIA|noun|the CIA
+28151.0|der Mossad|Noun|Mossad
+28167.0|die Pyramide|noun|pyramid
+28220.0|erleuchten|verb|to illuminate
+28225.0|erwachen|Verb|awaken
+28231.0|die Weltherrschaft|noun|world domination
+28274.0|außerirdisch|adjective|extraterrestrial
+28277.0|der Enkel|noun|grandson
+28311.0|Di|Noun|Tue
+28316.0|die Wissenschaft|noun|science
+28319.0|die Weisheit|noun|the wisdom
+28320.0|schlucken|verb|swallow
+28322.0|das Popcorn|noun|the popcorn
+28325.0|gemütlich|Adjective|cozy
+28326.0|der Zeitgeist|noun|the zeitgeist
+28479.0|starren|verb|to stare
+28492.0|der Rücken|noun|back
+28553.0|Tetrapak|noun|tetra pack
+28605.0|erwachsen|adjective|adult
+28619.0|die Düne|noun|dune
+28748.0|der Strand|noun|the beach
+28784.0|das Universum|noun|the universe
+28851.0|wiederholen|verb|to repeat
+28894.0|die Kratze|noun|scratch
+28903.0|ausbrennen|Verb|to burn out
+28927.0|irgendetwas|pronoun|something
+28992.0|der Ex|Noun|ex
+28992.001|die Ex|Nomen|the ex
+28996.0|das Date|noun|date
+29033.0|solang|conjunction|as long as
+29058.0|der Strom|noun|electricity
+29059.0|trotz|Preposition|despite
+29141.0|die Perspektive|noun|perspective
+29206.0|der Muskel|noun|muscle
+29208.0|erfolglos|adjective|unsuccessful
+29209.0|tindern|verb|to swipe (on Tinder)
+29215.0|die Erziehung|noun|the upbringing
+29333.0|Fucking|noun|Fucking
+29385.0|kühl|adjective|cool
+29423.0|der Süden|noun|south
+29426.0|der Sonnenuntergang|noun|sunset
+29433.0|die Orientierung|noun|orientation
+29436.0|Sizilien|noun|Sicily
+29440.0|italienisch|adjective|Italian
+29450.0|spontan|adjective|spontaneous
+29453.0|toll|adjective|great
+29472.0|selbstverständlich|Adverb|self-evident
+29476.0|klimatisieren|Verb|to air-condition
+29504.0|das Bravo|noun|bravo
+29504.001|der Bravo|noun|Bravo
+29504.002|die Bravo|noun|Bravo
+29509.0|die CD|noun|CD
+29549.0|der Parkplatz|noun|the parking lot
+29555.0|der Cent|noun|cent
+29557.0|nerven|verb|to annoy
+29558.0|extrem|adjective|extreme
+29559.0|deswegen|adverb|therefore
+29575.0|aufmachen|verb|to open
+29578.0|der Apfelsaft|noun|the apple juice
+29610.0|der Gummi|noun|rubber
+29610.001|das Gummi|noun|the rubber
+29616.0|der Motor|noun|engine
+29635.0|blinken|verb|to blink
+29650.0|der Daumen|noun|thumb
+29654.0|die Fahrt|noun|journey
+29681.0|der Führerschein|noun|driver's license
+29696.0|die Oma|noun|the grandma
+29698.0|merci|interjection|thanks
+29702.0|das|article|the (neuter)
+29755.0|Remix|noun|remix
+29758.0|das Medley|noun|the medley
+29764.0|bittersüß|adjective|bittersweet
+29795.0|das Vakuum|noun|vacuum
+29860.0|die Schönheit|noun|beauty
+29867.0|der Absinth|noun|absinthe
+29961.0|surreal|adjective|surreal
+30058.0|der Partisan|Noun|partisan
+30105.0|der Genosse|noun|comrade
+30113.0|ciao|Interjection|goodbye
+30153.0|zart|adjective|tender
+30361.0|die Kontrolle|noun|the control
+30492.0|das My|noun|iota
+30517.0|der Snob|Noun|snob
+30522.0|Kreuzberg|noun|Kreuzberg
+30539.0|der Kaiser|noun|emperor
+30544.0|erstens|Adverb|firstly
+30643.0|riesengroß|adjective|gigantic
+30658.0|down|adjective|down
+30666.0|out|Adverb|out
+30671.0|einige|pronoun|some
+30695.0|die Loveparade|noun|Love Parade
+30701.0|die Ma|Noun|the mom
+30704.0|der AB|noun|AB
+30851.0|die Havanna|noun|Havana
+30851.001|der Havanna|noun|Havana
+30882.0|Te|noun|Te
+30967.0|Bernd|Proper noun|Bernd
+30992.0|testen|Verb|to test
+31006.0|das Urteil|noun|verdict
+31038.0|der Saft|noun|juice
+31078.0|der Haarspray|noun|hairspray
+31078.001|das Haarspray|noun|hairspray
+31085.0|der Spray|noun|spray
+31085.001|das Spray|Noun|spray
+31247.0|ruhig|adjective|calm
+31283.0|locker|adjective|loose
+31297.0|ungenau|adjective|inaccurate
+31341.0|die Verpackung|noun|the packaging
+31349.0|der Bart|noun|beard
+31383.001|der Pack|noun|the package
+31402.0|wehtun|verb|to hurt
+31404.0|weh|adjective|painful
+31413.0|das Versteck|noun|the hiding place
+31424.0|t|noun|t
+31437.0|anlocken|Verb|to attract
+31512.0|wofür|conjunction|for what
+31516.0|majestätisch|Adjective|majestic
+31543.0|die Hauptsache|noun|the main thing
+31700.0|die Kneipe|noun|the pub
+31705.0|der Heimweg|Noun|the way home
+31710.0|minus|preposition|minus
+31731.0|der Atem|noun|the breath
+31747.0|die Zuckerwatte|noun|cotton candy
+31759.0|die Natur|noun|nature
+31762.0|neugierig|adjective|curious
+31783.0|die Laterne|noun|lantern
+31804.0|typisch|adjective|typical
+31949.0|der Ra|noun|the Ra
+31976.0|der Kumpel|noun|buddy
+32131.0|die Vase|noun|vase
+32163.0|der Nachttisch|Nomen|nightstand
+32234.0|der Astralkörper|noun|astral body
+32259.0|Klar|Adjective|clear
+32301.0|chillig|adjective|chill
+32368.0|der PKW|noun|the car
+32371.0|asphaltieren|verb|to asphalt
+32415.0|Bielefeld|noun|Bielefeld
+32430.0|der Yuppie|noun|the yuppie
+32435.0|der Hals|noun|neck
+32438.0|das E-Bike|noun|the e-bike
+32443.0|das Cabrio|noun|convertible
+32457.0|das Heroin|noun|the heroin
+32457.001|die Heroin|Noun|the heroin
+32465.0|der Papi|noun|the dad
+32482.0|der Fahrradweg|noun|bike path
+32493.0|der Kauf|noun|purchase
+32533.0|das Shopping|noun|shopping
+32552.0|der Radweg|noun|the bike path
+32561.0|der Kinderfilm|noun|the children's movie
+32628.0|die Innovation|noun|innovation
+32657.0|das Fräulein|noun|the young lady
+32707.0|bekannt|adjective|known
+32708.0|der Herzensbrecher|noun|the heartbreaker
+32718.0|das Flair|noun|the atmosphere
+32718.001|der Flair|Noun|flair
+32724.0|der Schauspieler|Nomen|the actor
+33019.0|die Stille|noun|the silence
+33023.0|das Gebrüll|noun|the roar
+33096.0|die Retterin|noun|the rescuer
+33127.0|der Klub|noun|the club
+33136.0|rund|adjective|round
+33150.0|das Tänzchen|noun|little dance
+33155.0|verdächtig|adjective|suspicious
+33170.0|das Tanzen|noun|the dancing
+33189.0|das Overkill|noun|overkill
+33189.001|der Overkill|noun|overkill
+33256.0|Leise|adverb|quietly
+33395.0|Rote|noun|red
+33400.0|urinieren|Verb|to urinate
+33444.0|beenden|Verb|to end
+33488.0|die Energie|noun|energy
+33497.0|die Sympathie|Noun|sympathy
+33503.0|die Bahn|noun|railway
+33509.0|der Zug|noun|the train
+33510.0|deiner|Pronoun|yours
+33513.0|abfahren|Verb|to depart
+33523.0|sprich|Verb|to speak
+33525.0|heilig|adjective|sacred
+33609.0|quadratisch|Adjective|square
+33618.0|mathematisch|Adjective|mathematical
+33621.0|die Formel|Noun|the formula
+33623.0|diktieren|Verb|to dictate
+33682.0|der Trick|noun|trick
+33702.0|der Kampf|Noun|fight
+33720.0|die Kommunikation|noun|communication
+33725.0|die Illusion|Noun|illusion
+33751.0|englisch|adjective|English
+33765.0|die Pfeife|noun|pipe
+33771.0|besuchen|Verb|to visit
+33784.0|Se|noun|the selenium
+33843.0|der Punker|noun|the punk
+33851.0|nostalgisch|adjective|nostalgic
+33859.0|England|noun|England
+33876.0|der Punk|noun|punk
+33901.0|vorwärts|Adverb|forward
+33902.0|marsch|Noun|march
+33903.0|die Gitarre|noun|guitar
+33915.0|das Kompott|noun|compote
+33939.0|prima|adjective|great
+33944.0|trainieren|verb|to train
+33950.0|fit|adjective|fit
+33955.0|Boygroup|noun|boy band
+33968.0|son|conjunction|so
+33973.0|Peter|noun|Peter
+33974.0|Fox|noun|fox
+33996.0|der Orangenbaum|noun|orange tree
+34035.0|naja|interjection|well
+34091.0|lebenslang|adjective|lifelong
+34120.0|manch|adjective|some
+34215.0|körperlich|adjective|physical
+34216.0|die Selbstverteidigung|Noun|self-defense
+34221.0|der Schluck|noun|the sip
+34256.0|das Trinken|noun|drinking
+34273.0|bestrafen|verb|punish
+34289.0|der Kuchen|noun|the cake
+34326.0|die Zone|noun|zone
+34328.0|die Gefahr|noun|the danger
+34362.0|die Heizung|Substantiv|heating
+34376.0|reinschauen|verb|look inside
+34387.0|zusammensein|verb|to be together
+34420.0|ordentlich|Adjective|orderly
+34547.0|die Klaus|Noun|Klaus
+34557.0|die Mutti|noun|the mom
+34564.0|das Taschengeld|Noun|allowance
+34579.0|oldschool|adjective|old-school
+34598.0|die Sanktion|noun|the sanction
+34606.0|der Hausarrest|noun|the house arrest
+34636.0|der Schrecken|noun|the terror
+34641.0|entdecken|Verb|to discover
+34654.0|das WLAN|noun|Wi-Fi
+34683.0|verboten|Adjective|forbidden
+34690.0|das Chatten|noun|chatting
+34698.0|das Facebook|noun|Facebook
+34714.0|der Mausklick|noun|the mouse click
+34730.0|der Avatar|noun|avatar
+34738.0|der Level|noun|level
+34738.001|das Level|noun|level
+34743.0|der Selbstmord|noun|suicide
+34758.0|offline|adjective|offline
+34759.0|masturbieren|verb|masturbate
+34808.0|Himmelstor|noun|heaven's gate
+34811.0|einchecken|verb|to check in
+34846.0|der Apostel|noun|apostle
+34850.0|der Gesang|noun|the singing
+34855.0|iPhone|noun|iPhone
+34876.0|sparen|verb|save
+34879.0|duzen|verb|to address informally
+34890.0|der Christ|noun|Christian
+34900.0|der Hotspot|noun|hotspot
+34925.0|die Sünde|noun|the sin
+34949.0|der Terrorist|noun|the terrorist
+34952.0|das Telefon|noun|telephone
+34963.0|der Fuchs|noun|fox
+34979.0|eilig|Adjective|hurried
+35043.0|Eva|proper noun|Eva
+35044.0|das Braun|noun|the brown
+35044.001|der Braun|noun|the brown
+35055.0|der Zauberer|noun|the wizard
+35066.0|der Angelsachse|noun|the Anglo-Saxon
+35073.0|der Elefant|noun|elephant
+35082.0|grillen|verb|to barbecue
+35104.0|der Dancefloor|noun|dance floor
+35115.0|der Zigarettenrauch|noun|cigarette smoke
+35132.0|die Zitrone|noun|lemon
+35135.0|blasen|verb|to blow
+35150.0|die Box|noun|box
+35155.0|das Stereotyp|noun|stereotype
+35156.0|der Don|noun|the don
+35168.0|atomar|adjective|atomic
+35180.0|fleißig|adjective|diligent
+35183.0|der Partner|noun|partner
+35193.0|Dude|noun|dude
+35209.0|wegmüssen|verb|to have to leave
+35214.0|die Blutsbrüderschaft|Nomen|blood brotherhood
+35239.0|explodieren|verb|to explode
+35247.0|toxisch|adjective|toxic
+35262.0|der Fan|noun|fan
+35308.0|der Schwanz|noun|tail
+35329.0|alkoholisieren|Verb|to intoxicate
+35331.0|das Dorffest|noun|village festival
+35349.0|füllen|verb|to fill
+35351.0|das Gehirn|noun|brain
+35423.0|die Faulheit|noun|the laziness
+35459.0|romantisch|adjective|romantic
+35466.0|die Pflaume|noun|plum
+35521.0|windig|Adjective|windy
+35562.0|der Veganer|Noun|the vegan
+35586.0|achthundert|Numeral|eight hundred
+35599.0|Twitter|noun|Twitter
+35646.0|die Zwanzig|Noun|the twenty
+35658.0|manipulieren|verb|to manipulate
+35665.0|die NSA|noun|the NSA
+35665.001|der NSA|noun|the NSA
+35666.0|das AKW|noun|nuclear power plant
+35667.0|die CDU|noun|CDU (political party)
+35668.0|die ARD|Noun|the ARD
+35693.0|ungern|Adverb|reluctantly
+35791.0|siebziger|Adjective|seventies
+35799.0|der Mörder|noun|murderer
+35810.0|die Lektion|noun|lesson
+35825.0|probieren|verb|to try
+35831.0|Problemanalyse|noun|problem analysis
+35864.0|die Autorität|noun|authority
+35876.0|der Lehrer|Noun|the teacher
+35882.0|die Uniform|noun|uniform
+35902.0|mindestens|Adverb|at least
+36118.0|der Feminist|Substantiv|feminist
+36132.0|lecken|verb|lick
+36147.0|das Ego|Noun|the ego
+36148.0|der Wodka|Noun|the vodka
+36154.0|das Büro|noun|the office
+36173.0|der Humor|noun|the humor
+36224.0|die Theorie|noun|theory
+36243.0|der Chauvinist|noun|the chauvinist
+36257.0|die Lesbe|noun|the lesbian
+36282.0|schwul|adjective|gay
+36286.0|das Schimpfwort|Noun|the curse word
+36438.0|der Tisch|Noun|table
+36483.0|fliegend|adjective|flying
+36484.0|die Maschine|noun|machine
+36496.0|das Schaf|noun|sheep
+36497.0|klonen|verb|to clone
+36506.0|das Datum|noun|date
+36508.0|die Nanosekunde|Nomen|nanosecond
+36511.0|der Primat|noun|primate
+36511.001|das Primat|noun|primacy
+36521.0|die Sprache|noun|language
+36530.0|graben|verb|to dig
+36533.0|belächeln|verb|to smile at
+36538.0|spalten|verb|split
+36548.0|die Nahrungskette|noun|food chain
+36567.0|der Mutant|Noun|mutant
+36579.0|hochbegabt|adjective|gifted
+36602.0|Löschung|noun|deletion
+36606.0|die Quizshow|noun|quiz show
+36609.0|der Genozid|noun|genocide
+36609.001|das Genozid|noun|genocide
+36611.0|der Indianer|noun|Native American
+36615.0|griechisch|adjective|Greek
+36616.0|das Drama|noun|drama
+36619.0|die Euthanasie|noun|euthanasia
+36620.0|das Napalm|noun|napalm
+36621.0|das Tamagotchi|noun|Tamagotchi
+36625.0|die Fantasie|noun|fantasy
+36633.0|das Genom|noun|genome
+36639.0|der Pogrom|noun|pogrom
+36639.001|das Pogrom|Noun|pogrom
+36644.0|die Intelligenz|noun|intelligence
+36659.0|kapitulieren|Verb|to capitulate
+36660.0|die Habe|noun|belongings
+36663.0|der Apfel|noun|apple
+36672.0|die Wüste|noun|desert
+36713.0|nützen|verb|to benefit
+36781.0|fressen|verb|eat
+36818.0|der Nebel|Substantiv|fog
+36818.001|die Nebel|noun|fogs
+36826.0|das Hirn|Noun|brain
+36834.0|der Idiot|noun|idiot
+36836.0|der Wille|noun|will
+36843.0|der Despot|noun|despot
+36920.0|der Lateinunterricht|noun|Latin class
+36930.0|switchen|verb|to switch
+36934.0|die Dummheit|noun|stupidity
+36979.0|flehen|verb|to plead
+36982.0|die Verzeihung|noun|forgiveness
+37001.0|mischen|Verb|to mix
+37016.0|munter|adjective|lively
+37067.0|einladen|Verb|to invite
+37073.0|die Neustadt|noun|the new town
+37074.0|Ne|interjection|no
+37256.0|die Jacke|noun|jacket
+37272.0|Repeat|noun|repeat
+37287.0|hinsehen|verb|to look
+37312.0|das Tourettesyndrom|noun|Tourette syndrome
+37319.0|der Kasten|noun|box
+37352.0|die Antenne|Noun|antenna
+37366.0|Pflanz|noun|plant
+37424.0|bereits|adverb|already
+37447.0|basteln|Verb|craft
+37448.0|grammatikalisch|adjective|grammatical
+37453.0|die Prothese|noun|the prosthesis
+37492.0|der Roman|noun|novel
+37536.0|austauschen|Verb|exchange
+37572.0|phänomenologisch|adjective|phenomenological
+37577.0|hinein|adverb|inside
+37577.0|hmmm|interjection|hmmm
+37583.0|vorbeifliegen|verb|to fly past
+37596.0|woraus|pronoun|from what
+37627.0|heraus|adverb|out
+37681.0|die Menschheit|noun|humanity
+37685.0|der Stopp|noun|stop
+37701.0|auslachen|verb|to mock
+37739.0|die Disziplin|Nomen|discipline
+37746.0|die Erwartung|noun|expectation
+37755.0|das Kaninchen|noun|rabbit
+37775.0|elegant|adjective|elegant
+37795.0|demontieren|verb|to dismantle
+37802.0|mitten|adverb|in the middle
+37902.0|die Variante|noun|variant
+37917.0|existieren|verb|exist
+37932.0|vorhanden|adjective|available
+37960.0|die Existenz|noun|the existence
+37974.0|sogenannt|adjective|so-called
+37988.0|stoppen|verb|to stop
+37996.0|imitieren|Verb|imitate
+38028.0|das Prisma|noun|prism
+38037.0|selektieren|verb|to select
+38039.0|darstellen|verb|to represent
+38058.0|anfangs|adverb|initially
+38072.0|die Aller|noun|the Aller (river)
+38085.0|das Dunkel|noun|the darkness
+38131.0|beißen|verb|to bite
+38155.0|die Quelle|Nomen|source
+38193.0|der Schulranzen|noun|the schoolbag
+38195.0|die Identität|noun|the identity
+38226.0|die Vorbereitung|noun|the preparation
+38237.0|die Befreiung|Noun|liberation
+38252.0|der Schock|noun|shock
+38252.001|das Schock|noun|shock
+38255.0|der Verstand|noun|mind
+38271.0|konvertieren|verb|to convert
+38280.0|der Ursprung|noun|origin
+38300.0|quasi|Adverb|as if
+38314.0|antworten|verb|to answer
+38322.0|der Service|noun|service
+38322.001|das Service|Noun|the tableware
+38323.0|bestechen|verb|to bribe
+38393.0|das Fraktal|Noun|the fractal
+38422.0|die Stimme|noun|voice
+38449.0|das Sein|noun|being
+38486.0|die Behauptung|Noun|the claim
+38491.0|Falsch|Adjective|wrong
+38516.0|der Kosmos|noun|cosmos
+38524.0|unabhängig|adjective|independent
+38547.0|die Ursache|noun|cause
+38551.0|die Manifestation|Noun|manifestation
+38556.0|der Widerstand|Noun|the resistance
+38606.0|der Beat|noun|the beat
+38673.0|freimachen|verb|to free up
+38719.0|Jehova|noun|Jehovah
+38765.0|das Spiel|noun|the game
+38778.0|das Sperma|noun|sperm
+38837.0|heimkommen|verb|to come home
+38838.0|heim|adverb|home
+38842.0|kochen|verb|to cook
+38896.0|weshalb|adverb|why
+38902.0|die Unterstützung|noun|support
+38916.0|schicken|verb|send
+38926.0|das Bad|noun|the bath
+38931.0|die Dusche|noun|shower
+38942.0|der Schneeball|noun|snowball
+38953.0|zusammenkommen|verb|gather
+38960.0|das Abenteuer|Noun|adventure
+38972.0|der Swingerclub|noun|swingers club
+38978.0|großzügig|adjective|generous
+38982.0|gekleidet|adjective|dressed
+39011.0|der Lord|noun|lord
+39083.0|das Jahrhundert|noun|century
+39245.0|der Geliebter|Noun|the lover
+39256.0|quatsch|Noun|nonsense
+39279.0|das Newton|Noun|newton
+39280.0|Goethe|Proper Noun|Goethe
+39359.0|das Rosa|noun|pink
+39376.0|pflegen|verb|to maintain
+39391.0|der Stuhl|noun|the chair
+39500.0|der Räuber|noun|robber
+39523.0|die Pflanze|noun|the plant
+39562.0|telepathisch|adjective|telepathic
+39602.0|relativ|adjective|relative
+39634.0|der Fluss|noun|the river
+39642.0|logisch|adjective|logical
+39703.0|der Hipster|noun|the hipster
+39708.0|dissen|verb|to diss
+39714.0|hip|adjective|hip
+39731.0|nackt|adjective|naked
+39734.0|der Turm|noun|tower
+39738.0|pissen|verb|to pee
+39741.0|witzig|adjective|funny
+39752.0|der Bumerang|noun|boomerang
+39752.001|das Bumerang|noun|boomerang
+39775.0|die Verbindung|Noun|connection
+39784.0|das Lebewesen|noun|the creature
+39811.0|der Stiefel|noun|the boot
+39819.0|der Fakir|Noun|fakir
+39832.0|der Tapir|noun|the tapir
+39840.0|debil|Adjective|debil
+39841.0|der Dealer|noun|dealer
+39858.0|euer|Possessivpronomen|your
+39870.0|die Hemisphäre|noun|the hemisphere
+39875.0|streben|verb|to strive
+39922.0|pressen|verb|to press
+40030.0|die Wiese|Noun|meadow
+40077.0|der Harem|noun|the harem
+40082.0|Mahal|noun|palace
+40100.0|vollständig|adjective|complete
+40103.0|die Armut|Noun|poverty
+40115.0|das Atoll|noun|atoll
+40143.0|der Teppich|noun|carpet
+40170.0|die Überstunde|noun|the overtime hour
+40188.0|putzen|verb|to clean
+40190.0|die Burg|noun|castle
+40207.0|die Galaxie|noun|galaxy
+40232.0|der Besuch|noun|the visit
+40236.0|der Kalif|noun|caliph
+40240.0|oho|Interjection|oho
+40241.0|lala|adjective|so-so
+40316.0|die Zeitreise|noun|time travel
+40332.0|die Nostalgie|Noun|nostalgia
+40335.0|das Liebesnest|noun|love nest
+40348.0|der Fokus|noun|the focus
+40421.0|ungefragt|adverb|unasked
+40423.0|der Goldschmuck|Noun|gold jewelry
+40473.0|die Zeitmaschine|noun|time machine
+40495.0|das Reiseziel|noun|travel destination
+40610.0|Mario|proper noun|Mario
+40611.0|Kart|noun|kart
+40617.0|der Verlobungsring|noun|the engagement ring
+40654.0|der Teller|noun|the plate
+40654.001|das Teller|noun|the plate
+40662.0|der Keller|noun|cellar
+40668.0|das Mosaik|noun|mosaic
+40668.001|die Mosaik|noun|mosaic
+40770.0|diesmal|adverb|this time
+40779.0|verlieben|verb|to fall in love
+40859.0|zwo|numeral|two
+40918.0|ausziehen|verb|to undress
+40921.0|jahrelang|adverb|for years
+41054.0|innen|adverb|inside
+41056.0|außen|adverb|outside
+41071.0|der Tango|noun|tango
+41077.0|die Mannschaft|noun|team
+41102.0|behaupten|verb|to claim
+41114.0|gegenseitig|adverb|mutually
+41121.0|prügeln|verb|beat
+41135.0|wunderschön|Adjective|beautiful
+41142.0|gottverdammt|adjective|goddamn
+41185.0|der Zahn|noun|tooth
+41222.0|die Logik|noun|logic
+41228.0|ineinander|adverb|into each other
+41240.0|der Unfall|noun|accident
+41309.0|akzeptieren|verb|to accept
+41316.0|der Bonobo|noun|bonobo
+41344.0|die Farce|noun|the farce
+41356.0|boykottieren|verb|boycott
+41439.0|die Zwangsjacke|noun|straitjacket
+41459.0|der Trip|noun|the trip
+41492.0|die Komödie|noun|comedy
+41516.0|r|Interjection|r
+41546.0|sadistisch|adjective|sadistic
+41652.0|die Show|noun|show
+41758.0|Brechen|noun|breaking
+41795.0|strukturieren|verb|to structure
+41813.0|bitten|Verb|ask
+41836.0|die Balance|noun|balance
+41846.0|das DAS|noun|the DAS
+42013.0|ruhen|verb|to rest
+42030.0|komplex|adjective|complex
+42058.0|das Autodach|noun|the car roof
+42068.0|die Kassette|noun|the cassette
+42074.0|die Vogelscheiße|noun|the bird poop
+42090.0|die Lava|noun|the lava
+42094.0|die Sommersonne|noun|the summer sun
+42096.0|die Toskana|noun|Tuscany
+42137.0|zurückbringen|verb|bring back
+42163.0|der Nachthimmel|noun|the night sky
+42197.0|der Seemann|noun|the sailor
+42199.0|Ronny|noun|Ronny
+42200.0|hey|Interjection|hey
+42367.0|der Wasabi|noun|the wasabi
+42375.0|Farsi|Noun|farsi
+42391.0|der Techno|noun|the techno
+42391.001|das Techno|noun|techno
+42412.0|der Brüsseler|noun|the Brussels resident
+42446.0|emanzipieren|Verb|emancipate
+42454.0|weird|Adjective|weird
+42561.0|emotional|adjective|emotional
+42569.0|pragmatisch|Adjective|pragmatic
+42575.0|Thorben|Proper noun|Thorben
+42592.0|fehlerfrei|Adjective|error-free
+42601.0|reparieren|verb|to repair
+42607.0|Kant|noun|Kant
+42622.0|charmant|Adjective|charming
+42679.0|der Pragmatismus|noun|the pragmatism
+42693.0|das Piano|noun|piano
+42703.0|der Klassiker|noun|classic
+42706.0|der Jazz|noun|the jazz
+42711.0|die Symphonie|noun|symphony
+42793.0|pausieren|verb|to pause
+42797.0|heimgehen|verb|to go home
+42826.0|der Wecker|noun|alarm clock
+42841.0|die Intervention|noun|intervention
+42903.0|die Germania|noun|Germania
+42904.0|der Export|noun|export
+42904.001|das Export|noun|export beer
+43098.0|das Heimweh|Noun|homesickness
+43100.0|das Zuhause|noun|the home
+43200.0|umbringen|verb|to kill
+43212.0|die Geige|noun|violin
+43220.0|banal|Adjective|banal
+43226.0|die Ouvertüre|noun|overture
+43231.001|das Final|Noun|the final
+43282.0|paradox|adjective|paradoxical
+43292.0|existent|adjective|existent
+43293.0|der Pardon|noun|pardon
+43293.001|das Pardon|noun|pardon
+43331.0|der Zweig|Noun|branch
+43336.0|der Kompromiss|noun|compromise
+43336.001|das Kompromiss|Noun|compromise
+43487.0|das Bermudadreieck|Noun|Bermuda Triangle
+43522.0|das Wie|noun|how
+43526.0|Kurt|Proper noun|Kurt
+43532.0|der Papa|noun|dad
+43532.001|die Papa|noun|the dad
+43545.0|die Nachbarschaft|noun|neighborhood
+43562.0|die Eiscreme|noun|ice cream
+43577.0|der Grabstein|noun|gravestone
+43591.0|der Traumprinz|Noun|dream prince
+43605.0|fett|adjective|fat
+43756.0|die Droge|noun|the drug
+43764.0|russisch|adjective|Russian
+43765.0|das Roulette|noun|roulette
+43771.0|der Schuss|noun|shot
+43781.0|depressiv|adjective|depressive
+43785.0|panisch|adjective|panicked
+43795.0|der Vampir|noun|vampire
+43893.0|irgend|pronoun|somehow
+43903.0|die Krise|noun|the crisis
+43943.0|die Yacht|noun|yacht
+43946.0|der Eisberg|noun|iceberg
+43963.0|die Insel|noun|the island
+43981.0|der Kannibale|noun|the cannibal
+43989.0|animalisch|adjective|animalistic
+44131.0|die Avocado|noun|avocado
+44132.0|die Palme|noun|palm tree
+44134.0|die Hyazinthe|noun|hyacinth
+44138.0|der Eingang|noun|entrance
+44175.0|der Papierflieger|Noun|paper airplane
+44214.0|der Dschungel|Noun|jungle
+44214.001|das Dschungel|noun|jungle
+44214.002|die Dschungel|Noun|jungles
+44225.0|klettern|verb|climb
+44246.0|ex|noun|ex
+44249.0|die Mordwaffe|noun|murder weapon
+44282.0|der Train|noun|train
+44301.0|das Wachstum|Noun|growth
+44314.0|der Orbit|noun|orbit
+44323.0|der Christus|noun|Christ
+44386.0|das Blumenkind|noun|flower child
+44487.0|kümmern|verb|to take care
+44501.0|das Gas|noun|gas
+44506.0|das Pedal|noun|pedal
+44516.0|die NASA|noun|NASA
+44538.0|der Schwede|noun|Swede
+44596.0|der Olymp|noun|Olympus
+44599.0|der Hades|Noun|Hades
+44612.0|das Dreieck|noun|triangle
+44621.0|die Erfindung|noun|invention
+44703.0|die Technik|noun|technology
+44715.0|gestikulieren|Verb|to gesture
+44720.0|die Sirene|noun|siren
+44731.0|der Gangster|noun|gangster
+44736.0|der Drive|noun|the drive
+44751.0|der Zeus|noun|Zeus
+44769.0|Boy|noun|boy
+44776.0|das Rad|noun|wheel
+44780.0|der Zweck|noun|purpose
+44793.0|das Eisen|noun|iron
+44889.0|servus|interjection|hello
+44932.0|die Beste|noun|the best (female)
+44964.0|der Prominenter|Noun|the celebrity
+44975.0|touren|Verb|to tour
+44987.0|mitnehmen|verb|to take along
+44996.0|der Star|noun|star
+45001.0|das Hotelzimmer|noun|hotel room
+45035.0|der Rockstar|noun|rock star
+45039.0|der Popstar|noun|pop star
+45064.0|berühmt|adjective|famous
+45072.0|der Geschlechtsverkehr|noun|intercourse
+45073.0|übrigens|Adverb|by the way
+45086.0|benutzen|verb|to use
+45111.0|siebte|adjective|seventh
+45141.0|der Künstler|noun|artist
+45142.0|Merchandise|noun|merchandise
+45159.0|die Titte|noun|boob
+45165.0|der Killer|noun|killer
+45175.0|der Pimmel|noun|penis
+45240.0|die Linie|noun|line
+45285.0|die Rettung|noun|rescue
+45296.0|das Konzert|noun|concert
+45301.0|der Knopf|noun|button
+45306.0|das Konfetti|Noun|confetti
+45359.0|willkommen|Adjective|welcome
+45384.0|der Zoo|Noun|Zoo
+45385.0|der Moses|noun|Moses
+45392.0|sinken|verb|sink
+45416.0|der Eintritt|noun|entry
+45426.0|lösen|verb|solve
+45437.0|die Pistole|noun|pistol
+45484.0|Rise|Noun|rise
+45513.0|der Fulltime-Job|Noun|full-time job
+45599.0|wegkommen|verb|to get away
+45617.0|Game|Noun|game
+45624.0|die Fantasy|Noun|fantasy
+45631.0|die Unterhaltung|noun|conversation
+45634.0|zustimmen|verb|to agree
+45643.0|der Friede|noun|the peace
+45675.0|nicken|verb|to nod
+45681.0|der Streit|noun|argument
+45682.0|Harry|noun|Harry
+45688.0|das Kinderbuch|noun|children's book
+45690.0|die Zustimmung|noun|approval
+45691.0|innerlich|adjective|internal
+45779.0|die Priorität|noun|priority
+45782.0|der Neonazi|noun|neo-Nazi
+45785.0|der Prügel|noun|beating
+45812.0|der Appetit|noun|appetite
+45814.0|das Motto|noun|motto
+45922.0|die Erika|noun|Erika (name)
+45923.0|Steinbach|Noun|Steinbach
+45931.0|Julian|noun|Julian
+45934.0|hörbar|adjective|audible
+45944.0|drastisch|adjective|drastic
+45945.0|die Maßnahme|noun|measure
+46054.0|Sam|proper noun|Sam
+46058.0|das Dorf|noun|village
+46072.0|der Sonntagmorgen|noun|Sunday morning
+46094.0|das Tagebuch|noun|diary
+46101.0|das Schweinefleisch|noun|the pork
+46107.0|der Mittwoch|noun|Wednesday
+46122.0|der Wolf|noun|the wolf
+46122.001|die Wolf|noun|the wolf
+46126.0|die Polka|noun|polka
+46139.0|die Folter|noun|torture
+46161.0|loslassen|verb|to release
+46186.0|Salsa|noun|Salsa
+46194.0|das Mittelalter|noun|the Middle Ages
+46196.0|idyllisch|adjective|idyllic
+46213.0|die Ehrlichkeit|noun|honesty
+46219.0|der Druck|noun|pressure
+46232.0|USA|proper noun|USA
+46314.0|schlaflos|adjective|sleepless
+46326.0|die Staatspolizei|noun|state police
+46343.0|das Menschenrecht|noun|human right
+46362.0|schaden|verb|harm
+46436.0|wolkenlos|adjective|cloudless
+46458.0|der Nachtbus|noun|night bus
+46489.0|abgeben|Verb|to hand over
+46680.0|die Flut|noun|the flood
+46758.0|unbezahlt|Adjective|unpaid
+46874.0|anlehnen|Verb|to lean
+46958.0|die Lücke|Noun|the gap
+47240.0|der Männerchor|Noun|men's choir
+47503.0|die Geschwindigkeit|Noun|the speed
+47616.0|final|Adjective|final
+47860.0|autsch|interjection|ouch
+47878.0|Barfuß|Adjective|barefoot
+47937.0|barfuß|Adjective|barefoot
+48007.0|die Pokerrunde|noun|poker round
+48121.0|meditieren|verb|to meditate
+48166.0|die Couch|Noun|the couch
+48166.001|der Couch|Noun|the couch
+48289.0|vorbeifahren|verb|to pass by
+48305.0|wozu|adverb|for what
+48307.0|fähig|Adjective|able
+48319.0|der Assistent|Noun|the assistant
+48338.0|die Schachpartie|Noun|the chess game
+48447.0|bereit|adjective|ready
+48575.0|die Lösung|noun|solution
+48607.0|die Limousine|Noun|the limousine
+48630.0|die Straßenseite|Noun|the side of the street
+48642.0|der Butterfly|Noun|the butterfly
+48664.0|der Gendarm|Noun|the policeman
+48748.0|der Hurensohn|Noun|the son of a bitch
+48753.0|ownen|Verb|to own
+48791.0|der Gürtel|Noun|the belt
+48795.0|Walther|Noun|Walther
+48810.0|der Helikopter|noun|helicopter
+48818.0|der Doktor|Noun|the doctor
+48822.0|der Pitbull|Noun|the pit bull
+48832.0|der Kampfhund|Noun|the fighting dog
+48979.0|SEK|Noun|SWAT
+48984.0|die Verstärkung|Noun|the reinforcement
+49010.0|zwecklos|Adjective|pointless
+49031.0|der Kommissar|Noun|the commissioner
+49042.0|der Protektor|Noun|the protector
+49043.0|der Pfefferspray|Noun|the pepper spray
+49043.001|das Pfefferspray|Noun|the pepper spray
+49086.0|geboren|adjective|born
+49100.0|leihen|verb|to lend
+49126.0|der Richter|noun|judge
+49129.0|die Kriminalpolizei|Noun|the criminal police
+49151.0|das Tränengas|Noun|tear gas
+49155.0|Melanie|noun|Melanie
+49157.0|Thomas|Noun|Thomas
+49171.0|der Helfer|noun|helper
+49190.0|die Hure|Noun|the whore
+49201.0|das Katapult|Noun|the catapult
+49207.0|der Bürgermeister|Noun|the mayor
+49214.0|legislativ|Adjective|legislative
+49237.0|die Lobby|Noun|the lobby
+49253.0|das Schach|Noun|chess
+49256.0|der Cop|Noun|the cop
+49338.0|repräsentieren|Verb|to represent
+49339.0|kontrollieren|verb|to control
+49341.0|regieren|verb|govern
+49355.0|souverän|Adjective|sovereign
+49366.0|die Mehrheit|noun|majority
+49390.0|Hardcore|Adjective|hardcore
+49392.0|die Norm|Noun|the norm
+49437.0|der Block|noun|block
+49465.0|Mono|noun|mono
+49529.0|killen|verb|to kill
+49539.0|die Sitzung|Noun|the session
+49551.0|der Letzter|Noun|the last
+49559.0|zuletzt|adverb|lastly
+49593.0|flippen|verb|to flip out
+49624.0|die Anarchie|Noun|anarchy
+49698.0|die Satire|Noun|satire
+49744.0|der Start|noun|start
+49752.0|ungerecht|Adjective|unfair
+49782.0|die Monotonie|Noun|monotony
+49827.0|der Phallus|noun|phallus
+49989.0|auffrischen|verb|to refresh
+50033.0|der Kontakt|Noun|the contact
+50159.0|der Status|Noun|the status
+50204.0|die Tausend|noun|thousand
+50204.001|das Tausend|noun|the thousand
+50204.002|der Tausend|noun|thousand
+50314.0|die Weiße|noun|the white
+50343.0|ausgehen|verb|go out
+50396.0|dem|pronoun|the (dative)
+50459.0|intim|adjective|intimate
+50461.0|das Team|noun|team
+50466.0|regional|Adjective|regional
+50485.0|verzweifelt|adjective|desperate
+50493.0|revolutionieren|verb|to revolutionize
+50502.0|eventuell|Adjective|eventual
+50518.0|implizieren|Verb|to imply
+50635.0|neulich|adverb|recently
+50657.0|hungern|Verb|to starve
+50662.0|das Vanilleeis|Noun|the vanilla ice cream
+50705.0|das Mittelmeer|noun|Mediterranean
+50729.0|rosarot|Adjective|rosy
+50804.0|die Utopie|Noun|the utopia
+50905.0|blond|adjective|blonde
+50915.0|och|interjection|oh
+50927.0|der Lügner|Noun|the liar
+51129.0|hi|Interjection|hi
+51198.0|die Power|Noun|the power
+51220.0|das Geheimnis|noun|the secret
+51273.0|der Plural|Noun|the plural
+51402.0|erträglich|Adjective|tolerable
+51403.0|die Überdosis|Noun|the overdose
+51423.0|der Spartaner|Noun|the Spartan
+51464.0|der Po|Noun|the butt
+51498.0|das Gun|Noun|the gun
+51498.001|der Gun|Noun|the gun
+51498.002|die Gun|Noun|the gun
+51508.0|die Pfandflasche|Noun|the returnable bottle
+51599.0|die Sorge|noun|the worry
+51632.0|Ost|Noun|East
+51633.0|der West|Noun|the West
+51635.0|der Nord|Noun|the North
+51638.0|der Jackpot|Noun|the jackpot
+51645.0|London|Noun|London
+51698.0|Hawaii|Noun|Hawaii
+51708.0|shoppen|Verb|to shop
+51731.0|Babe|Noun|babe
+51737.0|der Safe|Noun|the safe
+51737.001|das Safe|Noun|the safe
+51796.0|die Kreditkarte|Noun|the credit card
+51832.0|baden|Verb|to bathe
+51864.0|der Express|Noun|the express
+51978.0|das Mobiltelefon|Noun|the mobile phone
+51990.0|Best|Adjective|best
+51999.0|die Epilation|Noun|the epilation
+52003.0|der Ausverkauf|Noun|the clearance sale
+52014.0|die Version|Noun|the version
+52021.0|ausprobieren|verb|to try out
+52035.0|die Reklamation|Noun|the complaint
+52043.0|zurückwollen|Verb|to want to go back
+52104.0|drücken|verb|to press
+52135.0|die Vision|Noun|the vision
+52136.0|vergraben|verb|to bury
+52138.0|total|adverb|totally
+52445.0|die Sommernacht|Noun|the summer night
+52449.0|der Kontrabass|Noun|the double bass
+52451.0|Monstertruck|Noun|monster truck
+52453.0|die Nudel|Noun|the noodle
+52468.0|bluten|verb|bleed
+52511.0|jedesmal|Adverb|every time
+52522.0|brüllen|verb|to roar
+52562.0|dastehen|verb|stand there
+52590.0|das Messer|noun|knife
+52590.001|der Messer|noun|the knife
+52599.0|entschuldigen|verb|to apologize
+52610.0|die Medizin|Noun|medicine
+52613.0|dennoch|Adverb|nevertheless
+52664.0|hahaha|Interjection|hahaha
+52685.0|der Suizid|Noun|suicide
+52685.001|das Suizid|Noun|suicide
+52752.0|rational|Adjective|rational
+52754.0|schlachten|Verb|to slaughter
+52876.0|der Profi|Noun|the professional
+52888.0|der Misanthrop|Noun|the misanthrope
+52905.0|die Veranda|Noun|the veranda
+52986.0|verbrennen|verb|to burn
+53068.0|die Biene|noun|bee
+53070.0|der Terror|noun|terror
+53072.0|Brüssel|noun|Brussels
+53077.0|schmelzen|verb|to melt
+53079.0|die Regierung|noun|government
+53129.0|klingeln|verb|ring
+53136.0|der Lieferant|noun|the supplier
+53140.0|das Symbol|noun|symbol
+53156.0|gebacken|adjective|baked
+53189.0|der Revolutionär|noun|the revolutionary
+53199.0|die Herkunft|noun|origin
+53209.0|die Tomatensoße|noun|the tomato sauce
+53211.0|der Käse|noun|the cheese
+53258.0|die Pizzeria|noun|pizzeria
+53276.0|die Calzone|Nomen|the calzone
+53369.0|fernsehen|verb|to watch TV
+53380.0|stürzen|verb|fall
+53386.0|der Oregano|noun|the oregano
+53461.0|die Latte|Noun|the bar (e.g., for jumping)
+53465.0|flat|Adjective|flat
+53484.0|Wittenberg|Noun|Wittenberg
+53485.0|Cloppenburg|Noun|Cloppenburg
+53486.0|Haldensleben|Noun|Haldensleben
+53497.0|Schulz|Noun|Schulz
+53593.0|Jan|Noun|Jan
+53616.0|die Neun|Noun|the nine
+53622.0|Ex-Freund|Noun|ex-boyfriend
+53624.0|der Herzschmerz|Noun|the heartbreak
+53688.0|rauswollen|verb|to want to go out
+53726.0|aktualisieren|Verb|to update
+53750.0|Rathenow|Noun|Rathenow
+53755.0|das Go|Noun|Go (board game)
+53893.0|der ICE|Noun|the ICE (intercity express train)
+53894.0|unverschämt|Adjective|shameless
+54069.0|maximal|Adjective|maximum
+54078.0|das Fairplay|Noun|fair play
+54091.0|die Bildung|Noun|education
+54101.0|die Story|Noun|the story
+54111.0|Jugendphase|Noun|youth phase
+54136.0|x|Noun|x
+54164.0|regnen|Verb|to rain
+54169.0|die Soap|Noun|the soap opera
+54186.0|der Bach|Noun|the stream
+54226.0|chillen|Verb|relax
+54228.0|gigantisch|Adjective|gigantic
+54229.0|der Berggipfel|Noun|the mountain peak
+54277.0|das Herren-WC|Noun|the men's restroom
+54279.0|herbstlich|Adjective|autumnal
+54280.0|die Szene|noun|the scene
+54378.0|episch|Adjective|epic
+54379.0|der Fight|Noun|the fight
+54383.0|das H|Noun|the H
+54385.0|der Zuschauer|Noun|the spectator
+54402.0|entfernt|Adjective|distant
+54429.0|nirgendwo|adverb|nowhere
+54459.0|die Action|noun|the action
+54462.0|die Comedy|Noun|comedy
+54483.0|der Kinofilm|Noun|the movie
+54575.0|der Beruf|noun|profession
+54576.0|tätig|Adjective|active
+54581.0|scheitern|Verb|to fail
+54615.0|der Englischlehrer|Noun|the English teacher
+54617.0|der Entertainer|Noun|the entertainer
+54634.0|Angela|Noun|Angela
+54640.0|die China|Noun|China
+54645.0|schiefgehen|Verb|to go wrong
+54667.0|verletzt|Adjective|injured
+54671.0|die Schokolade|Noun|the chocolate
+54721.0|das Taxi|noun|taxi
+54721.001|der Taxi|noun|taxi driver
+54722.0|der Driver|noun|driver
+54723.0|der Jet|noun|jet
+54724.0|Lis|noun|Lis (name)
+54727.0|der Webdesigner|noun|web designer
+54731.0|der Extremsportler|noun|extreme sportsman
+54734.0|der Reporter|noun|reporter
+54735.0|der Skateboarder|noun|skateboarder
+54736.0|der Seefahrer|noun|seafarer
+54737.0|der Gay|noun|gay
+54744.0|der Kriegsverbrecher|noun|war criminal
+54748.0|feuern|verb|to fire (a weapon)
+54764.0|auf-|preposition|on, onto
+54838.0|der Passagier|noun|passenger
+54843.0|der Pilot|noun|pilot
+54857.0|ärztlich|adjective|medical
+54977.0|Aye|interjection|aye
+54987.0|der Schwachsinn|noun|nonsense
+54994.0|arisch|adjective|Aryan
+55033.0|das No|noun|no
+55114.0|wählen|verb|choose
+55135.0|der Demagoge|noun|demagogue
+55162.0|fünfte|adjective|fifth
+55187.0|der Hammer|noun|hammer
+55250.0|hineinschauen|verb|to look inside
+55338.0|national|adjective|national
+55376.0|ausschalten|verb|to turn off
+55551.0|der Blumenduft|noun|flower scent
+55556.0|Jugendclub|noun|youth club
+55576.0|pushen|verb|to push
+55583.0|älter|adjective|older
+55602.0|nutzlos|adjective|useless
+55642.0|die Ernährung|noun|nutrition
+55643.0|dienen|verb|to serve
+55659.0|riesig|adjective|huge
+55669.0|zivilisieren|verb|to civilize
+55696.0|die Unterhose|noun|underpants
+55733.0|pp|abbreviation|personal pronoun
+55743.0|regnerisch|adjective|rainy
+56020.0|high|adjective|high
+56184.0|stöhnen|verb|to groan
+56348.0|reservieren|verb|reserve
+56398.0|die Mail|noun|email
+56398.001|das Mail|Noun|email
+56413.0|die Computerstimme|noun|computer voice
+56466.0|der Call|noun|call
+56474.0|der Mitarbeiter|noun|employee
+56517.0|die Fahrradkette|noun|bicycle chain
+56534.0|die AfD|noun|AfD
+56592.0|tschüss|interjection|goodbye
+56652.0|der Lautsprecher|noun|loudspeaker
+56678.0|telefonieren|verb|to call
+56684.0|dauern|verb|to last
+56689.0|der Proviant|noun|provisions
+56725.0|religiös|adjective|religious
+56726.0|die Minderheit|noun|minority
+56816.0|der Hörer|noun|listener, receiver
+56871.0|der Ventilator|noun|fan
+56915.0|das Salzwasser|noun|saltwater
+56933.0|der Oktopus|noun|octopus
+56989.0|das Element|noun|element
+56992.0|die PR|noun|PR (public relations)
+56992.001|der PR|noun|PR (public relations)
+56994.0|die Hitze|noun|heat
+57001.0|den|pronoun|the (accusative)
+57073.0|der Hai|noun|shark
+57149.0|der Müller|noun|miller
+57185.0|circa|preposition|about, approximately
+57272.0|der Riese|noun|giant
+57272.001|die Riese|noun|giant
+57305.0|das Pikachu|noun|Pikachu (fictional character)
+57318.0|die BAM|noun|BAM (abbreviation for Federal Agency for Technical Relief)
+57392.0|das Lasso|noun|lasso
+57392.001|der Lasso|noun|lasso
+57404.0|Fangirl|noun|fangirl
+57421.0|die Backstage|noun|backstage
+57421.001|das Backstage|noun|backstage
+57500.0|klarmachen|verb|to make clear
+57510.0|sämtlich|adjective|all
+57603.0|rausholen|verb|to fetch out
+57672.0|feucht|adjective|damp, moist
+57738.0|permanent|adjective|permanent
+57776.0|Mordgedanke|noun|murderous thought
+57921.0|das Feld|noun|the field
+57945.0|spazieren|verb|to stroll
+58066.0|der Schwarzwald|noun|Black Forest
+58072.0|das Rheinland|noun|Rhine region
+58079.0|die Pfalz|noun|Palatinate
+58085.0|Thüringen|noun|Thuringia
+58097.0|Mecklenburg-Vorpommern|noun|Mecklenburg-Vorpommern
+58127.0|polnisch|adjective|Polish
+58141.0|zurückschauen|verb|to look back
+58197.0|das Maß|noun|measure
+58197.001|die Maß|noun|measure (beer mug)
+58273.0|die Gier|noun|greed
+58315.0|die Harmonie|noun|harmony
+58375.0|das Wörterbuch|noun|dictionary
+58380.0|das Z|noun|the Z
+58593.0|Hasenauge|noun|rabbit's eye
+58850.0|fern|adjective|distant
+58946.0|die Information|noun|information
+58992.0|davonlaufen|verb|to run away
+59003.0|die Weltbevölkerung|noun|world population
+59110.0|Farin|noun|Farin (a person's name)
+59149.0|verfickt|adjective|damned
+59201.0|bellen|verb|to bark
+59209.0|das RTL|noun|RTL (television channel)
+59473.0|malen|verb|to paint
+59662.0|der Pelikan|noun|pelican
+59675.0|die Pose|noun|pose
+59718.0|weggucken|verb|to look away
+59724.0|Security|noun|security
+59729.0|die Epilepsie|noun|epilepsy
+59741.0|das Ecstasy|noun|ecstasy
+59741.001|die Ecstasy|noun|ecstasy
+59801.0|Breakdance|noun|breakdance
+59804.0|der Standard|noun|standard
+59813.0|Rhytmus|noun|rhythm
+59919.0|das Vibrieren|noun|vibrating
+59932.0|die Discokugel|noun|disco ball
+59975.0|v|abbreviation|v (for velocity or volume)
+60011.0|Move|noun|move
+60159.0|akzeptabel|adjective|acceptable
+60240.0|Nay|noun|nay (no)
+60393.0|der Kritiker|noun|critic
+60458.0|das Super|noun|super
+60464.0|der Loser|noun|loser
+60546.0|staubig|adjective|dusty
+60575.0|das Chaos|noun|chaos
+60608.0|das Klischee|noun|cliché
+60617.0|der Zirkus|noun|circus
+60624.0|der Clown|noun|clown
+60637.0|der Jongleur|noun|juggler
+60663.0|lehnen|verb|to lean
+60678.0|geschlossen|adjective|closed
+60679.0|die Boutique|noun|boutique
+60685.001|das Tram|noun|tram
+60685.002|der Tram|noun|tram
+60689.0|das Hotel|noun|the hotel
+60694.0|die Pussy|noun|pussy
+60698.0|der Abschied|noun|farewell
+60707.0|das Sofa|noun|sofa
+60746.0|das Mondlicht|noun|moonlight
+60814.0|die Matratze|noun|mattress
+60846.0|die Tanzstunde|noun|dance lesson
+60849.0|der Foxtrott|noun|foxtrot
+60853.0|interessiert|adjective|interested
+60871.0|das Rollenspiel|noun|role play
+60892.0|rassistisch|adjective|racist
+60902.0|der Reflex|noun|reflex
+60909.0|irritieren|verb|to irritate
+60919.0|reagieren|verb|to react
+60959.0|der Stil|noun|style
+60961.0|die Formulierung|noun|formulation
+60967.0|das Taktgefühl|noun|sense of timing
+60997.0|das Paar|noun|pair
+60997.001|die Paar|noun|couple
+61054.0|überlegen|Verb|to consider
+61107.0|der Dialog|noun|dialogue
+61115.0|der Haken|noun|hook
+61123.0|humorlos|adjective|humorless
+61173.0|diskriminieren|verb|to discriminate
+61313.0|betonen|verb|to emphasize
+61483.0|das Riesenglück|noun|great luck
+61548.0|die Akazie|noun|acacia
+61550.0|die Dorade|noun|dorado
+61554.0|der Pier|noun|pier
+61554.001|die Pier|noun|pier
+61560.0|Kinderkarussell|noun|children's carousel
+61571.0|der Zentimeter|noun|centimeter
+61571.001|das Zentimeter|noun|centimeter
+61579.0|die Kulisse|noun|scenery
+61590.0|der Hof|noun|courtyard
+61608.0|der Pool|noun|pool
+61608.001|das Pool|noun|pool
+61615.0|der Damenschuh|noun|women's shoe
+61619.0|die Fassade|noun|facade
+61653.0|das Café|noun|café
+61662.0|der Fischer|noun|fisherman
+61671.0|dolce|adjective|sweet
+61672.0|die Vita|noun|life
+61676.0|der Sonnenschein|noun|sunshine
+61800.0|verfluchen|Verb|to curse
+61830.0|schrecklich|adjective|terrible
+61858.0|die Zärtlichkeit|noun|tenderness
+61891.0|die Barrikade|noun|barricade
+61904.0|die Antifa|noun|the Antifa
+61917.0|schizophren|adjective|schizophrenic
+61918.0|bipolar|adjective|bipolar
+61936.0|asozial|adjective|antisocial
+61957.0|das Highlight|noun|highlight
+62048.0|intensiv|adjective|intensive
+62072.0|der Freak|noun|freak
+62114.0|Köln|noun|Cologne
+62117.0|Linz|noun|Linz
+62120.0|Frankfurt|noun|Frankfurt
+62122.0|Hamburg|noun|Hamburg
+62125.0|teuer|adjective|expensive
+62128.0|balancieren|verb|to balance
+62130.0|die Wien|noun|Vienna
+62185.0|Joel|noun|Joel (a person's name)
+62300.0|der Rave|noun|rave
+62300.001|das Rave|noun|rave
+62312.0|das Commitment|noun|commitment
+62376.0|der One-Night-Stand|noun|one-night stand
+62473.0|bitter|adjective|bitter
+62483.0|cl|abbreviation|cl (short for classic or clearance)
+62577.0|müde|adjective|tired
+62681.0|die Melancholie|noun|melancholy
+62716.0|diffus|adjective|diffuse
+62733.0|winzig|adjective|tiny
+62734.0|die Kanone|noun|cannon
+62738.0|die Romantik|noun|the romance
+62741.0|die Lampe|noun|lamp
+62748.0|das Pathos|noun|pathos
+62769.0|neurotisch|adjective|neurotic
+62849.0|das Normal|noun|normal
+62859.0|s|noun|s
+62861.0|der Rotwein|noun|the red wine
+62864.0|Moskau|noun|Moscow
+62871.0|die Rockmusik|noun|rock music
+62881.0|der Rosengarten|noun|rose garden
+62944.0|das Kino|Noun|cinema
+62948.0|der Farbfilm|noun|color film
+63055.0|addieren|verb|to add
+63061.0|dividieren|verb|to divide
+63089.0|die Mathematik|noun|mathematics
+63129.0|hä|interjection|huh
+63130.0|die Integration|noun|integration
+63131.0|die Geometrie|noun|geometry
+63133.0|diese|pronoun|this
+63134.0|der Quotient|noun|quotient
+63139.0|später|adjective|later
+63177.0|der Hash|noun|hash
+63229.0|Ex-Frau|noun|ex-wife
+63316.0|der Dollar|noun|dollar
+63483.0|fix|adjective|quick
+63504.0|Emma|noun|Emma (a person's name)
+63817.0|die Algebra|noun|algebra
+63818.0|not|Adverb|not
+63819.0|important|adjective|important
+63857.0|der Joint|noun|joint (cannabis)
+63891.0|das Porträt|noun|portrait
+63912.0|die Ferien|noun|vacation
+63915.0|happy|adjective|happy
+63919.0|die Adresse|noun|address
+63949.0|die Back|noun|the oven
+63949.001|der Back|noun|the bake
+63999.0|Bye|noun|bye
+64009.0|beschließen|verb|to decide
+64131.0|aggressiv|adjective|aggressive
+64150.0|der Crack|noun|crack (drug)
+64150.001|das Crack|noun|crack (drug)
+64244.0|sauber|adjective|clean
+64251.0|das Kindheitstrauma|noun|childhood trauma
+64293.0|die Weihnachtsgans|noun|Christmas goose
+64308.0|das Fach|noun|subject (school)
+64308.0|die Frikadelle|noun|meatball
+64400.0|das Plusquamperfekt|noun|pluperfect
+64418.0|Russisch|adjective|Russian
+64451.0|prophylaktisch|adjective|prophylactic
+64468.0|das Opium|noun|opium
+64558.0|legendär|adjective|legendary
+64657.0|der Massenmörder|noun|mass murderer
+64664.0|der Mord|noun|murder
+64671.0|der Prozess|noun|trial
+64722.0|Kickdown|noun|kickdown (in driving)
+64731.0|die Kavallerie|noun|cavalry
+64742.0|die Attacke|noun|attack
+64761.0|offensiv|adjective|offensive
+64762.0|verteidigen|verb|to defend
+64772.0|beleidigen|verb|to insult
+64779.0|die Alternative|noun|alternative
+64791.0|kollegial|adjective|collegial
+64794.0|Akteneinsicht|noun|access to records
+64838.001|der Fax|noun|fax
+64860.0|die Zivilisation|noun|civilization
+64870.0|mitmachen|verb|to participate
+64917.0|der Stalin|noun|Stalin
+64918.0|Stalingrad|noun|Stalingrad
+64933.0|der Tipp|Noun|tip
+64953.0|herab|adverb|down
+64963.0|zuckersüß|adjective|sugar-sweet
+64974.0|die Fahrtrichtung|noun|direction of travel
+64992.0|Ingo|noun|Ingo (a person's name)
+64999.0|das Staatsexamen|noun|state exam
+65019.0|die Miene|noun|facial expression
+65027.0|die Kantine|noun|canteen
+65083.0|leck|adjective|leaky
+65130.0|gebildet|adjective|educated
+65232.0|exekutieren|verb|to execute
+65238.0|der Gleichschritt|noun|marching in step
+65242.0|Attention|noun|attention
+65255.0|die Manieren|noun|manners
+65294.0|der Superstar|noun|superstar
+65315.0|die Philosophie|noun|philosophy
+65336.0|Message|noun|message
+65356.0|dahinter|adverb|behind it
+65414.0|der Journalist|noun|journalist
+65419.0|die Hochkultur|noun|high culture
+65435.0|das Studium|noun|studies
+65667.0|scharf|adjective|sharp
+65836.001|die Beta|noun|beta
+65843.0|der Mentor|noun|mentor
+65856.0|das Cash|noun|cash
+65860.0|Mio|abbreviation|million
+65878.0|die Sphinx|noun|sphinx
+65878.001|der Sphinx|noun|sphinx
+65901.0|tätowieren|verb|to tattoo
+65918.0|surfen|verb|to surf
+65924.0|die Berufsschule|noun|vocational school
+65929.0|der Gourmet|noun|gourmet
+65960.0|das Signal|noun|signal
+65963.0|der Markt|noun|the market
+66182.0|der Flüchtling|noun|refugee
+66199.0|populistisch|adjective|populist
+66200.0|die Sicherheitspolitik|noun|security policy
+66217.0|die Talkshow|noun|talk show
+66229.0|das Interesse|noun|interest
+66274.0|jährlich|adjective|annual
+66298.0|Rainer|noun|Rainer (a person's name)
+66333.0|der Populist|noun|populist
+66346.0|die Ordnung|noun|order
+66369.0|markieren|verb|to mark
+66393.0|die Portion|noun|portion
+66427.0|streng|adjective|strict
+66489.0|der Lobbyist|noun|lobbyist
+66500.0|gierig|adjective|greedy
+66511.0|das Liedchen|noun|little song
+66515.0|das End|noun|end
+66549.0|kaltblütig|adjective|cold-blooded
+66551.0|kriminell|adjective|criminal
+66610.0|stets|adverb|always
+66611.0|fordern|verb|to demand
+66642.0|observieren|verb|to observe
+66661.0|die Tanzlehrerin|noun|female dance teacher
+66665.0|der Tanzkurs|noun|dance class
+66668.0|buchen|verb|to book
+66682.0|praktizieren|verb|to practice
+66769.0|montags|adjective|on Mondays
+66860.0|die Gesangslehrerin|noun|female vocal coach
+67013.0|das Gleichgewicht|noun|balance
+67112.0|das Talent|noun|talent
+67117.0|rastlos|adjective|restless
+67222.0|die Physionomie|noun|physiognomy
+67315.0|stattdessen|adverb|instead
+67316.0|die Polonaise|noun|Polonaise (dance)
+67350.0|das Hashtag|noun|hashtag
+67350.001|der Hashtag|noun|hashtag
+67363.0|die Glühbirne|noun|lightbulb
+67385.0|die Uni|noun|the university
+67385.001|das Uni|noun|the university
+67426.0|die Tafel|noun|the board
+67428.0|der Prof|noun|professor (informal)
+67439.0|der Vortrag|noun|lecture
+67497.0|der Klassenlehrer|noun|class teacher
+67501.0|das Casino|noun|casino
+67508.0|die Prüfung|noun|exam
+67585.0|reproduzieren|verb|to reproduce
+67642.0|übermorgen|adverb|the day after tomorrow
+67643.0|selb|pronoun|self
+67657.0|googlen|verb|google
+67671.0|die Sekunde|noun|second
+67689.0|der Kalender|noun|calendar
+67696.0|der Kurs|noun|course
+67705.0|verändern|verb|to change
+67773.0|das Update|noun|update
+67773.001|der Update|noun|update
+67775.0|Allah|noun|Allah
+67867.0|die U-Bahn|noun|the subway
+67901.0|triggern|verb|to trigger
+67906.0|das Headset|noun|headset
+67906.001|der Headset|noun|headset
+67928.0|pädagogisch|adjective|pedagogical
+68040.0|entnazifizieren|verb|to denazify
+68051.0|deeskalieren|verb|to deescalate
+68091.0|die Karte|Noun|card
+68098.0|der Promi|noun|celebrity
+68098.001|die Promi|noun|celebrity
+68102.0|das Ficken|Nomen|the sex
+68117.0|die Beleidigung|noun|insult
+68167.0|intervenieren|verb|to intervene
+68171.0|demokratisieren|verb|to democratize
+68176.0|bombardieren|verb|to bombard
+68181.0|privatisieren|verb|to privatize
+68184.0|der Konzern|noun|corporation
+68185.0|expandieren|verb|to expand
+68188.0|investieren|verb|to invest
+68220.0|der Borg|noun|borg (fictional or collective)
+68221.0|assimilieren|verb|to assimilate
+68227.0|installieren|verb|to install
+68271.0|der Toaster|noun|toaster
+68287.0|Dispo|noun|disposition (short for)
+68288.0|online|adjective|online
+68300.0|grinsen|verb|to grin
+68371.0|die Hotline|noun|hotline
+68412.0|das Parlament|noun|parliament
+68417.0|der Volksvertreter|noun|representative
+68463.0|der Buchstabe|noun|letter (alphabet)
+68516.0|der Zufall|noun|the coincidence
+68527.0|paranoid|adjective|paranoid
+68580.0|lustig|adjective|funny
+68644.0|schmutzig|adjective|dirty
+68646.0|wertvoll|adjective|valuable
+68671.0|das Lamm|noun|the lamb
+68704.0|die Belohnung|noun|reward
+68739.0|ha|interjection|ha
+68747.0|Vera|noun|Vera
+68770.0|die Challenge|noun|challenge
+68782.0|der Gag|noun|gag
+68784.0|die Granate|noun|grenade
+68827.0|vibrieren|verb|to vibrate
+68829.0|unrasiert|adjective|unshaven
+68835.0|rasieren|verb|to shave
+68878.0|das Model|noun|the model
+68878.001|der Model|noun|model
+68891.0|der Fake|noun|fake
+68909.0|Günther|noun|Günther
+68913.0|der Guido|noun|Guido
+68913.0|die Forderung|noun|demand
+68936.0|offensichtlich|adjective|obvious
+68953.0|hmm|interjection|hmm
+68962.0|Beatrix|noun|Beatrix
+68972.0|vermuten|verb|to suspect
+68977.0|Marcus|noun|Marcus
+68992.0|heulen|verb|to howl
+69013.0|der Klick|noun|click
+69088.0|ups|interjection|oops
+69096.0|Hate-Speech|noun|hate speech
+69101.0|e|noun|e
+69117.0|der Clickbait|noun|the clickbait
+69117.001|das Clickbait|noun|clickbait
+69117.002|die Clickbait|noun|clickbait
+69125.0|grüßen|verb|to greet
+69172.0|der Krankenwagen|noun|ambulance
+69242.0|das Wassermolekül|noun|water molecule
+69243.0|das Streichholz|noun|matchstick
+69245.0|der Kanister|noun|canister
+69280.0|der Neuanfang|noun|new beginning
+69282.0|dunkeln|verb|to darken
+69377.0|tropfen|verb|to drop
+69388.0|fluchen|verb|to curse
+69430.0|die Panik|Noun|panic
+69547.0|danke|interjection|thank you
+69605.0|die Saison|noun|season
+69614.0|mild|adjective|mild
+69622.0|Ok|interjection|ok
+69647.0|die Xenophobie|noun|xenophobia
+69651.0|die Banalität|noun|banality
+69657.0|die Tendenz|noun|tendency
+69671.0|fanatisieren|verb|to fanatize
+69681.0|das Kostüm|noun|the costume
+69687.0|propagieren|verb|to propagate
+69696.0|ablehnen|verb|to reject
+69714.0|konkret|adjective|concrete
+69737.0|retro|adjective|retro
+69893.0|dosieren|verb|to dose
+69931.0|der Augenkontakt|noun|eye contact
+69960.0|das Space|noun|space
+69972.0|stalken|verb|to stalk
+70167.0|die Epoche|noun|epoch
+70201.0|gleichzeitig|adjective|simultaneous
+70209.0|zünden|verb|to ignite
+70223.0|regen|verb|to rain
+70304.0|lebendig|adjective|alive
+70372.0|das On|noun|on
+70375.0|à|preposition|to
+70392.0|f|noun|f
+70394.0|ces|noun|ces
+70408.0|des|article|of
+70450.0|der Antifaschist|noun|anti-fascist
+70527.0|rauslassen|verb|let out
+70549.0|der Minister|noun|minister
+70567.0|schwarz-weiß-rot|adjective|black-white-red
+70576.0|Christian|noun|Christian
+70580.0|das Kokain|noun|cocaine
+70654.0|die Todesliste|noun|death list
+70661.0|Trollarmee|noun|troll army
+70672.0|die Kriminelle|noun|criminal
+70673.0|unfreiwillig|adjective|involuntary
+70674.0|zölibatär|adjective|celibate
+70687.0|aufeinander|adverb|on top of each other
+70690.0|destabilisieren|verb|to destabilize
+70697.0|das Massaker|noun|massacre
+70703.0|warnen|verb|to warn
+70710.0|der Hitlergruß|noun|Hitler salute
+70721.0|das Net|noun|net
+70724.0|der Judenhass|noun|anti-Semitism
+70787.0|das PDF|noun|PDF
+70787.001|die PDF|noun|PDF
+70793.0|die Richterin|noun|female judge
+70800.0|fünftausend|noun|five thousand
+70801.0|die SMS|noun|SMS
+70801.001|das SMS|noun|SMS
+70801.002|der SMS|noun|SMS
+70810.0|die Firewall|noun|firewall
+70810.001|der Firewall|noun|firewall
+70904.0|demokratisch|adjective|democratic
+70910.0|faschistisch|adjective|fascist
+70948.0|hinaus|adverb|out
+70958.0|Lindner|noun|Lindner
+70969.0|reinlassen|verb|to let in
+70995.0|das Gender|noun|gender
+71021.0|einbringen|verb|to bring in
+71030.0|der Redner|noun|speaker
+71054.0|der Parlamentarismus|noun|parliamentarism
+71068.0|die Provokation|noun|provocation
+71073.0|die Fraktion|noun|faction
+71080.0|das Adieu|noun|farewell
+71110.0|der Führer|noun|leader
+71120.0|Polen|proper noun|Poland
+71122.0|Frankreich|noun|France
+71140.0|die Pension|noun|pension
+71189.0|frustrieren|verb|to frustrate
+71214.0|die Schweiz|noun|Switzerland
+71315.0|Kinderland|noun|children's land
+71343.0|sächsisch|adjective|Saxon
+71385.0|Fußschweiß|noun|foot sweat
+71397.0|das Geburtstagsgeschenk|noun|birthday gift
+71428.0|die Christin|noun|Christian (female)
+71449.0|amerikanisch|adjective|American
+71450.0|der Songwriter|noun|songwriter
+71479.0|stündlich|adjective|hourly
+71591.0|der Erfolg|noun|success
+71593.0|Wolfsburg|noun|Wolfsburg
+71611.0|menschlich|adjective|human
+71631.0|der Zylinder|noun|cylinder
+71656.0|stabil|adjective|stable
+71679.0|der Boulevard|noun|boulevard
+71691.0|mühsam|adjective|laborious
+71693.0|das Schicksal|noun|destiny
+71785.0|der Tunnel|noun|tunnel
+71790.0|die Wirtschaft|noun|economy
+71865.0|steigen|verb|to climb
+71890.0|die Finanzkrise|noun|financial crisis
+71896.0|der Terrorismus|noun|terrorism
+71960.0|Alpen|noun|Alps
+71987.0|Afrika|proper noun|Africa
+71996.0|fließen|Verb|to flow
+72013.0|der Globus|noun|globe
+72038.0|Hannover|noun|Hannover
+72046.0|Leipzig|noun|Leipzig
+72047.0|das Posen|noun|Poznań
+72049.0|Hiroshima|noun|Hiroshima
+72050.0|jaja|interjection|yeah, yeah
+72053.0|der Sachse|noun|Saxon
+72063.0|das U|noun|U (subway)
+72071.0|Steffi|noun|Steffi
+72073.0|der Samba|noun|samba
+72073.001|die Samba|noun|samba
+72078.0|der Franken|noun|Frank (currency)
+72085.0|reingehen|verb|to go in
+72096.0|das Wuppertal|noun|Wuppertal
+72100.0|Wladiwostok|noun|Vladivostok
+72107.0|der Osten|noun|east
+72118.0|die Region|noun|region
+72121.0|die Rhön|noun|Rhön
+72133.0|die Mosel|noun|Moselle
+72133.001|der Mosel|noun|Moselle
+72156.0|Südamerika|noun|South America
+72179.0|das Krokodil|noun|crocodile
+72226.0|furchtbar|adjective|terrible
+72286.0|ekelhaft|adjective|disgusting
+72296.0|tolerant|adjective|tolerant
+72327.0|die Koprophagie|noun|coprophagia
+72335.0|optimal|adjective|optimal
+72434.0|das Marzipan|noun|marzipan
+72521.0|der Schwan|noun|swan
+72538.0|jedoch|adverb|however
+72550.0|tapfer|adjective|brave
+72556.0|der Nerv|noun|nerve
+72625.0|Brigitte|noun|Brigitte
+72639.0|Zahnarzthelferin|noun|dental assistant
+72654.0|die Blutgruppe|noun|blood type
+72699.0|das Wiedersehen|noun|reunion
+72700.0|garantieren|verb|to guarantee
+72723.0|motivieren|verb|to motivate
+72731.0|Heidelberg|noun|Heidelberg
+72740.0|Apple|noun|Apple
+72742.0|der Android|noun|Android
+72742.001|das Android|noun|Android
+72762.0|Friedrich|noun|Friedrich
+72776.0|das Rügen|noun|Rügen
+72790.0|Yvonne|noun|Yvonne
+72964.0|Dresden|noun|Dresden
+73104.0|Markus|noun|Markus
+73105.0|Söder|noun|Söder
+73111.0|Kling|noun|Kling
+73130.0|das Klima|noun|climate
+73149.0|der Fulltimejob|noun|full-time job
+73204.0|das Paracetamol|noun|paracetamol
+73215.0|das Morphium|noun|morphine
+73217.0|Schlafengehen|noun|going to bed
+73322.0|die Hypnose|noun|hypnosis
+73324.0|die Diät|noun|diet
+73378.0|die Apotheke|noun|pharmacy
+73383.0|die Palette|noun|palette
+73387.0|der Apotheker|noun|pharmacist
+73393.0|das Proletariat|noun|proletariat
+73438.0|der Ärger|noun|anger
+73463.0|die Homophobie|noun|homophobia
+73487.0|der Psychologe|noun|psychologist
+73542.0|Lateinamerika|noun|Latin America
+73594.0|clean|adjective|clean
+73607.0|der Priester|noun|priest
+73616.0|der Detektiv|noun|detective
+73646.0|schwarz-gelb|adjective|black and yellow
+73718.0|Eventmanager|noun|event manager
+73728.0|der Pazifist|noun|the pacifist
+73840.0|Biomarkt|noun|organic market
+73876.0|die Böse|noun|evil
+74008.0|Sachsen-Anhalt|noun|Saxony-Anhalt
+74042.0|das Detox|noun|detox
+74057.0|die Nachhaltigkeit|noun|sustainability
+74090.0|EU-Norm|noun|EU standard
+74105.0|das Aluminium|noun|aluminum
+74121.0|das Sonderangebot|noun|special offer
+74148.0|die Nähe|noun|proximity
+74168.0|erneut|adverb|again
+74219.0|juhu|interjection|yay
+74309.0|nämlich|adverb|namely
+74316.0|polizeilich|adjective|police
+74342.0|filmen|verb|to film
+74358.0|die Kamera|noun|camera
+74411.0|die Frauenkirche|noun|Church of Our Lady
+74432.0|kommunizieren|verb|to communicate
+74446.0|Uwe|proper noun|Uwe
+74594.0|gratulieren|verb|to congratulate
+74597.0|mitgehen|verb|to go along
+74646.0|sorglos|adjective|carefree
+74647.0|relaxen|verb|to relax
+74722.0|die Chemnitz|noun|Chemnitz
+74809.0|das Hi-Fi|noun|hi-fi
+74809.0|der VW|noun|the VW
+74848.0|das Schwimmbad|noun|swimming pool
+75011.0|das Chlorophyll|noun|chlorophyll
+75135.0|updaten|verb|to update
+75157.0|die Vier|noun|four
+75166.0|das Gewicht|noun|weight
+75181.0|der Anna|noun|Anna
+75199.0|Flori|proper noun|Flori
+75271.0|nordisch|adjective|Nordic
+75302.0|Laura|proper noun|Laura
+75443.0|die Sendung|noun|broadcast
+75446.0|die Maus|noun|mouse
+75518.0|registrieren|verb|to register
+75522.0|bügeln|verb|to iron
+75524.0|massieren|verb|to massage
+75530.0|das Format|noun|format
+75536.0|das Karate|noun|karate
+75571.0|smart|adjective|smart
+75572.0|das Smartphone|noun|smartphone
+75599.0|das Duschgel|noun|shower gel
+75601.0|die Depression|noun|depression
+75634.0|die Finanz|noun|finance
+75636.0|die Marktwirtschaft|noun|market economy
+75653.0|beten|verb|to pray
+75713.0|das Stückchen|noun|small piece
+75778.0|der Fun|noun|fun
+75778.001|das Fun|noun|fun
+75792.0|Point|noun|point
+75855.0|das Feedback|noun|feedback
+75901.0|das Bargeld|noun|cash
+75922.0|der Bodyguard|noun|bodyguard
+75966.0|das Kaffeehaus|noun|coffee house
+75992.0|die Landschaft|noun|landscape
+76022.0|Open|adjective|open
+76050.0|Let|verb|let
+76064.0|das Microsoft|noun|Microsoft
+76158.0|crazy|adjective|crazy
+76184.0|das Blog|noun|blog
+76184.001|der Blog|noun|blog
+76190.0|der Alien|noun|alien
+76190.001|das Alien|noun|alien
+76217.0|die Legende|noun|legend
+76227.0|der Gin|noun|gin
+76228.0|Tonic|noun|tonic
+76232.0|die Ambivalenz|noun|ambivalence
+76236.0|bremsen|verb|to brake
+76238.0|der Luzifer|noun|Lucifer
+76253.0|das Gespenst|noun|the ghost
+76263.0|das Hamsterrad|noun|hamster wheel
+76304.0|der Moderator|noun|moderator
+76308.0|der Comedian|noun|comedian
+76308.001|die Comedian|noun|comedian (female)
+76309.0|der Slash|noun|slash
+76310.0|der Playboy|noun|playboy
+76312.0|der Geschäftsmann|noun|businessman
+76317.0|Olli|proper noun|Olli
+76332.0|gesellschaftskritisch|adjective|socially critical
+76333.0|die Protestaktion|noun|protest action
+76338.0|aufmerksam|adjective|attentive
+76353.0|der Shitstorm|noun|shitstorm
+76358.0|Comeback-Tour|noun|comeback tour
+76453.0|Shortcut|noun|shortcut
+76518.0|die Cloud|noun|cloud
+76526.0|das Paradies|noun|paradise
+76527.0|das Gift|noun|poison
+76527.001|die Gift|noun|poison (female)
+76527.002|der Gift|noun|poison (male)
+76576.0|die Leiche|noun|corpse
+76611.0|umbauen|verb|to rebuild
+76619.0|die Werbung|Noun|advertisement
+76629.0|die Brücke|noun|the bridge
+76686.0|die Falle|noun|trap
+76746.0|der Check|noun|check
+76763.0|stärken|verb|to strengthen
+76767.0|der Caesar|noun|Caesar
+76778.0|der Botschafter|noun|ambassador
+76784.0|editieren|verb|to edit
+76792.0|der Hundehalter|noun|dog owner
+76798.0|der Katzenhalter|noun|cat owner
+76832.0|der Labrador|noun|Labrador
+76832.0|niedrig|adjective|low
+76839.0|die Kolonie|noun|colony
+76861.0|der Drache|noun|dragon
+76906.0|Kalifornien|noun|California
+76921.0|außergewöhnlich|adjective|extraordinary
+76922.0|einzigartig|adjective|unique
+76937.0|die Krankheit|noun|illness
+76942.0|die Birne|noun|pear
+76951.0|vergleichen|verb|to compare
+76975.0|der Betrüger|noun|cheat
+76977.0|der Wohnort|noun|residence
+77106.0|der Hutträger|noun|hat wearer
+77135.0|vergiften|verb|to poison
+77145.0|das Süß|noun|sweet
+77319.0|das Seil|noun|rope
+77323.0|das Wunderkind|noun|prodigy
+77341.0|der Kontostand|noun|account balance
+77359.0|das Temperament|noun|temperament
+77535.0|das Out|noun|out
+77545.0|Chris|proper noun|Chris
+77547.0|der Liquor|noun|liquor
+77550.0|die Tide|noun|tide
+77557.0|House|noun|house
+77564.002|das Single|noun|single (neuter)
+77565.0|der Mix|noun|mix
+77579.0|das W|noun|W
+77580.0|der Darling|noun|darling
+77587.0|das Gold|noun|the gold
+77592.0|Jon|proper noun|Jon
+77599.0|das Lux|noun|luxury
+77600.0|Change|noun|change
+77605.0|das Over|noun|over
+77615.0|der Live|noun|live
+77632.0|Hunter|noun|hunter
+77647.0|der Kris|proper noun|Kris
+77649.0|Amsterdam|proper noun|Amsterdam
+77661.0|Pond|noun|pond
+77662.0|das PA|noun|PA
+77667.0|Pt|noun|point
+78139.0|der Kiosk|noun|kiosk
+78167.0|ignorieren|verb|ignore
+78177.0|die Marke|noun|brand
+78181.0|die Camouflage|noun|camouflage
+78242.0|der Ninja|noun|ninja
+78405.0|der Kung-Fu-Film|noun|kung fu movie
+78410.0|der Nachmittag|noun|afternoon
+78557.0|das Pflaster|noun|plaster
+78572.0|die Pasta|noun|pasta
+78585.0|der Pullover|noun|sweater
+78588.0|schnipp|verb|to snap
+78594.0|Dens|noun|dens
+78613.0|giftig|adjective|toxic
+78614.0|mutieren|verb|to mutate
+78616.0|gefährlich|adjective|dangerous
+78630.0|unsterblich|adjective|immortal
+78689.0|anschreien|verb|to yell at
+78695.0|verzeihen|Verb|to forgive
+78732.0|das Baguette|noun|baguette
+78732.001|die Baguette|noun|baguette (female)
+78744.0|Rukola|noun|arugula
+78746.0|der Parmesan|noun|parmesan
+78747.0|das Perfekt|noun|perfect
+78765.0|forschen|verb|to research
+78770.0|nachdem|conjunction|after
+78796.0|die Feder|noun|feather
+78801.0|der Trinker|noun|drinker
+78808.0|der Jäger|noun|the hunter
+78866.0|saftig|adjective|juicy
+78905.0|Riesenrakete|noun|giant rocket
+78938.0|beben|verb|to quake
+79004.0|exotisch|adjective|exotic
+79007.0|die Schönheitskönigin|noun|beauty queen
+79048.0|Schwesterlein|noun|little sister
+79075.0|das LSD|noun|LSD
+79095.0|die Reisefreiheit|noun|freedom of travel
+79114.0|die Coca|noun|coca
+79114.001|das Coca|noun|coca (neuter)
+79118.0|Bolivien|proper noun|Bolivia
+79135.0|Südostasien|proper noun|Southeast Asia
+79151.001|die Caipi|noun|caipirinha (female)
+79264.0|der Reisebus|noun|tour bus
+79266.0|der Europäer|noun|European
+79282.0|unzivilisiert|adjective|uncivilized
+79300.0|die Prostitution|noun|prostitution
+79320.0|Ba|noun|Ba (abbreviation)
+79389.0|der Australier|noun|Australian
+79394.0|Be|noun|Be
+79402.0|benehmen|verb|to behave
+79409.0|das Eden|noun|Eden
+79693.0|das Bienchen|noun|little bee
+79695.0|das Blümchen|noun|little flower
+79717.0|das Frühlingsgefühl|noun|spring feeling
+79765.0|die Intrige|noun|intrigue
+79790.0|der Chart|noun|chart
+79790.001|das Chart|noun|chart (neuter)
+79821.0|die Miete|noun|rent
+79983.0|der Chinese|noun|Chinese (person)
+80002.0|die Allergie|noun|allergy
+80025.0|umarmen|verb|hug
+80044.0|der Russe|noun|Russian
+80051.0|der Hippie|noun|hippie
+80063.0|zusammenspielen|verb|to play together
+80065.0|das Tamburin|noun|tambourine
+80079.0|das Trampolin|noun|trampoline
+80080.0|der Yippie|noun|Yippie (person)
+80109.0|der Regentanz|noun|rain dance
+80152.0|das Getränk|noun|the drink
+80181.0|großartig|adjective|magnificent
+80352.0|der Regenbogen|noun|rainbow
+80392.0|die Leidenschaft|noun|passion
+80494.0|realisieren|verb|to realize
+80566.0|melancholisch|adjective|melancholic
+80690.0|das Intro|noun|the intro
+80727.0|Part|noun|part
+80730.0|die Zikade|noun|cicada
+80739.0|der Vibe|noun|the vibe
+80749.0|hallo|interjection|hello
+80752.0|das Individuum|noun|individual
+80754.0|rebellisch|adjective|rebellious
+80766.0|Kairo|noun|Cairo
+80768.0|Lomé|noun|Lomé
+80772.0|die Hypophyse|noun|pituitary gland
+80774.0|der Hypothalamus|noun|hypothalamus
+80872.0|unglaublich|adjective|incredible
+80883.0|das Ensemble|noun|the ensemble
+80889.0|die Sie|pronoun|the she
+80889.001|der Sie|pronoun|the he
+80904.0|motiviert|adjective|motivated
+80915.0|antifaschistisch|adjective|anti-fascist
+80947.0|herzlich|adjective|cordial
+80956.0|imaginär|adjective|imaginary
+80957.0|die Minibar|noun|minibar
+80985.0|das C|noun|C
+80988.0|das D|noun|the D
+80991.0|das E|noun|the E
+80994.0|die Zahnfee|noun|tooth fairy
+81010.0|weitermachen|verb|to continue
+81019.0|überraschend|adjective|surprising
+81021.0|das Raum-Zeit-Kontinuum|noun|space-time continuum
+81067.0|die Bakterie|noun|bacterium
+81152.0|das Potential|noun|potential
+81167.0|Still|Noun|style
+81286.0|Lang|proper noun|Lang
+81392.0|spektakulär|adjective|spectacular
+81447.0|Nazipropaganda|noun|Nazi propaganda
+81502.0|die Rasse|noun|race
+81506.0|das Vaterland|noun|fatherland
+81510.0|das Menschenleben|noun|human life
+81513.0|die Ideologie|noun|ideology
+81526.0|die Akzeptanz|noun|acceptance
+81528.0|die Ignoranz|noun|ignorance
+81622.0|verbreiten|verb|to spread
+81624.0|der Thor|proper noun|Thor
+81632.0|der Schulhof|noun|schoolyard
+81636.0|das Stadium|noun|stadium
+81638.0|der Liedermacher|noun|songwriter
+81659.0|der Sieg|noun|victory
+81659.001|die Sieg|noun|victory
+81663.0|schockieren|verb|to shock
+81781.0|Jour|noun|day
+81783.0|y|noun|Y (letter)
+81809.0|das Y|noun|Y (letter)
+81828.0|das Quant|noun|quant
+81829.0|au|interjection|ouch
+81842.0|das Ces|noun|Ces
+81849.0|passe|noun|passe
+81871.0|die Courage|noun|courage
+81959.0|folgendermaßen|adverb|as follows
+81973.0|spekulieren|verb|to speculate
+81976.0|das Material|noun|material
+82082.0|nu|noun|nu
+82116.0|die Fabrik|noun|the factory
+82176.0|die Wasserstoffbombe|noun|hydrogen bomb
+82180.0|das Nest|noun|nest
+82228.0|antik|adjective|antique
+82291.0|scratchen|verb|to scratch
+82323.0|kopieren|verb|to copy
+82347.0|prompt|adjective|prompt
+82353.0|der Fruchtsaft|noun|fruit juice
+82367.0|der Bunker|noun|bunker
+82373.0|HipHop|noun|hip-hop
+82384.0|der Flipflop|noun|flip-flop
+82384.001|das Flipflop|noun|flip-flop (neuter)
+82396.0|das Mikrofon|Noun|the microphone
+82433.0|ersetzlich|adjective|replaceable
+82482.0|der Touchdown|noun|touchdown
+82494.0|die Spielregel|noun|game rule
+82537.0|hochfrequent|adjective|high-frequency
+82541.0|die Dimension|noun|dimension
+82548.0|die Emotion|noun|emotion
+82554.0|rotieren|verb|to rotate
+82577.0|ge-|prefix|ge-
+82584.0|das Ballett|noun|ballet
+82602.0|Brooklyn|proper noun|Brooklyn
+82666.0|die Kirche|noun|the church
+82674.0|boxen|verb|to box
+82681.0|die Hauswand|noun|house wall
+82833.0|das Du|pronoun|you
+82877.0|die Magie|noun|magic
+82895.0|das Delirium|noun|delirium
+82932.0|die Pflicht|noun|duty
+83051.0|verbinden|verb|connect
+83059.0|ballistisch|adjective|ballistic
+83070.0|vertikal|adjective|vertical
+83071.0|entgegen|preposition|against
+83078.0|ursprünglich|adjective|original
+83138.0|konzentrieren|verb|to concentrate
+83213.0|extrahieren|verb|to extract
+83217.0|die Bewegung|noun|movement
+83248.0|die Psyche|noun|psyche
+83264.0|verhalten|verb|to behave
+83272.0|unterhalten|Verb|entertain
+83357.0|das Lachen|noun|laughter
+83396.0|die Fackel|noun|torch
+83396.001|das Fackel|noun|torch
+83396.002|der Fackel|noun|torch
+83404.0|der Zusammenhang|noun|context
+83452.0|die Kreation|noun|creation
+83454.0|mental|adjective|mental
+83455.0|die Projektion|noun|projection
+83457.0|genial|adjective|genius
+83461.0|kristallen|verb|to crystallize
+83541.0|obsolet|adjective|obsolete
+83655.0|hauptberuflich|adjective|full-time
+83656.0|der Pirat|noun|pirate
+83662.0|die Crew|noun|crew
+83684.0|das Weltmeer|noun|world ocean
+83720.0|die Hygiene|noun|hygiene
+83730.0|Zittern|noun|shivering
+83753.0|die Ehre|noun|honor
+83818.0|der Rum|noun|rum
+83818.001|die Rum|noun|rum
+83838.0|lichten|verb|to lighten
+83872.0|das Verbot|noun|ban
+83901.0|die Planke|noun|plank
+84012.0|kristallklar|adjective|crystal clear
+84035.0|der Neptun|noun|Neptune
+84114.001|das Alt|noun|alt beer
+84139.0|der Lala|noun|lala
+84251.0|folgend|adjective|following
+84259.0|droppen|verb|to drop
+84418.0|das Protoplasma|noun|protoplasm
+84419.0|aktivieren|verb|activate
+84467.0|die Hydra|noun|hydra
+84499.0|chronologisch|adjective|chronological
+84531.0|das Minus|noun|minus
+84532.0|subtrahieren|verb|to subtract
+84550.0|die Summe|noun|sum
+84554.0|decodieren|verb|to decode
+84556.0|die Chiffre|noun|cipher
+84558.0|transzendieren|verb|to transcend
+84563.0|inkludieren|verb|to include
+84578.0|kalibrieren|verb|to calibrate
+84582.0|die Abstraktion|noun|abstraction
+84703.0|das Molekül|noun|molecule
+84727.0|Drop|noun|drop
+84784.0|die Rolle|Substantiv|role
+84784.001|der Rolle|noun|the role
+84784.002|das Rolle|noun|the roll
+84803.0|die Thematik|noun|thematic
+84807.0|der Trostpreis|noun|consolation prize
+84824.0|verschieden|adjective|different
+84830.0|kürzlich|adverb|recently
+84834.0|die Meile|noun|mile
+84850.0|das P|noun|p
+84861.0|mehrere|adjective|several
+84878.0|Ex-Freundin|noun|ex-girlfriend
+84887.0|das Motiv|noun|motive
+84899.0|allerdings|adverb|however
+84940.0|die DNA|noun|DNA
+84947.0|der Titel|noun|title
+84963.0|fiktiv|adjective|fictional
+85003.0|der Kindertag|noun|children's day
+85006.0|unglücklich|adjective|unhappy
+85020.0|May|proper noun|May
+85059.0|thematisieren|verb|to thematize
+85107.0|das Video|noun|video
+85139.0|unbekannt|adjective|unknown
+85156.0|der Zuhörer|noun|listener
+85178.0|die Freundschaft|noun|friendship
+85183.0|das Echo|noun|echo
+85234.0|ausmachen|verb|turn off
+85249.0|das Bandmitglied|noun|band member
+85280.0|temporal|adjective|temporal
+85283.0|gebunden|adjective|bound
+85310.0|geliebt|adjective|loved
+85329.0|Liedform|noun|song form
+85360.0|das Release|noun|release
+85360.001|der Release|noun|release
+85360.002|die Release|noun|release
+85398.0|das K|noun|K
+85402.0|sowohl|conjunction|both
+85409.0|wiedersehen|verb|to see again
+85448.0|Sports|noun|sports
+85490.0|Abschiedsparty|noun|farewell party
+85498.0|der Curry|noun|curry
+85498.001|das Curry|noun|curry
+85500.0|Fabian|proper noun|Fabian
+85501.0|der Römer|noun|Roman
+85508.0|Montana|proper noun|Montana
+85604.0|miteinander|adverb|together
+85865.0|der Blödsinn|noun|nonsense
+85895.0|der Albatros|noun|albatross
+85895.001|die Albatros|noun|albatross
+86187.0|hungrig|adjective|hungry
+86404.0|die Basis|noun|basis
+86454.0|die Seeluft|noun|sea air
+86472.0|der Heiliger|noun|saint
+86562.0|gesetzlich|adjective|legal
+86661.0|elliptisch|adjective|elliptical
+86801.0|die Euphorie|noun|the euphoria
+86977.0|das Pausenbrot|noun|snack
+86992.0|der Schreck|noun|fright
+87048.0|das Fußballspiel|noun|soccer match
+87054.0|das Urlaubsziel|noun|holiday destination
+87136.0|das Gelee|noun|gel
+87136.001|der Gelee|noun|gel
+87196.0|St.|abbreviation|Saint
+87210.0|der Kompass|noun|compass
+87221.0|der Akteur|noun|actor
+87237.0|zerbrechlich|adjective|fragile
+87401.0|der Mieter|noun|tenant
+87478.0|der Springer|noun|jumper
+87481.0|der Berliner|noun|Berliner (person)
+87658.0|die Handbremse|noun|handbrake
+87662.0|enorm|adjective|enormous
+87706.0|jedermann|pronoun|everyone
+87736.0|das Katzenauge|noun|cat's eye
+87883.0|das Burnout|noun|burnout
+87927.0|Pisa|proper noun|Pisa
+87932.0|der Vatikan|proper noun|Vatican
+87942.0|der Eiffelturm|proper noun|Eiffel Tower
+87964.0|imponieren|verb|to impress
+88003.0|der Karneval|noun|carnival
+88080.0|ahnungslos|adjective|clueless
+88224.0|der Topf|noun|pot
+88240.0|die Zimmerpflanze|noun|houseplant
+88370.0|verkleinern|verb|to shrink
+88417.0|apropos|adverb|by the way
+88462.0|die Aura|noun|aura
+88506.0|widerstehen|verb|to resist
+88624.0|selbstsicher|adjective|confident
+88671.0|das Turnier|noun|tournament
+88674.0|die Anomalie|noun|anomaly
+88678.0|gravieren|verb|to engrave
+88685.0|skizzieren|verb|to sketch
+88698.0|rappen|verb|to rap
+88751.0|die Taktik|noun|the tactic
+88765.0|der Unsinn|noun|nonsense
+88785.0|bestimmen|verb|determine
+88814.0|betrügen|verb|to cheat
+88818.0|intonieren|verb|to intonate
+88877.0|der Punch|noun|punch
+88970.0|die Qualifikation|noun|qualification
+88991.0|die Alte|noun|old woman
+89019.0|kling|Noun|sound
+89027.0|relevant|adjective|relevant
+89110.0|der Fakt|noun|fact
+89110.001|das Fakt|noun|fact
+89120.0|saugen|verb|to suck
+89138.0|das Schema|noun|schema
+89203.0|das Risiko|noun|risk
+89337.0|reinschreiben|verb|to write in
+89381.0|verständlich|adjective|understandable
+89493.0|behindert|adjective|disabled
+89559.0|die Differenz|noun|difference
+89567.0|die Komplexität|noun|complexity
+89575.0|implizit|adjective|implicit
+89577.0|explizit|adjective|explicit
+89593.0|womit|adverb|with what
+89596.0|profilieren|verb|to profile
+89686.0|mystisch|adjective|mystical
+89788.0|die Relevanz|noun|relevance
+89874.0|der Instrumental|noun|instrumental
+89983.0|das Eigentum|noun|property
+90012.0|der Diener|noun|servant
+90021.0|der Sklave|noun|slave
+90026.0|versklaven|verb|to enslave
+90056.0|empfinden|verb|to feel
+90189.0|der Reichtum|Nomen|the wealth
+90249.0|der Aal|noun|eel
+90278.0|der Duft|noun|scent
+90414.0|die Traumfrau|noun|dream woman
+90453.0|der Wikinger|noun|Viking
+90458.0|Schlucken|verb|to swallow
+90485.0|leeren|verb|to empty
+90493.0|die Hexe|noun|witch
+90500.0|die Rast|noun|rest
+90524.0|die Tulpe|noun|tulip
+90540.0|der Liter|noun|liter
+90565.0|inhalieren|verb|to inhale
+90566.0|der Mönch|noun|monk
+90598.0|der Freudentanz|noun|dance of joy
+90648.0|die Muttermilch|noun|breast milk
+90666.0|fördern|verb|to promote
+90667.0|der Granit|noun|granite
+90670.0|der Narr|noun|the fool
+90810.0|verschlafen|verb|to oversleep
+90851.0|chemisch|adjective|chemical
+90882.0|frieren|verb|to freeze
+90905.0|Shot|noun|shot
+90982.0|trocken|adjective|dry
+91008.0|haschen|verb|to catch
+91013.0|waschen|verb|to wash
+91031.0|der Pogo|noun|pogo
+91047.0|der Bass|noun|the bass
+91123.0|Raver|noun|raver
+91136.0|tanken|verb|to tank
+91145.0|narzisstisch|adjective|narcissistic
+91196.0|elf|noun|elf
+91266.0|prekär|adjective|precarious
+91289.0|siegen|verb|to win
+91349.0|das Singen|noun|singing
+91387.0|marginal|adjective|marginal
+91399.0|die Veränderung|noun|change
+91484.0|Deutsch|noun|German
+91706.0|das Cover|noun|cover
+91802.0|das Comeback|noun|comeback
+91868.0|der Unmensch|noun|inhuman
+91879.0|blockieren|verb|to block
+91884.0|illegal|adjective|illegal
+91895.0|die Arroganz|noun|arrogance
+92062.0|der Follower|noun|follower
+92065.0|grenzenlos|adjective|boundless
+92079.0|Malibu|proper noun|Malibu
+92110.0|das Selfie|noun|selfie
+92123.0|anstrengend|Adjective|exhausting
+92159.0|der Demonstrant|noun|demonstrator
+92229.0|die Bierdose|noun|beer can
+92270.0|eilen|verb|to hurry
+92283.0|fürs|preposition|for the
+92339.0|Pommes|noun|fries
+92358.0|lebenslänglich|adjective|life-long
+92483.0|der Hafen|noun|port
+92506.0|das Nordlicht|noun|northern lights
+92530.0|der Leuchtturm|noun|lighthouse
+92568.0|psychisch|adjective|psychological
+92573.0|beibringen|verb|teach
+92610.0|auswählen|verb|to select
+92618.0|die Bourgeoisie|noun|bourgeoisie
+92664.0|die Sexszene|noun|sex scene
+92831.0|aufwachen|verb|to wake up
+92908.0|bam|interjection|bam
+92926.0|die Chaotin|noun|chaotic person (female)
+92940.0|die Gendarmerie|noun|gendarmerie
+92951.0|der Schmetterling|noun|butterfly
+92970.0|die Prinzessin|noun|princess
+92972.0|der Doc|noun|doctor
+92973.0|Martens|noun|Martens
+92998.0|die Odyssee|noun|odyssey
+93007.0|beschäftigt|adjective|busy
+93018.0|profitieren|verb|to profit
+93034.0|der Liebesbrief|noun|love letter
+93036.0|dominieren|verb|to dominate
+93041.0|der Molotowcocktail|noun|Molotov cocktail
+93106.0|gegenüber|preposition|opposite
+93120.0|der Kavalier|noun|cavalier
+93120.001|das Kavalier|noun|cavalier
+93204.0|vorstellen|verb|introduce
+93472.0|der Ornithologe|noun|ornithologist
+93479.0|Sexist|noun|sexist
+93615.0|regungslos|adjective|motionless
+93616.0|arrogant|adjective|arrogant
+93632.0|der Homo|noun|gay person
+93633.0|der Faber|noun|Faber
+93734.0|der Horizont|noun|horizon
+93780.0|Reset|noun|reset
+93869.0|d|noun|d
+93872.0|Si|noun|Si
+93880.0|l|noun|l
+94055.0|Ta|noun|Ta
+94122.0|das Rennrad|noun|racing bike
+94132.0|frittieren|verb|to deep fry
+94152.0|Boh|noun|Boh
+94192.0|der Händler|noun|merchant
+94264.0|der Steig|noun|climb
+94269.0|losfahren|verb|to drive off
+94273.0|hinfahren|verb|to drive to
+94294.0|das Terabyte|noun|terabyte
+94295.0|ungesehen|adjective|unseen
+94309.0|langweilen|verb|to bore
+94330.0|hingehen|verb|to go there
+94457.0|fantasieren|verb|to fantasize
+94485.0|durchfließen|verb|to flow through
+94497.0|die Furcht|noun|fear
+94598.0|untrennbar|adjective|inseparable
+94638.0|tödlich|adjective|deadly
+95073.0|die Neugier|noun|curiosity
+95087.0|der Bulldozer|noun|bulldozer
+95096.0|das Fundament|noun|foundation
+95114.0|der Vulkan|noun|volcano
+95118.0|die Kontinentalplatte|noun|continental plate
+95137.0|die Schokoladenglasur|noun|chocolate glaze
+95271.0|Alice|noun|Alice
+95339.0|der Sachs|noun|Sachs
+95342.0|das Poker|noun|poker
+95342.001|der Poker|noun|poker
+95407.0|neoliberal|adjective|neoliberal
+95414.0|der Weißer|noun|white one
+95421.0|Jörg|noun|Jörg
+95466.0|das Rettungsboot|noun|lifeboat
+95482.0|der Weltkrieg|noun|world war
+95485.0|der Jude|noun|Jew
+95509.0|das Krisenmanagement|noun|crisis management
+95552.0|homosexuell|adjective|homosexual
+95686.0|der Klimawandel|noun|climate change
+95701.0|die Hepatitis|noun|hepatitis
+95721.0|die Kommende|noun|coming
+95761.0|der Mascara|noun|mascara
+95761.001|die Mascara|noun|mascara
+95774.0|das Narrativ|noun|narrative
+95774.001|der Narrativ|noun|narrative
+95877.0|das Photoshop|noun|Photoshop
+95885.0|das Regime|noun|regime
+95933.0|der Diesel|noun|diesel
+96028.0|Indonesien|noun|Indonesia
+96042.0|allergisch|adjective|allergic
+96092.0|scrollen|verb|to scroll
+96158.0|die Erotik|noun|eroticism
+96180.0|das Schlafzimmer|noun|bedroom
+96206.0|das Tabu|noun|taboo
+96229.0|der Fingernagel|noun|fingernail
+96267.0|hilflos|adjective|helpless
+96359.0|absehen|verb|to foresee
+96374.0|nervös|adjective|nervous
+96701.0|der Artikel|noun|article
+96730.0|schocken|verb|to shock
+96737.0|das Darknet|noun|darknet
+96761.0|der Arbeitsmarkt|noun|job market
+96804.0|der Poet|noun|poet
+96817.0|verbal|adjective|verbal
+96909.0|das Trauma|noun|trauma
+96948.0|der Leiter|noun|ladder
+96948.001|die Leiter|noun|ladder
+96949.0|klicken|verb|to click
+96958.0|der Führerbunker|noun|Führerbunker
+96992.0|braten|verb|to roast
+97099.0|beeindrucken|verb|to impress
+97103.0|Kosten|noun|costs
+97111.0|der Beinbruch|noun|broken leg
+97520.0|zurückgeben|verb|to give back
+97542.0|vergleichbar|adjective|comparable
+97548.0|unerreichbar|adjective|unreachable
+97615.0|stetig|adjective|steady
+98046.0|er-|prefix|he-
+98155.0|knien|verb|to kneel
+98179.0|nee|interjection|nah
+98191.0|provozieren|verb|to provoke
+98244.0|das Stehen|noun|standing
+98329.0|das Ghetto|Nomen|the ghetto
+98329.001|der Ghetto|noun|ghetto
+98332.0|Olde|noun|Olde
+98341.0|ärgern|verb|annoy
+98408.0|annähen|verb|to sew on
+98514.0|das Todesurteil|noun|death sentence
+98526.0|theoretisch|adverb|theoretically
+98719.0|fatal|adjective|fatal
+98725.0|der Todesengel|noun|the angel of death
+98775.0|herum|adverb|around
+98815.0|todernst|adjective|dead serious
+98823.0|der Löffel|noun|spoon
+98856.0|das R|noun|R
+98862.0|das Prädikat|noun|predicate
+98872.0|akkurat|adjective|accurate
+98892.0|effektiv|adjective|effective
+98917.0|die Spezialität|noun|specialty
+99011.0|die Kerze|noun|the candle
+99049.0|abbiegen|verb|to turn
+99144.0|aushalten|verb|to endure
+99247.0|der Sonnenbrand|noun|sunburn
+99273.0|die Lehrerin|noun|teacher
+99281.0|das ABC|noun|alphabet
+99293.0|gebrochen|adjective|broken
+99308.0|Nina|noun|Nina
+99318.0|das Kiffen|noun|the weed-smoking
+99334.0|das Krankenhaus|Nomen|the hospital
+99379.0|das Semester|Nomen|the semester
+99383.0|der Abschluss|noun|the degree
+99390.0|arbeitslos|Adjektiv|unemployed
+99406.0|ungewaschen|adjective|unwashed
+99565.0|sportlich|adjective|athletic
+99590.0|unseriös|adjective|unreliable
+99615.0|die Hälfte|Noun|half
+99641.0|die Perfektion|noun|perfection
+99724.0|Aleppo|noun|Aleppo
+99832.0|der Pädagoge|noun|educator
+99860.0|der Monteur|noun|mechanic
+99917.0|nachmittags|adverb|in the afternoon
+99938.0|nütze|verb|use
+100019.0|der Ingenieur|noun|engineer
+100023.0|der Architekt|noun|architect
+100033.0|der Proktologe|Noun|proctologist
+100156.0|die Schere|noun|scissors
+100200.0|Economy|noun|economy
+100218.0|blamieren|verb|to embarrass
+100225.0|korrigieren|verb|to correct
+100271.0|der Delphin|noun|dolphin
+100305.0|die Königin|noun|the queen
+100417.0|die Republik|noun|republic
+100508.0|mittags|adverb|at noon
+100521.0|der Stadtpark|noun|city park
+100534.0|das Hormon|noun|hormone
+100616.0|der Kaugummi|noun|chewing gum
+100616.001|das Kaugummi|noun|chewing gum
+100617.0|kauen|verb|to chew
+100638.0|der Feed|noun|feed
+100677.0|das Tempo|noun|speed
+100677.001|der Tempo|noun|speed
+100713.0|der Thermostat|noun|the thermostat
+100807.0|die Petition|noun|petition
+100811.0|adoptieren|verb|to adopt
+100825.0|aussaugen|verb|to suck out
+100836.0|der Chihuahua|noun|the Chihuahua
+100836.001|die Chihuahua|noun|chihuahua
+100849.0|der Kosmetiksalon|noun|the beauty salon
+100855.0|der Flyer|noun|the flyer
+100859.0|das Restaurant|noun|the restaurant
+100866.0|der Briefkasten|noun|the mailbox
+101309.0|eisig|adjective|icy
+101361.0|der Zwitter|noun|hermaphrodite
+101537.0|einschlafen|verb|to fall asleep
+101636.0|die Tiefe|noun|the depth
+101643.0|pulsieren|verb|to pulse
+101700.0|donnern|verb|to thunder
+101741.0|importieren|verb|to import
+101764.0|der Islam|noun|the Islam
+101799.0|die Moschee|noun|the mosque
+101825.0|der Professor|noun|professor
+101827.0|die Currywurst|noun|curry sausage
+101828.0|Oettinger|Noun|Oettinger
+101942.0|die Fritte|noun|the fry
+102062.0|Tanja|noun|Tanja
+102065.0|der Steven|noun|stem
+102230.0|Katja|noun|Katja
+102255.0|der Beamer|noun|projector
+102293.0|letzt|adjective|last
+102354.0|blühend|adjective|flourishing
+102452.0|der Koffer|noun|suitcase
+102483.0|die Mahlzeit|noun|the meal
+102491.0|inklusive|adjective|inclusive
+102497.0|die Suppe|noun|the soup
+102509.0|das Maggi|noun|Maggi
+102547.0|der Türke|noun|Turk
+102556.0|das Letztes|noun|last one
+102563.0|der Basar|noun|the bazaar
+102652.0|der Benzinpreis|noun|the gas price
+102685.0|ausländisch|adjective|foreign
+102696.0|der Arbeitsplatz|noun|the workplace
+102701.0|Braune|noun|Brown
+102751.0|die Koalition|noun|coalition
+102881.0|der Spion|noun|spy
+102886.0|das Fernglas|noun|binoculars
+102971.0|der Busch|noun|the bush
+102982.0|der Pop|noun|the pop (music)
+103000.0|der Minirock|noun|the miniskirt
+103046.0|die E-Mail|noun|the email
+103046.001|das E-Mail|noun|the email
+103049.0|der Trojaner|noun|trojan
+103062.0|gesprächig|adjective|talkative
+103068.0|die Kehle|noun|throat
+103139.0|das Zitat|noun|quote
+103215.0|der Gartenzwerg|noun|garden gnome
+103222.0|der Postmann|noun|the postman
+103243.0|spannend|adjective|exciting
+103427.0|abschneiden|verb|to cut off
+103711.0|extraterrestrisch|adjective|extraterrestrial
+104463.0|exakt|adjective|exact
+104464.0|wissenschaftlich|adjective|scientific
+104465.0|die Methode|noun|method
+104468.0|fortschrittlich|adjective|progressive
+104485.0|die Intuition|noun|intuition
+104489.0|die Organisation|noun|organization
+104492.0|die Konzentration|noun|concentration
+104493.0|das Planen|noun|planning
+104516.0|der Okkultist|noun|occultist
+104532.0|der Taro|noun|tarot
+104541.0|die Deduktion|noun|deduction
+104550.0|arktisch|adjective|Arctic
+104568.0|die Astrologie|noun|astrology
+104570.0|die Alchemie|noun|alchemy
+104705.0|aufstehen|verb|to get up
+104948.0|das Schreien|noun|screaming
+104993.0|die Serie|noun|series
+105016.0|exzessiv|adjective|excessive
+105043.0|das Sonnenlicht|noun|sunlight
+105046.0|die Lethargie|noun|lethargy
+105081.0|magnetisch|adjective|magnetic
+105124.0|der Burrito|noun|burrito
+105216.0|die Amnesie|noun|amnesia
+105217.0|das Fiasko|noun|the fiasco
+105235.0|normalerweise|adverb|normally
+105299.0|massiv|adjective|massive
+105300.0|die Aphasie|noun|the aphasia
+105376.0|die Attitüde|noun|attitude
+105523.0|der Selbsthass|noun|self-hatred
+105527.0|projizieren|verb|to project
+105558.0|bedeutend|adjective|significant
+105573.0|Amerika|noun|America
+105596.0|der Psychopath|noun|psychopath
+105621.0|Werner|proper noun|Werner
+105724.0|die Praxis|noun|the practice
+105847.0|das T|noun|T
+105894.0|der Fluch|noun|curse
+105907.0|Chorus|noun|chorus
+105920.0|die Hysterie|noun|hysteria
+105966.0|ums|preposition|around (in context: a time or place)
+106033.0|der Cheerleader|noun|cheerleader
+106050.0|militärisch|adjective|military
+106053.0|der Irak|noun|Iraq
+106067.0|dies|pronoun|this
+106073.0|der Diktator|noun|dictator
+106085.0|der Besen|noun|broom
+106087.0|arabisch|adjective|Arabic
+106099.0|magisch|adjective|magical
+106163.0|die Belladonna|noun|belladonna
+106369.0|die Empathie|noun|empathy
+106375.0|das Bataillon|noun|battalion
+106376.0|die Frische|noun|the freshness
+106385.0|kreativ|adjective|creative
+106404.0|der Profit|noun|the profit
+106415.0|korrumpieren|verb|to corrupt
+106430.0|ausdrücken|verb|to express
+106613.0|vermehren|verb|to increase
+106636.0|das Liederbuch|noun|songbook
+106648.0|trojanisch|adjective|Trojan
+106652.0|biometrisch|adjective|biometric
+106666.0|das Händchen|noun|little hand
+106673.0|sharen|verb|to share
+106720.0|das Himmelslicht|noun|heavenly light
+106889.0|wessen|pronoun|whose
+106890.0|Kuwait|noun|Kuwait
+106894.0|as|preposition|as
+106905.0|der August|noun|August
+106923.0|die League|noun|league
+106979.0|der Mohr|noun|Moor (historical term for person of North African descent)
+106979.001|das Mohr|noun|Moor (historical term for person of North African descent)
+106994.0|Ludwig|proper noun|Ludwig
+106998.0|das Fähnchen|noun|little flag
+107015.0|Wilhelm|proper noun|Wilhelm
+107039.0|Nikolas|proper noun|Nikolas
+107115.0|Niklas|proper noun|Niklas
+107136.0|der Rock|noun|skirt
+107417.0|der Plot|noun|plot
+107417.001|das Plot|noun|plot
+107468.0|autoritär|adjective|authoritarian
+107469.0|nationalistisch|adjective|nationalistic
+107484.0|der Reiter|noun|rider
+107484.001|die Reiter|noun|riders
+107505.0|das Profilbild|noun|the profile picture
+107524.0|xenophob|adjective|xenophobic
+107529.0|Klare|adjective|clear
+107555.0|vernünftig|adjective|reasonable
+107609.0|teutonisch|adjective|Teutonic
+107610.0|die Expertise|noun|expertise
+107631.0|der IQ-Test|noun|IQ test
+107652.0|multikulturell|adjective|multicultural
+107654.0|modest|adjective|modest
+107697.0|lehrbar|adjective|teachable
+107703.0|der Vandale|noun|vandal
+107722.0|News|noun|news
+107728.0|der Einfluss|noun|the influence
+107758.0|visionär|adjective|visionary
+107782.0|kategorisch|adjective|categorical
+107783.0|imperativ|adjective|imperative
+107800.0|recyclen|verb|to recycle
+107817.0|europäisch|adjective|European
+107819.0|die Einheit|noun|unit
+107823.0|die Vielfalt|noun|diversity
+107825.0|selbstlos|adjective|selfless
+107959.0|die Luftmatratze|noun|air mattress
+108037.0|Mexiko|proper noun|Mexico
+108046.0|die Luftpumpe|noun|air pump
+108061.0|Martin|proper noun|Martin
+108247.0|der November|noun|November
+108307.0|tough|adjective|tough
+108346.0|das Kebab|noun|the kebab
+108346.0|privilegiert|adjective|privileged
+108346.001|der Kebab|noun|kebab
+108348.0|das Müsli|noun|the muesli
+108348.001|der Müsli|noun|granola
+108348.002|die Müsli|noun, plural|mueslis
+108350.0|der Sound|noun|sound
+108384.0|liberal|adjective|liberal
+108442.0|Trust|Noun|trust
+108458.0|best|adjective|best
+108500.0|das Grundgesetz|noun|constitution
+108520.0|human|noun|human
+108549.0|Sandal|noun|sandal
+108568.0|der Look|noun|look
+108574.0|die Bundesrepublik|noun|Federal Republic
+108593.0|stupid|Adjective|stupid
+108623.0|He|interjection|hey
+108670.0|die Steinzeit|noun|Stone Age
+108766.0|die Dankbarkeit|noun|gratitude
+108770.0|das Privileg|noun|privilege
+108813.0|der Geigerzähler|noun|Geiger counter
+108814.0|das Faxgerät|noun|fax machine
+108829.0|das Seismometer|noun|seismometer
+108830.0|das Barometer|noun|barometer
+108830.001|der Barometer|noun|barometer
+108831.0|der Tachometer|noun|tachometer
+108831.001|das Tachometer|noun|tachometer
+108832.0|das Thermometer|noun|thermometer
+108832.001|der Thermometer|noun|thermometer
+108934.0|die Kalaschnikow|noun|Kalashnikov
+108935.0|Colt|noun|Colt (brand of firearm)
+108936.0|das Bajonett|noun|bayonet
+109046.0|der Eigentümer|noun|owner
+109066.0|inner|adjective|inner
+109094.0|Japan|noun|Japan
+109166.0|der Faktor|noun|factor
+109184.0|das Lob|noun|praise
+109184.001|der Lob|noun|praise
+109193.0|der Teamgeist|noun|team spirit
+109205.0|die Bescheidenheit|Noun|modesty
+109240.0|sozial|adjective|social
+109241.0|engagieren|verb|engage
+109271.0|die Passion|noun|passion
+109629.0|der General|noun|the general
+109673.0|Panzerstahl|noun|armored steel
+109747.0|die Opferzahl|noun|death toll
+110088.0|schmal|adjective|narrow
+110095.0|der Trieb|noun|the drive
+110110.0|kriechen|verb|crawl
+110206.0|der Verrat|noun|the betrayal
+110393.0|der Reis|noun|rice
+110393.001|das Reis|noun|rice
+110478.0|der Kaktus|noun|cactus
+110532.0|der Schöpfer|noun|creator
+110581.0|das Konstrukt|noun|construct
+110587.0|absurd|adjective|absurd
+110869.0|verschließen|verb|close
+110904.0|das Töten|noun|killing
+110937.0|oral|adjective|oral
+110938.0|der Schimpanse|noun|chimpanzee
+111028.0|Volksdemokratie|noun|people's democracy
+111108.0|brüderlich|adjective|brotherly
+111120.0|kopulieren|verb|to copulate
+111222.0|bessern|verb|to improve
+111238.0|verbessern|verb|to improve
+111526.0|der Anus|noun|anus
+111569.0|biologisch|adjective|biological
+111570.0|das Argument|noun|the argument
+111749.0|klassisch|adjective|classic
+111789.0|dichten|verb|to compose (poetry)
+111803.0|opfern|verb|to sacrifice
+111822.0|Proberaum|noun|practice room
+111910.0|die Anwesenheit|noun|presence
+111935.0|viertel|noun|quarter
+112089.0|der Knochen|noun|bone
+112274.0|die Jagd|noun|hunt
+112335.0|Härter|adjective|harder
+112515.0|der Scherz|noun|joke
+112618.0|das Kochen|noun|cooking
+112621.0|das Fett|Noun|fat
+112715.0|auswerfen|verb|to throw out
+112782.0|der Klassismus|noun|classism
+112791.0|die Diskriminierung|noun|discrimination
+112792.0|die Struktur|noun|structure
+112843.0|der Morgenkaffee|noun|morning coffee
+112868.0|der Algorithmus|noun|algorithm
+112898.0|Lars|Substantiv|Lars
+112912.0|die Villa|noun|villa
+113016.0|der Sexismus|noun|sexism
+113050.0|bereuen|verb|to regret
+113261.0|der Menschenfresser|noun|the cannibal
+113300.0|vegetarisch|adjective|vegetarian
+113415.0|das Tennis|noun|tennis
+113462.0|bummeln|verb|to stroll
+113529.0|der Matrose|noun|sailor
+113600.0|jawohl|interjection|yes
+113621.0|teilnehmen|verb|to participate
+113636.0|die Enge|noun|narrowness
+113638.0|Jagen|noun|hunting
+113664.0|nirgends|adverb|nowhere
+113713.0|die Großstadt|noun|the big city
+113825.0|so viel|adverb|so much
+113995.0|der Gartenzaun|noun|garden fence
+114006.0|besprechen|verb|discuss
+114013.0|das Präservativ|noun|condom
+114015.0|der Wortschatz|noun|vocabulary
+114086.0|starten|verb|to start
+114130.0|sonntags|adverb|on Sundays
+114132.0|der Zombie|noun|zombie
+114155.0|immun|adjective|immune
+114217.0|der Pythagoras|noun|Pythagoras
+114294.0|die Kriegszeit|noun|wartime
+114313.0|der Fremder|noun|stranger
+114329.0|das Flüchtlingsheim|noun|refugee shelter
+114460.0|Playliste|noun|playlist
+114540.0|die Asoziale|noun|antisocial person
+114734.0|die Andromeda|noun|Andromeda
+114846.0|der Komfort|noun|comfort
+114984.0|beantworten|verb|to answer
+114997.0|die Tangente|noun|tangent
+115006.0|Erdmittelpunkt|noun|center of the Earth
+115010.0|Erdradius|noun|radius of the Earth
+115016.0|der Radius|noun|radius
+115039.0|b|letter|b
+115046.0|c|letter|c
+115067.0|die Wurzel|noun|root
+115164.0|der Leugner|noun|denier
+115166.0|der Fatalist|noun|fatalist
+115225.0|begrenzt|adjective|limited
+115236.0|trivial|adjective|trivial
+115337.0|vernichten|verb|to destroy
+115350.0|eingraben|verb|to bury
+115416.0|die Obdachlose|noun|homeless woman
+115425.0|der Ignorant|noun|ignorant person
+115547.0|beruflich|adjective|professional
+115720.0|ander|adjective|other
+115767.0|eindeutig|adjective|clear
+115903.0|die Cajón|noun|Cajón (a type of percussion instrument)
+115917.0|erweitern|verb|to expand
+115939.0|die Lokalzeitung|noun|local newspaper
+115951.0|Drummer|noun|drummer
+115974.001|die Gig|noun|gig (performance)
+115974.002|das Gig|noun|gig (performance)
+115976.0|der Kölner|noun|person from Cologne
+115977.0|das Stadtarchiv|noun|city archive
+116002.0|die Bassistin|noun|female bassist
+116141.0|der Sänger|noun|singer
+116162.0|Max|noun (name)|Max
+116164.0|Jonas|noun|Jonas
+116194.0|das Schulgebäude|noun|school building
+116201.0|die Lena|noun|Lena (name)
+116206.0|Grönland|noun|Greenland
+116210.0|die Kriminalität|noun|crime
+116254.0|die Kälte|noun|cold
+116274.0|öfter|adverb|more often
+116278.0|aussterben|verb|to become extinct
+116341.0|der Student|noun|student
+116345.0|chatten|verb|to chat
+116523.0|das Flugzeug|noun|airplane
+116750.0|die Relativitätstheorie|noun|theory of relativity
+116786.0|Flugobjekt|noun|flying object
+116833.0|aussteigen|verb|to get off
+116852.0|naiv|adjective|naive
+116959.0|der Junior|noun|junior
+116963.0|der Fußball|noun|soccer ball
+116968.0|das Paper|noun|paper
+117080.0|Simon|noun|Simon (name)
+117081.0|der Freitag|noun|Friday
+117131.0|der Ballon|noun|balloon
+117227.0|die Hündin|noun|female dog
+117233.0|das Fernsehstudio|noun|TV studio
+117242.0|der Sandmann|noun|the sandman
+117318.0|das Gähnen|noun|yawning
+117334.0|die Dämmerung|noun|dawn
+117444.0|Windows|noun|Windows (operating system)
+117550.0|das Massengrab|noun|mass grave
+117557.0|der Nationalismus|noun|nationalism
+117569.0|irgendwoher|adverb|from somewhere
+117581.0|ergänzen|verb|to complement
+117601.0|Erdenbewohner|noun|inhabitant of Earth
+117930.0|Vidi|noun|Vidi (Latin word for 'I saw')
+118055.0|Mu|noun|Mu (Greek letter)
+118057.0|Al|noun|Al
+118182.0|die Kleine|noun|the little one
+118191.0|der Honig|noun|the honey
+118214.0|unbezahlbar|adjective|priceless
+118337.0|die Flexibilität|noun|flexibility
+118358.0|der Wiener|noun|person from Vienna
+118358.001|die Wiener|noun|person from Vienna
+118709.0|pflücken|verb|to pick
+118912.0|die Wespe|noun|wasp
+118923.0|der Verbrauch|noun|consumption
+118939.0|das Baden|noun|bathing
+118951.0|der Schaden|noun|damage
+119058.0|die Recherche|noun|research
+119107.0|organisieren|verb|organize
+119189.0|die Arbeitswelt|noun|working world
+119344.0|wegbringen|verb|to take away
+119345.0|das Aspirin|noun|aspirin
+119348.0|hysterisch|adjective|hysterical
+119354.0|Hausputz|noun|house cleaning
+119370.0|das Make-up|noun|makeup
+119394.0|heftig|adjective|intense
+119399.0|ungeplant|adjective|unplanned
+119413.0|problemlos|adjective|without problems
+119422.0|die Schlaftablette|noun|sleeping pill
+119532.0|ökonomisch|adjective|economical
+119548.0|offiziell|adjective|official
+119584.0|die Banane|noun|banana
+119590.0|der Obstsalat|noun|fruit salad
+119640.0|organisch|adjective|organic
+119735.0|das Ausland|noun|abroad
+119737.0|die DDR|noun|GDR (German Democratic Republic)
+119758.0|Sarah|noun|Sarah (name)
+119762.0|die Schulzeit|noun|school time
+119788.0|heiraten|verb|to marry
+119912.0|der Puls|noun|pulse
+119912.001|die Puls|noun|pulse
+119923.0|der Vollmond|noun|full moon
+119927.0|matt|adjective|dull
+119932.0|die Reklame|noun|advertisement
+119937.0|hygienisch|adjective|hygienic
+119977.0|die Terrasse|noun|terrace
+120106.0|gemacht|adjective|made
+120110.0|konstruieren|verb|to construct
+120122.0|desinteressiert|adjective|disinterested
+120198.0|entwickeln|verb|to develop
+120206.0|der Zenit|noun|zenith
+120269.0|die Zerstörung|noun|destruction
+120318.0|verloren|adjective|lost
+120349.0|formulieren|verb|to formulate
+120381.0|genügend|adjective|sufficient
+120382.0|das Kerosin|noun|kerosene
+120385.0|der Raketenstart|noun|rocket launch
+120413.0|die Quarantäne|noun|quarantine
+120415.0|der Experte|noun|expert
+120446.0|regulieren|verb|to regulate
+120459.0|die Elite|noun|elite
+120509.0|der Countdown|noun|countdown
+120509.001|das Countdown|noun|countdown
+120524.0|privilegieren|verb|to privilege
+120712.0|literweise|adverb|by the liter
+120901.0|das Kätzchen|noun|kitten
+121084.0|Culpa|noun|fault (Latin)
+121086.0|verte|noun|verte (uncertain term)
+121201.0|Dos|noun|Dos (Spanish word for 'two')
+121271.0|turnen|verb|to do gymnastics
+121280.0|das Magazin|noun|magazine
+121295.0|der Herrgott|noun|the Lord (God)
+121298.0|strafen|verb|to punish
+121350.0|meiner|pronoun|mine
+121662.0|messen|verb|to measure
+121725.0|der Marathon|noun|marathon
+121768.0|die Kondition|noun|condition
+121773.0|weiten|verb|to extend
+121778.0|verbreitern|verb|to widen
+121831.0|überdehnen|verb|to overstretch
+121891.0|das Instrument|noun|instrument
+122104.0|der Akzent|noun|accent
+122171.0|flirten|verb|to flirt
+122351.0|die Süße|noun|sweetness
+122499.0|smoken|verb|to smoke
+122517.0|einfrieren|verb|to freeze
+122866.0|der Gameboy|noun|Gameboy
+123048.0|das Gelaber|noun|babble, nonsense
+123101.0|das Oder|noun|or (used in alternatives)
+123101.001|die Oder|noun|Oder (river in Europe)
+123110.0|ertrinken|verb|to drown
+123134.0|der Vorschlag|noun|suggestion
+123245.0|der Haifisch|noun|shark
+123249.0|zusammenhalten|verb|to hold together
+123254.0|der Rapstar|noun|rap star
+123257.0|zueinander|adverb|to each other
+123276.0|Fanbase|noun|fanbase
+123302.0|das Curling|noun|curling
+123326.0|der Montag|noun|Monday
+123337.0|Marvin|noun|Marvin (name)
+123346.0|live|adjective|live (in real time)
+123370.0|hihi|interjection|heehee (laughter)
+123387.0|salzig|adjective|salty
+123389.0|das Bridge|noun|bridge
+123389.0|das Interview|noun|interview
+123403.0|schadlos|adjective|unharmed
+123405.0|Kolumbus|noun|Columbus (historical figure)
+123439.0|das Like|noun|like
+123439.001|der Like|noun|the like
+123500.0|das Weed|noun|weed (slang for marijuana)
+123536.0|der Dämon|noun|demon
+123542.0|das Studio|noun|studio
+123570.0|das Gramm|noun|gram
+123607.0|Gütersloh|noun|Gütersloh (town in Germany)
+123620.0|das Radar|noun|radar
+123620.001|der Radar|noun|radar
+123627.0|Walter|noun|Walter (name)
+123733.0|prächtig|adjective|magnificent
+123753.0|Tschechien|noun|Czech Republic
+123776.0|der Elektroschock|noun|electroshock
+123840.0|Südafrika|noun|South Africa
+123868.0|ducken|verb|to duck, to crouch
+123931.0|besetzen|verb|to occupy
+123945.0|dry|adjective|dry
+123952.0|ober|adjective|upper
+124120.0|das Abendlicht|noun|evening light
+124455.0|die Gabel|noun|fork
+124469.0|die Nutella|noun|Nutella
+124469.001|das Nutella|noun|Nutella
+124469.002|der Nutella|noun|Nutella
+124486.0|die Wurstscheibe|noun|slice of sausage
+124508.0|der Dezember|noun|December
+124510.0|das Türchen|noun|small door (advent calendar)
+124595.0|wegschmeißen|verb|to throw away
+124604.0|spülen|verb|to rinse
+124657.0|das Morgenlicht|noun|morning light
+124668.0|die Heimkehr|noun|homecoming
+124777.0|die Taverne|noun|tavern
+124806.0|der Rächer|noun|avenger
+124826.0|Helfe|noun|help (archaic)
+124855.0|mütterlich|adjective|motherly
+124858.0|die Heldentat|noun|heroic deed
+124907.0|der Orang-Utan|noun|orangutan
+124959.0|das Heldentum|noun|heroism
+124967.0|das Kryptonit|noun|kryptonite
+125045.0|radioaktiv|adjective|radioactive
+125077.0|der Akkord|noun|chord
+125178.0|das Kichern|noun|giggle
+125222.0|der Schotte|noun|Scot
+125222.001|die Schotte|noun|Scot
+125230.0|die Alarmglocke|noun|alarm bell
+125257.0|der Kapitän|noun|captain
+125262.0|der Maschinist|noun|machinist
+125277.0|SOS|noun|SOS
+125321.0|trocknen|verb|to dry
+125335.0|der Geldwäscher|noun|money launderer
+125354.0|die Bananenrepublik|noun|banana republic
+125374.0|schmücken|verb|to decorate
+125420.0|arrangieren|verb|to arrange
+125424.0|das Ideal|noun|ideal
+125442.0|der Gnom|noun|gnome
+125470.0|narkotisieren|verb|to narcotize
+125484.0|präsentieren|verb|to present
+125592.0|dealen|verb|to deal
+125737.0|die Karawane|noun|caravan
+126054.0|das Rendezvous|noun|rendezvous
+126121.0|neunzig|adjective|ninety
+126126.0|der Kilometer|noun|kilometer
+126126.001|das Kilometer|noun|kilometer
+126158.0|das Zivil|noun|civilian
+126226.0|rausfahren|verb|to drive out
+126229.0|die Abfahrt|noun|departure
+126242.0|irgendwelch|adjective|any
+126439.0|Loot|noun|loot
+126442.0|der Ping|noun|ping
+126444.0|Zukunftsplanung|noun|future planning
+126485.0|die Elfe|noun|elf
+126509.0|der Chip|noun|chip
+126672.0|die Mechanik|noun|mechanics
+126700.0|explosiv|adjective|explosive
+126750.0|das Luftschiff|noun|airship
+126765.0|der Tentakel|noun|tentacle
+126765.001|das Tentakel|noun|tentacle
+126767.0|die Harpune|noun|harpoon
+126792.0|das Projektil|noun|projectile
+126810.0|die Wolkenfront|noun|cloud front
+126860.0|galvanisch|adjective|galvanic
+126891.0|die Witwe|noun|widow
+126990.0|simultan|adjective|simultaneous
+127374.0|rumhängen|verb|to hang around
+127439.0|die Rehaklinik|noun|rehabilitation clinic
+127463.0|die Patrone|noun|cartridge
+127486.0|Bruno|noun|Bruno
+127589.0|Telephon|noun|telephone
+127611.0|das Mäuschen|noun|little mouse
+127654.0|Helmut|noun|Helmut
+127775.0|der Eisbär|noun|polar bear
+127811.0|der Nagel|noun|nail
+128120.0|das Kinderspiel|noun|child's play
+128305.0|der Musikant|noun|musician
+128314.0|anspruchsvoll|adjective|demanding
+128404.0|der Aufwand|noun|effort
+128406.0|der Effekt|noun|effect
+128433.0|blutig|adjective|bloody
+128477.0|feminin|adjective|feminine
+128608.0|freund|noun|friend
+128614.0|zurückgehen|verb|to go back
+128716.0|monoton|adjective|monotonous
+128726.0|die Meditation|noun|meditation
+128751.0|die Saite|noun|string (instrument)
+128791.0|der Funke|noun|spark
+128791.001|die Funke|noun|spark
+128814.0|missbrauchen|verb|to abuse
+128982.0|der Soundtrack|noun|soundtrack
+128984.0|die Weltrevolution|noun|world revolution
+129113.0|übrig|adjective|leftover
+129161.0|voller|adjective|full of
+129177.0|die Hautcreme|noun|skin cream
+129197.0|der Bandname|noun|band name
+129226.0|der Barde|noun|bard
+129226.001|die Barde|noun|bard
+129253.0|improvisieren|verb|to improvise
+129258.0|Kamen|noun|Kamen (place name)
+129315.0|ungeduldig|adjective|impatient
+129323.0|schuldig|adjective|guilty
+129426.0|die Silhouette|noun|silhouette
+129451.0|die Totenstille|noun|deathly silence
+129554.0|der Glamour|noun|glamour
+129554.001|das Glamour|noun|glamour
+129793.0|das Business|noun|business
+129811.0|die Wortwahl|noun|word choice
+129820.0|kindlich|adjective|childish
+129821.0|die Rhetorik|noun|rhetoric
+129912.0|die Krawatte|noun|tie
+129955.0|die Rebellion|noun|rebellion
+129964.0|die Tasse|noun|cup
+130001.0|das Dynamit|noun|dynamite
+130045.0|die Coda|noun|coda
+130085.0|der Haushalt|noun|household
+130088.0|revoltieren|verb|to revolt
+130191.0|verzaubern|verb|to enchant
+130352.0|hasten|verb|to hurry
+130368.0|das Steak|noun|steak
+130371.0|der Carnivore|noun|carnivore
+130371.001|die Carnivore|noun|carnivore
+130428.0|Bartöl|noun|beard oil
+130456.0|minutenlang|adjective|for minutes
+130483.0|die Pflege|noun|care
+130733.0|die Distanz|noun|distance
+131024.0|der Gong|noun|gong
+131024.001|das Gong|noun|gong
+131120.0|Gunther|noun|Gunther
+131126.0|Paul|noun|Paul
+131140.0|halbtot|adjective|half-dead
+131158.0|Hildegard|noun|Hildegard
+131164.0|der Fritz|noun|Fritz
+131176.0|Torben|noun|Torben
+131182.0|Petra|noun|Petra
+131185.0|das Büffet|noun|buffet
+131189.0|Hannes|noun|Hannes
+131384.0|der Sozialismus|noun|socialism
+131468.0|der Egoismus|noun|egoism
+131471.0|der Kommunismus|noun|communism
+131698.0|das S|noun|S
+131853.0|Wolfgang|noun|Wolfgang
+131966.0|Udo|noun|Udo
+131967.0|Kier|noun|Kier
+132582.0|bedroht|adjective|threatened
+132606.0|die Baklava|noun|baklava
+132651.0|die Tour|noun|tour
+132695.0|konsequent|adjective|consistent
+132754.0|das Bike|noun|bike
+132971.0|monumental|adjective|monumental
+132978.0|John|noun|John
+133047.0|die Kaffeetasse|noun|coffee cup
+133068.0|privat|adjective|private
+133102.0|die Wartezeit|noun|waiting time
+133111.0|pscht|interjection|shh
+133118.0|hm|interjection|hmm
+133172.0|der Loop|noun|loop
+133237.0|das Denken|noun|thinking
+133277.0|das Mausoleum|noun|mausoleum
+133299.0|der Cyborg|noun|cyborg
+133408.0|das Orchester|noun|orchestra
+133469.0|überzeugen|verb|to convince
+133560.0|das Festival|noun|festival
+133632.0|der Mainstream|noun|mainstream
+133759.0|der Bassist|noun|bassist
+133941.0|das Pentagramm|noun|pentagram
+133944.0|der Reisepass|noun|passport
+133983.0|abbeißen|verb|to bite off
+134075.0|der Erfinder|noun|inventor
+134148.0|der Musikstudent|noun|music student
+134179.0|die Sinfonie|noun|symphony
+134210.0|die Komposition|noun|composition
+134271.0|das Podium|noun|podium
+134483.0|der Prank|noun|prank
+134495.0|die Loyalität|noun|loyalty
+134507.0|der Säugling|noun|infant
+134525.0|die Gemeinschaft|noun|community
+134584.0|die Stärke|noun|strength
+134593.0|der Gewinn|noun|profit
+134676.0|Island|noun|Iceland
+134712.0|das Konsumgut|noun|consumer good
+134739.0|Thailand|noun|Thailand
+134790.0|die Schreibmaschine|noun|typewriter
+134802.0|Tschüss|interjection|bye
+134815.0|twittern|verb|to tweet
+134932.0|das Metall|noun|metal
+134944.0|aufsteigen|verb|to rise
+134950.0|der Teenager|noun|teenager
+134995.0|der Kratzer|noun|scratch
+135096.0|Mc|noun|Mc
+135113.0|heimschicken|verb|to send home
+135139.0|zensieren|verb|to censor
+135147.0|die Parade|noun|parade
+135162.0|der Automat|noun|vending machine
+135198.0|der Broker|noun|broker
+135389.0|das Weihnachtsgeschenk|noun|Christmas gift
+135400.0|die Kündigung|noun|termination
+135542.0|der Inspektor|noun|inspector
+135550.0|die Arena|noun|arena
+135555.0|der Nationalsport|noun|national sport
+135566.0|der Tequila|noun|tequila
+135568.0|subtropisch|adjective|subtropical
+135578.0|das Nikotin|noun|nicotine
+135606.0|der Pizzalieferant|noun|pizza delivery person
+135680.0|interstellar|adjective|interstellar
+135736.0|die Internetsprache|noun|internet language
+135788.0|das Saxophon|noun|saxophone
+135804.0|die Astronomie|noun|astronomy
+135860.0|Regenrohr|noun|downspout
+135871.0|das Pub|noun|pub
+135871.001|der Pub|noun|pub
+135893.0|der Tank|noun|tank
+135895.0|Per|noun|Per (name)
+136004.0|die Aussicht|noun|view
+136023.0|der Hacker|noun|hacker
+136025.0|Chicago|noun|Chicago
+136026.0|missen|verb|to miss
+136034.0|der Krieger|noun|warrior
+136059.0|der Barcode|noun|barcode
+136080.0|der Prototyp|noun|prototype
+136096.0|die Bruderschaft|noun|brotherhood
+136104.0|Sibirien|noun|Siberia
+136114.0|der Cousin|noun|cousin
+136198.0|der Fahrer|noun|driver
