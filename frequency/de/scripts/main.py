@@ -8,6 +8,7 @@ import importlib
 import pandas as pd
 from IPython.display import display
 import spacy
+from iso639 import Lang
 
 os.chdir(f'{os.environ["ROOT_DIR"]}/frequency/de')
 nlp = spacy.load("de_dep_news_trf")
@@ -20,7 +21,6 @@ importlib.reload(lib)
 
 from custom.de.script.lib import (
     remove_separators_in_file,
-    leq,
     update_deck_raw,
     write_deck_raw,
     ApiRequestsArgs,
@@ -32,7 +32,8 @@ from custom.de.script.lib import (
     ConstGenerationSettings,
     ConstPromptSettings,
     ConstSentenceLength,
-    ARTICLES_FULL,
+    ConstLanguageSettings,
+    ConstColumnNames,
 )
 
 
@@ -100,6 +101,11 @@ API_REQUESTS_ARGS = ApiRequestsArgs(
 
 PROMPT_SETTINGS = ConstPromptSettings(has_part_of_speech=False, has_word_en=False)
 
+LANGUAGE_SETTINGS = ConstLanguageSettings(lang_1=Lang("German"), lang_2=Lang("English"))
+
+COLUMN_NAMES = ConstColumnNames.from_language_settings(LANGUAGE_SETTINGS)
+
+
 CONFIG = ConstConfig(
     rare_words=RARE_WORDS,
     generation_settings=GENERATION_SETTINGS,
@@ -110,6 +116,8 @@ CONFIG = ConstConfig(
     nlp=nlp,
     api_requests_args=API_REQUESTS_ARGS,
     lemmatized_sep=LEMMATIZED_SEP,
+    column_names=COLUMN_NAMES,
+    language_settings=LANGUAGE_SETTINGS,
 )
 
 
@@ -136,6 +144,51 @@ def normalize_verb(x: pd.DataFrame):
         and not word_en.startswith("to ")
         else word_en
     )
+
+
+def cmp(x, y):
+    if x < y:
+        return -1
+    elif x > y:
+        return 1
+    else:
+        return 0
+
+
+def leq(x, y):
+
+    if int(x) != int(y):
+        return cmp(x, y)
+
+    x = round(x % 1, 6)
+    y = round(y % 1, 6)
+
+    if x == 0 or y == 0:
+        return cmp(x, y)
+
+    while x < 1 and y < 1:
+        x *= 10
+        y *= 10
+
+    if x >= 1 and y >= 1:
+        return cmp(x, y)
+    else:
+        return cmp(y, x)
+
+
+def leq_test():
+    statements = [
+        not leq(2.003, 1.002),
+        leq(2.001, 2.002),
+        leq(2.001, 2.001),
+        not leq(2.001, 2.0002),
+        not leq(2.00132, 2.00130),
+        leq(2.00132, 2.00132),
+        leq(2.00132, 2.00135),
+    ]
+
+    for i in statements:
+        assert i
 
 
 def add_deck_rows_for_alternative_translations():
@@ -296,12 +349,12 @@ def copy_deck_raw_to_deck():
     write_deck(deck=deck)
 
 
-async def generate_deck_data():
+async def generate_deck_data(config: type[ConstConfig]):
     print("Starting update")
 
-    copy_deck_to_deck_raw(config=CONFIG, deck_path=PATH_ALL.deck)
+    copy_deck_to_deck_raw(config=config, deck_path=PATH_ALL.deck)
 
-    await update_deck_raw(config=CONFIG)
+    await update_deck_raw(config=config)
 
     copy_deck_raw_to_deck()
 

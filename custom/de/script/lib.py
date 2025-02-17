@@ -3,28 +3,24 @@ from io import StringIO
 import os
 import json
 import math
+from enum import StrEnum
+from dataclasses import dataclass
+from typing import Optional, Callable, Awaitable, List
+import logging
 import pandas as pd
 import spacy
-from enum import StrEnum
+from iso639 import Lang
 from custom.de.script.api_request_parallel_processor import (
     process_api_requests_from_file,
 )
-from dataclasses import dataclass
-from typing import Optional, Callable, Awaitable
-import logging
 from IPython.display import display
+from pydantic import BaseModel, Extra, ValidationError
 
 OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
 
 ARTICLES_SHORT = ["f", "m", "n"]
 ARTICLES_FULL = ["die", "der", "das"]
 ARTICLES_DICT = dict(zip(ARTICLES_SHORT, ARTICLES_FULL))
-DEWIKI_ARTICLES_SEP = ";"
-
-data_path = Path(f'{os.environ["ROOT_DIR"]}/custom/de/data')
-
-DEWIKI_NOUN_ARTICLES = pd.read_csv(data_path / "dewiki-noun-articles.csv", sep="|")
-LEMMATA = pd.read_csv(data_path / "dwds_lemmata_2025-01-15.csv")
 
 
 class Model(StrEnum):
@@ -51,7 +47,7 @@ class ConstSentenceLength:
     maxi: int = 70
 
 
-@dataclass
+@dataclass(frozen=True)
 class ConstPath:
     word_counts: type[Path]
     deck_raw: type[Path]
@@ -61,13 +57,13 @@ class ConstPath:
     parallel_responses_concatenated: type[Path]
 
 
-@dataclass
+@dataclass(frozen=True)
 class ConstPromptSettings:
     has_part_of_speech: bool
     has_word_en: bool
 
 
-@dataclass
+@dataclass(frozen=True)
 class ApiRequestsArgs:
     requests_filepath: Optional[str] = None
     save_filepath: Optional[str] = None
@@ -80,8 +76,40 @@ class ApiRequestsArgs:
     logging_level: int = logging.INFO
 
 
-@dataclass
+@dataclass(frozen=True)
+class ConstLanguageSettings:
+    lang_1: type[Lang]
+    "the language that you want to study"
+    lang_2: type[Lang]
+    "the language you know"
+
+
+@dataclass(frozen=True)
+class ConstColumnNames:
+    word_lang_1: str
+    part_of_speech_lang_1: str
+    word_lang_2: str
+    sentence_lang_1: str
+    sentence_lang_2: str
+    sentence_lemmatized_lang_1: str
+
+    @classmethod
+    def from_language_settings(cls, language_settings: type[ConstLanguageSettings]):
+        lang_1 = language_settings.lang_1.pt3
+        lang_2 = language_settings.lang_2.pt3
+        return cls(
+            word_lang_1=f"word_{lang_1}",
+            part_of_speech_lang_1=f"part_of_speech_{lang_1}",
+            word_lang_2=f"word_{lang_2}",
+            sentence_lang_1=f"sentence_{lang_1}",
+            sentence_lang_2=f"sentence_{lang_2}",
+            sentence_lemmatized_lang_1=f"sentence_lemmatized_{lang_1}",
+        )
+
+
+@dataclass(frozen=True)
 class ConstConfig:
+    column_names: type[ConstColumnNames]
     rare_words: type[ConstRareWords]
     generation_settings: type[ConstGenerationSettings]
     sentence_length: type[ConstSentenceLength]
@@ -91,12 +119,14 @@ class ConstConfig:
     nlp: type[spacy.Language]
     api_requests_args: type[ApiRequestsArgs]
     lemmatized_sep: str
+    language_settings: type[ConstLanguageSettings]
 
 
 def read_csv(path: type[Path]):
     return pd.read_csv(path, sep="|", index_col=0)
 
 
+# TODO pass in the config
 def make_baseform(word: str) -> str:
     # article
     if word in ARTICLES_FULL:
@@ -108,7 +138,7 @@ def make_baseform(word: str) -> str:
                 break
     except Exception as e:
         print(f"{word=}")
-        raise
+        raise e
 
     # noun or name
     if word[0].isupper():
@@ -153,132 +183,61 @@ def remove_separators_in_file(path: type[Path]):
         d.writelines(deck_lines)
 
 
-def cmp(x, y):
-    if x < y:
-        return -1
-    elif x > y:
-        return 1
-    else:
-        return 0
-
-
-def leq(x, y):
-
-    if int(x) != int(y):
-        return cmp(x, y)
-
-    x = round(x % 1, 6)
-    y = round(y % 1, 6)
-
-    if x == 0 or y == 0:
-        return cmp(x, y)
-
-    while x < 1 and y < 1:
-        x *= 10
-        y *= 10
-
-    if x >= 1 and y >= 1:
-        return cmp(x, y)
-    else:
-        return cmp(y, x)
-
-
-def leq_test():
-    statements = [
-        not leq(2.003, 1.002),
-        leq(2.001, 2.002),
-        leq(2.001, 2.001),
-        not leq(2.001, 2.0002),
-        not leq(2.00132, 2.00130),
-        leq(2.00132, 2.00132),
-        leq(2.00132, 2.00135),
-    ]
-
-    for i in statements:
-        assert i
-
-
-def make_is_lemma_cond(s: type[pd.Series]):
-    s = s.map(lambda x: make_baseform(x) if isinstance(x, str) else False)
-    return s.isin(LEMMATA["lemma"]) | s.isin(DEWIKI_NOUN_ARTICLES["lemma"])
-
-
 def make_prompt(config: type[ConstConfig]):
-    column_part_of_speech = "Column 3 - part of speech"
-    column_word_en = "Column 4 - English word"
+    lang_1 = config.language_settings.lang_1.name
+    lang_2 = config.language_settings.lang_2.name
 
-    add_column_part_of_speech = (
-        "- Add column 3 - lowercase part of speech of the German word."
-    )
-    add_column_word_en = (
-        "- Add column 4 - the translation of the German word to English."
-    )
+    column_part_of_speech = f"Column 3 - lowercase part of speech of the {lang_1} word"
+    column_word_en = f"Column 4 - the translation of the {lang_1} word to {lang_2}"
+
+    add_column_part_of_speech = f"- Add {column_part_of_speech}."
+    add_column_word_en = f"- Add {column_word_en}."
+
+    has_part_of_speech = config.prompt_settings.has_part_of_speech
+    has_word_en = config.prompt_settings.has_word_en
 
     return f"""
-        Act as a true German.
+        Act as a native {lang_1} speaker.
     
         ## Input Table
 
-        Column 1 - Index. YOU MUST KEEP THIS COLUMN
-        Column 2 - German word. YOU MUST KEEP THIS COLUMN
-        {column_part_of_speech if config.prompt_settings.has_part_of_speech else ""}
-        {column_word_en if config.prompt_settings.has_word_en else ""}
+        Column 1 - Index
+        Column 2 - {lang_1} word
+        {column_part_of_speech if has_part_of_speech else ""}
+        {column_word_en if has_word_en else ""}
 
-        ## Guidelines for the German sentence:
+        ## Guidelines for the {lang_1} sentence:
 
         The sentence MUST:
 
         - sound natural
         - make sense
         - be engaging
-        - contain the German word (column 2)
+        - contain the {lang_1} word (column 2)
         - be complete (have subject and verb)
         - be not too long, {config.sentence_length.mini} to {config.sentence_length.maxi} characters long
-        - contain separable expressive verbs, concrete nouns
+        - contain (separable) expressive verbs, concrete nouns
         - be specific, concrete
-        - have no parasite words like "besonders"
+        - have no parasite words
 
-        ## Avoid
-
-        repetitive, common, simple, non-specialized words, pronouns
+        
+        Avoid repetitive, common, simple, non-specialized words, pronouns
+        Avoid philosophical and abstract thoughts.
+        Prefer concrete situations and topics.
+        Use sophisticated vivid thematic vocabulary.
 
         ## Task
         
-        {add_column_part_of_speech if not config.prompt_settings.has_part_of_speech else ""}
-        {add_column_word_en if not config.prompt_settings.has_word_en else ""}
-        - Add column 5 - the sentence in German following the sentence guidelines. The sentence must contain the German word (column 2)
-        - Add column 6 - translation of the German sentence to English. The translation must contain the English word (column 4).
+        {add_column_part_of_speech if not has_part_of_speech else ""}
+        {add_column_word_en if not has_word_en else ""}
+        - Add column 5 - the sentence in {lang_1} following the sentence guidelines. The sentence must contain the {lang_1} word (column 2)
+        - Add column 6 - translation of the {lang_1} sentence to {lang_2}. The translation must contain the {lang_2} word (column 4).
 
-        Print the table as markdown code block CSV. 
+        Print the table as a Markdown code block CSV. 
         Use "|" as separator.
         Never print a header.
         Never skip an input row.
         Never analyze, just output.
-        
-        YOU MUST KEEP THE INDEX COLUMN
-        YOU MUST KEEP THE GERMAN WORD COLUMN
-        
-        Avoid philosophical and abstract thoughts. 
-        Prefer concrete situations and topics.
-        Use sophisticated vivid thematic vocabulary.
-
-        ## Examples:
-        
-        Input example:
-        
-        ```csv
-        135894.0|abzweigen
-        135902.0|der Schwangerschaftsstreifen
-        135972.0|feuchtkalt
-        ```
-        
-        Output example:
-        
-        ```csv
-        135894.0|abzweigen|verb|to branch off|Der Weg wird an der nächsten Gabelung abzweigen und führt weiter.|The path will branch off at the next fork and continues onward.
-        135902.0|der Schwangerschaftsstreifen|noun|the stretch mark|Die Schwangerschaftsstreifen sind ganz normal nach der Geburt.|The stretch marks are completely normal after giving birth.
-        135972.0|feuchtkalt|adjective|damp and cold|Der feuchtkalte Wind ließ die Spaziergänger schnell ins Café flüchten.|The damp and cold wind made the strollers quickly flee into the café.
-        ```
         """
 
 
@@ -288,7 +247,10 @@ def prepare_requests(
 ):
     prompt = make_prompt(config=config)
 
-    deck_raw_no_data = deck_raw.loc[deck_raw["sentence_de"].isna(), "word_de"]
+    deck_raw_no_data = deck_raw.loc[
+        deck_raw[config.column_names.sentence_lang_1].isna(),
+        config.column_names.word_lang_1,
+    ]
 
     if deck_raw_no_data.empty:
         raise Exception("No empty rows to generate data for!")
@@ -328,14 +290,47 @@ def prepare_requests(
         r.write("")
 
 
-def write_parallel_responses(config: type[ConstConfig]):
+class ResponseContent(BaseModel, extra=Extra.allow):
+    content: str
+
+
+class ResponseChoice(BaseModel, extra=Extra.allow):
+    message: type[ResponseContent]
+
+
+class Response(BaseModel, extra=Extra.allow):
+    choices: List[type[ResponseChoice]]
+
+
+def write_parallel_responses_concatenated(config: type[ConstConfig]):
     parallel_responses = None
 
     with open(config.path.parallel_responses, "r", encoding="UTF-8") as r:
-        parallel_responses = [json.loads(x) for x in r.readlines()]
+
+        def parse_obj(x):
+            try:
+                return Response.parse_obj(x)
+            except ValidationError as e:
+                print(e)
+                return None
+
+        lines = [json.loads(x) for x in r.readlines()]
+        parallel_responses = [parse_obj(x[1]) for x in lines]
+        if any(not x for x in parallel_responses):
+            invalid_responses = [
+                line
+                for line, response in zip(lines, parallel_responses)
+                if not response
+            ]
+            print("These responses are invalid:")
+            for response in invalid_responses:
+                print(response)
+
+            raise Exception(f"Invalid responses")
 
     parallel_responses = [
-        x[1]["choices"][0]["message"]["content"]
+        x.choices[0]
+        .message.content.strip()
         .replace("```csv\n", "")
         .replace("```\n", "")
         .replace("\n```", "")
@@ -371,8 +366,10 @@ def write_responses_to_deck_raw(config: type[ConstConfig]):
     df_responses = df_responses[~df_responses.index.duplicated()]
 
     df_responses = df_responses[
-        df_responses["word_de"].notna()
-        & df_responses["word_de"].map(lambda x: x.strip(), na_action='ignore')
+        df_responses[config.column_names.word_lang_1].notna()
+        & df_responses[config.column_names.word_lang_1].map(
+            lambda x: x.strip(), na_action="ignore"
+        )
     ]
 
     in_deck_raw_cond = df_responses.index[df_responses.index.isin(deck_raw.index)]
@@ -399,11 +396,13 @@ def write_deck_raw(config: type[ConstConfig], deck_raw: type[pd.DataFrame]):
 def update_deck_raw_lemmatized_sentences(
     config: type[ConstConfig], deck_raw: type[pd.DataFrame]
 ):
-    not_lemmatized_cond = deck_raw["sentence_lemmatized_de"].isna()
+    not_lemmatized_cond = deck_raw[
+        config.column_names.sentence_lemmatized_lang_1
+    ].isna()
 
-    deck_raw.loc[not_lemmatized_cond, "sentence_lemmatized_de"] = deck_raw.loc[
-        not_lemmatized_cond, "sentence_de"
-    ].map(
+    deck_raw.loc[
+        not_lemmatized_cond, config.column_names.sentence_lemmatized_lang_1
+    ] = deck_raw.loc[not_lemmatized_cond, config.column_names.sentence_lang_1].map(
         lambda sentence: tokenize_sentence(config=config, sentence=sentence),
         na_action="ignore",
     )
@@ -415,10 +414,14 @@ def update_deck_raw_lemmatized_sentences(
 
 def update_word_counts(config: type[ConstConfig], deck_raw: type[pd.DataFrame]):
     words = pd.DataFrame(
-        deck_raw["sentence_lemmatized_de"]
+        deck_raw[config.column_names.sentence_lemmatized_lang_1]
         .map(lambda x: x.split(";"), na_action="ignore")
-        .explode("sentence_lemmatized_de")
-    ).rename(columns={"sentence_lemmatized_de": "word_de"})
+        .explode(config.column_names.sentence_lemmatized_lang_1)
+    ).rename(
+        columns={
+            config.column_names.sentence_lemmatized_lang_1: config.column_names.word_lang_1
+        }
+    )
 
     word_counts = pd.DataFrame(words.value_counts())
     word_counts.to_csv(config.path.word_counts, sep="|")
@@ -432,33 +435,40 @@ def check_is_correct_sentence(
     word_stats: type[pd.DataFrame],
     words_bad_wordforms: type[pd.DataFrame],
 ) -> bool:
-    word_de = row["word_de"]
-    word_de = (
-        make_baseform(word_de)
+    word_lang_1 = row[config.column_names.word_lang_1]
+    word_lang_1 = (
+        make_baseform(word_lang_1)
         if row.name not in words_bad_wordforms.index
         else words_bad_wordforms.loc[
-            words_bad_wordforms["word_de"] == word_de, "baseform"
+            words_bad_wordforms[config.column_names.word_lang_1] == word_lang_1,
+            "baseform",
         ].values[0]
     )
 
-    sentence_lemmatized_de = row["sentence_lemmatized_de"].split(config.lemmatized_sep)
+    sentence_lemmatized_lang_1 = row[
+        config.column_names.sentence_lemmatized_lang_1
+    ].split(config.lemmatized_sep)
 
     word_is_in_the_sentence = (
         # True
-        word_de
-        in sentence_lemmatized_de
+        word_lang_1
+        in sentence_lemmatized_lang_1
     )
 
-    words = pd.DataFrame(data=sentence_lemmatized_de, columns=["word_de"])
+    words = pd.DataFrame(
+        data=sentence_lemmatized_lang_1, columns=[config.column_names.word_lang_1]
+    )
 
-    word_counts = words.join(word_stats, on="word_de", rsuffix="r")
+    word_counts = words.join(
+        word_stats, on=config.column_names.word_lang_1, rsuffix="r"
+    )
 
     # run this check on all sentences
     # because the number of sentences will grow
     # and the word counts will grow too
     sentence_contains_rare_words = (
         sum(
-            (word_counts["word_de"] != word_de)
+            (word_counts[config.column_names.word_lang_1] != word_lang_1)
             & (word_counts["count"] <= config.rare_words.max_occurences_in_deck)
         )
         >= config.rare_words.min_count_in_sentence
@@ -469,16 +479,16 @@ def check_is_correct_sentence(
 
     # I subtract to correctly analyze other rows
     if not result:
-        for word in words["word_de"]:
+        for word in words[config.column_names.word_lang_1]:
             word_stats.loc[word, "count"] -= 1
 
     return result
 
 
-def partition_deck_raw_by_having_sentence_de(
+def partition_deck_raw_by_having_sentence_lang_1(
     config: type[ConstConfig], deck_raw: type[pd.DataFrame]
 ):
-    has_data_cond = deck_raw["sentence_de"].notna()
+    has_data_cond = deck_raw[config.column_names.sentence_lang_1].notna()
     rows_with_data = deck_raw[has_data_cond].sort_index()
     rows_without_data = deck_raw[~has_data_cond].sort_index()
 
@@ -490,9 +500,9 @@ def partition_deck_raw_by_having_sentence_de(
 
 def check_sentence_length(config: type[ConstConfig], row: pd.Series()):
     return (
-        pd.notna(row["sentence_de"])
+        pd.notna(row[config.column_names.sentence_lang_1])
         and config.sentence_length.mini
-        <= len(row["sentence_de"])
+        <= len(row[config.column_names.sentence_lang_1])
         <= config.sentence_length.maxi
     )
 
@@ -501,7 +511,7 @@ def filter_deck_raw_by_sentence_length(
     config: type[ConstConfig],
     deck_raw: type[pd.DataFrame],
 ):
-    rows_with_data, rows_without_data = partition_deck_raw_by_having_sentence_de(
+    rows_with_data, rows_without_data = partition_deck_raw_by_having_sentence_lang_1(
         config=config, deck_raw=deck_raw
     )
 
@@ -512,13 +522,18 @@ def filter_deck_raw_by_sentence_length(
     rows_with_good_sentence_length = rows_with_data[is_good_sentence_length_cond]
     rows_with_bad_sentence_length = pd.DataFrame(
         rows_with_data.loc[
-            ~is_good_sentence_length_cond, ["word_de", "part_of_speech", "word_en"]
+            ~is_good_sentence_length_cond,
+            [
+                config.column_names.word_lang_1,
+                config.column_names.part_of_speech_lang_1,
+                config.column_names.word_lang_2,
+            ],
         ]
     )
 
     rows_without_data = pd.concat(
         [rows_with_bad_sentence_length, rows_without_data]
-    ).sort_index()["word_de"]
+    ).sort_index()[config.column_names.word_lang_1]
 
     deck_raw = pd.concat([rows_with_good_sentence_length, rows_without_data])
 
@@ -531,8 +546,10 @@ def update_words_bad_baseform(config: type[ConstConfig], deck_raw: type[pd.DataF
     words_bad_baseform = read_csv(config.path.words_bad_baseform)
 
     words_bad_baseform = words_bad_baseform.join(
-        deck_raw["word_de"].reset_index().set_index("word_de"),
-        on="word_de",
+        deck_raw[config.column_names.word_lang_1]
+        .reset_index()
+        .set_index(config.column_names.word_lang_1),
+        on=config.column_names.word_lang_1,
         rsuffix="_r",
     )
 
@@ -562,13 +579,11 @@ def partition_deck_raw(
 
     word_stats = update_word_counts(config=config, deck_raw=deck_raw)
 
-    rows_with_data, rows_without_data = partition_deck_raw_by_having_sentence_de(
+    rows_with_data, rows_without_data = partition_deck_raw_by_having_sentence_lang_1(
         config=config, deck_raw=deck_raw
     )
 
     words_bad_baseform = update_words_bad_baseform(config=config, deck_raw=deck_raw)
-
-    # TODO
 
     # prefer removing rows with a larger index
     # to change rows with smaller index less frequently
@@ -595,7 +610,11 @@ def partition_deck_raw(
     has_correct_sentence = rows_with_data[is_correct_sentence_cond]
     has_incorrect_sentence = rows_with_data[~is_correct_sentence_cond]
     has_incorrect_sentence = has_incorrect_sentence[
-        ["word_de", "part_of_speech", "word_en"]
+        [
+            config.column_names.word_lang_1,
+            config.column_names.part_of_speech_lang_1,
+            config.column_names.word_lang_2,
+        ]
     ]
 
     has_no_data = pd.concat([has_incorrect_sentence, rows_without_data]).sort_index()
@@ -608,17 +627,13 @@ def partition_deck_raw(
     return deck_raw
 
 
-async def update_deck_raw(
-    config: type[ConstConfig], update_word_lists: Callable[[], [None]]
-):
-    update_word_lists(config=config)
-    
+async def update_deck_raw(config: type[ConstConfig]):
     def partition(deck_raw: type[pd.DataFrame]):
         return partition_deck_raw(config=config, deck_raw=deck_raw)
 
     deck_raw = read_csv(config.path.deck_raw)
 
-    deck_raw = partition(deck_raw=deck_raw)
+    # deck_raw = partition(deck_raw=deck_raw)
 
     prepare_requests(
         config=config,
@@ -637,17 +652,20 @@ async def update_deck_raw(
         logging_level=config.api_requests_args.logging_level,
     )
 
-    write_parallel_responses(config=config)
+    write_parallel_responses_concatenated(config=config)
 
     deck_raw = write_responses_to_deck_raw(config=config)
 
-    partition(deck_raw=deck_raw)
+    deck_raw = partition(deck_raw=deck_raw)
+
+    return deck_raw
 
 
 async def generate_deck_data_iteratively(
     config: type[ConstConfig],
-    generate_deck_data: Callable[[], Awaitable[None]],
+    generate_deck_data: Callable[[type[ConstConfig]], Awaitable[None]],
 ):
     for i in range(config.generation_settings.iterations):
         print(f"Iteration: {i}")
-        await generate_deck_data()
+
+        await generate_deck_data(config)

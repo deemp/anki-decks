@@ -13,6 +13,7 @@ from bs4 import BeautifulSoup
 import aiohttp
 from ruamel.yaml import YAML
 from ruamel.yaml.scalarstring import LiteralScalarString
+from iso639 import Lang
 
 os.chdir(f'{os.environ["ROOT_DIR"]}/custom/de')
 
@@ -27,10 +28,7 @@ import custom.de.script.lib as lib
 importlib.reload(lib)
 
 from custom.de.script.lib import (
-    DEWIKI_ARTICLES_SEP,
     ARTICLES_DICT,
-    DEWIKI_NOUN_ARTICLES,
-    LEMMATA,
     Model,
     ConstConfig,
     ConstPath,
@@ -38,10 +36,11 @@ from custom.de.script.lib import (
     ConstGenerationSettings,
     ConstPromptSettings,
     ConstSentenceLength,
+    ConstColumnNames,
+    ConstLanguageSettings,
     make_baseform,
     tokenize_sentence,
     remove_separators_in_file,
-    make_is_lemma_cond,
     ApiRequestsArgs,
     update_deck_raw,
     read_csv,
@@ -52,6 +51,7 @@ from custom.de.script.lib import (
 )
 
 
+DEWIKI_ARTICLES_SEP = ";"
 LYRICS_LEMMATIZED_SEP = ";"
 
 
@@ -61,21 +61,26 @@ class PATH_ALL:
     deck = pwd / "deck.csv"
     sources = data / "sources"
     playlist = sources / "playlist"
-    words = sources / "words"
-    known = words / "known.csv"
     sources_lemmatized = sources / "lemmatized.csv"
+    sources_words = sources / "words.csv"
     playlist_raw = playlist / "raw.csv"
     playlist_data = playlist / "data.csv"
     playlist_data_yaml = playlist / "data.yaml"
-    sources_texts = sources / "data.yaml"
-    sources_words_lemmas = sources / "words-lemmas.csv"
-    sources_words_not_lemmas = sources / "words-not-lemmas.csv"
-    sources_words = sources / "words.csv"
-    word_count = data / "word-count.csv"
-    parallel_requests = data / "parallel-requests.jsonl"
-    parallel_responses = data / "parallel-responses.jsonl"
-    parallel_responses_concatenated = data / "parallel-responses-concatenated.csv"
-    words_bad_baseform = data / "words-bad-baseform.csv"
+    words = data / "words"
+    words_known = words / "known.csv"
+    words_lemmas = words / "lemmas.csv"
+    words_not_lemmas = words / "not-lemmas.csv"
+    too_frequent = words / "too-frequent.csv"
+    word_counts = words / "count.csv"
+    words_bad_baseform = words / "bad-baseform.csv"
+    api = data / "api"
+    parallel_requests = api / "parallel-requests.jsonl"
+    parallel_responses = api / "parallel-responses.jsonl"
+    parallel_responses_concatenated = api / "parallel-responses-concatenated.csv"
+    external = data / "external"
+    dewiki_nouns = external / "dewiki-nouns.csv"
+    dewiki_noun_articles = external / "dewiki-noun-articles.csv"
+    dwds_lemmata = external / "dwds_lemmata_2025-01-15.csv"
 
 
 class INDEX_SUFFIX:
@@ -88,7 +93,7 @@ GENERATION_SETTINGS = ConstGenerationSettings(
 )
 
 PATH = ConstPath(
-    word_counts=PATH_ALL.word_count,
+    word_counts=PATH_ALL.word_counts,
     deck_raw=PATH_ALL.deck,
     words_bad_baseform=PATH_ALL.words_bad_baseform,
     parallel_requests=PATH_ALL.parallel_requests,
@@ -105,8 +110,8 @@ ACCESS_TOKEN = os.getenv("GENIUS_CLIENT_ACCESS_TOKEN")
 BASE_URL = "https://api.genius.com"
 
 API_REQUESTS_ARGS = ApiRequestsArgs(
-    requests_filepath=f"{PATH_ALL.data}/parallel-requests.jsonl",
-    save_filepath=f"{PATH_ALL.data}/parallel-responses.jsonl",
+    requests_filepath=PATH_ALL.parallel_requests,
+    save_filepath=PATH_ALL.parallel_responses,
     max_attempts=3,
     request_url="https://api.openai.com/v1/chat/completions",
 )
@@ -114,6 +119,10 @@ API_REQUESTS_ARGS = ApiRequestsArgs(
 PROMPT_SETTINGS = ConstPromptSettings(has_part_of_speech=False, has_word_en=False)
 
 LEMMATIZED_SEP = ";"
+
+LANGUAGE_SETTINGS = ConstLanguageSettings(lang_1=Lang("German"), lang_2=Lang("English"))
+
+COLUMN_NAMES = ConstColumnNames.from_language_settings(LANGUAGE_SETTINGS)
 
 CONFIG = ConstConfig(
     rare_words=RARE_WORDS,
@@ -125,7 +134,17 @@ CONFIG = ConstConfig(
     nlp=nlp,
     api_requests_args=API_REQUESTS_ARGS,
     lemmatized_sep=LEMMATIZED_SEP,
+    column_names=COLUMN_NAMES,
+    language_settings=LANGUAGE_SETTINGS,
 )
+
+DEWIKI_NOUN_ARTICLES = pd.read_csv(PATH_ALL.dewiki_noun_articles, sep="|")
+LEMMATA = pd.read_csv(PATH_ALL.dwds_lemmata)
+
+
+def make_is_lemma_cond(s: type[pd.Series]):
+    s = s.map(lambda x: make_baseform(x) if isinstance(x, str) else False)
+    return s.isin(LEMMATA["lemma"]) | s.isin(DEWIKI_NOUN_ARTICLES["lemma"])
 
 
 # TODO use the list of nouns and the list of lemmata (uppercase)
@@ -203,13 +222,13 @@ def update_sources_words() -> pd.DataFrame():
 
 
 def update_words_not_lemmas(words_not_lemmas_new: pd.DataFrame()):
-    if not Path(PATH_ALL.sources_words_not_lemmas).is_file():
+    if not Path(PATH_ALL.words_not_lemmas).is_file():
         pd.DataFrame(
             columns=["word", "lemma", "part_of_speech", "lemma_correct", "is_lemma"]
-        ).to_csv(PATH_ALL.sources_words_not_lemmas, sep="|")
+        ).to_csv(PATH_ALL.words_not_lemmas, sep="|")
 
     words_not_lemmas_existing = pd.read_csv(
-        PATH_ALL.sources_words_not_lemmas,
+        PATH_ALL.words_not_lemmas,
         sep="|",
         index_col=0,
         dtype={
@@ -256,7 +275,7 @@ def update_words_not_lemmas(words_not_lemmas_new: pd.DataFrame()):
     words_not_lemmas.loc[~is_lemma_cond, "is_lemma"] = False
     words_not_lemmas.loc[words_not_lemmas["lemma"].isna(), "is_lemma"] = None
 
-    words_not_lemmas.to_csv(PATH_ALL.sources_words_not_lemmas, sep="|")
+    words_not_lemmas.to_csv(PATH_ALL.words_not_lemmas, sep="|")
 
     return words_not_lemmas
 
@@ -264,7 +283,7 @@ def update_words_not_lemmas(words_not_lemmas_new: pd.DataFrame()):
 def copy_lemmas_from_words_not_lemmas_to_words_lemmas(
     words_lemmas_new: pd.DataFrame(), words_not_lemmas: pd.DataFrame()
 ):
-    words_lemmas_existing = read_csv(PATH_ALL.sources_words_lemmas)
+    words_lemmas_existing = read_csv(PATH_ALL.words_lemmas)
 
     words_lemmas_new = words_lemmas_new.join(
         words_lemmas_existing.reset_index(drop=True).set_index("lemma"), on="lemma"
@@ -293,7 +312,7 @@ def copy_lemmas_from_words_not_lemmas_to_words_lemmas(
         .duplicated()
     ]
 
-    words_lemmas.to_csv(PATH_ALL.sources_words_lemmas, sep="|")
+    words_lemmas.to_csv(PATH_ALL.words_lemmas, sep="|")
 
     return words_lemmas
 
@@ -354,7 +373,7 @@ def update_lemmas_correct(words_lemmas: pd.DataFrame) -> pd.DataFrame:
 
     words_lemmas.drop(columns=["lemma_r", "lemma_correct_r"], inplace=True)
 
-    words_lemmas.to_csv(PATH_ALL.sources_words_lemmas, sep="|")
+    words_lemmas.to_csv(PATH_ALL.words_lemmas, sep="|")
 
     return words_lemmas
 
@@ -364,7 +383,7 @@ def write_deck(deck: pd.DataFrame()):
     remove_separators_in_file(path=PATH_ALL.deck)
 
 
-def copy_words_lemmas_to_deck(words_lemmas: pd.DataFrame()):
+def copy_words_lemmas_to_deck(config: type[ConstConfig], words_lemmas: pd.DataFrame()):
     deck = read_csv(PATH_ALL.deck)
 
     deck_custom_rows = deck[
@@ -375,33 +394,35 @@ def copy_words_lemmas_to_deck(words_lemmas: pd.DataFrame()):
         )
     ]
 
-    known = read_csv(PATH_ALL.known)
+    known = read_csv(PATH_ALL.words_known)
 
-    deck = deck.set_index("word_de")
+    deck = deck.set_index(config.column_names.word_lang_1)
 
     words_de = pd.DataFrame(words_lemmas["lemma_correct"]).rename(
-        columns={"lemma_correct": "word_de"}
+        columns={"lemma_correct": config.column_names.word_lang_1}
     )
 
-    is_word_de_known_cond = words_de["word_de"].isin(known["word_de"])
+    is_word_de_known_cond = words_de[config.column_names.word_lang_1].isin(
+        known[config.column_names.word_lang_1]
+    )
 
     words_de_unknown = words_de[~is_word_de_known_cond]
 
     deck = words_de_unknown.join(
         deck,
-        on="word_de",
+        on=config.column_names.word_lang_1,
     )
 
     deck = pd.concat([deck, deck_custom_rows]).sort_index()
 
     deck = deck[~deck.index.duplicated()]
-    deck = deck[~deck["word_de"].duplicated()]
-    deck = deck[~deck["word_de"].str.startswith("-")]
+    deck = deck[~deck[config.column_names.word_lang_1].duplicated()]
+    deck = deck[~deck[config.column_names.word_lang_1].str.startswith("-")]
 
     deck = pd.concat(
         [
-            deck[deck["word_en"].notna()].sort_index(),
-            deck[deck["word_en"].isna()].sort_index(),
+            deck[deck[config.column_names.word_lang_2].notna()].sort_index(),
+            deck[deck[config.column_names.word_lang_2].isna()].sort_index(),
         ]
     )
 
@@ -426,7 +447,7 @@ def update_word_lists(config: type[ConstConfig]):
 
     words_lemmas = update_lemmas_correct(words_lemmas=words_lemmas)
 
-    deck = copy_words_lemmas_to_deck(words_lemmas=words_lemmas)
+    deck = copy_words_lemmas_to_deck(config=config, words_lemmas=words_lemmas)
 
     deck = filter_deck_raw_by_sentence_length(config=config, deck_raw=deck)
 
@@ -436,9 +457,7 @@ def update_word_lists(config: type[ConstConfig]):
 def update_dewiki_articles_dictionary():
     # The list can be downloaded here https://github.com/deemp/german-nouns/blob/main/german_nouns/nouns.csv
 
-    dewiki = pd.read_csv(
-        "../../../german-nouns/german_nouns/nouns.csv", low_memory=False
-    )
+    dewiki = pd.read_csv(PATH_ALL.dewiki_nouns, low_memory=False)
 
     genuses = ["genus", "genus 1", "genus 2", "genus 3", "genus 4"]
 
@@ -455,13 +474,15 @@ def update_dewiki_articles_dictionary():
 
     noun_articles.columns = ["articles"]
 
-    noun_articles.to_csv("data/dewiki-noun-articles.csv", sep="|")
+    noun_articles.to_csv(PATH_ALL.dewiki_noun_articles, sep="|")
 
 
-async def generate_deck_data():
+async def generate_deck_data(config: type[ConstConfig]):
     print("Starting update")
 
-    await update_deck_raw(config=CONFIG, update_word_lists=update_word_lists)
+    update_word_lists(config=config)
+
+    await update_deck_raw(config=CONFIG)
 
     print("Update completed!")
 
@@ -709,3 +730,11 @@ update_dewiki_articles_dictionary()
 # %%
 
 update_word_counts()
+
+# %%
+
+lib.write_responses_to_deck_raw(config=CONFIG)
+
+# %%
+
+print(lib.make_prompt(config=CONFIG))
