@@ -162,7 +162,7 @@ def get_lemmas_articles(nouns: type[pd.DataFrame]):
     return lemmas_with_articles
 
 
-def update_lemmatized_sources():
+def update_lemmatized_sources(config: type[ConstConfig]):
     sources_lemmatized = read_csv(PATH_ALL.sources_lemmatized)
 
     with open(PATH_ALL.playlist_data_yaml, mode="r", encoding="UTF-8") as f:
@@ -200,7 +200,7 @@ def update_lemmatized_sources():
 
     sources.loc[sources_new_not_lemmatized.index, "text"] = sources_new_not_lemmatized[
         "text"
-    ].map(tokenize_sentence, na_action="ignore")
+    ].map(lambda x: tokenize_sentence(config=config, sentence=x), na_action="ignore")
 
     sources.to_csv(PATH_ALL.sources_lemmatized, sep="|")
 
@@ -715,7 +715,8 @@ async def update_songs():
 await update_songs()
 # %%
 
-update_lemmatized_sources()
+# Lemmatizes non-lemmatized texts
+update_lemmatized_sources(config=CONFIG)
 
 # %%
 
