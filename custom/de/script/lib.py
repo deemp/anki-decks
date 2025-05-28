@@ -10,11 +10,11 @@ import logging
 import pandas as pd
 import spacy
 from iso639 import Lang
+from pydantic import BaseModel, ValidationError
+from IPython.display import display
 from custom.de.script.api_request_parallel_processor import (
     process_api_requests_from_file,
 )
-from IPython.display import display
-from pydantic import BaseModel, Extra, ValidationError
 
 OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
 
@@ -290,15 +290,15 @@ def prepare_requests(
         r.write("")
 
 
-class ResponseContent(BaseModel, extra=Extra.allow):
+class ResponseContent(BaseModel, extra="allow"):
     content: str
 
 
-class ResponseChoice(BaseModel, extra=Extra.allow):
+class ResponseChoice(BaseModel, extra="allow"):
     message: type[ResponseContent]
 
 
-class Response(BaseModel, extra=Extra.allow):
+class Response(BaseModel, extra="allow"):
     choices: List[type[ResponseChoice]]
 
 

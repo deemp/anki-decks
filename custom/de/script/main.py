@@ -7,6 +7,7 @@ import math
 import textwrap
 import importlib
 import pandas as pd
+from typing import List
 from IPython.display import display
 import spacy
 from bs4 import BeautifulSoup
@@ -19,7 +20,7 @@ os.chdir(f'{os.environ["ROOT_DIR"]}/custom/de')
 
 yaml = YAML()
 
-nlp = spacy.load("de_dep_news_trf")
+nlp = spacy.load("de_core_news_lg")
 
 # %%
 
@@ -71,7 +72,7 @@ class PATH_ALL:
     words_lemmas = words / "lemmas.csv"
     words_not_lemmas = words / "not-lemmas.csv"
     too_frequent = words / "too-frequent.csv"
-    word_counts = words / "count.csv"
+    word_counts = words / "counts.csv"
     words_bad_baseform = words / "bad-baseform.csv"
     api = data / "api"
     parallel_requests = api / "parallel-requests.jsonl"
@@ -152,7 +153,7 @@ def is_noun(word: str):
     return make_baseform(word)[0].isupper()
 
 
-def get_lemmas_articles(nouns: pd.DataFrame):
+def get_lemmas_articles(nouns: type[pd.DataFrame]):
     lemma = "lemma"
     lemmas_initial = pd.DataFrame(nouns[lemma].map(make_baseform))
     lemmas_with_articles = lemmas_initial.join(
@@ -204,7 +205,7 @@ def update_lemmatized_sources():
     sources.to_csv(PATH_ALL.sources_lemmatized, sep="|")
 
 
-def update_sources_words() -> pd.DataFrame():
+def update_sources_words() -> type[pd.DataFrame]:
     lyrics_lemmatized = read_csv(PATH_ALL.sources_lemmatized)
 
     texts = lyrics_lemmatized[["text"]]
@@ -221,7 +222,7 @@ def update_sources_words() -> pd.DataFrame():
     return pd.DataFrame(words.loc[~words.duplicated("word"), ["word"]])
 
 
-def update_words_not_lemmas(words_not_lemmas_new: pd.DataFrame()):
+def update_words_not_lemmas(words_not_lemmas_new: type[pd.DataFrame]):
     if not Path(PATH_ALL.words_not_lemmas).is_file():
         pd.DataFrame(
             columns=["word", "lemma", "part_of_speech", "lemma_correct", "is_lemma"]
@@ -281,7 +282,7 @@ def update_words_not_lemmas(words_not_lemmas_new: pd.DataFrame()):
 
 
 def copy_lemmas_from_words_not_lemmas_to_words_lemmas(
-    words_lemmas_new: pd.DataFrame(), words_not_lemmas: pd.DataFrame()
+    words_lemmas_new: type[pd.DataFrame], words_not_lemmas: type[pd.DataFrame]
 ):
     words_lemmas_existing = read_csv(PATH_ALL.words_lemmas)
 
@@ -357,7 +358,7 @@ def update_lemmas_correct(words_lemmas: pd.DataFrame) -> pd.DataFrame:
         lambda x: (
             x["articles"]
             if pd.isna(x["articles"])
-            else f"{ARTICLES_DICT[x["articles"]]} {make_baseform(x["lemma"])}"
+            else f"{ARTICLES_DICT[x['articles']]} {make_baseform(x['lemma'])}"
         ),
         axis=1,
     )
@@ -378,12 +379,14 @@ def update_lemmas_correct(words_lemmas: pd.DataFrame) -> pd.DataFrame:
     return words_lemmas
 
 
-def write_deck(deck: pd.DataFrame()):
+def write_deck(deck: type[pd.DataFrame]):
     deck.to_csv(PATH_ALL.deck, sep="|")
     remove_separators_in_file(path=PATH_ALL.deck)
 
 
-def copy_words_lemmas_to_deck(config: type[ConstConfig], words_lemmas: pd.DataFrame()):
+def copy_words_lemmas_to_deck(
+    config: type[ConstConfig], words_lemmas: type[pd.DataFrame]
+):
     deck = read_csv(PATH_ALL.deck)
 
     deck_custom_rows = deck[
@@ -583,15 +586,18 @@ async def gather_concurrently(n, *coros):
     return await asyncio.gather(*(sem_coro(c) for c in coros))
 
 
-async def get_texts(df: type[pd.DataFrame], path: str, titles_no_lyrics: [str]):
+async def get_texts(df: type[pd.DataFrame], path: str, titles_no_lyrics: List[str]):
     block_size = 10
     df_na = df[df["text"].isna()]
     block_count = math.ceil(df_na.shape[0] / block_size)
     headers = {"Authorization": f"Bearer {ACCESS_TOKEN}"}
 
     for i in range(block_count):
-        print(f"{i=}")
+        print(f"Songs block: {i}")
         block_df = df_na.iloc[i * block_size : (i + 1) * block_size]
+
+        display(block_df[["title", "author"]])
+
         title_authors = block_df[["title", "author"]].to_numpy().tolist()
 
         async with aiohttp.ClientSession(headers=headers) as session:
@@ -650,9 +656,9 @@ def copy_texts_from_yaml_to_df(path_yaml: str):
     return pd.DataFrame(data, columns=["title", "author", "text"])
 
 
-async def update_songs(config: type[ConstConfig]):
-    playlist_raw = read_csv(config.path.playlist_raw)
-    playlist_data = copy_texts_from_yaml_to_df(path_yaml=config.path.playlist_data_yaml)
+async def update_songs():
+    playlist_raw = pd.read_csv(PATH_ALL.playlist_raw, sep="|", index_col=None)
+    playlist_data = copy_texts_from_yaml_to_df(path_yaml=PATH_ALL.playlist_data_yaml)
 
     playlist_data = (
         playlist_raw.join(
@@ -674,11 +680,11 @@ async def update_songs(config: type[ConstConfig]):
 
     await get_texts(
         df=playlist_data,
-        path=config.path.playlist_data,
+        path=PATH_ALL.playlist_data,
         titles_no_lyrics=titles_no_lyrics,
     )
 
-    playlist_data = read_csv(config.path.playlist_data)
+    playlist_data = read_csv(PATH_ALL.playlist_data)
 
     has_text_cond = playlist_data["text"].notna()
 
@@ -693,17 +699,15 @@ async def update_songs(config: type[ConstConfig]):
 
     for idx in df_no_newline_in_text.index:
         x = df_has_text.loc[idx]
-        print(f"Bad formatting: {x.name}) {x["title"]} by {x["author"]}")
+        print(f"Bad formatting: {x.name}) {x['title']} by {x['author']}")
 
     playlist_data = (
         pd.concat([df_has_text, df_has_no_text]).reindex().reset_index(drop=True)
     )
 
-    playlist_data.to_csv(config.path.playlist_data, sep="|")
+    playlist_data.to_csv(PATH_ALL.playlist_data, sep="|")
 
-    copy_texts_from_df_to_yaml(
-        df=playlist_data, path_yaml=config.path.playlist_data_yaml
-    )
+    copy_texts_from_df_to_yaml(df=playlist_data, path_yaml=PATH_ALL.playlist_data_yaml)
 
 
 # %%
@@ -719,6 +723,7 @@ update_word_lists(config=CONFIG)
 
 # %%
 
+# Requires the OPENAI_API_KEY to be loaded into the environment
 await generate_deck_data_iteratively(
     config=CONFIG, generate_deck_data=generate_deck_data
 )
@@ -729,12 +734,15 @@ update_dewiki_articles_dictionary()
 
 # %%
 
-update_word_counts()
+deck_raw = read_csv(path=PATH_ALL.deck)
+update_word_counts(config=CONFIG, deck_raw=deck_raw)
 
 # %%
 
+# Manually write responses if the generator stopped for some reason
 lib.write_responses_to_deck_raw(config=CONFIG)
 
 # %%
 
+# Check the current prompt
 print(lib.make_prompt(config=CONFIG))
