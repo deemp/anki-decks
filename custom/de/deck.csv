@@ -2112,7 +2112,6 @@
 74003.0|der Lynchmob|noun|the lynch mob|Der Lynchmob war außer Kontrolle und sorgte für chaotische Szenen.|The lynch mob was out of control and caused chaotic scenes.|der;Lynchmob;sein;außer;Kontrolle;und;sorgen;für;chaotisch;Szene
 74104.0|das Möhrchen|noun|the little carrot|Die Kinder freuten sich über das gefüllte Möhrchen in ihren Tellern.|The children were delighted by the little carrot on their plates.|der;Kind;freuen;sich;über;der;gefüllt;Möhrchen;in;ihr;Teller
 74108.0|das Filet|noun|the fillet|Das Filet auf dem Teller riecht wunderbar und sieht perfekt aus.|The fillet on the plate smells wonderful and looks perfect.|der;Filet;auf;der;Teller;riechen;wunderbar;und;aussehen;perfekt;aus
-74125.0|Sonnengruß|noun|Sun Salutation|Der Sonnengruß ist eine beliebte Übung im Yoga für Anfänger.|The Sun Salutation is a popular exercise in yoga for beginners.|der;Sonnengruß;sein;ein;beliebt;Übung;in;Yoga;für;Anfänger
 74197.0|hintereinander|adverb|one after another|Die Schüler traten hintereinander vor die Klasse, um zu präsentieren.|The students stepped forward one after another to present.|der;Schüler;treten;hintereinander;vor;der;Klasse;um;zu;präsentieren
 74204.0|der Liebeskummer|noun|the heartache|Der Liebeskummer ließ ihn in der ersten Zeit ziemlich leiden.|The heartache made him suffer quite a bit in the beginning.|der;Liebeskummer;lassen;ihn;in;der;erster;Zeit;ziemlich;leiden
 74237.0|Gesundheitsdiktatur|noun|health dictatorship|Die Gesundheitsdiktatur schränkt unsere Freiheit übermäßig ein.|The health dictatorship excessively restricts our freedom.|der;Gesundheitsdiktatur;einschränken;unser;Freiheit;übermäßig;ein
@@ -3303,6 +3302,7 @@
 10864.0|auffallen
 10961.0|die Tapete
 11228.0|der Egotrip
+11281.0|die Kunstausstellung
 11320.0|der Schlips
 11441.0|die Sehnsucht
 11603.0|das Grübchen
@@ -3591,7 +3591,7 @@
 42667.0|nebenan
 42849.0|das Scheitern
 42861.0|die Schlauheit
-42901.0|Wertekanon
+42901.0|der Wertekanon
 43005.0|errechnen
 43008.0|der Nenner
 43226.0|der Schmarotzer
@@ -3663,7 +3663,7 @@
 48492.0|das Nachtsichtgerät
 48493.0|der Wasserwerfer
 48667.0|tatütata
-48722.0|Aua
+48722.0|das Aua
 48939.0|der Baseballschläger
 49038.0|zerlegen
 49057.0|der Wendehals
@@ -3922,6 +3922,7 @@
 73748.0|der Gefährder
 74054.0|versifft
 74082.0|das Duften
+74125.0|der Sonnengruß
 74282.0|der Stabhochsprung
 74400.0|rumschmeißen
 74523.0|Babywindel
@@ -4316,6 +4317,7 @@
 108054.0|koffeinhaltig
 108058.0|nährstoffreich
 108063.0|der Polyester
+108100.0|der Colt
 108110.0|das Zähneputzen
 108154.0|hinwollen
 108319.0|Sachverständnis
@@ -4362,6 +4364,7 @@
 111093.0|raufgehen
 111272.0|stillstehen
 111462.0|das Hinterland
+111532.001|das Graben
 111735.0|langgehen
 111738.0|der Sternenhimmel
 111751.0|anhören
