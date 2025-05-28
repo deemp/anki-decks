@@ -72,7 +72,6 @@
 1293.0|platt|adjective|flat|Das Fahrrad war platt, weil der Reifen einen Nagel erwischt hatte.|The bicycle was flat because the tire had hit a nail.|der;Fahrrad;sein;platt;weil;der;Reifen;ein;Nagel;erwischen;haben
 1322.0|die Sintflut|noun|the flood|Die Sintflut hinterließ zerstörte Landschaften und verlorene Heimat.|The flood left behind devastated landscapes and lost homes.|der;Sintflut;hinterlassen;zerstört;Landschaft;und;verloren;Heimat
 1330.0|der Hut|noun|the hat|Der Hut, den er trug, war nicht nur stylish, sondern auch praktisch.|The hat he wore was not only stylish but also practical.|der;Hut;der;er;tragen;sein;nicht;nur;stylish;sondern;auch;praktisch
-1330.001|die Hut|noun|the hat|Die Hut im Schaufenster war perfekt für den kommenden Sommer.|The hat in the window was perfect for the upcoming summer.|der;Hut;in;Schaufenster;sein;perfekt;für;der;kommend;Sommer
 1340.0|das Pech|noun|the misfortune|Das Pech hatte ihn bereits mehrmals heimgesucht, und er hatte genug.|The misfortune had already visited him several times, and he had enough.|der;Pech;haben;ihn;bereits;mehrmals;heimsuchen;und;er;haben;genug
 1360.0|Kaffeevollautomat|noun|coffee machine|Der Kaffeevollautomat brühte in wenigen Minuten einen heißen Espresso.|The coffee machine brewed a hot espresso in just a few minutes.|der;Kaffeevollautomat;brühen;in;weniger;Minute;ein;heiß;Espresso
 1379.0|der Berufsverkehr|noun|rush hour|Der Berufsverkehr in der Stadt ist am Montagmorgen besonders schlimm.|Rush hour in the city is especially bad on Monday mornings.|der;Berufsverkehr;in;der;Stadt;sein;an;Montagmorgen;besonders;schlimm
@@ -337,6 +336,7 @@
 7200.0|zukommen|verb|to approach|Die Gäste beginnen, dem Festsaal mit großer Vorfreude zukommen.|The guests begin to approach the banquet hall with great anticipation.|der;Gast;beginnen;der;Festsaal;mit;groß;Vorfreude;zukommen
 7525.0|plumpsen|verb|to plop|Die Früchte plumpsten laut ins Wasser und erzeugten große Spritzer.|The fruits plopped loudly into the water, creating big splashes.|der;Früchte;plumpsen;laut;in;Wasser;und;erzeugen;groß;Spritzer
 7559.0|verwahren|verb|to safeguard|Die Ministerin verwahrt die Geheimakten in einem sicheren Raum.|The minister safeguards the confidential files in a secure room.|der;Ministerin;verwahren;der;Geheimakte;in;ein;sicher;Raum
+7573.0|erfrischen|verb|to refresh|Ein kaltes Getränk erfrischt uns an einem heißen Sommertag im Park.|A cold drink refreshes us on a hot summer day in the park.|ein;kalt;Getränk;erfrischen;uns;an;ein;heiß;Sommertag;in;Park
 7586.0|der Kippenstummel|noun|the cigarette butt|Der Kippenstummel lag achtlos auf dem Gehweg neben der Bank.|The cigarette butt lay carelessly on the sidewalk next to the bench.|der;Kippenstummel;liegen;achtlos;auf;der;Gehweg;neben;der;Bank
 7594.0|zwitschern|verb|to chirp|Die Vögel zwitschern fröhlich im Garten und begrüßen den neuen Tag.|The birds chirp happily in the garden, welcoming the new day.|der;Vögel;zwitschern;fröhlich;in;Garten;und;begrüßen;der;neu;Tag
 7595.0|die Lobeshymne|noun|hymn of praise|Die Lehrer sangen eine herzliche die Lobeshymne für die Absolventen.|The teachers sang a heartfelt hymn of praise for the graduates.|der;Lehrer;singen;ein;herzlich;der;Lobeshymne;für;der;Absolvent
@@ -625,6 +625,7 @@
 16680.0|sehnen|verb|to yearn|Die Pianistin sehnte sich danach, auf der großen Bühne zu spielen.|The pianist yearned to play on the big stage.|der;Pianistin;sehnen;sich;danach;auf;der;groß;Bühne;zu;spielen
 16727.0|das Geröll|noun|the rubble|Nach dem Sturm lag das Geröll überall auf dem Parkplatz verteilt.|After the storm, rubble was scattered everywhere in the parking lot.|nach;der;Sturm;liegen;der;Geröll;überall;auf;der;Parkplatz;verteilen
 16729.0|erfahren|verb|to experience|Die Kinder möchten am Ferienlager viel Neues erfahren und lernen.|The children want to experience and learn many new things at the summer camp.|der;Kind;möchten;an;Ferienlager;viel;neue;erfahren;und;lernen
+16730.0|das Käuzchen|noun|the little owl|Das Käuzchen saß auf einem Ast und beobachtete neugierig die Umgebung.|The little owl sat on a branch and curiously watched its surroundings.|der;Käuzchen;sitzen;auf;ein;Ast;und;beobachten;neugierig;der;Umgebung
 16741.0|verlangen|verb|to demand|Die Angestellten verlangen bessere Arbeitsbedingungen und faire Löhne.|The employees demand better working conditions and fair wages.|der;angestellter;verlangen;gut;Arbeitsbedingung;und;fair;Lohn
 16748.0|der Katheter|noun|the catheter|Der Katheter wurde während der Operation sorgfältig eingelegt.|The catheter was carefully inserted during the surgery.|der;Katheter;werden;während;der;Operation;sorgfältig;einlegen
 16764.0|platzen|verb|to burst|Der Luftballon wird gleich platzen, wenn er weiter aufgeblasen wird.|The balloon will burst soon if it is inflated any further.|der;Luftballon;werden;gleich;platzen;wenn;er;weiter;aufblasen;werden
@@ -2134,6 +2135,7 @@
 75513.0|sinnvoll|adjective|meaningful|Es ist sinnvoll, in die eigene Weiterbildung zu investieren.|It is meaningful to invest in your own education.|es;sein;sinnvoll;in;der;eigen;Weiterbildung;zu;investieren
 75609.0|pompös|adjective|pompous|Die pompös geschmückte Halle war ein Highlight der Veranstaltung.|The pompously decorated hall was a highlight of the event.|der;pompös;geschmückt;Halle;sein;ein;Highlight;der;Veranstaltung
 75610.0|das Anwesen|noun|the estate|Das große Anwesen wurde vor vielen Jahren erbaut und bewirtschaftet.|The large estate was built and farmed many years ago.|der;groß;Anwesen;werden;vor;vieler;Jahr;erbaut;und;bewirtschaften
+75632.0|der Medienexperte|noun|the media expert|Der Medienexperte analysierte die neuesten Trends in den Nachrichten.|The media expert analyzed the latest trends in the news.|der;Medienexperte;analysieren;der;neu;Trend;in;der;Nachricht
 75767.0|das Besteck|noun|the cutlery|Das Besteck auf dem Tisch war aus edlem Silber und funkelte im Licht.|The cutlery on the table was made of exquisite silver and sparkled in the light.|der;Besteck;auf;der;Tisch;sein;aus;edl;Silber;und;funkeln;in;Licht
 75802.0|die Hecke|noun|the hedge|Die Hecke trennt unseren Garten von dem angrenzenden Grundstück.|The hedge separates our garden from the adjacent property.|der;Hecke;trennen;unser;Garten;von;der;angrenzend;Grundstück
 75889.0|faulen|verb|to rot|Die Äpfel im Korb fangen an, faulen, weil sie zu lange lagern.|The apples in the basket start to rot because they've been stored too long.|der;Äpfel;in;Korb;anfangen;an;faulen;weil;sie;zu;lang;lagern
@@ -2806,6 +2808,7 @@
 113921.0|die Augenwischerei|noun|the eyewash|Ihre Versprechungen waren nur eine Augenwischerei ohne echte Substanz.|Her promises were just eyewash without real substance.|ihr;Versprechung;sein;nur;ein;Augenwischerei;ohne;echt;Substanz
 113933.0|stiften|verb|to donate|Die Stiftung wird Geld stiften, um die Wissenschaft zu fördern.|The foundation will donate money to promote science.|der;Stiftung;werden;Geld;stiften;um;der;Wissenschaft;zu;fördern
 113940.0|säkular|adjective|secular|In einem säkularen Staat gibt es keine staatlichen Religionen.|In a secular state, there are no state religions.|in;ein;säkular;Staat;geben;es;kein;staatlich;Religion
+114055.0|fraktionsübergreifend|adjective|cross-party|Die fraktionsübergreifende Zusammenarbeit förderte den Dialog.|The cross-party cooperation promoted dialogue.|der;fraktionsübergreifend;Zusammenarbeit;fördern;der;Dialog
 114157.0|der Strahl|noun|the beam|Der Strahl des Suchscheinwerfers durchbrach die Dunkelheit der Nacht.|The beam of the searchlight pierced through the darkness of the night.|der;Strahl;der;Suchscheinwerfer;durchbrechen;der;Dunkelheit;der;Nacht
 114188.0|rechtwinklig|adjective|right-angled|Die rechtwinkligen Formen in der Architektur schaffen klare Linien.|The right-angled shapes in architecture create clean lines.|der;rechtwinklig;Form;in;der;Architektur;schaffen;klar;Linie
 114439.0|verbuchen|verb|to post|Die Buchhalterin musste die Einnahmen sofort in die Bücher verbuchen.|The accountant had to post the earnings immediately in the books.|der;Buchhalterin;musste;der;Einnahme;sofort;in;der;Buch;verbuchen
@@ -3152,6 +3155,7 @@
 134590.0|windgeschützt|adjective|wind-sheltered|Die windgeschützte Terrasse bietet einen perfekten Ort zum Entspannen.|The wind-sheltered terrace offers a perfect place to relax.|der;windgeschützt;Terrasse;bieten;ein;perfekt;Ort;zu;Entspannen
 134603.0|das Hosenbein|noun|the pant leg|Das Hosenbein war an der Naht gerissen und musste genäht werden.|The pant leg was torn at the seam and needed stitching.|der;Hosenbein;sein;an;der;Naht;rissen;und;musste;nähen;werden
 134640.0|angestellt|adjective|employed|Er war in einer angestellten Position in der renommierten Firma.|He was in an employed position in the renowned company.|er;sein;in;ein;angestellt;Position;in;der;renommiert;Firma
+134697.0|der Verein|noun|the association|Der Verein plant eine Tagung, um die kommenden Projekte zu besprechen.|The association is planning a conference to discuss the upcoming projects.|der;Verein;planen;ein;Tagung;um;der;kommend;Projekt;zu;besprechen
 134792.0|das Männlein|noun|the little man|Das Männlein im Märchen half dem Prinzen, seine Prinzessin zu finden.|The little man in the fairy tale helped the prince find his princess.|der;Männlein;in;Märchen;helfen;der;Prinz;sein;Prinzessin;zu;finden
 134801.0|das Hermelin|noun|the ermine|Das Hermelin gilt als Symbol für Reinheit und Luxus in der Mode.|The ermine is considered a symbol of purity and luxury in fashion.|der;Hermelin;gelten;als;Symbol;für;Reinheit;und;Luxus;in;der;Mode
 134811.0|schmettern|verb|to smash|Der Fußballspieler schmetterte den Ball ins gegnerische Tor.|The soccer player smashed the ball into the opponent's goal.|der;Fußballspieler;schmettern;der;Ball;in;gegnerisch;Tor
@@ -3222,12 +3226,14 @@
 938.0|besaufen
 1302.0|vorgehen
 1311.0|die Krone
+1330.001|die Hut
 1344.0|alleine
 1405.0|einbilden
 1639.0|der Oberarzt
 2111.0|das Willkommen
 2418.0|anschmeißen
 2467.0|leidtun
+2519.0|treiben
 2544.0|gesellen
 2622.0|der Flur
 2622.001|die Flur
@@ -3238,6 +3244,7 @@
 3087.0|Wollen
 3190.0|verderben
 3317.0|verrecken
+3405.0|bestialisch
 3410.0|der Anschlag
 3474.0|die Vorstellungskraft
 3554.0|schleichen
@@ -3267,11 +3274,11 @@
 7197.0|der Fleck
 7241.0|nachdenken
 7532.0|huch
-7573.0|erfrischen
 7754.0|das Leitungswasser
 7757.0|die Einheimische
 7895.0|fangen
 7995.0|lüstern
+8273.0|das Hundejahr
 8295.0|verdrehen
 8299.0|lauter
 8434.0|klatschen
@@ -3308,6 +3315,7 @@
 13046.0|umspielen
 13161.0|verbergen
 13328.0|deprimiert
+13353.0|die Horde
 13654.0|der Umhang
 13689.0|hetzen
 13732.0|der Groschenroman
@@ -3316,6 +3324,7 @@
 13937.0|das Sachbuch
 14209.0|austrinken
 14213.0|die Rotweinschorle
+14426.0|drankriegen
 14464.0|blöde
 14523.0|vergehen
 14566.0|der Penner
@@ -3334,7 +3343,6 @@
 15935.0|der Flow
 16108.0|der Schmutz
 16388.0|das Blaulicht
-16730.0|das Käuzchen
 16763.0|die Tarnung
 16859.0|zweideutig
 16981.0|die Skyline
@@ -3349,6 +3357,7 @@
 18406.0|durchstreifen
 18479.0|das Deck
 18560.0|schaudern
+18607.0|das Wrack
 18768.0|das Handgelenk
 18896.0|ausruhen
 18992.0|die Katzenwäsche
@@ -3361,9 +3370,11 @@
 19577.0|unbefangen
 19583.0|berechnen
 19883.0|erwarten
+19964.0|der Körpersaft
 19995.0|verrinnen
 20113.0|begleichen
 20123.0|freistehen
+20167.0|grundsätzlich
 20500.0|bereisen
 20602.0|beliebt
 20739.0|beschützen
@@ -3422,6 +3433,7 @@
 26202.0|bekennen
 26716.0|verängstigen
 26759.0|Grünkern
+26907.0|das N-Wort
 27554.0|Stimmungstief
 27557.0|totgeglaubt
 27686.0|der Teebeutel
@@ -3443,6 +3455,7 @@
 29519.0|die Raste
 29522.0|die Autobahn
 29539.0|die Patina
+29637.0|ranfahren
 29720.0|ohnehin
 29776.0|verflossen
 29824.0|fällen
@@ -3487,6 +3500,7 @@
 34360.0|leichenblass
 34401.0|mähen
 34412.0|versterben
+34620.0|die Schraube
 34875.0|siezen
 34907.0|die Schultüte
 34908.0|kacken
@@ -3578,6 +3592,7 @@
 42849.0|das Scheitern
 42861.0|die Schlauheit
 42901.0|Wertekanon
+43005.0|errechnen
 43008.0|der Nenner
 43226.0|der Schmarotzer
 43270.0|insgeheim
@@ -3611,6 +3626,7 @@
 44964.001|die Heide
 45012.0|der Anhänger
 45052.0|die Kollekte
+45059.0|die Arche
 45210.0|Selekteur
 45234.0|schreiten
 45271.0|das Sehen
@@ -3673,6 +3689,7 @@
 52346.0|der Keks
 52346.001|das Keks
 52370.0|ausscheiden
+52373.0|Marktforscher
 52592.0|schaukeln
 52601.0|aufn
 52802.0|vermitteln
@@ -3680,6 +3697,7 @@
 52832.0|zusammenfallen
 52874.0|der Ackermann
 52879.0|die Nette
+53474.0|runtergehen
 53504.0|schlummern
 53677.0|die Fertigsuppe
 53691.0|klischeehaft
@@ -3688,6 +3706,7 @@
 53970.0|der Unterleib
 53978.0|die Reifenspur
 54176.0|der Schade
+54299.0|der Höhlenmensch
 54401.0|der Pöbel
 54617.0|die Tanne
 54635.0|das Programm
@@ -3715,6 +3734,7 @@
 58094.0|weiterreden
 58288.0|losmüssen
 58590.0|ansonsten
+58608.0|pleite
 58908.0|der Einkaufswagen
 58961.0|Walzerschritt
 59072.0|raushaben
@@ -3751,6 +3771,7 @@
 63943.0|das Bundesverfassungsgericht
 63945.0|die Strafsache
 63976.0|hineinrufen
+64128.0|wackeln
 64218.0|tipp
 64219.0|klack
 64221.0|tippen
@@ -3917,7 +3938,7 @@
 75407.0|ambivalent
 75408.0|inkonsequent
 75575.0|ahnen
-75632.0|der Medienexperte
+75602.0|verschanzen
 75646.0|erhältlich
 75754.0|sickern
 75882.0|jubeln
@@ -4089,6 +4110,8 @@
 91235.0|verschrecken
 91480.0|falten
 91505.0|schnabulieren
+91523.0|zugleich
+91606.0|vormachen
 91734.0|angeschlagen
 91777.0|die Gosse
 91941.0|das Zeitgefühl
@@ -4205,6 +4228,7 @@
 100983.0|das Kopftuch
 101113.0|der Flachmann
 101225.0|der Feierabend
+101243.0|die Peinlichkeit
 101247.0|verhindern
 101279.0|der Gastgeber
 101444.0|umwerfen
@@ -4280,6 +4304,7 @@
 108001.0|der Scheibenkleister
 108002.0|die Spülmaschine
 108003.0|das Frostschutzmittel
+108008.0|die Kuckucksuhr
 108010.0|das Fliegengitter
 108013.0|die Natronlauge
 108015.0|die Frühlingsrolle
@@ -4304,6 +4329,7 @@
 108630.0|das Schauspiel
 108647.0|gären
 108773.0|versacken
+108833.0|der Seidenschal
 108994.0|einstecken
 109005.0|schnitzen
 109042.0|die Bereicherung
@@ -4349,6 +4375,7 @@
 112770.0|ahoi
 112788.0|hingeben
 112808.0|übermannen
+112844.0|das Glied
 112901.0|das Zweigespann
 113491.0|der Beifall
 113538.0|blickdicht
@@ -4358,7 +4385,6 @@
 113892.0|einmachen
 113917.001|das Info
 113949.0|drängeln
-114055.0|fraktionsübergreifend
 114258.0|Messen
 114354.0|unvernünftig
 114634.0|Schadenbegrenzung
@@ -4381,6 +4407,7 @@
 116197.0|der Rappen
 116346.0|eckig
 116488.0|veräppeln
+116593.0|chippen
 116725.0|bekloppt
 116758.0|abmelden
 116872.0|gleichen
@@ -4504,6 +4531,7 @@
 125600.0|der Ausguck
 125623.0|willenlos
 125638.0|der Verfall
+125750.0|zweihundert
 125837.0|der Kirschbaum
 125906.0|grandios
 126110.0|dämmern
@@ -4543,6 +4571,7 @@
 127525.0|der Lebensraum
 127533.001|das Lachs
 127553.0|befördern
+127695.0|das Zwiegespräch
 127770.0|der Wal
 127789.0|das Karnickel
 127848.0|umherstreifen
@@ -4587,6 +4616,7 @@
 131020.0|der Schenker
 131035.0|die Sause
 131138.0|aufwerfen
+131148.0|die Pelle
 131167.0|das Holzbein
 131174.0|schreiend
 131177.0|das Toupet
@@ -4636,7 +4666,6 @@
 134326.0|die Führungsriege
 134373.0|die Probezeit
 134644.0|der Freitagabend
-134697.0|der Verein
 134706.0|das Fließband
 134801.001|der Hermelin
 134814.0|das Gelände
@@ -4646,6 +4675,7 @@
 134919.0|die Irre
 134942.0|die Flanke
 134973.0|der Swinger
+134978.0|der Schoßhund
 135059.0|demnächst
 135073.0|durchspielen
 135086.0|einschneien
@@ -4674,6 +4704,7 @@
 135790.0|überraschenderweise
 135794.0|das Aktfoto
 135857.0|der Übeltäter
+135875.0|der Werkzeugkasten
 135884.0|unterbewusst
 135900.0|dehnen
 135902.0|der Schwangerschaftsstreifen
