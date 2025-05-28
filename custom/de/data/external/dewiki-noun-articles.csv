@@ -287,6 +287,7 @@ AMOC|f
 ANC|m
 AOK|f
 APO|f
+AQAP|f
 ARBÖ|m
 ARD|f
 ARP|n
@@ -949,6 +950,7 @@ Abenteuerdurst|m
 Abenteuerer|m
 Abenteuererzählung|f
 Abenteuerfahrt|f
+Abenteuerfieber|n
 Abenteuerfilm|m
 Abenteuergeist|m
 Abenteuergelüst|n
@@ -960,6 +962,7 @@ Abenteuerin|f
 Abenteuerkino|n
 Abenteuerkomödie|f
 Abenteuerland|n
+Abenteuerlaune|f
 Abenteuerleben|n
 Abenteuerlichkeit|f
 Abenteuerliteratur|f
@@ -1272,19 +1275,42 @@ Abflughafen|m
 Abflughalle|f
 Abflugort|m
 Abflugroute|f
+Abflugschalter|m
 Abflugtag|m
+Abflugtermin|m
+Abflugterminal|n;m
 Abflugzeit|f
 Abfluss|m
+Abflussbahn|f
 Abflussbecken|n
+Abflussbeiwert|m
+Abflussbilanz|f
+Abflussbildung|f
+Abflussfaktor|m
 Abflussgebiet|n
 Abflussgraben|m
+Abflussgrube|f
 Abflusshahn|m
+Abflusshöhe|f
+Abflussjahr|n
 Abflusskanal|m
+Abflusskoeffizient|m
+Abflusskonzentration|f
+Abflusskurve|f
+Abflussleitung|f
+Abflussloch|n
+Abflussmenge|f
+Abflussmessung|f
+Abflussprozess|m
+Abflussregime|n
 Abflussreiniger|m
 Abflussrinne|f
 Abflussrohr|n
+Abflussspende|f
 Abflussstampfer|m
+Abflusssystem|n
 Abflussventil|n
+Abflussverhalten|n
 Abfolge|f
 Abfrage|f
 Abfragesprache|f
@@ -1535,6 +1561,7 @@ Abnahme|f
 Abnahmetest|m
 Abnaki|m
 Abnehmer|m
+Abnehmerfolg|m
 Abnehmerin|f
 Abnehmerland|n
 Abnehmerstaat|m
@@ -1582,6 +1609,7 @@ Abrahamitin|f
 Abrakadabra|n
 Abram|
 Abramowski|
+Abrams-Panzer|m
 Abrasax|m
 Abrasch|m
 Abrasio|f
@@ -1772,6 +1800,7 @@ Absolutiv|m
 Absolutquadrat|n
 Absolvent|m
 Absolventenfeier|f
+Absolventenliste|f
 Absolventin|f
 Absolvierung|f
 Absonderlichkeit|f
@@ -1918,6 +1947,7 @@ Abu Dhabi|
 Abu Dis|
 Abu Kamal|
 Abu Simbel|
+Abu-Nidal-Organisation|f
 Abugida|f
 Abuja|
 Abulie|f
@@ -1993,6 +2023,7 @@ Abwärme|f
 Abwärmekraftwerk|n
 Abwärtsbewegung|f
 Abwärtstrend|m
+Abyan|
 Abyssal|n
 Abyssalregion|f
 Abyssopelagial|n
@@ -2531,6 +2562,7 @@ Adlerfeder|f
 Adlergebirge|n
 Adlerhorst|m
 Adlerkapitell|n
+Adlerkopf|m
 Adlernase|f
 Adlershof|
 Adlerstein|m
@@ -3024,6 +3056,7 @@ Agrozönose|f
 Agroökologie|f
 Agroökosystem|n
 Agrypnie|f
+Agua Prieta|
 Aguaruna|
 Aguascalientes|
 Agulhas Negras|m
@@ -3084,6 +3117,7 @@ Ahreifel|f
 Ahrens|
 Ahrensburg|
 Ahrensmeier|
+Ahriman|m
 Ahrtal|n
 Ahrweiler|
 Ahrwein|m
@@ -3199,6 +3233,7 @@ Akkader|m
 Akkadisch|
 Akkadist|m
 Akkadistik|f
+Akkawi|m
 Akkerman|
 Akklamation|f
 Akklimatisation|f
@@ -3217,6 +3252,7 @@ Akkordarbeiterin|f
 Akkordeon|n
 Akkordeonist|m
 Akkordeonistin|f
+Akkordeonmusik|f
 Akkordeonspieler|m
 Akkordeonspielerin|f
 Akkordlohn|m
@@ -3484,8 +3520,10 @@ Alarmstufe Rot|f
 Alarmübung|f
 Alasani|m
 Alaska|
+Alaska State Troopers|
 Alaska-Schrift|f
 Alaska-Seelachs|m
+Alaskaner|m
 Alaun|m
 Alaunstein|m
 Alaunwasser|n
@@ -3635,6 +3673,7 @@ Alexandrismus|m
 Alexandrist|m
 Alexandrit|m
 Alexandroni-Brigade|f
+Alexandroupoli|
 Alexej|
 Alexianer|m
 Alexianerin|f
@@ -3771,6 +3810,7 @@ Alkoholkranke|f
 Alkoholkranker|m
 Alkoholkrankheit|f
 Alkoholladen|m
+Alkoholmenge|f
 Alkoholmissbrauch|m
 Alkoholometer|n
 Alkoholopfer|n
@@ -3879,6 +3919,7 @@ Allfälliges|n
 Allgemeinanästhesie|f
 Allgemeinarzt|m
 Allgemeinbegriff|m
+Allgemeinbevölkerung|f
 Allgemeinbildung|f
 Allgemeine Geschäftsbedingungen|
 Allgemeine Linguistik|f
@@ -4064,6 +4105,7 @@ Alphabetin|f
 Alphabetisierung|f
 Alphabetisierungsgrad|m
 Alphabetisierungskampagne|f
+Alphabetisierungsmaßnahme|f
 Alphabetisierungsrate|f
 Alphabetismus|m
 Alphabetschrift|f
@@ -4190,6 +4232,7 @@ Alternativer|m
 Alternativhypothese|f
 Alternativkonzept|n
 Alternativmedizin|f
+Alternativroute|f
 Alternativstrategie|f
 Alternativvorschlag|m
 Altersabbau|m
@@ -4376,6 +4419,7 @@ Aluminiumblech|n
 Aluminiumbox|f
 Aluminiumbromid|n
 Aluminiumchlorid|n
+Aluminiumdachrinne|f
 Aluminiumdose|f
 Aluminiumdraht|m
 Aluminiumfelge|f
@@ -4408,10 +4452,12 @@ Aluminiumschläger|m
 Aluminiumstange|f
 Aluminiumstuhl|m
 Aluminiumsulfat|n
+Aluminiumtisch|m
 Aluminiumtopf|m
 Aluminiumtor|n
 Aluminiumtür|f
 Aluminiumverbindung|f
+Aluminiumwand|f
 Aluminiumwerk|n
 Alumna|f
 Alumnus|m
@@ -4443,6 +4489,7 @@ Amagasaki|
 Amager|
 Amalaswintha|
 Amalbert|
+Amalekiter|m
 Amalfi|
 Amalgam|n
 Amalgamfüllung|f
@@ -4466,6 +4513,7 @@ Amateur|m
 Amateur-Astronom|m
 Amateurarchäologe|m
 Amateurastronom|m
+Amateurboxer|m
 Amateurcellist|m
 Amateurdetektiv|m
 Amateurfilm|m
@@ -4507,6 +4555,7 @@ Amazonit|m
 Ambai|
 Ambassade|f
 Ambassadeur|m
+Ambato|
 Ambe|f
 Amber|m
 Amberbaum|m
@@ -4525,6 +4574,7 @@ Ambo|m
 Amboise|
 Amboss|m
 Ambra|f
+Ambriz|
 Ambros|
 Ambrosia|f
 Ambrosius|
@@ -4953,6 +5003,7 @@ Anbeter|m
 Anbeterin|f
 Anbetracht|m
 Anbetung|f
+Anbetungszeremonie|f
 Anbiederung|f
 Anbiederungsversuch|m
 Anbieter|m
@@ -4966,6 +5017,7 @@ Anbringer|m
 Anbringung|f
 Anbruch|m
 Anbruchholz|n
+Anch|n
 Anchorage|
 Anchorman|m
 Anchorwoman|f
@@ -5111,6 +5163,7 @@ Anfälligkeit|f
 Anfänger|m
 Anfängerfehler|m
 Anfängerin|f
+Anfängerkurs|m
 Anfärbbarkeit|f
 Anführer|m
 Anführerin|f
@@ -5516,6 +5569,7 @@ Annektion|f
 Anneliese|
 Annenkirche|f
 Annerieke|
+Annerl|
 Annex|m
 Annexbau|m
 Annexion|f
@@ -5639,6 +5693,7 @@ Anschriftenprüfung|f
 Anschriftenverzeichnis|n
 Anschuldigung|f
 Ansehen|n
+Ansehensverlust|m
 Ansehnlichkeit|f
 Ansehung|f
 Anselmus|
@@ -5908,6 +5963,7 @@ Antiprisma|n
 Antiproton|n
 Antipsychiater|m
 Antipsychiatrie|f
+Antipsychotikum|n
 Antipyretikum|n
 Antipädagogik|f
 Antiqua|f
@@ -5947,6 +6003,7 @@ Antiwasserstoff|m
 Antiwitz|m
 Antiziganismus|m
 Antizionismus|m
+Antizionist|m
 Antizipation|f
 Antizipierung|f
 Antizyklone|f
@@ -6146,6 +6203,7 @@ Apfelbrocker|m
 Apfelbutzen|m
 Apfelbäckchen|n
 Apfelbäumchen|n
+Apfeldieb|m
 Apfeldiät|f
 Apfelentkerner|m
 Apfelernte|f
@@ -6172,6 +6230,7 @@ Apfelmus|n;m
 Apfelmännchen|n
 Apfelpfannkuchen|m
 Apfelplantage|f
+Apfelrest|m
 Apfelring|m
 Apfelsaft|m
 Apfelsaftkonzentrat|n
@@ -6342,6 +6401,7 @@ Applaus|m
 Apple|
 Applet|n
 Appletini|m
+Appleton|
 Applikabilität|f
 Applikate|f
 Applikation|f
@@ -6635,6 +6695,7 @@ Arbeitsmigration|f
 Arbeitsminister|m
 Arbeitsministerin|f
 Arbeitsministerium|n
+Arbeitsminute|f
 Arbeitsmittel|n
 Arbeitsmoral|f
 Arbeitsmöglichkeit|f
@@ -6790,6 +6851,7 @@ Archivdirektor|m
 Archivdirektorin|f
 Archivdokument|n
 Archivexemplar|n
+Archivgebäude|n
 Archivierung|f
 Archivmaterial|n
 Archivraum|m
@@ -6967,6 +7029,7 @@ Armeejeep|m
 Armeekorps|n
 Armeekraft|f
 Armeelaster|m
+Armeelastwagen|m
 Armeeoffizier|m
 Armeepatrouille|f
 Armeeration|f
@@ -6981,6 +7044,7 @@ Armengeld|n
 Armengrab|n
 Armenhaus|n
 Armenhilfe|f
+Armenia|
 Armenien|
 Armenienmöwe|f
 Armenier|m
@@ -6996,8 +7060,10 @@ Armenviertel|n
 Armer|m
 Armer Ritter|m
 Armergometer|n
+Armeslänge|f
 Armgard|
 Armgelenk|n
+Armidale|
 Armierung|f
 Armillarsphäre|f
 Armin|
@@ -7080,6 +7146,7 @@ Arrièregarde|f
 Arrièrepensée|f
 Arroba|f
 Arroganz|f
+Arrokoth|n
 Arrondierung|f
 Arrondissement|n
 Arrow-Theorem|n
@@ -7212,6 +7279,7 @@ Arzneimittelabgabe|f
 Arzneimittelaufsicht|f
 Arzneimittelaufsichtsbehörde|f
 Arzneimittelhersteller|m
+Arzneimittelknappheit|f
 Arzneimittelkonsum|m
 Arzneimittelproduktion|f
 Arzneimittelskandal|m
@@ -7249,6 +7317,7 @@ As-Dur-Tonleiter|f
 Asaba|
 Asad Kaschmir|
 Asahikawa|
+Asana|n;f
 Asansol|
 Asant|m
 Asarine|f
@@ -7312,6 +7381,7 @@ Aserbaidschanisch|
 Aserbeidschan|
 Aserbeidschanisch|
 Asexualität|f
+Asheville|
 Ashland|
 Asi|m
 Asialie|f
@@ -7487,6 +7557,8 @@ Asthmatikerin|f
 Asti|
 Asti spumante|m
 Astloch|n
+Aston Martin|m
+Astoria|
 Astrachan|
 Astragalus|m
 Astralkörper|m
@@ -7521,6 +7593,7 @@ Astrosophie|f
 Asturien|
 Asturier|m
 Asturisch|
+Astwerk|n
 Asumboa|
 Asunción|
 Asyl|n
@@ -7553,11 +7626,13 @@ Aszese|f
 Atair|m
 Ataman|m
 Ataraxie|f
+Atascadero|
 Atatürk-Brücke|f
 Atavismus|m
 Ataxie|f
 Atayal|
 Atbara|m
+Atbassar|
 Atchinesisch|
 Atelektase|f
 Atelier|n
@@ -7645,6 +7720,7 @@ Atmidometer|n
 Atmometer|n
 Atmosphäre|f
 Atmung|f
+Atmungsaktivität|f
 Atmungsorgan|n
 Atoll|n
 Atollpost|f
@@ -7801,6 +7877,7 @@ Au|f
 Au-pair|n;m;f
 Au-pair-Junge|m
 Au-pair-Mädchen|n
+Aua|n
 Aub|
 Aubade|f
 Aubagne|
@@ -7905,6 +7982,7 @@ Aufforderung|f
 Aufforderungscharakter|m
 Aufforderungssatz|m
 Aufforstung|f
+Aufforstungsgebiet|n
 Auffrischung|f
 Auffrischungsimpfung|f
 Auffälligkeit|f
@@ -7915,6 +7993,7 @@ Aufführungspraxis|f
 Auffüllung|f
 Aufgabe|f
 Aufgabenbereich|m
+Aufgabenerledigung|f
 Aufgabengebiet|n
 Aufgabenkreis|m
 Aufgabenstellung|f
@@ -7978,8 +8057,11 @@ Aufmachung|f
 Aufmarsch|m
 Aufmaß|n
 Aufmerksamkeit|f
+Aufmerksamkeits-Defizit-Hyperaktivitäts-Störung|f
 Aufmerksamkeitsdefizit|n
+Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung|f
 Aufmerksamkeitsdefizit-Hyperaktivitätsstörung|f
+Aufmerksamkeitsdefizithyperaktivitätsstörung|f
 Aufmerksamkeitsdefizitsyndrom|n
 Aufmerksamkeitsspanne|f
 Aufmunterung|f
@@ -8122,6 +8204,7 @@ Aufwiegler|m
 Aufwieglerin|f
 Aufwind|m
 Aufwindkraftwerk|n
+Aufwärmtraining|n
 Aufwärmung|f
 Aufwärmübung|f
 Aufwärtsbewegung|f
@@ -8274,6 +8357,7 @@ Aurich|
 Auricula|f
 Aurignacien|n
 Aurikel|f
+Aurillac|
 Auripigment|n
 Aurora|f
 Aurorafalter|m
@@ -8368,6 +8452,7 @@ Ausfahrtstraße|f
 Ausfall|m
 Ausfallerscheinung|f
 Ausfallhof|m
+Ausfallschritt|m
 Ausfallstraße|f
 Ausfallswinkel|m
 Ausfallwinkel|m
@@ -8405,6 +8490,7 @@ Ausgangssprache|f
 Ausgangsstoff|m
 Ausgangstür|f
 Ausgangsverbot|n
+Ausgebufftheit|f
 Ausgeburt|f
 Ausgedinge|n
 Ausgefuchstheit|f
@@ -9135,6 +9221,7 @@ Autotür|f
 Autounfall|m
 Autovakzin|n
 Autovakzine|f
+Autoverdeck|n
 Autoverkehr|m
 Autoverkäufer|m
 Autoverkäuferin|f
@@ -9166,6 +9253,7 @@ Autökologie|f
 Auvergne|f
 Auwald|m
 Auwerder|m
+Auxerre|
 Auxiliar|n
 Auxiliareinheit|f
 Auxiliarsoldat|m
@@ -9376,6 +9464,7 @@ Ayurveda|m;n
 Ayurweda|m;n
 Azalee|f
 Azalie|f
+Azamgarh|
 Azande|
 Azarolapfel|m
 Azaroldorn|m
@@ -9421,6 +9510,7 @@ Azoospermie|f
 Azoren|
 Azorenhoch|n
 Azoreninsel|f
+Azorubin|n
 Azotobacter|m;n
 Azotobakter|m;n
 Azotobakterin|n
@@ -9466,6 +9556,7 @@ BASIC|n
 BAföG|n
 BBC|f
 BBC-Dokumentation|f
+BBC-Korrespondent|m
 BBk|f
 BFV|m
 BGB|n;f
@@ -9506,6 +9597,7 @@ Baas|m
 Baath-Partei|f
 Bab al-Mandab|m
 Baba|f;m
+Baba Ghanoush|n
 Babatana|
 Babbelas|m
 Babekuhl|
@@ -9563,6 +9655,7 @@ Babysitting|n
 Babyspeck|m
 Babyspielzeug|n
 Babysprache|f
+Babyspucke|f
 Babystrich|m
 Babytochter|f
 Babywaage|f
@@ -10046,6 +10139,7 @@ Bajo Sexto|n
 Bajonett|n
 Bajonettangriff|m
 Bajonettverschluss|m
+Bajonettwunde|f
 Bajuware|m
 Bajuwarin|f
 Bakcheus|m
@@ -10274,6 +10368,7 @@ Bambusboden|m
 Bambusflöte|f
 Bambusgeflecht|n
 Bambusgerüst|n
+Bambushalm|m
 Bambushütte|f
 Bambusmöbel|n
 Bambusrohr|n
@@ -10314,6 +10409,7 @@ Bananensaft|m
 Bananenschale|f
 Bananenstaude|f
 Bananenstecker|m
+Bananenwurf|m
 Bananenwäldchen|n
 Bananenäquivalenzdosis|f
 Banat|n
@@ -10502,6 +10598,7 @@ Bantu|m;f;n
 Bantusprache|f
 Baobab|m
 Baoding|
+Baoji|
 Baotou|
 Baoulé|
 Baphomet|m
@@ -10532,6 +10629,7 @@ Barackentür|f
 Barackler|m
 Baracklerin|f
 Barada|m
+Barangay|n
 Baranowitschi|
 Barapasaurus|m
 Barapasaurus tagorei|m
@@ -10633,6 +10731,7 @@ Barnim|m
 Barnsley|
 Barntrup|
 Barock|n;m
+Barockgarten|m
 Barockgitarre|f
 Barockkirche|f
 Barockorgel|f
@@ -10645,6 +10744,7 @@ Barolo|m
 Barometer|n;m
 Baron|m
 Baroness|f
+Baronesse|f
 Baronet|m
 Baronin|f
 Baronisierung|f
@@ -10718,8 +10818,10 @@ Barzahlung|f
 Basalmembran|f
 Basalt|m
 Basaltblock|m
+Basaltbrocken|m
 Basaltfelsen|m
 Basaltklippe|f
+Basaltmauer|f
 Basaltsäule|f
 Basar|m
 Baschkire|m
@@ -10737,6 +10839,7 @@ Baseballschläger|m
 Baseballspiel|n
 Baseballspieler|m
 Baseballspielerin|f
+Baseballstadion|n
 Baseballteam|n
 Baseballtrainer|m
 Baseballtrainerin|f
@@ -10848,6 +10951,7 @@ Bastian|
 Bastille|f
 Bastion|f
 Bastionierung|f
+Bastkorb|m
 Bastler|m
 Bastmatte|f
 Bastogne|
@@ -10931,6 +11035,7 @@ Bauchfleisch|n
 Bauchflosse|f
 Bauchfuß|m
 Bauchgefühl|n
+Bauchgegend|f
 Bauchgrimmen|n
 Bauchhöhle|f
 Bauchhöhlenschwangerschaft|f
@@ -11132,6 +11237,7 @@ Baumrinde|f
 Baumrutscher|m
 Baumschaden|m
 Baumscheibe|f
+Baumschlange|f
 Baumschule|f
 Baumschulenweg|
 Baumschuler|m
@@ -11452,6 +11558,7 @@ Beelzebock|m
 Beelzebub|m
 Beelzebul|m
 Beendigung|f
+Beengtheit|f
 Beengung|f
 Beep|m
 Beer Sheva|
@@ -11616,6 +11723,7 @@ Begrüßungszeremonie|f
 Begum|f
 Begutachtung|f
 Begünstigter|m
+Behaartheit|f
 Behaarung|f
 Behaben|n
 Behagen|n
@@ -11733,6 +11841,7 @@ Beihilfe|f
 Beiklang|m
 Beikoch|m
 Beikost|f
+Beiköchin|f
 Beil|n
 Beilage|f
 Beilagenhinweis|m
@@ -11760,6 +11869,7 @@ Beinkleid|n
 Beinling|m
 Beinlänge|f
 Beinmuskulatur|f
+Beinposition|f
 Beinprothese|f
 Beinring|m
 Beinschiene|f
@@ -12016,6 +12126,7 @@ Bengali|
 Bengalisch|
 Bengalo|m
 Bengaluru|
+Bengasi|
 Bengbu|
 Bengel|m
 Bengelchen|n
@@ -12101,6 +12212,7 @@ Benützerkreis|m
 Beo|m
 Beobachter|m
 Beobachterin|f
+Beobachterstatus|m
 Beobachtung|f
 Beobachtungsadäquatheit|f
 Beobachtungsfeld|n
@@ -12883,10 +12995,12 @@ Betonbunker|m
 Betondecke|m
 Betondschungel|m;n
 Betonfabrik|f
+Betonfuß|m
 Betonfußboden|m
 Betongarage|f
 Betongebäude|n
 Betonhaus|n
+Betonhäuschen|n
 Betonie|f
 Betonklotz|m
 Betonkopf|m
@@ -12901,6 +13015,7 @@ Betonoberfläche|f
 Betonpfeiler|m
 Betonplatte|f
 Betonpumpe|f
+Betonrohr|n
 Betonsiedlung|f
 Betonskulptur|f
 Betonsockel|m
@@ -12939,6 +13054,7 @@ Betreuungsgeld|n
 Betreuungsplatz|m
 Betreuungsschlüssel|m
 Betrieb|m
+Betriebsabteilung|f
 Betriebsamkeit|f
 Betriebsanleitung|f
 Betriebsart|f
@@ -13135,12 +13251,14 @@ Bevölkerungsschicht|f
 Bevölkerungsschwund|m
 Bevölkerungsstatistik|f
 Bevölkerungsstruktur|f
+Bevölkerungsteil|m
 Bevölkerungsumsiedlung|f
 Bevölkerungsverteilung|f
 Bevölkerungswachstum|n
 Bevölkerungswanderung|f
 Bevölkerungswissenschaft|f
 Bevölkerungszahl|f
+Bevölkerungszusammensetzung|f
 Bewacher|m
 Bewacherin|f
 Bewachung|f
@@ -13222,6 +13340,7 @@ Bewusstseinsentwicklung|f
 Bewusstseinsseele|f
 Bewusstseinsveränderung|f
 Bewusstseinswissenschaft|f
+Bewusstseinszustand|m
 Bewährung|f
 Bewährungsfrist|f
 Bewährungsgrad|m
@@ -13240,6 +13359,7 @@ Bexbach|
 Bey|m
 Beyer|
 Beykoz|
+Beyoğlu|
 Bezahlfernsehen|n
 Bezahlkarte|f
 Bezahlschranke|f
@@ -13368,6 +13488,7 @@ Bibelübersetzung|f
 Biber|m
 Biberach|
 Biberburg|f
+Biberdamm|m
 Biberfell|n
 Bibergeil|n
 Biberhund|m
@@ -13432,6 +13553,7 @@ Biedermann|m
 Biedermannsdorf|
 Biedermeier|n
 Biegeprüfung|f
+Biegeradius|m
 Biegung|f
 Biegungsfestigkeit|f
 Biel|
@@ -13657,6 +13779,7 @@ Bikinifigur|f
 Bikinilinie|f
 Bikinimodel|n
 Bikinimädchen|n
+Biko|m
 Bikompositum|n
 Bilabial|m
 Bilanz|f
@@ -13668,6 +13791,7 @@ Bilch|m
 Bild|n
 Bild-Austast-Synchronsignal|n
 Bild-Zeitung|f
+Bildagentur|f
 Bildauflösung|f
 Bildausschnitt|m
 Bildband|m
@@ -13957,6 +14081,7 @@ Binnenschifferin|f
 Binnenschifffahrt|f
 Binnensee|m
 Binnenstaat|m
+Binnenstruktur|f
 Binnenvertriebener|m
 Binnenwanderung|f
 Binnenwasserstraße|f
@@ -14199,6 +14324,7 @@ Birmanisch|
 Birmingham|
 Birnbaum|m
 Birne|f
+Birnenbaum|m
 Birnengehäuse|n
 Birnengeruch|m
 Birnengriebs|m
@@ -14531,6 +14657,7 @@ Blaumiese|
 Blaupause|f
 Blauracke|f
 Blauregen|m
+Blaureiher|m
 Blaurückenwaldsänger|m
 Blauschimmelkäse|m
 Blauschönung|f
@@ -14662,6 +14789,7 @@ Blickwinkel|m
 Blide|f
 Blies|f
 Blieskastel|
+Blimp|m
 Blind Date|n
 Blindbewerbung|f
 Blinddarm|m
@@ -14893,6 +15021,7 @@ Bluterin|f
 Bluterkrankheit|f
 Blutfleck|m
 Blutflecken|m
+Blutfontäne|f
 Blutgang|m
 Blutgefäß|n
 Blutgefäßentzündung|f
@@ -15089,6 +15218,7 @@ Bock|m;n
 Bockbier|n
 Bockdoppelflinte|f
 Bockenem|
+Bockerl|n
 Bockigkeit|f
 Bockleiter|f
 Bockmilje|m;f
@@ -15183,6 +15313,7 @@ Bodyguard|m
 Bodylotion|f
 Bodyshaming|n
 Bodystyling|n
+Bodyweight-Übung|f
 Boehme|
 Boeing|f
 Bofist|m
@@ -15205,6 +15336,7 @@ Bogenschütze|m
 Bogenschützin|f
 Bogensehne|f
 Bogensekunde|f
+Bogenspannung|f
 Bogey|n
 Bogner|m
 Bogor|
@@ -15220,6 +15352,7 @@ Bohlenbrücke|f
 Bohlenweg|m
 Bohne|f
 Bohnenart|f
+Bohnenbeet|n
 Bohnenbrei|m
 Bohnenbrock|m
 Bohneneintopf|m
@@ -15306,6 +15439,7 @@ Boltenhagener|m
 Bolton|
 Bolustod|m
 Bolzen|m;n
+Bolzenschneider|m
 Bombardement|n
 Bombardierkäfer|m
 Bombardierung|f
@@ -15324,6 +15458,7 @@ Bombenentschärfer|m
 Bombenentschärfungskommando|n
 Bombenerfolg|m
 Bombenexplosion|f
+Bombenfabrik|f
 Bombenfest|n
 Bombenfigur|f
 Bombenflugzeug|n
@@ -15347,6 +15482,7 @@ Bombenschuss|m
 Bombenschütze|m
 Bombenspezialist|m
 Bombensplitter|m
+Bombenspürhund|m
 Bombenstimmung|f
 Bombenteppich|m
 Bombenterror|m
@@ -15354,6 +15490,7 @@ Bombentest|m
 Bombentreffer|m
 Bombentrichter|m
 Bombenvorstellung|f
+Bombenwerkstatt|f
 Bomber|m
 Bomberflotte|f
 Bombergeschwader|n
@@ -15612,6 +15749,7 @@ Bougainvillie|f
 Bouillabaisse|f
 Bouillon|f
 Boulangerie|f
+Boulder|
 Boulette|f
 Boulevard|m
 Boulevardblatt|n
@@ -15631,6 +15769,7 @@ Bourg-en-Bresse|
 Bourgeois|m
 Bourgeoisie|f
 Bourges|
+Bourj Hammoud|
 Bournemouth|
 Bourrée|f
 Boustrophedon|n
@@ -15667,10 +15806,12 @@ Boxenluder|n
 Boxenstopp|m
 Boxer|m
 Boxeraufstand|m
+Boxergesicht|n
 Boxerin|f
 Boxermotor|m
 Boxershort|f
 Boxershorts|f
+Boxfan|m
 Boxhandschuh|m
 Boxing Day|m
 Boxkalf|n
@@ -15680,6 +15821,7 @@ Boxpromoter|m
 Boxsack|m
 Boxschuh|m
 Boxsport|m
+Boxstall|m
 Boxweltmeister|m
 Boxweltmeisterin|f
 Boy|
@@ -16110,6 +16252,7 @@ Brennschere|f
 Brennspiritus|m
 Brennstoff|m
 Brennstoffmenge|f
+Brennstoffreserve|f
 Brennstoffzelle|f
 Brennstoffzellenauto|n
 Brennstoffzellenbus|m
@@ -16361,6 +16504,8 @@ Brony|m
 Bronze|f
 Bronzearbeit|f
 Bronzearmreif|m
+Bronzeaxt|f
+Bronzebecken|n
 Bronzedraht|m
 Bronzeengel|m
 Bronzegefäß|n
@@ -16791,6 +16936,7 @@ Buchwald|
 Buchweizen|m
 Buchweizengrütze|f
 Buchweizenmehl|n
+Buchweizensuppe|f
 Buchwert|m
 Buchwesen|n
 Buchwort|n
@@ -16840,6 +16986,7 @@ Budiker|m
 Budo|n
 Budoka|m
 Budweis|
+Buenaventura|
 Buenos Aires|
 Buff|m
 Buffalo|
@@ -16903,6 +17050,7 @@ Bulle|m;f
 Bullenauge|n
 Bullenhai|m
 Bullenhitze|f
+Bullennatter|f
 Bullenschwein|n
 Bullenstander|m
 Bullerei|f
@@ -17365,6 +17513,7 @@ Butterpilz|m
 Butterpreis|m
 Butterproduktion|f
 Butterreinfett|n
+Butterreis|m
 Butterröhrling|m
 Butterschmalz|n
 Butterschmuggel|m
@@ -17436,6 +17585,7 @@ Bäckerhandwerk|n
 Bäckerhefe|f
 Bäckerin|f
 Bäckerladen|m
+Bäckerlehrling|m
 Bäckermeister|m
 Bäckermeisterin|f
 Bäckermütze|f
@@ -17605,6 +17755,7 @@ Bücherschrank|m
 Bücherskorpion|m
 Bücherstapel|m
 Büchertisch|m
+Bücherverbot|n
 Bücherverbrennung|f
 Bücherverkauf|m
 Bücherversand|m
@@ -17642,6 +17793,7 @@ Büfett|n
 Büffel|m
 Büffelfleisch|n
 Büffelherde|f
+Büffeljäger|m
 Büffelmilch|
 Büffelrobe|f
 Büffet|n
@@ -17747,6 +17899,7 @@ Bürgerrechtlerin|f
 Bürgerschaft|f
 Bürgerschaftswahl|f
 Bürgerschreck|m
+Bürgerschule|f
 Bürgersinn|m
 Bürgersteig|m
 Bürgertum|n
@@ -17773,6 +17926,7 @@ Bürokrat|m
 Bürokratie|f
 Bürokratieabbau|m
 Bürokratin|f
+Bürokratismus|m
 Büroleben|n
 Büroleiter|m
 Büroleiterin|f
@@ -18030,6 +18184,7 @@ Cali|
 Cali-Kartell|n
 Caliche|f
 Californium|n
+Calisthenics|
 Call|m
 Call-by-Call|n
 Callboy|m
@@ -18050,6 +18205,7 @@ Caló|
 Camaieu|f
 Cambrai|
 Cambridge|
+Cambridge-Absolvent|m
 Camcorder|m
 Camelot|m
 Camelus|
@@ -18086,6 +18242,7 @@ Canadian Whisky|m
 Canadier|m
 Canaille|f
 Canarsie|
+Canary Wharf|
 Canasta|n
 Canberra|
 Cancan|m
@@ -18203,6 +18360,7 @@ Cassiopeium|n
 Cassis|m
 Cast|m;f
 Castel Gandolfo|
+Castine|
 Casting|n
 Castingshow|f
 Castingsport|m
@@ -18360,9 +18518,15 @@ Chancenvorteil|m
 Chancenwucher|m
 Chandler|
 Chandrapur|
+Changchun|
+Changde|
 Changelog|n
 Changement|n
+Changsha|
+Changshu|
 Changwon|
+Changzhi|
+Chanita|
 Channeled Scablands|
 Chanson de Geste|f
 Chanson de geste|f
@@ -18381,6 +18545,7 @@ Chaostag|m
 Chaostheorie|f
 Chaot|m
 Chaotin|f
+Chaozhou|
 Chapati|n
 Chapeau|m
 Chapeau claque|m
@@ -18458,6 +18623,8 @@ Chatpartnerin|f
 Chatprotokoll|n
 Chatrollenspiel|n
 Chatroom|m
+Chattahoochee River|m
+Chattanooga|
 Chatte|m
 Chatten|n
 Chatter|m
@@ -18489,6 +18656,7 @@ Cheder|m
 Chederschule|f
 Chedi|m
 Chedive|m
+Cheektowaga|
 Cheerleader|m
 Cheerleaderin|f
 Cheeseburger|m
@@ -18499,6 +18667,7 @@ Chef de Partie|m
 Chefankläger|m
 Chefarzt|m
 Chefarztpflicht|f
+Chefermittler|m
 Chefetage|f
 Chefideologe|m
 Chefin|f
@@ -18524,6 +18693,7 @@ Chefärztin|f
 Cheilitis|f
 Cheiloschisis|f
 Chelsea|
+Chelsea Piers|
 Chemie|f
 Chemieabfall|m
 Chemiebuch|n
@@ -18545,6 +18715,7 @@ Chemiestudium|n
 Chemieunternehmen|n
 Chemieunterricht|m
 Chemiewaffe|f
+Chemiewaffenprogramm|n
 Chemiewerk|n
 Chemikalie|f
 Chemikant|m
@@ -18576,6 +18747,7 @@ Cherub|m
 Cherusker|m
 Cheruskerin|f
 Chesapeake Bay|f
+Chesterfield-Sofa|n
 Chesterkäse|m
 Chewa|
 Cheyenne|m;f
@@ -18598,9 +18770,11 @@ Chichi|n
 Chick|n;f
 Chickasaw|n
 Chickee|m
+Chico|
 Chicomoztoc|
 Chicorée|m;f
 Chiemsee|m
+Chifeng|
 Chiffonkleid|n
 Chiffrat|n
 Chiffre|f
@@ -18970,6 +19144,7 @@ Citrusfrucht|f
 City|f
 Citymaut|f
 Ciudad del Este|
+Cixi|
 Cizek|
 Claas|
 Cladogramm|n
@@ -19080,6 +19255,7 @@ Cocain|n
 Cocainhandel|m
 Cocastrauch|m
 Cochem|
+Cochinchina|
 Cochon|m
 Cockerspaniel|m
 Cockney|n
@@ -19124,6 +19300,7 @@ Cognacflasche|f
 Cognacglas|n
 Cognacschwenker|m
 Cognomen|n
+Cohiba|f
 Cohoes|
 Coiffeur|m
 Coitus|m
@@ -19155,6 +19332,7 @@ Colorado|m
 Colorado River|m
 Colorado Springs|
 Coloured|m
+Colt|m
 Coltan|n
 Columbarium|n
 Columbia|
@@ -19319,6 +19497,7 @@ Contouche|f
 Contradictio in Adiecto|f
 Controller|m
 Controlling|n
+Conyers|
 Cook|
 Cookie|n;m
 Cookinseln|
@@ -19549,6 +19728,7 @@ Crivitz|
 Croissant|n
 Croisé|n
 Cromagnontypus|m
+Cromwell-Panzer|m
 Cronenberg|
 Croon|
 Croquis|n
@@ -19615,6 +19795,7 @@ Cul de Paris|m
 Culotte|f
 Culver City|
 Cumarin|n
+Cumberland|
 Cumberlandsauce|f
 Cumberlandsoße|f
 Cumulus|m
@@ -19838,6 +20019,7 @@ Dachgruber|
 Dachhase|m
 Dachhaut|f
 Dachkammer|f
+Dachkante|f
 Dachkonstruktion|f
 Dachkännel|m
 Dachlatte|f
@@ -20054,6 +20236,7 @@ Dampfturbine|f
 Dampfwalze|f
 Dampfwolke|f
 Dampfwölkchen|n
+Damur|
 Damwild|n
 Damüls|
 Dan|m
@@ -20213,8 +20396,10 @@ Datenpanne|f
 Datensammlung|f
 Datensatz|m
 Datenschutz|m
+Datenschutz-Grundverordnung|f
 Datenschutzbeauftragter|m
 Datenschutzerklärung|f
+Datenschutzgrundverordnung|f
 Datenschutzrichtlinie|f
 Datenschutzverstoß|m
 Datenschützer|m
@@ -20253,6 +20438,7 @@ Dattelner|m
 Dattelnerin|f
 Dattelpalme|f
 Dattelpalmenplantage|f
+Dattelsirup|m
 Dattelwein|m
 Datum|n
 Datumsangabe|f
@@ -20273,6 +20459,7 @@ Dauerbrenner|m
 Dauercamper|m
 Dauerclinch|m
 Dauereinsatz|m
+Dauererektion|f
 Dauerfeuer|n
 Dauerfrostboden|m
 Dauergast|m
@@ -20286,6 +20473,7 @@ Dauerlauf|m
 Dauerleihgabe|f
 Dauerlutscher|m
 Dauerlächeln|n
+Dauerläufer|m
 Dauerlösung|f
 Dauerlüften|n
 Dauerlüftung|f
@@ -20347,7 +20535,9 @@ Day-Trader|m
 Day-Trading|n
 Daytrader|m
 Daytrading|n
+Dazhou|
 Dazien|
+De Grey River|m
 De la Motte|
 De-facto-Regime|n
 Deadline|f
@@ -20358,6 +20548,7 @@ Deal|m
 Dealer|m
 Dealerin|f
 Dealertreff|m
+Dearborn|
 Death Metal|m
 Death-Metal-Band|f
 Deathmatch|n
@@ -20386,6 +20577,7 @@ Debütant|m
 Debütantin|f
 Debütantinnenball|m
 Debütroman|m
+Decadi|m
 Decan|n
 Decanal|n
 Decansäure|f
@@ -20412,6 +20604,7 @@ Deckenheizung|f
 Deckenkonstruktion|f
 Deckenlampe|f
 Deckenlautsprecher|m
+Deckenleuchte|f
 Deckenlicht|n
 Deckenlüftung|f
 Deckenventilator|m
@@ -20525,6 +20718,7 @@ Deidesheim|
 Deimos|m
 Deindustrialisierung|f
 Deinhardt|
+Deir Jassin|
 Deir Yasin|
 Deir Yassin|
 Deismus|m
@@ -20539,6 +20733,7 @@ Dejeuner|n
 Deka|n
 Dekade|f
 Dekadenz|f
+Dekadi|m
 Dekagramm|n
 Dekalkierpapier|n
 Dekalog|m
@@ -20625,6 +20820,7 @@ Dellen|
 Dellwarze|f
 Delmenhorst|
 Delogierung|f
+Delos|
 Delphin|m
 Delphinarium|n
 Delsberg|
@@ -20674,6 +20870,7 @@ Demokratiefeindlichkeit|f
 Demokratiefreundlichkeit|f
 Demokratiekrise|f
 Demokratiemüdigkeit|f
+Demokratieunfähigkeit|f
 Demokratieverständnis|n
 Demokratin|f
 Demokratische Bundesrepublik Nepal|f
@@ -21027,6 +21224,7 @@ Deutschland|n
 Deutschland-Achter|m
 Deutschland-Fan|m
 Deutschlandachter|m
+Deutschlandaufenthalt|m
 Deutschlandchef|m
 Deutschlandchefin|f
 Deutschlandfahne|f
@@ -21071,6 +21269,7 @@ Devise|f
 Devisenbringer|m
 Devisenmangel|m
 Devon|n
+Devonshire|
 Devotion|f
 Devotionalie|f
 Devotionsname|m
@@ -21086,6 +21285,7 @@ Dezemberabend|m
 Dezemberausgabe|f
 Dezemberfieber|n
 Dezemberheft|n
+Dezemberhimmel|m
 Dezemberhälfte|f
 Dezemberkälte|f
 Dezembermorgen|m
@@ -21197,6 +21397,7 @@ Dialysepatient|m
 Dialysepatientin|f
 Dialysestation|f
 Diamant|m;f
+Diamant-Klapperschlange|f
 Diamant-Sutra|n
 Diamantenbergbau|m
 Diamantenhandel|m
@@ -21390,6 +21591,7 @@ Dienstmädchenkammer|f
 Dienstmütze|f
 Dienstordnung|f
 Dienstpass|m
+Dienstpersonal|n
 Dienstpflicht|f
 Dienstpistole|f
 Dienstpost|f
@@ -21864,6 +22066,8 @@ Diärese|f
 Diät|f
 Diätar|m
 Diätenanpassung|f
+Diätende|n
+Diätender|m
 Diätetikum|n
 Diättipp|m
 Diätvorschrift|f
@@ -21923,6 +22127,7 @@ Dodonowo|
 Doge|m
 Dogenpalast|m
 Dogge|f
+Doggerland|n
 Dogma|n
 Dogmatik|f
 Dogmatiker|m
@@ -22037,6 +22242,8 @@ Dominoeffekt|m
 Dominospiel|n
 Dominostein|m
 Domizil|n
+Domkapellmeister|m
+Domkapellmeisterin|f
 Domlager|n
 Dommitzsch|
 Domorgel|f
@@ -22145,6 +22352,7 @@ Doppelakut|m
 Doppelausstellung|f
 Doppelbau|m
 Doppelbauer|m
+Doppelbegräbnis|n
 Doppelbelastung|f
 Doppelbesteuerungsabkommen|n
 Doppelbesäumkreissäge|f
@@ -22169,6 +22377,7 @@ Doppelfenster|n
 Doppelflinte|f
 Doppelflüchtling|m
 Doppelfunktion|f
+Doppelgarage|f
 Doppelgrab|n
 Doppelgravis|m
 Doppelgänger|m
@@ -22326,6 +22535,7 @@ Dorftrottel|m
 Dorfvorsteher|m
 Dorfvorsteherin|f
 Dorfweib|n
+Dorfzentrum|n
 Doris|f
 Dorisch|
 Dorit|
@@ -22799,6 +23009,7 @@ Drogenentzug|m
 Drogenerfahrung|f
 Drogenermittlung|f
 Drogenexporteur|m
+Drogenexzess|m
 Drogenfahnder|m
 Drogenfahnderin|f
 Drogenfahrt|f
@@ -22809,6 +23020,7 @@ Drogengeschichte|f
 Drogengeschäft|n
 Drogenhandel|m
 Drogenhandlung|f
+Drogenhauptstadt|f
 Drogenhochburg|f
 Drogenhund|m
 Drogenhändler|m
@@ -22920,6 +23132,7 @@ Drosselvene|f
 Drubbel|m
 Druck|m
 Druck-Erzeugnis|n
+Druckabfall|m
 Druckakzent|m
 Druckanzug|m
 Druckausgabe|f
@@ -23175,6 +23388,7 @@ Duodenum|n
 Duodezfürst|m
 Duodezimalsystem|n
 Duodezkönig|m
+Duodi|m
 Duopol|n
 Duosonate|f
 Dupatta|f
@@ -23400,6 +23614,8 @@ Dynamik|f
 Dynamis|f
 Dynamismus|m
 Dynamit|n
+Dynamitexplosion|f
+Dynamitfischen|n
 Dynamitladung|f
 Dynamitstange|f
 Dynamo|m
@@ -23687,6 +23903,7 @@ E-Mail-Kommunikation|f
 E-Mail-Konto|n
 E-Mail-Postfach|n
 E-Mail-Programm|n
+E-Mail-Verkehr|m
 E-Mail-Wurm|m
 E-Mobilität|f
 E-Motor|m
@@ -23745,6 +23962,8 @@ EU-Land|n
 EU-Landwirtschaftskommissar|m
 EU-Landwirtschaftskommissarin|f
 EU-Ministerrat|m
+EU-Mitglied|n
+EU-Mitgliedsstaat|m
 EU-Mitgliedstaat|m
 EU-Osterweiterung|f
 EU-Parlament|n
@@ -23819,6 +24038,7 @@ Echsenart|f
 Echsenbeckensaurier|m
 Echsengestalt|f
 Echsenkrieger|m
+Echsenmensch|m
 Echte Betonie|f
 Echte Bärentraube|f
 Echter Alant|m
@@ -24301,6 +24521,7 @@ Eigenfunktion|f
 Eigengeruch|m
 Eigengeschmack|m
 Eigengewicht|n
+Eigengewichtübung|f
 Eigengewächs|n
 Eigengrau|n
 Eigenheim|n
@@ -24322,6 +24543,7 @@ Eigenleben|n
 Eigenliebe|f
 Eigenlob|n
 Eigenlüftung|f
+Eigenmarke|f
 Eigenmächtigkeit|f
 Eigenname|m
 Eigennutz|m
@@ -24581,6 +24803,7 @@ Einheitlicher Euro-Zahlungsverkehrsraum|m
 Einheitlichkeit|f
 Einheitsbilanz|f
 Einheitsbrei|m
+Einheitserfahrung|f
 Einheitsformat|n
 Einheitsfront|f
 Einheitsgemeinde|f
@@ -25054,6 +25277,7 @@ Eisenatom|n
 Eisenbahn|f
 Eisenbahnabteil|n
 Eisenbahnagentur der Europäischen Union|f
+Eisenbahnangestellter|m
 Eisenbahnarbeiter|m
 Eisenbahnarbeiterin|f
 Eisenbahnbrücke|f
@@ -25294,6 +25518,7 @@ Eisvogel|m
 Eisvogelfeder|f
 Eiswasser|n
 Eiswein|m
+Eisweinlese|f
 Eiswürfel|m
 Eiswüste|f
 Eiszapfen|m
@@ -25424,6 +25649,7 @@ Electronic Book|n
 Elefant|m
 Elefantenbestand|m
 Elefantenbulle|m
+Elefantenbüchse|f
 Elefantenfriedhof|m
 Elefantenfuß|m
 Elefantengedächtnis|n
@@ -25655,6 +25881,7 @@ Eliteforscher|m
 Elitenforscher|m
 Elitenkultur|f
 Eliteorden|m
+Eliteorganisation|f
 Eliteschule|f
 Elitesoldat|m
 Elitesoldatin|f
@@ -25953,6 +26180,7 @@ Endorphin|n
 Endoskelett|n
 Endoskopie|f
 Endphase|f
+Endposition|f
 Endpreis|m
 Endprodukt|n
 Endpunkt|m
@@ -26089,6 +26317,7 @@ Englandreise|f
 Englein|n
 Englisch|
 Englischarbeit|f
+Englischdolmetscher|m
 Englische Eröffnung|f
 Englische Symmetrievariante|
 Englische Woche|f
@@ -26314,6 +26543,7 @@ Entomologie|f
 Entomologin|f
 Entoplasma|n
 Entourage|f
+Entpersonifizierung|f
 Entpuppung|f
 Entrainment|n
 Entrauchung|f
@@ -26853,6 +27083,7 @@ Erdölkonzern|m
 Erdölkrise|f
 Erdölleitung|f
 Erdöllieferant|m
+Erdölministerium|n
 Erdölpreis|m
 Erdölprodukt|n
 Erdölproduktion|f
@@ -26872,9 +27103,11 @@ Erektion|f
 Erektionsstörung|f
 Eremit|m
 Eremitage|f
+Eremitenhöhle|f
 Eren|m
 Erepsin|n
 Erepton|n
+Erfahrener|m
 Erfahrenheit|f
 Erfahrung|f
 Erfahrungsbereich|m;n
@@ -26897,6 +27130,7 @@ Erfolglosigkeit|f
 Erfolgsaussicht|f
 Erfolgsautor|m
 Erfolgsautorin|f
+Erfolgschance|f
 Erfolgsdruck|m
 Erfolgserlebnis|n
 Erfolgsfall|m
@@ -26993,6 +27227,7 @@ Erhöhungszeichen|n
 Erica|
 Erich|
 Eridu|
+Erie|
 Eriesee|m
 Erika|f
 Erika Mustermann|
@@ -27040,6 +27275,7 @@ Erklärungsnot|f
 Erklärungsversuch|m
 Erkner|
 Erkrankung|f
+Erkrankungsbeginn|m
 Erkrankungsphase|f
 Erkrath|
 Erkundigung|f
@@ -27076,6 +27312,7 @@ Erlen|
 Erlenbach|
 Erlenbaum|m
 Erlenblatt|n
+Erlenhain|m
 Erlenholz|n
 Erlesenheit|f
 Erleuchtung|f
@@ -27092,6 +27329,7 @@ Ermanglung|f
 Ermessen|n
 Ermessensentscheidung|f
 Ermessensspielraum|m
+Ermita|
 Ermittler|m
 Ermittlerduo|n
 Ermittlerin|f
@@ -27123,6 +27361,7 @@ Ernennungsurkunde|f
 Ernestine|
 Erneuerbare|f
 Erneuerung|f
+Erneuerungsbewegung|f
 Erniedrigung|f
 Ernst|m
 Ernstfall|m
@@ -27225,6 +27464,7 @@ Ersatzkaffee|m
 Ersatzkamera|f
 Ersatzkandidat|m
 Ersatzlaut|m
+Ersatzmagazin|n
 Ersatzpferd|n
 Ersatzplan|m
 Ersatzprobe|f
@@ -27254,6 +27494,7 @@ Erscheinungsweise|f
 Erschießen|n
 Erschießung|f
 Erschießungskommando|n
+Erschlaffung|f
 Erschließen|n
 Erschließung|f
 Erschossener|m
@@ -27480,6 +27721,7 @@ Eröffnungsbeschluss|m
 Eröffnungsfeier|f
 Eröffnungskonzert|n
 Eröffnungsparty|f
+Eröffnungsplädoyer|n
 Eröffnungsrede|f
 Eröffnungsredner|m
 Eröffnungsrednerin|f
@@ -27928,7 +28170,9 @@ Eva|
 Eva-Infarkt|m
 Evakuierung|f
 Evakuierungsaktion|f
+Evakuierungsbefehl|m
 Evakuierungsflug|m
+Evakuierungsflugzeug|n
 Evakuierungsplan|m
 Evaluation|f
 Evaluationsleitfaden|m
@@ -28065,6 +28309,7 @@ Existenzialismus|m
 Existenzkampf|m
 Existenzminimum|n
 Existenzquantor|m
+Existenzrecht|n
 Existenzzweck|m
 Exit-Strategie|f
 Exitus|m
@@ -28167,6 +28412,7 @@ Explosion|f
 Explosionsereignis|n
 Explosionsgefahr|f
 Explosionsgeräusch|n
+Explosionskrater|m
 Explosionsstelle|f
 Explosionswaffe|f
 Explosionszeichnung|f
@@ -28293,8 +28539,10 @@ FAQ|f
 FARC|f
 FBI|m;n
 FBI-Agent|m
+FBI-Agentin|f
 FBI-Akademie|f
 FBI-Analyse|f
+FBI-Außenstelle|f
 FBI-Datenbank|f
 FBI-Direktor|m
 FBI-Hauptquartier|n
@@ -28303,6 +28551,7 @@ FBI-Liste|f
 FBI-Mann|m
 FBI-Marke|f
 FBI-Profil|n
+FBI-Spezialist|m
 FBI-Wagen|m
 FBI-Zentrale|f
 FC|m
@@ -28336,6 +28585,7 @@ Fabelweltrekord|m
 Fabelwesen|n
 Fabelzeit|f
 Faber|m
+Fabergé-Ei|n
 Fabian|
 Fabianer|m
 Fabliau|n
@@ -28420,6 +28670,7 @@ Fachhochschulprofessor|m
 Fachhochschulprofessorin|f
 Fachhochschüler|m
 Fachhochschülerin|f
+Fachhändler|m
 Fachidiot|m
 Fachingenieur|m
 Fachingenieurbüro|m
@@ -29156,6 +29407,7 @@ Fassungsvermögen|n
 Fasswein|m
 Fast Food|n
 Fast-Food-Konzern|m
+Fast-Food-Restaurant|n
 Fastelovend|m
 Fasten|n
 Fastenbrechen|n
@@ -29212,6 +29464,7 @@ Faustfick|m
 Faustformel|f
 Faustgruß|m
 Fausthandschuh|m
+Fausthantel|f
 Fausthieb|m
 Faustisches|n
 Faustkampf|m
@@ -29378,6 +29631,7 @@ Fehlernährung|f
 Fehlerprofil|n
 Fehlerquelle|f
 Fehlerquote|f
+Fehlerrate|f
 Fehlerreduktion|f
 Fehlerspeicher|m
 Fehlerstrom-Schutzschalter|m
@@ -29407,6 +29661,7 @@ Fehlschluss|m
 Fehlschuss|m
 Fehlsichtigkeit|f
 Fehlstart|m
+Fehlstellung|f
 Fehlstunde|f
 Fehltritt|m
 Fehlurteil|n
@@ -29436,6 +29691,7 @@ Feigenverkäufer|m
 Feiger|m
 Feigheit|f
 Feigling|m
+Feigwarze|f
 Feile|f
 Feilenangel|f
 Feilenblatt|n
@@ -29651,6 +29907,7 @@ Felsenkirche|f
 Felsenkluft|f
 Felsenpinguin|m
 Felsenstück|n
+Felsentaube|f
 Felsentempel|m
 Felsenufer|n
 Felsformation|f
@@ -29831,6 +30088,7 @@ Fernsehapparat|m
 Fernsehauftritt|m
 Fernsehbericht|m
 Fernsehbild|n
+Fernsehbildschirm|m
 Fernsehbranche|f
 Fernsehdarsteller|m
 Fernsehdarstellerin|f
@@ -29878,6 +30136,7 @@ Fernsehteam|n
 Fernsehtruhe|f
 Fernsehturm|m
 Fernsehwerbung|f
+Fernsehzimmer|n
 Fernsehzuschauer|m
 Fernsehzuschauerin|f
 Fernsicht|f
@@ -29987,6 +30246,7 @@ Festnahme|f
 Festnehmen|n
 Festnetz|n
 Festnetzanschluss|m
+Festnetznummer|f
 Feston|n
 Festplatte|f
 Festplattengröße|f
@@ -30104,6 +30364,7 @@ Feuchtigkeit|f
 Feuchtigkeitscreme|f
 Feuchtigkeitsgehalt|m
 Feuchtigkeitsgrad|m
+Feuchtigkeitsmanagement|n
 Feuchtpflanze|f
 Feuchtraum|m
 Feuchtschnee|m
@@ -30174,6 +30435,7 @@ Feuerspritze|f
 Feuerspucker|m
 Feuerspuckerin|f
 Feuerstein|m
+Feuersteinaxt|f
 Feuersteinsplitter|m
 Feuerstelle|f
 Feuerstoß|m
@@ -30181,6 +30443,7 @@ Feuerstrom|m
 Feuerstuhl|m
 Feuersturm|m
 Feuersäule|f
+Feuertempel|m
 Feuerteufel|m
 Feuertod|m
 Feuertreppe|f
@@ -30192,6 +30455,7 @@ Feuerwand|f
 Feuerwasser|n
 Feuerwehr|f
 Feuerwehrauto|n
+Feuerwehraxt|f
 Feuerwehrbeil|n
 Feuerwehreinsatz|m
 Feuerwehrfahrzeug|n
@@ -30664,6 +30928,7 @@ Fischbauch|m
 Fischbein|n
 Fischbestand|m
 Fischbesteck|n
+Fischblase|f
 Fischblut|n
 Fischbrötchen|n
 Fischbrühe|f
@@ -30725,6 +30990,7 @@ Fischhandel|m
 Fischhändler|m
 Fischhändlerin|f
 Fischingen|
+Fischkadaver|m
 Fischkonsum|m
 Fischkopp|m
 Fischkunde|f
@@ -30787,11 +31053,13 @@ Fistfucking|n
 Fitis|m
 Fitness|f
 Fitness-Studio|n
+Fitnessausrüstung|f
 Fitnesscenter|n
 Fitnessgerät|n
 Fitnessraum|m
 Fitnessstudio|n
 Fitnesstraining|n
+Fitnessübung|f
 Fitsche|f
 Fitschenring|m
 Fitschepfeil|m
@@ -30891,6 +31159,7 @@ Flandern|
 Flanell|m
 Flanellanzug|m
 Flanellhemd|n
+Flanellpyjama|m
 Flaneur|m
 Flaneurin|f
 Flaniermeile|f
@@ -30970,11 +31239,13 @@ Flederhund|
 Fledermaus|f
 Fledermausart|f
 Fledermausflügel|m
+Fledermauskopf|m
 Fledermausärmel|m
 Fledertier|n
 Flederwisch|m
 Fleece|n;m
 Fleecejacke|f
+Fleeceshirt|n
 Flegel|m
 Flegelhaftigkeit|f
 Flegeljahre|
@@ -31007,6 +31278,7 @@ Fleischeslust|f
 Fleischesser|m
 Fleischesserin|f
 Fleischexport|m
+Fleischfabrik|f
 Fleischfachverkäuferin|f
 Fleischfaser|f
 Fleischfetzen|m
@@ -31119,6 +31391,7 @@ Flickzeug|n
 Flieder|m
 Fliederbusch|m
 Fliederduft|m
+Fliederhecke|f
 Fliege|f
 Fliegen|n
 Fliegenart|f
@@ -31165,6 +31438,7 @@ Fliesenboden|m
 Fliesenleger|m
 Fliesenlegerin|f
 Fliesentisch|m
+Fliesenwand|f
 Fließ|n;m
 Fließband|n
 Fließbandarbeit|f
@@ -31365,10 +31639,12 @@ Flughafenautobahn|f
 Flughafenbetreiber|m
 Flughafenbetreiberin|f
 Flughafencafé|n
+Flughafeneingang|m
 Flughafengebäude|n
 Flughafengebühr|f
 Flughafengelände|n
 Flughafenhalle|f
+Flughafenpolizei|f
 Flughafenpostamt|n
 Flughafenrestaurant|n
 Flughafenterminal|m;n
@@ -31403,6 +31679,7 @@ Flugreisender|m
 Flugrichtung|f
 Flugrost|m
 Flugroute|f
+Flugsalbe|f
 Flugsand|m
 Flugsaurier|m
 Flugscham|f
@@ -31411,6 +31688,7 @@ Flugschein|m
 Flugschreiber|m
 Flugschrift|f
 Flugschule|f
+Flugsicherheitsbegleiter|m
 Flugsicherung|f
 Flugsport|m
 Flugsportart|f
@@ -31450,6 +31728,7 @@ Flugzeuggeschwader|n
 Flugzeughangar|m
 Flugzeughersteller|m
 Flugzeugindustrie|f
+Flugzeugkonstrukteur|m
 Flugzeugmodell|n
 Flugzeugmotor|m
 Flugzeugpilot|m
@@ -31477,6 +31756,7 @@ Fluktuation|f
 Flummi|m
 Flunder|f
 Flunken|m
+Flunkerei|f
 Flunkerkies|m
 Flunkyball|m
 Flunsch|f;m
@@ -31551,6 +31831,7 @@ Flussniederung|f
 Flussnähe|f
 Flusspferd|n
 Flusspferdhaut|f
+Flusspirat|m
 Flussregenpfeifer|m
 Flussschiff|n
 Flussschiffer|m
@@ -31845,6 +32126,7 @@ Folterknecht|m
 Foltermethode|f
 Foltermord|m
 Folterraum|m
+Foltertechnik|f
 Folterung|f
 Folterverbot|n
 Folterverhör|n
@@ -32049,6 +32331,7 @@ Fort Bragg|
 Fort Knox|
 Fort Konstantin|n
 Fort Lauderdale|
+Fort Riley|
 Fort Worth|
 Fortbewegung|f
 Fortbewegungsart|f
@@ -32117,6 +32400,7 @@ Fotometeor|m
 Fotometer|n
 Fotomodell|n
 Fotomontage|f
+Fotomuseum|n
 Foton|n
 Fotoreportage|f
 Fotoshooting|n
@@ -32387,6 +32671,7 @@ Frauenjäger|m
 Frauenkirche|f
 Frauenkleid|n
 Frauenkleidung|f
+Frauenkopf|m
 Frauenkostüm|n
 Frauenkrankheit|f
 Frauenkörper|m
@@ -32522,6 +32807,7 @@ Freiheit|f
 Freiheitsbegriff|m
 Freiheitsberaubung|f
 Freiheitsbewegung|f
+Freiheitsbewusstsein|n
 Freiheitsdrang|m
 Freiheitsdurst|m
 Freiheitsentziehung|f
@@ -32649,6 +32935,7 @@ Freizeit|f
 Freizeitaktivität|f
 Freizeitarrest|m
 Freizeitbeschäftigung|f
+Freizeitbetätigung|f
 Freizeitdroge|f
 Freizeiteinrichtung|f
 Freizeitgestaltung|f
@@ -33040,6 +33327,7 @@ Frontzeitung|f
 Frosch|m
 Froschbiss|m
 Froschfresser|m
+Froschjagd|f
 Froschkönig|m
 Froschlurch|m
 Froschmann|m
@@ -33058,6 +33346,7 @@ Frostmonat|m
 Frostmusterboden|m
 Frostperiode|f
 Frostschaden|m
+Frostschicht|f
 Frostschneckling|m
 Frostschutzmittel|n
 Frosttag|m
@@ -33164,6 +33453,7 @@ Früherziehung|f
 Frühgeburt|f
 Frühgeschichte|f
 Frühgottesdienst|m
+Frühherbst|m
 Frühherbsttag|m
 Frühjahr|n
 Frühjahrsarbeit|f
@@ -33253,6 +33543,7 @@ Frühstückstisch|m
 Frühstückszeit|f
 Frühstückszerealie|f
 Frühstückszimmer|n
+Frühsymptom|n
 Frühwarnsignal|n
 Frühwarnsystem|n
 Frühwerk|n
@@ -33452,6 +33743,7 @@ Furzmulde|f
 Fusarinsäure|f
 Fusel|m
 Fuselöl|n
+Fushun|
 Fusidinsäure|f
 Fusilli|
 Fusion|f
@@ -33517,8 +33809,10 @@ Futurum|n
 Futurum exactum|n
 Futurum exaktum|n
 Fux|m
+Fuyang|
 Fuzel|m
 Fuzerl|n
+Fuzhou|
 Fuzzi|m
 Fuzzy Logic|f
 Fuzzy-Logic|f
@@ -33529,6 +33823,7 @@ Fußabdruck|m
 Fußabstreifer|m
 Fußabtreter|m
 Fußabwehr|f
+Fußauftritt|m
 Fußball|m
 Fußball-Bundesliga|f
 Fußball-EM|f
@@ -33617,16 +33912,20 @@ Fußbodenheizung|f
 Fußbodenmosaik|n
 Fußbotenpost|f
 Fußbreit|m
+Fußeigenschaft|f
 Fußen|n
 Fußende|n
 Fußfall|m
+Fußfehlstellung|f
 Fußfessel|f
 Fußfetischist|m
+Fußform|f
 Fußgeher|m
 Fußgeherampel|f
 Fußgeherin|f
 Fußgeherzone|f
 Fußgelenk|n
+Fußgesundheit|f
 Fußgänger|m
 Fußgängerampel|f
 Fußgängerbrücke|f
@@ -33671,6 +33970,7 @@ Fußpunkt|m
 Fußraum|m
 Fußschalter|m
 Fußschemel|m
+Fußschmerz|m
 Fußsohle|f
 Fußsoldat|m
 Fußspitze|f
@@ -33680,6 +33980,7 @@ Fußstapfe|m
 Fußstapfen|m
 Fußsteg|m
 Fußsteig|m
+Fußstellung|f
 Fußstunde|f
 Fußstütze|f
 Fußtapfe|m
@@ -34085,6 +34386,7 @@ Gabunerin|f
 Gabunische Republik|f
 Gackerl|n
 Gackerliese|f
+Gaddafi-Regime|n
 Gadebusch|
 Gaden|m
 Gadget|n
@@ -34121,6 +34423,7 @@ Galaktagogum|n
 Galaktometer|n
 Galan|m
 Galanterie|f
+Galanteriegeschäft|n
 Galanteriehandlung|f
 Galanteriewaren|
 Galapagos|
@@ -34197,6 +34500,7 @@ Gallmilbe|f
 Gallone|f
 Gallophag|m
 Galloromanisch|
+Galloway|
 Gallseife|f
 Gallussäure|f
 Galopp|m
@@ -34304,10 +34608,12 @@ Ganzenmüller|
 Ganzes|n
 Ganzheit|f
 Ganzholländer|m
+Ganzkörper-Workout|m;n
 Ganzkörperaufnahme|f
 Ganzkörperkältetherapie|f
 Ganzkörperscanner|m
 Ganzkörperschleier|m
+Ganzkörperübung|f
 Ganzsache|f
 Ganzstoffholländer|m
 Ganztagsschule|f
@@ -34486,6 +34792,7 @@ Gasherbrum I|m
 Gasherbrum II|m
 Gasherd|m
 Gasimport|m
+Gasindustrie|f
 Gasionisation|f
 Gaskamin|m
 Gaskammer|f
@@ -34573,6 +34880,7 @@ Gastlichkeit|f
 Gastmahl|n
 Gastmannschaft|f
 Gastornis|m
+Gastprofessor|m
 Gastprofessur|f
 Gastraea|f
 Gastraum|m
@@ -34690,6 +34998,7 @@ Gebell|n
 Gebelle|n
 Geber|m
 Gebersprache|f
+Geberstaat|m
 Gebesee|
 Gebet|n
 Gebetbuch|n
@@ -34751,6 +35060,7 @@ Gebirgstruppe|f
 Gebirgswand|f
 Gebirgszug|m
 Gebiss|n
+Gebissabdruck|m
 Geblaff|n
 Gebläse|n
 Geblüt|n
@@ -34885,6 +35195,8 @@ Gedankenblitz|m
 Gedankenexperiment|n
 Gedankenfetzen|m
 Gedankenflucht|f
+Gedankenfluss|m
+Gedankenformel|f
 Gedankenfreiheit|f
 Gedankengang|m
 Gedankengut|n
@@ -34908,6 +35220,7 @@ Gedenkaltar|m
 Gedenkartikel|m
 Gedenkbrett|n
 Gedenkbrettgruppe|f
+Gedenkbriefmarke|f
 Gedenkdienst|m
 Gedenkemein|n
 Gedenken|n
@@ -34957,6 +35270,7 @@ Gedächtniszelle|f
 Gedärm|n
 Gedöns|n
 Geek|m
+Geelong|
 Geert|
 Geest|f
 Geesthacht|
@@ -34967,6 +35281,7 @@ Gefahrenbekämpfung|f
 Gefahrenforschung|f
 Gefahrengebiet|n
 Gefahrenguttransport|m
+Gefahrenklasse|f
 Gefahrenmeldung|f
 Gefahrenquelle|f
 Gefahrenzone|f
@@ -35090,6 +35405,7 @@ Gefängnisleitung|f
 Gefängnismauer|f
 Gefängnispfarrer|m
 Gefängnispfarrerin|f
+Gefängnispsychiater|m
 Gefängnispsychologe|m
 Gefängnisroman|m
 Gefängnisschiff|n
@@ -35147,6 +35463,7 @@ Gegenbatterie|f
 Gegenbefehl|m
 Gegenbehauptung|f
 Gegenbeispiel|n
+Gegenbeschuldigung|f
 Gegenbesuch|m
 Gegenbewegung|f
 Gegenbeweis|m
@@ -35171,6 +35488,7 @@ Gegenfrage|f
 Gegenfüßler|m
 Gegengabe|f
 Gegengambit|n
+Gegengerade|f
 Gegengeschenk|n
 Gegengeschäft|n
 Gegengewalt|f
@@ -35326,8 +35644,10 @@ Geheimdienst|m
 Geheimdienstagent|m
 Geheimdienstakte|f
 Geheimdienstarbeit|f
+Geheimdienstausbildung|f
 Geheimdienstausschuss|m
 Geheimdienstbericht|m
+Geheimdienstchef|m
 Geheimdienstdirektor|m
 Geheimdienstinformation|f
 Geheimdienstkarriere|f
@@ -35399,6 +35719,7 @@ Gehilfin|f
 Gehirn|n
 Gehirnakrobat|m
 Gehirnakrobatin|f
+Gehirnaneurysma|n
 Gehirnblutung|f
 Gehirnchirurg|m
 Gehirnentzündung|f
@@ -35413,6 +35734,7 @@ Gehirnregion|f
 Gehirnschale|f
 Gehirnschlag|m
 Gehirnschmalz|n
+Gehirntransplantation|f
 Gehirntumor|m
 Gehirnverletzung|f
 Gehirnvolumen|n
@@ -35422,6 +35744,7 @@ Gehirnzelle|f
 Gehminute|f
 Gehorsam|m
 Gehorsamkeit|f
+Gehpause|f
 Gehpelz|m
 Gehrden|
 Gehren|
@@ -35756,7 +36079,9 @@ Geleitstraße|f
 Geleitzug|m
 Gelenk|n
 Gelenkerkrankung|f
+Gelenkflüssigkeit|f
 Gelenkigkeit|f
+Gelenkpfanne|f
 Gelenkschmerz|m
 Gelenkstelle|f
 Geleucht|n
@@ -36046,6 +36371,7 @@ Generikum|n
 Generosität|f
 Generälin|f
 Genese|f
+Genesee River|m
 Genesener|m
 Genesis|f
 Genesung|f
@@ -36100,6 +36426,7 @@ Genitivus subiectivus|m
 Genius|m
 Genius Loci|m
 Genkartoffel|f
+Genmaterial|n
 Gennach|f
 Gennaker|m
 Gennesaret|m
@@ -36397,6 +36724,7 @@ Gerret|
 Gersfeld|
 Gerson|
 Gerste|f
+Gerstenbrot|n
 Gerstenfeld|n
 Gerstenkaltschale|f
 Gerstenkorn|n
@@ -36853,6 +37181,7 @@ Geschäftemacherin|f
 Geschäftigkeit|f
 Geschäftsbereich|m
 Geschäftsbeziehung|f
+Geschäftsboykott|m
 Geschäftsbuch|n
 Geschäftsentwicklung|f
 Geschäftsessen|n
@@ -36992,6 +37321,7 @@ Gesichtsmaske|f
 Gesichtsmuskel|m
 Gesichtsnerv|m
 Gesichtsneuralgie|f
+Gesichtsoperation|f
 Gesichtspunkt|m
 Gesichtsreinigung|f
 Gesichtsrose|f
@@ -37196,6 +37526,7 @@ Getreidesorte|f
 Getreidespeicher|m
 Getreidespende|f
 Getreideverarbeitung|f
+Getreideverkäufer|m
 Getrenntschreibung|f
 Getreuer|m
 Getriebe|n
@@ -37213,6 +37544,7 @@ Getränkekellner|m
 Getränkekiste|f
 Getränkelieferant|m
 Getränkemarkt|m
+Getränkeverkäufer|m
 Getränkewunsch|m
 Getsemani|
 Getto|n;m
@@ -37330,11 +37662,14 @@ Gewesenheit|f
 Gewicht|n
 Gewichtheben|n
 Gewichtheber|m
+Gewichthebergürtel|m
 Gewichtheberin|f
+Gewichtsabnahme|f
 Gewichtsbestimmung|f
 Gewichtseinheit|f
 Gewichtsklasse|f
 Gewichtsmaß|n
+Gewichtsreduktion|f
 Gewichtsverlust|m
 Gewichtszunahme|f
 Gewichtung|f
@@ -37473,6 +37808,7 @@ Gezänk|n
 Gezücht|n
 Geächze|n
 Geäst|n
+Geübter|m
 Geübtheit|f
 Ge’ez|
 GfdS|f
@@ -37487,6 +37823,7 @@ Ghanaerin|f
 Ghanese|m
 Ghanesin|f
 Ghasel|n
+Ghawar|
 Ghaziabad|
 Ghazipur|
 Ghaznavide|m
@@ -37553,6 +37890,7 @@ Giftanschlag|m
 Giftattentat|n
 Giftcocktail|m
 Giftdrüse|f
+Gifteiche|f
 Gifteinsatz|m
 Giftgas|n
 Giftgasproduktion|f
@@ -37620,7 +37958,9 @@ Gimmick|m;n
 Gimpel|m
 Gin|m
 Gin Tonic|m
+Ginflasche|f
 Ginger|m
+Ginger Ale|n
 Ginger Beer|n
 Gingiva|f
 Gingivitis|f
@@ -37990,6 +38330,7 @@ Gliedteil|n
 Gliedteilsatz|m
 Glima|f
 Glimmer|m
+Glimmerschiefer|m
 Glimmstängel|m
 Glimpf|m
 Glinde|
@@ -38190,6 +38531,7 @@ Goal|n
 Goalgetter|m
 Goalgetterin|f
 Goalie|m
+Goatman|m
 Gobelin|m
 Gobi|f
 Goch|
@@ -38243,6 +38585,7 @@ Goldbrunner|
 Golddinar|m
 Golddraht|m
 Golddruck|m
+Golden Delicious|m
 Golden Gate Bridge|f
 Golden Goal|n
 Goldene Palme|f
@@ -38253,6 +38596,7 @@ Golderz|n
 Goldesel|m
 Goldfaden|m
 Goldfasan|m
+Goldfeld|n
 Goldfieber|n
 Goldfisch|m
 Goldfischglas|n
@@ -38309,11 +38653,13 @@ Goldpreis|m
 Goldproduktion|f
 Goldpurpur|n
 Goldrahmen|m
+Goldrahmenspiegel|m
 Goldrand|m
 Goldrausch|m
 Goldreserve|f
 Goldring|m
 Goldrute|f
+Goldrutenfeld|n
 Goldröhrling|m
 Goldschakal|m
 Goldschatz|m
@@ -38389,6 +38735,7 @@ Golfkriegssyndrom|n
 Golflehrer|m
 Golflehrerin|f
 Golfmonarchie|f
+Golfpartie|f
 Golfplatz|m
 Golfprofi|m
 Golfregion|f
@@ -38546,7 +38893,7 @@ Grabanlage|f
 Grabbau|m
 Grabbeigabe|f
 Grabbukett|n
-Graben|m
+Graben|m;n
 Grabenbruch|m
 Grabenkampf|m
 Grabenkrieg|m
@@ -38680,6 +39027,7 @@ Granatapfelbaum|m
 Granatapfelhain|m
 Granatapfelsaft|m
 Granatapfelsamen|m
+Granatapfelwein|m
 Granate|f
 Granatenangriff|m
 Granatenbeschuss|m
@@ -38695,6 +39043,7 @@ Grand|m
 Grand Canyon|m
 Grand Jury|f
 Grand Prix|m
+Grand Rapids|
 Grand Trunk Road|f
 Grande|m
 Grande Armée|f
@@ -38722,7 +39071,9 @@ Granitmonolith|m
 Granitpflasterstein|m
 Granitplatte|f
 Granitquader|m
+Granitschicht|f
 Granitsteinbruch|m
+Granitsäule|f
 Granittafel|f
 Granitterrasse|f
 Granitwand|f
@@ -38986,6 +39337,7 @@ Grenzmauer|f
 Grenznutzen|m
 Grenzort|m
 Grenzpfahl|m
+Grenzpolizei|f
 Grenzpolizeistation|f
 Grenzpolizist|m
 Grenzposten|m
@@ -39192,6 +39544,7 @@ Groß- und Kleinschreibung|f
 Groß-Berlin|
 Groß-Bieberau|
 Groß-Deutschland|
+Groß-Israel|
 Großabnehmer|m
 Großadmiral|m
 Großaktionär|m
@@ -39234,6 +39587,7 @@ Große Laber|f
 Große Röder|f
 Große Seen|m
 Große Sundainseln|f
+Großeinkauf|m
 Großeinsatz|m
 Großeltern|
 Großelternteil|m
@@ -39412,6 +39766,7 @@ Grundbesitz|m
 Grundbesitzer|m
 Grundbesitzerin|f
 Grundbestandteil|m
+Grundbetätigung|f
 Grundbirne|f
 Grundbuch|n
 Grundbuchamt|n
@@ -39538,6 +39893,7 @@ Grundzahl|f
 Grundzahlwort|n
 Grundzug|m
 Grundzustand|m
+Grundübung|f
 Grunewald|m
 Grunge|m
 Grunzlaut|m
@@ -39639,6 +39995,7 @@ Grönländer|m
 Grönländerin|f
 Grönländisch|
 Größe|f
+Größeninformation|f
 Größenklasse|f
 Größenordnung|f
 Größenrechner|m
@@ -39745,12 +40102,14 @@ Gschwerl|n
 Gsiberger|m
 Gspurning|
 Gspusi|n
+Gstaad|
 Gstopfte|f
 Gstopfter|m
 Gsturi|
 Gstätten|f
 Gsälz|n
 Guacamole|f
+Guadalajara|
 Guadalquivir|m
 Guadeloupe|
 Guadiana|m
@@ -39771,6 +40130,7 @@ Guamerin|f
 Guanako|n;m
 Guanche|m
 Guangdong|
+Guangxi|
 Guangzhou|
 Guanidin|n
 Guanin|n
@@ -39824,6 +40184,7 @@ Guido|m
 Guignol|m
 Guildford|
 Guildhall|f
+Guilin|
 Guillemet|n
 Guilloche|f
 Guillocheur|m
@@ -39841,6 +40202,7 @@ Guinness-Buch|n
 Guinnessbuch|n
 Guipurespitze|f
 Guitarre|f
+Guiyang|
 Guizhou|
 Gujarat|
 Gujarati|
@@ -39854,6 +40216,7 @@ Gulaschkanone|f
 Gulaschkommunismus|m
 Gulaschsuppe|f
 Gulden|m
+Gulfstream|f
 Gulfstream-Jet|m
 Gully|m;n
 Gullydeckel|m
@@ -40041,6 +40404,7 @@ Gymnasiast|m
 Gymnasiastin|f
 Gymnasion|n
 Gymnasium|n
+Gymnasiumszeit|f
 Gymnast|m
 Gymnastik|f
 Gymnastiker|m
@@ -40118,6 +40482,7 @@ Gänsefüßchen|n
 Gänsegeier|m
 Gänsehaut|f
 Gänsekiel|m
+Gänseküken|n
 Gänseleber|f
 Gänseleberpastete|f
 Gänsemarsch|m
@@ -40353,6 +40718,7 @@ Habanera|f
 Habanerfayence|f
 Habe|f
 Habeascorpusakte|f
+Habeck|
 Habedank|
 Habel|
 Habelschwerdt|
@@ -40462,6 +40828,7 @@ Hafenkneipe|f
 Hafenkran|m
 Hafenkrankenhaus|n
 Hafenmauer|f
+Hafenmeister|m
 Hafenmetropole|f
 Hafennähe|f
 Hafenort|m
@@ -40562,14 +40929,18 @@ Haiduck|m
 Haifang|m
 Haifisch|m
 Haifischbecken|n
+Haifischbiss|m
 Haifischfleisch|n
 Haifischflosse|f
 Haifischflossensuppe|f
 Haifischleine|f
 Haifischzahn|m
+Haiflosse|f
 Haiger|
 Haigerloch|
+Haigewässer|n
 Haight-Ashbury|
+Haikou|
 Haiku|n;m
 Hail Mary|f
 Hain|m
@@ -40667,6 +41038,7 @@ Halbleitertechnik|f
 Halblicht|n
 Halbling|m
 Halbliterflasche|f
+Halbmarathon|m
 Halbmaske|f
 Halbmast|f
 Halbmensch|m
@@ -40732,6 +41104,7 @@ Halfagras|n
 Halfpipe|f
 Halfter|n;m;f
 Halfvolley|m
+Halhul|
 Halifax|
 Hall|m;f
 Hall of Fame|f
@@ -40779,6 +41152,7 @@ Hallodri|m
 Hallore|m
 Halloren|
 Halloween|n
+Halloweenkostüm|n
 Halloweenkürbis|m
 Halloweenparty|f
 Halloweenstreich|m
@@ -40822,6 +41196,7 @@ Halskrause|f
 Halskrausen-Erdstern|m
 Halskrausenerdstern|m
 Halslänge|f
+Halsmuskel|m
 Halsring|m
 Halsschlagader|f
 Halsschmerz|m
@@ -40853,6 +41228,8 @@ Halteverbot|n
 Haltewunschtaste|f
 Haltschild|n
 Haltung|f
+Haltungsstörung|f
+Haltungstyp|m
 Halunder|n
 Halunke|m
 Halunkin|f
@@ -41062,6 +41439,7 @@ Handharmonium|n
 Handhygiene|f
 Handicap|n
 Handikap|n
+Handinnenfläche|f
 Handkamera|f
 Handkantenschlag|m
 Handkarren|m
@@ -41071,6 +41449,7 @@ Handkommunion|f
 Handkreissäge|f
 Handkuss|m
 Handkäse|m
+Handlampe|f
 Handlanger|m
 Handlaterne|f
 Handlauf|m
@@ -41262,6 +41641,7 @@ Harald|
 Haram|m
 Harare|
 Harass|m
+Harbin|
 Harburg|
 Hard Drink|m
 Hardangerfiedel|f
@@ -41348,6 +41728,7 @@ Harnwegsinfektion|f
 Harnzwang|m
 Harpsichord|n
 Harpune|f
+Harpunenspitze|f
 Harpunier|m
 Harpyie|f
 Harre|
@@ -41362,6 +41743,7 @@ Hartblei|n
 Hartenstein|
 Hartford|
 Hartgeld|n
+Hartgummi|m;n
 Hartha|
 Hartherzigkeit|f
 Hartholz|n
@@ -41388,6 +41770,7 @@ Hartz-IV-Empfängerin|f
 Haruka|
 Haruspex|m
 Harvard|n
+Harvard-Professor|m
 Harvard-Student|m
 Harvard-Studium|n
 Harvester|m
@@ -41540,6 +41923,7 @@ Hauptankläger|m
 Hauptanklägerin|f
 Hauptanliegen|n
 Hauptansturm|m
+Hauptanwendungsgebiet|n
 Hauptarbeit|f
 Hauptargument|n
 Hauptattraktion|f
@@ -41566,11 +41950,13 @@ Hauptdarstellerin|f
 Haupteingang|m
 Haupteinkaufsviertel|n
 Haupteinnahmequelle|f
+Haupteinwand|m
 Hauptelement|n
 Haupterwerbszweig|m
 Haupteslänge|f
 Hauptfach|n
 Hauptfaktor|m
+Hauptfeind|m
 Hauptfeldwebel|m
 Hauptfigur|f
 Hauptfrau|f
@@ -41628,6 +42014,7 @@ Hauptnahrungsmittel|n
 Hauptorgan|n
 Hauptorganisator|m
 Hauptort|m
+Hauptpalast|m
 Hauptperson|f
 Hauptplatine|f
 Hauptplatz|m
@@ -41645,6 +42032,7 @@ Hauptreferat|n
 Hauptrefinanzierungsinstrument|n
 Hauptreichtum|m
 Hauptreisezeit|f
+Hauptrepräsentant|m
 Hauptrohr|n
 Hauptrolle|f
 Hauptsache|f
@@ -41686,22 +42074,26 @@ Hauptstelle|f
 Hauptstiege|f
 Hauptstraße|f
 Hauptstudium|n
+Hauptstützpunkt|m
 Hauptteil|m
 Hauptthema|n
 Hauptton|m
 Haupttonvokal|m
 Haupttor|n
+Haupttreibstofftank|m
 Haupttribüne|f
 Haupttrieb|m
 Hauptturm|m
 Haupttäter|m
 Hauptunterschied|m
+Hauptunterstützer|m
 Hauptuntersuchung|f
 Hauptursache|f
 Hauptverdiener|m
 Hauptverdächtiger|m
 Hauptverkehrsader|f
 Hauptverkehrsstraße|f
+Hauptverkehrsweg|m
 Hauptversammlung|f
 Hauptverteidiger|m
 Hauptverursacher|m
@@ -41848,6 +42240,7 @@ Hauskäufer|m
 Hauskäuferin|f
 Hauslehrer|m
 Hauslehrerin|f
+Hausleitung|f
 Hauslüftung|f
 Hausmacherart|f
 Hausmacht|f
@@ -41905,6 +42298,7 @@ Haustürklingel|f
 Haustürklinke|f
 Haustürschlüssel|m
 Haustürstufe|f
+Haustürwahlkampf|m
 Hausung|f
 Hausvater|m
 Hausverbot|n
@@ -41930,6 +42324,7 @@ Hauswirtschaftsraum|m
 Hauswirtschaftsschule|f
 Hauswurz|f
 Hauszelt|n
+Hauszerstörung|f
 Hauszisterne|f
 Hausärztin|f
 Hausübung|f
@@ -41955,6 +42350,7 @@ Hautkrebs|m
 Hautkrebsart|f
 Hautleishmaniase|f
 Hautoberfläche|f
+Hautpartie|f
 Hautpflaster|n
 Hautpflege|f
 Hautschere|f
@@ -42121,6 +42517,7 @@ Heerschar|f
 Heerschau|f
 Hefe|f;n
 Hefegeschmack|m
+Hefei|
 Hefelager|n
 Hefepilz|m
 Hefepresswein|m
@@ -42226,7 +42623,9 @@ Heiligenkult|m
 Heiligenlegende|f
 Heiligenname|m
 Heiligenschein|m
+Heiligenschrein|m
 Heiligenstadt|
+Heiligenstatue|f
 Heiligenverehrung|f
 Heiliger|m
 Heiliger Abend|m
@@ -42234,7 +42633,7 @@ Heiliger Geist|m
 Heiliger Stuhl|m
 Heiliger Vater|m
 Heiliges Land|n
-Heiliges Römisches Reich|
+Heiliges Römisches Reich|n
 Heiliges Römisches Reich Deutscher Nation|n
 Heiliggeistkirche|f
 Heiligkeit|f
@@ -42454,6 +42853,7 @@ Helbe|f
 Held|m
 Heldendämmerung|f
 Heldenepos|n
+Heldengedenktag|m
 Heldengedicht|n
 Heldengeschichte|f
 Heldenlied|n
@@ -42505,6 +42905,7 @@ Heliostat|m
 Heliport|m
 Helium|n
 Heliumatom|n
+Heliumballon|m
 Heliumbrennen|n
 Heliumkern|m
 Helix|f
@@ -42588,6 +42989,7 @@ Heneicosan|n
 Hengst|m
 Hengstbuch|n
 Hengstfohlen|n
+Hengyang|
 Henkel|m
 Henkelbecher|m
 Henkelglas|n
@@ -42617,6 +43019,7 @@ Henry|n
 Hentai|m
 Hentriacontan|n
 Hepatitis|f
+Hepatitis C|f
 Hepatitisvirus|n;m
 Hepatomegalie|f
 Hephthemimeres|f
@@ -42767,9 +43170,11 @@ Hermelin|n;m
 Hermelinfell|n
 Hermelinkragen|m
 Hermeneutik|f
+Hermes Trismegistos|m
 Hermeskeil|
 Hermesstab|m
 Hermetik|f
+Hermosillo|
 Hermsdorf|
 Hernals|
 Herne|
@@ -42988,6 +43393,7 @@ Herzlosigkeit|f
 Herzmedikament|n
 Herzmuskel|m
 Herzmuskelentzündung|f
+Herzmuskulatur|f
 Herzneurose|f
 Herzog|m
 Herzogenaurach|
@@ -43190,6 +43596,7 @@ Hexlein|n
 Hexylaldehyd|m
 Hexylalkohol|m
 Heysham|
+Heze|
 Heß|
 Hiat|m
 Hiattrenner|m
@@ -43361,6 +43768,7 @@ Hin und Her|n
 Hinauswurf|m
 Hinblick|m
 Hinde|f
+Hindenburg|
 Hindenburgdamm|m
 Hindenburglicht|n
 Hindernis|n
@@ -43453,6 +43861,7 @@ Hinterpfote|f
 Hinterpommern|
 Hinterrad|n
 Hinterradantrieb|m
+Hinterrand|m
 Hinterrhein|m
 Hinterschenkel|m
 Hinterseite|f
@@ -43632,6 +44041,7 @@ Hitler-Biographie|f
 Hitler-Deutschland|n
 Hitler-Diktatur|f
 Hitler-Gegner|m
+Hitler-Parodie|f
 Hitler-Putsch|m
 Hitler-Regime|n
 Hitler-Schnurrbart|m
@@ -43719,6 +44129,7 @@ Hobelbank|f
 Hobelmaschine|f
 Hobelspan|m
 Hobo|m
+Hoboken|
 Hoch|n
 Hochachtung|f
 Hochadel|m
@@ -44032,6 +44443,7 @@ Hohepriester|m
 Hohepriesterin|f
 Hoher Priester|m
 Hohes Venn|n
+Hohhot|
 Hohlblock|m
 Hohlblockstein|m
 Hohleisen|n
@@ -44212,6 +44624,7 @@ Holzfuhrwerk|n
 Holzfund|m
 Holzfußboden|m
 Holzfäller|m
+Holzfällerdorf|n
 Holzfällerhemd|n
 Holzfällerin|f
 Holzfällerweg|m
@@ -44261,6 +44674,7 @@ Holzkauf|m
 Holzkeil|m
 Holzkeller|m
 Holzkirche|f
+Holzkistchen|n
 Holzkiste|f
 Holzklasse|f
 Holzklotz|m
@@ -44270,6 +44684,7 @@ Holzkoffer|m
 Holzkohle|f
 Holzkohlegrill|m
 Holzkohlengrill|m
+Holzkohlestück|n
 Holzkonstruktion|f
 Holzkopf|m
 Holzkreuz|n
@@ -44508,6 +44923,7 @@ Honigbiene|f
 Honigbier|n
 Honigbrot|n
 Honigfalle|f
+Honigfresser|m
 Honiggeruch|m
 Honiggeschmack|m
 Honigglas|n
@@ -44691,6 +45107,7 @@ Hotelchefin|f
 Hoteldirektion|f
 Hoteldirektor|m
 Hoteldirektorin|f
+Hoteleigentümer|m
 Hoteleingang|m
 Hotelempfehlung|f
 Hotelerbe|m
@@ -44698,6 +45115,7 @@ Hotelflur|m
 Hotelführer|m
 Hotelgarten|m
 Hotelgast|m
+Hotelgelände|n
 Hotelhalle|f
 Hotelhof|m
 Hotelier|m
@@ -44747,6 +45165,7 @@ Hottentotte|m
 Hottentottin|f
 Hotter|m
 House|
+House of Lords|n
 Houston|
 Hoya|
 Hoyerswerda|
@@ -44755,6 +45174,7 @@ Hradschin|m
 Hradschiner Platz|m
 Hrdlicka|
 Hrywnja|f
+Huainan|
 Huanaco|n;m
 Huastekisches Zentral-Nahuatl|n
 Hub|m
@@ -44777,6 +45197,7 @@ Hubschrauberabsturz|m
 Hubschrauberflotte|f
 Hubschrauberflug|m
 Hubschraubergeräusch|n
+Hubschrauberkabine|f
 Hubschrauberlandeplatz|m
 Hubschrauberpilot|m
 Hubschrauberpilotin|f
@@ -45118,6 +45539,7 @@ Hutweide|f
 Hutze|f
 Hutzel|f
 Huxelrebe|f
+Huzhou|
 Hwange-Nationalpark|m
 Hyade|f
 Hyaden|f
@@ -45216,6 +45638,7 @@ Hyperaktivität|f
 Hyperbaton|n
 Hyperbel|f
 Hyperborea|
+Hyperboreer|m
 Hypercalciämie|f
 Hypercalcämie|f
 Hyperebene|f
@@ -45239,6 +45662,7 @@ Hyperopie|f
 Hyperoxalurie|f
 Hyperphysik|f
 Hyperplasie|f
+Hyperrealismus|m
 Hyperschall|m
 Hyperschall-Geschwindigkeit|f
 Hyperschall-Rakete|f
@@ -45326,6 +45750,7 @@ Hysterie|f
 Hysteroptose|f
 Hysterosalpingografie|f
 Hyäne|f
+Hyänenspur|f
 Häckerling|m;n
 Häckerwirtschaft|f
 Häckse|f
@@ -45654,6 +46079,7 @@ Hühnerbrühe|f
 Hühnerdiebstahl|m
 Hühnerdreck|m
 Hühnerei|n
+Hühnereintopf|m
 Hühnerfarm|f
 Hühnerfeder|f
 Hühnerfett|n
@@ -45661,6 +46087,7 @@ Hühnerfleisch|n
 Hühnerfutter|n
 Hühnergegacker|n
 Hühnergehege|n
+Hühnergericht|n
 Hühnergott|m
 Hühnerhabicht|m
 Hühnerhaltung|f
@@ -45722,6 +46149,7 @@ Hüttenbewohner|m
 Hüttendach|n
 Hütteneingang|m
 Hüttengaudi|f;n
+Hütteninneres|n
 Hüttenkäse|m
 Hüttenschuh|m
 Hüttentour|f
@@ -45936,6 +46364,7 @@ Ihrzen|n
 Ijjar|m
 Ijob|
 Ijsselmeer|n
+Ikaria|
 Ikebana|n
 Ikebukuro|
 Ikeja|
@@ -46001,6 +46430,7 @@ Illustrierte|f
 Illyrien|
 Ilm|f
 Ilmenau|f
+Ilocos Norte|
 Ilokano|
 Ilorin|
 Ilse|f
@@ -46226,6 +46656,7 @@ Impfzentrum|n
 Impfzertifikat|n
 Impfzwang|m
 Impfärztin|f
+Impietät|f
 Implantat|n
 Implantatausweis|m
 Implantologin|f
@@ -46444,6 +46875,7 @@ Industriestadt|f
 Industrieunternehmen|n
 Industrieviertel|n
 Industriezeitalter|n
+Industriezentrum|n
 Industriezweig|m
 Ineffizienz|f
 Inertgas|n
@@ -46566,6 +46998,7 @@ Informationsbrocken|m
 Informationsbroschüre|f
 Informationsbüro|n
 Informationseinheit|f
+Informationsfetzen|m
 Informationsfunktion|f
 Informationsgehalt|m
 Informationslücke|f
@@ -46603,6 +47036,7 @@ Infrarotaufnahme|f
 Infrarotbereich|m
 Infrarotlampe|f
 Infrarotquelle|f
+Infrarotrakete|f
 Infrarotstrahlung|f
 Infraschall|m
 Infrastruktur|f
@@ -46824,6 +47258,7 @@ Innerasien|
 Innere Führung|f
 Innere Hebriden|f
 Innere Medizin|f
+Innere Mongolei|f
 Innere Stadt|f
 Innere Sulzfelder Straße|f
 Innerei|f
@@ -47190,6 +47625,7 @@ Internetphänomen|n
 Internetpionier|m
 Internetpiraterie|f
 Internetplattform|f
+Internetpornografie|f
 Internetportal|n
 Internetprovider|m
 Internetradio|n
@@ -47206,6 +47642,7 @@ Internetsurferin|f
 Internetsurfing|n
 Internettelefonie|f
 Internetverbindung|f
+Internetwahlkampf|m
 Internetwörterbuch|n
 Internetzeitung|f
 Internetzugang|m
@@ -47236,6 +47673,7 @@ Interpretant|m
 Interpretantin|f
 Interpretatio Romana|f
 Interpretation|f
+Interpretationsspielraum|m
 Interpretationsversuch|m
 Interpretator|m
 Interpretatorin|f
@@ -47317,6 +47755,7 @@ Intoxikation|f
 Intrada|f
 Intrade|f
 Intralogistik|f
+Intramuros|
 Intranet|n
 Intransigenz|f
 Intransitivität|f
@@ -47649,6 +48088,7 @@ Isolierer|m
 Isolierflasche|f
 Isolierhaft|f
 Isolierkanne|f
+Isolierschicht|f
 Isolierung|f
 Isolierzimmer|n
 Isomalt|n
@@ -47767,6 +48207,8 @@ Jackett|n
 Jacketttasche|f
 Jackfrucht|f
 Jackpot|m
+Jackson|
+Jackson Heights|
 Jackson-Pollock-Gemälde|n
 Jacksonville|
 Jackstag|n
@@ -47789,6 +48231,7 @@ Jadekaiser|m
 Jaeckel|
 Jaffa|
 Jaffaapfelsine|f
+Jaffna|
 Jagd|f
 Jagdaufseher|m
 Jagdaufseherin|f
@@ -47872,6 +48315,7 @@ Jagst|f
 Jagsthausen|
 Jaguar|m
 Jaguarundi|m
+Jagur|
 Jahn|
 Jahr|n
 Jahrbuch|n
@@ -48181,6 +48625,7 @@ Jedlicka|
 Jeep|m
 Jeepfahrer|m
 Jeepfahrerin|f
+Jeepney|m
 Jeetze|f
 Jeetzel|f
 Jefferson Memorial|n
@@ -48224,6 +48669,7 @@ Jersey City|
 Jerusalem|
 Jerusalemer|m
 Jerusalemer Kreuz|n
+Jerusalemgesetz|n
 Jerusalemkreuz|n
 Jesaja|m
 Jeschken|m
@@ -48271,6 +48717,10 @@ Jeßnitz|
 Jhang|
 Jharkhand|
 Jhelam|m
+Jiangsu|
+Jiangxi|
+Jiangyin|
+Jiaxing|
 Jiddisch|
 Jiddischismus|m
 Jiddischist|m
@@ -48280,17 +48730,23 @@ Jiddismus|m
 Jiddist|m
 Jiddistik|f
 Jieper|m
+Jieyang|
 Jiez|m
 Jigawa|
 Jihad|m
 Jihadismus|m
 Jihadist|m
+Jilin|
 Jilke|
 Jin|
 Jina|m
+Jinan|
 Jingle|m
 Jingoismus|m
+Jinhua|
+Jinjiang|
 Jinyu|
+Jinzhou|
 Jirrin|
 Jischuv|m
 Jischuw|m
@@ -48342,6 +48798,7 @@ Jogger|m
 Joggerin|f
 Jogging|n
 Jogginghose|f
+Joggingtipp|m
 Joghurt|m;f;n
 Joghurtbecher|m
 Jogi|m
@@ -48359,6 +48816,7 @@ Johannisbeermarmelade|f
 Johannisbeersaft|m
 Johannisbeersaftschorle|f;n
 Johannisbeerschorle|f;n
+Johannisbeerstrauch|m
 Johannisbeerwein|m
 Johannisberger|m
 Johannisbrotbaum|m
@@ -48401,6 +48859,7 @@ Jordan|m
 Jordanien|
 Jordanier|m
 Jordanierin|f
+Jordanwasser|n
 Jorg|
 Jorhat|
 Jorinde|
@@ -48769,6 +49228,7 @@ Jurisdiktion|f
 Jurisprudenz|f
 Jurist|m
 Juristendeutsch|n
+Juristenjargon|m
 Juristerei|f
 Juristik|f
 Juristin|f
@@ -49032,6 +49492,7 @@ Kackstelze|f
 Kackwurst|f
 Kadaver|m
 Kadavergehorsam|m
+Kadavergestank|m
 Kadaverin|n
 Kadaversammelstelle|f
 Kaddig|m
@@ -49148,6 +49609,7 @@ Kahnbeinbruch|m
 Kahoolawe|
 Kai|m
 Kaianlage|f
+Kaifeng|
 Kaik|f
 Kailoff|m
 Kaiman|m
@@ -49205,6 +49667,7 @@ Kaje|f
 Kajetan|
 Kajüte|f
 Kajütentür|f
+Kajütenwand|f
 Kak|m
 Kaka|m
 Kakademiker|m
@@ -49237,6 +49700,7 @@ Kaktusbirne|f
 Kaktusfeige|f
 Kaktushecke|f
 Kaktusstachel|m
+Kaktuswald|m
 Kala-Azar|f
 Kalabrese|m
 Kalabresin|f
@@ -49245,6 +49709,7 @@ Kalabrier|m
 Kalabrierin|f
 Kalafati|m
 Kalahari|f
+Kalamazoo|
 Kalamit|m
 Kalamität|f
 Kaland|m
@@ -49315,6 +49780,7 @@ Kalkablagerung|f
 Kalkar|
 Kalkgehalt|m
 Kalkgrube|f
+Kalkmauer|f
 Kalkmilch|f
 Kalkputz|m
 Kalksburg|
@@ -49342,6 +49808,7 @@ Kallistik|f
 Kallisto|f
 Kallus|m
 Kalmar|m
+Kalmarer Union|f
 Kalmus|m
 Kalmuswurzel|f
 Kalmücke|m
@@ -49456,6 +49923,7 @@ Kameraführung|f
 Kamerahersteller|m
 Kamerakind|n
 Kameraleute|
+Kameralinse|f
 Kameralistik|f
 Kameramann|m
 Kameraobjektiv|n
@@ -49559,6 +50027,7 @@ Kampfmittel|n
 Kampfmittelbeseitigungsdienst|m
 Kampfmittelräumdienst|m
 Kampfmittelräumung|f
+Kampfmontur|f
 Kampfmoral|f
 Kampfname|m
 Kampfpanzer|m
@@ -49578,6 +50047,7 @@ Kampfspiel|n
 Kampfsport|m
 Kampfsportler|m
 Kampfsportlerin|f
+Kampfsporttraining|n
 Kampfsportturnier|n
 Kampfspur|f
 Kampfstoff|m
@@ -49664,6 +50134,7 @@ Kang|m;n
 Kangchendzönga|m
 Kanin|n
 Kaninchen|n
+Kaninchenbaby|n
 Kaninchenbau|m
 Kaninchenfalle|f
 Kaninchenfell|n
@@ -49876,6 +50347,7 @@ Kapitalertragssteuer|f
 Kapitalertragsteuer|f
 Kapitalflucht|f
 Kapitalflüchtling|m
+Kapitalgeber|m
 Kapitalherabsetzung|f
 Kapitalhilfe|f
 Kapitalhirsch|m
@@ -49979,13 +50451,16 @@ Karakalpakisch|
 Karakorum|m
 Karambola|
 Karambolage|f
+Karame|
 Karamell|m;n
 Karamellbier|n
 Karamellbonbon|m
 Karamelle|f
 Karamellgeruch|m
+Karamellkaffee|m
 Karantanien|
 Karaoke|n
+Karaokeabend|m
 Karas|
 Karat|n
 Karate|n
@@ -50119,6 +50594,7 @@ Karok|
 Karolinen|
 Karolinger|m
 Karolingerin|f
+Karomuster|n
 Karopapier|n
 Karoschi|m
 Karoshi|m
@@ -50182,6 +50658,7 @@ Karteileiche|f
 Kartell|n
 Kartellamt|n
 Kartellant|m
+Kartellboss|m
 Kartellentscheidung|f
 Kartellführer|m
 Kartellmitglied|n
@@ -50255,6 +50732,7 @@ Kartoffelsalat|m
 Kartoffelschale|f
 Kartoffelscheibe|f
 Kartoffelschnitz|m
+Kartoffelschälen|n
 Kartoffelschäler|m
 Kartoffelsilo|n;m
 Kartoffelsorte|f
@@ -50514,6 +50992,7 @@ Katastrophenschutz|m
 Katastrophenspiel|n
 Katastrophentheorie|f
 Katastrophentourist|m
+Katastrophismus|m
 Katatonie|f
 Katatoniker|m
 Katatonikerin|f
@@ -50664,6 +51143,7 @@ Kauf|m
 Kauf-Nix-Tag|m
 Kaufanreiz|m
 Kaufargument|n
+Kaufberatung|f
 Kaufbeuren|
 Kaufempfehlung|f
 Kaufentscheidung|f
@@ -50715,6 +51195,7 @@ Kaulbarsch|m
 Kauleiste|f
 Kaulquappe|f
 Kaumuskel|m
+Kaumuskulatur|f
 Kaunas|
 Kauri|m;f
 Kaurimuschel|f
@@ -50769,6 +51250,7 @@ Kawaguchi|
 Kawertschen|
 Kawi|
 Kawisprache|f
+Kayseri|
 Kazike|m
 Kazoo|n
 Kea|m
@@ -50972,6 +51454,7 @@ Kenia|
 Keniakoalition|f
 Kenianer|m
 Kenianerin|f
+Kennebec River|m
 Kennel|
 Kenner|m
 Kennerblick|m
@@ -51006,6 +51489,7 @@ Keramik|f
 Keramiker|m
 Keramikerin|f
 Keramikfigur|f
+Keramikfliese|f
 Keramikfüllung|f
 Keramikgefäß|n
 Keramikgeschirr|n
@@ -51071,6 +51555,7 @@ Kerngrammatik|f
 Kernholz|n
 Kernkapital|n
 Kernkompetenz|f
+Kernkonflikt|m
 Kernkraft|f
 Kernkraftgegner|m
 Kernkraftgegnerin|f
@@ -51191,6 +51676,7 @@ Kettensäge|f
 Kettenzug|m
 Kettenöl|n
 Kettfaden|m
+Kettlebell|f
 Ketzer|m
 Ketzerei|f
 Ketzerin|f
@@ -51227,6 +51713,7 @@ Kfz-Spengler|m
 Kfz-Werkstatt|f
 Kha|f
 Khagan|m
+Khaiberpass|m
 Khairpur|
 Khaki|
 Khakihemd|n
@@ -51278,10 +51765,12 @@ Kidneybohne|f
 Kieberer|m
 Kieberin|f
 Kiebitz|m
+Kiebitzei|n
 Kiefer|f;m;n
 Kieferbruch|m
 Kieferhöhle|f
 Kieferknochen|m
+Kiefermuskulatur|f
 Kiefernbestand|m
 Kiefernduft|m
 Kiefernforst|m
@@ -51571,6 +52060,7 @@ Kinderwäsche|f
 Kinderzahl|f
 Kinderzahn|m
 Kinderzahnheilkunde|f
+Kinderzeichnung|f
 Kinderzeit|f
 Kinderzimmer|n
 Kinderzulage|f
@@ -51593,6 +52083,7 @@ Kindheitserinnerung|f
 Kindheitserlebnis|n
 Kindheitsfoto|n
 Kindheitsfreund|m
+Kindheitsheld|m
 Kindheitstraum|m
 Kindheitstrauma|n
 Kindklasse|f
@@ -51717,6 +52208,7 @@ Kirchenhistoriker|m
 Kirchenhoheit|f
 Kircheninneres|n
 Kirchenjahr|n
+Kirchenkreis|m
 Kirchenkritik|f
 Kirchenlamitz|
 Kirchenlatein|n
@@ -52014,6 +52506,7 @@ Klassenkasper|m
 Klassenlehrer|m
 Klassenlehrerin|f
 Klassenlehrersystem|n
+Klassenliste|f
 Klassenprimus|m
 Klassenrat|m
 Klassenraum|m
@@ -52120,6 +52613,8 @@ Kleberest|m
 Kleberin|f
 Klebestift|m
 Klebestreifen|m
+Klebreis|m
+Klebreiskuchen|m
 Klebriger Hörnling|m
 Klebstoff|m
 Klebstoffschnüffler|m
@@ -52652,6 +53147,7 @@ Knetung|f
 Knick|m
 Knickerbocker|m
 Knickerigkeit|f
+Knickfuß|m
 Knicklicht|n
 Knickrigkeit|f
 Knicks|m
@@ -52668,6 +53164,7 @@ Kniekehle|f
 Knielage|f
 Knies|
 Kniescheibe|f
+Knieschmerz|m
 Knieschoner|m
 Knieschützer|m
 Kniestock|m
@@ -52678,6 +53175,7 @@ Kniewärmer|m
 Kniff|m
 Knifte|f
 Knigge|m
+Knik River|m
 Knilch|m
 Knirps|m
 Knirschen|n
@@ -53142,6 +53640,7 @@ Kollektion|f
 Kollektiv|n
 Kollektivbewusstsein|n
 Kollektivbildung|f
+Kollektiveigentum|n
 Kollektivität|f
 Kollektivmord|m
 Kollektivschuld|f
@@ -53660,6 +54159,7 @@ Konfusität|f
 Konfuzianismus|m
 Konföderation|f
 Konföderierte Staaten von Amerika|m
+Konföderiertenflagge|f
 Konföderierter|m
 Kongenialität|f
 Konglomerat|n
@@ -53935,6 +54435,7 @@ Kontoristin|f
 Kontostand|m
 Kontra|n
 Kontrabass|m
+Kontrabassist|m
 Kontrafaktur|f
 Kontrahage|f
 Kontrahent|m
@@ -54074,6 +54575,7 @@ Konzilstheologe|m
 Konzilsvater|m
 Konzinnität|f
 Konzipierung|f
+Konzipist|m
 Koog|m
 Kookkurrenz|f
 Kooperation|f
@@ -54542,6 +55044,7 @@ Kraft|f
 Kraftakt|m
 Kraftanstrengung|f
 Kraftathlet|m
+Kraftaufbau|m
 Kraftaufwand|m
 Kraftausdruck|m
 Kraftdreieck|n
@@ -54579,6 +55082,7 @@ Kraftstoffpumpe|f
 Kraftstoffreserve|f
 Kraftstofftank|m
 Kraftstoffverbrauch|m
+Kraftstufe|f
 Krafttraining|n
 Kraftvergeudung|f
 Kraftverlust|m
@@ -54709,6 +55213,7 @@ Krankheitsbekämpfung|f
 Krankheitsbeschreibung|f
 Krankheitsbezeichnung|f
 Krankheitsbild|n
+Krankheitsdauer|f
 Krankheitsdämon|m
 Krankheitserreger|m
 Krankheitsfall|m
@@ -55404,6 +55909,8 @@ Krokette|f
 Krokodil|n
 Krokodilei|n
 Krokodilfarm|f
+Krokodilfleisch|n
+Krokodiljäger|m
 Krokodilklemme|f
 Krokodilleder|n
 Krokodillederstiefel|m
@@ -55456,6 +55963,7 @@ Krumbach|
 Krume|f
 Krummbiegel|
 Krummdarm|m
+Krummdolch|m
 Krummet|n
 Krummhorn|n
 Krummsäbel|m
@@ -55633,6 +56141,7 @@ Kugelfläche|f
 Kugelgelenk|n
 Kugelgrill|m
 Kugelhagel|m
+Kugelhantel|f
 Kugelkopf|m
 Kugelkopfmaschine|f
 Kugelkopfschreibmaschine|f
@@ -55760,6 +56269,7 @@ Kulturgeographie|
 Kulturgeschichte|f
 Kulturgruppe|f
 Kulturgut|n
+Kulturhauptstadt|f
 Kulturhaus|n
 Kulturhistoriker|m
 Kulturhistorikerin|f
@@ -55860,6 +56370,7 @@ Kumulation|f
 Kumulierung|f
 Kumykisch|
 Kumükisch|
+Kunar|
 Kunde|m;f
 Kundenberatung|f
 Kundendaten|
@@ -55892,10 +56403,12 @@ Kungfu|n
 Kunigunde|
 Kunkel|f
 Kunktator|m
+Kunming|
 Kunst|f
 Kunstakademie|f
 Kunstaktion|f
 Kunstauktion|f
+Kunstausstellung|f
 Kunstbetrachtung|f
 Kunstbetrieb|m
 Kunstbetrug|m
@@ -55934,7 +56447,9 @@ Kunsthochschule|f
 Kunsthändler|m
 Kunsthändlerin|f
 Kunstkalender|m
+Kunstkenntnis|f
 Kunstkork|m
+Kunstkritiker|m
 Kunstledereinband|m
 Kunstlederhandschuh|m
 Kunstlederjacke|f
@@ -56148,6 +56663,7 @@ Kupfererz|n
 Kupfergehalt|m
 Kupfergeld|n
 Kupfergeschirr|n
+Kupfergriff|m
 Kupfergürtel|m
 Kupferhandel|m
 Kupferhütte|f
@@ -56283,6 +56799,7 @@ Kursleiter|m
 Kursleiterin|f
 Kursmanipulation|f
 Kursprognose|f
+Kursstunde|f
 Kursteilnehmer|m
 Kursteilnehmerin|f
 Kursus|m
@@ -56326,6 +56843,7 @@ Kurzgeschichte|f
 Kurzgeschichtenband|m
 Kurzhaardackel|m
 Kurzhaarschnitt|m
+Kurzhantel|f
 Kurzhorn-Krötenechse|f
 Kurzkopfgleitbeutler|m
 Kurzlebigkeit|f
@@ -56387,6 +56905,7 @@ Kuschelkurs|m
 Kuscheltier|n
 Kusel|
 Kusine|f
+Kuskokwim Mountains|
 Kuskus|m;n
 Kuss|m
 Kusshand|f
@@ -56397,6 +56916,7 @@ Kustodin|f
 Kustos|m
 Kutschbock|m
 Kutsche|f
+Kutschenfabrik|f
 Kutschenfahrt|f
 Kutschenfenster|n
 Kutschenschlag|m
@@ -56696,6 +57216,7 @@ Körnerfresser|m
 Körnerfresserin|f
 Körnung|f
 Körper|m
+Körperabschnitt|m
 Körperachse|f
 Körperausdünstung|f
 Körperbau|m
@@ -56716,12 +57237,14 @@ Körperfülle|f
 Körpergeruch|m
 Körpergewebe|n
 Körpergewicht|n
+Körpergewichtsübung|f
 Körpergrab|n
 Körpergrad|m
 Körpergröße|f
 Körperhaar|n
 Körperhaltung|f
 Körperhälfte|f
+Körperhöhle|f
 Körperinneres|n
 Körperklaus|m
 Körperkontakt|m
@@ -56735,6 +57258,7 @@ Körpermerkmal|n
 Körperoberfläche|f
 Körperparade|f
 Körperpartie|f
+Körperperipherie|f
 Körperpflege|f
 Körpersaft|m
 Körperscanner|m
@@ -56744,6 +57268,7 @@ Körperschwerpunkt|m
 Körperseite|f
 Körpersprache|f
 Körperstelle|f
+Körperstellung|f
 Körpertechnik|f
 Körperteil|m
 Körpertemperatur|f
@@ -56753,6 +57278,7 @@ Körperwahrnehmung|f
 Körperwärme|f
 Körperzelle|f
 Körperöffnung|f
+Körperübung|f
 Körung|f
 Kötel|m
 Köter|m
@@ -56787,6 +57313,7 @@ Küchengerät|n
 Küchengeräusch|n
 Küchenhelfer|m
 Küchenherd|m
+Küchenhilfe|f
 Küchenhocker|m
 Kücheninsel|f
 Küchenjunge|m
@@ -56876,6 +57403,7 @@ Kümmelbrötchen|n
 Kümmelgeruch|m
 Kümmelgeschmack|m
 Kümmeltürke|m
+Kümmelöl|n
 Kümmerer|m
 Kümmerin|f
 Kümmerling|m
@@ -56911,6 +57439,7 @@ Kürassier|m
 Kürbis|m
 Kürbisblatt|n
 Kürbisernte|f
+Kürbisflasche|f
 Kürbisgemüse|n
 Kürbisgewächs|n
 Kürbiskern|m
@@ -56938,6 +57467,7 @@ Küstenabschnitt|m
 Küstenbevölkerung|f
 Küstenbewohner|m
 Küstenboot|n
+Küstendorf|n
 Küstenebene|f
 Küstengebiet|n
 Küstengebirge|n
@@ -56958,6 +57488,7 @@ Küstenstrich|m
 Küstenwache|f
 Küstenwanderweg|m
 Küstenwetterbericht|m
+Küstenörtchen|n
 Küster|m
 Küsterin|f
 Küsterstelle|f
@@ -57033,6 +57564,7 @@ Laborbefund|m
 Laborbericht|m
 Labordiagnostik|f
 Laborergebnis|n
+Laborexperiment|n
 Laborfenster|n
 Laborforschung|f
 Laborgerät|n
@@ -57285,6 +57817,7 @@ Laizität|f
 Lakai|m
 Lakaiin|f
 Lake|f;m
+Lake Placid|
 Lakedaimon|
 Lakedämon|
 Lakedämonier|m
@@ -57318,6 +57851,7 @@ Lallphase|f
 Lallwort|n
 Lama|n;m
 Lamarckismus|m
+Lambanog|m
 Lambda|n
 Lambda-Ausdruck|m
 Lambdazismus|m
@@ -57340,6 +57874,7 @@ Lamm Gottes|n
 Lammbraten|m
 Lammcurry|n
 Lammfell|n
+Lammfelljacke|f
 Lammfellmütze|f
 Lammfett|n
 Lammfleisch|n
@@ -57498,6 +58033,7 @@ Landfrage|f
 Landfrau|f
 Landfriede|m
 Landfrieden|m
+Landfriedensbruch|m
 Landfuhrwerk|n
 Landgang|m
 Landgasthof|m
@@ -57558,6 +58094,7 @@ Landschaftsbild|n
 Landschaftsgenetik|f
 Landschaftsgärtner|m
 Landschaftsgärtnerin|f
+Landschaftsmaler|m
 Landschaftsname|m
 Landschaftspark|m
 Landschaftsplan|m
@@ -57669,6 +58206,7 @@ Langfinger|m
 Langhaardackel|m
 Langhanke|
 Langhans|
+Langhantel|f
 Langhaus|n
 Langheinrich|
 Langhennersdorf|
@@ -57707,6 +58245,7 @@ Langue|f
 Languedoc-Roussillon|n
 Languste|f
 Langustine|f
+Langversion|f
 Langvokal|m
 Langweiler|m
 Langweiligkeit|f
@@ -57733,9 +58272,11 @@ Lanthan|n
 Lanthanoid|n
 Lanzarote|
 Lanze|f
+Lanzenotter|f
 Lanzenspitze|f
 Lanzenstich|m
 Lanzette|f
+Lanzhou|
 Lanzierer|m
 Laos|
 Laote|m
@@ -57790,6 +58331,7 @@ Laserdiode|f
 Laserdrucker|m
 Laserkanone|f
 Lasermaus|f
+Lasermikrofon|n
 Laserpistole|f
 Laserpointer|m
 Laserscan|m
@@ -57961,41 +58503,64 @@ Lauer|f
 Lauerjäger|m
 Lauerstellung|f
 Lauf|m
+Laufanfänger|m
 Laufbahn|f
 Laufband|n
+Laufbegeisterter|m
+Laufbeginner|m
+Laufbewegung|f
 Laufbursche|m
+Laufclub|m
+Laufeinsteiger|m
+Laufeinsteigerin|f
+Laufeinstieg|m
 Laufen|n
 Laufenburg|
+Lauferlebnis|n
 Lauffen|
 Lauffeuer|n
 Lauffläche|f
 Laufgang|m
+Laufgemeinschaft|f
+Laufgenuss|m
 Laufgewichtswaage|f
 Laufgraben|m
 Laufhaus|n
+Laufhose|f
 Laufkatze|f
 Laufknoten|m
 Laufkundschaft|f
+Laufleistung|f
 Laufmasche|f
 Laufmeter|m
+Laufneuling|m
+Laufnovize|m
 Laufpass|m
 Laufrad|n
 Laufrichtung|f
 Laufruhe|f
 Laufschritt|m
 Laufschuh|m
+Laufschuhkauf|m
 Laufspiel|n
+Laufsport|m
 Laufstall|m
+Laufstart|m
 Laufsteg|m
+Laufstil|m
 Laufstärke|f
+Lauftagebuch|n
+Lauftipp|m
 Lauftrainer|m
 Lauftraining|n
+Laufveranstaltung|f
 Laufvogel|m
 Laufwerk|n
 Laufwettbewerb|m
 Laufzeit|f
 Laufzeitumgebung|f
 Laufzeitverlängerung|f
+Laufziel|n
 Lauge|f
 Laugenbrezel|f
 Laugenbrötchen|n
@@ -58016,6 +58581,7 @@ Laureat|m
 Laureatin|f
 Laurentius|
 Laurentiuskapelle|f
+Laurenziberg|m
 Laurinsäure|f
 Laurisilva|m;f
 Laurus|m
@@ -58086,6 +58652,7 @@ Lavage|f
 Lavagestein|n
 Lavalampe|f
 Lavant|f
+Lavaschicht|f
 Lavastrom|m
 Lavendel|m;n
 Lavendelart|f
@@ -58325,6 +58892,7 @@ Lebenswissenschaft|f
 Lebenswoche|f
 Lebenszeichen|n
 Lebenszeit|f
+Lebenszeitprävalenz|f
 Lebensziel|n
 Lebenszweck|m
 Lebenszyklus|m
@@ -58488,8 +59056,10 @@ Legationsrat|m
 Legebatterie|f
 Legehenne|f
 Legende|f
+Legendenschatz|m
 Legendierung|f
 Legespiel|n
+Leggings|
 Leggins|
 Legierung|f
 Legion|f
@@ -58891,6 +59461,7 @@ Leistungsspiel|n
 Leistungssport|m
 Leistungssportler|m
 Leistungssportlerin|f
+Leistungssteigerung|
 Leistungstief|n
 Leistungsträger|m
 Leistungsträgerin|f
@@ -58982,6 +59553,7 @@ Lemnetea minoris|
 Lemniskate|f
 Lemur|m
 Lemuria|
+Lemurier|m
 Lena|f
 Lend|
 Lende|f
@@ -59058,6 +59630,7 @@ Leporello|n;m
 Lepra|f
 Leprakranke|f
 Leprakranker|m
+Leprasymptom|n
 Leprosenhaus|n
 Leprosorium|n
 Lepton|n
@@ -59122,6 +59695,7 @@ Lesehore|f
 Lesehunger|m
 Lesekompetenz|f
 Leselampe|f
+Leseliste|f
 Lesen|n
 Leseprobe|f
 Lesepublikum|n
@@ -59283,10 +59857,13 @@ Lexington|
 Leyerfrau|f
 Leyermann|m
 León|
+Lhasa|
 Lhotse|m
 Li|
 Liaison|f
 Liane|f
+Liaocheng|
+Liaoning|
 Liban|
 Libanese|m
 Libanesin|f
@@ -59346,6 +59923,7 @@ Lichterbaum|m
 Lichterkette|f
 Lichtermeer|n
 Lichterprozession|f
+Lichterstadt|f
 Lichterstein|m
 Lichterzeugung|f
 Lichtfalle|f
@@ -59537,6 +60115,7 @@ Lieblingshund|m
 Lieblingsidee|f
 Lieblingsinsel|f
 Lieblingsjünger|m
+Lieblingskaninchen|n
 Lieblingskind|n
 Lieblingskleid|n
 Lieblingskneipe|f
@@ -59958,6 +60537,7 @@ Literaturkritik|f
 Literaturkritiker|m
 Literaturkritikerin|f
 Literaturliste|f
+Literaturmagazin|n
 Literaturnobelpreis|m
 Literaturnobelpreisträger|m
 Literaturnobelpreisträgerin|f
@@ -60310,6 +60890,7 @@ Lorch|
 Lorchel|f
 Lord|m
 Lordose|f
+Lordosierung|f
 Lordschaft|f
 Lore|f
 Loreley|f
@@ -60390,6 +60971,7 @@ Lover|m
 Low-Cost-Carrier|m
 Lower East Side|f
 Lower Hutt|
+Lower Manhattan|
 Lowlands|
 Lowtech|f;n
 Loyalität|f
@@ -60496,10 +61078,12 @@ Luftionisationsgenerator|m
 Luftionisierung|f
 Luftkampf|m
 Luftkeim|m
+Luftkissenfahrzeug|n
 Luftkrankheit|f
 Luftkrieg|m
 Luftkurort|m
 Luftkuss|m
+Luftlandedivision|f
 Luftlinie|f
 Luftloch|n
 Luftmasse|f
@@ -60775,6 +61359,7 @@ Luzerne|f
 Luzerne-Pellet|m
 Luzerner|m
 Luzernerin|f
+Luzhou|
 Luzia|
 Luzidität|f
 Luzifer|m
@@ -60818,6 +61403,7 @@ Lymphzelle|f
 Lymphödem|n
 Lynchjustiz|f
 Lynchmob|m
+Lynchmord|m
 Lynn|
 Lyon|
 Lyoner|m;f
@@ -60914,6 +61500,7 @@ Läuferendspiel|n
 Läufergabel|f
 Läuferin|f
 Läuferpaar|n
+Läufertyp|m
 Läuferverband|m
 Läuferzug|m
 Läusebefall|m
@@ -61245,6 +61832,7 @@ MG|n
 MG-Schütze|m
 MG-Schützin|f
 MGB|m
+MI6|m
 MILF|f
 MIT|m
 MKS-System|n
@@ -61256,6 +61844,7 @@ Ma|f
 Ma-Huang|
 Maa|
 Maad|
+Maadi|
 Maaike|
 Maar|n
 Maarvulkan|m
@@ -61662,6 +62251,7 @@ Maisfarm|f
 Maisfeld|n
 Maisgrieß|m
 Maiskolben|m
+Maiskolbenpfeife|f
 Maiskorn|n
 Maismehl|n
 Maisonette|f
@@ -61701,6 +62291,7 @@ Makak|m
 Makalu|m
 Makaronesien|
 Makassar|
+Makati|
 Make-up|n
 Makedone|m
 Makedonien|
@@ -61724,6 +62315,7 @@ Makrele|f
 Makro|n
 Makro-Algonkin-Sprachgruppe|f
 Makrobiotik|f
+Makroevolution|f
 Makrofossil|n
 Makrogamet|m
 Makrogamie|f
@@ -61821,6 +62413,7 @@ Mallorquiner|m
 Mallorquinerin|f
 Mallung|f
 Malm|m
+Malmesbury|
 Malmö|
 Maloche|f
 Malocher|m
@@ -61977,6 +62570,7 @@ Mangelware|f
 Mangfall|f
 Mango|f
 Mangobaum|m
+Mangoduft|m
 Mangohain|m
 Mangold|m
 Mangonel|m
@@ -61992,6 +62586,7 @@ Mangrovenwurzel|f
 Manguste|f
 Manhattan|
 Manhattan Bridge|f
+Manhattaner|m
 Manichäismus|m
 Manie|f
 Manier|f
@@ -62118,6 +62713,7 @@ Manöver|n
 Manöverkritik|f
 Maoist|m
 Maoistin|f
+Maoming|
 Maori|m;f
 Maotai|m
 Mappe|f
@@ -62128,6 +62724,7 @@ Mar-a-Lago|
 Mara|f;m
 Marabout|m
 Marabu|m
+Marabufeder|f
 Maracuja|f
 Maradi|
 Marane|m
@@ -62147,6 +62744,7 @@ Marbach|
 Marbella|
 Marburg|
 Marburg-Virus|n;m
+Marburger|m
 Marburgvirus|n;m
 Marc|
 Marcel|
@@ -62207,6 +62805,7 @@ Mariendichtung|f
 Mariendreißiger|m
 Marienfaden|m
 Marienfest|n
+Marienfigur|f
 Marienfrömmigkeit|f
 Mariengarn|n
 Marienglas|n
@@ -62245,6 +62844,7 @@ Marinearsenal|n
 Marineartillerie|f
 Marineattaché|m
 Marinebasis|f
+Marineflieger|m
 Marinegeheimdienst|m
 Marineinfanterie|f
 Marineinfanterist|m
@@ -62253,6 +62853,7 @@ Marinekamerad|m
 Marinelaufbahn|f
 Marineoffizier|m
 Marineoffizierin|f
+Marinepilot|m
 Marines|
 Marineschiffspost|f
 Marinesoldat|m
@@ -62292,6 +62893,7 @@ Marketenderwagen|m
 Marketenderware|f
 Marketing|n
 Marketingbroschüre|f
+Marketingexperte|m
 Markgraf|m
 Markgrafentum|n
 Markgraftum|n
@@ -62384,6 +62986,7 @@ Marmeladinger|m
 Marmelente|f
 Marmelstein|m
 Marmor|m
+Marmorbecken|n
 Marmorbildnis|n
 Marmorblock|m
 Marmorboden|m
@@ -62400,6 +63003,7 @@ Marmorfoyer|n
 Marmorfußboden|m
 Marmorgebäude|n
 Marmorgeländer|n
+Marmorgrabstein|m
 Marmorgruppe|f
 Marmorkachel|f
 Marmorkamin|m
@@ -62418,10 +63022,13 @@ Marmorsteinbruch|m
 Marmorstufe|f
 Marmorsäule|f
 Marmortafel|f
+Marmortempel|m
 Marmorterrasse|f
+Marmorthron|m
 Marmortisch|m
 Marmortischchen|n
 Marmortreppe|f
+Marmorverkleidung|f
 Marmorverzierung|f
 Marmorvilla|f
 Marmorwand|f
@@ -62485,6 +63092,7 @@ Marser|m
 Marsfeld|n
 Marsgast|m
 Marsgestein|n
+Marshall|
 Marshaller|m
 Marshallerin|f
 Marshallesisch|
@@ -62506,6 +63114,7 @@ Marsrakete|f
 Marsrover|m
 Marssonde|f
 Marsstaub|m
+Marssymbol|n
 Marstall|m
 Marstempel|m
 Martens|
@@ -62814,6 +63423,7 @@ Materialverlust|m
 Materialwert|m
 Materialwirtschaft|f
 Materialwissenschaft|f
+Materialzusammensetzung|f
 Materie|f
 Materiewelle|f
 Maternität|f
@@ -63036,6 +63646,7 @@ Mayen|
 Mayener|m
 Mayenerin|f
 Mayer|
+Mayfair|
 Mayim|
 Mayo|f
 Mayonnaise|f
@@ -63075,6 +63686,7 @@ Maßsystem|n
 Maßwerk|n
 Maïlys|
 Mbabane|
+McAllen|
 McCarthyismus|m
 McDonaldisierung|f
 McMurdo-Sund|m
@@ -63097,6 +63709,7 @@ Mecklenburg-Vorpommerin|f
 Mecklenburg-Vorpommern|
 Meckpomm|
 Medaille|f
+Medaillengewinn|m
 Medaillengewinner|m
 Medaillengewinnerin|f
 Medaillenregen|m
@@ -63158,6 +63771,7 @@ Medienwissenschaftlerin|f
 Medienzensur|f
 Medikament|n
 Medikamentenflasche|f
+Medikamentenknappheit|f
 Medikamentenkonsum|m
 Medikamentenmissbrauch|m
 Medikamentenspiegel|m
@@ -63219,6 +63833,7 @@ Meerchen|
 Meerechse|f
 Meereis|n
 Meerenge|f
+Meeresalge|f
 Meeresarm|m
 Meeresbewohner|m
 Meeresbiologe|m
@@ -63244,6 +63859,7 @@ Meeresgöttin|f
 Meereskoloss|m
 Meereskunde|f
 Meeresküste|f
+Meeresleben|n
 Meereslebewesen|n
 Meeresluft|f
 Meeresoberfläche|f
@@ -63307,6 +63923,7 @@ Megaron|n
 Megastar|m
 Megastau|m
 Megastore|m
+Megatherium|n
 Megatonne|f
 Megavolt|n
 Megawatt|n
@@ -63747,6 +64364,7 @@ Menschenwelt|f
 Menschenwerk|n
 Menschenwürde|f
 Menschenzoo|m
+Menschenähnlichkeit|f
 Menschheit|f
 Menschheitsgeschichte|f
 Menschheitstraum|m
@@ -63779,6 +64397,7 @@ Menüfolge|f
 Meppen|
 Meran|
 Mercedes-Taxi|n;m
+Mercer Island|
 Merchandising|n
 Mercosur|m
 Mercosur-Staat|m
@@ -63930,6 +64549,7 @@ Messingring|m
 Messingrohr|n
 Messingschale|f
 Messingschild|n
+Messingschildchen|n
 Messingschlager|
 Messingschließe|f
 Messingschloss|n
@@ -63982,6 +64602,7 @@ Metallbeschlag|m
 Metallbett|n
 Metallblock|m
 Metallboden|m
+Metallbohrer|m
 Metallbolzen|m
 Metallbox|f
 Metallbrille|f
@@ -64074,6 +64695,7 @@ Metallsäule|f
 Metallteil|n
 Metalltisch|m
 Metalltor|n
+Metalltrümmer|
 Metalltür|f
 Metallurgie|f
 Metallverbindung|f
@@ -64148,6 +64770,7 @@ Methodenkompetenz|f
 Methodik|f
 Methodist|m
 Methodistenkapelle|f
+Methodistenprediger|m
 Methodistin|f
 Methodologie|f
 Methusalem|m
@@ -64196,6 +64819,7 @@ Metzgerlehre|f
 Metzgermesser|n
 Metzgerpalme|f
 Metzgerpost|f
+Metzgerschürze|f
 Metzgersfahrt|f
 Metzgersgang|m
 Metzgersohn|m
@@ -64345,6 +64969,7 @@ Mikrobion|n
 Mikrochip|m
 Mikrocontroller|m
 Mikroerdbeben|n
+Mikroevolution|f
 Mikrofaser|f
 Mikrofilm|m
 Mikrofon|n
@@ -64471,6 +65096,7 @@ Milchwagen|m
 Milchware|f
 Milchwirtschaft|f
 Milchzahn|m
+Milchziege|f
 Milchzisterne|f
 Milchzucker|m
 Milde|f
@@ -64506,6 +65132,7 @@ Militärberaterin|f
 Militärbericht|m
 Militärbetrieb|m
 Militärbündnis|n
+Militärdelegation|f
 Militärdienst|m
 Militärdiktator|m
 Militärdiktatur|f
@@ -64591,6 +65218,7 @@ Militärstreife|f
 Militärstützpunkt|m
 Militäruniform|f
 Militärverordnung|f
+Militärverwaltung|f
 Militärvorschrift|f
 Militärwesen|n
 Militärwissenschaft|f
@@ -64970,6 +65598,7 @@ Missionarin|f
 Missionarsorgel|f
 Missionarsstellung|f
 Missionierung|f
+Missionierungsversuch|m
 Missionsarbeit|f
 Missionsgebiet|n
 Missionsgesellschaft|f
@@ -65024,6 +65653,7 @@ Mitangeklagter|m
 Mitarbeit|f
 Mitarbeiter|m
 Mitarbeiterin|f
+Mitarbeiterparkplatz|m
 Mitarbeiterrabatt|m
 Mitarbeiterzahl|f
 Mitau|
@@ -65131,6 +65761,7 @@ Mitschülerin|f
 Mitsegler|m
 Mitsklave|m
 Mitsklavin|f
+Mitsoldat|m
 Mitspieler|m
 Mitspielerin|f
 Mitspracherecht|n
@@ -65576,7 +66207,9 @@ Moild|
 Moiré-Effekt|m
 Moischt|
 Mojave-Klapperschlange|f
+Mojito|m
 Mokassin|m
+Mokassinotter|f
 Mokchen|n
 Mokka|m
 Mokkatasse|f
@@ -65636,6 +66269,7 @@ Molton|m
 Molukken|
 Molybdomantie|f
 Molybdän|n
+Mombasa|
 Moment|m;n
 Momentaufnahme|f
 Momentum|n
@@ -65882,6 +66516,7 @@ Montenegrinisch|
 Montenegro|
 Montepulciano|m
 Monterey Park|
+Monterrey|
 Monteur|m
 Monteurin|f
 Montevideo|
@@ -66080,6 +66715,7 @@ Morgenwind|m
 Morgenzeit|f
 Morgenzeitung|f
 Morgenübelkeit|f
+Morgenübung|f
 Morillon|m
 Moringen|
 Morio-Muskat|m
@@ -66111,6 +66747,7 @@ Morphinistin|f
 Morphinpräparat|n
 Morphinschlaf|m
 Morphinsucht|f
+Morphintablette|f
 Morphium|n
 Morphiumabhängigkeit|f
 Morphiumspritze|f
@@ -66219,6 +66856,7 @@ Motiv|n
 Motivation|f
 Motivationsrede|f
 Motivationsschreiben|n
+Motivationsschub|m
 Motiviertheit|f
 Motivierung|f
 Motivik|f
@@ -66297,6 +66935,7 @@ Mount Carmel|
 Mount Erebus|m
 Mount Everest|m
 Mount Nansen|m
+Mount Rainier|m
 Mount Terror|m
 Mountainbike|n
 Mountainbiker|m
@@ -66558,6 +67197,7 @@ Musculus arrector pili|
 Musculus iliacus|m
 Musculus iliopsoas|m
 Musculus ischiocavernosus|m
+Musculus latissimus dorsi|m
 Musculus psoas major|m
 Musculus pyramidalis|m
 Musculus rectus abdominis|m
@@ -66568,6 +67208,7 @@ Muselmanin|f
 Muselmann|
 Musentempel|m
 Museum|n
+Museumsangestellter|m
 Museumsbesuch|m
 Museumsbesucher|m
 Museumsbesucherin|f
@@ -66575,8 +67216,10 @@ Museumsbibliothek|f
 Museumsdirektor|m
 Museumsdirektorin|f
 Museumsfriedhof|m
+Museumsführer|m
 Museumsgarten|m
 Museumskeller|m
+Museumslabor|n
 Museumsladen|m
 Museumsleiter|m
 Museumsmagazin|n
@@ -66658,6 +67301,7 @@ Musikunterricht|m
 Musikus|m
 Musikverein|m
 Musikvideo|n
+Musikwiedergabe|f
 Musikwissenschaft|f
 Musikwissenschaftler|m
 Musikwissenschaftlerin|f
@@ -66678,16 +67322,19 @@ Muskelfaserriss|m
 Muskelfaserzelle|f
 Muskelfieber|n
 Muskelfleisch|n
+Muskelgedächtnis|n
 Muskelgeflecht|n
 Muskelgewebe|n
 Muskelgruppe|f
 Muskelkater|m
+Muskelkontraktion|f
 Muskelkraft|f
 Muskelkrampf|m
 Muskelmann|m
 Muskelmantel|m
 Muskelpaket|n
 Muskelprotz|m
+Muskelrelaxation|f
 Muskelriss|m
 Muskelschicht|f
 Muskelschmerz|m
@@ -66739,6 +67386,7 @@ Musterstaat|m
 Musterstück|n
 Musterung|f
 Musterverfahren|n
+Mustique|
 Mut|m
 Mut'a-Ehe|f
 Muta|f
@@ -66804,6 +67452,7 @@ Mutters|
 Mutterschaf|n
 Mutterschaft|f
 Mutterschaftsurlaub|m
+Mutterschiff|n
 Muttersprachdidaktik|f
 Muttersprache|f
 Muttersprachler|m
@@ -67111,6 +67760,7 @@ Männerrunde|f
 Männersache|f
 Männersauna|f
 Männerschritt|m
+Männerschweiß|m
 Männersprache|f
 Männerstimme|f
 Männerstrich|m
@@ -67217,6 +67867,7 @@ Möbelschreinerin|f
 Möbelstück|n
 Möbeltransport|m
 Möbelwagen|m
+Möbiusband|n
 Möblage|f
 Möchtegern|m
 Möchtegern-Polizist|m
@@ -67328,7 +67979,7 @@ Mülldeponie|f
 Mülldetektiv|m
 Mülleimer|m
 Mülleimerdeckel|m
-Müllentsorgung|n
+Müllentsorgung|f
 Müller|m
 Müller-Thurgau|m
 Müllerchen|n
@@ -67544,6 +68195,7 @@ Nachahmung|f
 Nachahmungstäter|m
 Nacharbeit|f
 Nachbar|m
+Nachbarbezirk|m
 Nachbardisziplin|f
 Nachbardorf|n
 Nachbargalaxie|f
@@ -67575,6 +68227,7 @@ Nachbarviertel|n
 Nachbarvolk|n
 Nachbarwinkel|m
 Nachbarwissenschaft|f
+Nachbarwohnung|f
 Nachbarzimmer|n
 Nachbau|m
 Nachbeben|n
@@ -67695,6 +68348,7 @@ Nachmittagssonne|f
 Nachmittagsspaziergang|m
 Nachmittagsstille|f
 Nachmittagsstunde|f
+Nachmittagstermin|m
 Nachmittagsunterricht|m
 Nachmittagsveranstaltung|f
 Nachmittagsvorstellung|f
@@ -67896,6 +68550,7 @@ Nachäfferei|f
 Nackedei|m
 Nacken|m
 Nackenhaar|n
+Nackenmuskulatur|f
 Nackenschmerz|m
 Nackerte|f
 Nackt-Hafer|m
@@ -67976,6 +68631,7 @@ Nagoya|
 Nagpur|
 Nagualismus|m
 Naha|
+Naharija|
 Nahe|f
 Naher Osten|m
 Naherholungsgebiet|n
@@ -68006,6 +68662,7 @@ Nahrungsknappheit|f
 Nahrungsmangel|m
 Nahrungsmittel|n
 Nahrungsmittelallergie|f
+Nahrungsmittelblockade|f
 Nahrungsmittelengpass|m
 Nahrungsmittelgeruch|m
 Nahrungsmittelhandel|m
@@ -68118,13 +68775,17 @@ Namibier|m
 Namibierin|f
 Nampula|
 Namur|n
+Nan Madol|
 Nana|f
+Nanchang|
+Nanchong|
 Nancy|
 Nandrolon|n
 Nandu|m
 Nane|
 Nanga Parbat|m
 Nanismus|m
+Nanjing|
 Nanking|m
 Nankinghose|f
 Nanning|
@@ -68143,6 +68804,7 @@ Nansenpass|m
 Nantes|
 Nantucket|
 Nantucket Sound|
+Nanyang|
 Nanzenbach|
 Nanzig|
 Naomi|
@@ -68202,6 +68864,7 @@ Narkotismus|m
 Narodnaja Wolja|f
 Narodniki|
 Narr|m
+Narragansett Bay|f
 Narration|f
 Narrativ|n;m
 Narrativik|f
@@ -68263,6 +68926,7 @@ Nasennebenhöhlenentzündung|f
 Nasenoperation|f
 Nasenpad|n
 Nasenpflege|f
+Nasenpiercing|n
 Nasenpolster|n
 Nasenring|m
 Nasenrücken|m
@@ -68284,6 +68948,7 @@ Nashi|f
 Nashik|
 Nashorn|n
 Nashornkäfer|m
+Nashua|
 Nashville|
 Nasigoreng|n
 Nasiräer|m
@@ -68424,6 +69089,7 @@ Naturbetrachtung|f
 Naturbursche|m
 Naturdarm|m
 Naturdenkmal|n
+Naturdokumentation|f
 Naturdroge|f
 Naturdämon|m
 Naturell|n
@@ -68554,6 +69220,7 @@ Naziopfer|n
 Naziraubkunst|f
 Naziregierung|f
 Naziregime|n
+Nazischwein|n
 Nazismus|m
 Nazisse|f
 Nazist|m
@@ -68751,6 +69418,7 @@ Negev|m;f
 Negligé|n
 Negride|f
 Negrider|m
+Negros|
 Negus|m
 Negwer|
 Nehemia|
@@ -68846,6 +69514,7 @@ Neonlampe|f
 Neonleuchte|f
 Neonlicht|n
 Neonlogo|n
+Neonpfeil|m
 Neonreklame|f
 Neonröhre|f
 Neonverbindung|f
@@ -68959,6 +69628,7 @@ Nestor|m
 Nestorin|f
 Nestwärme|f
 Net|n
+Netanja|
 Netbook|n
 Netikette|f
 Netiquette|f
@@ -69055,6 +69725,7 @@ Neubeginn|m
 Neubelebung|f
 Neubenennung|f
 Neuberechnung|f
+Neubewertung|f
 Neubildung|f
 Neubrandenburg|
 Neubraunschweig|
@@ -69110,6 +69781,7 @@ Neugier|f
 Neugierde|f
 Neugieriger|m
 Neugliederung|f
+Neugotik|f
 Neugriechisch|
 Neugründung|f
 Neuguinea|
@@ -69317,6 +69989,7 @@ Nevsehir|
 New Age|n
 New Delhi|
 New Hampshire|
+New Iberia|
 New Jersey|
 New Mexico|
 New Orleans|
@@ -69336,6 +70009,7 @@ Newsgroup|f
 Newski-Prospekt|m
 Newsletter|m
 Newton|n
+Newton Abbot|
 Newtonmeter|m;n
 Nexus|m
 Nez Perce|
@@ -69686,6 +70360,7 @@ Nimbus|m
 Nimmersatt|m
 Nimrod|m
 Nina|
+Ningxia|
 Ninhydrin|n
 Ninive|
 Ninivit|m
@@ -69789,6 +70464,7 @@ Noma|n
 Nomade|m
 Nomadendasein|n
 Nomadenleben|n
+Nomadenstamm|m
 Nomadentum|n
 Nomadenvolk|n
 Nomadin|f
@@ -69832,6 +70508,7 @@ Nonansäure|f
 Nonatriacontan|n
 Nonchalance|f
 Nonen|m
+Nonidi|m
 Nonilliarde|f
 Nonillion|f
 Nonius|m
@@ -69881,6 +70558,7 @@ Nordausgang|m
 Nordbahnhof|m
 Nordbairisch|
 Nordburgenland|n
+Nordböhmen|
 Norddakota|
 Nordderby|n
 Norddeutsche|f
@@ -70303,6 +70981,7 @@ Nudist|m
 Nudistin|f
 Nudität|f
 Nudossi|f;n;m
+Nuevo Laredo|
 Nugat|m;n
 Nuklearangriff|m
 Nuklearforschung|f
@@ -70470,6 +71149,7 @@ Nuuk|
 Nußloch|
 Ny|n
 Nyala|m
+Nyangwe|
 Nyanja|
 Nyiragongo|m
 Nyktalgie|f
@@ -70596,6 +71276,7 @@ OSS|n
 OVCW|f
 Oachkatzlschwoaf|
 Oahu|
+Oak Bluffs|
 Oak Falls|
 Oakland|
 Oase|f
@@ -70638,6 +71319,7 @@ Oberamtsanwalt|m
 Oberarm|m
 Oberarmbruch|m
 Oberarmknochen|m
+Oberarmmuskel|m
 Oberarzt|m
 Oberasbach|
 Oberaufsicht|f
@@ -70780,6 +71462,7 @@ Oberschenkelamputation|f
 Oberschenkelhalsbruch|m
 Oberschenkelknochen|m
 Oberschenkelmuskulatur|f
+Oberschenkelverletzung|f
 Oberschicht|f
 Oberschichtkind|n
 Oberschiedsrichter|m
@@ -70790,10 +71473,12 @@ Oberschrank|m
 Oberschule|f
 Oberschullehrer|m
 Oberschullehrerin|f
+Oberschulzeit|f
 Oberschwester|f
 Oberschöna|
 Oberschöneweide|
 Oberseite|f
+Obersekretär|m
 Obersekunda|f
 Obersekundaner|m
 Obersekundanerin|f
@@ -70904,6 +71589,7 @@ Obstbauer|m
 Obstbaum|m
 Obstbaumbestand|m
 Obstbaumgarten|m
+Obstbaumhain|m
 Obstbesteck|n
 Obstbrand|m
 Obstbrennerei|f
@@ -70912,9 +71598,11 @@ Obstdieb|m
 Obsternte|f
 Obstetrik|f
 Obstetrix|f
+Obstfarm|f
 Obstfliege|f
 Obstgarten|m
 Obstgeschäft|n
+Obsthain|m
 Obsthandel|m
 Obsthändler|m
 Obsthändlerin|f
@@ -70962,6 +71650,7 @@ Ochsenkarren|m
 Ochsenkopf|m
 Ochsenmaul|n
 Ochsenmaulsalat|m
+Ochsenpflug|m
 Ochsenrennen|n
 Ochsenschlepp|m
 Ochsenschwanz|m
@@ -70980,8 +71669,10 @@ Octadecan|n
 Octadecansäure|f
 Octan|n
 Octanal|n
+Octanitrocuban|n
 Octansäure|f
 Octatriacontan|n
+Octidi|m
 Octylaldehyd|m
 Odaliske|f
 Odde|
@@ -71014,6 +71705,7 @@ Odyssee|f
 Odysseus|m
 Odysseus-Syndrom|n
 Oebisfelde|
+Oechsle|n
 Oederan|
 Oedheim|
 Oehme|
@@ -71214,6 +71906,7 @@ Oktav|f;n
 Oktava|f
 Oktave|f
 Oktett|n
+Oktidi|m
 Oktilliarde|f
 Oktillion|f
 Oktober|m
@@ -71230,6 +71923,7 @@ Oktobersonne|f
 Oktobersturm|m
 Oktobertag|m
 Oktoberwoche|f
+Oktogen|n
 Oktogon|n
 Oktole|f
 Oktologie|f
@@ -71438,6 +72132,7 @@ Onlinesucht|f
 Onlineticket|n
 Onlineumfrage|f
 Onlineversion|f
+Onlinewahlkampf|m
 Onlinewelt|f
 Onlinewörterbuch|n
 Onlinezeit|f
@@ -71539,6 +72234,7 @@ Opfer-Notruf|m
 Opferanode|f
 Opferanwalt|m
 Opferbereitschaft|f
+Opferbeschreibung|f
 Opferblut|n
 Opferdasein|n
 Opferfest|n
@@ -71694,6 +72390,7 @@ Oranier|m
 Oranje|m
 Oranje-Freistaat|m
 Oranjemund|
+Oranjestad|
 Oration|f
 Oratorium|n
 Orbit|m
@@ -71717,6 +72414,7 @@ Orchestrion|n
 Orchidee|f
 Orchideenart|f
 Orchideenfach|n
+Orchideenfeld|n
 Orchideengarten|m
 Ordal|n
 Orden|m
@@ -71887,6 +72585,7 @@ Originalität|f
 Originalmanuskript|n
 Originalrezept|n
 Originalsatz|f
+Originalschrift|f
 Originalsprache|f
 Originaltext|m
 Originaltitel|m
@@ -72023,6 +72722,7 @@ Oscar|m
 Oscarnominierung|f
 Oscarpreisträger|m
 Oscarpreisträgerin|f
+Oscarverleihung|f
 Oschatz|
 Oschersleben|
 Oschi|m
@@ -72921,6 +73621,7 @@ Papa|m;f
 Papagallo|m
 Papagei|m
 Papageienart|f
+Papageienfeder|f
 Papageienkrankheit|f
 Papageienkäfig|m
 Papageientaucher|m
@@ -72928,6 +73629,7 @@ Papageifisch|m
 Papageitaucher|m
 Papakind|n
 Papamobil|n
+Paparazzifoto|n
 Paparazzo|m
 Papas|m
 Papaya|f
@@ -73106,6 +73808,7 @@ Paraderolle|f
 Paradeuniform|f
 Paradies|n
 Paradiesfeige|f
+Paradiesgarten|m
 Paradiesvogel|m
 Paradigma|n
 Paradigmatik|f
@@ -73136,6 +73839,7 @@ Paralipomenon|n
 Paralipse|f
 Parallaxe|f
 Parallaxensekunde|f
+Paralleldimension|f
 Parallele|f
 Parallelepiped|n
 Parallelflexion|f
@@ -73514,6 +74218,7 @@ Paschtunistan|
 Paschtunwali|n
 Pasewalk|
 Pashmina|m
+Pasig|m
 Paspel|f;m
 Pasquill|n
 Pass|m
@@ -73546,6 +74251,7 @@ Passempfänger|m
 Passepartout|n
 Passer|m
 Passerelle|f
+Passform|f
 Passfoto|n
 Passfälscher|m
 Passfälscherin|f
@@ -73863,6 +74569,7 @@ Peitz|
 Pejorativsuffix|n
 Pejorativum|n
 Pekannuss|f
+Pekannussbaum|m
 Peking|
 Pekingmensch|m
 Pektin|n
@@ -74106,6 +74813,7 @@ Perleberger|m
 Perlebergerin|f
 Perlenkette|f
 Perlenschnur|f
+Perlentaucher|m
 Perlmuschel|f
 Perlmutt|n
 Perlmutter|f;n
@@ -74253,6 +74961,7 @@ Persprit|n
 Persuasion|f
 Persönchen|n
 Persönlichkeit|f
+Persönlichkeitsanteil|m
 Persönlichkeitseigenschaft|f
 Persönlichkeitsmerkmal|n
 Persönlichkeitsprofil|n
@@ -74392,6 +75101,7 @@ Petzen|n
 Petzer|m
 Petzerei|f
 Petzerin|f
+Peugeot|m
 Peyote|m
 Peyrepertuse|f
 Pfaar|
@@ -74439,6 +75149,7 @@ Pfannensiederei|f
 Pfannenstiel|m
 Pfannenwender|m
 Pfannkuchen|m
+Pfannkuchenbacken|n
 Pfannkuchenteig|m
 Pfarramt|n
 Pfarrassistent|m
@@ -74492,6 +75203,7 @@ Pfeffersuppe|f
 Pfeidler|m
 Pfeidlerin|f
 Pfeife|f
+Pfeifen|n
 Pfeifendeckel|m
 Pfeifenkopf|m
 Pfeifenkraut|n
@@ -74567,6 +75279,7 @@ Pferdehaar|n
 Pferdehacke|f
 Pferdehals|m
 Pferdehandel|m
+Pferdehaut|f
 Pferdeherde|f
 Pferdehintern|m
 Pferdehuf|m
@@ -74574,6 +75287,7 @@ Pferdehändler|m
 Pferdehändlerin|f
 Pferdekadaver|m
 Pferdeknecht|m
+Pferdeknochen|m
 Pferdekoppel|f
 Pferdekot|m
 Pferdekrankheit|f
@@ -74654,6 +75368,7 @@ Pfirsichkern|m
 Pfirsichkuchen|m
 Pfirsichköpfchen|n
 Pfirsichsaft|m
+Pfirsichschnaps|m
 Pflanze|f
 Pflanzenanatomie|f
 Pflanzenanbau|m
@@ -74847,6 +75562,7 @@ Phanariote|m
 Phanerozoikum|n
 Phantasie|f
 Phantasierer|m
+Phantasiespaziergang|m
 Phantasieuniform|f
 Phantasiezahl|f
 Phantasmagorie|f
@@ -75290,6 +76006,7 @@ Pilzsammlerin|f
 Pilzsorte|f
 Pilzsucher|m
 Pilzvergiftung|f
+Pilzwald|m
 Pilzwolke|f
 Pilzzeit|f
 Pimarinsäure|f
@@ -75307,10 +76024,12 @@ Pin-up|n
 Pinakel|n
 Pinakothek|f
 Pinasse|f
+Pinatubo|m
 Pinax|m
 Pincenez|n
 Pine Bluff|
 Ping|m
+Pingdingshan|
 Pinge|f
 Pingpong|n
 Pinguin|m
@@ -75902,6 +76621,7 @@ Plötzlichkeit|f
 Plünderer|m
 Plündern|n
 Plünderung|f
+Plünderungswut|f
 Plünnen|
 Plüsch|m
 Plüschbär|m
@@ -76173,6 +76893,7 @@ Polizeipferd|n
 Polizeiposten|m
 Polizeiproblem|n
 Polizeiprotokoll|n
+Polizeipräsenz|f
 Polizeipräsident|m
 Polizeipräsidentin|f
 Polizeipräsidium|n
@@ -76237,6 +76958,7 @@ Polonist|m
 Polonistik|f
 Polonistin|f
 Polonium|n
+Poloniumvergiftung|f
 Poloshirt|n
 Polospiel|n
 Polospieler|m
@@ -76348,6 +77070,7 @@ Pomphaftigkeit|f
 Pompon|m
 Poncho|m
 Ponderabilität|f
+Pondoland|
 Ponerologie|f
 Pongau|m
 Pongidae|
@@ -76445,6 +77168,7 @@ Pornostar|m
 Pornoszene|f
 Pornovideo|n
 Porosität|f
+Porphyr|m
 Porphyrröhrling|m
 Porree|m
 Porreegemüse|n
@@ -76900,6 +77624,7 @@ Preisrätsel|n
 Preisrückgang|m
 Preisschild|n
 Preissenkung|f
+Preisspanne|f
 Preissprung|m
 Preissteigerung|f
 Preisstopp|m
@@ -76971,6 +77696,7 @@ Presseorgan|n
 Pressephoto|n
 Pressephotograph|m
 Pressephotographin|f
+Presserummel|m
 Pressespiegel|m
 Pressesprache|f
 Pressesprecher|m
@@ -77060,6 +77786,7 @@ Primera División|f
 Primetime|f
 Primfaktor|m
 Primfaktorzerlegung|f
+Primidi|m
 Primitivgeld|n
 Primitivisierung|f
 Primitivität|f
@@ -77101,6 +77828,7 @@ Prinzipalin|f
 Prinzipat|n;m
 Prinzipiat|n
 Prinzipienerklärung|f
+Prinzipienfrage|f
 Prinzregent|m
 Prinzregent-Luitpold-Land|n
 Prion|n
@@ -77122,6 +77850,7 @@ Pritsche|f
 Pritschenwagen|m
 Pritzwalk|
 Privatadresse|f
+Privatangelegenheit|f
 Privatarchiv|n
 Privatarmee|f
 Privatarzt|m
@@ -77152,6 +77881,7 @@ Privatgespräch|n
 Privatgrundstück|n
 Privatgutachten|n
 Privatgymnasium|n
+Privathafen|m
 Privathaus|n
 Privathaushalt|m
 Privatheer|n
@@ -77207,6 +77937,7 @@ Privatschreibung|f
 Privatschule|f
 Privatschüler|m
 Privatschülerin|f
+Privatsekretär|m
 Privatsekretärin|f
 Privatsender|m
 Privatsoldat|m
@@ -77228,6 +77959,7 @@ Privatwohnung|f
 Privatzimmer|n
 Privatzoo|m
 Privileg|n
+Privilegiensystem|n
 Privilegierte|f
 Privilegierter|m
 Priština|
@@ -77285,6 +78017,7 @@ Produktabmessung|f
 Produktanfrage|f
 Produktbeschreibung|f
 Produktgestaltung|f
+Produktinformation|f
 Produktion|f
 Produktionsbeginn|m
 Produktionsfirma|f
@@ -77328,6 +78061,7 @@ Profession|f
 Professionalisierung|f
 Professionalität|f
 Professor|m
+Professorenkollege|m
 Professorensohn|m
 Professorenstelle|f
 Professorentitel|m
@@ -77376,6 +78110,7 @@ Progerie|f
 Progesteron|n
 Prognathie|f
 Prognose|f
+Prognoseverfahren|n
 Prognostik|f
 Progon|m;n;f
 Prograder|m
@@ -77612,6 +78347,8 @@ Prostatauntersuchung|f
 Prostatitis|f
 Prosthese|f
 Prostituierte|f
+Prostituiertenmord|m
+Prostituiertenmörder|m
 Prostituierter|m
 Prostituierung|f
 Prostitution|f
@@ -77793,6 +78530,7 @@ Prozesstag|m
 Prozessverlauf|m
 Proömium|n
 Prudel|m
+Prudhoe-Bay-Ölfeld|n
 Prunk|m
 Prunkbett|n
 Prunkgrab|n
@@ -78291,6 +79029,7 @@ Puppe|f
 Puppendoktor|m
 Puppenhaus|n
 Puppenkernkeule|f
+Puppenkleid|n
 Puppenkleidung|f
 Puppenkopf|m
 Puppenmuseum|n
@@ -78346,6 +79085,7 @@ Pute|f
 Putensandwich|n
 Putenschnitzel|n
 Puter|m
+Putian|
 Putin-Versteher|m
 Putinversteher|m
 Putlitz|
@@ -78388,6 +79128,7 @@ Puvogel|m
 Puzzle|n
 Puzzler|m
 Puzzlerin|f
+Puzzlespiel|n
 Puzzleteil|n
 Puzzolan|n
 Pygmalion-Effekt|m
@@ -78516,6 +79257,11 @@ Qat|n
 Qi|n
 Qigong|
 Qindar|m
+Qingdao|
+Qinghai|
+Qingyuan|
+Qinhuangdao|
+Qiqihar|
 Qoph|n
 Qoppa|n
 Quaack|
@@ -78676,6 +79422,7 @@ Quantschnig|
 Quantschnigg|
 Quantschnik|
 Quantum|n
+Quanzhou|
 Quappe|f
 Quarantäne|f
 Quarantänebescheid|m
@@ -78711,6 +79458,7 @@ Quartband|m
 Quarterback|m
 Quarterdeck|n
 Quartett|n
+Quartidi|m
 Quartier|n
 Quartierschein|m
 Quartär|n
@@ -78872,6 +79620,9 @@ Quettabyte|n
 Quetzalcoatl|m
 Quetzaltenango|
 Queue|m;f;n
+Quezon|
+Quezon City|
+Quiapo|
 Quiche|f
 Quiché|
 Quiché-Sprache|f
@@ -78901,6 +79652,7 @@ Quintenzirkel|m
 Quinterne|f
 Quintessenz|f
 Quintett|n
+Quintidi|m
 Quintilliarde|f
 Quintillion|f
 Quintinus|
@@ -79004,6 +79756,7 @@ Rabea|
 Rabenaas|n
 Rabenau|
 Rabenkrähe|f
+Rabenschwarm|m
 Rabenvogel|m
 Rabulist|m
 Rabulistik|f
@@ -79302,6 +80055,7 @@ Rallyefahrerin|f
 Ram Air|n
 Ramadan|m
 Ramallah|
+Ramat Rachel|
 Ramat Schlomo|
 Rambazamba|m;n
 Rambur|m
@@ -79374,6 +80128,7 @@ Rangierbahnhof|m
 Rangiroa|
 Rangliste|f
 Rangordnung|f
+Rangplatz|m
 Rangun|
 Rangunterschied|m
 Ranis|
@@ -79456,6 +80211,7 @@ Rassegeflügel|n
 Rassel|f
 Rasselbande|f
 Rasseln|n
+Rassenanthropologie|f
 Rassenbiologie|f
 Rassendiskriminierung|f
 Rassenfrage|f
@@ -79719,6 +80475,7 @@ Raumfahrtagentur|f
 Raumfahrtbehörde|f
 Raumfahrtindustrie|f
 Raumfahrtingenieur|m
+Raumfahrtingenieurin|f
 Raumfahrtkonzern|m
 Raumfahrtkritiker|m
 Raumfahrtmedizin|f
@@ -79885,6 +80642,7 @@ Reallife|n
 Realname|m
 Realo|m
 Realpolitik|f
+Realpolitiker|m
 Realpräsenz|f
 Realsatire|f
 Realschulbildung|f
@@ -79927,6 +80685,7 @@ Rebenstecher|m
 Rebenzuchtanstalt|f
 Rebfläche|f
 Rebhuhn|n
+Rebhuhnei|n
 Rebhuhnjagd|f
 Rebhügel|m
 Rebirthing|n
@@ -79950,6 +80709,7 @@ Rebzeile|f
 Recamière|f
 Receiver|m
 Rechaud|m;n
+Rechavia|
 Rechen|m
 Rechenart|f
 Rechenaufgabe|f
@@ -80090,6 +80850,7 @@ Rechtspolitik|f
 Rechtspopulismus|m
 Rechtspopulist|m
 Rechtspopulistin|f
+Rechtspraktikum|n
 Rechtsprechung|f
 Rechtsradikale|f
 Rechtsradikaler|m
@@ -80433,6 +81194,7 @@ Regierungsbildung|f
 Regierungsbunker|m
 Regierungschef|m
 Regierungschefin|f
+Regierungsdokument|n
 Regierungsentscheidung|f
 Regierungsentwurf|m
 Regierungserfolg|m
@@ -80470,6 +81232,7 @@ Regierungssprecherin|f
 Regierungssystem|n
 Regierungsterror|m
 Regierungsumbildung|f
+Regierungsumsturz|m
 Regierungsumzug|m
 Regierungsversagen|n
 Regierungsvertreter|m
@@ -80500,6 +81263,7 @@ Regionalbahn|f
 Regionalbus|m
 Regionalexpress|m
 Regionalfernsehen|n
+Regionalflughafen|m
 Regionalgeld|n
 Regionalgeschichte|f
 Regionalherrscher|m
@@ -80601,6 +81365,7 @@ Reich der Mitte|n
 Reiche|f
 Reichelsheim|
 Reichenbach|
+Reichenberg|
 Reichensteuer|f
 Reicher|m
 Reichsacht|f
@@ -80992,6 +81757,7 @@ Reißstift|m
 Reißverschluss|m
 Reißverschlussfüßchen|n
 Reißverschlusssystem|n
+Reißverschlusstasche|f
 Reißwolf|m
 Reißzahn|m
 Reißzeug|n
@@ -81034,6 +81800,7 @@ Rekordstreik|m
 Rekordtemperatur|f
 Rekordtief|n
 Rekordumsatz|m
+Rekordverkauf|m
 Rekordverlust|m
 Rekordversuch|m
 Rekordwert|m
@@ -81141,7 +81908,6 @@ Remission|f
 Remmidemmi|n
 Remonstration|f
 Remonstrationspflicht|f
-Remontada|
 Remonte|f
 Remontepferd|n
 Remorqueur|m
@@ -81210,6 +81976,7 @@ Rennstrecke|f
 Rennvogel|m
 Rennwagen|m
 Rennwochenende|n
+Rennzeitung|f
 Reno|
 Renommee|n
 Renommierbau|m
@@ -81237,6 +82004,7 @@ Rentenversicherung|f
 Rentier|n;m
 Rentierfell|n
 Rentierfleisch|n
+Rentiergeweih|n
 Rentierhaut|f
 Rentierherde|f
 Rentierkuh|f
@@ -81285,6 +82053,7 @@ Replikation|f
 Replikationsstudie|f
 Report|m
 Reportage|f
+Reportageauftrag|m
 Reporter|m
 Reporterin|f
 Reporterurgestein|n
@@ -81324,7 +82093,6 @@ Repräsentationsraum|m
 Repräsentationsschluss|m
 Repräsentationssystem|n
 Repräsentationstermin|m
-Repräsentationszopf|m
 Repräsentationszweck|m
 Repräsentativbau|m
 Repräsentativbefragung|f
@@ -81528,9 +82296,14 @@ Restaurantbesitzer|m
 Restaurantbesitzerin|f
 Restaurantbesuch|m
 Restauranteingang|m
+Restaurantempfehlung|f
+Restaurantgast|m
 Restaurantkritiker|m
 Restaurantkritikerin|f
+Restauranttisch|m
 Restauranttoilette|f
+Restauranttür|f
+Restaurantüberfall|m
 Restaurateur|m
 Restauration|f
 Restaurationsbetrieb|m
@@ -81540,6 +82313,7 @@ Restaurationszeit|f
 Restaurator|m
 Restauratorin|f
 Restaurierung|f
+Restaurierungsmaßnahme|f
 Restaurierungsplan|m
 Restbestand|m
 Restbetrag|m
@@ -81669,6 +82443,7 @@ Revival|n
 Revokation|f
 Revolte|f
 Revolution|f
+Revolutionsbewegung|f
 Revolutionsgarde|f
 Revolutionsheld|m
 Revolutionsjahr|n
@@ -81689,6 +82464,7 @@ Revolvergriff|m
 Revolverheld|m
 Revolverheldin|f
 Revolverkanone|f
+Revolverknauf|m
 Revolverkugel|f
 Revolverlauf|m
 Revolverpresse|f
@@ -81924,6 +82700,7 @@ Riechhirn|n
 Riechkolben|m
 Riechsalz|n
 Riechvermögen|n
+Riechzelle|f
 Ried|n;f;m
 Rieddach|n
 Riede|f
@@ -81951,10 +82728,13 @@ Riesen-Bärenklau|f;m
 Riesen-Kürbis|m
 Riesenalk|m
 Riesenanzeige|f
+Riesenarschloch|n
 Riesenaufwand|m
 Riesenbau|m
+Riesenbetrug|m
 Riesenbett|n
 Riesenbildschirm|m
+Riesenbluff|m
 Riesenbovist|m
 Riesenbärenklau|f;m
 Riesenchromosom|n
@@ -81975,6 +82755,7 @@ Riesenglück|n
 Riesenhaftigkeit|f
 Riesenhai|m
 Riesenhaufen|m
+Rieseninvestition|f
 Riesenkalmar|m
 Riesenkerl|m
 Riesenkonvoi|m
@@ -82011,6 +82792,7 @@ Riesenteller|m
 Riesentitte|f
 Riesentukan|m
 Riesenverlust|m
+Riesenvieh|n
 Riesenvorteil|m
 Riesenwelle|f
 Riesenzackenbarsch|m
@@ -82255,6 +83037,7 @@ Riverside|
 Rivier|n
 Riviera|f
 Riyal|m
+Rizhao|
 Rizin|n
 Rizinolsäure|f
 Rizinus|m
@@ -82383,6 +83166,7 @@ Rohdatenverarbeitung|f
 Rohdiamant|m
 Roheisen|n
 Roheisenproduktion|f
+Roherz|n
 Rohfassung|f
 Rohfäule|f
 Rohheit|f
@@ -82491,6 +83275,7 @@ Rollierstuhl|m
 Rollierung|f
 Rollkoffer|m
 Rollkommando|n
+Rollkragenpulli|m
 Rollkragenpullover|m
 Rollkunstlauf|m
 Rollkunstläufer|m
@@ -82555,6 +83340,7 @@ Romanistin|f
 Romanität|f
 Romankapitel|n
 Romanmanuskript|n
+Romanprojekt|n
 Romanschluss|m
 Romanschriftsteller|m
 Romanschriftstellerin|f
@@ -82822,6 +83608,7 @@ Rouleau|n
 Roulette|n
 Roulettekugel|f
 Roulettetisch|m
+Roundhouse-Kick|m
 Rout|m
 Route|f
 Routenplaner|m
@@ -82853,6 +83640,7 @@ Ruanda|
 Ruander|m
 Ruanderin|f
 Rubbellos|n
+Rubberband|n
 Rube-Goldberg-Maschine|f
 Rubefaziens|n
 Rubel|m
@@ -82986,11 +83774,14 @@ Rumpelkammer|f
 Rumpelkasten|m
 Rumpeln|n
 Rumpf|m
+Rumpfbereich|m
 Rumpfbeuge|f
 Rumpfbeuger|m
 Rumpfelf|f
 Rumpfmarkt|m
 Rumpfmuskulatur|f
+Rumpfregion|f
+Rumpfschmerz|m
 Rumpfwirbel|m
 Rumpfwort|n
 Rumpologie|f
@@ -83055,6 +83846,7 @@ Rundtempel|m
 Rundturm|m
 Rundum-sorglos-Paket|n
 Rundumblick|m
+Rundumschlag|m
 Rundumversorgung|f
 Rundung|f
 Rundungsfehler|m
@@ -83761,6 +84553,7 @@ Saftflasche|f
 Saftglas|n
 Saftkugler|m
 Saftladen|m
+Saftpackung|f
 Saftpresse|f
 Saftsack|m
 Saftschubse|f
@@ -83834,6 +84627,7 @@ Saitenstieliger Knoblauchschwindling|m
 Saitenwurst|f
 Saitling|m
 Sake|m
+Sakkara|
 Sakko|n;m
 Sakralbau|m
 Sakralfleck|m
@@ -83950,6 +84744,7 @@ Salvenfeuer|n
 Salwar Kamiz|m
 Salweide|f
 Salz|n
+Salzablagerung|f
 Salzach|f
 Salzader|f
 Salzbad|n
@@ -84025,6 +84820,7 @@ Salzwirker|m
 Salzwüste|f
 Salär|n
 Sam|
+Samaná|
 Samara|f
 Samarien|
 Samariter|m
@@ -84125,6 +84921,7 @@ Samstagszeitung|f
 Samstagvormittag|m
 Samt|m
 Samtanzug|m
+Samtband|n
 Samtbarett|n
 Samtblume|f
 Samtfuß|m
@@ -84157,6 +84954,7 @@ San Francisco Bay Area|f
 San Jose|
 San José|
 San Leandro|
+San Luis Obispo|
 San Marino|
 San Quentin|
 San Salvador|
@@ -84230,6 +85028,7 @@ Sandsteinbau|m
 Sandsteinblock|m
 Sandsteinbrocken|m
 Sandsteinfigur|f
+Sandsteingebäude|n
 Sandsteinquader|m
 Sandsteinruine|f
 Sandsteinschicht|f
@@ -84454,7 +85253,9 @@ Saterfriesisch|
 Saterländisch|
 Satertag|m
 Satin|m
+Satinbettwäsche|f
 Satiniermaschine|f
+Satinkissen|n
 Satinkleid|n
 Satire|f
 Satiremagazin|n
@@ -84586,6 +85387,7 @@ Sauergras|n
 Sauerkirsche|f
 Sauerkohl|m
 Sauerkraut|n
+Sauerkrautfass|n
 Sauerland|n
 Sauermilch|f
 Sauerrahm|m
@@ -84613,6 +85415,7 @@ Sauerstofftransport|m
 Sauerstoffverbindung|f
 Sauerstoffverbrauch|m
 Sauerstoffversorgung|f
+Sauerstoffvorrat|m
 Sauerstoffzelt|n
 Sauerstoffzufuhr|f
 Sauerteig|m
@@ -84686,6 +85489,7 @@ Sauteuse|f
 Sauvignon Blanc|m
 Sauwetter|n
 Sauzahn|m
+Savannah|
 Savanne|f
 Savant|m;f
 Save|f
@@ -84746,6 +85550,7 @@ Schachfunktionär|m
 Schachgroßmeister|m
 Schachgroßmeisterin|f
 Schachklub|m
+Schachkomponist|m
 Schachlehrer|m
 Schachlehrerin|f
 Schachmatt|n
@@ -84887,6 +85692,7 @@ Schalengebilde|n
 Schalenmodell|n
 Schalentemperatur|f
 Schalentier|n
+Schalentierallergie|f
 Schalenwild|n
 Schalk|m
 Schalkau|
@@ -84937,6 +85743,7 @@ Schaltsatz|m
 Schaltschrank|m
 Schaltschranklüftung|f
 Schaltsekunde|f
+Schalttafel|f
 Schalttag|n
 Schaltung|f
 Schaltzeichen|n
@@ -85016,6 +85823,7 @@ Scharfmacherin|f
 Scharfrichter|m
 Scharfrichterin|f
 Scharfschütze|m
+Scharfschützenausbilder|m
 Scharfschützengewehr|n
 Scharfschützennest|n
 Scharfschützin|f
@@ -85070,6 +85878,7 @@ Schatz|m
 Schatzgräber|m
 Schatzgräberin|f
 Schatzinsel|f
+Schatzjäger|m
 Schatzkammer|f
 Schatzkarte|f
 Schatzkiste|f
@@ -85175,6 +85984,7 @@ Scheele|m
 Scheelse|
 Scheelsucht|f
 Scheer|
+Schefajim|
 Scheffel|m
 Scheibbs|
 Scheibchen|n
@@ -85256,6 +86066,7 @@ Scheinunabhängigkeit|f
 Scheinvater|m
 Scheinvaterschaft|f
 Scheinverhandlung|f
+Scheinwahl|f
 Scheinwelt|f
 Scheinwerfer|m
 Scheinwerferlicht|n
@@ -85672,6 +86483,7 @@ Schilderung|f
 Schilderwald|m
 Schildfläche|f
 Schildkröte|f
+Schildkrötenart|f
 Schildkrötenpanzer|m
 Schildkrötenrennen|n
 Schildkrötensuppe|f
@@ -85749,6 +86561,7 @@ Schinkenfleckerl|
 Schinkenfleckerln|
 Schinkenpizza|f
 Schinkensandwich|n
+Schinkenstück|n
 Schinn|m
 Schintoismus|m
 Schintoist|m
@@ -85973,15 +86786,18 @@ Schlangengott|m
 Schlangengrube|f
 Schlangenhaar|n
 Schlangenhals|m
+Schlangenhaus|n
 Schlangenhaut|f
 Schlangenkopf|m
 Schlangenleder|n
 Schlangenlinie|f
+Schlangenmensch|m
 Schlangenmotiv|n
 Schlangenplage|f
 Schlangenschädel|m
 Schlangenstein|m
 Schlangenverehrung|f
+Schlangenzahn|m
 Schlankschnabelbülbül|m
 Schlapfen|m
 Schlappe|f
@@ -86330,6 +87146,7 @@ Schlüsselkind|n
 Schlüsselkorb|m
 Schlüsselland|n
 Schlüsselloch|n
+Schlüsselmerkmal|n
 Schlüsselministerium|n
 Schlüsselperson|f
 Schlüsselposition|f
@@ -86426,6 +87243,8 @@ Schmerzensmann|m
 Schmerzensmutter|f
 Schmerzensruf|m
 Schmerzensschrei|m
+Schmerzepisode|f
+Schmerzerlebnis|n
 Schmerzgebrüll|n
 Schmerzgrenze|f
 Schmerzmittel|n
@@ -86534,6 +87353,7 @@ Schmuggelroute|f
 Schmuggeltour|f
 Schmuggelware|f
 Schmuggler|m
+Schmugglerbande|f
 Schmugglerboot|n
 Schmugglergeschäft|n
 Schmugglerin|f
@@ -86597,6 +87417,7 @@ Schnappfinger|m
 Schnappmesser|n
 Schnappsack|m
 Schnappschildkröte|f
+Schnappschloss|n
 Schnappschuss|m
 Schnaps|m
 Schnapsbrenner|m
@@ -86785,10 +87606,12 @@ Schnellrestaurantkette|f
 Schnellruderer|m
 Schnellschach|n
 Schnellschachturnier|n
+Schnellstartanleitung|f
 Schnellstraße|f
 Schnellstudie|f
 Schnelltest|m
 Schnellverfahren|n
+Schnellzement|m
 Schnellzug|m
 Schnepfe|f
 Schnepfendreck|m
@@ -86841,6 +87664,7 @@ Schnuckiputz|m
 Schnuddel|m
 Schnuller|m
 Schnulze|f
+Schnulzenroman|m
 Schnupfen|m
 Schnupfenspray|m;n
 Schnupftabak|m
@@ -86924,9 +87748,11 @@ Schokoladenhai|m
 Schokoladenkeks|m;n
 Schokoladenkuchen|m
 Schokoladenkugel|f
+Schokoladenmilch|f
 Schokoladennikolaus|m
 Schokoladenpreis|m
 Schokoladenpudding|m
+Schokoladenriegel|m
 Schokoladensauce|f
 Schokoladenseite|f
 Schokoladensirup|m
@@ -87108,6 +87934,7 @@ Schrei|m
 Schreibaby|n
 Schreibarbeit|f
 Schreibblock|m
+Schreibblockade|f
 Schreibbüro|n
 Schreibe|f
 Schreiben|n
@@ -87155,6 +87982,7 @@ Schreibtafel|f
 Schreibtelegraf|m
 Schreibtisch|m
 Schreibtischchen|n
+Schreibtischjob|m
 Schreibtischkante|f
 Schreibtischlampe|f
 Schreibtischschublade|f
@@ -87188,6 +88016,7 @@ Schrein|m
 Schreiner|m
 Schreinerei|f
 Schreinerin|f
+Schreinerlehrling|m
 Schreinermeister|m
 Schreinermeisterin|f
 Schreinerwerkzeug|n
@@ -87243,6 +88072,7 @@ Schriftstellerin|f
 Schriftstellerkarriere|f
 Schriftstellerkollege|m
 Schriftstellerkongress|m
+Schriftstellerleben|n
 Schriftstellerverband|m
 Schriftstück|n
 Schriftsystem|n
@@ -87365,6 +88195,7 @@ Schuhgeschäft|n
 Schuhgröße|f
 Schuhhersteller|m
 Schuhkarton|m
+Schuhkauf|m
 Schuhladen|m
 Schuhleder|n
 Schuhlöffel|m
@@ -87514,6 +88345,7 @@ Schulkram|m
 Schulküche|f
 Schullandheim|n
 Schullaufbahn|f
+Schulleben|n
 Schullehrer|m
 Schullehrerin|f
 Schulleistung|f
@@ -87578,6 +88410,8 @@ Schulterhalfter|n
 Schulterhöhe|f
 Schulterklappe|f
 Schulterknochen|m
+Schulterkreis|m
+Schulterkreisen|n
 Schultermuskulatur|f
 Schulterriemen|m
 Schulterschluss|m
@@ -87800,6 +88634,7 @@ Schwaig|f
 Schwaigern|
 Schwalbach|
 Schwalbe|f
+Schwalbenei|n
 Schwalbennest|n
 Schwalbennestorgel|f
 Schwalbenschwanz|m
@@ -87829,6 +88664,7 @@ Schwangerschaftsbauch|m
 Schwangerschaftsdiabetes|m
 Schwangerschaftsgelüste|n
 Schwangerschaftsgymnastik|f
+Schwangerschaftshormon|n
 Schwangerschaftsmonat|m
 Schwangerschaftsstreifen|m
 Schwangerschaftstest|m
@@ -87923,6 +88759,7 @@ Schwarzmarkthändler|m
 Schwarzmarkthändlerin|f
 Schwarzmarktpreis|m
 Schwarzmarktware|f
+Schwarzmarktwährung|f
 Schwarzmeerflotte|f
 Schwarzmeerhafen|m
 Schwarzmeerküste|f
@@ -88020,6 +88857,7 @@ Schweinebraten|m
 Schweinebucht|f
 Schweinefett|n
 Schweinefleisch|n
+Schweinefleischkonserve|f
 Schweinefleischpreis|m
 Schweinefraß|m
 Schweinefutter|n
@@ -88109,8 +88947,10 @@ Schweißerin|f
 Schweißfilm|m
 Schweißfleck|m
 Schweißfährte|f
+Schweißgeruch|m
 Schweißgerät|n
 Schweißhund|m
+Schweißlache|f
 Schweißnote|f
 Schweißperle|f
 Schweißpuder|m
@@ -88267,6 +89107,7 @@ Schwimmkran|m
 Schwimmkurs|m
 Schwimmlehrer|m
 Schwimmlehrerin|f
+Schwimmmannschaft|f
 Schwimmmeisterin|f
 Schwimmnudel|f
 Schwimmpanzer|m
@@ -88383,6 +89224,7 @@ Schädeldach|n
 Schädeldecke|f
 Schädelform|f
 Schädelfragment|n
+Schädelfraktur|f
 Schädelhirntrauma|n
 Schädelknochen|m
 Schädellage|f
@@ -88486,6 +89328,7 @@ Schöpfrad|n
 Schöpfung|f
 Schöpfungsgeschichte|f
 Schöpfungshöhe|f
+Schöpfungslehre|f
 Schöpfungsmythos|m
 Schöpfwerk|n
 Schöppenstedt|
@@ -88559,6 +89402,7 @@ Schützling|m
 Science-Fiction|f
 Science-Fiction-Autor|m
 Science-Fiction-Film|m
+Science-Fiction-Geschichte|f
 Science-Fiction-Roman|m
 Sciencefiction|f
 Scientologe|m
@@ -88822,6 +89666,7 @@ Seetang|m
 Seetaucher|m
 Seeteufel|m
 Seetier|n
+Seetüchtigkeit|f
 Seeufer|n
 Seeungeheuer|n
 Seeunglück|n
@@ -88854,6 +89699,7 @@ Segellehrer|m
 Segellehrerin|f
 Segelmacher|m
 Segelmacherin|f
+Segelohr|n
 Segelregatta|f
 Segelschein|m
 Segelschiff|n
@@ -88939,6 +89785,7 @@ Seidengewebe|n
 Seidenhandel|m
 Seidenhemd|n
 Seidenhose|f
+Seidenhändler|m
 Seidenkissen|n
 Seidenkleid|n
 Seidenkostüm|n
@@ -88962,6 +89809,7 @@ Seidenstraße|f
 Seidenstrumpf|m
 Seidentapete|f
 Seidentaschentuch|n
+Seidenteppich|m
 Seidentuch|n
 Seidenturban|m
 Seidenweste|f
@@ -89020,6 +89868,7 @@ Seiner Majestät Schiff|
 Seinsebene|f
 Seinsmangel|m
 Seinsmodus|m
+Seinszustand|m
 Seipenbusch|
 Seismizität|f
 Seismograf|m
@@ -89113,6 +89962,7 @@ Sekt|m
 Sektbar|f
 Sektdusche|f
 Sekte|f
+Sektenführer|m
 Sektenmitglied|n
 Sektfabrikantin|f
 Sektflasche|f
@@ -89217,6 +90067,7 @@ Selbstdarstellerin|f
 Selbstdarstellung|f
 Selbstdisziplin|f
 Selbstentleibung|f
+Selbstentspannungstechnik|f
 Selbstentzündung|f
 Selbsterfahrung|f
 Selbsterhaltungstrieb|m
@@ -89253,6 +90104,7 @@ Selbstlosigkeit|f
 Selbstläufer|m
 Selbstlüftung|f
 Selbstlüge|f
+Selbstmanagement|n
 Selbstmedikation|f
 Selbstmitleid|n
 Selbstmord|m
@@ -89265,6 +90117,7 @@ Selbstmordeinsatz|m
 Selbstmordepidemie|f
 Selbstmordfall|m
 Selbstmordflieger|m
+Selbstmordmission|f
 Selbstmordrate|f
 Selbstmordserie|f
 Selbstmordtendenz|f
@@ -89284,6 +90137,7 @@ Selbstreferenz|f
 Selbstreflexion|f
 Selbstregierung|f
 Selbstregulation|f
+Selbstregulierungsfähigkeit|f
 Selbstsicherheit|f
 Selbststudium|n
 Selbstständiger|m
@@ -89416,6 +90270,7 @@ Seminarschule|f
 Seminarsitzung|f
 Seminarteilnehmer|m
 Seminarteilnehmerin|f
+Seminolenkrieg|m
 Semiologie|f
 Semiotik|f
 Semiotiker|m
@@ -89588,10 +90443,12 @@ Septemberhälfte|f
 Septembermorgen|m
 Septembernacht|f
 Septembersitzung|f
+Septembersonne|f
 Septembersturm|m
 Septembertag|m
 Septemberwoche|f
 Septennium|n
+Septidi|m
 Septilliarde|f
 Septillion|f
 Septimanien|
@@ -89725,6 +90582,7 @@ Setzung|f
 Seuche|f
 Seuchenalarm|m
 Seuchengefahr|f
+Seuchenherd|m
 Seuchenopfer|n
 Seuchenschutz|m
 Seuchenschutzbehörde|f
@@ -89735,6 +90593,7 @@ Severin|
 Seveso|
 Sevierville|
 Sevilla|
+Seward|
 Sewastopol|
 Sex|m
 Sex-Appeal|m
@@ -89780,6 +90639,7 @@ Sextanerin|f
 Sextant|m
 Sexte|f
 Sextett|n
+Sextidi|m
 Sextilliarde|f
 Sextillion|f
 Sextole|f
@@ -89797,6 +90657,7 @@ Sexualkontakt|m
 Sexualkunde|f
 Sexualkundeunterricht|m
 Sexualleben|n
+Sexualmagie|f
 Sexualmedizin|f
 Sexualmoral|f
 Sexualmord|m
@@ -89838,6 +90699,7 @@ Seziertisch|m
 Seßlach|
 Sfax|
 Sgraffito|n
+Shaanxi|
 Shabby Chic|n
 Shabqadar|
 Shabu|n
@@ -89848,9 +90710,13 @@ Shakespearestück|n
 Shamisen|f
 Shampoo|n
 Shampooflasche|f
+Shandong|
 Shanghai|
+Shangqiu|
+Shangrao|
 Shanty|n
 Shanxi|
+Shaoguan|
 Sharehoster|m
 Shareware|f
 Sharon|f
@@ -89860,6 +90726,7 @@ Shawl|m
 Shebeen|f;m;n
 Sheddach|n
 Sheikhupura|
+Shenyang|
 Shenzhen|
 Shepherd’s Pie|m
 Sheriff|m
@@ -89876,6 +90743,7 @@ Shiatsu|n
 Shibari|n
 Shibuya|
 Shiitake|m
+Shijiazhuang|
 Shikarpur|
 Shikimisäure|f
 Shikoku|
@@ -89993,6 +90861,7 @@ Sicherheitsvorkehrung|f
 Sicherheitswarnung|f
 Sicherheitsweste|f
 Sicherheitswissenschaft|f
+Sicherheitszaun|m
 Sicherheitszeichen|n
 Sicherung|f
 Sicherungshebel|m
@@ -90026,6 +90895,7 @@ Sichtweise|f
 Sichtweite|f
 Sichtwort|n
 Sichtwortschatz|m
+Sichuan|
 Sick|
 Sicke|f
 Sickel|
@@ -90325,6 +91195,7 @@ Silberschatz|m
 Silberschicht|f
 Silberschlüssel|m
 Silberschmied|m
+Silberschmiede|f
 Silberschmiedin|f
 Silberschmuck|m
 Silberschüssel|f
@@ -90474,6 +91345,7 @@ Singultus|m
 Singvogel|m
 Singvogelart|f
 Sinhala|
+Siniloan|
 Sinisierung|f
 Sinismus|m
 Sinje|
@@ -90598,11 +91470,13 @@ Sitzfußball|m
 Sitzgarnitur|f
 Sitzgelegenheit|f
 Sitzgruppe|f
+Sitzhaltung|f
 Sitzheizung|f
 Sitzhocker|m
 Sitzkiepe|f
 Sitzkissen|n
 Sitzkreis|m
+Sitzlandschaft|f
 Sitzmöbel|n
 Sitznachbar|m
 Sitznachbarin|f
@@ -90703,6 +91577,7 @@ Skiameter|n
 Skianzug|m
 Skiathlon|m
 Skiausrüstung|f
+Skibekleidung|f
 Skibergsteiger|m
 Skibindung|f
 Skibrille|f
@@ -90746,6 +91621,7 @@ Skiprofi|m
 Skiroute|f
 Skischaukel|f
 Skischuh|m
+Skischule|f
 Skisport|m
 Skispringen|n
 Skispringer|m
@@ -90805,6 +91681,7 @@ Skopje|
 Skoptiker|m
 Skorbut|m
 Skorpion|m
+Skorpion-Maschinenpistole|f
 Skorpionstachel|m
 Skorpionstich|m
 Skotophobie|f
@@ -90936,8 +91813,10 @@ Snackautomat|m
 Snailmail|f
 Snap|m
 Snaresinselpinguin|m
+Sneak-Peek|n;m
 Sneak-Preview|f
 Sneaker|m
+Sneakpeek|n;m
 Sneakpreview|f
 Sniff|m
 Sniper|m
@@ -90954,6 +91833,7 @@ Snowboarderin|f
 Snowboardfahrer|m
 Snowboardfahrerin|f
 Snowciety|f
+Snowmass|
 Snuff|m
 Snuff-Film|m
 Snus|m
@@ -90971,6 +91851,7 @@ Societas Jesu|f
 Socke|f
 Sockel|m
 Sockelbestand|m
+Sockelleiste|f
 Socken|m
 Sockenblume|f
 Sockenhalter|m
@@ -90994,6 +91875,7 @@ Sodomiterei|f
 Soest|
 Sofa|n
 Sofaecke|f
+Sofakante|f
 Sofakissen|n
 Sofalehne|f
 Sofatisch|m
@@ -91450,6 +92332,7 @@ Sonnenglanz|m
 Sonnenglast|m
 Sonnengleichnis|n
 Sonnengott|m
+Sonnengruß|m
 Sonnengöttin|f
 Sonnenhalde|f
 Sonnenhut|m
@@ -91507,6 +92390,7 @@ Sonntagfrüh|
 Sonntagmittag|m
 Sonntagmorgen|m
 Sonntagnachmittag|m
+Sonntagnachmittagsspaziergang|m
 Sonntagnacht|f
 Sonntagsanzug|m
 Sonntagsausflug|m
@@ -91554,6 +92438,7 @@ Sonthofen|
 Sontra|
 Soor|m
 Sophia|
+Sophiatown|
 Sophie|
 Sophienkirche|f
 Sophisma|n
@@ -91728,6 +92613,7 @@ Sozialutopie|f
 Sozialutopist|m
 Sozialversicherung|f
 Sozialversicherungsbrutto|n
+Sozialversicherungsnummer|f
 Sozialwesen|n
 Sozialwissenschaft|f
 Sozialwohnung|f
@@ -91825,6 +92711,7 @@ Spanischlehrer|m
 Spanischlehrerin|f
 Spanischstudium|n
 Spanischwörterbuch|n
+Spanish Harlem|
 Spanking|n
 Spankorb|m
 Spann|m
@@ -91838,6 +92725,8 @@ Spanngurt|m
 Spannkraft|f
 Spannmittel|n
 Spannsatz|m
+Spannschloss|f
+Spannschraube|f
 Spannsäge|f
 Spannteppich|m
 Spannung|f
@@ -91950,6 +92839,7 @@ Speck|m
 Speckdäne|m
 Speckgürtel|m
 Speckschwarte|f
+Speckstein|m
 Spediteur|m
 Spediteurin|f
 Spedition|f
@@ -92515,6 +93405,7 @@ Spielwürfel|m
 Spielzeit|f
 Spielzeithälfte|f
 Spielzeug|n
+Spielzeugauto|n
 Spielzeugeisenbahn|f
 Spielzeugflugzeug|n
 Spielzeuggewehr|n
@@ -92708,6 +93599,7 @@ Spitzhacke|f
 Spitzhammer|m
 Spitzkehre|f
 Spitzkopfaal|m
+Spitzmaulnashorn|n
 Spitzmaus|f
 Spitzmorchel|f
 Spitzname|m
@@ -92752,6 +93644,7 @@ Sporaden|
 Sporapfel|m
 Spore|f
 Sporn|m
+Spornradflugzeug|n
 Sporophyt|m
 Sport|m
 Sport-BH|m
@@ -93183,6 +94076,7 @@ Spreewälder|m
 Spreewälderin|f
 Spreizdübel|m
 Spreize|f
+Spreizsitz|m
 Spreißel|m
 Spreißelchen|n
 Spremberg|
@@ -93346,6 +94240,8 @@ Spänchen|f
 Spätabend|m
 Spätabendprogramm|n
 Spätantike|f
+Spätaufsteher|m
+Spätaufsteherin|f
 Spätausgabe|f
 Spätaussiedler|m
 Spätbarock|m;n
@@ -93353,6 +94249,7 @@ Spätbronzezeit|f
 Spätburgunder|m
 Späteinsteiger|m
 Spätfolge|f
+Spätfrühling|m
 Spätgeborener|m
 Spätgebärende|f
 Spätgotik|f
@@ -93440,6 +94337,7 @@ St. Lucia|
 St. Pauli|
 St. Pölten|
 St. Vincent und die Grenadinen|
+St.-James-Konferenz|f
 Staat|m
 Staat Eritrea|m
 Staat Grenada|m
@@ -93518,6 +94416,7 @@ Staatsgewand|n
 Staatsgold|n
 Staatsgrenze|f
 Staatsgründung|f
+Staatsgymnasium|n
 Staatshaushalt|m
 Staatshierarchie|f
 Staatshilfe|f
@@ -94215,6 +95114,7 @@ Staubwolke|f
 Staubwölkchen|n
 Staubzucker|m
 Staudamm|m
+Staudammprojekt|n
 Staude|f
 Stauende|n
 Stauer|m
@@ -94245,6 +95145,7 @@ Stawropol|
 Staßfurt|
 Steak|n
 Steakfett|n
+Steakhaus|n
 Steakmesser|n
 Steaksandwich|n
 Steamer|m
@@ -94312,6 +95213,7 @@ Steher|m
 Stehgeige|f
 Stehgeiger|m
 Stehgeigerin|f
+Stehhaltung|f
 Stehkragen|m
 Stehkragenproletarier|m
 Stehlampe|f
@@ -94401,6 +95303,7 @@ Steineichel|f
 Steineichenwald|m
 Steinen|
 Steiner|
+Steinewerfer|m
 Steinfassade|f
 Steinfischerei|f
 Steinfliese|f
@@ -94419,6 +95322,7 @@ Steingrab|n
 Steingravur|f
 Steingruft|f
 Steingut|n
+Steingötze|m
 Steinhagel|m
 Steinhauer|m
 Steinhaufen|m
@@ -94869,6 +95773,7 @@ Stiefelsohle|f
 Stiefelspitze|f
 Stiefeltern|
 Stiefelternteil|m;n
+Stiefeltritt|m
 Stieffamilie|f
 Stiefgeschwister|n
 Stiefgroßmutter|f
@@ -95159,8 +96064,10 @@ Stoppwort|n
 Stopselclub|m
 Storch|m
 Storchenbiss|m
+Storchenei|n
 Storchennest|n
 Storchenparkplatz|m
+Storchenschwarm|m
 Storchenvogel|m
 Storchschnabelgewächs|n
 Store|m
@@ -95475,6 +96382,7 @@ Straßenrain|m
 Straßenrand|m
 Straßenreiniger|m
 Straßenreinigung|f
+Straßenrennen|n
 Straßenrennsport|m
 Straßenrondell|n
 Straßenräuber|m
@@ -95489,6 +96397,7 @@ Straßenseite|f
 Straßensperre|f
 Straßensperrung|f
 Straßenspiel|n
+Straßenstaub|m
 Straßenstrich|m
 Straßenstück|n
 Straßensänger|m
@@ -95623,11 +96532,13 @@ Streptokokkus|m
 Stresemann|m
 Stress|m
 Stress-Kardiomyopathie|f
+Stressbewältigung|f
 Stresshormon|n
 Stressor|m
 Stresstest|m
 Stretch|m
 Stretch-Limousine|f
+Stretchanteil|m
 Stretching|n
 Stretchkleid|n
 Streu|f
@@ -95675,6 +96586,7 @@ Strickleiter|f
 Strickliesel|f
 Strickmaschine|f
 Stricknadel|f
+Strickpulli|m
 Strickpullover|m
 Strickstrumpf|m
 Strickware|f
@@ -95894,6 +96806,7 @@ Studentenunruhe|f
 Studentenverbindung|f
 Studentenvertretung|f
 Studentenverzeichnis|n
+Studentenvisum|n
 Studentenweltmeister|m
 Studentenweltmeisterschaft|f
 Studentenwohnheim|n
@@ -96502,6 +97415,7 @@ Superstratsprache|f
 Superstringtheorie|f
 Supersturm|m
 Supersymmetrie|f
+Supertanker|m
 Supervisandin|f
 Supervision|f
 Supervulkan|m
@@ -96553,7 +97467,9 @@ Supraporte|f
 Suprematie|f
 Suprematismus|m
 Supremum|n
+Suqian|
 Sur|f
+Surabaya|
 Surcot|m
 Sure|f
 Surf and Turf|n
@@ -96598,6 +97514,7 @@ Suva|
 Suwa|
 Suwon|
 Suzeränität|f
+Suzhou|
 Svadhisthana Chakra|n
 Svalbard|
 Svami|m
@@ -96873,6 +97790,7 @@ Sägemühle|f
 Säger|m
 Sägespan|m
 Sägewerk|n
+Sägewerksarbeiter|m
 Sägezahn|m
 Sägezahnionisator|m
 Säkularfeier|f
@@ -97171,6 +98089,7 @@ Süßwasseraquifer|m
 Süßwasserfisch|m
 Süßwassergeruch|m
 Süßwassermangel|m
+Süßwasserquelle|f
 Süßwassersee|m
 Süßwasserteich|m
 Süßwassertümpel|m
@@ -97194,6 +98113,7 @@ T-Wert|m
 T-Wert-Skala|f
 T-Zelle|f
 T-Zellen-Immunität|f
+T-förmig|
 TAN|f
 TCM|f
 TERF|f
@@ -97213,6 +98133,7 @@ TV-Spendengala|f
 TV-Star|m
 TV-Turm|m
 Tab|m
+Taba|
 Tabak|m
 Tabakanbau|m
 Tabakbeutel|m
@@ -97221,7 +98142,10 @@ Tabakdepot|n
 Tabakdose|f
 Tabakduft|m
 Tabakexport|m
+Tabakfarm|f
+Tabakfarmer|m
 Tabakfeld|n
+Tabakfirma|f
 Tabakgegner|m
 Tabakgeruch|m
 Tabakhandel|m
@@ -97528,6 +98452,9 @@ Taiwanesin|f
 Taiwanesisch|
 Taiwanisch|
 Taiwanstraße|f
+Taiyuan|
+Taizhou|
+Tai’an|
 Taj Mahal|m
 Tajo|m
 Takelage|f
@@ -97593,6 +98520,7 @@ Tallinn|
 Talmi|n
 Talmiglanz|m
 Talmud|m
+Talmudkundiger|m
 Talniederung|f
 Talon|m
 Talpass|m
@@ -97624,6 +98552,7 @@ Tamilisch|
 Tamilistik|f
 Tammus|m
 Tampa|
+Tampa Bay|f
 Tampen|m
 Tampon|m
 Tamponade|f
@@ -97634,6 +98563,7 @@ Tanager|m
 Tand|m
 Tandem|n
 Tandemschach|n
+Tandemschirm|m
 Tandler|m
 Tando Allahyar|
 Tando Muhammad Khan|
@@ -97700,6 +98630,7 @@ Tannenbaum|m
 Tannenbäumchen|n
 Tannenduft|m
 Tannengrün|n
+Tannenharz|n
 Tannenholz|n
 Tannenhonig|m
 Tannenhäher|m
@@ -97714,7 +98645,6 @@ Tannenzweig|m
 Tannin|n
 Tannu-Tuwa|
 Tannzapfen|m
-Tanqueray|m
 Tansania|
 Tansanier|m
 Tansanierin|f
@@ -97926,7 +98856,9 @@ Tatmehrheit|f
 Tatmensch|m
 Tatmotiv|n
 Tatort|m
+Tatortanalyse|f
 Tatortarbeit|f
+Tatortbericht|m
 Tatortfoto|n
 Tatortskizze|f
 Tatplan|m
@@ -97966,6 +98898,7 @@ Taubenkot|m
 Taubenloch|n
 Taubenmilch|f
 Taubenmist|m
+Taubenmännchen|n
 Taubennest|n
 Taubenpopulation|f
 Taubenpost|f
@@ -98153,6 +99086,7 @@ Techmilliardär|m
 Technetium|n
 Technik|f
 Technik-Panne|f
+Technikdokumentation|f
 Techniker|m
 Technikerin|f
 Technikfolgenabschätzung|f
@@ -98314,6 +99248,7 @@ Teilhardina|
 Teilhardina asiatica|
 Teilimpfung|f
 Teilkapitulation|f
+Teilkompetenz|f
 Teilkraft|f
 Teilmenge|f
 Teilmobilmachung|f
@@ -98496,6 +99431,7 @@ Telophase|f
 Telos|n
 Teltow|
 Telugu|
+Temazepam|n
 Temeswar|
 Temming|
 Tempeh|n
@@ -98516,6 +99452,7 @@ Tempelhof-Schöneberg|
 Tempelhüpfen|n
 Tempelmauer|f
 Tempelpriester|m
+Tempelprostituierte|f
 Tempelpyramide|f
 Tempelritter|m
 Tempelruine|f
@@ -98579,6 +99516,7 @@ Tendenzliteratur|f
 Tendenzroman|m
 Tender|m
 Tenderloin|
+Tendilla|
 Tendo|m
 Tendo Achillis|
 Tendovaginitis|f
@@ -98612,6 +99550,7 @@ Tennistrainer|m
 Tennistrainerin|f
 Tennisturnier|n
 Tenniswelt|f
+Tennisweltrangliste|f
 Tenno|m
 Tenor|m
 Tenorhorn|n
@@ -98693,6 +99632,7 @@ Terrakotta|f
 Terrakottaarmee|f
 Terrarium|n
 Terrasse|f
+Terrassenbeleuchtung|f
 Terrassendach|n
 Terrassenfeld|n
 Terrassenpunkt|m
@@ -98718,6 +99658,7 @@ Terrorismusbekämpfung|f
 Terrorismusbekämpfungsergänzungsgesetz|n
 Terrorismusbekämpfungsgesetz|n
 Terrorist|m
+Terroristenanführer|m
 Terroristengruppe|f
 Terroristenunterschlupf|m
 Terroristin|f
@@ -99019,6 +99960,7 @@ Thar|m;f
 Tharandt|
 Tharr|f
 Thaya|f
+The Valley|
 Theater|n
 Theater des Absurden|n
 Theaterarzt|m
@@ -99088,6 +100030,7 @@ Themenbereich|m;n
 Themenblock|m
 Themenfeld|n
 Themengebiet|n
+Themenkomplex|m
 Themenmangel|m
 Themenseite|f
 Themenspektrum|n
@@ -99140,6 +100083,7 @@ Therapieband|n
 Therapiegruppe|f
 Therapiehund|m
 Therapiekosten|
+Therapiemaßnahme|f
 Therapieraum|m
 Therapiestunde|f
 Theremin|m;n
@@ -99243,6 +100187,7 @@ Thug|m
 Thuja|f
 Thujenhecke|f
 Thul|
+Thule|
 Thulium|n
 Thum|
 Thumbnail|n
@@ -99251,6 +100196,7 @@ Thunfang|m
 Thunfisch|m
 Thunfisch-Sandwich|n
 Thunfischfang|m
+Thunfischsandwich|n
 Thure|
 Thurgau|m
 Thuribulum|n
@@ -99283,6 +100229,7 @@ Tianjin|
 Tiara|f
 Tiber|m
 Tiberbrücke|f
+Tiberias|
 Tiberinsel|f
 Tiberrepublik|f
 Tiberufer|n
@@ -99442,6 +100389,7 @@ Tierpfleger|m
 Tierpflegerin|f
 Tierphysiologe|m
 Tierphysiologie|f
+Tierpräparator|m
 Tierpsychologe|m
 Tierpsychologin|f
 Tierquäler|m
@@ -99462,6 +100410,7 @@ Tiersegnung|f
 Tiersehne|f
 Tiersendung|f
 Tierseuche|f
+Tierskelett|n
 Tiersoziologe|m
 Tiersoziologie|f
 Tiersprache|f
@@ -99495,6 +100444,7 @@ Tigerauge|n
 Tigerfell|n
 Tigerhai|m
 Tigerin|f
+Tigerjäger|m
 Tigerkäfig|m
 Tigerlook|m
 Tigerotter|f
@@ -99505,6 +100455,7 @@ Tigerstaat|m
 Tigersäge|f
 Tigerwaldsänger|m
 Tigerwelpe|m
+Tight|f
 Tigon|m
 Tigrinisch|
 Tigrinya|
@@ -99656,6 +100607,7 @@ Titanismus|m
 Titanomachie|f
 Titanosaurier|m
 Titanplatte|f
+Titanprothese|f
 Titanwurz|f
 Titel|m
 Titelanwärter|m
@@ -99888,6 +100840,7 @@ Tomatensuppe|f
 Tombak|m
 Tombola|f
 Tomboy|m
+Tombstone|
 Tommerl|m;n
 Tommy|m
 Tomoffel|f
@@ -99996,6 +100949,7 @@ Topfenstrudel|m
 Topflappen|m
 Topfpalme|f
 Topfpflanze|f
+Topfreiniger|m
 Topfschnitt|m
 Topfschwamm|m
 Topfstein|m
@@ -100186,9 +101140,11 @@ Totenbaum|m
 Totenbeschwörung|f
 Totenbestattung|f
 Totenbett|n
+Totenblässe|f
 Totenbrett|n
 Totenbretteranlage|f
 Totenbrettergruppe|f
+Totenbuch|n
 Totenfeier|f
 Totenfleck|m
 Totengabe|f
@@ -100204,6 +101160,8 @@ Totengräber|m
 Totengräberin|f
 Totenhalle|f
 Totenhemd|n
+Totenkammer|f
+Totenkerze|f
 Totenklage|f
 Totenkleid|n
 Totenkopf|m
@@ -100327,6 +101285,7 @@ Toxizität|f
 Toxizitätsversuch|m
 Toxoplasmose|f
 Toxämie|f
+Toyota|m
 Trab|m
 Trabant|m
 Trabantenstadt|f
@@ -100369,6 +101328,7 @@ Trafikantin|f
 Tragbahre|f
 Tragblatt|n
 Trage|f
+Tragegefühl|n
 Tragegestell|n
 Tragekomfort|m
 Tragerl|n
@@ -100422,6 +101382,7 @@ Trainingsanzug|m
 Trainingscamp|n
 Trainingseinheit|f
 Trainingsfahrt|f
+Trainingsfehler|m
 Trainingsflug|m
 Trainingsgelände|n
 Trainingsgerät|n
@@ -100432,11 +101393,14 @@ Trainingslager|n
 Trainingsmöglichkeit|f
 Trainingspartner|m
 Trainingspartnerin|f
+Trainingsplan|m
 Trainingsprogramm|n
 Trainingsschnellster|m
 Trainingsteilnehmer|m
 Trainingsunfall|m
 Trainingswissenschaft|f
+Trainingszustand|m
+Trainingszyklus|m
 Trainkolonne|f
 Trainoffizier|m
 Trainspotter|m
@@ -100538,6 +101502,7 @@ Transitvisum|n
 Transitzone|f
 Transjordanien|
 Transkaukasien|
+Transkei|f
 Transklusion|f
 Transkontinentalflug|m
 Transkription|f
@@ -100610,6 +101575,7 @@ Transzendenz|f
 Trantüte|f
 Trapez|n
 Trapezakt|m
+Trapezius|m
 Trapezkorrektur|f
 Trapezmuskel|m
 Trapeznummer|f
@@ -100746,6 +101712,7 @@ Traumprinz|m
 Traumreisender|m
 Traumschloss|n
 Traumschwinger|m
+Traumsequenz|f
 Traumstadt|f
 Traumsymbol|n
 Traumtor|n
@@ -100844,6 +101811,7 @@ Trendextrapolation|f
 Trendscout|m
 Trendsetter|m
 Trendsetterin|f
+Trendsport|m
 Trendsportart|f
 Trendstudie|f
 Trendwende|f
@@ -100863,6 +101831,7 @@ Trennzeichen|n
 Trense|f
 Trentino|
 Trentino-Südtirol|
+Trenton|
 Trepak|m
 Trepanation|f
 Treppchen|n
@@ -100993,6 +101962,7 @@ Tricosan|n
 Tridecan|n
 Tridecansäure|f
 Trident|m
+Tridi|m
 Trieb|m
 Triebfahrzeug|n
 Triebfeder|f
@@ -101294,6 +102264,7 @@ Tropf|m
 Tropfen|m;n
 Tropfenabscheider|m
 Tropfendurchmesser|m
+Tropfenfolter|f
 Tropfstein|m
 Tropfsteinhöhle|f
 Tropfwein|m
@@ -101323,6 +102294,7 @@ Trottellumme|f
 Trotten|
 Trottinett|n
 Trottoir|n
+Trottoirfläche|f
 Trotz|m
 Trotzkismus|m
 Trotzkist|m
@@ -101371,6 +102343,7 @@ Trunksucht|f
 Trupp|m
 Truppe|f
 Truppenabbau|m
+Truppenabzug|m
 Truppenaufmarsch|m
 Truppendienstgericht|n
 Truppenentsendung|f
@@ -101378,6 +102351,7 @@ Truppenführer|m
 Truppenführerin|f
 Truppengattung|f
 Truppenkontingent|n
+Truppenmoral|f
 Truppenschau|f
 Truppenteil|m
 Truppentransport|m
@@ -101389,12 +102363,14 @@ Trute|
 Truthahn|m
 Truthahnbraten|m
 Truthahnfett|n
+Truthahnkeule|f
 Truthenne|f
 Truthuhn|n
 Trutsche|f
 Trutschen|f
 Trutz|m
 Trutzburg|f
+Tryparsamid|n
 Tryptophan|n
 Trächtigkeit|f
 Trächtigkeitskalender|m
@@ -101624,9 +102600,11 @@ Tunfisch|m
 Tunfischfang|m
 Tunguse|m
 Tunica|f
+Tunicella|f
 Tunichtgut|m
 Tunika|f
 Tunis|
+Tunizella|f
 Tunke|f
 Tunnel|m
 Tunnelausgang|m
@@ -102047,6 +103025,7 @@ U-Bahn-Haltestelle|f
 U-Bahn-Linie|f
 U-Bahn-Netz|n
 U-Bahn-Station|f
+U-Bahn-Tunnel|m
 U-Bahnhof|m
 U-Boot|n
 U-Boot-Basis|f
@@ -102068,6 +103047,7 @@ UFO|n
 UG|n
 UKW-Sender|m
 UN|f
+UN-Angabe|f
 UN-Arbeitsgruppe|f
 UN-Beobachter|m
 UN-Bericht|m
@@ -102113,12 +103093,14 @@ US-Flagge|f
 US-Flottenstützpunkt|m
 US-Forscher|m
 US-Geheimdienst|m
+US-Hafen|m
 US-Helikopter|m
 US-Intervention|f
 US-Journalist|m
 US-Justizministerium|n
 US-Kongress|m
 US-Kongressabgeordneter|m
+US-Konsulat|n
 US-Konzern|m
 US-Luftwaffe|f
 US-Magazin|n
@@ -102126,7 +103108,9 @@ US-Marine|f
 US-Marinebasis|f
 US-Militärfahrzeug|n
 US-Mission|f
+US-Pass|m
 US-Politiker|m
+US-Polizist|m
 US-Präsident|m
 US-Rakete|f
 US-Regierung|f
@@ -102484,6 +103468,7 @@ Umweltrecht|n
 Umweltsau|f
 Umweltschaden|m
 Umweltschutz|m
+Umweltschutzbehörde|f
 Umweltschutzgesetz|n
 Umweltschutzorganisation|f
 Umweltschutzprogramm|n
@@ -102591,6 +103576,7 @@ Undankbarkeit|f
 Undecan|n
 Undecanal|n
 Undecansäure|f
+Undercovereinheit|f
 Undercut|m
 Underdog|m
 Understatement|n
@@ -102622,6 +103608,7 @@ Unernst|m
 Unerreichbarkeit|f
 Unerschrockener|m
 Unfall|m
+Unfallabteilung|f
 Unfallart|f
 Unfallauto|n
 Unfallbericht|m
@@ -102655,6 +103642,7 @@ Unfallstelle|f
 Unfalltod|m
 Unfalltyp|m
 Unfallursache|f
+Unfallverhütungsvorschrift|f
 Unfallversicherung|f
 Unfallverursacher|m
 Unfallverursacherin|f
@@ -102703,6 +103691,7 @@ Ungetüm|n
 Ungewissheit|f
 Ungewitter|n
 Ungeziefer|n
+Ungezieferbefall|m
 Ungezieferbekämpfung|f
 Ungeziefervertilgungsmittel|n
 Ungezogenheit|f
@@ -102778,11 +103767,13 @@ Union Jack|m
 Union Myanmar|f
 Union der Komoren|f
 Union der Sozialistischen Sowjetrepubliken|f
+Uniondale|
 Unionist|m
 Unionistin|f
 Unionsbürger|m
 Unionsbürgerin|f
 Unionsfraktion|f
+Unionssoldat|m
 Uniseminar|n
 Unisex|m
 Unisextoilette|f
@@ -102856,12 +103847,14 @@ Unkosten|
 Unkostenbeitrag|m
 Unkraut|n
 Unkrautart|f
+Unkrautbüschel|n
 Unkrautstecher|m
 Unkundiger|m
 Unleserlichkeit|f
 Unliebsamkeit|f
 Unlogik|f
 Unlust|f
+Unlustgefühl|n
 Unmaß|n
 Unmenge|f
 Unmensch|m
@@ -103188,6 +104181,7 @@ Unterströmung|f
 Unterstützer|m
 Unterstützerin|f
 Unterstützung|f
+Unterstützungserklärung|f
 Untersuchung|f
 Untersuchungsausschuss|m
 Untersuchungsbericht|m
@@ -103224,6 +104218,8 @@ Unterwasser-Rugby|n
 Unterwasserarchäologe|m
 Unterwasserarchäologie|f
 Unterwasserarchäologin|f
+Unterwasserbombe|f
+Unterwasserexplosion|f
 Unterwasserfahrt|f
 Unterwasserfahrzeug|n
 Unterwasserfauna|f
@@ -103339,6 +104335,8 @@ Upload|m;n
 Uploader|m
 Uploadfilter|m;n
 Upper|m
+Upper East Side|f
+Upper West Side|f
 Upperclass|f
 Uppercut|m
 Ur|m
@@ -103574,6 +104572,7 @@ Urvolk|n
 Urväterhausrat|m
 Urwald|m
 Urwalddickicht|n
+Urwaldfluss|m
 Urwelt|f
 Urwiese|f
 Urwort|n
@@ -103659,6 +104658,7 @@ VBIED|n
 VIP|m;f
 VIP-Bereich|m
 VIP-Flug|m
+VIP-Gast|m
 VIP-Lounge|f
 VIP-Raum|m
 VIP-Ticket|n
@@ -103750,6 +104750,7 @@ Vampir|m
 Vampirfledermaus|f
 Vampirgeschichte|f
 Vampirin|f
+Vampirroman|m
 Vampyr|m
 Van|m
 Van der Bellen|
@@ -104179,6 +105180,7 @@ Verdauungsbeschwerde|f
 Verdauungsdrüse|f
 Verdauungsenzym|n
 Verdauungsorgan|n
+Verdauungspause|f
 Verdauungsproblem|n
 Verdauungssaft|m
 Verdauungsschnaps|m
@@ -104514,6 +105516,7 @@ Verjährung|f
 Verjüngungskur|f
 Verkalkung|f
 Verkauf|m
+Verkaufsaktion|f
 Verkaufsautomat|m
 Verkaufsbude|f
 Verkaufserlös|m
@@ -104992,6 +105995,7 @@ Verschwendung|f
 Verschwendungssucht|f
 Verschwenkung|f
 Verschwiegenheit|f
+Verschwiegenheitserklärung|f
 Verschwinden|n
 Verschwindenlassen|n
 Verschwindung|f
@@ -105037,6 +106041,7 @@ Versicherungsbetrug|m
 Versicherungsbetrüger|m
 Versicherungsbetrügerin|f
 Versicherungsbüro|n
+Versicherungsgesellschaft|f
 Versicherungskonzern|m
 Versicherungsmathematik|f
 Versicherungsmathematiker|m
@@ -105047,6 +106052,7 @@ Versicherungspflicht|f
 Versicherungspflichtgrenze|f
 Versicherungspolice|f
 Versicherungsschein|m
+Versicherungsschriftsteller|m
 Versicherungsschutz|m
 Versicherungssteuer|f
 Versicherungssumme|f
@@ -105089,6 +106095,7 @@ Versorgungsschwierigkeit|f
 Versorgungssicherheit|f
 Versorgungssituation|f
 Versorgungsstation|f
+Versorgungsunternehmen|n
 Verspaar|n
 Verspannung|f
 Verspargelung|f
@@ -105247,6 +106254,7 @@ Vertrauensfrau|f
 Vertrauenskasse|f
 Vertrauensmann|m
 Vertrauensperson|f
+Vertrauensschub|m
 Vertrauensverhältnis|n
 Vertrauensverlust|m
 Vertrauensvorschuss|m
@@ -105258,6 +106266,7 @@ Vertrautheit|f
 Vertreibung|f
 Vertreibungsgebiet|n
 Vertreibungskrieg|m
+Vertreibungswelle|f
 Vertreter|m
 Vertreterin|f
 Vertreterversammlung|f
@@ -105331,6 +106340,7 @@ Verwaltungsposten|m
 Verwaltungsrecht|n
 Verwaltungsreform|f
 Verwaltungsregion|f
+Verwaltungssitz|m
 Verwaltungssprache|f
 Verwaltungsstruktur|f
 Verwaltungsverfahren|n
@@ -105393,6 +106403,7 @@ Verwünschung|f
 Verwüstung|f
 Verzagtheit|f
 Verzauberung|f
+Verzehnfachung|f
 Verzehr|m
 Verzehrkarte|f
 Verzehrzwang|m
@@ -105484,6 +106495,7 @@ Vicodin|n
 Vicomte|m
 Vicomtesse|f
 Victoria|
+Victoria Peak|m
 Victoriafälle|
 Victory-Zeichen|n
 Video|n
@@ -105526,6 +106538,7 @@ Videoüberwachung|f
 Viech|n
 Viechtach|
 Vieh|n
+Viehauktion|f
 Viehbestand|m
 Viehdieb|m
 Viehdiebin|f
@@ -105603,6 +106616,7 @@ Viererreihe|f
 Viererteam|n
 Vierfachbindung|f
 Vierfaltigkeit|f
+Vierfüßlerstand|m
 Vierganggetriebe|n
 Vierhundert|f
 Vierjahresplan|m
@@ -105932,6 +106946,7 @@ Vizepräsident|m
 Vizepräsidentin|f
 Vizeregierungschef|m
 Vizerektor|m
+Vizesekretär|m
 Vizewachtmeister|m
 Vizeweltmeister|m
 Vizeweltmeisterin|f
@@ -105968,6 +106983,7 @@ Vogelflinte|f
 Vogelflug|m
 Vogelfreiheit|f
 Vogelfutter|n
+Vogelfänger|m
 Vogelgesang|m
 Vogelgesicht|n
 Vogelgezwitscher|n
@@ -105980,6 +106996,7 @@ Vogelkacke|f
 Vogelkadaver|m
 Vogelkasten|m
 Vogelkirsche|f
+Vogelknochen|m
 Vogelknöterich|m
 Vogelkopf|m
 Vogelkot|m
@@ -106061,6 +107078,7 @@ Volapük|
 Volapükist|m
 Volatilität|f
 Voliere|f
+Volition|f
 Volk|n
 Volkach|
 Volker|
@@ -106387,6 +107405,7 @@ Vorderhaus|n
 Vorderhirn|n
 Vorderhuf|m
 Vorderindien|
+Vorderkante|f
 Vorderlader|m
 Vorderlauf|m
 Vordermann|m
@@ -106749,6 +107768,8 @@ Vorzug|m
 Vorzugsaktie|f
 Vorzugsmilch|f
 Vorzugspreis|m
+Vorzugsschüler|m
+Vorzugsschülerin|f
 Vorzugsstimme|f
 Vorzuzeigendes|n
 Vorübersetzer|m
@@ -106870,6 +107891,7 @@ Völkerrecht|n
 Völkerrechtssubjekt|n
 Völkerrechtssubjektivität|f
 Völkerrechtsverstoß|m
+Völkerrechtswidrigkeit|f
 Völkerschaft|f
 Völkerschau|f
 Völkerschlacht|f
@@ -107119,6 +108141,8 @@ Wagenhalle|f
 Wagenheber|m
 Wageninneres|n
 Wagenklappe|f
+Wagenknecht|m
+Wagenknecht-Partei|f
 Wagenkolonne|f
 Wagenlänge|f
 Wagenmitte|f
@@ -107248,6 +108272,7 @@ Wahlschlappe|f
 Wahlsieg|m
 Wahlsieger|m
 Wahlsiegerin|f
+Wahlslogan|m
 Wahlsoftware|f
 Wahlsonntag|m
 Wahlstedt|
@@ -107292,6 +108317,7 @@ Wahrheitstafel|f
 Wahrnehmung|f
 Wahrnehmungsbereitschaft|f
 Wahrnehmungsfähigkeit|f
+Wahrnehmungsraum|m
 Wahrnehmungsspiel|n
 Wahrsagekalender|m
 Wahrsager|m
@@ -107438,6 +108464,7 @@ Waldsänger|
 Waldtal|n
 Waldteich|m
 Waldtier|n
+Waldtümpel|m
 Waldung|f
 Waldverderber|m
 Waldvermessung|f
@@ -107525,6 +108552,7 @@ Walone|f
 Walplatz|m
 Walpurgisnacht|f
 Walross|n
+Walrosszahn|m
 Walspeck|m
 Walsrode|
 Walstatt|f
@@ -107612,6 +108640,7 @@ Wandfarbe|f
 Wandfläche|f
 Wandgemälde|n
 Wandgerät|n
+Wandkalender|m
 Wandklappe|f
 Wandkleid|n
 Wandkäfig|m
@@ -107673,6 +108702,7 @@ Wanzenbiss|m
 Wanzengeschmack|m
 Wanzenkraut|n
 Wanzleben|
+Wapakoneta|
 Wapiti|m
 Wappen|n
 Wappenfigur|f
@@ -108108,6 +109138,7 @@ Waterkant|f
 Waterloo|n
 Waterloo-Zahn|m
 Waterproof|m
+Watertown|
 Wathose|f
 Watsche|f
 Watschelgang|m
@@ -108133,6 +109164,7 @@ Watvogel|m
 Watzmann|m
 Wau|m
 Waupun|
+Wausau|
 Wauwau|m
 Wavellit|m
 Way of Life|m
@@ -108312,6 +109344,7 @@ Wehrdienst|m
 Wehrdienstgericht|n
 Wehrdienstverweigerer|m
 Wehrdienstverweigerin|f
+Wehretat|m
 Wehrflüchtling|m
 Wehrgang|m
 Wehrgerechtigkeit|f
@@ -108664,6 +109697,7 @@ Weinpanscher|m
 Weinpanscherei|f
 Weinpanscherin|f
 Weinpreis|m
+Weinpresse|f
 Weinprinzessin|f
 Weinprobe|f
 Weinprobierglas|n
@@ -109161,6 +110195,7 @@ Wendeschleife|f
 Wendeschneidplatte|f
 Wendetangente|f
 Wendezeit|f
+Wendigo|m
 Wendin|f
 Wendlingen|
 Wendung|f
@@ -109310,6 +110345,7 @@ Wert|m
 Wertachtung|f
 Wertarbeit|f
 Wertebereich|m
+Wertekanon|m
 Wertepapier|n
 Wertesystem|n
 Wertethik|f
@@ -109438,6 +110474,7 @@ Westfernsehen|n
 Westflandern|
 Westflanke|f
 Westflämisch|
+Westflügel|m
 Westfrankreich|
 Westfriesisch|
 Westfront|f
@@ -109496,7 +110533,9 @@ Westslawisch|
 Westspitze|f
 Weststadt|f
 Westteil|m
+Westtexas|
 Westtor|n
+Westtransvaal|
 Westufer|n
 Westvorstadt|f
 Westwand|f
@@ -109552,6 +110591,7 @@ Wetterleuchten|n
 Wettermann|m
 Wettermantel|m
 Wetterprognose|f
+Wetterradar|n
 Wettersatellit|m
 Wetterscheide|f
 Wetterschutz|m
@@ -109571,6 +110611,7 @@ Wetterwechsel|m
 Wettessen|n
 Wettex|n
 Wettfahrt|f
+Wettgeld|n
 Wettgesang|m
 Wettglück|n
 Wettin|
@@ -109604,6 +110645,7 @@ Whipcord|m
 Whirlpool|m
 Whisker|m
 Whiskey|m
+Whiskey Soda|m
 Whiskeyflasche|f
 Whiskeyglas|n
 Whiskeyschmuggler|m
@@ -109633,6 +110675,7 @@ Wichita|f
 Wichs|m;f
 Wichse|f
 Wichser|m
+Wichslappen|m
 Wichsvorlage|f
 Wicht|m
 Wichte|f
@@ -109900,6 +110943,7 @@ Wildkaninchen|n
 Wildkatze|f
 Wildkraut|n
 Wildleder|n
+Wildlederhandschuh|m
 Wildlederimitat|n
 Wildlederjacke|f
 Wildlederschuh|m
@@ -109937,6 +110981,7 @@ Wilhelminismus|m
 Wilhelmshaven|
 Wilhelmslied|n
 Wilkau-Haßlau|
+Wilkes-Barre|
 Will|
 Willamette River|m
 Wille|m
@@ -110130,6 +111175,7 @@ Winterfahrplan|m
 Winterfeldt|
 Winterfeldzug|m
 Winterferien|
+Winterflunder|f
 Wintergarderobe|f
 Wintergarten|m
 Wintergedicht|n
@@ -110161,6 +111207,7 @@ Wintermorgen|m
 Wintermütze|f
 Winternachmittag|m
 Winternacht|f
+Winternebel|m
 Winteroffensive|f
 Winterolympiade|f
 Winterpause|f
@@ -110280,6 +111327,7 @@ Wirts|
 Wirtschaft|f
 Wirtschaftlichkeit|f
 Wirtschaftsabkommen|n
+Wirtschaftsakademie|f
 Wirtschaftsaufschwung|m
 Wirtschaftsauskunftei|f
 Wirtschaftsausschuss|m
@@ -110343,6 +111391,7 @@ Wirtschaftssanktion|f
 Wirtschaftssektor|m
 Wirtschaftssenator|m
 Wirtschaftssenatorin|f
+Wirtschaftssparte|f
 Wirtschaftsspionage|f
 Wirtschaftssprache|f
 Wirtschaftsstruktur|f
@@ -110562,6 +111611,7 @@ Wohlfahrtsorganisation|f
 Wohlfahrtsstaat|m
 Wohlfühlatmosphäre|f
 Wohlfühlfaktor|m
+Wohlfühltempo|n
 Wohlgefallen|n
 Wohlgefühl|n
 Wohlgeruch|m
@@ -110723,11 +111773,14 @@ Wolfsfell|n
 Wolfsgeheul|n
 Wolfsgestalt|f
 Wolfsgruß|m
+Wolfshund|m
 Wolfshunger|m
 Wolfsjunge|m
 Wolfsjunges|n
 Wolfskind|n
+Wolfskopf|m
 Wolfsmilchgewächs|n
+Wolfsmond|m
 Wolfspfirsich|m
 Wolfsrudel|n
 Wolfsschwanz|m
@@ -110822,6 +111875,7 @@ Wonzeichen|n
 Wood|m
 Woodcockspaniel|m
 Woofer|m
+Woonsocket|
 Woopie|m;f
 Worcestersauce|f
 Worcestersoße|f
@@ -110849,6 +111903,7 @@ Woroschilowgrad|
 Worst Case|m
 Worstcase|m
 Wort|n
+Wort-Gottes-Feier|f
 Wort-für-Wort-Übersetzung|f
 Wortakzent|m
 Wortanfang|m
@@ -110897,6 +111952,7 @@ Wortgeplänkel|n
 Wortgeschichte|f
 Wortgewandtheit|f
 Wortgottesdienst|m
+Wortgottesfeier|f
 Wortgrammatik|f
 Wortgrenze|f
 Wortgruppe|f
@@ -111003,6 +112059,7 @@ Wudu|m
 Wuhan|
 Wuhne|f
 Wuhr|n
+Wuhu|
 Wuischke|
 Wukovits|
 Wulfenit|n
@@ -111110,6 +112167,7 @@ Wurst|f
 Wurstblatt|n
 Wurstbrot|n
 Wurstbrötchen|n
+Wurstbude|f
 Wurstel|m
 Wurstelprater|m
 Wurstfabrik|f
@@ -111229,6 +112287,7 @@ Wärmegewitter|n
 Wärmeglocke|f
 Wärmegrad|m
 Wärmehalle|f
+Wärmeisolierung|f
 Wärmelampe|f
 Wärmelehre|f
 Wärmeleitpaste|f
@@ -111240,6 +112299,7 @@ Wärmequelle|f
 Wärmer|m
 Wärmerückgewinnung|f
 Wärmesack|m
+Wärmeschicht|f
 Wärmeschutz|m
 Wärmesensor|m
 Wärmespeicher|m
@@ -111324,9 +112384,11 @@ Würfelzucker|m
 Würgassen|
 Würgeengel|m
 Würgegeräusch|n
+Würgegriff|m
 Würgengel|m
 Würger|m
 Würger von Boston|m
+Würgeschlange|f
 Würm-Kaltzeit|f
 Würmsee|m
 Würselen|
@@ -111495,9 +112557,13 @@ Xhosa|m;f
 Xi|n
 Xiamen|
 Xiang|
+Xianyang|
 Xibalba|n
 Ximénez|m
+Xining|
 Xinjiang|
+Xinxiang|
+Xinyang|
 Xiphopagie|f
 Xiphophorus|
 Xitsonga|
@@ -111571,9 +112637,11 @@ Yamen|m
 Yamoussoukro|
 Yamswurzel|f
 Yana|
+Yancheng|
 Yang|n
 Yangon|
 Yangtse|m
+Yangzhou|
 Yankee|m;f
 Yankee Doodle|m
 Yann|
@@ -111587,6 +112655,7 @@ Yard|n
 Yaren|
 Yastik|m
 Yawl|f
+Yazd|
 Ybbs|f
 Ybbsitz|
 Yeast|m
@@ -111607,9 +112676,13 @@ Yeti|m
 Yezide|m
 Yggdrasil|m
 Yi|
+Yibin|
+Yichang|
 Yin|n
+Yinchuan|
 Yippie|m
 Yips|m
+Yiwu|
 Ylang-Ylang|m
 Ylang-Ylang-Baum|m
 Ylang-Ylang-Öl|n
@@ -111619,6 +112692,7 @@ Yo-Yo|n
 Yobe|
 Yobibyte|n
 Yoga|m;n
+Yogaklasse|f
 Yogakurs|m
 Yogalates|n
 Yogalehrer|m
@@ -111674,10 +112748,12 @@ Yttriumoxid|n
 Yuan|m
 Yucca|f
 Yue|
+Yueyang|
 Yukatan|
 Yukatekisch|
 Yuko|m
 Yukon-Territorium|n
+Yunnan|
 Yuppie|m
 Yurok|n
 Yurumi|m
@@ -111875,6 +112951,7 @@ Zahnputzglas|n
 Zahnputztechnik|f
 Zahnrad|n
 Zahnradbahn|f
+Zahnradgetriebe|n
 Zahnradpumpe|f
 Zahnreihe|f
 Zahnreinigung|f
@@ -111931,6 +113008,7 @@ Zanksucht|f
 Zanne|m
 Zanni|m
 Zanshin|n
+Zaozhuang|
 Zapfanlage|f
 Zapfen|m
 Zapfengeld|n
@@ -112128,6 +113206,7 @@ Zehnmeterbrett|n
 Zehnpfennigstück|n
 Zehnt|m
 Zehntausend|f;n
+Zehntausendeck|n
 Zehntausendstel|n
 Zehntbesitz|m
 Zehnte|m
@@ -112488,6 +113567,7 @@ Zentralafrikaner|m
 Zentralafrikanerin|f
 Zentralafrikanische Republik|f
 Zentralamerika|
+Zentralarchiv|n
 Zentralasien|
 Zentralbank|f
 Zentralbau|m
@@ -112609,6 +113689,7 @@ Zeste|f
 Zestenreißer|m
 Zesteur|m
 Zeta|n
+Zetas|
 Zetergeschrei|n
 Zetermordio|n
 Zett|n
@@ -112622,6 +113703,7 @@ Zettelwirtschaft|f
 Zeug|n
 Zeuge|m
 Zeugenaussage|f
+Zeugenbefragung|f
 Zeugenbeistand|m
 Zeugenberg|m
 Zeugenschaft|f
@@ -112648,6 +113730,12 @@ Zeulenroda-Triebes|
 Zeus|m
 Zeven|
 Zezidie|f
+Zhangjiagang|
+Zhanjiang|
+Zhaoqing|
+Zhejiang|
+Zhengzhou|
+Zhenjiang|
 Zhuang|
 Zibbe|f
 Zibebe|f
@@ -112675,6 +113763,7 @@ Ziegel|m
 Ziegelbau|m
 Ziegelbauwerk|n
 Ziegelbrenner|m
+Ziegelbrocken|m
 Ziegelbrunnen|m
 Ziegeldach|n
 Ziegeldorf|n
@@ -112706,6 +113795,7 @@ Ziegenfellschlauch|m
 Ziegenfleisch|n
 Ziegenfußporling|m
 Ziegenherde|f
+Ziegenhirte|m
 Ziegenhuf|m
 Ziegenkadaver|m
 Ziegenkäse|m
@@ -112740,6 +113830,7 @@ Ziehzeit|f
 Ziel|n
 Zielanflug|m
 Zielbahnhof|m
+Zielerreichung|f
 Zielfernrohr|n
 Zielflughafen|m
 Zielfoto|n;f
@@ -112839,6 +113930,7 @@ Zigarillo|m;n;f
 Zigarre|f
 Zigarrenasche|f
 Zigarrenbox|f
+Zigarrendunst|m
 Zigarrenetui|n
 Zigarrengeruch|m
 Zigarrenhändler|m
@@ -112903,6 +113995,8 @@ Zimmerhandwerk|n
 Zimmerherr|m
 Zimmerin|f
 Zimmerjunge|m
+Zimmerkellner|m
+Zimmerkellnerin|f
 Zimmerklosett|n
 Zimmerkollege|m
 Zimmerkollegin|f
@@ -113362,14 +114456,17 @@ Zuckerbäcker|m
 Zuckerbäckerei|f
 Zuckerbäckerin|f
 Zuckerdose|f
+Zuckererbse|f
 Zuckererkrankung|f
 Zuckerersatz|m
 Zuckererzeugung|f
 Zuckerfabrik|f
 Zuckerfabrikant|m
 Zuckerfest|n
+Zuckergehalt|m
 Zuckerglasur|f
 Zuckerguss|m
+Zuckerhandel|m
 Zuckerhut|m
 Zuckerindustrie|f
 Zuckerknappheit|f
@@ -113595,6 +114692,7 @@ Zuni|n
 Zuordnung|f
 Zupendler|m
 Zupfinstrument|n
+Zur-Ruhe-Bringen|n
 Zurechnungsfähigkeit|f
 Zurechtweisen|n
 Zurek|m
@@ -114587,6 +115685,7 @@ finite Verbform|f
 finites Verb|n
 finno-ugrische Sprache|f
 fis-Moll|n
+fledermausähnlich|
 flektierende Sprache|f
 formale Sprache|f
 formikonisches Wort|n
@@ -114609,6 +115708,7 @@ funktionale Satzperspektive|f
 funktionelle Belastung|f
 funktionelle Gruppe|f
 fusionierende Sprache|f
+fünfte Kolonne|f
 g|n
 g-Moll|n
 ganze Zahl|f
@@ -114646,6 +115746,7 @@ geschriebene Sprache|f
 gesprochene Sprache|f
 gewendelte Treppe|f
 gis-Moll|n
+glatte Muskulatur|f
 gleichfarbiger Läufer|m
 goldene Hochzeit|f
 goldener Schuss|f
@@ -114773,6 +115874,7 @@ konstitutionelle Monarchie|f
 konstitutive Regel|f
 kontrastive Linguistik|f
 konversationelle Implikatur|f
+kritische Infrastruktur|f
 kubanischer Peso|
 kulturelle Aneignung|f
 kurdische Sprache|f
@@ -114929,6 +116031,7 @@ präskriptive Grammatik|f
 psychische Epidemie|f
 q|n
 quantitative Linguistik|
+quergestreifte Muskulatur|f
 r|n
 rationale Zahl|f
 rechtweisend Nord|
@@ -115315,6 +116418,7 @@ zweite Lautverschiebung|f
 ÖVP-Wählerin|f
 ÖWB|n
 Öbstlerin|f
+Öchsle|n
 Öde|f
 Ödem|n
 Ödenburg|
@@ -115460,6 +116564,7 @@ zweite Lautverschiebung|f
 Öltank|m
 Öltanker|m
 Ölteppich|m
+Öltonne|f
 Ölverkauf|m
 Ölverschmutzung|f
 Ölvorkommen|n
@@ -115694,6 +116799,7 @@ zweite Lautverschiebung|f
 Überschallflug|m
 Überschallflugzeug|n
 Überschallgeschwindigkeit|f
+Überschalljet|m
 Überschallknall|m
 Überschallrakete|f
 Überschalltransporter|m
@@ -115764,6 +116870,7 @@ zweite Lautverschiebung|f
 Überwachungsmonitor|m
 Überwachungssoftware|f
 Überwachungsstaat|m
+Überwachungsteam|n
 Überwachungsvideo|n
 Überwasserfahrt|f
 Überweidung|f
@@ -115793,6 +116900,7 @@ zweite Lautverschiebung|f
 Übungstisch|m
 Übungswehe|f
 Üppigkeit|f
+Ürümqi|
 Üsküdar|
 ö-Laut|m
 öffentliche Hand|f
