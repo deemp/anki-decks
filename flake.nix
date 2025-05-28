@@ -5,6 +5,7 @@
     systems.url = "github:nix-systems/default";
     flake-parts.url = "github:hercules-ci/flake-parts";
   };
+
   outputs =
     inputs:
     inputs.flake-parts.lib.mkFlake { inherit inputs; } {
@@ -26,7 +27,7 @@
             commands = {
               tools = [
                 pkgs.poetry
-                pkgs.chromedriver
+                # pkgs.chromedriver
               ];
             };
           };
