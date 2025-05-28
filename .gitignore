@@ -7,3 +7,4 @@ geckodriver.log
 logs.
 .vscode
 .direnv
+.env
