@@ -1928,7 +1928,7 @@
 11204.0|runter|runter
 11228.0|Egotrip|der Egotrip
 11268.0|deutlich|deutlich
-11281.0|Kunstausstellung|Kunstausstellung
+11281.0|Kunstausstellung|die Kunstausstellung
 11296.0|Au|die Au
 11303.0|Bann|der Bann
 11307.0|anfassen|anfassen
@@ -4744,7 +4744,7 @@
 42883.0|erörtern|erörtern
 42887.0|bewirken|bewirken
 42896.0|Geige|die Geige
-42901.0|Wertekanon|Wertekanon
+42901.0|Wertekanon|der Wertekanon
 42904.0|banal|banal
 42910.0|Ouvertüre|die Ouvertüre
 42914.0|Grand|der Grand
@@ -5153,7 +5153,7 @@
 48694.0|zwecklos|zwecklos
 48715.0|Kommissar|der Kommissar
 48718.0|Martinshorn|das Martinshorn
-48722.0|Aua|Aua
+48722.0|Aua|das Aua
 48726.0|Protektor|der Protektor
 48727.0|Pfefferspray|der Pfefferspray
 48727.001|Pfefferspray|das Pfefferspray
@@ -6712,7 +6712,7 @@
 74092.0|VW|der VW
 74104.0|Möhrchen|das Möhrchen
 74108.0|Filet|das Filet
-74125.0|Sonnengruß|Sonnengruß
+74125.0|Sonnengruß|der Sonnengruß
 74131.0|Schwimmbad|das Schwimmbad
 74197.0|hintereinander|hintereinander
 74204.0|Liebeskummer|der Liebeskummer
@@ -8581,7 +8581,7 @@
 108063.0|Polyester|der Polyester
 108064.0|Bauschaum|der Bauschaum
 108099.0|Kalaschnikow|die Kalaschnikow
-108100.0|Colt|Colt
+108100.0|Colt|der Colt
 108101.0|Bajonett|das Bajonett
 108110.0|Zähneputzen|das Zähneputzen
 108111.0|pullern|pullern
@@ -8703,6 +8703,7 @@
 111511.0|schweißtreibend|schweißtreibend
 111520.0|Glut|die Glut
 111532.0|Graben|der Graben
+111532.001|Graben|das Graben
 111537.0|Scheu|die Scheu
 111580.0|Übel|das Übel
 111627.0|Schar|die Schar
